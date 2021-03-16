@@ -1,0 +1,662 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<title>Шкільна тема: конспекти, безкоштовні твори, лекції, реферати, ГДЗ, доповіді</title>
+	<meta http-equiv="Content-Type" content="UTF-8" />
+	<link rel="shortcut icon" href="http://www.studynotes.com.ua/favicon.ico" />
+	<link rel="stylesheet" href="http://www.studynotes.com.ua/wp-content/themes/blix/style.css" type="text/css" media="screen, projection" />
+	<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://www.studynotes.com.ua/feed/" />
+	<link rel="alternate" type="text/xml" title="RSS .92" href="http://www.studynotes.com.ua/feed/rss/" />
+	<link rel="alternate" type="application/atom+xml" title="Atom 0.3" href="http://www.studynotes.com.ua/feed/atom/" />
+	<link rel="pingback" href="http://www.studynotes.com.ua/xmlrpc.php" />
+	<script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
+	<meta name=viewport content="width=device-width, initial-scale=1">
+		<link rel='stylesheet' id='wp-pagenavi-css'  href='http://www.studynotes.com.ua/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70' type='text/css' media='' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.studynotes.com.ua/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.studynotes.com.ua/wp-includes/wlwmanifest.xml" /> 
+<link rel='index' title='Шкільна тема: конспекти, безкоштовні твори, лекції, реферати, ГДЗ, доповіді' href='http://www.studynotes.com.ua' />
+
+
+<!-- all in one seo pack 1.4.6.7 [186,329] -->
+<meta name="description" content="Безкоштовні реферати та домашні завдання, база постійно поповнюється. Тут ви знайдете кращі шкільні твори, конспекти або курсову роботу, витративши мінімум часу." />
+<meta name="keywords" content="реферат, домашні завдання, шкільні твори, конспекти, курсова робота, ГДЗ" />
+<!-- /all in one seo pack -->
+<noindex><script type="text/javascript" src="https://b.c8.net.ua/b/js/swfobject.js"></script>
+<script type="text/javascript" src="https://b.c8.net.ua/b/js/sys.js"></script>
+<script language="javascript" src="http://studynotes-com-ua.advon.net/domen_ads.js" rel="nofollow"></script>
+<script type='text/javascript'>
+                (function() {
+                var w = window,
+                        d = document,
+                        protocol =/https/i.test(w.location.protocol) ? 'https:' : 'http:',
+                        aml = typeof admixerML !== 'undefined' ? admixerML : { };
+                aml.fn = aml.fn || [];
+                aml.invPath = aml.invPath || (protocol + '//inv-nets.admixer.net/');
+                aml.cdnPath = aml.cdnPath || (protocol + '//cdn.admixer.net/');
+                if (!w.admixerML)
+                {
+                    var lodash = document.createElement('script');
+                    lodash.id = 'amlScript';
+                    lodash.async = true;
+                    lodash.type = 'text/javascript';
+                    lodash.src = aml.cdnPath + 'scripts3/loader2.js';
+                    var node = d.getElementsByTagName('script')[0];
+                    node.parentNode.insertBefore(lodash, node);
+                    w.admixerML = aml;
+                }
+            })();
+            </script>
+<script type='text/javascript'>
+admixerML.fn.push(function() {
+admixerML.defineSlot({z: '50f5adb8-7a88-407b-a905-6d477c8415a0', ph: 'admixer_50f5adb87a88407ba9056d477c8415a0_zone_971_sect_756_site_743', i: 'inv-nets'});
+admixerML.defineSlot({z: '25ad19a7-66f9-46fb-8f1c-447ec0e4db2e', ph: 'admixer_25ad19a766f946fb8f1c447ec0e4db2e_zone_2156_sect_756_site_743', i: 'inv-nets'});
+admixerML.defineSlot({z: 'cb71c4b0-c4f8-4674-b145-fb2feb2bf840', ph: 'admixer_cb71c4b0c4f84674b145fb2feb2bf840_zone_17905_sect_756_site_743', i: 'inv-nets'});
+admixerML.singleRequest();
+});
+</script></noindex>
+</head>
+
+<body><div id="container">
+<!--noindex--><script type="text/javascript">
+ var _bml = _bml || {};
+ _bml._accountId = 150;
+</script>
+<script type="text/javascript" src="//advon.net/referator.js" charset="UTF-8"></script>
+<!--/noindex-->
+
+<!-- header ................................. -->
+<div id="header" >
+	<div>
+		<div class="logo"><a href="http://www.studynotes.com.ua"><span>studyNotes.</span>com.ua</a></div>
+		<h1>Шкільна тема: конспекти, безкоштовні твори, лекції, реферати, ГДЗ, доповіді</h1>
+	</div>
+	<div class="header_image"></div>	</div> <!-- /header -->
+
+<!-- navigation ................................. -->
+<div id="navigation">
+
+	<ul>
+		<li class="selected"><a href="http://www.studynotes.com.ua"><span class="main_ico"></span><span class="nav_text">На главную</span></a></li>
+		<li><a href="http://order.textreferat.com/order/"><span class="by_ico"></span><span class="nav_text">Замовити реферат</span></a></li>
+		<li><a href="/drugie-sochineniya/"><span class="ready_ico"></span><span class="nav_text">Готові твори</span></a></li>
+		<li><a href="/novye-sochineniya/"><span class="new_ico"></span><span class="nav_text">Нові реферати</span></a></li>
+		<li><a href="/raznye-sochineniya/"><span class="short_ico"></span><span class="nav_text">Стислі перекази</span></a></li>
+					</ul>
+
+</div><!-- /navigation -->
+<div class="content_wrap">
+	
+	<div class="left_col"><div class="cats_btn"></div>
+	
+	<ul class="categories">
+		<li class="cat-item cat-item-40"><a href="http://www.studynotes.com.ua/cat/informatika/" title="Курсові з програмування | Готові курсові | Курсові на замовлення">Інформатика</a>
+<ul class='children'>
+	<li class="cat-item cat-item-43"><a href="http://www.studynotes.com.ua/cat/informatika/integrirovanie/" title="Курсова Інтегрування лінійного диференціального рівняння з допомогою статечних рядів. Ключове слово: курсова дифуры ряди інтеграл">Інтегрування</a>
+</li>
+	<li class="cat-item cat-item-41"><a href="http://www.studynotes.com.ua/cat/informatika/kompyuterizaciya/" title="Курсова Комп&apos;ютеризація суспільства. Ключове слово: інтернет компьютинг технології управління">Комп&apos;ютеризація</a>
+</li>
+	<li class="cat-item cat-item-42"><a href="http://www.studynotes.com.ua/cat/informatika/programmirovanie/" title="На сайті представлені курсові і лабораторні роботи з програмування що для школярів і учнів вузів">Програмування</a>
+</li>
+	<li class="cat-item cat-item-44"><a href="http://www.studynotes.com.ua/cat/informatika/telekommunikacii/" title="Курсова Комп&apos;ютерні сіті й телекомунікації. Ключове слово: одноранговая зірка кільце ЛЗ">Телекомунікації</a>
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-1"><a href="http://www.studynotes.com.ua/cat/astronomiya/" title="Реферат Астрономія, конспекти на задану тему Почала астрономії, тут є ще курсові праці та дипломи, шпаргалки і, реферати і доповіді.">Астрономія</a>
+<ul class='children'>
+	<li class="cat-item cat-item-5"><a href="http://www.studynotes.com.ua/cat/astronomiya/vnezemnye-civilizacii/" title="Астрономія. Реферат Внеземные цивілізації. Ключове слово: НЛО інопланетяни бермудський трикутник тунгуський метеорит">Внеземные цивілізації</a>
+</li>
+	<li class="cat-item cat-item-3"><a href="http://www.studynotes.com.ua/cat/astronomiya/nachala-astronomii/" title="Рефераты і курсові роботи з тему Астрономія, початок космічної ери епохи безпосередніх астрономічних експериментів ">Почала астрономії</a>
+</li>
+	<li class="cat-item cat-item-4"><a href="http://www.studynotes.com.ua/cat/astronomiya/solnechnaya-sistema/" title="Астрономія. Реферат Сонячна система. Ключове слово: походження сонячної системи зародження життя планети">Сонячна система</a>
+</li>
+	<li class="cat-item cat-item-6"><a href="http://www.studynotes.com.ua/cat/astronomiya/sovremennaya-astronomiya/" title="Реферат: Сучасна астрономія. Особливості астрономії сучасності. Зміни способу пізнання ">Сучасна астрономія</a>
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-15"><a href="http://www.studynotes.com.ua/cat/biologiya/" title="Реферат біологія, анатомія реферати зоологія реферат, загальна біологія, теорія еволюції реферат тварини реферати">Біологія</a>
+<ul class='children'>
+	<li class="cat-item cat-item-16"><a href="http://www.studynotes.com.ua/cat/biologiya/botanika/" title="Усі реферати на задану тему Біологія і Ботаника">Ботаника</a>
+</li>
+	<li class="cat-item cat-item-18"><a href="http://www.studynotes.com.ua/cat/biologiya/genetika/" title="Огляди і конспекти розділ Генетика">Генетика</a>
+</li>
+	<li class="cat-item cat-item-19"><a href="http://www.studynotes.com.ua/cat/biologiya/evolyuciya/" title="Узагальнюючий розділ Еволюція життя Землі">Еволюція</a>
+</li>
+	<li class="cat-item cat-item-17"><a href="http://www.studynotes.com.ua/cat/biologiya/zoologiya/" title="Зоология: Посібник на підготовку до іспитів Конспект лекцій">Зоология</a>
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-20"><a href="http://www.studynotes.com.ua/cat/voennoe-delo/" title="Десь на сторінках цього сайту Ви натрапите на безліч план конспектів">Військове справа</a>
+<ul class='children'>
+	<li class="cat-item cat-item-23"><a href="http://www.studynotes.com.ua/cat/voennoe-delo/oborona/" title="Збірник конспектів по цивільну оборону розробили мною щодо занять в групах ">Оборону</a>
+</li>
+	<li class="cat-item cat-item-24"><a href="http://www.studynotes.com.ua/cat/voennoe-delo/vooruzhenie/" title="Нові й перспективні зразки озброєння, коштів індивідуальної бронезахисту і необхідність активної оборони, вступники для оснащення установ">Озброєння</a>
+</li>
+	<li class="cat-item cat-item-22"><a href="http://www.studynotes.com.ua/cat/voennoe-delo/strategiya/" title="Конспект лекцій містить опис теоретичних і практичних підходів до розробки стратегії ">Стратегія</a>
+</li>
+	<li class="cat-item cat-item-21"><a href="http://www.studynotes.com.ua/cat/voennoe-delo/taktika/" title="конспекти бойовій підготовці пожежна тактика профілактика псп техніка фізична підготовка">Тактика</a>
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-93"><a href="http://www.studynotes.com.ua/cat/uchitelyu/" title="Просмотреть все записи в рубрике Вчителю">Вчителю</a>
+<ul class='children'>
+	<li class="cat-item cat-item-96"><a href="http://www.studynotes.com.ua/cat/uchitelyu/konspekti-urokiv/" title="Просмотреть все записи в рубрике Конспекти уроків">Конспекти уроків</a>
+</li>
+	<li class="cat-item cat-item-95"><a href="http://www.studynotes.com.ua/cat/uchitelyu/konspekty-zanyatij/" title="Просмотреть все записи в рубрике Конспекты сценаріїв">Конспекты сценаріїв</a>
+</li>
+	<li class="cat-item cat-item-97"><a href="http://www.studynotes.com.ua/cat/uchitelyu/planirovanie-urokov/" title="Просмотреть все записи в рубрике Планування уроків">Планування уроків</a>
+</li>
+	<li class="cat-item cat-item-94"><a href="http://www.studynotes.com.ua/cat/uchitelyu/razrabotki-urokov/" title="Просмотреть все записи в рубрике Розробки уроків">Розробки уроків</a>
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-25"><a href="http://www.studynotes.com.ua/cat/geografiya/" title="Готові домашні завдання щодо географії">Географія</a>
+<ul class='children'>
+	<li class="cat-item cat-item-26"><a href="http://www.studynotes.com.ua/cat/geografiya/kontinenty/" title="Країни Рад і континенти: Довідник школяра Світ можна">Континенты</a>
+</li>
+	<li class="cat-item cat-item-27"><a href="http://www.studynotes.com.ua/cat/geografiya/strany/" title="Ваші реферати, твори, курсові, ГДЗ (готові домашні завдання)">Країни</a>
+</li>
+	<li class="cat-item cat-item-29"><a href="http://www.studynotes.com.ua/cat/geografiya/landshafty/" title="Ландшафт відповідно до сучасному уявленню виконує средообразующие, ресурсосодержащие і ресурсовоспроизводящие функції">Ландшафти</a>
+</li>
+	<li class="cat-item cat-item-28"><a href="http://www.studynotes.com.ua/cat/geografiya/narody/" title="Форум з пошуку ГДЗ і решебников">Народи</a>
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-8"><a href="http://www.studynotes.com.ua/cat/ekonomika/" title="Реферат на уроках менеджмент, маркетинг, світова економіка">Економіка</a>
+<ul class='children'>
+	<li class="cat-item cat-item-9"><a href="http://www.studynotes.com.ua/cat/ekonomika/bankovskoe-delo/" title="Теми рефератів, курсових, дипломних робіт з банківської справи">Банківська справа</a>
+</li>
+	<li class="cat-item cat-item-11"><a href="http://www.studynotes.com.ua/cat/ekonomika/makroekonomika/" title="Реферат Макроекономіка. Ключове слово: предмет показники взаємозв&apos;язок дослідження">Макроекономіка</a>
+</li>
+	<li class="cat-item cat-item-10"><a href="http://www.studynotes.com.ua/cat/ekonomika/osnovy-ekonomiki/" title="Основи економічної теорії, скачати реферат безплатно">Основи економіки</a>
+</li>
+	<li class="cat-item cat-item-12"><a href="http://www.studynotes.com.ua/cat/ekonomika/mirovaya-ekonomika/" title="Реферат на уроках менеджмент, маркетинг, світова економіка">Світова економіка</a>
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-30"><a href="http://www.studynotes.com.ua/cat/estestvoznanie/" title="Хімія, Естествознание, ОБЖ і ІКТ. Архів матеріалів">Естествознание</a>
+<ul class='children'>
+	<li class="cat-item cat-item-33"><a href="http://www.studynotes.com.ua/cat/estestvoznanie/biosfera/" title="Біомаса, чи жива речовина біосфери. Закономірності поширення біомаси в біосфері">Біосфера</a>
+</li>
+	<li class="cat-item cat-item-31"><a href="http://www.studynotes.com.ua/cat/estestvoznanie/vselennaya-estestvoznanie/" title="Людина й Вселенная,Философия науки, історія науки, історія та філософія науки, кандидатський іспит">Всесвіт</a>
+</li>
+	<li class="cat-item cat-item-34"><a href="http://www.studynotes.com.ua/cat/estestvoznanie/klimat/" title="Розмаїття кліматичних умов біля Росії. Климатообразующие чинники. Готові твори для випускного іспиту з літератури">Клімат</a>
+</li>
+	<li class="cat-item cat-item-32"><a href="http://www.studynotes.com.ua/cat/estestvoznanie/religii/" title="Культурно-історичні особливості народів Росії. Основні релігії, поширені країни">Релігії</a>
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-88"><a href="http://www.studynotes.com.ua/cat/literatura/" title="Просмотреть все записи в рубрике Література">Література</a>
+<ul class='children'>
+	<li class="cat-item cat-item-91"><a href="http://www.studynotes.com.ua/cat/literatura/belorusskie-sochineniya/" title="Просмотреть все записи в рубрике Білоруські твори">Білоруські твори</a>
+</li>
+	<li class="cat-item cat-item-89"><a href="http://www.studynotes.com.ua/cat/literatura/topiki-po-anglijskomu/" title="Просмотреть все записи в рубрике Топики англійської">Топики англійської</a>
+</li>
+	<li class="cat-item cat-item-90"><a href="http://www.studynotes.com.ua/cat/literatura/topiki-po-nemeckomu/" title="Просмотреть все записи в рубрике Топики з німецької">Топики з німецької</a>
+</li>
+	<li class="cat-item cat-item-92"><a href="http://www.studynotes.com.ua/cat/literatura/esse-na-inostrannom-yazyke/" title="Просмотреть все записи в рубрике Шкільні твори">Шкільні твори</a>
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-45"><a href="http://www.studynotes.com.ua/cat/matematika/" title="Онлайн-программы на вирішення рівнянь, матриць, з дитинства інтегралів, завдань в галузі геометрії, полиномов і теорії ймовірностей">Математика</a>
+<ul class='children'>
+	<li class="cat-item cat-item-46"><a href="http://www.studynotes.com.ua/cat/matematika/algebra/" title="Рішення завдань із вищу математику, інформатики, програмування на замовлення. Бытро, якісно, недорого">Алгебра</a>
+</li>
+	<li class="cat-item cat-item-47"><a href="http://www.studynotes.com.ua/cat/matematika/geometriya/" title="Математика он-лайн - геометрія он-лайн, геометрія, рішення з геометрії, тругольник, трапеція, площа трикутника, площа трапеції, тангенс">Геометрія</a>
+</li>
+	<li class="cat-item cat-item-49"><a href="http://www.studynotes.com.ua/cat/matematika/preobrazovaniya/" title="У рубриці показані рішення типових завдань із темі тотожний образу перетворення алгебраїчних висловів. За позитивного рішення завдань необхідно використовувати формули">Перетворення</a>
+</li>
+	<li class="cat-item cat-item-48"><a href="http://www.studynotes.com.ua/cat/matematika/nachala-analiza/" title="Алгебра й конкуренції початку аналізу, у 11-му класі на тему &quot;Рішення текстових завдань ЄДІ&quot;. ">Почала аналізу</a>
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-98"><a href="http://www.studynotes.com.ua/cat/metodologiya/" title="Просмотреть все записи в рубрике Методологія">Методологія</a>
+<ul class='children'>
+	<li class="cat-item cat-item-101"><a href="http://www.studynotes.com.ua/cat/metodologiya/vsemirnaya-literatura/" title="Просмотреть все записи в рубрике Всесвітня література">Всесвітня література</a>
+</li>
+	<li class="cat-item cat-item-99"><a href="http://www.studynotes.com.ua/cat/metodologiya/sborniki-po-literature/" title="Просмотреть все записи в рубрике Збірники з літератури">Збірники з літератури</a>
+</li>
+	<li class="cat-item cat-item-102"><a href="http://www.studynotes.com.ua/cat/metodologiya/ocherki-po-literature/" title="Просмотреть все записи в рубрике Нариси з літературі">Нариси з літературі</a>
+</li>
+	<li class="cat-item cat-item-100"><a href="http://www.studynotes.com.ua/cat/metodologiya/xarakteristiki-geroev/" title="Просмотреть все записи в рубрике Характеристики героїв">Характеристики героїв</a>
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-108"><a href="http://www.studynotes.com.ua/cat/iskusstvo-slova/" title="Просмотреть все записи в рубрике Мистецтво слова">Мистецтво слова</a>
+<ul class='children'>
+	<li class="cat-item cat-item-111"><a href="http://www.studynotes.com.ua/cat/iskusstvo-slova/kriticheskaya-literatura/" title="Просмотреть все записи в рубрике Критична література">Критична література</a>
+</li>
+	<li class="cat-item cat-item-110"><a href="http://www.studynotes.com.ua/cat/iskusstvo-slova/literaturnaya-stranichka/" title="Просмотреть все записи в рубрике Літературна сторінка">Літературна сторінка</a>
+</li>
+	<li class="cat-item cat-item-112"><a href="http://www.studynotes.com.ua/cat/iskusstvo-slova/sovremennaya-literatura/" title="Просмотреть все записи в рубрике Сучасна література">Сучасна література</a>
+</li>
+	<li class="cat-item cat-item-109"><a href="http://www.studynotes.com.ua/cat/iskusstvo-slova/chitatelyu-xxi-stoletiya/" title="Просмотреть все записи в рубрике Читачеві ХХІ століття">Читачеві ХХІ століття</a>
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-35"><a href="http://www.studynotes.com.ua/cat/yazykoznanie/" title="Лексикография як розділ мовознавства, предмет і його вивчення, історія становлення та розвитку як наукового напрями">Мовознавство</a>
+<ul class='children'>
+	<li class="cat-item cat-item-37"><a href="http://www.studynotes.com.ua/cat/yazykoznanie/biografii-pisatelej/" title="Ця контрольна робота проводиться після вивчення курсу пов&apos;язані з фактами біографії письменників, їх творчим методом">Біографії письменників</a>
+</li>
+	<li class="cat-item cat-item-38"><a href="http://www.studynotes.com.ua/cat/yazykoznanie/kratkie-soderzhaniya/" title="Стислий зміст і характеристики головних героїв">Зарубіжна література</a>
+</li>
+	<li class="cat-item cat-item-39"><a href="http://www.studynotes.com.ua/cat/yazykoznanie/izlozheniya-proizvedenij/" title="Контрольні завдання для класу. Изложения сюжету творів. Перекази творчості письменників">Изложения творів</a>
+</li>
+	<li class="cat-item cat-item-36"><a href="http://www.studynotes.com.ua/cat/yazykoznanie/sochineniya-po-literature/" title="Методичні вказівки і контрольні роботи з російській мові й літератури ставлять за мету підготувати слухачів курсів до визначення твори ">Твори з літератури</a>
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-103"><a href="http://www.studynotes.com.ua/cat/russkij-yazyk/" title="Просмотреть все записи в рубрике Російську мову">Російську мову</a>
+<ul class='children'>
+	<li class="cat-item cat-item-107"><a href="http://www.studynotes.com.ua/cat/russkij-yazyk/sbornik-izlozhenij/" title="Просмотреть все записи в рубрике Збірник викладів">Збірник викладів</a>
+</li>
+	<li class="cat-item cat-item-105"><a href="http://www.studynotes.com.ua/cat/russkij-yazyk/uchebnye-materialy/" title="Просмотреть все записи в рубрике Навчальні матеріали">Навчальні матеріали</a>
+</li>
+	<li class="cat-item cat-item-104"><a href="http://www.studynotes.com.ua/cat/russkij-yazyk/russkaya-literatura/" title="Просмотреть все записи в рубрике Російська література">Російська література</a>
+</li>
+	<li class="cat-item cat-item-106"><a href="http://www.studynotes.com.ua/cat/russkij-yazyk/russkij-folklor/" title="Просмотреть все записи в рубрике Російський фольклор">Російський фольклор</a>
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-83"><a href="http://www.studynotes.com.ua/cat/ukranski-tvori/" title="Просмотреть все записи в рубрике Українські твори">Українські твори</a>
+<ul class='children'>
+	<li class="cat-item cat-item-85"><a href="http://www.studynotes.com.ua/cat/ukranski-tvori/vsesvitnya-literatura/" title="Всесвітня література">Всесвітня література</a>
+</li>
+	<li class="cat-item cat-item-87"><a href="http://www.studynotes.com.ua/cat/ukranski-tvori/ekzamenacijni-tvori/" title="Просмотреть все записи в рубрике Екзаменаційні твори">Екзаменаційні твори</a>
+</li>
+	<li class="cat-item cat-item-84"><a href="http://www.studynotes.com.ua/cat/ukranski-tvori/zarubizhna-literatura/" title="Зарубіжна література">Зарубіжна література</a>
+</li>
+	<li class="cat-item cat-item-86"><a href="http://www.studynotes.com.ua/cat/ukranski-tvori/ukranska-literatura/" title="Українська література">Українська література</a>
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-50"><a href="http://www.studynotes.com.ua/cat/fizika/" title="готові домашні завдання щодо фізиці для підручника Збірник завдань із фізиці">Фізика</a>
+<ul class='children'>
+	<li class="cat-item cat-item-53"><a href="http://www.studynotes.com.ua/cat/fizika/kvantovaya-fizika/" title="Квантова природа випромінювання">Квантова фізика</a>
+</li>
+	<li class="cat-item cat-item-51"><a href="http://www.studynotes.com.ua/cat/fizika/termodinamika/" title="Скачать безплатно ГДЗ, готові домашні завдання, рішення, решебник до підручника Фізики">Термодинаміка</a>
+</li>
+	<li class="cat-item cat-item-52"><a href="http://www.studynotes.com.ua/cat/fizika/elektrodinamika/" title="Тут ви можете скачати Готові Домашні Завдання (ГДЗ) з різних предметів програми ">Электродинамика</a>
+</li>
+	<li class="cat-item cat-item-54"><a href="http://www.studynotes.com.ua/cat/fizika/yadernaya-fizika/" title="Атомна і ядерна фізика">Ядерна фізика</a>
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-55"><a href="http://www.studynotes.com.ua/cat/ximiya/" title="Хімія - уроки, завдання, рішення, тести, робота, квитки">Хімія</a>
+<ul class='children'>
+	<li class="cat-item cat-item-56"><a href="http://www.studynotes.com.ua/cat/ximiya/analiticheskaya-ximiya/" title="квитки, відповіді по хімії, підручник хімії, ЄДІ 2009 ">Аналітична хімія</a>
+</li>
+	<li class="cat-item cat-item-58"><a href="http://www.studynotes.com.ua/cat/ximiya/kvantovaya-ximiya/" title="69 питань будова атома квантово-механические уявлення про атомі ">Квантова хімія</a>
+</li>
+	<li class="cat-item cat-item-59"><a href="http://www.studynotes.com.ua/cat/ximiya/kolloidnaya-ximiya/" title="Зайшовши на Ваш сайт зрозуміла, що хімія мені - це солодка ностальгія">Коллоидная хімія</a>
+</li>
+	<li class="cat-item cat-item-57"><a href="http://www.studynotes.com.ua/cat/ximiya/organicheskaya-ximiya/" title="хімія, органічна хімія, неорганічна хімія">Органічна хімія</a>
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-60"><a href="http://www.studynotes.com.ua/cat/yurisprudenciya/" title="колекція рефератів, предмет Юриспруденція">Юриспруденція</a>
+<ul class='children'>
+	<li class="cat-item cat-item-62"><a href="http://www.studynotes.com.ua/cat/yurisprudenciya/grazhdanskoe-pravo/" title="Громадянське право скачати реферати твори дипломні шпаргалки курсові.">Громадянське право</a>
+</li>
+	<li class="cat-item cat-item-63"><a href="http://www.studynotes.com.ua/cat/yurisprudenciya/ugolovnoe-pravo/" title="Кримінальну право Росії">Кримінальну право</a>
+</li>
+	<li class="cat-item cat-item-61"><a href="http://www.studynotes.com.ua/cat/yurisprudenciya/mezhdunarodnoe-pravo/" title="список рефератів, скачати реферати, предмет: Юриспруденція">Міжнародне право</a>
+</li>
+	<li class="cat-item cat-item-64"><a href="http://www.studynotes.com.ua/cat/yurisprudenciya/imushhestvennoe-pravo/" title="Майнове право, реферати по юриспруденції, шпаргалки">Майнове право</a>
+</li>
+</ul>
+</li>
+ 
+	</ul>
+	<div class="left_bann">
+	<noindex>
+<center><div id="c8net_code_f3642913"></div></center>
+<script language="JavaScript">
+//<!--
+
+var c8_metric = '';
+
+if(undefined === c8_passback) var c8_passback = [];
+c8_passback['f3642','9'] = '';
+
+var c8_sa;
+if (undefined===c8_sa) c8_sa='';
+show_code('f3642','9','13','240','400','c8net_code_f3642913');
+//-->
+</script>
+<br />
+<center><script type='text/javascript'>
+(function () {
+	var w = window, d = document;
+	w.admixZArr = (w.admixZArr || []);
+	w.admixerSmOptions = (w.admixerSmOptions || {});
+	w.admixerSmOptions.showAdsOnLoad = true;
+	if (!w.admixerSm) {
+	    var adms = document.createElement('script');
+	    adms.async = true;
+	    adms.type = 'text/javascript';
+	    adms.src = 'http://cdn.admixer.net/scriptlib/asm2.js?v=3';
+	    var node = d.getElementsByTagName('script')[0];
+	    node.parentNode.insertBefore(adms, node);
+	}
+})();
+</script>
+<div id="admixer_async_1075930524"></div>
+<script type="text/javascript">
+    window.admixZArr = (window.admixZArr || []);
+    window.admixZArr.push({ z: '25ad19a7-66f9-46fb-8f1c-447ec0e4db2e', ph: 'admixer_async_1075930524'});
+</script></center></noindex></div>
+	</div>
+	<!-- content ................................. -->
+	<div id="content">
+		<form action="/index.php" method="get" class="seach_frm">
+		<fieldset>
+			<input value="" type="text" name="s" id="s" placeholder="Пошук..." />
+			<input type="submit" value="" id="searchbutton" name="searchbutton" />
+		</fieldset>
+	</form>
+	<div class="content_block">
+	
+	
+		
+		
+		<div class="entry">
+
+			<h2><a href="http://www.studynotes.com.ua/2016/06/m-e-saltykov-shhedrin-chast-2-2/" title="Permalink">М. Є. Салтиков-Щедрін &#8211; частина 2</a></h2>
+
+			<p>Обличив моїй знущанні з народу, р. рецензент пояснюють і причину цього глумління. Ця причина - недолік «гумору». Гумор ж рецензент визначає так: він, «не жертвуючи малим великому, велике зводить до малого, а мале піднімає до великого»; отже, головні елементи цього явища суть: великодушність, доброта та співчуття. Якщо визначення вірно, то мені дійсно залишається визнати себе винним. От і позитивно стверджую, що його не так І що мистецтво точно як і, як і наука, оцінює життєві явища єдино з їхньої внутрішньої вартості, це без будь-якого участі великодушності чи співчуття.</p>
+<p> <a href="http://www.studynotes.com.ua/2016/06/m-e-saltykov-shhedrin-chast-2-2/" class="more-link">(далее...)</a></p>
+
+			<!--<p class="info"><a href="" class="more">Продолжение</a>						
+			<em class="author"></em>
+						</p>-->
+
+		</div>
+
+	<!--
+	<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+				xmlns:dc="http://purl.org/dc/elements/1.1/"
+				xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+			<rdf:Description rdf:about="http://www.studynotes.com.ua/2016/06/m-e-saltykov-shhedrin-chast-2-2/"
+    dc:identifier="http://www.studynotes.com.ua/2016/06/m-e-saltykov-shhedrin-chast-2-2/"
+    dc:title="М. Є. Салтиков-Щедрін &#8211; частина 2"
+    trackback:ping="http://www.studynotes.com.ua/2016/06/m-e-saltykov-shhedrin-chast-2-2/trackback/" />
+</rdf:RDF>	-->
+	
+		
+	
+		
+		
+		<div class="entry">
+
+			<h2><a href="http://www.studynotes.com.ua/2016/06/m-e-saltykov-shhedrin-chast-1-2/" title="Permalink">М. Є. Салтиков-Щедрін &#8211; частина 1</a></h2>
+
+			<p>Хоча у звичаї, щоб белетристи брали пояснення з своїми критиками, але зважуюся відступити що від цього правила, оскільки у теперішньому випадку йдеться щодо художності виконання, а виключно правильність чи неправильності тих відносин і до життєвих явищ, які усмотрены автором надрукованій у «Віснику Європи» (квітень 1871) рецензії в недавно виданому мною творі «Історія одного міста».</p>
+<p> <a href="http://www.studynotes.com.ua/2016/06/m-e-saltykov-shhedrin-chast-1-2/" class="more-link">(далее...)</a></p>
+
+			<!--<p class="info"><a href="" class="more">Продолжение</a>						
+			<em class="author"></em>
+						</p>-->
+
+		</div>
+
+	<!--
+	<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+				xmlns:dc="http://purl.org/dc/elements/1.1/"
+				xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+			<rdf:Description rdf:about="http://www.studynotes.com.ua/2016/06/m-e-saltykov-shhedrin-chast-1-2/"
+    dc:identifier="http://www.studynotes.com.ua/2016/06/m-e-saltykov-shhedrin-chast-1-2/"
+    dc:title="М. Є. Салтиков-Щедрін &#8211; частина 1"
+    trackback:ping="http://www.studynotes.com.ua/2016/06/m-e-saltykov-shhedrin-chast-1-2/trackback/" />
+</rdf:RDF>	-->
+	
+		
+	
+		
+		
+		<div class="entry">
+
+			<h2><a href="http://www.studynotes.com.ua/2016/06/i-s-turgenev/" title="Permalink">І. З. Тургенєв</a></h2>
+
+			<p>Попри ексцентричність цієї книжки, що переходила місцями навіть у карикатурність, її лише із задоволенням читати любителі гумору... але, безсумнівно візьме до уваги та майбутній изобразитель тих зрушень, що змінили протягом останніх 100 років обличчя російського суспільства. Її автор, що пише зазвичай під псевдонімом Щедріна, але насправді який називався іменем Салтикова (до речі, нащадок древнього роду московських бояр Салтыковых), будучи запідозрений, подібно багатьох інших письменникам, у розповсюдженні ліберальних ідей, отримав земельну частку переслідувань й посилання при імператорі Ніколає I; пізніше він придбав більшої популярності серією нарисів, виданих років років п&apos;ятнадцять тому під назвою «Сцени провінційної життя» («Губернські нариси»), де з неприборкану силою бичував численні зловживання, що запанувала тоді під назвою влади й правосуддя.</p>
+<p> <a href="http://www.studynotes.com.ua/2016/06/i-s-turgenev/" class="more-link">(далее...)</a></p>
+
+			<!--<p class="info"><a href="" class="more">Продолжение</a>						
+			<em class="author"></em>
+						</p>-->
+
+		</div>
+
+	<!--
+	<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+				xmlns:dc="http://purl.org/dc/elements/1.1/"
+				xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+			<rdf:Description rdf:about="http://www.studynotes.com.ua/2016/06/i-s-turgenev/"
+    dc:identifier="http://www.studynotes.com.ua/2016/06/i-s-turgenev/"
+    dc:title="І. З. Тургенєв"
+    trackback:ping="http://www.studynotes.com.ua/2016/06/i-s-turgenev/trackback/" />
+</rdf:RDF>	-->
+	
+		
+	
+		
+		
+		<div class="entry">
+
+			<h2><a href="http://www.studynotes.com.ua/2016/06/g-3-eliseev/" title="Permalink">Р. 3. Елисеев</a></h2>
+
+			<p>Російська публіка знає Михайла Евграфовича Салтикова як талановитого сатирика, яку міг писати лише чорним на білому, тобто мав здатність побіжно схопити різні непривабливі явища російського життя і їх в поетичних образах.</p>
+<p>Але не знає те, що він був водночас людина чудово сміливою та сильною думки, що, коли треба було для розслідування обставин написати у випадку часопису якусь екстрену публіцистичну статтю чи рецензію на що вийшла світло книжку, він брався за це, і всі подібні статті, яких багато набереться в «Современннике» і «Вітчизняних записках» і який досі залишаються невідомі публіці...</p>
+<p> <a href="http://www.studynotes.com.ua/2016/06/g-3-eliseev/" class="more-link">(далее...)</a></p>
+
+			<!--<p class="info"><a href="" class="more">Продолжение</a>						
+			<em class="author"></em>
+						</p>-->
+
+		</div>
+
+	<!--
+	<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+				xmlns:dc="http://purl.org/dc/elements/1.1/"
+				xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+			<rdf:Description rdf:about="http://www.studynotes.com.ua/2016/06/g-3-eliseev/"
+    dc:identifier="http://www.studynotes.com.ua/2016/06/g-3-eliseev/"
+    dc:title="Р. 3. Елисеев"
+    trackback:ping="http://www.studynotes.com.ua/2016/06/g-3-eliseev/trackback/" />
+</rdf:RDF>	-->
+	
+		
+	
+		
+		
+		<div class="entry">
+
+			<h2><a href="http://www.studynotes.com.ua/2016/06/asmodej-nashego-vremeni-otcy-i-deti-turgenev-i-s-3-5-chast-4/" title="Permalink">Асмодей сьогодення (Батьки й діти Тургенєв І. З.) [3/5] &#8211; Частина 4</a></h2>
+
+			<p>А далі все ці предмети, як відомо кожному, навіть знає анатомії подібно Базарову, становлять частини тіла, і взагалі можуть називатися тілом. Базаров побачивши Одинцовой говорив: &quot;таке багате тіло&quot;; Миколо Петровичу побачивши Фенечки чи ніхто -- р. Тургенєв заборонив йому говорити, -- а думав: &quot;яке миленьке і біленьке тільце!&quot; Різниця, як погодиться всякий, дуже велика, тобто, по суті, немає жодної. Далі Миколо Петровичу не посадив ж Фенечку під скляний прозорий ковпак і милувався нею видали, спокійно, без тріпотіння у тілі, без злості й з солодким жахом. Але -- &quot;Фенечка була така молода, така самотня, Миколо Петровичу був такий добрий і скромний...</p>
+<p> <a href="http://www.studynotes.com.ua/2016/06/asmodej-nashego-vremeni-otcy-i-deti-turgenev-i-s-3-5-chast-4/" class="more-link">(далее...)</a></p>
+
+			<!--<p class="info"><a href="" class="more">Продолжение</a>						
+			<em class="author"></em>
+						</p>-->
+
+		</div>
+
+	<!--
+	<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+				xmlns:dc="http://purl.org/dc/elements/1.1/"
+				xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+			<rdf:Description rdf:about="http://www.studynotes.com.ua/2016/06/asmodej-nashego-vremeni-otcy-i-deti-turgenev-i-s-3-5-chast-4/"
+    dc:identifier="http://www.studynotes.com.ua/2016/06/asmodej-nashego-vremeni-otcy-i-deti-turgenev-i-s-3-5-chast-4/"
+    dc:title="Асмодей сьогодення (Батьки й діти Тургенєв І. З.) [3/5] &#8211; Частина 4"
+    trackback:ping="http://www.studynotes.com.ua/2016/06/asmodej-nashego-vremeni-otcy-i-deti-turgenev-i-s-3-5-chast-4/trackback/" />
+</rdf:RDF>	-->
+	
+		
+	
+		
+		
+		<div class="entry">
+
+			<h2><a href="http://www.studynotes.com.ua/2016/06/vosxozhdenie-k-proze-stixotvoreniya-lermontov-m-yu-chast-1/" title="Permalink">Сходження до прози (Вірші Лермонтов М. Ю.) &#8211; Частина 1</a></h2>
+
+			<p>vosxozhdenie-k-proze-stixotvoreniya-lermontov-m-yu Сходження до прози Автор статті: Вайль П. Лермонтов все життя намагався писати прозу, але у його час російської прози, щодо справи, був. По крайнього заходу — в сучасному розумінні цього слова, і, то, можливо, з Лермонтова це нове російська проза і розпочалося. У системі уявлень про мистецтво і життя, панівною у той епоху, поезія займала вище та практично єдине високе місце. Приблизно так, як древні греки вважали прозу звироднілої поезією, російський що пише людина на початку ХІХ століття думав дивним висловлюватися на папері не віршами. І Лермонтов, нітрохи не володіючи гармонійним складом потужні мізки і душі, йшов торованим шляхом, становлячи слова в рівні стовпчики стрункого розміру з безпомильні і звучними римами.</p>
+<p> <a href="http://www.studynotes.com.ua/2016/06/vosxozhdenie-k-proze-stixotvoreniya-lermontov-m-yu-chast-1/" class="more-link">(далее...)</a></p>
+
+			<!--<p class="info"><a href="" class="more">Продолжение</a>						
+			<em class="author"></em>
+						</p>-->
+
+		</div>
+
+	<!--
+	<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+				xmlns:dc="http://purl.org/dc/elements/1.1/"
+				xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+			<rdf:Description rdf:about="http://www.studynotes.com.ua/2016/06/vosxozhdenie-k-proze-stixotvoreniya-lermontov-m-yu-chast-1/"
+    dc:identifier="http://www.studynotes.com.ua/2016/06/vosxozhdenie-k-proze-stixotvoreniya-lermontov-m-yu-chast-1/"
+    dc:title="Сходження до прози (Вірші Лермонтов М. Ю.) &#8211; Частина 1"
+    trackback:ping="http://www.studynotes.com.ua/2016/06/vosxozhdenie-k-proze-stixotvoreniya-lermontov-m-yu-chast-1/trackback/" />
+</rdf:RDF>	-->
+	
+		
+	
+		
+		
+		<div class="entry">
+
+			<h2><a href="http://www.studynotes.com.ua/2016/06/dva-momenta-v-razvitii-tvorchestva-antona-pavlovicha-chexova-raznoe-chexov-a-p-3-3-chast-1/" title="Permalink">Два моменту у розвитку творчості Антона Павловича Чехова (Різне Чехов А. П.) [3/3] &#8211; Частина 1</a></h2>
+
+			<p>Два моменту падіння у розвитку творчості Антона Павловича Чехова [3/3] Автор статті: Альбов М. М. Відкрити це невідоме, те, що люди тужать, знайти у самого життя елементи правди, справедливості, краси, свободи -- з цього часу і невдовзі стає головне завдання пана Чехова. Ми розберемо всі відомі нам спроби освітити життя з цим нової погляду. Першу спробу іншим навряд чи можна назвати удачною. Я розумію його розповідь &quot;Моє життя&quot;. Герой цього оповідання, Полознев, на відміну всіх, позитивно від усіх попередніх героїв пана Чехова, керується у житті певним ідеалом.</p>
+<p> <a href="http://www.studynotes.com.ua/2016/06/dva-momenta-v-razvitii-tvorchestva-antona-pavlovicha-chexova-raznoe-chexov-a-p-3-3-chast-1/" class="more-link">(далее...)</a></p>
+
+			<!--<p class="info"><a href="" class="more">Продолжение</a>						
+			<em class="author"></em>
+						</p>-->
+
+		</div>
+
+	<!--
+	<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+				xmlns:dc="http://purl.org/dc/elements/1.1/"
+				xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+			<rdf:Description rdf:about="http://www.studynotes.com.ua/2016/06/dva-momenta-v-razvitii-tvorchestva-antona-pavlovicha-chexova-raznoe-chexov-a-p-3-3-chast-1/"
+    dc:identifier="http://www.studynotes.com.ua/2016/06/dva-momenta-v-razvitii-tvorchestva-antona-pavlovicha-chexova-raznoe-chexov-a-p-3-3-chast-1/"
+    dc:title="Два моменту у розвитку творчості Антона Павловича Чехова (Різне Чехов А. П.) [3/3] &#8211; Частина 1"
+    trackback:ping="http://www.studynotes.com.ua/2016/06/dva-momenta-v-razvitii-tvorchestva-antona-pavlovicha-chexova-raznoe-chexov-a-p-3-3-chast-1/trackback/" />
+</rdf:RDF>	-->
+	
+		
+	
+		
+		
+		<div class="entry">
+
+			<h2><a href="http://www.studynotes.com.ua/2016/06/legenda-o-velikom-inkvizitore-dostoevskogo-opyt-kriticheskogo-kommentariya-bratya-karamazovy-dostoevskij-f-m-chast-24/" title="Permalink">Легенда про великого інквізиторі Достоєвського. Досвід критичного коментарю. (Брати Карамазови Достоєвський Ф. М.) &#8211; Частина 24</a></h2>
+
+			<p>Величезна зірка, така светильнику[75], впала на джерела вод, і вони гіркі&quot;. Але тим полум&apos;яніше вірять решта вірними. Сльози людства сягають Нього; як і чекають Його, люблять Його, сподіваються на Нього, жадають постраждати й померти за Нього, як й раніше.</p>
+<p> <a href="http://www.studynotes.com.ua/2016/06/legenda-o-velikom-inkvizitore-dostoevskogo-opyt-kriticheskogo-kommentariya-bratya-karamazovy-dostoevskij-f-m-chast-24/" class="more-link">(далее...)</a></p>
+
+			<!--<p class="info"><a href="" class="more">Продолжение</a>						
+			<em class="author"></em>
+						</p>-->
+
+		</div>
+
+	<!--
+	<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+				xmlns:dc="http://purl.org/dc/elements/1.1/"
+				xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+			<rdf:Description rdf:about="http://www.studynotes.com.ua/2016/06/legenda-o-velikom-inkvizitore-dostoevskogo-opyt-kriticheskogo-kommentariya-bratya-karamazovy-dostoevskij-f-m-chast-24/"
+    dc:identifier="http://www.studynotes.com.ua/2016/06/legenda-o-velikom-inkvizitore-dostoevskogo-opyt-kriticheskogo-kommentariya-bratya-karamazovy-dostoevskij-f-m-chast-24/"
+    dc:title="Легенда про великого інквізиторі Достоєвського. Досвід критичного коментарю. (Брати Карамазови Достоєвський Ф. М.) &#8211; Частина 24"
+    trackback:ping="http://www.studynotes.com.ua/2016/06/legenda-o-velikom-inkvizitore-dostoevskogo-opyt-kriticheskogo-kommentariya-bratya-karamazovy-dostoevskij-f-m-chast-24/trackback/" />
+</rdf:RDF>	-->
+	
+		
+	
+		<p><!-- this is ugly -->
+		<span class="next"></span>
+		<span class="previous"><a href="http://www.studynotes.com.ua/page/2/" class="nextpostslink">Старые записи</a></span>
+		</p>
+
+
+		</div>
+	<div class="bott_ban"><noindex><center><div id="admixer_async_1012447579"></div></center>
+<script type="text/javascript">
+    window.admixZArr = (window.admixZArr || []);
+    window.admixZArr.push({ z: '50f5adb8-7a88-407b-a905-6d477c8415a0', ph: 'admixer_async_1012447579'});
+</script></noindex></div>
+	</div> <!-- /content -->
+</div>
+
+
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+<hr class="low" />
+
+<!-- footer ................................. -->
+<div id="footer">
+<div>
+<!--<p>Все права защищены &copy;  <a href="/"><strong></strong></a></p>-->
+<p>Все права защищены &copy; 2016 <a href="/"><strong>Шкільна тема: конспекти, безкоштовні твори, лекції, реферати, ГДЗ, доповіді</strong></a>. Шкільна тема: конспекти, твори, лекції, реферати, ГДЗ, доповіді. Тут будь-які роботи: дипломні, курсові, твори, допомога у підготовці до ЄДІ. Можна скачати реферати, курсові та дипломні роботи з будь-яких предметів. Всі теми з літератури в короткому викладі. Розроблено за програмами міністерства освіти студентами педагогічних вузів міста Москви.
+<br /> 
+<div style="display: inline-block;"><noindex><!--LiveInternet logo--><a rel="nofollow" href="http://www.liveinternet.ru/click"
+target="_blank"><img src="//counter.yadro.ru/logo?44.15"
+title="LiveInternet"
+alt="" border="0" width="31" height="31"/></a><!--/LiveInternet-->
+
+<!--LiveInternet counter--><script type="text/javascript"><!--
+new Image().src = "//counter.yadro.ru/hit;education_stat?r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random();//--></script><!--/LiveInternet--></noindex><div class="g-plusone" data-annotation="inline" data-width="250"></div></div>
+
+<script type="text/javascript">
+  window.___gcfg = {lang: 'ru'};
+
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/platform.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+	</div>
+</div> <!-- /footer -->
+
+</div> <!-- /container -->
+
+<script>
+	$('.cats_btn').click(function(){
+		$('.left_col').toggleClass('open');
+	});
+</script>
+
+<noindex>
+<div id='admixer_cb71c4b0c4f84674b145fb2feb2bf840_zone_17905_sect_756_site_743'></div>
+<script type='text/javascript'>
+    admixerML.fn.push(function() {
+admixerML.display('admixer_cb71c4b0c4f84674b145fb2feb2bf840_zone_17905_sect_756_site_743');
+});
+</script>
+<script language="JavaScript">
+//<!--
+
+var c8_metric = '';
+
+if(undefined === c8_passback) var c8_passback = [];
+c8_passback['f3642','6'] = '';
+
+var c8_sa;
+if (undefined===c8_sa) c8_sa='';
+show_code('f3642','6','5','','','');
+//-->
+</script></noindex>
+</body>
+
+</html><!-- hyper cache: 0d9333ebe6b092bfe270e82316e99aec 21-03-01 07:49:33 -->

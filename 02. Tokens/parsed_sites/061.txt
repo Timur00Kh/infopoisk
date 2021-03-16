@@ -1,0 +1,210 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta content='width=device-width, initial-scale=1.0' name='viewport' />
+<link rel="stylesheet" type="text/css" href="/css/stylesa.css" />
+<script type="text/javascript" src="/js/jquery.js"></script>
+<script src="popup.js" type="text/javascript"></script>
+<script type="text/javascript">
+function callReceiver(st){
+	var x = window.screen.availWidth;
+	var y = window.screen.availHeight;
+	x = (x-330)/2; y = (y-400)/2;
+	var addparam = 'width=330, height=250, scrollbars=0, resizable=no, left='+x+' ,top='+y;
+	var href='/receiver/receiver.php?s='+st;
+	recwin = window.open(href, 'ReceiverWin', addparam);
+	if(recwin === null) window.location = href;
+	else recwin.focus();
+};
+</script>
+<script type="text/javascript">
+<!--
+
+function newImage(arg) {
+	if (document.images) {
+		rslt = new Image();
+		rslt.src = arg;
+		return rslt;
+	}
+}
+
+var preloadFlag = false;
+function preloadImages() {
+	if (document.images) {
+		newImage("i/spacer133x56.gif");
+		newImage("i/about.jpg");
+		newImage("i/program.jpg");
+		newImage("i/forum.jpg");
+		newImage("i/shfh.jpg");
+		newImage("i/collection.jpg");
+		newImage("i/staroe.jpg");
+		newImage("i/detskoe.jpg");
+		newImage("i/music.jpg");
+		preloadFlag = true;
+	}
+}
+
+$(document).ready(function(){
+	$('#players a').mouseover(function() {
+		$(this).find('img').attr('src', $(this).find('img').attr('src').replace('k.gif', 'ko.gif'));
+	}).mouseout(function() {
+		$(this).find('img').attr('src', $(this).find('img').attr('src').replace('ko.gif', 'k.gif'));
+	});
+});
+
+// -->
+</script>
+<title>Старое радио - радиопостановки, радиоспектакли, сказки, песни СССР, школьная фонохрестоматия</title>
+<meta name="DESCRIPTION" content="Старое радио - национальный российский аудиофонд, более четырех тысяч спектаклей, литературных чтений, радиопостановок, детских сказок, а также свыше двух с половиной тысяч музыкальных произведений.">
+<meta name="KEYWORDS" content="радиоспектакли, театр у микрофона, радионяня, радиопостановки, спектакли, радио, старые спектакли, старые радиопередачи, старые радиоспектакли, старое радио, старые радиопостановки, радиопьеса, радиопостановка, детские сказки, репортажи, воспоминания, хроники, исторические речи, детские сказки, песни советских времён, СССР, школьная фонохрестоматия">
+<link rel="icon" href="/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+</head>
+<body >
+<center>
+<div id="container">
+<div class="btnapcont"><a href="http://www.audiopedia.su/" target="_blank" class="btnap"><img src="/i/spacer133x56.gif" width="133" height="56" border="0"></a></div>
+<ul id="menu">
+	<li><a href="/about" class="btnabout">О нас</a></li>
+	<li><a href="/program" class="btnprogram">Программа передач</a></li>
+	<li><a href="/forum" class="btnforum">Форум</a></li>
+<li>
+  <a href="https://itunes.apple.com/ru/app/staroe-radio/id569826658?ls=1&mt=8" class="mobile-version">Мобильная версия</a>
+</li>	
+	<li><a href="/shfh" class="btnshfh">Школьная фонохрестоматия</a></li>
+	<li><a href="/collection" class="btncollection">Коллекция</a></li>
+	<li><a href="/collection" class="collectioncount">В нашей коллекции уже<br><span>34844</span> произведений</a></li>
+	<li><a href="JavaScript:callReceiver(1)" class="btnstaroe">Слушать Старое радио</a></li>
+	<li><a href="JavaScript:callReceiver(2)" class="btndetskoe">Слушать Детское радио</a></li>
+	<li><a href="JavaScript:callReceiver(3)" class="btnmusic">Слушать Музыку</a></li>
+	<li><div id="flasheye"><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" width="38" height="42" id="eye" align="middle"><param name="allowScriptAccess" value="sameDomain" /><param name="movie" value="eye.swf" /><param name="quality" value="high" /><param name="wmode" value="transparent" /><param name="bgcolor" value="#ffffff" /><embed src="eye.swf" quality="high" wmode="transparent" bgcolor="#ffffff" width="38" height="42" name="eye" align="middle" allowScriptAccess="sameDomain" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" /></object></div></li>
+	<li><div id="flashpolzunok"><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" width="344" height="76" id="polzunok" align="middle"><param name="allowScriptAccess" value="sameDomain" /><param name="movie" value="polzunok.swf" /><param name="quality" value="high" /><param name="wmode" value="transparent" /><param name="bgcolor" value="#ffffff" /><embed src="polzunok.swf" quality="high" wmode="transparent" bgcolor="#ffffff" width="344" height="76" name="polzunok" align="middle" allowScriptAccess="sameDomain" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" /></object></div></li>
+</ul>
+
+<center>
+
+<!--
+<div style="padding:10px;margin-bottom:20px;width:480px;"><b>Наступают дни священной памяти о Великой Отечественной Войне.</b><br>
+Празднику 65-летия Дня Победы мы посвящаем<br><a href="program.php">специальную программу передач</a>.<br>
+С праздником дорогие друзья!</div>
+-->
+
+<!--<div style="color:#ffffff;padding:10px;margin:0px 200px 0px 200px;"><b>Друзья! Мы ищем записи старых радиопередач.</b><br>Например - "Пионерская зорька", "Опять двадцать пять" и т.п.<br>Пишите по адресу staroeradio@mail.ru<br>Юрию Метёлкину</div>-->
+<!--<div style="border:1px solid #339900;color:#ffffff;padding:10px;margin:0px 200px 0px 0px;width:220px;float:right;"><b>Друзья! Мы ищем помощника - программиста.</b><br>Нам нужен волонтёр разделяющий наши взгляды - программист PHP.<br>Пишите по адресу<br>goachka@gmail.com<br>Александру Голованову</div>-->
+<div style="padding:10px;margin:0px 200px 15px 300px;text-align:left;">
+<span>Автор проектов:</span><span style="color:#ffffff;"> Marina Stich (Hamburg) staroeradio@bk.ru </span><br>
+<span>Автор проектов:</span><span style="color:#ffffff;"> Юрий Метелкин staroeradio@mail.ru</span><br>
+<span>Редактор проектов:</span><span style="color:#ffffff;"> Сергей Сиднев s.sidnev@mail.ru</span><br>
+</div>
+
+<div style="color:#ffffff;margin:0px 200px 0px 200px;line-height: 1.7;">
+<p style="margin-left: 150px;">
+<a href="https://www.facebook.com/staroeradio" target="_blank"><img style="top:2px;" src="i/share-buttons/facebook-16x16.gif"></a>&nbsp;
+<a href="https://www.facebook.com/staroeradio" target="_blank" style="position:relative; bottom: 4px;">StaroeRadio AudioPedia facebook</a>
+<br/>
+<a href="https://www.facebook.com/staroeradiopodcast" target="_blank"><img src="i/share-buttons/facebook-16x16.gif"></a>&nbsp;
+<a href="https://www.facebook.com/staroeradiopodcast" target="_blank" style="position:relative; bottom: 4px;">Старое Радио подкаст facebook</a>
+<br/>
+<a href="http://vk.com/id131025745" target="_blank"><img src="i/share-buttons/vkontakte-16x16.gif"></a>&nbsp;
+<a href="http://vk.com/id131025745" target="_blank" style="position:relative; bottom: 4px;">Старое Радио vконтакте</a>
+<br/>
+<a href="https://twitter.com/staroeradio" target="_blank"><img src="i/share-buttons/twitter-16x16.gif"></a>&nbsp;
+<a href="https://twitter.com/staroeradio" target="_blank" style="position:relative; bottom: 4px;">Старое Радио twitter</a>
+<br/>
+<a href="https://www.youtube.com/user/staroeradio" target="_blank"><img src="i/share-buttons/yt16x16.png"></a>&nbsp;
+<a href="https://www.youtube.com/user/staroeradio" target="_blank" style="position:relative; bottom: 5px;">Старое Радио youtube</a>
+</p>
+</div>
+<!--<br clear="all">-->
+<div style="width:500px;border-bottom:1px solid #543d1a;"><p><b>Дорогие друзья!</b> 22 апреля 2009 года, в рамках Российского Интернет Форума (РИФ 2009) на церемонии подведения итогов Всероссийского фестиваля "Новая реальность 2009", проект "Старое радио" стал лауреатом премии в номинации "Культура". Это событие явилось прекрасным поводом для объявления старта проекта <a href="http://www.audiopedia.su/">Аудиопедия</a>, вмещающего в себя такие проекты как <a href="http://www.svidetel.su/">Свидетель</a>, <a href="http://www.reportage.su/">Репортаж</a> и, собственно, "Старое радио"</p></div>
+<div style="width:500px;"><p><b>Старое радио</b> - национальный российский аудиофонд. В прямом эфире Вы можете слушать радиопостановки, музыкально-литературные композиции, театр у микрофона, старые радиоспектакли, оперетты, детские сказки, басни, литературные чтения, стихотворения, а также свыше восьми тысяч старых музыкальных произведений.</p></div>
+<img src="i/otherplayers.gif" width="195" height="19" border="0" style="margin-top:20px;margin-bottom:20px;"><br>
+<table cellspacing="0" border="0" id="players">
+	<tr>
+		<td></td>
+		<td><img src="/i/players/windowsmedia.gif"></td>
+		<td><img src="/i/players/winamp.gif"></td>
+		<td><img src="/i/players/realplayer.gif"></td>
+		<td><img src="/i/players/applequicktime.gif"></td>
+	</tr>
+	<tr>
+		<td class="hcol"><img src="/i/players/staroe.gif"></td>
+		<td class="acol"><a target="_blank" href="/ices128.asx"><img src="/i/players/128k.gif" alt="Слушать Старое Радио в Windows Media Player в высоком качестве (128 kbit)"></a><a target="_blank" href="/ices64.asx"><img src="/i/players/64k.gif" alt="Слушать Старое Радио в Windows Media Player в среднем качестве (64 kbit)"></a><a target="_blank" href="/ices32.asx"><img src="/i/players/32k.gif" alt="Слушать Старое Радио в Windows Media Player в низком качестве (32 kbit)"></a></td>
+		<td class="acol"><a target="_blank" href="/ices128.m3u"><img src="/i/players/128k.gif" alt="Слушать Старое Радио в WinAmp в высоком качестве (128 kbit)"></a><a target="_blank" href="/ices64.m3u"><img src="/i/players/64k.gif" alt="Слушать Старое Радио в WinAmp в среднем качестве (64 kbit)"></a><a target="_blank" href="/ices32.m3u"><img src="/i/players/32k.gif" alt="Слушать Старое Радио в WinAmp в низком качестве (32 kbit)"></a></td>
+		<td class="acol"><a target="_blank" href="/ices128.ram"><img src="/i/players/128k.gif" alt="Слушать Старое Радио в RealPlayer в высоком качестве (128 kbit)"></a><a target="_blank" href="/ices64.ram"><img src="/i/players/64k.gif" alt="Слушать Старое Радио в RealPlayer в среднем качестве (64 kbit)"></a><a target="_blank" href="/ices32.ram"><img src="/i/players/32k.gif" alt="Слушать Старое Радио в RealPlayer в низком качестве (32 kbit)"></a></td>
+		<td class="acol"><a target="_blank" href="/ices128.qtl"><img src="/i/players/128k.gif" alt="Слушать Старое Радио в QuickTime в высоком качестве (128 kbit)"></a><a target="_blank" href="/ices64.qtl"><img src="/i/players/64k.gif" alt="Слушать Старое Радио в QuickTime в среднем качестве (64 kbit)"></a><a target="_blank" href="/ices32.qtl"><img src="/i/players/32k.gif" alt="Слушать Старое Радио в QuickTime в низком качестве (32 kbit)"></a></td>
+	</tr>
+	<tr>
+		<td class="hcol"><img src="/i/players/detskoe.gif"></td>
+		<td class="acol"><a target="_blank" href="/detskoe128.asx"><img src="/i/players/128k.gif" alt="Слушать Детское Радио в Windows Media Player в высоком качестве (128 kbit)"></a><a target="_blank" href="/detskoe64.asx"><img src="/i/players/64k.gif" alt="Слушать Детское Радио в Windows Media Player в среднем качестве (64 kbit)"></a><a target="_blank" href="/detskoe32.asx"><img src="/i/players/32k.gif" alt="Слушать Детское Радио в Windows Media Player в низком качестве (32 kbit)"></a></td>
+		<td class="acol"><a target="_blank" href="/detskoe128.m3u"><img src="/i/players/128k.gif" alt="Слушать Детское Радио в WinAmp в высоком качестве (128 kbit)"></a><a target="_blank" href="/detskoe64.m3u"><img src="/i/players/64k.gif" alt="Слушать Детское Радио в WinAmp в среднем качестве (64 kbit)"></a><a target="_blank" href="/detskoe32.m3u"><img src="/i/players/32k.gif" alt="Слушать Детское Радио в WinAmp в низком качестве (32 kbit)"></a></td>
+		<td class="acol"><a target="_blank" href="/detskoe128.ram"><img src="/i/players/128k.gif" alt="Слушать Детское Радио в RealPlayer в высоком качестве (128 kbit)"></a><a target="_blank" href="/detskoe64.ram"><img src="/i/players/64k.gif" alt="Слушать Детское Радио в RealPlayer в среднем качестве (64 kbit)"></a><a target="_blank" href="/detskoe32.ram"><img src="/i/players/32k.gif" alt="Слушать Детское Радио в RealPlayer в низком качестве (32 kbit)"></a></td>
+		<td class="acol"><a target="_blank" href="/detskoe128.qtl"><img src="/i/players/128k.gif" alt="Слушать Детское Радио в QuickTime в высоком качестве (128 kbit)"></a><a target="_blank" href="/detskoe64.qtl"><img src="/i/players/64k.gif" alt="Слушать Детское Радио в QuickTime в среднем качестве (64 kbit)"></a><a target="_blank" href="/detskoe32.qtl"><img src="/i/players/32k.gif" alt="Слушать Детское Радио в QuickTime в низком качестве (32 kbit)"></a></td>
+	</tr>
+	<tr>
+		<td class="hcol"><img src="/i/players/music.gif"></td>
+		<td class="acol"><a target="_blank" href="/music128.asx"><img src="/i/players/128k.gif" alt="Слушать Музыку в Windows Media Player в высоком качестве (128 kbit)"></a><a target="_blank" href="/music64.asx"><img src="/i/players/64k.gif" alt="Слушать Музыку в Windows Media Player в среднем качестве (64 kbit)"></a><a target="_blank" href="/music32.asx"><img src="/i/players/32k.gif" alt="Слушать Музыку в Windows Media Player в низком качестве (32 kbit)"></a></td>
+		<td class="acol"><a target="_blank" href="/music128.m3u"><img src="/i/players/128k.gif" alt="Слушать Музыку в WinAmp в высоком качестве (128 kbit)"></a><a target="_blank" href="/music64.m3u"><img src="/i/players/64k.gif" alt="Слушать Музыку в WinAmp в среднем качестве (64 kbit)"></a><a target="_blank" href="/music32.m3u"><img src="/i/players/32k.gif" alt="Слушать Музыку в WinAmp в низком качестве (32 kbit)"></a></td>
+		<td class="acol"><a target="_blank" href="/music128.ram"><img src="/i/players/128k.gif" alt="Слушать Музыку в RealPlayer в высоком качестве (128 kbit)"></a><a target="_blank" href="/music64.ram"><img src="/i/players/64k.gif" alt="Слушать Музыку в RealPlayer в среднем качестве (64 kbit)"></a><a target="_blank" href="/music32.ram"><img src="/i/players/32k.gif" alt="Слушать Музыку в RealPlayer в низком качестве (32 kbit)"></a></td>
+		<td class="acol"><a target="_blank" href="/music128.qtl"><img src="/i/players/128k.gif" alt="Слушать Музыку в QuickTime в высоком качестве (128 kbit)"></a><a target="_blank" href="/music64.qtl"><img src="/i/players/64k.gif" alt="Слушать Музыку в QuickTime в среднем качестве (64 kbit)"></a><a target="_blank" href="/music32.qtl"><img src="/i/players/32k.gif" alt="Слушать Музыку в QuickTime в низком качестве (32 kbit)"></a></td>
+	</tr>
+</table>
+
+<!--<a href="http://www.siteworks.ru/"><img src="i/siteworks.gif" width="220" height="31" border="0" style="margin-top:40px;margin-bottom:20px;" alt="SiteWorks: сайт работает!"></a><br>
+<div style="color:#ffffff;padding:10px;margin:15px 200px 15px 200px;">
+Главный редактор проектов: Марина Стич staroeradio@bk.ru<br>
+Автор проектов: Юрий Метелкин staroeradio@mail.ru<br>
+</div>
+-->
+<!-- begin of Top100 logo -->
+<a href="http://top100.rambler.ru/top100/"><img src="http://top100-images.rambler.ru/top100/banner-88x31-rambler-brown2.gif" alt="Rambler's Top100" width="88" height="31" border="0" /></a>
+<!-- end of Top100 logo -->
+
+<!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='http://counter.yadro.ru/hit?t16.6;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";h"+escape(document.title.substring(0,80))+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число просмотров за 24"+
+" часа, посетителей за 24 часа и за сегодня' "+
+"border=0 width=88 height=31><\/a>")//--></script><!--/LiveInternet-->
+
+<!--Rating@Mail.ru COUNTER--><script language="JavaScript" type="text/javascript"><!--
+d=document;var a='';a+=';r='+escape(d.referrer)
+js=10//--></script><script language="JavaScript1.1" type="text/javascript"><!--
+a+=';j='+navigator.javaEnabled()
+js=11//--></script><script language="JavaScript1.2" type="text/javascript"><!--
+s=screen;a+=';s='+s.width+'*'+s.height
+a+=';d='+(s.colorDepth?s.colorDepth:s.pixelDepth)
+js=12//--></script><script language="JavaScript1.3" type="text/javascript"><!--
+js=13//--></script><script language="JavaScript" type="text/javascript"><!--
+d.write('<a href="http://top.mail.ru/jump?from=1230818"'+
+' target="_top"><img src="http://d7.cc.b2.a1.top.mail.ru/counter'+
+'?id=1230818;t=222;js='+js+a+';rand='+Math.random()+
+'" alt="Рейтинг@Mail.ru"'+' border="0" height="31" width="88"/><\/a>')
+if(11<js)d.write('<'+'!-- ')//--></script><noscript><a
+target="_top" href="http://top.mail.ru/jump?from=1230818"><img
+src="http://d7.cc.b2.a1.top.mail.ru/counter?js=na;id=1230818;t=222"
+border="0" height="31" width="88"
+alt="Рейтинг@Mail.ru"/></a></noscript><script language="JavaScript" type="text/javascript"><!--
+if(11<js)d.write('--'+'>')//--></script><!--/COUNTER-->
+
+<a href="http://top.germany.ru" alt="TOP.germany.ru" target="_top"><img src="http://top.germany.ru/cgi-bin/links/top.cgi?ID=7065&v=12" border=0></a>
+
+<!-- begin of Top100 code -->
+<script id="top100Counter" type="text/javascript" src="http://counter.rambler.ru/top100.jcn?1523723"></script><noscript><img src="http://counter.rambler.ru/top100.cnt?1523723" alt="" width="1" height="1" border="0"></noscript>
+<!-- end of Top100 code -->
+
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-11934055-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+</center>
+</div>
+</center>
+</body>
+</html>

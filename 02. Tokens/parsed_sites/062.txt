@@ -1,0 +1,1720 @@
+<html>
+<head>
+<script type="text/javascript">
+		var ucoz_rndid = 'bi_DHh91';
+		function uOnDomOrLater(f){
+			if(document.readyState == 'loading') {
+				if(document.addEventListener) {
+					document.addEventListener('DOMContentLoaded',f);
+				} else {
+					window.attachEvent('onload',f);
+				}
+			} else {
+				setTimeout(f,0);
+			}
+		}
+	
+			function resizeFrame() {
+				var WX, WY, BX, BY;
+				var o = document.getElementById("iFbi_DHh91") , t , d;
+				if (!o) return;
+				d = o.contentDocument;
+				if (!(t = d.getElementById("wrapperXbi_DHh91"))) WX = 0;
+				else WX = t.value;
+				if (!(t = d.getElementById("wrapperYbi_DHh91"))) WY = 0;
+				else WY = t.value;
+				if (!(t = d.getElementById("bannerXbi_DHh91"))) BX = 0;
+				else BX = t.value;
+				if (!(t = d.getElementById("bannerYbi_DHh91"))) BY = 0;
+				else BY = t.value;
+				BX = parseInt(BX) + parseInt(WX);
+				BY = parseInt(BY) + parseInt(WY);
+				if (BX < 0) o.style.width = "100%";
+				else if (BX > 0) o.style.width = BX + "px";
+				if (BY < 0) o.style.height = "100%";
+				else if (BY > 0) {
+					o.style.height = Math.max(BY, 100) + "px";
+				}
+
+				if (d.body) {
+					d.body.insertAdjacentHTML('beforeend', '<style>html,body{width:100%;height:90px;min-width:200px;min-height:90px;padding:0;margin:0;display:block;}</style>');
+				}
+			}
+			document.write('<iframe style="position:fixed;right:0px;top:0px;z-index:2147483646;" height="0" width="0" onload="resizeFrame();" id="iFbi_DHh91" frameborder="0" scrolling="no" src="/?HDWDSANHfyzcqn3xJST6KRI0z851Z7eXnTn5zS6SFNSrDxSMDLGFqcFNkL6GAGZZ6JEaFbldSDKmD150CP%21HVT6Sn5Dz6aha3jSEEDb%21WO96QZkDXSaRQW1v7zOd2sukscuGsU32%3BNKzC9XcYIemeb%3Bn8xUO3CSA5BK%3B%3BnbvwKdPnD%3BpvDfo"></iframe>');
+		</script>
+	<script type="text/javascript">new Image().src = "//counter.yadro.ru/hit;ucoz100x70?r"+escape(document.referrer)+(screen&&";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth||screen.pixelDepth))+";u"+escape(document.URL)+";"+Date.now();</script>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<title>Тинейджеры - ГЛАВНАЯ СТРАНИЦА</title>
+
+<link type="text/css" rel="stylesheet" href="/_st/my.css" />
+
+	<link rel="stylesheet" href="/.s/src/base.min.css" />
+	<link rel="stylesheet" href="/.s/src/layer2.min.css" />
+
+	<script src="/.s/src/jquery-1.12.4.min.js"></script>
+	
+	<script src="/.s/src/uwnd.min.js"></script>
+	<script type="text/javascript" src="//s23.ucoz.net/cgi/uutils.fcg?a=uSD&ca=2&ug=999&isp=1&r=0.965295613307443"></script>
+<script type="text/javascript">/* --- UCOZ-JS-INIT_CODE --- */
+	window.ulb = {photoPage:"Перейти на страницу с фотографией.", closeBtn:"Закрыть", error:"Запрошенный контент не может быть загружен. Пожалуйста, попробуйте позже.", next:"Следующий", prev:"Предыдущий", btnPlay:"Начать слайдшоу", btnToggle:"Изменить размер", };
+/* --- UCOZ-JS-END --- */</script>
+
+	<link rel="stylesheet" href="/.s/src/ulightbox/ulightbox.min.css" />
+	<script src="/.s/src/ulightbox/ulightbox.min.js"></script>
+	<script type="text/javascript">
+/* --- UCOZ-JS-DATA --- */
+window.uCoz = {"ssid":"121451204045057755643","language":"ru"};
+</script>
+
+	<style type="text/css">.UhideBlock{display:none; }
+</style>
+<script type="text/javascript">//<!--
+	function uSocialLogin(t) {
+		var params = { 'vkontakte':{ 'width':790, 'height':400 }, 'facebook':{ 'width':950, 'height':520 }, 'yandex':{ 'width':870, 'height':515 }, 'google':{ 'width':700, 'height':600 }, 'ok':{ 'width':710, 'height':390 } };
+		var ref = escape(location.protocol + '//' + ('xn--d1ababeji4aplhbqk6k.xn--p1ai' || location.hostname) + location.pathname + ((location.hash ? ( location.search ? location.search + '&' : '?' ) + 'rnd=' + Date.now() + location.hash : ( location.search || '' ))));
+		// var ref = escape(location.href);
+		window.open('/'+t+'?ref='+ref,'conwin','width='+params[t].width+',height='+params[t].height+',status=1,resizable=1,left='+parseInt((screen.availWidth/2)-(params[t].width/2))+',top='+parseInt((screen.availHeight/2)-(params[t].height/2)-20)+'screenX='+parseInt((screen.availWidth/2)-(params[t].width/2))+',screenY='+parseInt((screen.availHeight/2)-(params[t].height/2)-20));
+		return false;
+	}
+//--></script>
+
+<link type="text/css" rel="stylesheet" href="/.s/src/social.css" />
+
+</head>
+
+<body style="background:#7C8CC3; margin:0px; padding:0px;">
+<div id="utbr8214" rel="s23"></div>
+
+<table cellpadding="0" cellspacing="0" border="0" width="100%" style="repeat-x #7C8CC3;"><tr><td valign="top" align="center">
+<!--U1AHEADER1Z--><table style="width: 100%; height: 233px;" width="" cellspacing="0" cellpadding="0" border="0" align="center">
+<tbody style="">
+<tr style=""><td style="text-align: left;" height="121"><div style="" align="center"><img alt="школа" src="/81/shkola-zastavka.gif" width="281" height="201" align="left"><span style="color: rgb(150, 220, 36); font-size: 36pt; font-weight: bold; font-family: Franklin Gothic Medium;">С&nbsp; У&nbsp; П&nbsp; Е&nbsp; Р&nbsp; Т&nbsp; И&nbsp; Н&nbsp; Е&nbsp; Й&nbsp; Д&nbsp; Ж&nbsp; Е&nbsp; Р&nbsp; Ы</span><img alt="" src="/81/dvoechnik.gif" width="157" height="223" align="right"><img alt="учитель" src="/81/uchitel.gif" width="157" height="223" align="right"><br><br></div>
+ <div style="" align="center"><span style="font-weight: bold; font-family: Monotype Corsiva;"><span style="color: rgb(57, 19, 121); font-size: 18pt; font-style: italic;">Д Л Я&nbsp;&nbsp;&nbsp; Т Е Х,&nbsp; &nbsp; К Т О&nbsp;&nbsp;&nbsp; У Ч И Т С Я &nbsp; &nbsp;И&nbsp;&nbsp;&nbsp; У Ч И Т</span>
+ </span><br><script type="text/javascript" src="//yandex.st/share/share.js"
+charset="utf-8"></script>
+<div class="yashare-auto-init" data-yasharel10n="ru" data-yasharetype="button" data-yasharequickservices="yaru,vkontakte,facebook,twitter,odnoklassniki,moimir"></div>
+ <script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+<g:plusone></g:plusone>
+ </div></td></tr>
+<tr><td colspan="1" style="text-align: left; letter-spacing: 0px; word-spacing: 0px;"><div align="center"><span style="font-size: 10pt;">Вы вошли как <a title="Мой профиль"><span style="color: rgb(255, 20, 147); font-size: 10pt;">Гость</span></a> | Группа "<span style="text-decoration: underline;">Гости</span>" | <a href="http://xn--d1ababeji4aplhbqk6k.xn--p1ai/news/rss/" title="RSS"><span style="color: rgb(255, 20, 147);">RSS</span></a>&nbsp;&nbsp;<span style="font-size: 10pt;"><a href="http://супертинейджеры.рф/" title="Главная">Главная</a> | <a href="http://tineydgers.ru/" title="Мой профиль">Мой профиль</a> | <a href="" title="Выход">Выход</a></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<span style="font-style: italic;"><span style="font-size: 10pt; color: rgb(0, 0, 205);">Понедельник, 01.03.2021, 22:46:38</span></span></span></div></td></tr><tr style=""><td colspan="1" style="text-align: left; letter-spacing: 0px; word-spacing: 0px;"><br></td></tr>
+ </tbody></table>
+<div style="" align="center"><font face="Arial"><b><span style="font-size: 14pt;"><span style="font-size: 14pt;">
+ <a href="/load/testy_dlja_proverki_znanij/105"><span style="background-color: rgb(150, 220, 36); color: rgb(0, 0, 205); font-size: 14pt;">ТЕСТЫ</span></a>&nbsp;
+<a href="/load/zanimatelnyj_urok/81"><span style="background-color: rgb(150, 220, 36); color: rgb(0, 0, 205); font-size: 14pt;">ЗАНИМАТЕЛЬНЫЙ УРОК</span></a>&nbsp;&nbsp;
+ <a href="/publ/ehkzameny/51"><span style="background-color: rgb(150, 220, 36); color: rgb(0, 0, 205); font-size: 14pt;">ЭКЗАМЕНЫ</span></a>&nbsp;
+<a href="/publ/velikolepnaja_sotnja/19"><span style="background-color: rgb(150, 220, 36); color: rgb(0, 0, 205); font-size: 14pt;">ВЕЛИКОЛЕПНАЯ СОТНЯ</span></a></span>&nbsp;
+<a href="/load/roditelskoe_sobranie/99"><span style="background-color: rgb(150, 220, 36); color: rgb(0, 0, 205); font-size: 14pt;">РОДИТЕЛЬСКОЕ СОБРАНИЕ</span></a></span>&nbsp;&nbsp;
+<a href="/load/krossvordy/67"><span style="background-color: rgb(150, 220, 36); color: rgb(0, 0, 205); font-size: 14pt;">КРОССВОРДЫ</span></a></font></div></b>
+<br>
+<!-- Yandex.RTB R-A-352124-7 -->
+<div id="yandex_rtb_R-A-352124-7"></div>
+<script type="text/javascript">
+ (function(w, d, n, s, t) {
+ w[n] = w[n] || [];
+ w[n].push(function() {
+ Ya.Context.AdvManager.render({
+ blockId: "R-A-352124-7",
+ renderTo: "yandex_rtb_R-A-352124-7",
+ async: true
+ });
+ });
+ t = d.getElementsByTagName("script")[0];
+ s = d.createElement("script");
+ s.type = "text/javascript";
+ s.src = "//an.yandex.ru/system/context.js";
+ s.async = true;
+ t.parentNode.insertBefore(s, t);
+ })(this, this.document, "yandexContextAsyncCallbacks");
+</script><!--/U1AHEADER1Z-->
+
+<table border="0" cellpadding="10" cellspacing="0" width="100%"><tr><td valign="top" align="center">
+
+<!-- <middle> -->
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td valign="top" class="col">
+<img src="/.s/t/935/5.gif" border="0"><br>
+<!--U1CLEFTER1Z--><div align="center">
+<!-- <block1> -->
+
+<table class="boxTable" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td class="boxTitle"><b><!-- <bt> --><!--<s5184>-->МЕНЮ САЙТА<!--</s>--><!-- </bt> --></b></td></tr><tr><td class="boxContent"><!-- <bc> --><div id="uMenuDiv1" class="uMenuV" style="position:relative;"><ul class="uMenuRoot">
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="http://супертинейджеры.рф/"><span>ГЛАВНАЯ СТРАНИЦА</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li style="position:relative;"><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><div class="uMenuArrow"></div><a href="/load/142"><span>ПРОИЗВЕДЕНИЯ ЛИТЕРАТУРЫ В КРАТКОМ ИЗЛОЖЕНИИ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div><ul style="display:none;">
+<li><div class="uMenuItem"><a href="/load/148"><span>ЗАРУБЕЖНАЯ ЛИТЕРАТУРА ДРЕВНИХ ЭПОХ, СРЕДНЕВЕКОВЬЯ И ВОЗРОЖДЕНИЯ</span></a></div></li>
+<li><div class="uMenuItem"><a href="/load/147"><span>ЗАРУБЕЖНАЯ ЛИТЕРАТУРА XVII-XVIII ВЕКОВ</span></a></div></li>
+<li><div class="uMenuItem"><a href="/load/146"><span>РУССКАЯ ЛИТЕРАТУРА XIX ВЕКА</span></a></div></li>
+<li><div class="uMenuItem"><a href="/load/143"><span>ЗАРУБЕЖНАЯ ЛИТЕРАТУРА XIX ВЕКА</span></a></div></li>
+<li><div class="uMenuItem"><a href="/load/144"><span>РУССКАЯ ЛИТЕРАТУРА XX ВЕКА</span></a></div></li>
+<li><div class="uMenuItem"><a href="/load/152"><span>ЗАРУБЕЖНАЯ ЛИТЕРАТУРА ХХ ВЕКА</span></a></div></li></ul></li>
+<li style="position:relative;"><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><div class="uMenuArrow"></div><a href="/publ/46"><span>ОСНОВЫ ПРАВОСЛАВНОЙ КУЛЬТУРЫ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div><ul style="display:none;">
+<li><div class="uMenuItem"><a href="/publ/47"><span>КОНСПЕКТЫ ЗАНЯТИЙ</span></a></div></li>
+<li><div class="uMenuItem"><a href="/publ/413"><span>ОСНОВЫ ИСТОРИИ РЕЛИГИЙ. 8-9 КЛАССЫ</span></a></div></li>
+<li><div class="uMenuItem"><a href="/publ/80"><span>ЗНАКОМИМСЯ С БИБЛЕЙСКИМИ ПЕРСОНАЖАМИ</span></a></div></li>
+<li><div class="uMenuItem"><a href="/publ/222"><span>ОСНОВЫ МИРОВЫХ РЕЛИГИЙ</span></a></div></li>
+<li><div class="uMenuItem"><a href="/publ/214"><span>САМЫЕ ЗНАМЕНИТЫЕ СВЯТЫЕ И ЧУДОТВОРЦЫ РОССИИ</span></a></div></li></ul></li>
+<li style="position:relative;"><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><div class="uMenuArrow"></div><a href="/load/67"><span>КРОССВОДЫ К УРОКАМ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div><ul style="display:none;">
+<li><div class="uMenuItem"><a href="/load/131"><span>НАЧАЛЬНЫЕ КЛАССЫ</span></a></div></li>
+<li><div class="uMenuItem"><a href="/load/155"><span>ИТАЛЬЯНСКИЙ ЯЗЫК</span></a></div></li>
+<li><div class="uMenuItem"><a href="/load/129"><span>ЭКОЛОГИЯ</span></a></div></li>
+<li><div class="uMenuItem"><a href="/load/76"><span>ФИЗКУЛЬТУРА И СПОРТ</span></a></div></li>
+<li><div class="uMenuItem"><a href="/load/96"><span>ТЕХНОЛОГИЯ</span></a></div></li>
+<li><div class="uMenuItem"><a href="/load/79"><span>МУЗЫКА</span></a></div></li>
+<li><div class="uMenuItem"><a href="/load/94"><span>ИЗО</span></a></div></li></ul></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/index/0-92"><span>РЕФЕРАТЫ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li style="position:relative;"><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><div class="uMenuArrow"></div><a href="/publ/100"><span>ОБУЧАЮЩИЕ ИГРЫ НА УРОКАХ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div><ul style="display:none;">
+<li><div class="uMenuItem"><a href="/publ/131"><span>ЛИНГВИСТИЧЕСКИЕ ИГРЫ</span></a></div></li>
+<li><div class="uMenuItem"><a href="/publ/215"><span>ИГРЫ НА УРОКАХ АНГЛИЙСКОГО ЯЗЫКА</span></a></div></li>
+<li><div class="uMenuItem"><a href="/publ/138"><span>ИСТОРИЧЕСКИЕ ИГРЫ</span></a></div></li>
+<li><div class="uMenuItem"><a href="/publ/133"><span>МАТЕМАТИЧЕСКИЕ ИГРЫ</span></a></div></li>
+<li><div class="uMenuItem"><a href="/publ/102"><span>ИГРЫ ПО БИОЛОГИИ</span></a></div></li>
+<li><div class="uMenuItem"><a href="/publ/134"><span>ГЕОГРАФИЧЕСКИЕ ИГРЫ</span></a></div></li>
+<li><div class="uMenuItem"><a href="/publ/104"><span>ФИЗИКА В ИГРАХ</span></a></div></li>
+<li><div class="uMenuItem"><a href="/publ/135"><span>ХИМИЧЕСКИЕ ИГРЫ</span></a></div></li>
+<li><div class="uMenuItem"><a href="/publ/132"><span>ИГРЫ НА УРОКЕ АСТРОНОМИИ</span></a></div></li>
+<li><div class="uMenuItem"><a href="/publ/101"><span>ИГРА "ЮНЫЙ ПРОФЕССОР"</span></a></div></li>
+<li><div class="uMenuItem"><a href="/publ/136"><span>ИГРЫ НА УРОКЕ ТЕХНОЛОГИИ</span></a></div></li>
+<li><div class="uMenuItem"><a href="/publ/137"><span>ИГРЫ НА УРОКЕ МХК</span></a></div></li>
+<li><div class="uMenuItem"><a href="/publ/139"><span>ИГРЫ НА УРОКЕ МУЗЫКИ</span></a></div></li>
+<li><div class="uMenuItem"><a href="/publ/140"><span>ИГРЫ НА УРОКЕ ИЗО</span></a></div></li></ul></li>
+<li style="position:relative;"><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><div class="uMenuArrow"></div><a href="/publ/229"><span>ПОСЛЕ УРОКОВ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div><ul style="display:none;">
+<li><div class="uMenuItem"><a href="/publ/236"><span>МЫ - ТУРИСТЫ</span></a></div></li>
+<li><div class="uMenuItem"><a href="/publ/230"><span>ШКОЛА ФОКУСНИКОВ</span></a></div></li>
+<li><div class="uMenuItem"><a href="/publ/239"><span>ШКОЛЬНЫЙ КРУЖОК ЖУРНАЛИСТИКИ</span></a></div></li>
+<li><div class="uMenuItem"><a href="/publ/397"><span>ГОЛОВОЛОМКИ. ЗАДАЧИ. ФОКУСЫ. РАЗВЛЕЧЕНИЯ</span></a></div></li></ul></li>
+<li style="position:relative;"><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><div class="uMenuArrow"></div><a href="/index/0-41"><span>КАРИКАТУРЫ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div><ul style="display:none;">
+<li><div class="uMenuItem"><a href="/index/0-43"><span>ДИСЦИПЛИНА</span></a></div></li>
+<li><div class="uMenuItem"><a href="/index/0-44"><span>ОТЦЫ И ДЕТИ</span></a></div></li>
+<li><div class="uMenuItem"><a href="/index/0-45"><span>НА ФИЗКУЛЬТУРЕ</span></a></div></li>
+<li><div class="uMenuItem"><a href="/index/na_uroke/0-46"><span>НА УРОКЕ</span></a></div></li>
+<li><div class="uMenuItem"><a href="/index/na_ehkzamene/0-47"><span>НА ЭКЗАМЕНЕ</span></a></div></li>
+<li><div class="uMenuItem"><a href="/index/reforma_obrazovanija/0-48"><span>РЕФОРМА ОБРАЗОВАНИЯ</span></a></div></li>
+<li><div class="uMenuItem"><a href="/index/gramotei/0-50"><span>ГРАМОТЕИ</span></a></div></li>
+<li><div class="uMenuItem"><a href="/index/kompjuterizacija/0-51"><span>КОМПЬЮТЕРИЗАЦИЯ</span></a></div></li>
+<li><div class="uMenuItem"><a href="/index/takikh_nauchish/0-52"><span>ТАКИХ НАУЧИШЬ!</span></a></div></li></ul></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/index/0-3" target="_blank"><span>ОБРАТНАЯ СВЯЗЬ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li></ul></div><script type="text/javascript">$(function(){_uBuildMenu('#uMenuDiv1',0,document.location.href+'/','uMenuItemA','uMenuArrow',2500);})</script><!-- </bc> --></td></tr></tbody></table>
+
+<!-- </block1> -->
+ 
+ <!-- <block1> -->
+<table class="boxTable" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td><!-- Yandex.RTB R-A-352124-1 -->
+<div id="yandex_rtb_R-A-352124-1"></div>
+<script type="text/javascript">
+ (function(w, d, n, s, t) {
+ w[n] = w[n] || [];
+ w[n].push(function() {
+ Ya.Context.AdvManager.render({
+ blockId: "R-A-352124-1",
+ renderTo: "yandex_rtb_R-A-352124-1",
+ async: true
+ });
+ });
+ t = d.getElementsByTagName("script")[0];
+ s = d.createElement("script");
+ s.type = "text/javascript";
+ s.src = "//an.yandex.ru/system/context.js";
+ s.async = true;
+ t.parentNode.insertBefore(s, t);
+ })(this, this.document, "yandexContextAsyncCallbacks");
+ </script></td></tr></tbody></table>
+<!-- </block1> -->
+<br>
+<!-- <block12> -->
+<table class="boxTable" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td class="boxTitle"><b><!-- <bt> --><!--<s5204>-->ОТКРЫТЫЙ УРОК<!--</s>--><!-- </bt> --></b></td></tr><tr><td class="boxContent"><!-- <bc> -->
+ 
+ <img src="/.s/t/221/23.gif"> <a href="/load/38" style="text-decoration:none">РУССКИЙ ЯЗЫК</a>
+ <hr style="background:#ffffff; height:1px; border:0">
+ <img src="/.s/t/221/23.gif"> <a href="/load/39" style="text-decoration:none">УКРАИНСКИЙ ЯЗЫК</a>
+ <hr style="background:#ffffff; height:1px; border:0">
+<img src="/.s/t/221/23.gif"> <a href="/load/40" style="text-decoration:none">ИНОСТРАННЫЕ ЯЗЫКИ</a>
+ <hr style="background:#ffffff; height:1px; border:0">
+<img src="/.s/t/221/23.gif"> <a href="/load/41" style="text-decoration:none">РУССКАЯ ЛИТЕРАТУРА</a>
+ <hr style="background:#ffffff; height:1px; border:0">
+<img src="/.s/t/221/23.gif"> <a href="/load/42" style="text-decoration:none">УКРАИНСКАЯ ЛИТЕРАТУРА</a>
+ <hr style="background:#ffffff; height:1px; border:0">
+<img src="/.s/t/221/23.gif"> <a href="/load/43" style="text-decoration:none">ЗАРУБЕЖНАЯ ЛИТЕРАТУРА</a>
+ <hr style="background:#ffffff; height:1px; border:0">
+<img src="/.s/t/221/23.gif"> <a href="/load/44" style="text-decoration:none">МАТЕМАТИКА</a>
+ <hr style="background:#ffffff; height:1px; border:0">
+<img src="/.s/t/221/23.gif"> <a href="/load/45" style="text-decoration:none">ИСТОРИЯ</a>
+ <hr style="background:#ffffff; height:1px; border:0">
+<img src="/.s/t/221/23.gif"> <a href="/load/46" style="text-decoration:none">ФИЗИКА</a>
+ <hr style="background:#ffffff; height:1px; border:0">
+<img src="/.s/t/221/23.gif"> <a href="/load/47" style="text-decoration:none">БИОЛОГИЯ</a>
+ <hr style="background:#ffffff; height:1px; border:0">
+<img src="/.s/t/221/23.gif"> <a href="/load/48" style="text-decoration:none">ХИМИЯ</a>
+ <hr style="background:#ffffff; height:1px; border:0">
+<img src="/.s/t/221/23.gif"> <a href="/load/49" style="text-decoration:none">ГЕОГРАФИЯ</a>
+ <hr style="background:#ffffff; height:1px; border:0">
+<img src="/.s/t/221/23.gif"> <a href="/load/50" style="text-decoration:none">АСТРОНОМИЯ</a>
+ <hr style="background:#ffffff; height:1px; border:0">
+<img src="/.s/t/221/23.gif"> <a href="/load/51" style="text-decoration:none">ИНФОРМАТИКА</a>
+ <hr style="background:#ffffff; height:1px; border:0">
+<img src="/.s/t/221/23.gif"> <a href="/load/52" style="text-decoration:none">ОБЖ</a>
+ <hr style="background:#ffffff; height:1px; border:0">
+<img src="/.s/t/221/23.gif"> <a href="/load/53" style="text-decoration:none">ЭКОНОМИКА</a>
+ <hr style="background:#ffffff; height:1px; border:0">
+<img src="/.s/t/221/23.gif"> <a href="/load/54" style="text-decoration:none">ЭКОЛОГИЯ</a>
+ <hr style="background:#ffffff; height:1px; border:0">
+<img src="/.s/t/221/23.gif"> <a href="/load/55" style="text-decoration:none">ФИЗКУЛЬТУРА</a>
+ <hr style="background:#ffffff; height:1px; border:0">
+<img src="/.s/t/221/23.gif"> <a href="/load/56" style="text-decoration:none">МУЗЫКА</a>
+ <hr style="background:#ffffff; height:1px; border:0">
+<img src="/.s/t/221/23.gif"> <a href="/load/57" style="text-decoration:none">ИЗО</a>
+ <hr style="background:#ffffff; height:1px; border:0">
+<img src="/.s/t/221/23.gif"> <a href="/load/58" style="text-decoration:none">НАЧАЛЬНАЯ ШКОЛА</a>
+ <hr style="background:#ffffff; height:1px; border:0">
+<img src="/.s/t/221/23.gif"> <a href="/load/59" style="text-decoration:none">ТЕХНОЛОГИЯ</a>
+ <hr style="background:#ffffff; height:1px; border:0">
+<img src="/.s/t/221/23.gif"> <a href="/load/60" style="text-decoration:none">ВНЕКЛАССНАЯ РАБОТА</a>
+ <hr style="background:#ffffff; height:1px; border:0">
+<img src="/.s/t/221/23.gif"> <a href="/load/61" style="text-decoration:none">КЛАССНОЕ РУКОВОДСТВО</a>
+ <hr style="background:#ffffff; height:1px; border:0">
+<img src="/.s/t/221/23.gif"> <a href="/load/62" style="text-decoration:none">АДМИНИСТРАЦИЯ ШКОЛЫ</a>
+ <hr style="background:#ffffff; height:1px; border:0">
+<img src="/.s/t/221/23.gif"> <a href="/load/103" style="text-decoration:none">ОБЩЕСТВОЗНАНИЕ</a>
+ <hr style="background:#ffffff; height:1px; border:0">
+<img src="/.s/t/221/23.gif"> <a href="/load/104" style="text-decoration:none">ПСИХОЛОГИЯ</a>
+ <hr style="background:#ffffff; height:1px; border:0">
+<img src="/.s/t/221/23.gif"> <a href="/load/125" style="text-decoration:none">МХК</a>
+ <hr style="background:#ffffff; height:1px; border:0">
+<img src="/.s/t/221/23.gif"> <a href="/load/126" style="text-decoration:none">ОСНОВЫ ПРАВА</a>
+ <hr style="background:#ffffff; height:1px; border:0">
+<!-- </bc> --></td></tr></tbody></table>
+<!-- </block12> -->
+
+<!-- <block12> -->
+<table class="boxTable" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td class="boxTitle"><b><!-- <bt> --><!--<s5204>-->РУССКИЙ ЯЗЫК<!--</s>--><!-- </bt> --></b></td></tr><tr><td class="boxContent"><!-- <bc> --><!--<s1546>-->
+ 
+ 
+ <img src="/.s/t/221/23.gif"> <a href="https://drive.google.com/open?id=0B6SnFJRZNp5wWjJpUGpGMDR5T0E" style="text-decoration:none"> СПРАВОЧНИК ПО РУССКОМУ <br>&nbsp;&nbsp;ЯЗЫКУ ДЛЯ ШКОЛЬНИКОВ</a>
+ <hr style="background:#ffffff; height:1px; border:0">
+ <img src="/.s/t/221/23.gif"> <a href="http://uroki-sovy.ru/index.php/prepodavanie-russkogo-yazyka-obmen-opytom" style="text-decoration:none">ПРЕПОДАВАНИЕ РУССКОГО <br>&nbsp;&nbsp;ЯЗЫКА. ОБМЕН<br>&nbsp;&nbsp;ОПЫТОМ</a>
+ <hr style="background:#ffffff; height:1px; border:0">
+ <img src="/.s/t/221/23.gif"> <a href="/publ/425" style="text-decoration:none">МОНИТОРИНГ КАЧЕСТВА <br>&nbsp;&nbsp;ЗНАНИЙ. 5 КЛАСС</a>
+ <hr style="background:#ffffff; height:1px; border:0">
+<img src="/.s/t/221/23.gif"> <a href="/publ/430" style="text-decoration:none">ТЕСТЫ В ФОРМАТЕ ГИА.<br>&nbsp;&nbsp;&nbsp;5 КЛАСС</a>
+ <hr style="background:#ffffff; height:1px; border:0">
+<img src="/.s/t/221/23.gif"> <a href="/index/0-93" style="text-decoration:none">ПУНКТУАЦИЯ В ЗАДАНИЯХ И <br>&nbsp;&nbsp;ОТВЕТАХ</a>
+ <hr style="background:#ffffff; height:1px; border:0">
+ <img src="/.s/t/221/23.gif"> <a href="https://tetradkin-grad.ru/index.php/pedagogicheskaya-simptomatika-trudnostej-pri-izuchenii-russkogo-yazyka" style="text-decoration:none">ПЕДАГОГИЧЕСКАЯ<br>&nbsp;&nbsp;СИМПТОМАТИКА<br>&nbsp;&nbsp;ТРУДНОСТЕЙ ПРИ<br>&nbsp;&nbsp;ИЗУЧЕНИИ РУССКОГО ЯЗЫКА</a>
+ <hr style="background:#ffffff; height:1px; border:0">
+<img src="/.s/t/221/23.gif"> <a href="/publ/424" style="text-decoration:none">САМОСТОЯТЕЛЬНЫЕ <br>&nbsp;&nbsp;РАБОТЫ.10 КЛАСС</a>
+ <hr style="background:#ffffff; height:1px; border:0">
+<img src="/.s/t/221/23.gif"> <a href="/load/68" style="text-decoration:none">КРОССВОРДЫ ПО РУССКОМУ <br>&nbsp;&nbsp;ЯЗЫКУ</a>
+ <hr style="background:#ffffff; height:1px; border:0">
+<!--</s>--><!-- </bc> --></td></tr></tbody></table>
+<!-- </block12> -->
+
+ <!-- <block1> -->
+<table class="boxTable" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td><!-- Yandex.RTB R-A-352124-3 -->
+<div id="yandex_rtb_R-A-352124-3"></div>
+<script type="text/javascript">
+ (function(w, d, n, s, t) {
+ w[n] = w[n] || [];
+ w[n].push(function() {
+ Ya.Context.AdvManager.render({
+ blockId: "R-A-352124-3",
+ renderTo: "yandex_rtb_R-A-352124-3",
+ async: true
+ });
+ });
+ t = d.getElementsByTagName("script")[0];
+ s = d.createElement("script");
+ s.type = "text/javascript";
+ s.src = "//an.yandex.ru/system/context.js";
+ s.async = true;
+ t.parentNode.insertBefore(s, t);
+ })(this, this.document, "yandexContextAsyncCallbacks");
+</script></td></tr></tbody></table>
+<!-- </block1> -->
+<br>
+<!-- <block12> -->
+<table class="boxTable" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td class="boxTitle"><b><!-- <bt> --><!--<s5204>-->ЛИТЕРАТУРА<!--</s>--><!-- </bt> --></b></td></tr><tr><td class="boxContent"><!-- <bc> --><!--<s1546>-->
+ 
+ <img src="/.s/t/221/23.gif"> <a href="/publ/36" style="text-decoration:none">ВЕЛИЧАЙШИЕ КНИГИ ВСЕХ<br>&nbsp;&nbsp;ВРЕМЕН И НАРОДОВ</a>
+ <hr style="background:#ffffff; height:1px; border:0">
+<img src="/.s/t/221/23.gif"> <a href="/publ/82" style="text-decoration:none">КОРИФЕИ ЛИТЕРАТУРЫ</a>
+ <hr style="background:#ffffff; height:1px; border:0">
+<img src="/.s/t/221/23.gif"> <a href="/index/0-77" style="text-decoration:none">ЛИТЕРАТУРА В СХЕМАХ И<br>&nbsp;&nbsp;ТАБЛИЦАХ</a>
+ <hr style="background:#ffffff; height:1px; border:0">
+<img src="/.s/t/221/23.gif"> <a href="/publ/299" style="text-decoration:none">ТЕСТЫ ПО ЛИТЕРАТУРЕ</a>
+ <hr style="background:#ffffff; height:1px; border:0">
+<img src="/.s/t/221/23.gif"> <a href="/publ/63" style="text-decoration:none">САМЫЕ ИЗВЕСТНЫЕ МИФЫ И<br>&nbsp;&nbsp;ЛЕГЕНДЫ</a>
+ <hr style="background:#ffffff; height:1px; border:0">
+<img src="/.s/t/221/23.gif"> <a href="/load/69" style="text-decoration:none">КРОССВОРДЫ ПО ЛИТЕРАТУРЕ</a>
+ 
+<!--</s>--><!-- </bc> --></td></tr></tbody></table>
+<!-- </block12> -->
+ 
+<!-- <block2> -->
+
+<table class="boxTable" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td class="boxTitle"><b><!-- <bt> --><!--<s5184>-->ИСТОРИЯ<!--</s>--><!-- </bt> --></b></td></tr><tr><td class="boxContent"><!-- <bc> --><div id="uMenuDiv2" class="uMenuV" style="position:relative;"><ul class="uMenuRoot">
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="http://uroki-sovy.ru/index.php/videouroki-po-istorii-rossii" target="_blank"><span>ВИДЕОУРОКИ ПО ИСТОРИИ РОССИИ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li style="position:relative;"><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><div class="uMenuArrow"></div><a href="/publ/onlajn_uchebniki_po_istorii/332"><span>ОНЛАЙН-УЧЕБНИКИ ПО ИСТОРИИ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div><ul style="display:none;">
+<li><div class="uMenuItem"><a href="/publ/onlajn_uchebniki_po_istorii/vseobshhaja_istorija_istorija_srednikh_vekov_6_klass/338"><span>ВСЕОБЩАЯ ИСТОРИЯ. ИСТОРИЯ СРЕДНИХ ВЕКОВ. 6 КЛАСС</span></a></div></li>
+<li><div class="uMenuItem"><a href="/publ/onlajn_uchebniki_po_istorii/vseobshhaja_istorija_istorija_novogo_vremeni_8_klass/337"><span>ВСЕОБЩАЯ ИСТОРИЯ. ИСТОРИЯ НОВОГО ВРЕМЕНИ. 8 КЛАСС</span></a></div></li>
+<li><div class="uMenuItem"><a href="/publ/onlajn_uchebniki_po_istorii/vseobshhaja_istorija_s_drevnejshikh_vremen_do_konca_xix_veka_10_klass_bazovyj_uroven/334"><span>ВСЕОБЩАЯ ИСТОРИЯ С ДРЕВНЕЙШИХ ВРЕМЕН ДО КОНЦА XIX ВЕКА. 10 КЛАСС. БАЗОВЫЙ</span></a></div></li>
+<li><div class="uMenuItem"><a href="/publ/onlajn_uchebniki_po_istorii/vseobshhaja_istorija_xx_nachalo_xxi_veka_11_klass_bazovyj_uroven/333"><span>ВСЕОБЩАЯ ИСТОРИЯ. XX – НАЧАЛО XXI ВЕКА. 11 КЛАСС. БАЗОВЫЙ УРОВЕНЬ</span></a></div></li></ul></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/publ/93"><span>ВЕЛИКИЕ ТАЙНЫ ДРЕВНЕГО МИРА</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="http://супертинейджеры.рф/publ/istorija_rossii_v_rasskazakh_dlja_shkolnikov/414"><span>ИСТОРИЯ ОТЕЧЕСТВА  В РАССКАЗАХ ДЛЯ ШКОЛЬНИКОВ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li style="position:relative;"><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><div class="uMenuArrow"></div><a href="/publ/450"><span>ИСТОРИЯ РОССИИ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div><ul style="display:none;">
+<li><div class="uMenuItem"><a href="/publ/451"><span>ИСТОРИЯ РОССИИ С ДРЕВНЕЙШИХ ВРЕМЕН ДО НАЧАЛА ХХI ВЕКА</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://супертинейджеры.рф/load/istorija_rossii_v_rasskazakh_i_kartinkakh/159"><span>ИСТОРИЯ РОССИИ В РАССКАЗАХ И КАРТИНКАХ</span></a></div><ul style="display:none;">
+<li><div class="uMenuItem"><a href="http://супертинейджеры.рф/load/istorija_rossii_v_rasskazakh_i_kartinkakh/drevnjaja_rus_istorija_russkogo_naroda_s_i_po_ix_vek/160"><span>ДРЕВНЯЯ РУСЬ. ИСТОРИЯ РУССКОГО НАРОДА С I ПО IX ВЕК</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://супертинейджеры.рф/load/istorija_rossii_v_rasskazakh_i_kartinkakh/geroi_russkoj_istorii/161"><span>ГЕРОИ РУССКОЙ ИСТОРИИ</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://супертинейджеры.рф/load/istorija_rossii_v_rasskazakh_i_kartinkakh/geroi_1812_goda/170"><span>ГЕРОИ 1812 ГОДА</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://супертинейджеры.рф/load/istorija_rossii_v_rasskazakh_i_kartinkakh/aleksandr_i_blagoslovennyj/172"><span>АЛЕКСАНДР I БЛАГОСЛОВЕННЫЙ</span></a></div></li></ul></li>
+<li><div class="uMenuItem"><a href="http://супертинейджеры.рф/index/otechestvennaja_vojna_1812_goda_glazami_rossijan/0-65"><span>ОТЕЧЕСТВЕННАЯ ВОЙНА 1812 ГОДА ГЛАЗАМИ РОССИЯН</span></a></div></li>
+<li><div class="uMenuItem"><a href="/publ/452"><span>ЗАГАДКИ ИСТОРИИ РОССИИ</span></a></div></li></ul></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/publ/95"><span>ВЕЛИКИЕ СОБЫТИЯ ХХ ВЕКА</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li style="position:relative;"><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><div class="uMenuArrow"></div><a href="/publ/rabochie_materialy_k_urokam_istorii/387"><span>РАБОЧИЕ МАТЕРИАЛЫ К УРОКАМ ИСТОРИИ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div><ul style="display:none;">
+<li><div class="uMenuItem"><a href="/publ/433"><span>ИСТОРИЯ ДРЕВНЕГО МИРА. 5 КЛАСС</span></a></div></li>
+<li><div class="uMenuItem"><a href="/publ/rabochie_materialy_k_urokam_istorii/istorija_v_8_klasse_quot_rossija_khikh_vek_quot/388"><span>ИСТОРИЯ В 8 КЛАССЕ "РОССИЯ. ХIХ ВЕК"</span></a></div></li>
+<li><div class="uMenuItem"><a href="/publ/401"><span>ИСТОРИЯ РОССИИ ХХ - НАЧАЛО ХХI ВЕКА</span></a></div></li>
+<li><div class="uMenuItem"><a href="/publ/istorija/rabochie_materialy_k_urokam_po_istorii_s_drevnejshikh_vremen_do_konca_xix_veka/313"><span>ИСТОРИЯ С ДРЕВНЕЙШИХ ВРЕМЕН ДО КОНЦА XIX ВЕКА</span></a></div></li></ul></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="http://супертинейджеры.рф/publ/istorija/tvorcheskie_raboty_po_istorii_novogo_vremeni_7_klass/407"><span>ТВОРЧЕСКИЕ РАБОТЫ ПО ИСТОРИИ НОВОГО ВРЕМЕНИ. 7 КЛАСС</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li style="position:relative;"><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><div class="uMenuArrow"></div><a href="/publ/tematicheskie_testy_po_istorii_rossii/380"><span>ТЕМАТИЧЕСКИЕ ТЕСТЫ ПО ИСТОРИИ РОССИИ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div><ul style="display:none;">
+<li><div class="uMenuItem"><a href="http://супертинейджеры.рф/publ/prepodavanie_istorii/testy_povyshennogo_urovnja_slozhnosti_po_drevnej_istorii_5_klass/422"><span>ТЕСТЫ ПОВЫШЕННОГО УРОВНЯ СЛОЖНОСТИ ПО ДРЕВНЕЙ ИСТОРИИ. 5 КЛАСС</span></a></div></li>
+<li><div class="uMenuItem"><a href="/publ/442"><span>6 КЛАСС</span></a></div></li>
+<li><div class="uMenuItem"><a href="/publ/444"><span>7 КЛАСС</span></a></div></li>
+<li><div class="uMenuItem"><a href="/publ/tematicheskie_testy_po_istorii_rossii/8_klass/381"><span>8 КЛАСС</span></a></div></li>
+<li><div class="uMenuItem"><a href="/publ/tematicheskie_testy_po_istorii_rossii/10_klass_istorija_s_drevnejshikh_vremen_do_konca_19_veka/382"><span>10 КЛАСС. ИСТОРИЯ С ДРЕВНЕЙШИХ ВРЕМЕН ДО КОНЦА 19 ВЕКА</span></a></div><ul style="display:none;">
+<li><div class="uMenuItem"><a href="/index/otvety_na_testy_dlja_10_klassa_po_istorii_s_drevnejshikh_vremen_do_konca_19_veka/0-59"><span>ОТВЕТЫ НА ТЕСТЫ ДЛЯ 10 КЛАССА ПО ИСТОРИИ С ДРЕВНЕЙШИХ ВРЕМЕН ДО КОНЦА 19 ВЕКА</span></a></div></li></ul></li></ul></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/publ/istorija/proverochnye_i_kontrolnye_raboty_po_istorii/378"><span>ПРОВЕРОЧНЫЕ И КОНТРОЛЬНЫЕ РАБОТЫ ПО ИСТОРИИ. 9 КЛАСС</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/index/0-72"><span>СПРАВОЧНИК ПО ИСТОРИИ ДЛЯ ПОДГОТОВКИ К ОГЭ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li style="position:relative;"><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><div class="uMenuArrow"></div><a href="/load/istorija_bez_tajn/149"><span>ИСТОРИЯ БЕЗ ТАЙН</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div><ul style="display:none;">
+<li><div class="uMenuItem"><a href="/publ/drevnie_civilizacii/123"><span>ДРЕВНИЕ ЦИВИЛИЗАЦИИ</span></a></div></li>
+<li><div class="uMenuItem"><a href="/load/istorija_bez_tajn/puteshestvie_v_drevnij_mir/150"><span>ПУТЕШЕСТВИЕ В ДРЕВНИЙ МИР</span></a></div></li>
+<li><div class="uMenuItem"><a href="/load/istorija_bez_tajn/istorija_otechestva/157"><span>ИСТОРИЯ ОТЕЧЕСТВА</span></a></div></li>
+<li><div class="uMenuItem"><a href="/load/istorija_bez_tajn/novaja_i_novejshaja_istorija/151"><span>НОВАЯ И НОВЕЙШАЯ ИСТОРИЯ</span></a></div></li></ul></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/load/71"><span>КРОССВОРДЫ ПО ИСТОРИИ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li style="position:relative;"><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><div class="uMenuArrow"></div><a href="/publ/456"><span>ЕГЭ ПО ИСТОРИИ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div><ul style="display:none;">
+<li><div class="uMenuItem"><a href="/publ/303"><span>ЕГЭ ПО ИСТОРИИ. ТИПОВЫЕ ВАРИАНТЫ ТЕСТОВ</span></a></div></li>
+<li><div class="uMenuItem"><a href="/publ/istorija/uchimsja_pisat_istoricheskoe_sochinenie_dlja_egeh/295"><span>УЧИМСЯ ПИСАТЬ ИСТОРИЧЕСКОЕ СОЧИНЕНИЕ ДЛЯ ЕГЭ</span></a></div></li>
+<li><div class="uMenuItem"><a href="/publ/457"><span>СВЕДЕНИЯ ОБ ИСТОРИЧЕСКИХ ДЕЯТЕЛЯХ ДЛЯ СОЧИНЕНИЯ НА ЕГЭ ПО ИСТОРИИ</span></a></div></li></ul></li></ul></div><script type="text/javascript">$(function(){_uBuildMenu('#uMenuDiv2',0,document.location.href+'/','uMenuItemA','uMenuArrow',2500);})</script><!-- </bc> --></td></tr></tbody></table>
+
+<!-- </block2> -->
+ 
+ <!-- <block1> -->
+<table class="boxTable" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td><!-- Yandex.RTB R-A-352124-5 -->
+<div id="yandex_rtb_R-A-352124-5"></div>
+<script type="text/javascript">
+ (function(w, d, n, s, t) {
+ w[n] = w[n] || [];
+ w[n].push(function() {
+ Ya.Context.AdvManager.render({
+ blockId: "R-A-352124-5",
+ renderTo: "yandex_rtb_R-A-352124-5",
+ async: true
+ });
+ });
+ t = d.getElementsByTagName("script")[0];
+ s = d.createElement("script");
+ s.type = "text/javascript";
+ s.src = "//an.yandex.ru/system/context.js";
+ s.async = true;
+ t.parentNode.insertBefore(s, t);
+ })(this, this.document, "yandexContextAsyncCallbacks");
+</script></td></tr></tbody></table>
+<!-- </block1> -->
+<br>
+<!-- <block12> -->
+<table style="" class="boxTable" border="0" cellpadding="0" cellspacing="0"><tbody style=""><tr><td class="boxTitle"><b><!-- <bt> --><!--<s5204>-->АНГЛИЙСКИЙ ЯЗЫК<!--</s>--><!-- </bt> --></b></td></tr><tr style=""><td style="" class="boxContent"><!-- <bc> --><!--<s1546>-->
+ 
+ <img src="/.s/t/221/23.gif"> <a href="/index/0-87" style="text-decoration:none">ИНОСТРАННЫЕ ЯЗЫКИ. <br>&nbsp;&nbsp;РАЗГОВОРНЫЕ ТЕМЫ</a>
+ <hr style="background:#ffffff; height:1px; border:0">
+<img src="/.s/t/221/23.gif"> <a href="/publ/240" style="text-decoration:none">САМОСТОЯТЕЛЬНЫЕ РАБОТЫ <br>&nbsp;&nbsp;ПО АНГЛИЙСКОМУ ЯЗЫКУ</a>
+ <hr style="background:#ffffff; height:1px; border:0">
+<img src="/.s/t/221/23.gif"> <a href="/index/0-80" style="text-decoration:none">ПРАВИЛА ИСПОЛЬЗОВАНИЯ <br>&nbsp;&nbsp;АНГЛИЙСКИХ АРТИКЛЕЙ</a>
+ <hr style="background:#ffffff; height:1px; border:0">
+<img src="/.s/t/221/23.gif"> <a href="/publ/342" style="text-decoration:none">ТЕСТЫ ПО ГРАММАТИКЕ <br>&nbsp;&nbsp;АНГЛИЙСКОГО ЯЗЫКА</a>
+ <hr style="background:#ffffff; height:1px; border:0">
+ <img src="/.s/t/221/23.gif"> <a href="/publ/310" style="text-decoration:none">ТЕМАТИЧЕСКИЙ КОНТРОЛЬ. <br>&nbsp;&nbsp;9 КЛАСС</a>
+ <hr style="background:#ffffff; height:1px; border:0">
+<img src="/.s/t/221/23.gif"> <a href="/publ/306" style="text-decoration:none">ПОДГОТОВКА К ЕГЭ ПО <br>&nbsp;&nbsp;АНГЛИЙСКОМУ ЯЗЫКУ</a>
+ <hr style="background:#ffffff; height:1px; border:0">
+<img src="/.s/t/221/23.gif"> <a href="/load/78" style="text-decoration:none">КРОССВОРДЫ ПО <br>&nbsp;&nbsp;АНГЛИЙСКОМУ ЯЗЫКУ</a>
+ <hr style="background:#ffffff; height:1px; border:0">
+<!--</s>--><!-- </bc> --></td></tr></tbody></table>
+<!-- </block12> -->
+
+
+<!-- <block1> -->
+
+<table class="boxTable" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td class="boxTitle"><b><!-- <bt> --><!--<s5184>-->МАТЕМАТИКА - ЦАРИЦА НАУК<!--</s>--><!-- </bt> --></b></td></tr><tr><td class="boxContent"><!-- <bc> --><div id="uMenuDiv5" class="uMenuV" style="position:relative;"><ul class="uMenuRoot">
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/index/0-71"><span>ЧИСЛА: ОТ АРИФМЕТИКИ ДО ВЫСШЕЙ МАТЕМАТИКИ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li style="position:relative;"><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><div class="uMenuArrow"></div><a href="/publ/rabochie_materialy_k_urokam_matematiki/371"><span>РАБОЧИЕ МАТЕРИАЛЫ К УРОКАМ МАТЕМАТИКИ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div><ul style="display:none;">
+<li><div class="uMenuItem"><a href="/publ/rabochie_materialy_k_urokam_matematiki/5_klass/372"><span>5 КЛАСС</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://супертинейджеры.рф/publ/rabochie_materialy_k_urokam_matematiki/6_klass/406"><span>6 КЛАСС</span></a></div></li></ul></li>
+<li style="position:relative;"><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><div class="uMenuArrow"></div><a href="/publ/geometrija/335"><span>РАБОЧИЕ МАТЕРИАЛЫ К УРОКАМ ГЕОМЕТРИИ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div><ul style="display:none;">
+<li><div class="uMenuItem"><a href="/publ/geometrija/rabochie_materialy_k_urokam_geometrii_8_klass/336"><span>8 КЛАСС</span></a></div></li></ul></li>
+<li style="position:relative;"><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><div class="uMenuArrow"></div><a href="http://супертинейджеры.рф/publ/samostojatelnye_raboty_po_matematike/404"><span>САМОСТОЯТЕЛЬНЫЕ РАБОТЫ ПО МАТЕМАТИКЕ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div><ul style="display:none;">
+<li><div class="uMenuItem"><a href="http://супертинейджеры.рф/publ/samostojatelnye_raboty_po_matematike/5_klass/405"><span>5 КЛАСС</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://супертинейджеры.рф/publ/samostojatelnye_raboty_po_matematike/7_klass/412"><span>7 КЛАСС</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://супертинейджеры.рф/publ/samostojatelnye_raboty_po_matematike/8_klass/419"><span>8 КЛАСС</span></a></div></li></ul></li>
+<li style="position:relative;"><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><div class="uMenuArrow"></div><a href="/publ/promezhutochnoe_testirovanie_po_matematike/373"><span>ПРОМЕЖУТОЧНОЕ ТЕСТИРОВАНИЕ ПО МАТЕМАТИКЕ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div><ul style="display:none;">
+<li><div class="uMenuItem"><a href="/publ/promezhutochnoe_testirovanie_po_matematike/5_klass/374"><span>5 КЛАСС</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://супертинейджеры.рф/publ/promezhutochnoe_testirovanie_po_matematike/6_klass/418"><span>6 КЛАСС</span></a></div></li>
+<li><div class="uMenuItem"><a href="/publ/promezhutochnoe_testirovanie_po_matematike/11_klass/379"><span>11 КЛАСС</span></a></div></li></ul></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="http://doroga-v-shkolu.ru/index.php/poeticheskij-kalejdoskop-chisla-i-figury" target="_blank"><span>ПОЭТИЧЕСКИЙ КАЛЕЙДОСКОП "ЧИСЛА И ФИГУРЫ"</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li style="position:relative;"><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><div class="uMenuArrow"></div><a href="http://супертинейджеры.рф/publ/testy_dlja_ocenki_kachestva_obuchenija_po_algebre/415"><span>ТЕСТЫ ДЛЯ ОЦЕНКИ КАЧЕСТВА ОБУЧЕНИЯ ПО АЛГЕБРЕ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div><ul style="display:none;">
+<li><div class="uMenuItem"><a href="/publ/441"><span>9 КЛАСС</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://супертинейджеры.рф/publ/testy_dlja_ocenki_kachestva_obuchenija_po_algebre/10_klass/416"><span>10 КЛАСС</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://супертинейджеры.рф/publ/testy_dlja_ocenki_kachestva_obuchenija_po_algebre/11_klass/417"><span>11 КЛАСС</span></a></div></li></ul></li>
+<li style="position:relative;"><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><div class="uMenuArrow"></div><a href="/publ/tematicheskij_kontrol_po_geometrii/348"><span>ТЕМАТИЧЕСКИЙ КОНТРОЛЬ ПО ГЕОМЕТРИИ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div><ul style="display:none;">
+<li><div class="uMenuItem"><a href="/publ/tematicheskij_kontrol_po_geometrii/7_klass/352"><span>7 КЛАСС</span></a></div></li>
+<li><div class="uMenuItem"><a href="/publ/tematicheskij_kontrol_po_geometrii/8/351"><span>8 КЛАСС</span></a></div></li>
+<li><div class="uMenuItem"><a href="/publ/tematicheskij_kontrol_po_geometrii/9_klass/350"><span>9 КЛАСС</span></a></div></li></ul></li>
+<li style="position:relative;"><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><div class="uMenuArrow"></div><a href="http://супертинейджеры.рф/publ/samostojatelnye_raboty_po_geometrii/393"><span>САМОСТОЯТЕЛЬНЫЕ РАБОТЫ ПО ГЕОМЕТРИИ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div><ul style="display:none;">
+<li><div class="uMenuItem"><a href="http://супертинейджеры.рф/publ/samostojatelnye_raboty_po_geometrii/7_klass/394"><span>7 КЛАСС</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://супертинейджеры.рф/publ/samostojatelnye_raboty_po_geometrii/8_klass/395"><span>8 КЛАСС</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://супертинейджеры.рф/publ/samostojatelnye_raboty_po_geometrii/9_klass/396"><span>9 КЛАСС</span></a></div></li></ul></li>
+<li style="position:relative;"><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><div class="uMenuArrow"></div><a href="/publ/kontrolnye_raboty_po_matematike/282"><span>КОНТРОЛЬНЫЕ РАБОТЫ ПО МАТЕМАТИКЕ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div><ul style="display:none;">
+<li><div class="uMenuItem"><a href="/publ/kontrolnye_raboty_po_matematike/5_klass/283"><span>5 КЛАСС</span></a></div></li>
+<li><div class="uMenuItem"><a href="/publ/kontrolnye_raboty_po_matematike/6_klass/284"><span>6 КЛАСС</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://супертинейджеры.рф/publ/kontrolnye_raboty_po_matematike/7_klass/409"><span>7 КЛАСС</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://супертинейджеры.рф/publ/kontrolnye_raboty_po_matematike/8_klass/410"><span>8 КЛАСС</span></a></div></li>
+<li><div class="uMenuItem"><a href="/publ/kontrolnye_raboty_po_matematike/9_klass/285"><span>9 КЛАСС</span></a></div></li>
+<li><div class="uMenuItem"><a href="/publ/kontrolnye_raboty_po_matematike/10_klass/286"><span>10 КЛАСС</span></a></div></li>
+<li><div class="uMenuItem"><a href="/publ/kontrolnye_raboty_po_matematike/11_klass/287"><span>11 КЛАСС</span></a></div></li></ul></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/publ/460"><span>СКАЗОЧНЫЕ ОЛИМПИАДЫ ПО МАТЕМАТИКЕ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/publ/288"><span>ГИА ПО МАТЕМАТИКЕ В 9 КЛАССЕ. ТИПОВЫЕ ЗАДАНИЯ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="http://супертинейджеры.рф/publ/matematika/uchebno_trenirovochnye_testy_dlja_podgotovki_k_ogeh_9_klass/400"><span>УЧЕБНО-ТРЕНИРОВОЧНЫЕ ТЕСТЫ ДЛЯ ПОДГОТОВКИ К ОГЭ. 9 КЛАСС</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li style="position:relative;"><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><div class="uMenuArrow"></div><a href="/publ/matematika/307"><span>ПОДГОТОВКА К ЕГЭ ПО МАТЕМАТИКЕ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div><ul style="display:none;">
+<li><div class="uMenuItem"><a href="/publ/matematika/tipovye_varianty_egeh_po_matematike_chast_s/281"><span>ТИПОВЫЕ ВАРИАНТЫ ЕГЭ ПО МАТЕМАТИКЕ. ЧАСТЬ С</span></a></div></li>
+<li><div class="uMenuItem"><a href="/publ/307"><span>ЕГЭ ПО МАТЕМАТИКЕ</span></a></div></li></ul></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/load/166"><span>МАТЕМАТИЧЕСКАЯ СОСТАВЛЯЮЩАЯ ВСЕХ ДОСТИЖЕНИЙ ЦИВИЛИЗАЦИИ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li style="position:relative;"><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><div class="uMenuArrow"></div><a href="/publ/matematicheskij_kruzhok_v_shkole/324"><span> МАТЕМАТИЧЕСКИЙ КРУЖОК В ШКОЛЕ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div><ul style="display:none;">
+<li><div class="uMenuItem"><a href="/publ/matematicheskij_kruzhok_v_shkole/izobretatelnost_v_vychislenijakh/319"><span>ИЗОБРЕТАТЕЛЬНОСТЬ В ВЫЧИСЛЕНИЯХ</span></a></div></li>
+<li><div class="uMenuItem"><a href="/publ/matematicheskij_kruzhok_v_shkole/chetnost/325"><span>ЧЕТНОСТЬ</span></a></div></li>
+<li><div class="uMenuItem"><a href="/publ/matematicheskij_kruzhok_v_shkole/klassicheskie_srednie_v_arifmetike_i_v_geometrii/326"><span>КЛАССИЧЕСКИЕ СРЕДНИЕ В АРИФМЕТИКЕ И В ГЕОМЕТРИИ</span></a></div></li>
+<li><div class="uMenuItem"><a href="/publ/matematicheskij_kruzhok_v_shkole/nepreryvnost/390"><span>НЕПРЕРЫВНОСТЬ</span></a></div></li></ul></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/index/0-58"><span>ЗАДАЧКИ ОТ ГРИГОРИЯ ОСТЕРА</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/load/70"><span>КРОССВОРДЫ ПО МАТЕМАТИКЕ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li></ul></div><script type="text/javascript">$(function(){_uBuildMenu('#uMenuDiv5',0,document.location.href+'/','uMenuItemA','uMenuArrow',2500);})</script><!-- </bc> --></td></tr></tbody></table>
+
+<!-- </block1> -->
+
+<!-- <block4> -->
+
+<table class="boxTable" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td class="boxTitle"><b><!-- <bt> --><!--<s5184>-->БИОЛОГИЯ<!--</s>--><!-- </bt> --></b></td></tr><tr><td class="boxContent"><!-- <bc> --><div id="uMenuDiv4" class="uMenuV" style="position:relative;"><ul class="uMenuRoot">
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="http://uroki-sovy.ru/index.php/mnemonicheskie-pravila-po-biologii" target="_blank"><span>МНЕМОНИЧЕСКИЕ ПРАВИЛА ПО БИОЛОГИИ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li style="position:relative;"><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><div class="uMenuArrow"></div><a href="/publ/461"><span>БОТАНИКА</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div><ul style="display:none;">
+<li><div class="uMenuItem"><a href="/publ/462"><span>УДИВИТЕЛЬНЫЙ МИР РАСТЕНИЙ</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://супертинейджеры.рф/publ/udivitelnoe_rjadom/samye_neobychnye_rastenija_mira/98"><span>САМЫЕ НЕОБЫЧНЫЕ РАСТЕНИЯ МИРА</span></a></div></li></ul></li>
+<li style="position:relative;"><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><div class="uMenuArrow"></div><a href="http://супертинейджеры.рф/publ/udivitelnoe_rjadom/97"><span>ЗООЛОГИЯ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div><ul style="display:none;">
+<li><div class="uMenuItem"><a href="http://barbos.my1.ru/publ/ehnciklopedija_domashnikh_zhivotnykh/33" target="_blank"><span>ЭНЦИКЛОПЕДИЯ ЖИВОТНЫХ</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://супертинейджеры.рф/publ/udivitelnoe_rjadom/nasekomye_pod_mikroskopom/124"><span>НАСЕКОМЫЕ ПОД МИКРОСКОПОМ</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://супертинейджеры.рф/publ/udivitelnoe_rjadom/ehpokha_dinozavrov/105"><span>ЭПОХА ДИНОЗАВРОВ</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://супертинейджеры.рф/udivitelnoe_rjadom/ocherki_i_rasskazy_o_zhivotnykh/213"><span>ОЧЕРКИ И РАССКАЗЫ О ЖИВОТНЫХ</span></a></div></li></ul></li>
+<li style="position:relative;"><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><div class="uMenuArrow"></div><a href="http://супертинейджеры.рф/publ/izuchaem_chelovecheskij_organizm/158"><span>ИЗУЧАЕМ ЧЕЛОВЕЧЕСКИЙ ОРГАНИЗМ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div><ul style="display:none;">
+<li><div class="uMenuItem"><a href="http://супертинейджеры.рф/publ/izuchaem_chelovecheskij_organizm/serdce/159"><span>СЕРДЦЕ</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://супертинейджеры.рф/publ/izuchaem_chelovecheskij_organizm/krovoobrashhenie/160"><span>КРОВООБРАЩЕНИЕ</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://супертинейджеры.рф/publ/izuchaem_chelovecheskij_organizm/legkie/161"><span>ЛЕГКИЕ</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://супертинейджеры.рф/publ/izuchaem_chelovecheskij_organizm/dykhanie/162"><span>ДЫХАНИЕ</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://супертинейджеры.рф/publ/izuchaem_chelovecheskij_organizm/skelet/163"><span>СКЕЛЕТ</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://супертинейджеры.рф/publ/izuchaem_chelovecheskij_organizm/kosti/164"><span>КОСТИ</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://супертинейджеры.рф//izuchaem_chelovecheskij_organizm/myshcy/166"><span>МЫШЦЫ</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://супертинейджеры.рф//publ/izuchaem_chelovecheskij_organizm/dvizhenie/167"><span>ДВИЖЕНИЕ</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://супертинейджеры.рф/publ/izuchaem_chelovecheskij_organizm/kozha_i_ee_zashhita/168"><span>КОЖА И ЕЕ ЗАЩИТА</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://супертинейджеры.рф//publ/izuchaem_chelovecheskij_organizm/zuby/169"><span>РОТ И ЗУБЫ</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://супертинейджеры.рф//publ/izuchaem_chelovecheskij_organizm/vkus_i_obonjanie/170"><span>ВКУС И ОБОНЯНИЕ</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://супертинейджеры.рф//publ/izuchaem_chelovecheskij_organizm/pishhevaritelnaja_sistema/171"><span>ПИЩЕВАРИТЕЛЬНАЯ СИСТЕМА</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://супертинейджеры.рф//publ/izuchaem_chelovecheskij_organizm/pechen/172"><span>ПЕЧЕНЬ</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://супертинейджеры.рф//publ/izuchaem_chelovecheskij_organizm/metabolizm/173"><span>МЕТАБОЛИЗМ</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://супертинейджеры.рф//publ/izuchaem_chelovecheskij_organizm/mozg/174"><span>МОЗГ</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://супертинейджеры.рф//publ/izuchaem_chelovecheskij_organizm/lichnost_i_obshhenie/175"><span>ЛИЧНОСТЬ И ОБЩЕНИЕ</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://супертинейджеры.рф//publ/izuchaem_chelovecheskij_organizm/glaza_i_zrenie/176"><span>ГЛАЗА И ЗРЕНИЕ</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://супертинейджеры.рф//publ/izuchaem_chelovecheskij_organizm/ukho_i_slukh/177"><span>УХО И СЛУХ</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://супертинейджеры.рф//publ/izuchaem_chelovecheskij_organizm/pochki/178"><span>ПОЧКИ</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://супертинейджеры.рф//publ/izuchaem_chelovecheskij_organizm/filtry_chelovecheskogo_tela/179"><span>ФИЛЬТРЫ ЧЕЛОВЕЧЕСКОГО ТЕЛА</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://супертинейджеры.рф//publ/izuchaem_chelovecheskij_organizm/nejrony/180"><span>НЕЙРОНЫ</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://супертинейджеры.рф//publ/izuchaem_chelovecheskij_organizm/nervnaja_sistema/181"><span>НЕРВНАЯ СИСТЕМА</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://супертинейджеры.рф//publ/izuchaem_chelovecheskij_organizm/limfosistema/182"><span>ЛИМФОСИСТЕМА</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://супертинейджеры.рф//publ/izuchaem_chelovecheskij_organizm/zhelezy/183"><span>ЖЕЛЕЗЫ</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://супертинейджеры.рф//publ/izuchaem_chelovecheskij_organizm/kostnyj_mozg/184"><span>КОСТНЫЙ МОЗГ</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://супертинейджеры.рф//publ/izuchaem_chelovecheskij_organizm/transplantacija/185"><span>ТРАНСПЛАНТАЦИЯ</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://супертинейджеры.рф//publ/izuchaem_chelovecheskij_organizm/krov/186"><span>КРОВЬ</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://супертинейджеры.рф//publ/izuchaem_chelovecheskij_organizm/trombocity/187"><span>ТРОМБОЦИТЫ</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://супертинейджеры.рф//publ/izuchaem_chelovecheskij_organizm/kletka/188"><span>КЛЕТКА</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://супертинейджеры.рф//publ/izuchaem_chelovecheskij_organizm/chasovye_organizma/189"><span>ЧАСОВЫЕ ОРГАНИЗМА</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://супертинейджеры.рф//publ/izuchaem_chelovecheskij_organizm/immunitet_autoagressija/190"><span>ИММУНИТЕТ. АУТОАГРЕССИЯ</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://супертинейджеры.рф//publ/izuchaem_chelovecheskij_organizm/vojna_s_mikrobami/191"><span>ВОЙНА С МИКРОБАМИ</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://супертинейджеры.рф//publ/izuchaem_chelovecheskij_organizm/gormony/203"><span>ГОРМОНЫ</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://супертинейджеры.рф//publ/izuchaem_chelovecheskij_organizm/privivki/193"><span>ПРИВИВКИ</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://супертинейджеры.рф//publ/izuchaem_chelovecheskij_organizm/nasledstvennost/194"><span>НАСЛЕДСТВЕННОСТЬ</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://супертинейджеры.рф//publ/izuchaem_chelovecheskij_organizm/son/195"><span>СОН</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://супертинейджеры.рф//publ/izuchaem_chelovecheskij_organizm/organizacija_svobodnogo_vremeni/196"><span>ОРГАНИЗАЦИЯ СВОБОДНОГО ВРЕМЕНИ</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://супертинейджеры.рф//publ/izuchaem_chelovecheskij_organizm/proiskhozhdenie_zhizni/197"><span>ПРОИСХОЖДЕНИЕ ЖИЗНИ</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://супертинейджеры.рф//publ/izuchaem_chelovecheskij_organizm/seksualnost/198"><span>СЕКСУАЛЬНОСТЬ</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://супертинейджеры.рф//publ/izuchaem_chelovecheskij_organizm/novaja_zhizn/199"><span>НОВАЯ ЖИЗНЬ</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://супертинейджеры.рф//publ/izuchaem_chelovecheskij_organizm/preemstvennost_zhizni/200"><span>ПРЕЕМСТВЕННОСТЬ ЖИЗНИ</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://супертинейджеры.рф//publ/izuchaem_chelovecheskij_organizm/krupnejshie_uchenye_anatomy/201"><span>КРУПНЕЙШИЕ УЧЕНЫЕ-АНАТОМЫ</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://супертинейджеры.рф//publ/izuchaem_chelovecheskij_organizm/vozrastnye_ehtapy/202"><span>ВОЗРАСТНЫЕ ЭТАПЫ</span></a></div></li></ul></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="http://супертинейджеры.рф/index/udivitelnye_fakty_o_cheloveke_k_urokam_anatomii/0-67"><span>УДИВИТЕЛЬНЫЕ ФАКТЫ О ЧЕЛОВЕКЕ К УРОКАМ АНАТОМИИ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="http://супертинейджеры.рф//publ/udivitelnoe_estestvoznanie/samye_neobychnye_prirodnye_javlenija/99"><span>САМЫЕ НЕОБЫЧНЫЕ ПРИРОДНЫЕ ЯВЛЕНИЯ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="http://супертинейджеры.рф//index/biologicheskie_zadachi/0-60"><span>БИОЛОГИЧЕСКИЕ ЗАДАЧИ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li style="position:relative;"><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><div class="uMenuArrow"></div><a href="/publ/296"><span>ЕГЭ ПО БИОЛОГИИ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div><ul style="display:none;">
+<li><div class="uMenuItem"><a href="http://супертинейджеры.рф//publ/biologija/100_dnej_do_egeh_po_biologii/370"><span>100 ДНЕЙ ДО ЕГЭ ПО БИОЛОГИИ</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://супертинейджеры.рф//publ/biologija/egeh_po_biologii/297"><span>ПОДГОТОВКА К ЕГЭ ПО БИОЛОГИИ</span></a></div></li></ul></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/load/72"><span>КРОССВОРДЫ ПО БИОЛОГИИ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li></ul></div><script type="text/javascript">$(function(){_uBuildMenu('#uMenuDiv4',0,document.location.href+'/','uMenuItemA','uMenuArrow',2500);})</script><!-- </bc> --></td></tr></tbody></table>
+
+<!-- </block4> -->
+
+<!-- <block1> -->
+
+<table class="boxTable" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td class="boxTitle"><b><!-- <bt> --><!--<s5184>-->ГЕОГРАФИЯ<!--</s>--><!-- </bt> --></b></td></tr><tr><td class="boxContent"><!-- <bc> --><div id="uMenuDiv7" class="uMenuV" style="position:relative;"><ul class="uMenuRoot">
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/publ/udivitelnaja_geografija/223"><span>УДИВИТЕЛЬНАЯ ГЕОГРАФИЯ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/publ/463"><span>КАК ОТКРЫВАЛИ НАШУ ЗЕМЛЮ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/publ/435"><span>ПЛАНЕТА ЗЕМЛЯ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/publ/30"><span>ВЕЛИКИЕ ЗАГАДКИ ПРИРОДЫ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li style="position:relative;"><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><div class="uMenuArrow"></div><a href="/publ/strany_i_narody/356"><span>СТРАНЫ И НАРОДЫ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div><ul style="display:none;">
+<li><div class="uMenuItem"><a href="/publ/strany_i_narody/evropa_i_rossija/359"><span>ЕВРОПА </span></a></div></li>
+<li><div class="uMenuItem"><a href="/publ/strany_i_narody/rossija/368"><span>РОССИЯ</span></a></div></li>
+<li><div class="uMenuItem"><a href="/publ/strany_i_narody/azija/360"><span>АЗИЯ</span></a></div></li>
+<li><div class="uMenuItem"><a href="/publ/strany_i_narody/amerika_avstralija_i_okeanija/357"><span>АВСТРАЛИЯ И ОКЕАНИЯ</span></a></div></li>
+<li><div class="uMenuItem"><a href="/publ/strany_i_narody/amerika/358"><span>АМЕРИКА</span></a></div></li>
+<li><div class="uMenuItem"><a href="/publ/strany_i_narody/afrika/361"><span>АФРИКА</span></a></div></li></ul></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/publ/464"><span>ОСТРОВА</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/publ/23"><span>ВЕЛИКИЕ ГОРОДА МИРА</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/index/0-78"><span>ТЯСЯЧА ЛУЧШИХ МЕСТ ПЛАНЕТЫ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/index/0-82"><span>ШТАТЫ США</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/index/0-83"><span>ЗЕМЛИ ГЕРМАНИИ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/index/0-84"><span>ДЕПАРТАМЕНТЫ ФРАНЦИИ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/index/0-70"><span>НАРОДЫ СЕВЕРА</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li style="position:relative;"><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><div class="uMenuArrow"></div><a href="/publ/zadanija_i_uprazhnenija_po_geografii/320"><span>ЗАДАНИЯ И УПРАЖНЕНИЯ ПО ГЕОГРАФИИ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div><ul style="display:none;">
+<li><div class="uMenuItem"><a href="/publ/zadanija_i_uprazhnenija_po_geografii/6_klass/321"><span>6 КЛАСС</span></a></div></li>
+<li><div class="uMenuItem"><a href="/publ/zadanija_i_uprazhnenija_po_geografii/9_klass/322"><span>9 КЛАСС</span></a></div></li></ul></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="https://drive.google.com/file/d/0B6SnFJRZNp5wRFFOOWxod0FVeTg/view?usp=sharing" target="_blank"><span>ОБРАЗЦЫ РЕШЕНИЯ ТИПОВЫХ ЗАДАЧ ПО ГЕОГРАФИИ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="https://drive.google.com/file/d/0B6SnFJRZNp5wZGFfMV93aHdmSXM/view" target="_blank"><span>ПРАКТИКУМ ПО РЕШЕНИЮ ГЕОГРАФИЧЕСКИХ ЗАДАЧ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li style="position:relative;"><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><div class="uMenuArrow"></div><a href="/publ/rabochie_materialy_k_urokam_geografii/347"><span>РАБОЧИЕ МАТЕРИАЛЫ К УРОКАМ ГЕОГРАФИИ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div><ul style="display:none;">
+<li><div class="uMenuItem"><a href="/publ/rabochie_materialy_k_urokam_geografii/5_klass/349"><span>5 КЛАСС</span></a></div></li>
+<li><div class="uMenuItem"><a href="/publ/rabochie_materialy_k_urokam_geografii/8_klass/353"><span>8 КЛАСС</span></a></div></li></ul></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/publ/geografija/egeh_2015_po_geografii/302"><span>ПОДГОТОВКА К ЕГЭ ПО ГЕОГРАФИИ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/publ/436"><span>БИОСФЕРА И ЭКОЛОГИЧЕСКАЯ ПОЛИТИКА</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/load/73"><span>КРОССВОРДЫ ПО ГЕОГРАФИИ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li></ul></div><script type="text/javascript">$(function(){_uBuildMenu('#uMenuDiv7',0,document.location.href+'/','uMenuItemA','uMenuArrow',2500);})</script><!-- </bc> --></td></tr></tbody></table>
+
+<!-- </block1> -->
+
+<!-- <block1> -->
+
+<table class="boxTable" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td class="boxTitle"><b><!-- <bt> --><!--<s5184>-->ФИЗИКА<!--</s>--><!-- </bt> --></b></td></tr><tr><td class="boxContent"><!-- <bc> --><div id="uMenuDiv9" class="uMenuV" style="position:relative;"><ul class="uMenuRoot">
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/publ/fizika/istorija_fiziki/314"><span>ИСТОРИЯ ФИЗИКИ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/publ/fizika/udivitelnaja_fizika/106"><span>УДИВИТЕЛЬНАЯ ФИЗИКА</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li style="position:relative;"><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><div class="uMenuArrow"></div><a href="/publ/427"><span>РАБОЧИЕ МАТЕРИАЛЫ К УРОКАМ ФИЗИКИ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div><ul style="display:none;">
+<li><div class="uMenuItem"><a href="/publ/428"><span>8 КЛАСС</span></a></div></li>
+<li><div class="uMenuItem"><a href="/publ/429"><span>9 КЛАСС</span></a></div></li></ul></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/publ/fizika/otkryvaem_zakony_fiziki/219"><span>ОТКРЫВАЕМ ЗАКОНЫ ФИЗИКИ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li style="position:relative;"><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><div class="uMenuArrow"></div><a href="/publ/453"><span>ОПОРНЫЕ СХЕМЫ ПО ФИЗИКЕ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div><ul style="display:none;">
+<li><div class="uMenuItem"><a href="/publ/454"><span>10 КЛАСС</span></a></div></li>
+<li><div class="uMenuItem"><a href="/publ/455"><span>11 КЛАСС</span></a></div></li></ul></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/publ/fizika/slozhnye_zakony_fiziki_v_prostykh_opytakh/258"><span>СЛОЖНЫЕ ЗАКОНЫ ФИЗИКИ В ПРОСТЫХ ОПЫТАХ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li style="position:relative;"><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><div class="uMenuArrow"></div><a href="/publ/445"><span>ЛАБОРАТОРНЫЕ РАБОТЫ ПО ФИЗИКЕ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div><ul style="display:none;">
+<li><div class="uMenuItem"><a href="/publ/446"><span>8 КЛАСС</span></a></div></li>
+<li><div class="uMenuItem"><a href="/publ/447"><span>11 КЛАСС. БАЗОВЫЙ УРОВЕНЬ</span></a></div></li>
+<li><div class="uMenuItem"><a href="/publ/411"><span>11 КЛАСС. ПРОФИЛЬНЫЙ УРОВЕНЬ</span></a></div></li></ul></li>
+<li style="position:relative;"><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><div class="uMenuArrow"></div><a href="/publ/402"><span>САМОСТОЯТЕЛЬНЫЕ РАБОТЫ ПО ФИЗИКЕ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div><ul style="display:none;">
+<li><div class="uMenuItem"><a href="/publ/440"><span>8 КЛАСС</span></a></div></li>
+<li><div class="uMenuItem"><a href="/publ/403"><span>9 КЛАСС</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://супертинейджеры.рф/publ/samostojatelnye_raboty_po_fizike/11_klass/420"><span>11 КЛАСС</span></a></div></li></ul></li>
+<li style="position:relative;"><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><div class="uMenuArrow"></div><a href="/publ/raznourovnevye_kontrolnye_raboty_po_fizike/327"><span>РАЗНОУРОВНЕВЫЕ КОНТРОЛЬНЫЕ РАБОТЫ ПО ФИЗИКЕ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div><ul style="display:none;">
+<li><div class="uMenuItem"><a href="/publ/raznourovnevye_kontrolnye_raboty_po_fizike/8_klass/328"><span>8 КЛАСС</span></a></div></li>
+<li><div class="uMenuItem"><a href="/publ/raznourovnevye_kontrolnye_raboty_po_fizike/9_klass/329"><span>9 КЛАСС</span></a></div></li></ul></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/publ/fizika/udivitelnaja_mekhanika/107"><span>УДИВИТЕЛЬНАЯ МЕХАНИКА</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/publ/nauchnye_razvlechenija/ehlektronnye_fokusy_dlja_ljuboznatelnykh_shkolnikov/216"><span>ЭЛЕКТРОННЫЕ ФОКУСЫ ДЛЯ ЛЮБОЗНАТЕЛЬНЫХ ШКОЛЬНИКОВ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/publ/nauchnye_razvlechenija/fizika_v_igrakh/207"><span>ФИЗИКА В ИГРАХ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li style="position:relative;"><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><div class="uMenuArrow"></div><a href="/publ/testy_po_fizike/354"><span>ТЕСТЫ ПО ФИЗИКЕ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div><ul style="display:none;">
+<li><div class="uMenuItem"><a href="/publ/testy_po_fizike/7_klass/364"><span>7 КЛАСС</span></a></div></li>
+<li><div class="uMenuItem"><a href="/publ/testy_po_fizike/8_klass/365"><span>8 КЛАСС</span></a></div></li>
+<li><div class="uMenuItem"><a href="/publ/testy_po_fizike_11_klass/362"><span>11 КЛАСС</span></a></div><ul style="display:none;">
+<li><div class="uMenuItem"><a href="/publ/testy_po_fizike_11_klass/i_chast/363"><span>I ЧАСТЬ</span></a></div></li>
+<li><div class="uMenuItem"><a href="/publ/testy_po_fizike_11_klass/11_klass/355"><span>II ЧАСТЬ</span></a></div></li></ul></li></ul></li>
+<li style="position:relative;"><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><div class="uMenuArrow"></div><a href="/publ/289"><span>ЕГЭ ПО ФИЗИКЕ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div><ul style="display:none;">
+<li><div class="uMenuItem"><a href="/publ/300"><span>ТРЕНИРОВОЧНЫЕ ТЕСТЫ В ФОРМАТЕ ЕГЭ</span></a></div></li>
+<li><div class="uMenuItem"><a href="/publ/fizika/tipovye_varianty_egeh_po_fizike/291"><span>КОНТРОЛЬНО-ИЗМЕРИТЕЛЬНЫЕ МАТЕРИАЛЫ В ФОРМАТЕ ЕГЭ</span></a></div></li></ul></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/publ/fizika/shturm_absoljutnogo_nulja/221"><span>ФИЗИКА ТЕМПЕРАТУР. ШТУРМ АБСОЛЮТНОГО НУЛЯ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="http://супертинейджеры.рф/publ/nauchnye_razvlechenija/veselye_fokusy_i_samodelki/211"><span>ВЕСЕЛЫЕ ФОКУСЫ И САМОДЕЛКИ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/load/74"><span>КРОССВОРДЫ ПО ФИЗИКЕ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li></ul></div><script type="text/javascript">$(function(){_uBuildMenu('#uMenuDiv9',0,document.location.href+'/','uMenuItemA','uMenuArrow',2500);})</script><!-- </bc> --></td></tr></tbody></table>
+
+<!-- </block1> -->
+
+<!-- <block12> -->
+<table class="boxTable" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td class="boxTitle"><b><!-- <bt> --><!--<s5204>-->АСТРОНОМИЯ<!--</s>--><!-- </bt> --></b></td></tr><tr><td class="boxContent"><!-- <bc> --><!--<s1546>-->
+ 
+ <img src="/.s/t/221/23.gif"> <a href="/publ/235" style="text-decoration:none">УДИВИТЕЛЬНАЯ<br>&nbsp;&nbsp;АСТРОНОМИЯ</a>
+ <hr style="background:#ffffff; height:1px; border:0">
+<img src="/.s/t/221/23.gif"> <a href="/publ/119" style="text-decoration:none">ЗАГАДОЧНАЯ СОЛНЕЧНАЯ <br>&nbsp;&nbsp;СИСТЕМА</a>
+ <hr style="background:#ffffff; height:1px; border:0">
+<img src="/.s/t/221/23.gif"> <a href="/publ/225" style="text-decoration:none">АСТРОНОМИЯ В ВОПРОСАХ И <br>&nbsp;&nbsp;ОТВЕТАХ</a>
+ <hr style="background:#ffffff; height:1px; border:0">
+<img src="/.s/t/221/23.gif"> <a href="/publ/205" style="text-decoration:none">ЗАНИМАТЕЛЬНАЯ <br>&nbsp;&nbsp;АСТРОНОМИЯ В КАРТИНКАХ</a>
+ <hr style="background:#ffffff; height:1px; border:0">
+<img src="/.s/t/221/23.gif"> <a href="/publ/128" style="text-decoration:none">УДИВИТЕЛЬНАЯ<br>&nbsp;&nbsp;КОСМОЛОГИЯ</a>
+ <hr style="background:#ffffff; height:1px; border:0">
+<img src="/.s/t/221/23.gif"> <a href="/load/130" style="text-decoration:none">КРОССВОРДЫ ПО АСТРОНОМИИ</a>
+ <hr style="background:#ffffff; height:1px; border:0">
+<!--</s>--><!-- </bc> --></td></tr></tbody></table>
+<!-- </block12> -->
+
+<!-- <block2> -->
+
+<table class="boxTable" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td class="boxTitle"><b><!-- <bt> --><!--<s5351>-->Категории раздела<!--</s>--><!-- </bt> --></b></td></tr><tr><td class="boxContent"><!-- <bc> --><table border="0" cellspacing="1" cellpadding="0" width="100%" class="catsTable"><tr><td style="width:100%" class="catsTd" valign="top"><a href="/news/novosti_sajta/1-0-2" class="catName">НОВОСТИ САЙТА</a> <span class="catNumData" style="unicode-bidi:embed;">[17]</span></td></tr></table><!-- </bc> --></td></tr></tbody></table>
+
+<!-- </block2> -->
+<noindex>
+<!-- <block5> -->
+
+<table class="boxTable" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td class="boxTitle"><b><!-- <bt> --><!--<s5195>-->Статистика<!--</s>--><!-- </bt> --></b></td></tr><tr><td class="boxContent"><div align="center"><!-- <bc> --><a rel="nofollow" href="/panel/?a=ustat&u=tineydgers&d=2&il=ru" target="_blank" title="uCoz Counter">
+	<img alt="" src="/stat/1614627998" height="31" width="88" /></a><hr><div class="tOnline" id="onl1">Онлайн всего: <b>32</b></div> <div class="gOnline" id="onl2">Гостей: <b>32</b></div> <div class="uOnline" id="onl3">Пользователей: <b>0</b></div><!-- </bc> --></div></td></tr></tbody></table>
+
+<!-- </block5> -->
+</noindex>
+<!-- <block6> -->
+
+<table class="boxTable" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td class="boxTitle"><b><!-- <bt> --><!--<s5158>-->Форма входа<!--</s>--><!-- </bt> --></b></td></tr><tr><td class="boxContent"><!-- <bc> --><div id="uidLogForm" align="center"><div id="uidLogButton">
+	<p><button class="loginButton" onclick="window.open('https://login.uid.me/?site=2tineydgers&amp;ref='+escape(location.protocol + '//' + ('xn--d1ababeji4aplhbqk6k.xn--p1ai' || location.hostname) + location.pathname + ((location.hash ? (location.search ? location.search + '&' : '?') + 'rnd=' + Date.now() + location.hash : (location.search || '' )))),'uidLoginWnd','width=580,height=450,resizable=yes,titlebar=yes')">Войти через uID</button></p>
+	<a href="javascript:;" onclick="return uSocialLogin('vkontakte');" data-social="vkontakte" class="login-with vkontakte" title="Войти через ВКонтакте" rel="nofollow"><i></i></a><a href="javascript:;" onclick="return uSocialLogin('facebook');" data-social="facebook" class="login-with facebook" title="Войти через Facebook" rel="nofollow"><i></i></a><a href="javascript:;" onclick="return uSocialLogin('yandex');" data-social="yandex" class="login-with yandex" title="Войти через Яндекс" rel="nofollow"><i></i></a><a href="javascript:;" onclick="return uSocialLogin('google');" data-social="google" class="login-with google" title="Войти через Google" rel="nofollow"><i></i></a><a href="javascript:;" onclick="return uSocialLogin('ok');" data-social="ok" class="login-with ok" title="Войти через Одноклассники" rel="nofollow"><i></i></a>
+<div>
+<a href="javascript://" class="noun" onclick="document.getElementById('uidLogButton').style.display='none';document.getElementById('baseLogForm').style.display='';" title="Используйте, если окно авторизации через uID не открывается">Старая форма входа</a></div></div>
+<div id="baseLogForm" style="display:none"><script type="text/javascript">
+sendFrm549128 = function() {
+	var o   = $('#frmLg549128')[0];
+	var pos = _uGetOffset(o);
+	var o2  = $('#blk549128')[0];
+	document.body.insertBefore(o2, document.body.firstChild);
+	$(o2).css({top:(pos['top'])+'px',left:(pos['left'])+'px',width:o.offsetWidth+'px',height:o.offsetHeight+'px',display:''}).html('<div align="left" style="padding:5px;"><div class="myWinLoad"></div></div>');
+	_uPostForm('frmLg549128', {type:'POST', url:'/index/sub/', error:function() {
+		$('#blk549128').html('<div align="left" style="padding:10px;"><div class="myWinLoadSF" title="Невозможно выполнить запрос, попробуйте позже"></div></div>');
+		_uWnd.alert('<div class="myWinError">Невозможно выполнить запрос, попробуйте позже</div>', '', {w:250, h:90, tm:3000, pad:'15px'} );
+		setTimeout("$('#blk549128').css('display', 'none');", '1500');
+	}});
+}
+</script>
+<div id="blk549128" style="border:1px solid #CCCCCC;position:absolute;z-index:82;background:url('/.s/img/fr/g.gif');display:none;"></div>
+<form id="frmLg549128" action="/index/sub/" method="post" style="margin:0" onsubmit="sendFrm549128(); return false;">
+	
+<table border="0" cellspacing="1" cellpadding="0" width="100%">
+
+<tr><td width="20%" nowrap="nowrap">E-mail:[<a href="javascript:;" rel="nofollow" onclick="new _uWnd('HelpWd', 'Помощник', 360, 150, {align:'justify', closeonesc:1, }, {url:'/index/90-7'}); return false;" class="noun "><img alt="" title="uID поддержка" src="/.s/img/ma/uid.gif" style="border:0;vertical-align:-4px;"></a>]</td><td><input class="loginField" type="text" name="user" value="" size="20" style="width:100%;" maxlength="50"/></td></tr>
+<tr><td>Пароль:</td><td><input class="loginField" type="password" name="password" size="20" style="width:100%" maxlength="15"/></td></tr>
+</table>
+<table border="0" cellspacing="1" cellpadding="0" width="100%">
+<tr><td nowrap><input id="remsitePage1" type="checkbox" name="rem" value="1" checked="checked"/><label for="remsitePage1">запомнить</label> </td><td align="right" valign="top"><input class="loginButton" name="sbm" type="submit" value="Вход"/></td></tr>
+<tr><td colspan="2"><div style="font-size:7pt;text-align:center;"><a href="javascript://" rel="nofollow" onclick="new _uWnd('Prm','Напоминание пароля',300,130,{autosize:1,closeonesc:1},{url:'/index/5'});return false;">Забыл пароль</a> | <a href="/register">Регистрация</a></div></td></tr>
+</table>
+
+	<input type="hidden" name="a"    value="2" />
+	<input type="hidden" name="ajax" value="1" />
+	<input type="hidden" name="rnd"  value="128" />
+	
+</form></div></div><!-- </bc> --></td></tr></tbody></table>
+
+<!-- </block6> --><!--/U1CLEFTER1Z-->
+</td>
+
+<td valign="top" style="padding:0px 10px 0px 10px;" height="100%">
+<table border="0" cellpadding="0" cellspacing="0" width="100%" height="100%">
+<tr><td width="25" height="25"><img src="/.s/t/935/6.gif" border="0"></td><td style="background:url('/.s/t/935/7.gif') repeat-x;"></td><td width="25" height="25"><img src="/.s/t/935/8.gif" border="0"></td></tr>
+<tr><td style="background:url('/.s/t/935/9.gif') repeat-y;"></td><td style="background:#94A4DB;" height="100%" valign="top"><!-- <body> --><div style="text-align: right; padding-bottom: 3px;">[ <a href="">Добавить новость</a> ]</div>
+<div><div id="myGrid" style="display:none;"><img alt="" src="/.s/img/ma/m/i3.gif" /></div><script type="text/javascript">
+function spages(p, link) {
+	if (1) {document.location.href = link.href; return; }
+	try {document.getElementById('myGrid').style.display = ''; }catch(e){}
+	_uPostForm('', {url:'news/' + p + '-0-0-0-0-0-' + Date.now() } );}</script><div id="allEntries"><div align="right" class="catPages1" align="center" style="clear:both;" id="pagesBlock1"></div><div id="entryID300"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="eBlock"><tr><td style="padding:3px;">
+
+<div class="eTitle" style="text-align:left;"><a href="/news/sajt_supertinejdzhery_privetstvuet_vas/2019-10-26-300">САЙТ "СУПЕРТИНЕЙДЖЕРЫ" ПРИВЕТСТВУЕТ ВАС!</a></div>
+<div class="eMessage" style="text-align:left;clear:both;padding-top:2px;padding-bottom:2px;"><img src="/0997/tinejdzher.gif" alt="" width="200" height="150" align="left">
+<font face="Monotype Corsiva" color="#4b0082"><span style="font-size: 18pt;"><b>Сайт "Супертинейджеры" - для тех, кто учится и учит!</b></span></font><font color="#4b0082"><br><font face="Monotype Corsiva"><span style="font-size: 18pt;"><b>Все материалы, размещенные на его страницах, можно скачать или скопировать абсолютно бесплатно. Пользователи сайта могут&nbsp; присылать конспекты уроков, презентации, сочинения и рефераты, электронные книги и советы психолога, интересные статьи. Ваши&nbsp; разработки станут доступными для широкой аудитории после того, как их пров
+		<!--"-->
+		<span class="entDots">... </span>
+		<span class="entryReadAll">
+			<a class="entryReadAllLink" href="/news/sajt_supertinejdzhery_privetstvuet_vas/2019-10-26-300">Читать дальше &raquo;</a>
+		</span></div>
+<div class="eDetails" style="clear:both;">
+<div style="float:right">
+			<style type="text/css">
+				.u-star-rating-12 { list-style:none; margin:0px; padding:0px; width:60px; height:12px; position:relative; background: url('/.s/img/stars/3/12.png') top left repeat-x }
+				.u-star-rating-12 li{ padding:0px; margin:0px; float:left }
+				.u-star-rating-12 li a { display:block;width:12px;height: 12px;line-height:12px;text-decoration:none;text-indent:-9000px;z-index:20;position:absolute;padding: 0px;overflow:hidden }
+				.u-star-rating-12 li a:hover { background: url('/.s/img/stars/3/12.png') left center;z-index:2;left:0px;border:none }
+				.u-star-rating-12 a.u-one-star { left:0px }
+				.u-star-rating-12 a.u-one-star:hover { width:12px }
+				.u-star-rating-12 a.u-two-stars { left:12px }
+				.u-star-rating-12 a.u-two-stars:hover { width:24px }
+				.u-star-rating-12 a.u-three-stars { left:24px }
+				.u-star-rating-12 a.u-three-stars:hover { width:36px }
+				.u-star-rating-12 a.u-four-stars { left:36px }
+				.u-star-rating-12 a.u-four-stars:hover { width:48px }
+				.u-star-rating-12 a.u-five-stars { left:48px }
+				.u-star-rating-12 a.u-five-stars:hover { width:60px }
+				.u-star-rating-12 li.u-current-rating { top:0 !important; left:0 !important;margin:0 !important;padding:0 !important;outline:none;background: url('/.s/img/stars/3/12.png') left bottom;position: absolute;height:12px !important;line-height:12px !important;display:block;text-indent:-9000px;z-index:1 }
+			</style><script type="text/javascript">
+				var usrarids = {};
+				function ustarrating(id, mark) {
+					if( !usrarids[id] ){
+						usrarids[id] = 1;
+						$(".u-star-li-"+id).hide();
+						_uPostForm('', {type:'POST', url:'/news/', data:{
+							'a':'65',
+							'id':id,
+							'mark':mark,
+							'mod':'news',
+							'ajax':'2'
+						}});
+					}
+				}
+			</script><ul id="uStarRating300" class="uStarRating300 u-star-rating-12" title="Рейтинг: 5.0/1">
+			<li id="uCurStarRating300" class="u-current-rating uCurStarRating300" style="width:100%;"></li></ul></div>
+Категория: <a href="/news/novosti_sajta/1-0-2">НОВОСТИ САЙТА</a> |
+Просмотров: 482 |
+Добавил: <a href="javascript://" rel="nofollow" onclick="window.open('/index/8-970', 'up970', 'scrollbars=1,top=0,left=0,resizable=1,width=700,height=375'); return false;">olivec_mikola</a> |
+Дата: <span title="19:38:25">26.10.2019</span>
+
+</div></td></tr></table><br /></div><div id="entryID299"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="eBlock"><tr><td style="padding:3px;">
+
+<div class="eTitle" style="text-align:left;"><a href="/news/sereznyj_razgovor_o_perekhodnom_vozraste/2019-10-26-299">СЕРЬЕЗНЫЙ РАЗГОВОР О ПЕРЕХОДНОМ ВОЗРАСТЕ</a></div>
+<div class="eMessage" style="text-align:left;clear:both;padding-top:2px;padding-bottom:2px;"><b style="font-size: 10.6667px;"><font color="#4b0082" face="Monotype Corsiva"><span lang="ru" style="font-size: 18pt;"><div style="text-align: justify;"><b style="font-family: Verdana, Tahoma, Arial; font-size: 8pt;"><font color="#4b0082" face="Monotype Corsiva"><span lang="ru" style="font-size: 18pt;"><img src="/0989/097/kh111.jpg" alt="" align="left" width="200" height="140">Что со мной происходит? Как меняется мое тело? Почему я чувствую себя по-другому? &nbsp;Исчерпывающие ответы на эти и другие вопросы вы найдете в рубрике нашего сайта «Переходный возраст».</span></font></b></div><div style="text-align: justify;"><b style="font-size: 10
+		<!--"-->
+		<span class="entDots">... </span>
+		<span class="entryReadAll">
+			<a class="entryReadAllLink" href="/news/sereznyj_razgovor_o_perekhodnom_vozraste/2019-10-26-299">Читать дальше &raquo;</a>
+		</span></div>
+<div class="eDetails" style="clear:both;">
+<div style="float:right"><ul id="uStarRating299" class="uStarRating299 u-star-rating-12" title="Рейтинг: 0.0/0">
+			<li id="uCurStarRating299" class="u-current-rating uCurStarRating299" style="width:0%;"></li></ul></div>
+Категория: <a href="/news/novosti_sajta/1-0-2">НОВОСТИ САЙТА</a> |
+Просмотров: 336 |
+Добавил: <a href="javascript://" rel="nofollow" onclick="window.open('/index/8-970', 'up970', 'scrollbars=1,top=0,left=0,resizable=1,width=700,height=375'); return false;">olivec_mikola</a> |
+Дата: <span title="19:17:03">26.10.2019</span>
+
+</div></td></tr></table><br /></div><div id="entryID298"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="eBlock"><tr><td style="padding:3px;">
+
+<div class="eTitle" style="text-align:left;"><a href="/news/filosofskie_rasskazy_dlja_detej/2019-10-26-298">ФИЛОСОФСКИЕ РАССКАЗЫ ДЛЯ ДЕТЕЙ</a></div>
+<div class="eMessage" style="text-align:left;clear:both;padding-top:2px;padding-bottom:2px;"><div style="" align="justify"><font style="" color="#4b0082" face="Monotype Corsiva"><span style="font-size: 18pt;"><b style=""><img src="/0989/097/07/94/w2.jpg" alt="" width="200" height="150" align="left">"Философские рассказы для детей" - раздел на тематическом сайте для учителей начальной школы и их учеников "Утиные уроки". <br>Прочитали название раздела и решили, что это Вам не нужно? Напрасно! Рассказы помогут вам проводить беседы с ребятами, классные часы, родительские собрания. Посвящены они детским проблемам, которые подчас легко могут помочь решить взрослые.<br></b></span></font><a data-l="t,linkExt" class="rev_cnt_a-in-txt" href="h
+		<!--"-->
+		<span class="entDots">... </span>
+		<span class="entryReadAll">
+			<a class="entryReadAllLink" href="/news/filosofskie_rasskazy_dlja_detej/2019-10-26-298">Читать дальше &raquo;</a>
+		</span></div>
+<div class="eDetails" style="clear:both;">
+<div style="float:right"><ul id="uStarRating298" class="uStarRating298 u-star-rating-12" title="Рейтинг: 0.0/0">
+			<li id="uCurStarRating298" class="u-current-rating uCurStarRating298" style="width:0%;"></li></ul></div>
+Категория: <a href="/news/novosti_sajta/1-0-2">НОВОСТИ САЙТА</a> |
+Просмотров: 326 |
+Добавил: <a href="javascript://" rel="nofollow" onclick="window.open('/index/8-970', 'up970', 'scrollbars=1,top=0,left=0,resizable=1,width=700,height=375'); return false;">olivec_mikola</a> |
+Дата: <span title="19:13:41">26.10.2019</span>
+
+</div></td></tr></table><br /></div><div id="entryID297"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="eBlock"><tr><td style="padding:3px;">
+
+<div class="eTitle" style="text-align:left;"><a href="/news/velikolepnaja_sotnja_povyste_svoju_ehrudiciju/2019-10-26-297">"ВЕЛИКОЛЕПНАЯ СОТНЯ"! ПОВЫСЬТЕ СВОЮ ЭРУДИЦИЮ!</a></div>
+<div class="eMessage" style="text-align:left;clear:both;padding-top:2px;padding-bottom:2px;"><div align="justify"><span style="font-family: Monotype Corsiva; color: rgb(45, 10, 106); font-size: 24pt;"><strong><span style="font-family: Monotype Corsiva; font-size: 18pt; color: rgb(75, 0, 130);"><img alt="" src="/0997/sotnja.gif" width="200" height="150" align="left"></span></strong></span></div>
+<div style="" align="justify"><span style="font-family: Monotype Corsiva; color: rgb(75, 0, 130); font-size: 18pt;"><strong style="">В рубрике - "ВЕЛИКОЛЕПНАЯ СОТНЯ"&nbsp; все желающие могут ознакомиться с интересными материалами о разных сферах человеческой жизни.&nbsp;</strong></span></div><div align="justify"><strong style="color: rgb(75, 0
+		<!--"-->
+		<span class="entDots">... </span>
+		<span class="entryReadAll">
+			<a class="entryReadAllLink" href="/news/velikolepnaja_sotnja_povyste_svoju_ehrudiciju/2019-10-26-297">Читать дальше &raquo;</a>
+		</span></div>
+<div class="eDetails" style="clear:both;">
+<div style="float:right"><ul id="uStarRating297" class="uStarRating297 u-star-rating-12" title="Рейтинг: 0.0/0">
+			<li id="uCurStarRating297" class="u-current-rating uCurStarRating297" style="width:0%;"></li></ul></div>
+Категория: <a href="/news/novosti_sajta/1-0-2">НОВОСТИ САЙТА</a> |
+Просмотров: 335 |
+Добавил: <a href="javascript://" rel="nofollow" onclick="window.open('/index/8-970', 'up970', 'scrollbars=1,top=0,left=0,resizable=1,width=700,height=375'); return false;">olivec_mikola</a> |
+Дата: <span title="19:07:17">26.10.2019</span>
+
+</div></td></tr></table><br /></div><div id="entryID296"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="eBlock"><tr><td style="padding:3px;">
+
+<div class="eTitle" style="text-align:left;"><a href="/news/otpravljaemsja_v_puteshestvie_po_stranam_i_narodam/2019-10-26-296">ОТПРАВЛЯЕМСЯ В ПУТЕШЕСТВИЕ ПО СТРАНАМ И НАРОДАМ</a></div>
+<div class="eMessage" style="text-align:left;clear:both;padding-top:2px;padding-bottom:2px;"><span style="font-family: verdana, arial, helvetica; text-align: justify; background-color: rgb(175, 190, 241); font-size: 14pt;"><b><font face="Monotype Corsiva" color="#4b0082"><span style="font-size: 18pt;"><img src="/0989/097/09/b3.jpg" alt="" align="left" width="200pxpx" height="150pxpx"><div style="text-align: justify;"><b style="font-family: verdana, arial, helvetica; font-size: 14pt;"><font face="Monotype Corsiva" color="#4b0082"><span style="font-size: 18pt;">Специально для тех, кто любит географию и стремится к тому, чтобы много знать, мы подготовили чудо-энциклопедию "Страны и народы", которая подробно в увлекательной форме знакоми
+		<!--"-->
+		<span class="entDots">... </span>
+		<span class="entryReadAll">
+			<a class="entryReadAllLink" href="/news/otpravljaemsja_v_puteshestvie_po_stranam_i_narodam/2019-10-26-296">Читать дальше &raquo;</a>
+		</span></div>
+<div class="eDetails" style="clear:both;">
+<div style="float:right"><ul id="uStarRating296" class="uStarRating296 u-star-rating-12" title="Рейтинг: 0.0/0">
+			<li id="uCurStarRating296" class="u-current-rating uCurStarRating296" style="width:0%;"></li></ul></div>
+Категория: <a href="/news/novosti_sajta/1-0-2">НОВОСТИ САЙТА</a> |
+Просмотров: 296 |
+Добавил: <a href="javascript://" rel="nofollow" onclick="window.open('/index/8-970', 'up970', 'scrollbars=1,top=0,left=0,resizable=1,width=700,height=375'); return false;">olivec_mikola</a> |
+Дата: <span title="18:58:13">26.10.2019</span>
+
+</div></td></tr></table><br /></div><div id="entryID295"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="eBlock"><tr><td style="padding:3px;">
+
+<div class="eTitle" style="text-align:left;"><a href="/news/sajt_supertinejdzhery_privetstvuet_vas/2017-10-18-295">САЙТ "ШКОЛЬНЫЙ ОРИЕНТИР" ПРИГЛАШАЕТ!</a></div>
+<div class="eMessage" style="text-align:left;clear:both;padding-top:2px;padding-bottom:2px;"><div style="text-align: center;"><a href="http://shkolnii-orientir.ru" style="font-size: 8pt;"><img src="/0989/097/07/93/095.jpg" width="600px" alt="Школьный ориентир" align="middle"></a></div></div>
+<div class="eDetails" style="clear:both;">
+<div style="float:right"><ul id="uStarRating295" class="uStarRating295 u-star-rating-12" title="Рейтинг: 5.0/14">
+			<li id="uCurStarRating295" class="u-current-rating uCurStarRating295" style="width:100%;"></li></ul></div>
+Категория: <a href="/news/novosti_sajta/1-0-2">НОВОСТИ САЙТА</a> |
+Просмотров: 1567 |
+Добавил: <a href="javascript://" rel="nofollow" onclick="window.open('/index/8-1', 'up1', 'scrollbars=1,top=0,left=0,resizable=1,width=700,height=375'); return false;">tineydgers</a> |
+Дата: <span title="10:54:51">18.10.2017</span>
+
+</div></td></tr></table><br /></div><div id="entryID292"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="eBlock"><tr><td style="padding:3px;">
+
+<div class="eTitle" style="text-align:left;"><a href="/news/trenazhjor_istorija_rossii_khkh_nachalo_khikh_veka/2017-03-24-292">ТРЕНАЖЁР "ИСТОРИЯ РОССИИ ХХ - НАЧАЛО ХIХ ВЕКА"</a></div>
+<div class="eMessage" style="text-align:left;clear:both;padding-top:2px;padding-bottom:2px;"><div style="" align="justify"><font style="" color="#4b0082" face="Monotype Corsiva"><span style="font-size: 18pt;"><b style=""><img src="/0989/097/07/94/w6.jpg" alt="" width="200" height="150" align="left">Тренажер "История России ХХ - начало ХIХ века" - раздел на сайте "Пан Познавайка". <br>Тренажёр поможет в освоении курса истории России. В нем, как и в учебнике, девять тем. <br>С помощью тренажёра ваши ученики смогут лучше освоить содержание учебника, научиться работать с картами атласа, анализировать исторические документы и отрывки из работ историков, сравнивать различные исторические процессы и явления. </b></span></font><br></div></div>
+<div class="eDetails" style="clear:both;">
+<div style="float:right"><ul id="uStarRating292" class="uStarRating292 u-star-rating-12" title="Рейтинг: 0.0/0">
+			<li id="uCurStarRating292" class="u-current-rating uCurStarRating292" style="width:0%;"></li></ul></div>
+
+Просмотров: 723 |
+Добавил: <a href="javascript://" rel="nofollow" onclick="window.open('/index/8-1', 'up1', 'scrollbars=1,top=0,left=0,resizable=1,width=700,height=375'); return false;">tineydgers</a> |
+Дата: <span title="11:51:53">24.03.2017</span>
+
+</div></td></tr></table><br /></div><div id="entryID291"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="eBlock"><tr><td style="padding:3px;">
+
+<div class="eTitle" style="text-align:left;"><a href="/news/kak_uchit_anglijskie_slova_ehffektivno/2017-03-24-291">КАК УЧИТЬ АНГЛИЙСКИЕ СЛОВА ЭФФЕКТИВНО</a></div>
+<div class="eMessage" style="text-align:left;clear:both;padding-top:2px;padding-bottom:2px;"><div style="" align="justify"><font style="" color="#4b0082" face="Monotype Corsiva"><b style=""><span style="font-size: 18pt;"><img src="/0989/097/07/94/w5.jpg" alt="" width="200" height="150" align="left">"Как учить английские слова эффективно" - раздел на сайте "Звонок на урок". Говоря о владении каким-либо иностранным языком, мы всегда подразумеваем определённые уровни его знания. <br>Любой обучающий курс строится исходя из того, каким уровнем обладают ученики, ведь лексика и грамматика «новичка» существенно отличается от тех, что изучаются на более поздних этапах. <br>Для того чтобы понять, к чему стремиться и как развиваться, предлагаем
+		<!--"-->
+		<span class="entDots">... </span>
+		<span class="entryReadAll">
+			<a class="entryReadAllLink" href="/news/kak_uchit_anglijskie_slova_ehffektivno/2017-03-24-291">Читать дальше &raquo;</a>
+		</span></div>
+<div class="eDetails" style="clear:both;">
+<div style="float:right"><ul id="uStarRating291" class="uStarRating291 u-star-rating-12" title="Рейтинг: 0.0/0">
+			<li id="uCurStarRating291" class="u-current-rating uCurStarRating291" style="width:0%;"></li></ul></div>
+
+Просмотров: 802 |
+Добавил: <a href="javascript://" rel="nofollow" onclick="window.open('/index/8-1', 'up1', 'scrollbars=1,top=0,left=0,resizable=1,width=700,height=375'); return false;">tineydgers</a> |
+Дата: <span title="11:48:28">24.03.2017</span>
+
+</div></td></tr></table><br /></div><div id="entryID290"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="eBlock"><tr><td style="padding:3px;">
+
+<div class="eTitle" style="text-align:left;"><a href="/news/vospitanie_podrostkov_sekrety_dlja_roditelej/2017-03-24-290">ВОСПИТАНИЕ ПОДРОСТКОВ. СЕКРЕТЫ ДЛЯ РОДИТЕЛЕЙ</a></div>
+<div class="eMessage" style="text-align:left;clear:both;padding-top:2px;padding-bottom:2px;"><div style="" align="justify"><font style="" color="#4b0082" face="Monotype Corsiva"><span style="font-size: 18pt;"><b style=""><img src="/0989/097/07/94/w4.jpg" alt="" width="200" height="150" align="left">"Воспитание подростков. Секреты для родителей" - рубрика на сайте "Профессор Знаев", призванная помочь в воспитании родителям, дать им мудрый и нужный совет, ответить на тревожащие родителей вопросы.<br>Конечная цель: сделать родителей своими союзниками в деле воспитания школьников, использовать превентивную педагогику.<br></b></span></font><a data-l="t,linkExt" class="rev_cnt_a-in-txt" href="https://ok.ru/dk?cmd=logExternal&amp;st.cmd=log
+		<!--"-->
+		<span class="entDots">... </span>
+		<span class="entryReadAll">
+			<a class="entryReadAllLink" href="/news/vospitanie_podrostkov_sekrety_dlja_roditelej/2017-03-24-290">Читать дальше &raquo;</a>
+		</span></div>
+<div class="eDetails" style="clear:both;">
+<div style="float:right"><ul id="uStarRating290" class="uStarRating290 u-star-rating-12" title="Рейтинг: 0.0/0">
+			<li id="uCurStarRating290" class="u-current-rating uCurStarRating290" style="width:0%;"></li></ul></div>
+
+Просмотров: 728 |
+Добавил: <a href="javascript://" rel="nofollow" onclick="window.open('/index/8-1', 'up1', 'scrollbars=1,top=0,left=0,resizable=1,width=700,height=375'); return false;">tineydgers</a> |
+Дата: <span title="11:35:48">24.03.2017</span>
+
+</div></td></tr></table><br /></div><div id="entryID289"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="eBlock"><tr><td style="padding:3px;">
+
+<div class="eTitle" style="text-align:left;"><a href="/news/prepodavanie_literatury_v_xxi_veke_standarty/2017-03-24-289">ПРЕПОДАВАНИЕ ЛИТЕРАТУРЫ В XXI ВЕКЕ. СТАНДАРТЫ</a></div>
+<div class="eMessage" style="text-align:left;clear:both;padding-top:2px;padding-bottom:2px;"><div style="" align="justify"><b style=""><font style="" color="#4b0082" face="Monotype Corsiva"><span style="font-size: 18pt;"><img src="/0989/097/07/94/w3.jpg" alt="" width="200" height="150" align="left">"Преподавание литературы в XXI веке. Стандарты" - раздел на сайте "Учитель словесности". Предлагаемый авторский проект затрагивает вопросы содержания стандарта среднего общего образования по литературе и состоит из обоснованного выбора произведений и методических замечаний. <br>Принципиальным отличием от существующей программы является преимущественное изучение произведений, проникнутых верой в Дух и Разум человека. Автор убедительно показ
+		<!--"-->
+		<span class="entDots">... </span>
+		<span class="entryReadAll">
+			<a class="entryReadAllLink" href="/news/prepodavanie_literatury_v_xxi_veke_standarty/2017-03-24-289">Читать дальше &raquo;</a>
+		</span></div>
+<div class="eDetails" style="clear:both;">
+<div style="float:right"><ul id="uStarRating289" class="uStarRating289 u-star-rating-12" title="Рейтинг: 0.0/0">
+			<li id="uCurStarRating289" class="u-current-rating uCurStarRating289" style="width:0%;"></li></ul></div>
+
+Просмотров: 670 |
+Добавил: <a href="javascript://" rel="nofollow" onclick="window.open('/index/8-1', 'up1', 'scrollbars=1,top=0,left=0,resizable=1,width=700,height=375'); return false;">tineydgers</a> |
+Дата: <span title="11:30:09">24.03.2017</span>
+
+</div></td></tr></table><br /></div><div id="entryID288"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="eBlock"><tr><td style="padding:3px;">
+
+<div class="eTitle" style="text-align:left;"><a href="/news/filosofskie_rasskazy_dlja_detej/2017-03-24-288">СОЗВЕЗДИЕ ОТЛИЧНИКОВ ПРИГЛАШАЕТ</a></div>
+<div class="eMessage" style="text-align:left;clear:both;padding-top:2px;padding-bottom:2px;"><div style="text-align: center;"><a href="http://sozvezdiye-otlichnikov.ru" target="_blank"><img src="/0989/097/07/93/banner1.jpg" alt="Созвездие отличников"></a></div></div>
+<div class="eDetails" style="clear:both;">
+<div style="float:right"><ul id="uStarRating288" class="uStarRating288 u-star-rating-12" title="Рейтинг: 0.0/0">
+			<li id="uCurStarRating288" class="u-current-rating uCurStarRating288" style="width:0%;"></li></ul></div>
+
+Просмотров: 759 |
+Добавил: <a href="javascript://" rel="nofollow" onclick="window.open('/index/8-1', 'up1', 'scrollbars=1,top=0,left=0,resizable=1,width=700,height=375'); return false;">tineydgers</a> |
+Дата: <span title="11:25:48">24.03.2017</span>
+
+</div></td></tr></table><br /></div><div id="entryID286"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="eBlock"><tr><td style="padding:3px;">
+
+<div class="eTitle" style="text-align:left;"><a href="/news/ehnciklopedija_shkolnika_khimija/2017-03-24-286">ЭНЦИКЛОПЕДИЯ ШКОЛЬНИКА "ХИМИЯ"</a></div>
+<div class="eMessage" style="text-align:left;clear:both;padding-top:2px;padding-bottom:2px;"><div style="" align="justify"><span style="font-size: 14pt;"><img src="/0989/097/07/94/a111.jpg" alt="" width="200" height="150" align="left"><font color="#4b0082" face="Monotype Corsiva"><b><span style="font-size: 18pt;">Энциклопедия школьника "Химия" - раздел на сайте "Профессор Знаев".&nbsp;</span></b></font></span></div><div style="" align="justify"><span style="font-size: 14pt;"><font color="#4b0082" face="Monotype Corsiva"><b><span style="font-size: 18pt;">В этом разделе читатель познакомится с некоторыми эпизодами зарождения первых химических промыслов, со старыми рецептами получения химических 
+веществ, с ролью аптек в становлении хим
+		<!--"-->
+		<span class="entDots">... </span>
+		<span class="entryReadAll">
+			<a class="entryReadAllLink" href="/news/ehnciklopedija_shkolnika_khimija/2017-03-24-286">Читать дальше &raquo;</a>
+		</span></div>
+<div class="eDetails" style="clear:both;">
+<div style="float:right"><ul id="uStarRating286" class="uStarRating286 u-star-rating-12" title="Рейтинг: 0.0/0">
+			<li id="uCurStarRating286" class="u-current-rating uCurStarRating286" style="width:0%;"></li></ul></div>
+
+Просмотров: 736 |
+Добавил: <a href="javascript://" rel="nofollow" onclick="window.open('/index/8-1', 'up1', 'scrollbars=1,top=0,left=0,resizable=1,width=700,height=375'); return false;">tineydgers</a> |
+Дата: <span title="11:07:40">24.03.2017</span>
+
+</div></td></tr></table><br /></div><div id="entryID285"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="eBlock"><tr><td style="padding:3px;">
+
+<div class="eTitle" style="text-align:left;"><a href="/news/psikhologicheskie_risunochnye_testy_dlja_shkolnikov/2016-11-12-285">ПСИХОЛОГИЧЕСКИЕ РИСУНОЧНЫЕ ТЕСТЫ ДЛЯ ШКОЛЬНИКОВ</a></div>
+<div class="eMessage" style="text-align:left;clear:both;padding-top:2px;padding-bottom:2px;"><div style="" align="justify"><font style="" color="#4b0082"><b style=""><font style="" face="Monotype Corsiva"><span style="font-size: 18pt;"><span style="font-size: 18pt;"><img alt="" src="/0989/097/07/94/95.png" align="left" height="150" width="200">Психологические рисуночные тесты для школьников. Важность этой рубрики 
+трудно переоценить.</span></span></font><br><font style="" face="Monotype Corsiva"><span style="font-size: 18pt;"><span style="font-size: 18pt;">Пожалуй, все учителя знают, что психологическое 
+настроение ученика, замкнутого и, зачастую, не желающего рассказывать о 
+своих проблемах и переживаниях, легко определить по его ри
+		<!--"-->
+		<span class="entDots">... </span>
+		<span class="entryReadAll">
+			<a class="entryReadAllLink" href="/news/psikhologicheskie_risunochnye_testy_dlja_shkolnikov/2016-11-12-285">Читать дальше &raquo;</a>
+		</span></div>
+<div class="eDetails" style="clear:both;">
+<div style="float:right"><ul id="uStarRating285" class="uStarRating285 u-star-rating-12" title="Рейтинг: 0.0/0">
+			<li id="uCurStarRating285" class="u-current-rating uCurStarRating285" style="width:0%;"></li></ul></div>
+
+Просмотров: 1303 |
+Добавил: <a href="javascript://" rel="nofollow" onclick="window.open('/index/8-1', 'up1', 'scrollbars=1,top=0,left=0,resizable=1,width=700,height=375'); return false;">tineydgers</a> |
+Дата: <span title="14:17:49">12.11.2016</span>
+
+</div></td></tr></table><br /></div><div id="entryID284"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="eBlock"><tr><td style="padding:3px;">
+
+<div class="eTitle" style="text-align:left;"><a href="/news/ehnciklopedija_dlja_shkolnikov_goroda_mira/2016-10-10-284">ЭНЦИКЛОПЕДИЯ ДЛЯ ШКОЛЬНИКОВ "ГОРОДА МИРА"</a></div>
+<div class="eMessage" style="text-align:left;clear:both;padding-top:2px;padding-bottom:2px;"><div style="" align="justify"><font style="" face="Monotype Corsiva"><span style="font-size: 18pt;"><b style=""><font style="" color="#4b0082"><span style="font-size: 18pt;"><img alt="" src="/0989/097/07/94/128.jpg" align="left" height="150" width="200">Интересную онлайн-энциклопедию для школьников "Города мира" можно найти 
+на сайте "Веселый ранец". Каждый материал - интересная информация о 
+каком-либо городе, шикарная фотография с открыточным видом. Представлена
+ информация ни много, ни мало о 147 городах! Все статьи написаны с 
+расчетом на школьников, но будут интересны и взрослым. Представленный 
+раздел сайта отлично подойдет для подготов
+		<!--"-->
+		<span class="entDots">... </span>
+		<span class="entryReadAll">
+			<a class="entryReadAllLink" href="/news/ehnciklopedija_dlja_shkolnikov_goroda_mira/2016-10-10-284">Читать дальше &raquo;</a>
+		</span></div>
+<div class="eDetails" style="clear:both;">
+<div style="float:right"><ul id="uStarRating284" class="uStarRating284 u-star-rating-12" title="Рейтинг: 3.0/1">
+			<li id="uCurStarRating284" class="u-current-rating uCurStarRating284" style="width:60%;"></li></ul></div>
+
+Просмотров: 809 |
+Добавил: <a href="javascript://" rel="nofollow" onclick="window.open('/index/8-1', 'up1', 'scrollbars=1,top=0,left=0,resizable=1,width=700,height=375'); return false;">tineydgers</a> |
+Дата: <span title="12:27:04">10.10.2016</span>
+
+</div></td></tr></table><br /></div><div id="entryID282"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="eBlock"><tr><td style="padding:3px;">
+
+<div class="eTitle" style="text-align:left;"><a href="/news/otpravljaemsja_v_puteshestvie_po_stranam_i_narodam/2016-06-03-282">ЛАБОРАТОРИЯ ЗНАНИЙ ПРИГЛАШАЕТ</a></div>
+<div class="eMessage" style="text-align:left;clear:both;padding-top:2px;padding-bottom:2px;"><div style="text-align: center;"><a href="http://laboratoriya-znaniy.ru" target="_blank"><img src="/0989/097/07/93/slider100.jpg" alt="Лаборатория знаний" align="middle" width="600px"></a></div></div>
+<div class="eDetails" style="clear:both;">
+<div style="float:right"><ul id="uStarRating282" class="uStarRating282 u-star-rating-12" title="Рейтинг: 5.0/4">
+			<li id="uCurStarRating282" class="u-current-rating uCurStarRating282" style="width:100%;"></li></ul></div>
+Категория: <a href="/news/novosti_sajta/1-0-2">НОВОСТИ САЙТА</a> |
+Просмотров: 820 |
+Добавил: <a href="javascript://" rel="nofollow" onclick="window.open('/index/8-1', 'up1', 'scrollbars=1,top=0,left=0,resizable=1,width=700,height=375'); return false;">tineydgers</a> |
+Дата: <span title="18:08:45">03.06.2016</span>
+
+</div></td></tr></table><br /></div><div id="entryID272"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="eBlock"><tr><td style="padding:3px;">
+
+<div class="eTitle" style="text-align:left;"><a href="/news/ja_poznaju_mir/2013-09-03-272">Я ПОЗНАЮ МИР</a></div>
+<div class="eMessage" style="text-align:left;clear:both;padding-top:2px;padding-bottom:2px;"><div align="justify"><b><span style="font-family: Monotype Corsiva; font-size: 18pt; color: rgb(75, 0, 130);"><img alt="" src="/0997/poznaem_mir.gif" align="left" height="150" width="200">Страницы школьных учебников не способны передать все те знания, которые нужны ученикам для гармоничного интеллектуального развития. К сожалению, многое остается за страницами учебников, но это не беда.&nbsp;</span></b></div><div align="justify"><b style="font-size: 8pt;"><span style="font-family: Monotype Corsiva; font-size: 18pt; color: rgb(75, 0, 130);">Восполнить пробелы и поделиться интересной и захватывающей информацией с подрастающим поколением призван
+		<!--"-->
+		<span class="entDots">... </span>
+		<span class="entryReadAll">
+			<a class="entryReadAllLink" href="/news/ja_poznaju_mir/2013-09-03-272">Читать дальше &raquo;</a>
+		</span></div>
+<div class="eDetails" style="clear:both;">
+<div style="float:right"><ul id="uStarRating272" class="uStarRating272 u-star-rating-12" title="Рейтинг: 5.0/1">
+			<li id="uCurStarRating272" class="u-current-rating uCurStarRating272" style="width:100%;"></li></ul></div>
+Категория: <a href="/news/novosti_sajta/1-0-2">НОВОСТИ САЙТА</a> |
+Просмотров: 2271 |
+Добавил: <a href="javascript://" rel="nofollow" onclick="window.open('/index/8-1', 'up1', 'scrollbars=1,top=0,left=0,resizable=1,width=700,height=375'); return false;">tineydgers</a> |
+Дата: <span title="09:36:39">03.09.2013</span>
+
+</div></td></tr></table><br /></div><div id="entryID274"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="eBlock"><tr><td style="padding:3px;">
+
+<div class="eTitle" style="text-align:left;"><a href="/news/na_sajte_tinejdzhery_otkrylas_uchitelskaja/2013-08-30-274">НА САЙТЕ "ТИНЕЙДЖЕРЫ" ОТКРЫЛАСЬ "УЧИТЕЛЬСКАЯ"</a></div>
+<div class="eMessage" style="text-align:left;clear:both;padding-top:2px;padding-bottom:2px;"><div align="justify"><span style="font-size: 14pt;"><img alt="" src="/0989/098/uuu.png" height="150" align="left" width="200"><span style="font-size: 18pt; color: rgb(75, 0, 130); font-family: Monotype Corsiva;"><b>На нашем сайте появился новый раздел - "Учительская". В нем учителя всех методических кафедр найдут полезные наработки, рекомендации, педагогические приемы и находки.<br>&nbsp;Кроме того, в рубрике уделено внимание главному - умению современного педагога слышать и быть услышанным.&nbsp;</b></span></span></div><div align="justify"><span style="font-size: 14pt;"><span style="font-size: 18pt; color: rgb(75, 0, 130); font-family: Monot
+		<!--"-->
+		<span class="entDots">... </span>
+		<span class="entryReadAll">
+			<a class="entryReadAllLink" href="/news/na_sajte_tinejdzhery_otkrylas_uchitelskaja/2013-08-30-274">Читать дальше &raquo;</a>
+		</span></div>
+<div class="eDetails" style="clear:both;">
+<div style="float:right"><ul id="uStarRating274" class="uStarRating274 u-star-rating-12" title="Рейтинг: 5.0/1">
+			<li id="uCurStarRating274" class="u-current-rating uCurStarRating274" style="width:100%;"></li></ul></div>
+Категория: <a href="/news/novosti_sajta/1-0-2">НОВОСТИ САЙТА</a> |
+Просмотров: 2087 |
+Добавил: <a href="javascript://" rel="nofollow" onclick="window.open('/index/8-1', 'up1', 'scrollbars=1,top=0,left=0,resizable=1,width=700,height=375'); return false;">tineydgers</a> |
+Дата: <span title="12:36:00">30.08.2013</span>
+
+</div></td></tr></table><br /></div><div id="entryID239"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="eBlock"><tr><td style="padding:3px;">
+
+<div class="eTitle" style="text-align:left;"><a href="/news/velikolepnaja_sotnja_povyste_svoju_ehrudiciju/2013-08-30-239">ГИМНАЗИСТЫ! ДАВАЙТЕ УЧИТЬСЯ ВМЕСТЕ!</a></div>
+<div class="eMessage" style="text-align:left;clear:both;padding-top:2px;padding-bottom:2px;"><p style="text-align: center;"><a href="http://мы-гимназисты.рф" target="_blank"><img src="/0989/097/07/93/bannn.jpg" width="600" height="320" alt="baner"></a>
+</p></div>
+<div class="eDetails" style="clear:both;">
+<div style="float:right"><ul id="uStarRating239" class="uStarRating239 u-star-rating-12" title="Рейтинг: 4.9/9">
+			<li id="uCurStarRating239" class="u-current-rating uCurStarRating239" style="width:98%;"></li></ul></div>
+Категория: <a href="/news/novosti_sajta/1-0-2">НОВОСТИ САЙТА</a> |
+Просмотров: 3164 |
+Добавил: <a href="javascript://" rel="nofollow" onclick="window.open('/index/8-1', 'up1', 'scrollbars=1,top=0,left=0,resizable=1,width=700,height=375'); return false;">tineydgers</a> |
+Дата: <span title="09:37:08">30.08.2013</span>
+
+</div></td></tr></table><br /></div><div id="entryID275"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="eBlock"><tr><td style="padding:3px;">
+
+<div class="eTitle" style="text-align:left;"><a href="/news/shedevry_mirovoj_literatury_v_kratkom_izlozhenii/2013-07-18-275">ШЕДЕВРЫ МИРОВОЙ ЛИТЕРАТУРЫ В КРАТКОМ ИЗЛОЖЕНИИ</a></div>
+<div class="eMessage" style="text-align:left;clear:both;padding-top:2px;padding-bottom:2px;"><p class="book" align="justify"><span style="font-size: 14pt;"><img alt="" src="/0989/098/n111.gif" align="left" height="150" width="200"><span style="color: rgb(75, 0, 130);"><b><span style="font-size: 18pt; color: rgb(75, 0, 130); font-family: Monotype Corsiva;">«Все шедевры мировой литературы в кратком изложении. 
+Сюжеты и характеры» — свод компактных 
+пересказов наиболее значительных произведений отечественной и зарубежной
+ словесности.</span></b></span></span></p><p class="book" align="justify"><b style="color: rgb(75, 0, 130); font-size: 8pt;"><span style="font-size: 18pt; font-family: Monotype Corsiva;">Современная культура нуждается в
+		<!--"-->
+		<span class="entDots">... </span>
+		<span class="entryReadAll">
+			<a class="entryReadAllLink" href="/news/shedevry_mirovoj_literatury_v_kratkom_izlozhenii/2013-07-18-275">Читать дальше &raquo;</a>
+		</span></div>
+<div class="eDetails" style="clear:both;">
+<div style="float:right"><ul id="uStarRating275" class="uStarRating275 u-star-rating-12" title="Рейтинг: 5.0/1">
+			<li id="uCurStarRating275" class="u-current-rating uCurStarRating275" style="width:100%;"></li></ul></div>
+Категория: <a href="/news/novosti_sajta/1-0-2">НОВОСТИ САЙТА</a> |
+Просмотров: 1779 |
+Добавил: <a href="javascript://" rel="nofollow" onclick="window.open('/index/8-1', 'up1', 'scrollbars=1,top=0,left=0,resizable=1,width=700,height=375'); return false;">tineydgers</a> |
+Дата: <span title="10:31:56">18.07.2013</span>
+
+</div></td></tr></table><br /></div><div id="entryID273"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="eBlock"><tr><td style="padding:3px;">
+
+<div class="eTitle" style="text-align:left;"><a href="/news/shkola_pifagora_matematika_stanet_ponjatnee/2013-06-01-273">"ШКОЛА ПИФАГОРА". МАТЕМАТИКА СТАНЕТ ПОНЯТНЕЕ!</a></div>
+<div class="eMessage" style="text-align:left;clear:both;padding-top:2px;padding-bottom:2px;"><div align="justify"><font color="#4b0082" face="Monotype Corsiva"><span style="font-size: 18pt;"><b><img alt="сайт Тинейджеры" src="/0989/098/011.jpg" align="left" height="150" width="200">Математика - царица наук и один из сложнейших школьных предметов. Сделать уроки математики интересными и увлекательными под силу каждому учителю, тем более, что в интернете появился интересный специализированный сайт, на котором можно найти все, что нужно для нескучных и запоминающихся уроков.&nbsp;</b></span></font></div><div align="justify"><font color="#4b0082" face="Monotype Corsiva"><span style="font-size: 18pt;"><b><br>Преподаватели информатики для с
+		<!--"-->
+		<span class="entDots">... </span>
+		<span class="entryReadAll">
+			<a class="entryReadAllLink" href="/news/shkola_pifagora_matematika_stanet_ponjatnee/2013-06-01-273">Читать дальше &raquo;</a>
+		</span></div>
+<div class="eDetails" style="clear:both;">
+<div style="float:right"><ul id="uStarRating273" class="uStarRating273 u-star-rating-12" title="Рейтинг: 5.0/16">
+			<li id="uCurStarRating273" class="u-current-rating uCurStarRating273" style="width:100%;"></li></ul></div>
+Категория: <a href="/news/novosti_sajta/1-0-2">НОВОСТИ САЙТА</a> |
+Просмотров: 1787 |
+Добавил: <a href="javascript://" rel="nofollow" onclick="window.open('/index/8-1', 'up1', 'scrollbars=1,top=0,left=0,resizable=1,width=700,height=375'); return false;">tineydgers</a> |
+Дата: <span title="09:33:05">01.06.2013</span>
+
+</div></td></tr></table><br /></div><div id="entryID278"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="eBlock"><tr><td style="padding:3px;">
+
+<div class="eTitle" style="text-align:left;"><a href="/news/kak_ustroen_chelovek_uznajte_na_sajte_tinejdzhery/2013-05-06-278">КАК УСТРОЕН ЧЕЛОВЕК? УЗНАЙТЕ НА САЙТЕ "СУПЕРТИНЕЙДЖЕРЫ"</a></div>
+<div class="eMessage" style="text-align:left;clear:both;padding-top:2px;padding-bottom:2px;"><div align="justify"><b><font face="Monotype Corsiva" color="#4b0082"><span style="font-size: 18pt;"><img alt="" src="/0989/097/07/99/0.gif" align="left" height="150" width="200">Хотите
+ знать, как устроен человек и как функционируют все его органы и 
+системы? А может, вы хотите блеснуть энциклопедическими знаниями на 
+уроке биологии? Что ж, нет ничего проще! Рубрика "Изучаем человеческий 
+организм" на нашем сайте поможет вам.&nbsp;</span></font></b></div><div align="justify"><b><font face="Monotype Corsiva" color="#4b0082"><span style="font-size: 18pt;">Интересно поданный, подробный 
+материал об организме человека, всех его органах и система
+		<!--"-->
+		<span class="entDots">... </span>
+		<span class="entryReadAll">
+			<a class="entryReadAllLink" href="/news/kak_ustroen_chelovek_uznajte_na_sajte_tinejdzhery/2013-05-06-278">Читать дальше &raquo;</a>
+		</span></div>
+<div class="eDetails" style="clear:both;">
+<div style="float:right"><ul id="uStarRating278" class="uStarRating278 u-star-rating-12" title="Рейтинг: 5.0/1">
+			<li id="uCurStarRating278" class="u-current-rating uCurStarRating278" style="width:100%;"></li></ul></div>
+Категория: <a href="/news/novosti_sajta/1-0-2">НОВОСТИ САЙТА</a> |
+Просмотров: 1282 |
+Добавил: <a href="javascript://" rel="nofollow" onclick="window.open('/index/8-1', 'up1', 'scrollbars=1,top=0,left=0,resizable=1,width=700,height=375'); return false;">tineydgers</a> |
+Дата: <span title="09:32:55">06.05.2013</span>
+
+</div></td></tr></table><br /></div><div id="entryID264"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="eBlock"><tr><td style="padding:3px;">
+
+<div class="eTitle" style="text-align:left;"><a href="/news/vnimanie_novaja_rubrika/2011-04-26-264">ЭНЦИКЛОПЕДИЯ "ОБО ВСЕМ НА СВЕТЕ"</a></div>
+<div class="eMessage" style="text-align:left;clear:both;padding-top:2px;padding-bottom:2px;"><div align="justify"><b><font color="#4b0082" face="Monotype Corsiva"><span style="font-size: 18pt;"><img alt="" src="/0997/a_znaete_li_vy.gif" align="left" height="150" width="200">Дорогие гости сайта!</span></font></b><br><b><font color="#4b0082" face="Monotype Corsiva"><span style="font-size: 18pt;">Рекомендуем Вам интересную рубрику "ЭНЦИКЛОПЕДИЯ "ОБО ВСЕМ НА СВЕТЕ"&nbsp; В ней юные эрудиты найдут много интересной информации и смогут блеснуть новыми знаниями на уроке или перед сверстниками.&nbsp;</span></font></b></div><div align="justify"><b><font color="#4b0082" face="Monotype Corsiva"><span style="font-size: 18pt;">Учителей рубрика тож
+		<!--"-->
+		<span class="entDots">... </span>
+		<span class="entryReadAll">
+			<a class="entryReadAllLink" href="/news/vnimanie_novaja_rubrika/2011-04-26-264">Читать дальше &raquo;</a>
+		</span></div>
+<div class="eDetails" style="clear:both;">
+<div style="float:right"><ul id="uStarRating264" class="uStarRating264 u-star-rating-12" title="Рейтинг: 5.0/2">
+			<li id="uCurStarRating264" class="u-current-rating uCurStarRating264" style="width:100%;"></li></ul></div>
+Категория: <a href="/news/novosti_sajta/1-0-2">НОВОСТИ САЙТА</a> |
+Просмотров: 2332 |
+Добавил: <a href="javascript://" rel="nofollow" onclick="window.open('/index/8-1', 'up1', 'scrollbars=1,top=0,left=0,resizable=1,width=700,height=375'); return false;">tineydgers</a> |
+Дата: <span title="12:54:16">26.04.2011</span>
+
+</div></td></tr></table><br /></div><div id="entryID276"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="eBlock"><tr><td style="padding:3px;">
+
+<div class="eTitle" style="text-align:left;"><a href="/news/sereznyj_razgovor_o_perekhodnom_vozraste/2011-04-24-276">ПОЗВОЛЬТЕ СЕБЕ ЗАНЯТЬСЯ ЛЮБИМЫМ ХОББИ</a></div>
+<div class="eMessage" style="text-align:left;clear:both;padding-top:2px;padding-bottom:2px;"><center><a href="http://yarukodelnica.ru"><img src="/0989/097/07/93/bann.jpg" width="600" height="450" alt="Я - рукодельница"></a></center></div>
+<div class="eDetails" style="clear:both;">
+<div style="float:right"><ul id="uStarRating276" class="uStarRating276 u-star-rating-12" title="Рейтинг: 4.9/102">
+			<li id="uCurStarRating276" class="u-current-rating uCurStarRating276" style="width:98%;"></li></ul></div>
+Категория: <a href="/news/novosti_sajta/1-0-2">НОВОСТИ САЙТА</a> |
+Просмотров: 4433 |
+Добавил: <a href="javascript://" rel="nofollow" onclick="window.open('/index/8-1', 'up1', 'scrollbars=1,top=0,left=0,resizable=1,width=700,height=375'); return false;">tineydgers</a> |
+Дата: <span title="10:00:32">24.04.2011</span>
+
+</div></td></tr></table><br /></div><div id="entryID249"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="eBlock"><tr><td style="padding:3px;">
+
+<div class="eTitle" style="text-align:left;"><a href="/news/vnimanie_novaja_rubrika/2011-04-14-249">ОБУЧЕНИЕ ДЕТЕЙ С ФУНКЦИОНАЛЬНЫМИ ОГРАНИЧЕНИЯМИ</a></div>
+<div class="eMessage" style="text-align:left;clear:both;padding-top:2px;padding-bottom:2px;"><div align="justify"><span style="font-family: Monotype Corsiva; color: rgb(75, 0, 130);"><b><span style="font-size: 24pt;"><img alt="" src="/invalid.gif" align="left"><span style="font-size: 18pt;">Представляем рубрику для педагогов, обучающих детей с различными функциональными ограничениями. На страницах&nbsp; сайта вы найдете разработки уроков и внеклассных мероприятий, советы педагогов, имеющих обширный опыт&nbsp; работы с "особыми детьми". Желание поделиться своими наработками администрацией сайта приветствуется! Давайте все вместе поможем ребятам с ограниченными возможностями найти свое место в обществе!</span></span></b></span></div></div>
+<div class="eDetails" style="clear:both;">
+<div style="float:right"><ul id="uStarRating249" class="uStarRating249 u-star-rating-12" title="Рейтинг: 4.9/18">
+			<li id="uCurStarRating249" class="u-current-rating uCurStarRating249" style="width:98%;"></li></ul></div>
+Категория: <a href="/news/novosti_sajta/1-0-2">НОВОСТИ САЙТА</a> |
+Просмотров: 4009 |
+Добавил: <a href="javascript://" rel="nofollow" onclick="window.open('/index/8-1', 'up1', 'scrollbars=1,top=0,left=0,resizable=1,width=700,height=375'); return false;">tineydgers</a> |
+Дата: <span title="13:05:47">14.04.2011</span>
+
+</div></td></tr></table><br /></div><div id="entryID243"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="eBlock"><tr><td style="padding:3px;">
+
+<div class="eTitle" style="text-align:left;"><a href="/news/khochu_vse_znat_interesnoe_ob_izvestnom/2010-06-22-243">ХОЧУ ВСЕ ЗНАТЬ. ИНТЕРЕСНОЕ ОБ ИЗВЕСТНОМ!</a></div>
+<div class="eMessage" style="text-align:left;clear:both;padding-top:2px;padding-bottom:2px;"><p align="justify"><span style="font-family: Monotype Corsiva; color: rgb(75, 0, 130); font-size: 24pt;"><strong><img alt="" src="/8696.jpg" height="150" width="200" align="left"><span style="font-size: 18pt;">Дорогие посетители сайта "ТИНЕЙДЖЕРЫ" , хотите узнать как появились привычные и знакомые нам с детства вещи? Тогда&nbsp;рубрика "Великие изобретения" для Вас.&nbsp;Здесь можно узнать кто и когда изобрел ту или иную вещь, кулинарное блюдо или технологический процесс. Ну, о-о-очень интересно и познавательно!</span></strong></span></p></div>
+<div class="eDetails" style="clear:both;">
+<div style="float:right"><ul id="uStarRating243" class="uStarRating243 u-star-rating-12" title="Рейтинг: 4.9/41">
+			<li id="uCurStarRating243" class="u-current-rating uCurStarRating243" style="width:98%;"></li></ul></div>
+Категория: <a href="/news/novosti_sajta/1-0-2">НОВОСТИ САЙТА</a> |
+Просмотров: 3245 |
+Добавил: <a href="javascript://" rel="nofollow" onclick="window.open('/index/8-1', 'up1', 'scrollbars=1,top=0,left=0,resizable=1,width=700,height=375'); return false;">tineydgers</a> |
+Дата: <span title="10:49:03">22.06.2010</span>
+
+</div></td></tr></table><br /></div><div class="catPages2" align="center" style="clear:both;" id="pagesBlock2"></div></div></div><!-- </body> --></td><td style="background:url('/.s/t/935/10.gif') repeat-y;"></td></tr></table>
+</td>
+
+<td valign="top" class="col">
+<img src="/.s/t/935/5.gif" border="0"><br>
+<!--U1DRIGHTER1Z--><center>
+<!-- <block9> -->
+
+<table class="boxTable" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td class="boxTitle"><b><!-- <bt> --><!--<s3163>-->Поиск<!--</s>--><!-- </bt> --></b></td></tr><tr><td class="boxContent"><div align="center"><!-- <bc> --><div class="searchForm"><form onsubmit="this.sfSbm.disabled=true" method="get" style="margin:0" action="/search/"><div align="center" class="schQuery"><input type="text" name="q" maxlength="30" size="20" class="queryField" /></div><div align="center" class="schBtn"><input type="submit" class="searchSbmFl" name="sfSbm" value="Найти" /></div></form></div><!-- </bc> --></div></td></tr></tbody></table>
+<div style="" align="center">
+<!-- </block9> -->
+ 
+ <!-- <block12> -->
+<table class="boxTable" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td class="boxTitle"><b><!-- <bt> --><!--<s5204>-->ИНФОРМАТИКА<!--</s>--><!-- </bt> --></b></td></tr><tr><td class="boxContent"><!-- <bc> --><!--<s1546>-->
+ 
+ <img src="/.s/t/221/23.gif"> <a href="/index/0-76" style="text-decoration:none">ЗАНИМАТЕЛЬНАЯ <br>&nbsp;&nbsp;ИНФОРМАТИКА</a>
+ <hr style="background:#ffffff; height:1px; border:0">
+<img src="/.s/t/221/23.gif"> <a href="/publ/439" style="text-decoration:none">СПРАВОЧНИК ПО <br>&nbsp;&nbsp;ИНФОРМАТИКЕ ДЛЯ<br>&nbsp;&nbsp;СТАРШЕКЛАССНИКОВ</a>
+ <hr style="background:#ffffff; height:1px; border:0">
+<img src="/.s/t/221/23.gif"> <a href="/index/0-79" style="text-decoration:none">РЕШЕНИЕ ТИПОВЫХ ЗАДАЧ <br>&nbsp;&nbsp;ПО ИНФОРМАТИКЕ</a>
+ <hr style="background:#ffffff; height:1px; border:0">
+<img src="/.s/t/221/23.gif"> <a href="/index/0-69" style="text-decoration:none">ТЕСТЫ ПО ИНФОРМАТИКЕ</a>
+ <hr style="background:#ffffff; height:1px; border:0">
+<img src="/.s/t/221/23.gif"> <a href="/load/77" style="text-decoration:none">КРОССВОРДЫ ПО <br>&nbsp;&nbsp;ИНФОРМАТИКЕ</a>
+ <hr style="background:#ffffff; height:1px; border:0">
+<!--</s>--><!-- </bc> --></td></tr></tbody></table>
+<!-- </block12> -->
+ 
+ <!-- <block1> -->
+<table class="boxTable" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td> <!-- Yandex.RTB R-A-352124-2 -->
+<div id="yandex_rtb_R-A-352124-2"></div>
+<script type="text/javascript">
+ (function(w, d, n, s, t) {
+ w[n] = w[n] || [];
+ w[n].push(function() {
+ Ya.Context.AdvManager.render({
+ blockId: "R-A-352124-2",
+ renderTo: "yandex_rtb_R-A-352124-2",
+ async: true
+ });
+ });
+ t = d.getElementsByTagName("script")[0];
+ s = d.createElement("script");
+ s.type = "text/javascript";
+ s.src = "//an.yandex.ru/system/context.js";
+ s.async = true;
+ t.parentNode.insertBefore(s, t);
+ })(this, this.document, "yandexContextAsyncCallbacks");
+</script></td></tr></tbody></table>
+<!-- </block1> -->
+<br>
+<!-- <block12> -->
+<table class="boxTable" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td class="boxTitle"><b><!-- <bt> --><!--<s5204>-->ОБЩЕСТВОЗНАНИЕ<!--</s>--><!-- </bt> --></b></td></tr><tr><td class="boxContent"><!-- <bc> --><!--<s1546>-->
+ 
+ <img src="/.s/t/221/23.gif"> <a href="/publ/367" style="text-decoration:none">РАБОЧИЕ МАТЕРИАЛЫ К <br>&nbsp;&nbsp;УРОКАМ В 7 КЛАССЕ</a>
+ <hr style="background:#ffffff; height:1px; border:0">
+<img src="/.s/t/221/23.gif"> <a href="/publ/392" style="text-decoration:none">ТЕСТЫ. 9 КЛАСС</a>
+ <hr style="background:#ffffff; height:1px; border:0">
+<img src="/.s/t/221/23.gif"> <a href="/publ/312" style="text-decoration:none">САМОСТОЯТЕЛЬНЫЕ<br>&nbsp;&nbsp;РАБОТЫ. 9 КЛАСС</a>
+ <hr style="background:#ffffff; height:1px; border:0">
+<img src="/.s/t/221/23.gif"> <a href="/publ/369" style="text-decoration:none">КОНТРОЛЬНЫЕ РАБОТЫ В <br>&nbsp;&nbsp;ФОРМАТЕ ЕГЭ</a>
+ <hr style="background:#ffffff; height:1px; border:0">
+<img src="/.s/t/221/23.gif"> <a href="/publ/465" style="text-decoration:none">ШКОЛЬНЫЕ ОЛИМПИАДЫ<br>&nbsp;&nbsp; ПО ОБЩЕСТВОВЕДЕНИЮ</a>
+ <hr style="background:#ffffff; height:1px; border:0">
+<!--</s>--><!-- </bc> --></td></tr></tbody></table>
+<!-- </block12> -->
+ 
+<!-- <block1> -->
+
+<table class="boxTable" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td class="boxTitle"><b><!-- <bt> --><!--<s5184>-->ХИМИЯ<!--</s>--><!-- </bt> --></b></td></tr><tr><td class="boxContent"><!-- <bc> --><div id="uMenuDiv10" class="uMenuV" style="position:relative;"><ul class="uMenuRoot">
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/publ/nauchnye_razvlechenija/khimija_bez_laboratorii/209"><span>ХИМИЯ БЕЗ ЛАБОРАТОРИИ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li style="position:relative;"><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><div class="uMenuArrow"></div><a href="http://супертинейджеры.рф/publ/rabochie_materialy_k_urokam_khimii/398"><span>РАБОЧИЕ МАТЕРИАЛЫ К УРОКАМ ХИМИИ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div><ul style="display:none;">
+<li><div class="uMenuItem"><a href="http://супертинейджеры.рф/publ/rabochie_materialy_k_urokam_khimii/9_klass/399"><span>9 КЛАСС</span></a></div></li></ul></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/publ/udivitelnaja_khimija/130"><span>УДИВИТЕЛЬНАЯ ХИМИЯ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li style="position:relative;"><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><div class="uMenuArrow"></div><a href="/publ/458"><span>ОПЫТЫ ПО ХИМИИ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div><ul style="display:none;">
+<li><div class="uMenuItem"><a href="/publ/459"><span>ЛАБОРАТОРНЫЕ ОПЫТЫ ПО ХИМИИ</span></a></div></li>
+<li><div class="uMenuItem"><a href="/publ/212"><span>ЗАНИМАТЕЛЬНЫЕ ОПЫТЫ ПО ХИМИИ</span></a></div></li>
+<li><div class="uMenuItem"><a href="/publ/nauchnye_razvlechenija/nauchnye_chudesa/210"><span>НАУЧНЫЕ ЧУДЕСА</span></a></div></li></ul></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/index/0-74"><span>ЗАДАЧНИК ПО ХИМИИ. 11 КЛАСС</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/index/0-81"><span>ЗАДАЧИ ПО ОРГАНИЧЕСКОЙ ХИМИИ. 10-11 КЛАССЫ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li style="position:relative;"><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><div class="uMenuArrow"></div><a href="/publ/testy_po_khimii/383"><span>ТЕСТЫ ПО ХИМИИ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div><ul style="display:none;">
+<li><div class="uMenuItem"><a href="/publ/testy_po_khimii/8_klass/384"><span>8 КЛАСС</span></a></div></li></ul></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="http://супертинейджеры.рф/publ/kartochki_s_zadanijami_po_obshhej_i_neorganicheskoj_khimii/421"><span>КАРТОЧКИ С ЗАДАНИЯМИ ПО ОБЩЕЙ И НЕОРГАНИЧЕСКОЙ ХИМИИ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li style="position:relative;"><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><div class="uMenuArrow"></div><a href="/publ/proverochnye_raboty_po_khimii/385"><span>ПРОВЕРОЧНЫЕ РАБОТЫ ПО ХИМИИ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div><ul style="display:none;">
+<li><div class="uMenuItem"><a href="/publ/466"><span>8 КЛАСС</span></a></div></li>
+<li><div class="uMenuItem"><a href="/publ/proverochnye_raboty_po_khimii/9_klass/386"><span>9 КЛАСС</span></a></div></li>
+<li><div class="uMenuItem"><a href="/publ/proverochnye_raboty_po_khimii/10_klass/389"><span>10 КЛАСС</span></a></div></li></ul></li>
+<li style="position:relative;"><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><div class="uMenuArrow"></div><a href="/publ/290"><span>КОНТРОЛЬНЫЕ РАБОТЫ ПО ХИМИИ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div><ul style="display:none;">
+<li><div class="uMenuItem"><a href="/publ/467"><span>8 КЛАСС</span></a></div></li>
+<li><div class="uMenuItem"><a href="/publ/khimija/kontrolnye_raboty_po_khimii_v_novom_formate/292"><span>КОНТРОЛЬНЫЕ РАБОТЫ ПО ХИМИИ В НОВОМ ФОРМАТЕ</span></a></div></li></ul></li>
+<li style="position:relative;"><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><div class="uMenuArrow"></div><a href="/publ/443"><span>ПОДГОТОВКА К ЕГЭ ПО ХИМИИ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div><ul style="display:none;">
+<li><div class="uMenuItem"><a href="/publ/khimija/tipovye_varianty_egeh_po_khimii/293"><span>ДЕМОНСТРАЦИОННЫЕ ВАРИАНТЫ ЕГЭ ПО ХИМИИ</span></a></div></li>
+<li><div class="uMenuItem"><a href="/publ/khimija/egeh_2015_po_khimii/304"><span>ТИПОВЫЕ ВАРИАНТЫ ЕГЭ ПО ХИМИИ</span></a></div></li></ul></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/load/75"><span>КРОССВОРДЫ ПО ХИМИИ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li></ul></div><script type="text/javascript">$(function(){_uBuildMenu('#uMenuDiv10',0,document.location.href+'/','uMenuItemA','uMenuArrow',2500);})</script><!-- </bc> --></td></tr></tbody></table>
+
+<!-- </block1> --> 
+ 
+ <!-- <block1> -->
+<table class="boxTable" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td><!-- Yandex.RTB R-A-352124-4 -->
+<div id="yandex_rtb_R-A-352124-4"></div>
+<script type="text/javascript">
+ (function(w, d, n, s, t) {
+ w[n] = w[n] || [];
+ w[n].push(function() {
+ Ya.Context.AdvManager.render({
+ blockId: "R-A-352124-4",
+ renderTo: "yandex_rtb_R-A-352124-4",
+ async: true
+ });
+ });
+ t = d.getElementsByTagName("script")[0];
+ s = d.createElement("script");
+ s.type = "text/javascript";
+ s.src = "//an.yandex.ru/system/context.js";
+ s.async = true;
+ t.parentNode.insertBefore(s, t);
+ })(this, this.document, "yandexContextAsyncCallbacks");
+</script></td></tr></tbody></table>
+<!-- </block1> -->
+<br> 
+
+<!-- <block12> -->
+<table class="boxTable" style="" cellspacing="0" cellpadding="0" border="0"><tbody style=""><tr><td class="boxTitle"><b><!-- <bt> --><!--<s5204>-->ОБЖ<!--</s>--><!-- </bt> --></b></td></tr><tr style=""><td class="boxContent" style=""><!-- <bc> --><!--<s1546>-->
+ 
+ <img src="/.s/t/221/23.gif"> <a href="/load/168" style="text-decoration:none">ЧТО ДЕЛАТЬ ЕСЛИ ...</a>
+ <hr style="background:#ffffff; height:1px; border:0">
+<img src="/.s/t/221/23.gif"> <a href="/publ/323" style="text-decoration:none">ЭНЦИКЛОПЕДИЯ ШКОЛЬНИКА <br>&nbsp;&nbsp;"ЧРЕЗВЫЧАЙНЫЕ СИТУАЦИИ"</a>
+ <hr style="background:#ffffff; height:1px; border:0">
+<img src="/.s/t/221/23.gif"> <a href="/publ/90" style="text-decoration:none">РЕКОРДЫ СТИХИИ</a>
+ <hr style="background:#ffffff; height:1px; border:0">
+<img src="/.s/t/221/23.gif"> <a href="/load/171" style="text-decoration:none">СВОД ПРАВИЛ ЮНОГО <br>&nbsp;&nbsp;ВЕЛОСИПЕДИСТА</a>
+ <hr style="background:#ffffff; height:1px; border:0">
+<img src="/.s/t/221/23.gif"> <a href="/publ/375" style="text-decoration:none">РАБОЧИЕ МАТЕРИАЛЫ К <br>&nbsp;&nbsp;УРОКАМ ОБЖ В 11 КЛАССЕ</a>
+ <hr style="background:#ffffff; height:1px; border:0">
+<img src="/.s/t/221/23.gif"> <a href="/publ/309" style="text-decoration:none">ПРОВЕРОЧНЫЕ РАБОТЫ ПО <br>&nbsp;&nbsp;ОБЖ</a>
+ <hr style="background:#ffffff; height:1px; border:0">
+<img src="/.s/t/221/23.gif"> <a href="/load/169" style="text-decoration:none">ТЕСТЫ ПО ОБЖ. 10-11 КЛАССЫ</a>
+ <hr style="background:#ffffff; height:1px; border:0">
+<img src="/.s/t/221/23.gif"> <a href="/load/97" style="text-decoration:none">КРОССВОРДЫ ПО ОБЖ</a>
+ <hr style="background:#ffffff; height:1px; border:0">
+<!--</s>--><!-- </bc> --></td></tr></tbody></table>
+<!-- </block12> -->
+ 
+<!-- <block12> -->
+<table class="boxTable" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td class="boxTitle"><b><!-- <bt> --><!--<s5204>-->МХК<!--</s>--><!-- </bt> --></b></td></tr><tr><td class="boxContent"><!-- <bc> --><!--<s1546>-->
+ 
+ <img src="/.s/t/221/23.gif"> <a href="/load/156" style="text-decoration:none">СОВРЕМЕННАЯ <br>&nbsp;&nbsp;ЭНЦИКЛОПЕДИЯ ИСКУССТВА</a>
+ <hr style="background:#ffffff; height:1px; border:0">
+ <img src="/.s/t/221/23.gif"> <a href="/publ/83" style="text-decoration:none">ВЕЛИКИЕ ТЕАТРЫ МИРА</a>
+ <hr style="background:#ffffff; height:1px; border:0">
+ <img src="/.s/t/221/23.gif"> <a href="/publ/75" style="text-decoration:none">САМЫЕ ИЗВЕСТНЫЕ <br>&nbsp;&nbsp;ПАМЯТНИКИ</a>
+ <hr style="background:#ffffff; height:1px; border:0">
+ <img src="/.s/t/221/23.gif"> <a href="/publ/77" style="text-decoration:none">МУЗЕЕВ МИРА</a>
+ <hr style="background:#ffffff; height:1px; border:0">
+ <img src="/.s/t/221/23.gif"> <a href="/publ/68" style="text-decoration:none">ВЕЛИКИЕ СОКРОВИЩА МИРА</a>
+ <hr style="background:#ffffff; height:1px; border:0">
+ <img src="/.s/t/221/23.gif"> <a href="/publ/66" style="text-decoration:none">СОКРОВИЩА РОССИИ</a>
+ <hr style="background:#ffffff; height:1px; border:0">
+ <img src="/.s/t/221/23.gif"> <a href="/load/133" style="text-decoration:none">КРОССВОРДЫ ПО МХК</a>
+ <hr style="background:#ffffff; height:1px; border:0">
+<!--</s>--><!-- </bc> --></td></tr></tbody></table>
+<!-- </block12> -->
+ 
+ <!-- <block1> -->
+<table class="boxTable" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td><!-- Yandex.RTB R-A-352124-6 -->
+<div id="yandex_rtb_R-A-352124-6"></div>
+<script type="text/javascript">
+ (function(w, d, n, s, t) {
+ w[n] = w[n] || [];
+ w[n].push(function() {
+ Ya.Context.AdvManager.render({
+ blockId: "R-A-352124-6",
+ renderTo: "yandex_rtb_R-A-352124-6",
+ async: true
+ });
+ });
+ t = d.getElementsByTagName("script")[0];
+ s = d.createElement("script");
+ s.type = "text/javascript";
+ s.src = "//an.yandex.ru/system/context.js";
+ s.async = true;
+ t.parentNode.insertBefore(s, t);
+ })(this, this.document, "yandexContextAsyncCallbacks");
+</script></td></tr></tbody></table>
+<!-- </block1> -->
+<br>
+
+<!-- <block12> -->
+<table class="boxTable" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td class="boxTitle"><b><!-- <bt> --><!--<s5204>-->ЕСТЕСТВОЗНАНИЕ<!--</s>--><!-- </bt> --></b></td></tr><tr><td class="boxContent"><!-- <bc> --><!--<s1546>-->
+ 
+ <img src="/.s/t/221/23.gif"> <a href="/publ/330" style="text-decoration:none">ЕСТЕСТВОЗНАНИЕ. БАЗОВЫЙ <br>&nbsp;&nbsp;УРОВЕНЬ. 10 КЛАСС</a>
+ <hr style="background:#ffffff; height:1px; border:0">
+ <img src="/.s/t/221/23.gif"> <a href="/publ/157" style="text-decoration:none">УДИВИТЕЛЬНАЯ ИСТОРИЯ <br>&nbsp;&nbsp;ЗЕМЛИ</a>
+ <hr style="background:#ffffff; height:1px; border:0">
+ <img src="/.s/t/221/23.gif"> <a href="/publ/129" style="text-decoration:none">ИСТОРИЯ ОСВОЕНИЯ ЗЕМЛИ</a>
+ <hr style="background:#ffffff; height:1px; border:0">
+ <img src="/.s/t/221/23.gif"> <a href="/publ/92" style="text-decoration:none">ВЕЛИЧАЙШИЕ <br>&nbsp;&nbsp;АРХЕОЛОГИЧЕСКИЕ ОТКРЫТИЯ</a>
+ <hr style="background:#ffffff; height:1px; border:0">
+ <img src="/.s/t/221/23.gif"> <a href="/publ/234" style="text-decoration:none">УДИВИТЕЛЬНЫЕ ОТКРЫТИЯ <br>&nbsp;&nbsp;УЧЕНЫХ</a>
+ <hr style="background:#ffffff; height:1px; border:0">
+ <img src="/.s/t/221/23.gif"> <a href="/publ/426" style="text-decoration:none">РАЗВИВАЮШИЕ ЭКСПЕРИМЕНТЫ <br>&nbsp;&nbsp;И ОПЫТЫ ПО <br>&nbsp;&nbsp;ЕСТЕСТВОЗНАНИЮ</a>
+ <hr style="background:#ffffff; height:1px; border:0">
+ <img src="/.s/t/221/23.gif"> <a href="/publ/33" style="text-decoration:none">САМЫЕ ИЗВЕСТНЫЕ <br>&nbsp;&nbsp;НОБЕЛЕВСКИЕ ЛАУРЕАТЫ</a>
+ <hr style="background:#ffffff; height:1px; border:0">
+<!--</s>--><!-- </bc> --></td></tr></tbody></table>
+<!-- </block12> -->
+ 
+ <link type="text/css" rel="StyleSheet" href="/.s/src/css/221.css">
+<div id="ok_group_widget"></div>
+<script>
+!function (d, id, did, st) {
+ var js = d.createElement("script");
+ js.src = "https://connect.ok.ru/connect.js";
+ js.onload = js.onreadystatechange = function () {
+ if (!this.readyState || this.readyState == "loaded" || this.readyState == "complete") {
+ if (!this.executed) {
+ this.executed = true;
+ setTimeout(function () {
+ OK.CONNECT.insertGroupWidget(id,did,st);
+ }, 0);
+ }
+ }}
+ d.documentElement.appendChild(js);
+}(document,"ok_group_widget","53381692588120","{width:200,height:335}");
+</script>
+<br>
+
+<!-- <block12> -->
+<table class="boxTable" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td class="boxTitle"><b><!-- <bt> --><!--<s5204>-->ГОТОВЫЕ СОЧИНЕНИЯ<!--</s>--><!-- </bt> --></b></td></tr><tr><td class="boxContent"><!-- <bc> --><!--<s1546>-->
+
+ <img src="/.s/t/221/23.gif"> <a href="/blog/1-0-4" style="text-decoration:none">РУССКИЙ ЯЗЫК</a>
+ <hr style="background:#ffffff; height:1px; border:0">
+<img src="/.s/t/221/23.gif"> <a href="/blog/1-0-1" style="text-decoration:none">РУССКАЯ ЛИТЕРАТУРА</a>
+ <hr style="background:#ffffff; height:1px; border:0">
+<img src="/.s/t/221/23.gif"> <a href="/blog/1-0-2" style="text-decoration:none">ЗАРУБЕЖНАЯ ЛИТЕРАТУРА<br>&nbsp;&nbsp;(на русск.яз.)</a>
+ <hr style="background:#ffffff; height:1px; border:0">
+<img src="/.s/t/221/23.gif"> <a href="/blog/1-0-5" style="text-decoration:none">УКРАИНСКИЙ ЯЗЫК</a>
+ <hr style="background:#ffffff; height:1px; border:0">
+<img src="/.s/t/221/23.gif"> <a href="/blog/1-0-3" style="text-decoration:none">УКРАИНСКАЯ ЛИТЕРАТУРА </a>
+ <hr style="background:#ffffff; height:1px; border:0">
+<img src="/.s/t/221/23.gif"> <a href="/blog/1-0-7" style="text-decoration:none">ЗАРУБЕЖНАЯ ЛИТЕРАТУРА<br>&nbsp;&nbsp;(на укр.яз.)</a>
+ <hr style="background:#ffffff; height:1px; border:0">
+<img src="/.s/t/221/23.gif"> <a href="/blog/1-0-6" style="text-decoration:none">ПРИКОЛЫ ИЗ СОЧИНЕНИЙ</a>
+ <hr style="background:#ffffff; height:1px; border:0">
+<!--</s>--><!-- </bc> --><p></p></td></tr></tbody></table>
+<!-- </block12> -->
+
+<!-- <block1> -->
+
+<table class="boxTable" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td class="boxTitle"><b><!-- <bt> --><!--<s5184>-->ПАТРИОТИЧЕСКОЕ ВОСПИТАНИЕ<!--</s>--><!-- </bt> --></b></td></tr><tr><td class="boxContent"><!-- <bc> --><div id="uMenuDiv8" class="uMenuV" style="position:relative;"><ul class="uMenuRoot">
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/publ/patrioticheskoe_vospitanie/goroda_geroi/13"><span>ГОРОДА-ГЕРОИ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/publ/patrioticheskoe_vospitanie/goroda_voinskoj_slavy/50"><span>ГОРОДА ВОИНСКОЙ СЛАВЫ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/publ/patrioticheskoe_vospitanie/malenkie_geroi_vojny/14"><span>ЮНЫЕ ГЕРОИ ВОЙНЫ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/index/0-68"><span>ИСТОРИЯ ГЕОРГИЕВСКОЙ ЛЕНТЫ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/publ/patrioticheskoe_vospitanie/voennye_operacii/18"><span>ВОЕННЫЕ ОПЕРАЦИИ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li style="position:relative;"><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><div class="uMenuArrow"></div><a href="/publ/voennaja_forma_vtoroj_mirovoj/245"><span>ВОЕННАЯ ФОРМА ВТОРОЙ МИРОВОЙ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div><ul style="display:none;">
+<li><div class="uMenuItem"><a href="/publ/voennaja_forma_vtoroj_mirovoj/sovetskij_sojuz/246"><span>СОВЕТСКИЙ СОЮЗ</span></a></div></li>
+<li><div class="uMenuItem"><a href="/publ/voennaja_forma_vtoroj_mirovoj/velikobritanija/247"><span>ВЕЛИКОБРИТАНИЯ</span></a></div></li>
+<li><div class="uMenuItem"><a href="/publ/voennaja_forma_vtoroj_mirovoj/francija/248"><span>ФРАНЦИЯ</span></a></div></li>
+<li><div class="uMenuItem"><a href="/publ/voennaja_forma_vtoroj_mirovoj/soedinennye_shtaty/249"><span>СОЕДИНЕННЫЕ ШТАТЫ</span></a></div></li>
+<li><div class="uMenuItem"><a href="/publ/voennaja_forma_vtoroj_mirovoj/italija/250"><span>ИТАЛИЯ</span></a></div></li>
+<li><div class="uMenuItem"><a href="/publ/voennaja_forma_vtoroj_mirovoj/japonija/251"><span>ЯПОНИЯ</span></a></div></li>
+<li><div class="uMenuItem"><a href="/publ/voennaja_forma_vtoroj_mirovoj/germanija/252"><span>ГЕРМАНИЯ</span></a></div></li>
+<li><div class="uMenuItem"><a href="/publ/voennaja_forma_vtoroj_mirovoj/britanskaja_imperija/253"><span>БРИТАНСКАЯ ИМПЕРИЯ</span></a></div></li>
+<li><div class="uMenuItem"><a href="/publ/voennaja_forma_vtoroj_mirovoj/drugie_strany_quot_osi_quot/254"><span>ДРУГИЕ СТРАНЫ "ОСИ"</span></a></div></li>
+<li><div class="uMenuItem"><a href="/publ/voennaja_forma_vtoroj_mirovoj/drugie_sojuznye_strany/255"><span>ДРУГИЕ СОЮЗНЫЕ СТРАНЫ</span></a></div></li></ul></li>
+<li style="position:relative;"><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><div class="uMenuArrow"></div><a href="/publ/patrioticheskoe_vospitanie/velikie_polkovodcy/15"><span>ВЕЛИКИЕ ПОЛКОВОДЦЫ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div><ul style="display:none;">
+<li><div class="uMenuItem"><a href="/publ/patrioticheskoe_vospitanie/obuchajushhie_komiksy_quot_georgij_zhukov_quot/279"><span>ОБУЧАЮЩИЕ КОМИКСЫ "ГЕОРГИЙ ЖУКОВ"</span></a></div></li></ul></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/publ/patrioticheskoe_vospitanie/chelovek_legenda/17"><span>ЧЕЛОВЕК-ЛЕГЕНДА</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/publ/poslovicy_i_pogovorki_velikoj_otechestvennoj_vojny/256"><span>ПОСЛОВИЦЫ И ПОГОВОРКИ ВЕЛИКОЙ ОТЕЧЕСТВЕННОЙ ВОЙНЫ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/publ/patrioticheskoe_vospitanie/fashistskie_vozhdi/86"><span>ФАШИСТСКИЕ ВОЖДИ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="http://супертинейджеры.рф/index/gde_zhivet_pamjat_o_podvige_naroda/0-66"><span>ГДЕ ЖИВЕТ ПАМЯТЬ О ПОДВИГЕ НАРОДА?</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/publ/patrioticheskoe_vospitanie/tajny_vtoroj_mirovoj_vojny/84"><span>ТАЙНЫ ВТОРОЙ МИРОВОЙ ВОЙНЫ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="http://barbos.my1.ru/load/sobaki_na_vojne/54" target="_blank"><span>СОБАКИ НА ВОЙНЕ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/publ/patrioticheskoe_vospitanie/animacija/16"><span>НАГЛЯДНОСТЬ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li></ul></div><script type="text/javascript">$(function(){_uBuildMenu('#uMenuDiv8',0,document.location.href+'/','uMenuItemA','uMenuArrow',2500);})</script><!-- </bc> --></td></tr></tbody></table>
+
+<!-- </block1> -->
+
+<!-- <block1> -->
+
+<table class="boxTable" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td class="boxTitle"><b><!-- <bt> --><!--<s5184>-->УЧИТЕЛЬСКАЯ<!--</s>--><!-- </bt> --></b></td></tr><tr><td class="boxContent"><!-- <bc> --><div id="uMenuDiv6" class="uMenuV" style="position:relative;"><ul class="uMenuRoot">
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/publ/432"><span>ИНФОГРАФИКА ОБ ОБРАЗОВАНИИ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="http://uroki-sovy.ru/index.php/attestatsiya-pedagogicheskikh-rabotnikov" target="_blank"><span>АТТЕСТАЦИЯ ПЕДАГОГИЧЕСКИХ РАБОТНИКОВ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/load/145"><span>КАК ПОМОЧЬ ШКОЛЬНИКУ? РАЗВИВАЕМ ПАМЯТЬ, ВНИМАНИЕ, УСИДЧИВОСТЬ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li style="position:relative;"><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><div class="uMenuArrow"></div><a href="/load/uchitelskaja/136"><span>ТРЕНИНГИ ПО ОБЩЕНИЮ ДЛЯ УЧИТЕЛЕЙ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div><ul style="display:none;">
+<li><div class="uMenuItem"><a href="/load/uchitelskaja/iskusstvo_slushat_i_byt_uslyshannym/137"><span>ИСКУССТВО СЛУШАТЬ И БЫТЬ УСЛЫШАННЫМ</span></a></div></li>
+<li><div class="uMenuItem"><a href="/load/uchitelskaja/sekrety_obshhenija_ot_dejla_karnegi/138"><span>СЕКРЕТЫ ОБЩЕНИЯ ОТ ДЕЙЛА КАРНЕГИ</span></a></div></li></ul></li>
+<li style="position:relative;"><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><div class="uMenuArrow"></div><a href="/publ/predmety_khudozhestvenno_ehsteticheskogo_cikla/237"><span>ПРЕДМЕТЫ ХУДОЖЕСТВЕННО-ЭСТЕТИЧЕСКОГО ЦИКЛА</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div><ul style="display:none;">
+<li><div class="uMenuItem"><a href="/publ/predmety_khudozhestvenno_ehsteticheskogo_cikla/metodika_prepodavanija_estestvoznanija_v_11_klasse/260"><span>МЕТОДИКА ПРЕПОДАВАНИЯ ЕСТЕСТВОЗНАНИЯ В 11 КЛАССЕ</span></a></div></li>
+<li><div class="uMenuItem"><a href="/publ/prepodavanie_istorii/266"><span>ПРЕПОДАВАНИЕ ИСТОРИИ</span></a></div><ul style="display:none;">
+<li><div class="uMenuItem"><a href="/publ/prepodavanie_istorii/prepodavanie_kursa_istorija_rossii_s_drevnejshikh_vremen_do_konca_xvi_veka/267"><span>ПРЕПОДАВАНИЕ КУРСА «ИСТОРИЯ РОССИИ С ДРЕВНЕЙШИХ ВРЕМЕН ДО КОНЦА XVI ВЕКА»</span></a></div></li>
+<li><div class="uMenuItem"><a href="/publ/predmety_khudozhestvenno_ehsteticheskogo_cikla/kurs_rossijskaja_civilizacija_ix_nachalo_xx_veka/259"><span>КУРС «РОССИЙСКАЯ ЦИВИЛИЗАЦИЯ. IX — НАЧАЛО XX ВЕКА»</span></a></div></li>
+<li><div class="uMenuItem"><a href="/publ/prepodavanie_istorii/prepodaem_kurs_quot_istorija_rossii_1900_1945_quot_v_11_klasse/277"><span>ПРЕПОДАЕМ КУРС "ИСТОРИЯ РОССИИ 1900—1945" в 11 КЛАССЕ</span></a></div></li>
+<li><div class="uMenuItem"><a href="/publ/prepodavanie_istorii/prepodaem_kurs_quot_istorija_rossii_1945_2008_quot/278"><span>ПРЕПОДАЕМ КУРС "ИСТОРИЯ РОССИИ 1945—2008"</span></a></div></li></ul></li>
+<li><div class="uMenuItem"><a href="/publ/metodika_prepodavanija_obshhestvoznanija/268"><span>МЕТОДИКА ПРЕПОДАВАНИЯ ОБЩЕСТВОЗНАНИЯ</span></a></div><ul style="display:none;">
+<li><div class="uMenuItem"><a href="/publ/metodika_prepodavanija_obshhestvoznanija/kurs_quot_globalnyj_mir_v_xxi_veke_quot_11_klass/269"><span>КУРС "ГЛОБАЛЬНЫЙ МИР В XXI ВЕКЕ". 11 КЛАСС</span></a></div></li>
+<li><div class="uMenuItem"><a href="/publ/metodika_prepodavanija_obshhestvoznanija/metodicheskie_rekomendacii_k_kursu_obshhestvoznanie_8_9_klassy/271"><span>МЕТОДИЧЕСКИЕ РЕКОМЕНДАЦИИ К КУРСУ «ОБЩЕСТВОЗНАНИЕ» 8—9 КЛАССЫ</span></a></div></li>
+<li><div class="uMenuItem"><a href="/publ/prepodavanie_kursa_quot_chelovek_i_obshhestvo_quot_11_klass/274"><span>ПРЕПОДАВАНИЕ КУРСА "ЧЕЛОВЕК И ОБЩЕСТВО". 11 КЛАСС</span></a></div><ul style="display:none;">
+<li><div class="uMenuItem"><a href="/publ/1_chast/275"><span>1 ЧАСТЬ</span></a></div></li>
+<li><div class="uMenuItem"><a href="/publ/2_chast/276"><span>2 ЧАСТЬ</span></a></div></li></ul></li></ul></li>
+<li><div class="uMenuItem"><a href="/publ/predmety_khudozhestvenno_ehsteticheskogo_cikla/kak_prepodavat_mkhk/238"><span>КАК ПРЕПОДАВАТЬ МХК</span></a></div></li>
+<li><div class="uMenuItem"><a href="/publ/predmety_khudozhestvenno_ehsteticheskogo_cikla/dekorativno_prikladnoe_iskusstvo_v_zhizni_cheloveka/264"><span>СЕКРЕТЫ ПРЕПОДАВАНИЯ ПРЕДМЕТА «ДЕКОРАТИВНО-ПРИКЛАДНОЕ ИСКУССТВО В ЖИЗНИ ЧЕЛОВЕКА»</span></a></div></li>
+<li><div class="uMenuItem"><a href="/publ/predmety_khudozhestvenno_ehsteticheskogo_cikla/izo_7_8_klassy_dizajn_i_arkhitektura_v_zhizni_cheloveka/265"><span>ИЗО 7-8 КЛАССЫ. ДИЗАЙН И АРХИТЕКТУРА В ЖИЗНИ ЧЕЛОВЕКА</span></a></div></li></ul></li>
+<li style="position:relative;"><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><div class="uMenuArrow"></div><a href="/publ/predmety_fiziko_matematicheskogo_cikla/261"><span>ПРЕДМЕТЫ ФИЗИКО-МАТЕМАТИЧЕСКОГО ЦИКЛА</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div><ul style="display:none;">
+<li><div class="uMenuItem"><a href="/publ/predmety_fiziko_matematicheskogo_cikla/metodika_prepodavanija_fiziki_v_7_klasse/262"><span>МЕТОДИКА ПРЕПОДАВАНИЯ ФИЗИКИ В 7 КЛАССЕ</span></a></div></li>
+<li><div class="uMenuItem"><a href="/publ/263"><span>ЛАБОРАТОРНЫЕ РАБОТЫ ПО ЭЛЕКТРОДИНАМИКЕ</span></a></div></li>
+<li><div class="uMenuItem"><a href="/publ/273"><span>ДЕМОНСТРАЦИОННЫЙ ЭКСПЕРИМЕНТ ПО ФИЗИКЕ</span></a></div></li></ul></li>
+<li style="position:relative;"><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><div class="uMenuArrow"></div><a href="/load/valdorfskaja_pedagogika/141"><span>ВАЛЬДОРФСКАЯ ПЕДАГОГИКА</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div><ul style="display:none;">
+<li><div class="uMenuItem"><a href="/load/valdorfskaja_pedagogika/sut_i_smysl_valdorfskoj_pedagogiki/139"><span>СУТЬ И СМЫСЛ ВАЛЬДОРФСКОЙ ПЕДАГОГИКИ</span></a></div></li>
+<li><div class="uMenuItem"><a href="/load/valdorfskaja_pedagogika/alternativy_valdorfskoj_pedagogiki/140"><span>АЛЬТЕРНАТИВЫ ВАЛЬДОРФСКОЙ ПЕДАГОГИКИ</span></a></div></li></ul></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="http://pan-poznavajka.ru/publ/obuchenie_detej_s_funkcionalnymi_narushenijami/3" target="_blank"><span>ОБУЧЕНИЕ ДЕТЕЙ С ОГРАНИЧЕННЫМИ ВОЗМОЖНОСТЯМИ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li style="position:relative;"><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><div class="uMenuArrow"></div><a href="/publ/klassnoe_rukovodstvo/242"><span>КЛАССНОЕ РУКОВОДСТВО</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div><ul style="display:none;">
+<li><div class="uMenuItem"><a href="/publ/klassnoe_rukovodstvo/ankety_dlja_roditelej_i_uchitelej/243"><span>АНКЕТЫ ДЛЯ РОДИТЕЛЕЙ И УЧИТЕЛЕЙ</span></a></div></li>
+<li><div class="uMenuItem"><a href="/publ/klassnoe_rukovodstvo/trening_dlja_roditelej_quot_vospitanie_samostojatelnosti_u_detej_quot/244"><span>ТРЕНИНГ ДЛЯ РОДИТЕЛЕЙ "ВОСПИТАНИЕ САМОСТОЯТЕЛЬНОСТИ У ДЕТЕЙ"</span></a></div></li>
+<li><div class="uMenuItem"><a href="/publ/klassnoe_rukovodstvo/profilaktika_agressivnykh_i_terroristicheskikh_projavlenij_u_podrostkov/257"><span>ПРОФИЛАКТИКА АГРЕССИВНЫХ И ТЕРРОРИСТИЧЕСКИХ ПРОЯВЛЕНИЙ У ПОДРОСТКОВ</span></a></div></li>
+<li><div class="uMenuItem"><a href="/publ/klassnoe_rukovodstvo/rabota_po_proforientacii/272"><span>РАБОТА ПО ПРОФОРИЕНТАЦИИ</span></a></div></li></ul></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/index/uchitelskaja_quot_perlovka_quot/0-53"><span>"ПЕРЛОВКА" ОТ УЧИТЕЛЕЙ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li></ul></div><script type="text/javascript">$(function(){_uBuildMenu('#uMenuDiv6',0,document.location.href+'/','uMenuItemA','uMenuArrow',2500);})</script><!-- </bc> --></td></tr></tbody></table>
+
+<!-- </block1> -->
+
+<!-- <block12> -->
+<table class="boxTable" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td class="boxTitle"><b><!-- <bt> --><!--<s5204>-->МОСКВОВЕДЕНИЕ ДЛЯ ШКОЛЬНИКОВ<!--</s>--><!-- </bt> --></b></td></tr><tr><td class="boxContent"><!-- <bc> --><!--<s1546>-->
+
+ <img src="/.s/t/221/23.gif"> <a href="/publ/217" style="text-decoration:none">ЗНАКОМИМСЯ С МОСКВОЙ</a>
+ <hr style="background:#ffffff; height:1px; border:0">
+<img src="/.s/t/221/23.gif"> <a href="/index/0-61" style="text-decoration:none">СТАРАЯ ЛЕГЕНДА О <br>&nbsp;&nbsp;МОСКОВИИ</a>
+ <hr style="background:#ffffff; height:1px; border:0">
+ <img src="/.s/t/221/23.gif"> <a href="/publ/377" style="text-decoration:none">ПРОГУЛКИ ПО <br>&nbsp;&nbsp;ДОПЕТРОВСКОЙ МОСКВЕ</a>
+ <hr style="background:#ffffff; height:1px; border:0">
+ <img src="/.s/t/221/23.gif"> <a href="/load/158" style="text-decoration:none">МОСКОВСКИЙ КРЕМЛЬ</a>
+ <hr style="background:#ffffff; height:1px; border:0">
+ <img src="/.s/t/221/23.gif"> <a href="/index/0-94" style="text-decoration:none">БУЛЬВАРНОЕ КОЛЬЦО</a>
+ <hr style="background:#ffffff; height:1px; border:0">
+<!--</s>--><!-- </bc> --></td></tr></tbody></table>
+<!-- </block12> -->
+
+<!-- <block12> -->
+<table class="boxTable" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td class="boxTitle"><b><!-- <bt> --><!--<s5204>-->ПЕТЕРБУРГОВЕДЕНИЕ ДЛЯ ШКОЛЬНИКОВ<!--</s>--><!-- </bt> --></b></td></tr><tr><td class="boxContent"><!-- <bc> --><!--<s1546>-->
+
+ <img src="/.s/t/221/23.gif"> <a href="/load/165" style="text-decoration:none">ИСТОРИЯ САНКТ-ПЕТЕРБУРГА</a>
+ <hr style="background:#ffffff; height:1px; border:0">
+<img src="/.s/t/221/23.gif"> <a rel="nofollow" href="http://zvonoknaurok.ru/publ/99" target="_blank" style="text-decoration:none">ДОСТОПРИМЕЧАТЕЛЬНОСТИ <br>&nbsp;&nbsp;САНКТ-ПЕТЕРБУРГА</a>
+ <hr style="background:#ffffff; height:1px; border:0">
+<!--</s>--><!-- </bc> --></td></tr></tbody></table>
+<!-- </block12> -->
+
+<!-- <block3> -->
+
+<table class="boxTable" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td class="boxTitle"><b><!-- <bt> --><!--<s5184>-->ЭНЦИКЛОПЕДИЯ ОБО ВСЕМ НА СВЕТЕ<!--</s>--><!-- </bt> --></b></td></tr><tr><td class="boxContent"><!-- <bc> --><div id="uMenuDiv3" class="uMenuV" style="position:relative;"><ul class="uMenuRoot">
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/publ/ehnciklopedija_obo_vsem_na_svete/s_chego_vse_nachalos/111"><span>С ЧЕГО ВСЕ НАЧАЛОСЬ?</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/publ/ehnciklopedija_obo_vsem_na_svete/pogruzhaemsja_v_mir_mifov/122"><span>ПОГРУЖАЕМСЯ В МИР МИФОВ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/publ/ehnciklopedija_obo_vsem_na_svete/istoricheskie_khroniki/127#"><span>ИСТОРИЧЕСКИЕ ХРОНИКИ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/publ/ehnciklopedija_obo_vsem_na_svete/mir_v_kotorom_my_zhivem/114"><span>МИР, В КОТОРОМ МЫ ЖИВЕМ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/publ/ehnciklopedija_obo_vsem_na_svete/chelovecheskij_organizm/118"><span>ЧЕЛОВЕЧЕСКИЙ ОРГАНИЗМ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/publ/ehnciklopedija_obo_vsem_na_svete/interesno_o_medicine/121"><span>ИНТЕРЕСНО О МЕДИЦИНЕ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/publ/ehnciklopedija_obo_vsem_na_svete/zhivye_sushhestva/110"><span>ЖИВЫЕ СУЩЕСТВА</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/publ/ehnciklopedija_obo_vsem_na_svete/nashi_sputniki_rastenija/113"><span>НАШИ СПУТНИКИ РАСТЕНИЯ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/publ/ehnciklopedija_obo_vsem_na_svete/u_prirody_net_plokhoj_pogody/224"><span>У ПРИРОДЫ НЕТ ПЛОХОЙ ПОГОДЫ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/publ/ehnciklopedija_obo_vsem_na_svete/geograficheskie_svedenija_o_nashej_zemle/120"><span>ГЕОГРАФИЧЕСКИЕ СВЕДЕНИЯ О НАШЕЙ ЗЕМЛЕ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li style="position:relative;"><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><div class="uMenuArrow"></div><a href="/publ/virtualnye_puteshestvija_po_stranam_i_kontinentam/141"><span>ПУТЕШЕСТВИЯ ПО СТРАНАМ И КОНТИНЕНТАМ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div><ul style="display:none;">
+<li><div class="uMenuItem"><a href="/publ/virtualnye_puteshestvija_po_stranam_i_kontinentam/shvejcarija_i_shvejcarcy/142"><span>ШВЕЙЦАРИЯ И ШВЕЙЦАРЦЫ</span></a></div></li>
+<li><div class="uMenuItem"><a href="/publ/virtualnye_puteshestvija_po_stranam_i_kontinentam/danija_i_datchane/143"><span>ДАНИЯ И ДАТЧАНЕ</span></a></div></li>
+<li><div class="uMenuItem"><a href="/publ/virtualnye_puteshestvija_po_stranam_i_kontinentam/avstrija_i_avstrijcy/144"><span>АВСТРИЯ И АВСТРИЙЦЫ</span></a></div></li>
+<li><div class="uMenuItem"><a href="/publ/virtualnye_puteshestvija_po_stranam_i_kontinentam/japonija_i_japoncy/145"><span>ЯПОНИЯ И ЯПОНЦЫ</span></a></div></li>
+<li><div class="uMenuItem"><a href="/publ/virtualnye_puteshestvija_po_stranam_i_kontinentam/avstralija_i_avstralijcy/146"><span>АВСТРАЛИЯ И АВСТРАЛИЙЦЫ</span></a></div></li>
+<li><div class="uMenuItem"><a href="/publ/virtualnye_puteshestvija_po_stranam_i_kontinentam/amerika_i_amerikancy/147"><span>АМЕРИКА И АМЕРИКАНЦЫ</span></a></div></li>
+<li><div class="uMenuItem"><a href="/publ/virtualnye_puteshestvija_po_stranam_i_kontinentam/francija_i_francuzy/148"><span>ФРАНЦИЯ И ФРАНЦУЗЫ</span></a></div></li>
+<li><div class="uMenuItem"><a href="/publ/virtualnye_puteshestvija_po_stranam_i_kontinentam/germanija_i_nemcy/149"><span>ГЕРМАНИЯ И НЕМЦЫ</span></a></div></li>
+<li><div class="uMenuItem"><a href="/publ/virtualnye_puteshestvija_po_stranam_i_kontinentam/anglija_i_anglichane/150"><span>АНГЛИЯ И АНГЛИЧАНЕ</span></a></div></li>
+<li><div class="uMenuItem"><a href="/publ/virtualnye_puteshestvija_po_stranam_i_kontinentam/belgija_i_belgijcy/151"><span>БЕЛЬГИЯ И БЕЛЬГИЙЦЫ</span></a></div></li>
+<li><div class="uMenuItem"><a href="/publ/virtualnye_puteshestvija_po_stranam_i_kontinentam/gollandija_i_gollandcy/152"><span>ГОЛЛАНДИЯ И ГОЛЛАНДЦЫ</span></a></div></li>
+<li><div class="uMenuItem"><a href="/publ/virtualnye_puteshestvija_po_stranam_i_kontinentam/islandija_i_islandcy/153"><span>ИСЛАНДИЯ И ИСЛАНДЦЫ</span></a></div></li>
+<li><div class="uMenuItem"><a href="/publ/virtualnye_puteshestvija_po_stranam_i_kontinentam/norvegija_i_norvezhcy/154"><span>НОРВЕГИЯ И НОРВЕЖЦЫ</span></a></div></li>
+<li><div class="uMenuItem"><a href="/publ/virtualnye_puteshestvija_po_stranam_i_kontinentam/shvecija_i_shvedy/155"><span>ШВЕЦИЯ И ШВЕДЫ</span></a></div></li>
+<li><div class="uMenuItem"><a href="/publ/virtualnye_puteshestvija_po_stranam_i_kontinentam/shotlandija_i_shotlandcy/156"><span>ШОТЛАНДИЯ И ШОТЛАНДЦЫ</span></a></div></li></ul></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/publ/ehnciklopedija_obo_vsem_na_svete/fizika_khimija_tekhnika/125"><span>ФИЗИКА, ХИМИЯ, ТЕХНИКА</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/publ/ehnciklopedija_obo_vsem_na_svete/tainstvennyj_kosmos/112"><span>ТАИНСТВЕННЫЙ КОСМОС</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/publ/ehnciklopedija_obo_vsem_na_svete/interesno_o_religijakh/126"><span>ИНТЕРЕСНО О РЕЛИГИЯХ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li></ul></div><script type="text/javascript">$(function(){_uBuildMenu('#uMenuDiv3',0,document.location.href+'/','uMenuItemA','uMenuArrow',2500);})</script><!-- </bc> --></td></tr></tbody></table>
+
+<!-- </block3> -->
+
+<!-- <block12> -->
+<table class="boxTable" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td class="boxTitle"><b><!-- <bt> --><!--<s5204>-->ПОЗНАВАТЕЛЬНО И ЗАНИМАТЕЛЬНО<!--</s>--><!-- </bt> --></b></td></tr><tr><td class="boxContent"><!-- <bc> --><!--<s1546>-->
+
+ <img src="/.s/t/221/23.gif"> <a href="/publ/226" style="text-decoration:none">ДИКОВИНКИ СО ВСЕГО МИРА</a>
+ <hr style="background:#ffffff; height:1px; border:0">
+ <img src="/.s/t/221/23.gif"> <a href="/publ/116" style="text-decoration:none">УДИВИТЕЛЬНАЯ ЛОГИКА</a>
+ <hr style="background:#ffffff; height:1px; border:0">
+ <img src="/.s/t/221/23.gif"> <a href="/publ/232" style="text-decoration:none">ЗАНИМАТЕЛЬНАЯ <br>&nbsp;&nbsp;ПСИХОЛОГИЯ</a>
+ <hr style="background:#ffffff; height:1px; border:0">
+ <img src="/.s/t/221/23.gif"> <a href="/publ/220" style="text-decoration:none">МИНЕРАЛЫ И ДРАГОЦЕННЫЕ <br>&nbsp;&nbsp;КАМНИ</a>
+ <hr style="background:#ffffff; height:1px; border:0">
+ <img src="/.s/t/221/23.gif"> <a href="/publ/108" style="text-decoration:none">УДИВИТЕЛЬНАЯ АРХЕОЛОГИЯ</a>
+ <hr style="background:#ffffff; height:1px; border:0">
+ <img src="/.s/t/221/23.gif"> <a href="/publ/115" style="text-decoration:none">ДИВНАЯ ПАЛЕОНТОЛОГИЯ</a>
+ <hr style="background:#ffffff; height:1px; border:0">
+<!--</s>--><!-- </bc> --></td></tr></tbody></table>
+<!-- </block12> -->
+
+<!-- <block12> -->
+<table class="boxTable" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td class="boxTitle"><b><!-- <bt> --><!--<s5204>-->БЕСЕДА ПО ДУШАМ С ТИНЕЙДЖЕРАМИ<!--</s>--><!-- </bt> --></b></td></tr><tr><td class="boxContent"><!-- <bc> --><!--<s1546>-->
+
+ <img src="/.s/t/221/23.gif"> <a href="/publ/227" style="text-decoration:none">МЕЖДУ НАМИ ДЕВОЧКАМИ</a>
+ <hr style="background:#ffffff; height:1px; border:0">
+ <img src="/.s/t/221/23.gif"> <a href="/publ/228" style="text-decoration:none">МЕЖДУ НАМИ МАЛЬЧИКАМИ</a>
+ <hr style="background:#ffffff; height:1px; border:0">
+ <img src="/.s/t/221/23.gif"> <a href="/publ/233" style="text-decoration:none">НАС ЖДЕТ ЭКЗАМЕН</a>
+ <hr style="background:#ffffff; height:1px; border:0">
+ <img src="/.s/t/221/23.gif"> <a href="/publ/270" style="text-decoration:none">ПОДРОСТКАМ О <br>&nbsp;&nbsp;ПЕРЕХОДНОМ ВОЗРАСТЕ</a>
+ <hr style="background:#ffffff; height:1px; border:0">
+ <img src="/.s/t/221/23.gif"> <a href="/publ/448" style="text-decoration:none">РУКОВОДСТВО ДЛЯ <br>&nbsp;&nbsp;ТИНЕЙДЖЕРОВ, У КОТОРЫХ <br>&nbsp;&nbsp;"ТРУДНЫЕ" РОДИТЕЛИ</a>
+ <hr style="background:#ffffff; height:1px; border:0">
+<!--</s>--><!-- </bc> --></td></tr></tbody></table>
+<!-- </block12> -->
+
+<!-- <block12> --><!-- </block12> -->
+
+<!-- <block12> -->
+<table class="boxTable" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td class="boxTitle"><b><!-- <bt> --><!--<s5204>-->Друзья сайта<!--</s>--><!-- </bt> --></b></td></tr><tr><td class="boxContent"><!-- <bc> --><!--<s1546>-->
+<li><a rel="nofollow" href="http://blog.ucoz.ru/" target="_blank">Официальный блог</a></li>
+<li><a rel="nofollow" href="http://forum.ucoz.ru/" target="_blank">Сообщество uCoz</a></li>
+<li><a rel="nofollow" href="http://faq.ucoz.ru/" target="_blank">FAQ по системе</a></li>
+<li><a rel="nofollow" href="http://manual.ucoz.net/" target="_blank">Инструкции для uCoz</a></li>
+<!--</s>--><!-- </bc> --></td></tr></tbody></table>
+<!-- </block12> --></noindex></div><!--/U1DRIGHTER1Z-->
+</td>
+</tr>
+
+<tr><td valign="bottom" style="width:218px;background:url('/.s/t/935/11.gif') repeat-y #8292CC;"><img src="/.s/t/935/12.gif" border="0"></td><td style="padding:0px 10px 0px 10px;"><table border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td width="25" height="25"><img src="/.s/t/935/13.gif" border="0"></td><td style="background:url('/.s/t/935/14.gif') repeat-x;" width="100%"></td><td width="25" height="25"><img src="/.s/t/935/15.gif" border="0"></td></tr></table></td><td valign="bottom" style="width:218px;background:url('/.s/t/935/11.gif') repeat-y #8292CC;"><img src="/.s/t/935/12.gif" border="0"></td></tr></table>
+</table>
+<!-- </middle> -->
+</td></tr></table>
+<!--U1BFOOTER1Z--><noindex>
+<script>
+ (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+ })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ ga('create', 'UA-66664508-1', 'auto');
+ ga('send', 'pageview');
+
+</script>
+<table style="background:url('/.s/t/935/16.gif') repeat-x #61A800;border-top:1px solid #CED7F6;border-bottom:1px solid #CED7F6;" border="0" cellpadding="4" cellspacing="0" height="55" width="100%">
+<tbody><tr><td align="center">
+ 
+ <!-- <copy> -->Copyright MyCorp &copy; 2021<!-- </copy> -->
+ 
+ </td></tr>
+<tr><td align="center"><!-- "' --><span class="pbGnVwdI"><a href="https://www.ucoz.ru/"><img style="width:81px; height:31px;" src="/.s/img/cp/29.gif" alt="" /></a></span>
+ 
+<!-- Yandex.Metrika informer -->
+<a href="https://metrika.yandex.ru/stat/?id=3440620&amp;from=informer"
+target="_blank" rel="nofollow"><img src="https://informer.yandex.ru/informer/3440620/3_1_ECECFFFF_CCCCFFFF_0_pageviews"
+style="width:88px; height:31px; border:0;" alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)" class="ym-advanced-informer" data-cid="3440620" data-lang="ru" /></a>
+<!-- /Yandex.Metrika informer -->
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+ (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+ m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+ (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+ ym(3440620, "init", {
+ clickmap:true,
+ trackLinks:true,
+ accurateTrackBounce:true
+ });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/3440620" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+ 
+<a href="https://webmaster.yandex.ru/sqi?host=супертинейджеры.рф"><img width="88" height="31" alt="" border="0" src="https://yandex.ru/cycounter?%D1%81%D1%83%D0%BF%D0%B5%D1%80%D1%82%D0%B8%D0%BD%D0%B5%D0%B9%D0%B4%D0%B6%D0%B5%D1%80%D1%8B.%D1%80%D1%84&theme=light&lang=ru"/></a>
+ 
+ <!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='//www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t12.15;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число просмотров за 24"+
+" часа, посетителей за 24 часа и за сегодня' "+
+"border='0' width='88' height='31'><\/a>")
+//--></script><!--/LiveInternet-->
+ 
+ <!-- Rating@Mail.ru counter -->
+<script type="text/javascript">
+var _tmr = window._tmr || (window._tmr = []);
+_tmr.push({id: "2771979", type: "pageView", start: (new Date()).getTime()});
+(function (d, w, id) {
+ if (d.getElementById(id)) return;
+ var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;
+ ts.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//top-fwz1.mail.ru/js/code.js";
+ var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+ if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+})(document, window, "topmailru-code");
+</script><noscript><div style="position:absolute;left:-10000px;">
+<img src="//top-fwz1.mail.ru/counter?id=2771979;js=na" style="border:0;" height="1" width="1" alt="Рейтинг@Mail.ru" />
+</div></noscript>
+<!-- //Rating@Mail.ru counter -->
+
+ <!-- Rating@Mail.ru logo -->
+<a href="http://top.mail.ru/jump?from=2771979">
+<img src="//top-fwz1.mail.ru/counter?id=2771979;t=473;l=1" 
+style="border:0;" height="31" width="88" alt="Рейтинг@Mail.ru" /></a>
+<!-- //Rating@Mail.ru logo -->
+ 
+<!-- www.popularsite.ru - Рейтинг популярных сайтов --><script type='text/javascript' language='Javascript' src='http://www.popularsite.ru/0pixel.php?mode=microbutton&publisherid=10000'></script>
+<!-- TOP.zp.ua Counter -->
+ 
+ <!-- RIN.RU COUNTER -->
+<a href="http://count.rin.ru/cgi-bin/view.cgi?domen=tineydgers.ru" target=_top>
+<script language="JavaScript" type="text/javascript">
+<!--
+d=document; var a='&d=tineydgers.ru'; a+='&rf='+escape(d.referrer); js=10;
+//-->
+</script><script language="JavaScript1.1" type="text/javascript">
+<!--
+a+='&jv='+navigator.javaEnabled(); js=11;
+//-->
+</script><script language="JavaScript1.2" type="text/javascript">
+<!--
+s=screen; a+='&wh='+s.width+'x'+s.height; a+='&cl='+(s.colorDepth?s.colorDepth:s.pixelDepth); js=12;
+//-->
+</script><script language="JavaScript1.3" type="text/javascript">
+<!--
+js=13;
+//-->
+</script><script language="JavaScript" type="text/javascript">
+<!--
+d.write('<img src="http://count.rin.ru/?js='+js+a+'&rand='+Math.random()+new Date().getTime()+'" alt="Рейтинг RIN.RU"'+' border=0 height=31 width=88>');
+//-->
+</script>
+</a>
+<noscript>
+<a href="http://count.rin.ru/cgi-bin/view.cgi?domen=tineydgers.ru" target=_top>
+<img src="http://count.rin.ru/?d=tineydgers.ru" alt="Рейтинг RIN.RU"'+' border=0 height=31 width=88>
+</a>
+</noscript>
+<!-- END COUNTER -->
+
+
+<script id="top100Counter" type="text/javascript" src="http://counter.rambler.ru/top100.jcn?2534991"></script>
+<noscript>
+<a href="http://top100.rambler.ru/navi/2534991/">
+<img src="http://counter.rambler.ru/top100.cnt?2534991" alt="Rambler's Top100" border="0">
+</a>
+</noscript>
+<!-- end of Top100 code --><a href="http://www.ilinks.ru" title="Каталог сайтов и статей iLinks.RU" target="_blank">
+<img src="http://www.ilnk.ru/images/ilinks.gif" alt="Каталог сайтов и статей iLinks.RU" border="0" width="88" height="31"></a>
+<a href="http://www.bi0.ru" target="_blank"><img src="http://www.bi0.ru/images/bi0.ru.gif" alt="Каталог сайтов Bi0" border="0" width="88" height="31"></a></noindex>
+</td></tr>
+
+ </tbody></table>
+</noindex><!--/U1BFOOTER1Z-->
+
+</td></tr></table>
+</body>
+
+</html>
+<!-- 0.09526 (s23) -->

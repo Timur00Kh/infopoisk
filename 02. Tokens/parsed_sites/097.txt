@@ -1,0 +1,383 @@
+<!doctype html>
+<html>
+<head>
+
+<link rel="stylesheet" href="http://moygoroskop.com/cache/css/f3073362f62f8b31f287107d71f46100.css" type="text/css" media="screen" title="prettyPhoto main stylesheet" charset="utf-8">
+<meta name="robots" content="all">
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://moygoroskop.com/news/rss/"><title>moygoroskop</title>
+<meta charset="utf-8">
+<meta name="description" content="Астрологический журнал Лунный календарь. Гороскоп на день, месяц, год, составленный профессиональными астрологами. Астрологическая диета и советы по уходу за волосами и кожей по лунным дням. Авторские статьи на тему астрологии, психологии, фэн-шуй, хирологии, таро, нумерологии, нлп, минералогии. Школа астрологии народный астрологический университет Олега Евтушенко в Одессе, Киеве, Херсоне, Николаеве и Москве. Консультации астрологов, заказ индивидуальных гороскопов. Советы, статьи мастера фэн-шуй, хиролога, астрологов, психологов и нумерологов.">
+<meta name="keywords" content="Олег Евтушенко, астрология, гороскоп, знаки зодиака, астрологические статьи, школа астрологии, фэн-шуй, лунный календарь, консультации астрологов, рекомендации, астропрогноз, индивидуальный гороскоп, астрология, обучение астрологии, астрология онлайн">
+<meta name="author" content="roman nikiforov">
+
+<meta name="viewport" content="width=1000">
+<meta name='wmail-verification' content='6dadc9d49fa750ea38984b6b4ac35bae' />
+<meta name='yandex-verification' content='75c17599076a544b' />
+<meta name="google-site-verification" content="u-r1ycrTuRqFQ9jr_hXlnTgLx65GnuA65gIyHxkrHzU" />
+
+<link rel="shortcut icon" href="http://moygoroskop.com/favicon.ico" type="image/x-icon">
+<link href="http://moygoroskop.com/cache/css/3ad24ab53e8420c1bb912e92df6f0e63.css" rel="stylesheet" type="text/css"><link href="http://moygoroskop.com/css/style.css" rel="stylesheet">
+<link rel="stylesheet" href="http://moygoroskop.com/css/ira.css">
+    <script src="http://moygoroskop.com/video/jwplayer.js"></script>
+     
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-74366195-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+</head>
+
+<body>
+<div class="wrap">
+    <div class="container subwrap">
+         <header class="clearfix">
+         
+<nav role="navigation">
+    <h2 class="noheader">Навигация по сайту</h2>
+    <ul class="navigation"><li><a href="http://moygoroskop.com/NAU" class="first-item">Обучение</a><ul class="subnavigation navLeft"><li><a href="http://moygoroskop.com/NAU/NAU">НАУ</a></li><li><a href="http://moygoroskop.com/NAU">Кафедры</a></li><li><a href="http://moygoroskop.com/NAU/filialy">Филиалы</a></li><li><a href="http://moygoroskop.com/NAU/rektorat/sostavMOE">Преподавательский состав</a></li><li><a href="http://moygoroskop.com/NAU/rektorat">Руководящий состав</a></li><li><a href="http://moygoroskop.com/astrologyschool/anketa">Стать студентом</a></li><li><a href="http://moygoroskop.com/onlineeducation/ol_seminary">Открытые лекции</a></li><li><a href="http://moygoroskop.com/NAU/NAU/meropriyatiya-nau">Мероприятия НАУ</a></li><li><a href="http://moygoroskop.com/NAU/NAU/astrologiya-onlayn">Онлайн обучение</a></li></ul></li><li><a href="http://moygoroskop.com/services" class="first-item">Услуги</a><ul class="subnavigation navLeft"><li><a href="http://moygoroskop.com/services/hashi-specialisty">Наши специалисты</a></li><li><a href="http://moygoroskop.com/oplata">Оплатить услуги</a></li></ul></li><li><a href="http://moygoroskop.com/seminars" class="first-item">Семинары и тренинги</a><ul class="subnavigation navLeft"><li><a href="http://moygoroskop.com/nau-kiev">Киев</a></li><li><a href="http://moygoroskop.com/seminars/astrologiya">Астрология</a></li><li><a href="http://moygoroskop.com/seminars/khirologiya">Хирология</a></li><li><a href="http://moygoroskop.com/seminars/psikhologiya">Психология</a></li><li><a href="http://moygoroskop.com/seminars/taro">Таро</a></li><li><a href="http://moygoroskop.com/seminars/numerologiya">Нумерология</a></li><li><a href="http://moygoroskop.com/seminars/fen-shuy">Фэн-шуй</a></li><li><a href="http://moygoroskop.com/seminars/kalendar-meropriyatiy">Календарь мероприятий</a></li></ul></li><li><a href="http://moygoroskop.com/goroskops" class="first-item">Гороскопы</a><ul class="subnavigation navLeft"><li><a href="http://moygoroskop.com/goroskops/goroskop-na-god">Гороскоп на год</a></li><li><a href="http://moygoroskop.com/goroskops/goroskop-na-mesyats">Гороскоп на месяц</a></li><li><a href="http://moygoroskop.com/goroskops/goroskop-na-den">Гороскоп на день</a></li><li><a href="http://moygoroskop.com/goroskops/goroskop-ukrainy">Гороскоп Украины</a></li><li><a href="http://moygoroskop.com/goroskop/zodiac">Твой знак зодиака</a></li><li><a href="http://moygoroskop.com/goroskop/synastry">Совместимость</a></li><li><a href="http://moygoroskop.com/goroskops/arkhiv-goroskopov">Архив гороскопов</a></li><li><a href="http://moygoroskop.com/goroskops/zakazat-goroskop">Заказать гороскоп</a></li></ul></li><li><a href="http://moygoroskop.com/mooncalendar" class="first-item">Лунный календарь</a><ul class="subnavigation navLeft"><li><a href="http://moygoroskop.com/mooncalendar/mooncalendar">Лунный календарь</a></li><li><a href="http://moygoroskop.com/mooncalendar/moonrithm">Лунный ритм</a></li><li><a href="http://moygoroskop.com/mooncalendar/kosmet">Косметология</a></li><li><a href="http://moygoroskop.com/mooncalendar/rainbow">Лунная радуга</a></li><li><a href="http://moygoroskop.com/mooncalendar/health">Будьте здоровы</a></li><li><a href="http://moygoroskop.com/mooncalendar/sleepingmoon">Время спящей луны</a></li><li><a href="http://moygoroskop.com/mooncalendar/hair">Когда стричь волосы</a></li><li><a href="http://moygoroskop.com/mooncalendar/astrodieta">Астродиета</a></li><li><a href="http://moygoroskop.com/mooncalendar/moonagronom">Лунный агроном</a></li><li><a href="http://moygoroskop.com/shop/individualnyy-prognoz">Заказать личный прогноз</a></li><li><a href="http://moygoroskop.com/mooncalendar/business">Деловой календарь</a></li><li><a href="http://moygoroskop.com/podpiska-na-zhurnal">Подписка на журнал</a></li></ul></li><li><a href="http://moygoroskop.com/nau-media" class="first-item">НАУ Медиа</a><ul class="subnavigation navLeft"><li><a href="http://moygoroskop.com/nau-media/izdatelstvo">Издательство НАУ</a></li><li><a href="http://moygoroskop.com/magazinemooncalendar">журнал &quot;Лунный календарь&quot;</a></li><li><a href="http://moygoroskop.com/nau-media/videovystupleniya">Видеовыступления</a></li><li><a href="http://moygoroskop.com/nau-media/radio">Радио</a></li><li><a href="http://moygoroskop.com/archiv">Статьи</a></li><li><a href="http://moygoroskop.com/nau-media/video-ot-oe">Видео от О.Е.</a></li></ul></li><li><a href="http://moygoroskop.com/shop" class="mooncalendar" class="first-item">Магазин</a></li><li><a href="http://moygoroskop.com/kontakty" class="first-item">Контакты</a></li></ul>
+</nav>
+
+
+         <div class="subheader">
+         <div class="subheader-left">
+         <h1 class="slogan-head">
+         <a class="logo-link" href="/">
+         <img class="logonew" src="http://moygoroskop.com/i/logonew.png">
+          </a>
+         <a href="/NAU">НАРОДНЫЙ АСТРОЛОГИЧЕСКИЙ УНИВЕРСИТЕТ</a>
+     </h1>
+     <div class="subheader-left-middle">
+         
+<ul><li><a href="http://moygoroskop.com/astrologiya-menu">Астрология</a></li><li><a href="http://moygoroskop.com/hirologiya-menu">Хирология</a></li><li><a href="http://moygoroskop.com/psihologia-menu">Психология</a></li><li><a href="http://moygoroskop.com/numerologia-menu">Нумерология</a></li><li><a href="http://moygoroskop.com/taro-menu">Тарология     </a></li><li><a href="http://moygoroskop.com/fen-shuy-menu">Фэн-шуй </a></li></ul>
+
+
+         </div> 
+
+
+         <div class="subheader-left-bottom">
+         
+<ul class='zodiaks'><li><a href="http://moygoroskop.com/oven" class='oven'>Овен</a></li><li><a href="http://moygoroskop.com/telets" class='telets'>Телец</a></li><li><a href="http://moygoroskop.com/bliznetsy" class='bliznetsy'>Близнецы</a></li><li><a href="http://moygoroskop.com/rak" class='rak'>Раки</a></li><li><a href="http://moygoroskop.com/lev" class='lev'>Львы</a></li><li><a href="http://moygoroskop.com/deva" class='deva'>Девы</a></li><li><a href="http://moygoroskop.com/vesy" class='vesy'>Весы</a></li><li><a href="http://moygoroskop.com/scorpion" class='scorpion'>Скорпионы</a></li><li><a href="http://moygoroskop.com/strelets" class='strelets'>Стрельцы</a></li><li><a href="http://moygoroskop.com/kozerog" class='kozerog'>Козероги</a></li><li><a href="http://moygoroskop.com/vodoley" class='vodoley'>Водолеи</a></li><li><a href="http://moygoroskop.com/ryby" class='ryby'>Рыбы</a></li></ul>
+         </div> 
+
+         </div>
+         <div class="b-mk">
+         <p class="mk-today">март 2021</p><p class="mk-wday">пн <span>1</span></p><p class="mk-daymoon">19 л.д. (20:23)</p><p class="mk-phasemooon">Весы 28.02 с 21:16</p><p class="mk-phasemooon m5">06:36-17:43</p><p><a class="mk-moon-top" href="http://moygoroskop.com/mooncalendar/mooncalendar">подробнее</a></p>
+         </div>
+         <div class="subheader-right">
+         <div class="registration">
+         <div class="block"><form method="post" action="" class="login">
+	<input type="hidden" name="action" value="auth">
+	<div class="group-controll">
+	    <input type="text" name="name" class="controll" placeholder="Логин" autocomplete="off">
+	</div>
+	<div class="group-controll">
+	    <input type="password" name="pass"  class="controll" placeholder="Пароль" autocomplete="off">
+	</div><div class="group-controll-btn">
+	    <input type="submit" class="btn btn-login" value="Войти">
+	</div>
+	<div class="registerlinks"><a href="http://moygoroskop.com/reminding" class="arrow-link black">Забыли пароль?</a> <a href="http://moygoroskop.com/registration" class="arrow-link black">Регистрация</a></div></form></div>
+         
+<div class="top_search search subheader-right-search">
+	<form action="http://moygoroskop.com/search" class="js_search_form search_form" method="get" id="search">
+	<div class="search-input">
+	    <input type="hidden" name="module" value="search">
+	    <input id="textbox"  class="controll"  type="text" name="searchword"  placeholder="Поиск по сайту">
+	    <input type="submit"  class="search-btn" value="">
+	</div>
+	</form></div>
+         </div>
+
+         </div> 
+         </div>
+
+         </header>
+
+
+         <div class="main-container clearfix">
+
+            <div class="center">
+                <div class="subcenter">
+                    <div class="content">
+                       <div class="flexslider"><ul class="slides top-slider-box"><li class="top-slider-box__item"><a class="top-slider-box__link" href="http://moygoroskop.com/cat-astrologia/astropsikholog-distantsionnoe"><img class="top-slider-box__img" src="http://moygoroskop.com/userfiles/slider/slider/323_astropsikholog-online.jpg" alt="Астропсихолог Online"></a></li><li class="top-slider-box__item"><a class="top-slider-box__link" href="http://moygoroskop.com/cat-psihologia/nlp-praktik/"><img class="top-slider-box__img" src="http://moygoroskop.com/userfiles/slider/slider/389_kurs-nlp.jpg" alt="Курс НЛП"></a></li><li class="top-slider-box__item"><a class="top-slider-box__link" href="http://moygoroskop.com/cat-astrologia/astropsikholog-ukraina"><img class="top-slider-box__img" src="http://moygoroskop.com/userfiles/slider/slider/390_astropsikholog.jpg" alt="Астропсихолог"></a></li><li class="top-slider-box__item"><a class="top-slider-box__link" href="http://moygoroskop.com/seminars/psikhologiya/t-igra-rodosvet"><img class="top-slider-box__img" src="http://moygoroskop.com/userfiles/slider/slider/394_rodosvet.jpg" alt="Родосвет"></a></li><li class="top-slider-box__item"><a class="top-slider-box__link" href="http://moygoroskop.com/seminars/taro/igra-22-arkana"><img class="top-slider-box__img" src="http://moygoroskop.com/userfiles/slider/slider/391_22-arkana.jpg" alt="22 аркана"></a></li><li class="top-slider-box__item"><a class="top-slider-box__link" href="http://moygoroskop.com/cat-taro/spetskurs-po-taro"><img class="top-slider-box__img" src="http://moygoroskop.com/userfiles/slider/slider/392_spetskurs-po-taro.jpg" alt="Спецкурс по Таро"></a></li><li class="top-slider-box__item"><a class="top-slider-box__link" href="http://moygoroskop.com/cat-numerologia"><img class="top-slider-box__img" src="http://moygoroskop.com/userfiles/slider/slider/393_numerolog.jpg" alt="Нумеролог"></a></li><li class="top-slider-box__item"><a class="top-slider-box__link" href="http://moygoroskop.com/cat-astrologia/astrologlyubitel"><img class="top-slider-box__img" src="http://moygoroskop.com/userfiles/slider/slider/184_astrolog-lyubitel.jpg" alt="Астролог любитель"></a></li><li class="top-slider-box__item"><a class="top-slider-box__link" href="http://moygoroskop.com/nau-kiev"><img class="top-slider-box__img" src="http://moygoroskop.com/userfiles/slider/slider/382_kiev-obuchenie.jpg" alt="Киев обучение"></a></li></ul></div>
+                      
+  					  <table class="u-table-noborder p25 m15">
+<tbody>
+<tr>
+<td><a href="http://moygoroskop.com/NAU"> <img src="/userfiles/images/obuchenie1.jpg" alt="MoonCalendar-08-September-2015-Cover" title="MoonCalendar-08-September-2015-Cover" height="220" width="190"> </a><br><br></td>
+<td><a href="http://moygoroskop.com/mooncalendar"> <img src="/userfiles/images/moon1cc01.jpg" alt="Лунный календарь" title="Лунный календарь" height="220" width="190"> </a></td>
+<td><a href="http://moygoroskop.com/goroskops"> <img src="/userfiles/images/goroskopy.jpg" alt="гороскопы" title="гороскопы" height="220" width="190"></a></td>
+</tr>
+</tbody>
+</table>
+<table class="u-table-noborder p25 m15">
+<tbody>
+<tr>
+<td><a href="http://moygoroskop.com/seminars"><img src="/userfiles/images/seminary.jpg" alt="Семинары и тренинги" title="MoonCalendar-08-September-2015-Cover" height="203" width="140"> </a></td>
+<td><a href="http://moygoroskop.com/services"><img src="/userfiles/images/uslugi.jpg" alt="Услуги" title="Услуги" height="203" width="140"></a></td>
+<td><a href="http://moygoroskop.com/nau-media"><img src="/userfiles/images/media.jpg" alt="Медиа" title="Медиа" height="203" width="140"></a></td>
+<td><a href="http://moygoroskop.com/kontakty"> <img src="/userfiles/images/kontakty.jpg" alt="Контакты" title="Контакты" height="203" width="140"> </a></td>
+</tr>
+<tr>
+<td><a href="http://moygoroskop.com/astrologiya-menu"> <img src="/userfiles/images/astrologiya.jpg" alt="Астрология" title="Астрология" height="203" width="140"> </a></td>
+<td><a href="http://moygoroskop.com/psihologia-menu"> <img src="/userfiles/images/psikh.jpg" alt="Психология" title="Психология" height="203" width="140"> </a></td>
+<td><a href="http://moygoroskop.com/taro-menu"><img src="/userfiles/images/tarob3ce.jpg" alt="Таро" title="Таро" height="203" width="140"></a></td>
+<td><a href="http://moygoroskop.com/hirologiya-menu"> <img src="/userfiles/images/khirologiya.jpg" alt="Хирология" title="Хирология" height="203" width="140"> </a></td>
+</tr>
+</tbody>
+</table>
+<br>
+<table class="u-table-noborder p25 m15">
+<tbody>
+<tr>
+<td align="center"><a href="http://moygoroskop.com/magazinemooncalendar"><img src="/userfiles/images/arkhiv_lk.jpg" alt="архив лк" title="архив лк" height="203" width="140"></a></td>
+<td align="center"><a href="http://moygoroskop.com/numerologia-menu"><img src="/userfiles/images/numer.jpg" alt="Нумерология" title="Нумерология" height="203" width="140"></a></td>
+<td align="center"><a href="http://moygoroskop.com/fen-shuy-menu"><img src="/userfiles/images/fen.jpg" alt="Фэн-шуй" title="Фэн-шуй" height="203" width="140"></a></td>
+<td align="center"><a href="http://moygoroskop.com/archiv"><img src="/userfiles/images/arkhiv2cc7.jpg" alt="АРХИВ" title="АРХИВ" height="203" width="140"></a></td>
+</tr>
+</tbody>
+</table>
+<br><br><br><br> <!-- 
+<img src="/userfiles/images/lk/001.jpg" alt="001" title="001">
+--> <div class="block clauses"><div class="block_header">Статьи</div><div class="block-row block-no-img"><div class="block-text"><h4><a href="http://moygoroskop.com/archiv/astrologiya/astrologicheskiy-doktor/znaki-zodiaka-na-nashem-tele-oven" class="black">Знаки зодиака на нашем теле. Овен</a></h4><div class="rate"> <span class="js_rating_votes rating_votes" module_name="clauses" element_id="1283" element_type="element"><img src="http://moygoroskop.com/custom/custom16_12_2016_19_13/modules/rating/img/rplus.png" alt="+" width="16" height="16" class="js_rating_votes_item"><img src="http://moygoroskop.com/custom/custom16_12_2016_19_13/modules/rating/img/rplus.png" alt="+" width="16" height="16" class="js_rating_votes_item"><img src="http://moygoroskop.com/custom/custom16_12_2016_19_13/modules/rating/img/rplus.png" alt="+" width="16" height="16" class="js_rating_votes_item"><img src="http://moygoroskop.com/custom/custom16_12_2016_19_13/modules/rating/img/rplus.png" alt="+" width="16" height="16" class="js_rating_votes_item"><img src="http://moygoroskop.com/custom/custom16_12_2016_19_13/modules/rating/img/rminus.png" alt="-" width="16" height="16" class="js_rating_votes_item"></span></div><div class="anons"><a href="http://moygoroskop.com/archiv/astrologiya/astrologicheskiy-doktor/znaki-zodiaka-na-nashem-tele-oven" class="black"><p>У каждого знака зодиака есть свои особенности. Давайте рассмотрим особенности, которые касаются здоровья.</p>
+<p>Овен начинает зодиакальный круг, поэтому в астрологической модели он символизирует наши мечты, идеи, цели, наши идеалы и долгосрочные планы. Если говорить о зоне на теле человека, то Овну с давних времен выделена область головы от макушки по верхнюю челюсть.</p></a></div></div></div><div class="block-row block-no-img"><div class="block-text"><h4><a href="http://moygoroskop.com/archiv/astrologiya/nina-kaplaushenko-prikladnaya-astrologiya/mars-v-rybakh" class="black">Марс в Рыбах</a></h4><div class="rate"> <span class="js_rating_votes rating_votes" module_name="clauses" element_id="1282" element_type="element"><img src="http://moygoroskop.com/custom/custom16_12_2016_19_13/modules/rating/img/rplus.png" alt="+" width="16" height="16" class="js_rating_votes_item"><img src="http://moygoroskop.com/custom/custom16_12_2016_19_13/modules/rating/img/rplus.png" alt="+" width="16" height="16" class="js_rating_votes_item"><img src="http://moygoroskop.com/custom/custom16_12_2016_19_13/modules/rating/img/rplus.png" alt="+" width="16" height="16" class="js_rating_votes_item"><img src="http://moygoroskop.com/custom/custom16_12_2016_19_13/modules/rating/img/rminus.png" alt="-" width="16" height="16" class="js_rating_votes_item"><img src="http://moygoroskop.com/custom/custom16_12_2016_19_13/modules/rating/img/rminus.png" alt="-" width="16" height="16" class="js_rating_votes_item"></span></div><div class="anons"><a href="http://moygoroskop.com/archiv/astrologiya/nina-kaplaushenko-prikladnaya-astrologiya/mars-v-rybakh" class="black"><p>Марс в Рыбах знает, что надо делать, какими &laquo;малыми делами&raquo; заниматься для того, чтобы получить желаемое, реализовать &laquo;большие замыслы&raquo;. Марс в Рыбах помогает своим подопечным ставить перед собой цели, правильно применять свой опыт. Они всегда знают, что побуждает их к деятельности. Формируют тактические цели согласно внутренней мотивации. Используют навыки, успешно реализуют свой скрытый потенциал. Люди с Марсом в Рыбах обладают необыкновенным интуитивным чутьем.</p></a></div></div></div><div class="block-row block-no-img"><div class="block-text"><h4><a href="http://moygoroskop.com/archiv/astrologiya/nina-kaplaushenko-prikladnaya-astrologiya/mars-v-vodolee" class="black">Марс в Водолее</a></h4><div class="rate"> <span class="js_rating_votes rating_votes" module_name="clauses" element_id="1269" element_type="element"><img src="http://moygoroskop.com/custom/custom16_12_2016_19_13/modules/rating/img/rplus.png" alt="+" width="16" height="16" class="js_rating_votes_item"><img src="http://moygoroskop.com/custom/custom16_12_2016_19_13/modules/rating/img/rplus.png" alt="+" width="16" height="16" class="js_rating_votes_item"><img src="http://moygoroskop.com/custom/custom16_12_2016_19_13/modules/rating/img/rplus.png" alt="+" width="16" height="16" class="js_rating_votes_item"><img src="http://moygoroskop.com/custom/custom16_12_2016_19_13/modules/rating/img/rplus.png" alt="+" width="16" height="16" class="js_rating_votes_item"><img src="http://moygoroskop.com/custom/custom16_12_2016_19_13/modules/rating/img/rplus.png" alt="+" width="16" height="16" class="js_rating_votes_item"></span></div><div class="anons"><a href="http://moygoroskop.com/archiv/astrologiya/nina-kaplaushenko-prikladnaya-astrologiya/mars-v-vodolee" class="black">Люди, родившиеся в период Марса в Водолее, не гонятся за потерянным временем и вчерашним днем. Если Марс в Водолее работает в позитиве, то они управляют своей жизнью. Проживают каждую ситуацию с пользой, действия направляют на получение нужного результата, их поведение эффективно. Марс в Водолее умеет концентрироваться на том, что ему интересно, выбирает нужное из того, что происходит. Он наделяет своих подопечных интуицией и даром предвидения. Они способны ухватить самую суть, не делают поспешных выводов, не проверив все. Однако, даже в позитиве, пунктуальность не для Марса в Водолее. Он всегда оставит за собой свободу маневра.</a></div></div></div></div> 
+                    
+                    
+
+
+<script type="text/javascript">(function() {
+  if (window.pluso)if (typeof window.pluso.start == "function") return;
+  if (window.ifpluso==undefined) { window.ifpluso = 1;
+    var d = document, s = d.createElement('script'), g = 'getElementsByTagName';
+    s.type = 'text/javascript'; s.charset='UTF-8'; s.async = true;
+    s.src = ('https:' == window.location.protocol ? 'https' : 'http')  + '://share.pluso.ru/pluso-like.js';
+    var h=d[g]('body')[0];
+    h.appendChild(s);
+  }})();</script>
+<div class="pluso" data-background="transparent" data-options="medium,square,line,horizontal,counter,theme=04" data-services="vkontakte,odnoklassniki,facebook,twitter,google,linkedin,email,print"></div>
+
+
+    
+
+<div class="banner-box banner-center">
+
+    <noindex><script type="text/javascript"><!--
+            google_ad_client = "ca-pub-8705068397832292";
+            /* Большой прямоугольник (336х280) */
+            google_ad_slot = "9505469825";
+            google_ad_width = 336;
+            google_ad_height = 280;
+            //-->
+        </script>
+        <script type="text/javascript"
+                src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+        </script></noindex>
+</div>
+                    </div> 
+                </div>
+                <div class="right">
+                    <div class="block_item">
+                        
+	
+		<form method="POST" enctype="multipart/form-data" action="" class="ajax js_bs_form bs_form">
+	<input type="hidden" name="module" value="bs">
+	<input type="hidden" name="action" value="click">
+	<input type="hidden" name="banner_id" value="0">
+	</form><div class="bs_block"><div class="bs_item block_item"><a href="http://moygoroskop.com/cat-astrologia/astropsikholog-ukraina" class="js_bs_counter bs_counter" rel="18" ><img src="http://moygoroskop.com/userfiles/bs/astrpsyh_ban_kv_2020_18.jpg" alt="Обучение Астропсихолог Украина" title="Обучение Астропсихолог Украина"></a></div></div>
+			<div class="bs_block"><div class="bs_item block_item"><a href="http://www.фэн-шуй.in.ua" class="js_bs_counter bs_counter" rel="19" target="_blank"><img src="http://moygoroskop.com/userfiles/bs/gtl_19.gif" alt="" title=""></a></div></div>
+		
+	<div class="bs_block"><div class="bs_item block_item"><a href="http://moygoroskop.com/shop/zhurnal-lunnyy-kalendar/ev-podpiska-na-god" class="js_bs_counter bs_counter" rel="14" ><img src="http://moygoroskop.com/userfiles/bs/nlk_20_01_160_14.jpg" alt="Подписка на эл. версию журнала" title="Подписка на эл. версию журнала"></a></div></div>
+	
+			
+		<div class="bs_block"><div class="bs_item block_item"><a href="http://moygoroskop.com/nau-kiev" class="js_bs_counter bs_counter" rel="13" target="_blank"><img src="http://moygoroskop.com/userfiles/bs/kievban-01_13.jpg" alt="" title=""></a></div></div>
+		
+	
+
+	
+
+	
+		
+		
+                    </div>
+    
+
+<div class="banner-box banner-right">
+    <noindex><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-8705068397832292"
+             data-ad-slot="7408912369"
+             data-ad-format="auto"></ins>
+        <script>
+            (adsbygoogle = window.adsbygoogle || []).push({});
+        </script></noindex>
+
+</div>
+                </div> 
+            </div>
+            <div class="left">
+                <div class="block_item">
+                     <div class="bs_block"><div class="bs_item block_item"><h3>Уже в продаже</h3><a href="http://moygoroskop.com/magazinemooncalendar/lunnyy-kalendar-2021/zhurnal-lunnyy-kalendar-na-mart-2021" class="js_bs_counter bs_counter" rel="1" ><img src="http://moygoroskop.com/userfiles/bs/lk_21_03_160_1.jpg" alt="лунный календарь март 2021" title="лунный календарь март 2021"></a></div></div>
+                </div>
+
+                <div class="block-video">
+                    <div class=" block_video_item block_item"><a href="http://moygoroskop.com/testvideo"><img src="http://moygoroskop.com/video/videofiles/poster.jpg"></a></div>
+                </div>
+
+         <div class="youtube-box">
+	<p align="center"><a class="youtube__link" href="https://www.youtube.com/channel/UCK3RVTM515eBA3Fw2hoUp9Q/videos">ОФИЦИАЛЬНЫЙ КАНАЛ НАУ НА YOUTUBE</a></p>
+</div>
+                <div class="block_blogs block_item">
+                    <div class="block_header block-blog">
+<a href="http://moygoroskop.com/blogs" title="Блоги">Блоги</a>
+</div>
+<div class="blog_item"><div class="author_blog clearfix"><a href="http://moygoroskop.com/oleg-evtushenko"><img src="http://moygoroskop.com/userfiles/clauses/bloggers/352_oleg-vladimirovich-evtushenk.jpg"></a><p class="author_name">Олег Владимирович Евтушенко<span>Астролог, ректор НАУ</span></p></div><p class="clause_blog_title">Затмения путь трансформации<br><a href="http://moygoroskop.com/oleg-evtushenko/zatmeniya-put-transformatsii">Читать далее ...</a></p></div> 
+                </div>
+    
+
+<div class="banner-box banner-left">
+    <noindex><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:160px;height:600px"
+             data-ad-client="ca-pub-8705068397832292"
+             data-ad-slot="7451773187"></ins>
+        <script>
+            (adsbygoogle = window.adsbygoogle || []).push({});
+        </script></noindex>
+
+</div>
+            </div>
+            
+
+        </div> 
+
+        <div class="bottom-menu  clearfix">
+            <div class="bottom-menu-block"><h3>Обучение</h3><ul><li><a href="http://moygoroskop.com/NAU/NAU">НАУ</a></li><li><a href="http://moygoroskop.com//education/">Кафедры</a></li><li><a href="http://moygoroskop.com/NAU/filialy">Филиалы</a></li><li><a href="http://moygoroskop.com/NAU/rektorat/sostavMOE">Преподавательский состав</a></li><li><a href="http://moygoroskop.com/NAU/rektorat">Руководящий состав</a></li><li><a href="http://moygoroskop.com/astrologyschool/anketa">Стать студентом</a></li><li><a href="http://moygoroskop.com/onlineeducation/ol_seminary">Открытые лекции</a></li><li><a href="http://moygoroskop.com/NAU/NAU/astrologiya-onlayn">Астрология онлайн обучение</a></li></ul> <h3>Услуги</h3><ul><li><a href="http://moygoroskop.com/seminars/energeticheskie-praktiki">Энергетические практики</a></li><li><a href="http://moygoroskop.com/services/konsultatsii">Консультации</a></li><li><a href="http://moygoroskop.com/oplata">Оплатить услуги</a></li><li><a href="http://moygoroskop.com/services/novyy-god-2017">Новогодние скидки</a></li><li><a href="http://moygoroskop.com/services/hashi-specialisty">Наши специалисты</a></li></ul> </div>
+<div class="bottom-menu-block"><h3>Тренинги и семинары</h3><ul><li><a href="http://moygoroskop.com/seminars/energeticheskie-praktiki">Энергетические практики</a></li><li><a href="http://moygoroskop.com/seminars/astrologiya">Астрология</a></li><li><a href="http://moygoroskop.com/seminars/khirologiya">Хирология</a></li><li><a href="http://moygoroskop.com/seminars/psikhologiya">Психология</a></li><li><a href="http://moygoroskop.com/seminars/numerologiya">Нумерология</a></li><li><a href="http://moygoroskop.com/seminars/fen-shuy">Фэн-шуй</a></li><li><a href="http://moygoroskop.com/seminars/taro">Таро</a></li><li><a href="http://moygoroskop.com/seminars/kalendar-meropriyatiy">Календарь мероприятий</a></li></ul> </div>
+<div class="bottom-menu-block"><h3>Гороскопы</h3><ul><li><a href="http://moygoroskop.com/goroskops/goroskop-na-god">Гороскоп на год</a></li><li><a href="http://moygoroskop.com/goroskops/goroskop-na-mesyats">Гороскоп на месяц</a></li><li><a href="http://moygoroskop.com/goroskops/goroskop-na-den">Гороскоп на день</a></li><li><a href="http://moygoroskop.com/goroskops/goroskop-ukrainy">Гороскоп Украины</a></li><li><a href="http://moygoroskop.com/goroskop/zodiac">Твой знак зодиака</a></li><li><a href="http://moygoroskop.com/goroskop/synastry">Совместимость</a></li><li><a href="http://moygoroskop.com/goroskops/video-versiya">Видео-версия гороскопа на день</a></li><li><a href="http://moygoroskop.com/goroskops/arkhiv-goroskopov">Архив гороскопов</a></li></ul> </div>
+<div class="bottom-menu-block"> </div>
+<div class="bottom-menu-block"><h3>НАУ медиа</h3><ul><li><a href="http://moygoroskop.com/archiv">Статьи</a></li><li><a href="http://moygoroskop.com/magazinemooncalendar">Журнал Лунный календарь</a></li><li><a href="http://moygoroskop.com/nau-media/izdatelstvo">Издательство НАУ</a></li><li><a href="http://moygoroskop.com/nau-media/videovystupleniya">Видеовыступления</a></li><li><a href="http://moygoroskop.com/nau-media/radio">Радио</a></li></ul> <h3>Магазин</h3><ul><li><a href="http://moygoroskop.com/shop/knigi">Книги</a></li><li><a href="http://moygoroskop.com/shop/goroskopy3">Детский гороскоп</a></li><li><a href="http://moygoroskop.com/shop/goroskopy">Гороскопы</a></li></ul> </div>
+<div class="bottom-menu-block"><ul><li><a href="http://moygoroskop.com/subscribtion">Подписка на журнал</a></li><li><a href="http://moygoroskop.com/feedback">Контакты НАУ</a></li><li><a href="http://moygoroskop.com/otdel-reklamy">Отдел рекламы</a></li></ul> </div>
+        </div> 
+
+    </div>
+</div> 
+<footer>
+    <div class="footer">
+       <p class="tcenter">Использование материалов MoyGoroskop разрешается при условии ссылки на moygoroskop.com.</p>
+<p class="tcenter">Для новостных и интернет-изданий обязательной является прямая, открытая для поисковых систем, гиперссылка в первом абзаце на цитируемый материал.</p>
+<p class="tcenter">Телефон редакции: +380 (48) 701-40-94. E-mail: info@moygoroskop.com</p>
+        <div class="subfooter clearfix">
+            <div class="flogo">
+                <p>&copy; 2015 Евтушенко О. В.<br><br></p>
+            </div>
+            
+<div class='fmenu'><a href="http://moygoroskop.com/subscribtion">Подписка на журнал</a><a href="http://moygoroskop.com/feedback">Контакты НАУ</a><a href="http://moygoroskop.com/otdel-reklamy">Отдел рекламы</a></div>
+
+                
+
+<div class="counters">
+    <script language="JavaScript"><!--
+        document.write('<a href="http://www.liveinternet.ru/click" '+
+            'target=_blank><img src="http://counter.yadro.ru/hit?t16.1;r'+
+            escape(document.referrer)+((typeof(screen)=='undefined')?'':
+            ';s'+screen.width+'*'+screen.height+'*'+(screen.colorDepth?
+                screen.colorDepth:screen.pixelDepth))+';u'+escape(document.URL)+
+            ';i'+escape('Жж'+document.title.substring(0,80))+';'+Math.random()+
+            '" title="LiveInternet: показано число просмотров за 24 часа, посетителей за 24 часа и за сегодн\я" '+
+            'border=0 width=88 height=31></a>')//--></script><!--/LiveInternet-->
+
+    <noindex><a href="http://www.bigmir.net/" target=_blank onClick='img = new Image();img.src="http://www.bigmir.net/?cl=114651";' rel="nofollow"><script language="javascript"><!--
+                bmQ='<img src=http://c.bigmir.net/?s114651&t8'
+                bmD=document
+                bmD.cookie="b=b"
+                if(bmD.cookie)bmQ+='&c1'
+                //--></script><script language="javascript1.2"><!--
+                bmS=screen;bmQ+='&d'+(bmS.colorDepth?bmS.colorDepth:bmS.pixelDepth)+"&r"+bmS.width;
+                //--></script><script language="javascript"><!--
+                bmF = bmD.referrer.slice(7);
+                ((bmI=bmF.indexOf('/'))!=-1)?(bmF=bmF.substring(0,bmI)):(bmI=bmF.length);
+                if(bmF!=window.location.href.substring(7,7+bmI))bmQ+='&f'+escape(bmD.referrer);
+                bmD.write(bmQ+" border=0 width=88 height=31 alt='bigmir TOP100'>");
+                //--></script></a></noindex>
+
+
+    <script language="JavaScript" type="text/javascript"><!--
+        d=document;var a='';a+=';r='+escape(d.referrer)
+        js=10//--></script><script language="JavaScript1.1" type="text/javascript"><!--
+        a+=';j='+navigator.javaEnabled()
+        js=11//--></script><script language="JavaScript1.2" type="text/javascript"><!--
+        s=screen;a+=';s='+s.width+'*'+s.height
+        a+=';d='+(s.colorDepth?s.colorDepth:s.pixelDepth)
+        js=12//--></script><script language="JavaScript1.3" type="text/javascript"><!--
+        js=13//--></script><script language="JavaScript" type="text/javascript"><!--
+        d.write('<a href="http://top.mail.ru/jump?from=953118"'+
+            ' target=_top><img src="http://db.c8.be.a0.top.list.ru/counter'+
+            '?id=953118;t=51;js='+js+a+';rand='+Math.random()+
+            '" alt="Рейтинг@Mail.ru"'+' border=0 height=31 width=88/><\/a>')
+        if(11<js)d.write('<'+'!-- ')//--></script><noscript><noindex><a
+                target=_top href="http://top.mail.ru/jump?from=953118" rel="nofollow"><img
+                    src="http://db.c8.be.a0.top.list.ru/counter?js=na;id=953118;t=51"
+                    border=0 height=31 width=88
+                    alt="Рейтинг@Mail.ru"/></a></noindex></noscript><script language="JavaScript" type="text/javascript"><!--
+        if(11<js)d.write('--'+'>')//--></script><!--/COUNTER-->
+
+ <script type="text/javascript"> (function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter35713950 = new Ya.Metrika({ id:35713950, clickmap:true, trackLinks:true, accurateTrackBounce:true }); } catch(e) { } }); var n = d.getElementsByTagName("script")[0], s = d.createElement("script"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = "text/javascript"; s.async = true; s.src = "https://mc.yandex.ru/metrika/watch.js"; if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); } })(document, window, "yandex_metrika_callbacks"); </script> <noscript><div><img src="https://mc.yandex.ru/watch/35713950" style="position:absolute; left:-9999px;" alt="" /></div></noscript> 
+
+
+    
+    <script id="top100Counter" type="text/javascript" src="http://counter.rambler.ru/top100.jcn?2911208"></script>
+    <noscript>
+        <a href="http://top100.rambler.ru/navi/2911208/">
+            <img src="http://counter.rambler.ru/top100.cnt?2911208" alt="Rambler's Top100" border="0" />
+        </a>
+    </noscript>
+    
+
+</div>
+
+        </div>
+
+    </div>
+</footer>
+<!-- BEGIN JIVOSITE CODE {literal} -->
+<script type='text/javascript'>
+(function(){ var widget_id = 'n3rIe6cAI1';
+var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = '//code.jivosite.com/script/widget/'+widget_id; var ss = document.getElementsByTagName('script')[0]; ss.parentNode.insertBefore(s, ss);})();</script>
+<!-- {/literal} END JIVOSITE CODE -->
+
+
+
+
+
+
+<!--[if lt IE 9]><script src="//yandex.st/jquery/1.10.2/jquery.min.js"></script><![endif]-->
+<!--[if gte IE 9]><!-->
+<script type="text/javascript" src="http://moygoroskop.com/js/jquery.min.js" charset="UTF-8"><</script><!--<![endif]-->
+
+<script type="text/javascript" src="http://moygoroskop.com/js/jquery.form.min.js" charset="UTF-8"></script>
+<script type="text/javascript" src="http://moygoroskop.com/js/jquery-ui.min.js" charset="UTF-8"></script>
+<script type="text/javascript" src="http://moygoroskop.com/js/timepicker.js" charset="UTF-8"></script>
+<script type="text/javascript" src="http://moygoroskop.com/js/jquery.scrollTo.min.js" charset="UTF-8"></script>
+<script type="text/javascript" src="http://moygoroskop.com/js/jquery.maskedinput.js" charset="UTF-8"></script>
+<script src="http://moygoroskop.com/cache/js/614fbe9981968113879ef4706ab20dee.js"></script><script type="text/javascript" src="http://moygoroskop.com/cache/js/dd0551ff2b8534484227bd665940b5c6.js" charset="UTF-8"></script>
+	<script asyncsrc="http://moygoroskop.com/cache/js/b4346855d3ec3f2ebe2703652a625be8.js" type="text/javascript" charset="UTF-8"></script>
+		<script type="text/javascript" asyncsrc="http://moygoroskop.com/cache/js/bdd3bfb73bf4e5cda8457874e27343a5.js"></script>
+		<script type="text/javascript" asyncsrc="http://moygoroskop.com/cache/js/c4962678c9a37098d17ce52a91574178.js"></script>
+		<script type="text/javascript" asyncsrc="http://moygoroskop.com/cache/js/b2f0723defef472f34e8ec4516b64f65.js"></script>
+<script src="http://moygoroskop.com/js/jquery.flexslider-min.js"></script>
+<script  src="http://moygoroskop.com/js/main.js" charset="UTF-8"></script>
+<script src="http://moygoroskop.com/js/goroskop.js" charset="UTF-8"></script>
+
+
+
+
+
+</body>
+</html>

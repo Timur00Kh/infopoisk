@@ -1,0 +1,903 @@
+<html>
+<head><index><title>��� ����� �� - ���������� �������� ������</title></index>
+<meta name="charset" content="windows-1251">
+<meta name="keywords" content="�����, �������� ������, ���������� �������� ����, ���������� ���� ��� ����">
+<meta name="description" content="��� ����� ������ �� ���������� �������� ������� - �����, ���� � ����� ����">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+<meta content=no-cache http-equiv=pragma>
+<meta content=no-cache http-equiv=cache-control>
+<meta content=0 http-equiv=expires>
+<base href='https://proshkolu.ru/'><!--[if IE]></base><![endif]-->
+<link rel="stylesheet" type="text/css" href="design/css/style.css">
+<script type="text/javascript" src="/design/swfobject.js"></script>
+
+<!-- <script type="text/javascript">(function(){var j=536,f=false,b=document,c=b.documentElement,e=window;function g(){var a="";a+="rt="+(new Date).getTime()%1E7*100+Math.round(Math.random()*99);a+=b.referrer?"&r="+escape(b.referrer):"";return a}function h(){var a=b.getElementsByTagName("head")[0];if(a)return a;for(a=c.firstChild;a&&a.nodeName.toLowerCase()=="#text";)a=a.nextSibling;if(a&&a.nodeName.toLowerCase()!="#text")return a;a=b.createElement("head");c.appendChild(a);return a}function
+i(){var a=b.createElement("script");a.setAttribute("type","text/javascript");a.setAttribute("src","http://luxup.ru/s/rb"+j+".js?"+g());typeof a!="undefined"&&h().appendChild(a)}function d(){if(!f){f=true;i()}};if(b.addEventListener)b.addEventListener("DOMContentLoaded",d,false);else if(b.attachEvent){c.doScroll&&e==e.top&&function(){try{c.doScroll("left")}catch(a){setTimeout(arguments.callee,0);return}d()}();b.attachEvent("onreadystatechange",function(){b.readyState==="complete"&&d()})}else
+e.onload=d})();</script> -->
+
+<meta name="google-site-verification" content="alJgCDMCASRfyNVaDwtxUG0f-FjjQrE6mOO3mpFyF-k" />
+</head>
+<body cellpadding=0 cellspacing=0  >
+<center>
+<table style='border:1px solid #808080;background: #dad8c7;' cellpadding=0 cellspacing=0 height=100% width=1000>
+ 
+<div style="width:1000px">
+<!-- ������.������ -->
+<!-- Yandex.RTB R-A-139660-5 -->
+<div id="yandex_rtb_R-A-139660-5"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Context.AdvManager.render({
+                blockId: "R-A-139660-5",
+                renderTo: "yandex_rtb_R-A-139660-5",
+                async: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//an.yandex.ru/system/context.js";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(this, this.document, "yandexContextAsyncCallbacks");
+</script>
+</div>
+
+ <a target='_blank' href='click3/1019/1235/' title='https://proshkolu.info/'><img src='content/p3/smi-banner-info-2-120629.jpg' border=0 width='1000' height='90' alt='https://proshkolu.info/'><br></a>
+
+
+ <!- HEADER -!>
+ <tr valign='top' height='60'>
+  <td>
+
+   <table border=0 cellpadding=0 cellspacing=0 height=100% width=100% style='background:#c0e0ff url(/img/ps2/hdr-tiny3.jpg) no-repeat top left;'>
+    <tr valign='top'>
+     <td width='215'><a href='./' class=transparent><img src='https://data2.proshkolu.ru/img/empty.gif' border=0 width=215 height=60><br></a></td>
+     <td><form method='post' action='user/login/'>
+<table border='0'>
+ <tr><td><img src='https://data2.proshkolu.ru/img/empty.gif' border='0' width='1' height='3'><br></td></tr>
+ <tr valign='top'>
+  <td>
+   <span style='color:#8899aa;font-size:14px;font-weight:bold;font-family:tahoma;border-bottom:1px dotted #4488aa;'>
+   <acronym title='���� ��� ������������ ��� e-mail'>�����</acronym></span><br>
+  </td>
+  <td><input class='inpwhite' tabindex=7 name=lgn style='width:100px;'></td>
+  <td rowspan='2' width='45'>
+   <input tabindex=9 name='dologin' type='image' style='border:0px;' src='https://data2.proshkolu.ru/img/ps2/v3/btn-enter.gif' border=0><br>
+  </td>
+  <td><a href='user/reg/'><img src='https://data2.proshkolu.ru/img/ps2/v3/btn-reg.gif' border=0 alt='�����������' title='�����������'><br></a></td>
+ </tr>
+ <tr valign='top'>
+  <td>
+   <span style='color:#7799aa;font-size:14px;font-weight:bold;font-family:tahoma;border-bottom:1px dotted #4488aa;'>
+   <acronym title='��� ������'>������</acronym></span><br>
+  </td>
+  <td><input class='inpwhite' tabindex=8 name=pwd style='width:100px;' type='password'></td>
+  <td><a href='user/remind/'><img src='https://data2.proshkolu.ru/img/ps2/v3/btn-forgot.gif' border=0 alt='������ ������?' title='������ ������?'><br></a></td>
+ </tr>
+</table>
+</form>
+
+</td>
+     <td width='468'><a target='_blank' href='click3/1020/1251/' title='http://proshkolu.info/'><img src='content/p3/httpproshkolu.info-smi-2-110647.jpg' border=0 width='468' height='60' alt='http://proshkolu.info/'><br></a>
+</td>
+    </tr>
+   </table>
+
+  </td>
+ </tr>
+
+ 
+
+<tr height=3><td><img src='https://data2.proshkolu.ru/img/empty.gif' border='0' width='5' height='3'><br></td></tr>
+<tr height=25 valign=top>
+ <td>
+  <table width=100% border=0 cellpadding=0 cellspacing=0>
+   <tr valign=top>
+    <td>
+
+ 
+ <span style='font-size:12px;'>
+&nbsp; <a href='info/about/' style='text-decoration:underline;color:#007700;'>� �������</a>&nbsp;&nbsp;
+<a href='adv/' style='text-decoration:underline;color:#007700;'>�������</a>&nbsp;&nbsp;
+<a href='activeorgs/' style='text-decoration:underline;color:#007700;'>���-100 ����</a>&nbsp;&nbsp;
+<a href='activemembers/' style='text-decoration:underline;color:#007700;'>���-100 ����������</a>&nbsp;&nbsp;
+<a href='discover/rating/' style='text-decoration:underline;color:#007700;'>�������� `��������� ������`</a>&nbsp;&nbsp;
+<br>
+</span>
+
+    </td>
+   </tr>
+  </table>
+ </td>
+</tr>
+
+
+
+ 
+ <tr height=55 valign='top'><td>
+<table border=0 cellpadding=0 cellspacing=0 width=100% height=50>
+<tr valign=middle>
+<td width=3><img src='https://data2.proshkolu.ru/img/empty.gif' border=0><br></td>
+<td width=245><a target='_blank' href='click3/1001/1328/' title='http://totaltest.ru/?promo=proshkolu&utm_source=site&utm_medium=proshkolu&utm_campaign=250x50 (edited)'><img src='content/p3/httptotaltest.ruprom-250x50totaltest-101327.gif' border=0 width='250' height='50' alt='http://totaltest.ru/?promo=proshkolu&utm_source=site&utm_medium=proshkolu&utm_campaign=250x50 (edited)'><br></a>
+</td>
+<td><img src='https://data2.proshkolu.ru/img/empty.gif' border=0><br></td>
+<td width=245><a target='_blank' href='click3/1002/1320/' title='https://ginger-cat.ru?from=proshkolu'><img src='content/p3/httpsginger-cat.rufr-banner-245-50-krasny-150629.png' border=0 width='245' height='50' alt='https://ginger-cat.ru?from=proshkolu'><br></a>
+</td>
+<td><img src='https://data2.proshkolu.ru/img/empty.gif' border=0><br></td>
+<td width=245><a target='_blank' href='click3/1003/1325/' title='https://diso.ru/?promo=proshkolu&utm_source=site&utm_medium=proshkolu&utm_campaign=250x50'><img src='content/p3/httpsdiso.rupromopro-250x50-blue-105858.gif' border=0 width='250' height='50' alt='https://diso.ru/?promo=proshkolu&utm_source=site&utm_medium=proshkolu&utm_campaign=250x50'><br></a>
+</td>
+<td><img src='https://data2.proshkolu.ru/img/empty.gif' border=0><br></td>
+<td width=245><a target='_blank' href='click3/1004/1318/' title='https://mogu-pisat.ru/kurs/uchitel/?SECTION_ID=&ELEMENT_ID=1759325'><img src='content/p3/httpsmogu-pisat.ruku-bilingvy-051302.gif' border=0 width='245' height='50' alt='https://mogu-pisat.ru/kurs/uchitel/?SECTION_ID=&ELEMENT_ID=1759325'><br></a>
+</td>
+<td><img src='https://data2.proshkolu.ru/img/empty.gif' border=0><br></td>
+</tr></table>
+</td></tr>
+
+ 
+ <!- MAIN -!>
+ <tr valign='top'>
+  <td>
+   <table border=0 cellpadding=0 cellspacing=0 height=100% width=100%>
+    <tr valign='top'>
+     <td width='743'>
+     
+  <!- THE BOOK -!>
+      <table cellpadding='0' cellspacing='0' border='0' width='100%' height='100%'>
+
+
+  <!- BOOK: TOP -!>
+       <tr valign='top' height='31'>
+        <td>
+         <table width='100%' height='100%' cellpadding='0' cellspacing='0' border='0'>
+
+          <tr valign='top' height='31'>
+           <td style='background: transparent url(/img/ps2/v2/u-bg.png) repeat-x bottom left;'>
+                        <table width='100%' height='100%' border='0' cellpadding='0' cellspacing='0' style='background: transparent url(/img/ps2/v2/u-l3.png) no-repeat bottom left;'>
+             <tr height='16' valign='middle'>
+              <td width='40'><img src='https://data2.proshkolu.ru/img/empty.gif' border='0'><br></td>
+
+              <td width='10'><img src='https://data2.proshkolu.ru/img/ps2/menu/mp-l.gif' border='0'><br></td>
+              <td width='40' style='background:transparent url(/img/ps2/menu/mp-c.gif) repeat-x;'><a href='./' class='tmenu' title='������� ��������'><nobr>�������</nobr></a></td>
+              <td width='10'><img src='https://data2.proshkolu.ru/img/ps2/menu/mp-r.gif' border='0'><br></td>
+              <td width='1'><img src='https://data2.proshkolu.ru/img/empty.gif' border='0' width='1' height='5'></td>
+
+              <td width='10'><img src='https://data2.proshkolu.ru/img/ps2/menu/mp-l.gif' border='0'><br></td>
+              <td width='40' style='background:transparent url(/img/ps2/menu/mp-c.gif) repeat-x;'><a href='schools/' class='tmenu' title='������� ���� ���� ������'><nobr>��� �����</nobr></a></td>
+              <td width='10'><img src='https://data2.proshkolu.ru/img/ps2/menu/mp-r.gif' border='0'><br></td>
+              <td width='1'><img src='https://data2.proshkolu.ru/img/empty.gif' border='0' width='1' height='5'></td>
+
+              <td width='10'><img src='https://data2.proshkolu.ru/img/ps2/menu/mp-l.gif' border='0'><br></td>
+              <td width='35' style='background:transparent url(/img/ps2/menu/mp-c.gif) repeat-x;'><a href='map/' class='tmenu' title='����� ����'><nobr>�� �����</nobr></a></td>
+              <td width='10'><img src='https://data2.proshkolu.ru/img/ps2/menu/mp-r.gif' border='0'><br></td>
+              <td width='1'><img src='https://data2.proshkolu.ru/img/empty.gif' border='0' width='1' height='5'></td>
+
+              <td width='10'><img src='https://data2.proshkolu.ru/img/ps2/menu/mp-l.gif' border='0'><br></td>
+              <td width='30' style='background:transparent url(/img/ps2/menu/mp-c.gif) repeat-x;'><a href='club/' class='tmenu' title='����������� �� ���������'><nobr>�����</nobr></a></td>
+              <td width='10'><img src='https://data2.proshkolu.ru/img/ps2/menu/mp-r.gif' border='0'><br></td>
+              <td width='1'><img src='https://data2.proshkolu.ru/img/empty.gif' border='0' width='1' height='5'></td>
+
+              <td width='10'><img src='https://data2.proshkolu.ru/img/ps2/menu/mp-l.gif' border='0'><br></td>
+              <td width='30' style='background:transparent url(/img/ps2/menu/mp-c.gif) repeat-x;'><a href='contest/' class='tmenu' title='�������� �� �������� � ������������� ��������'><nobr>��������</nobr></a></td>
+              <td width='10'><img src='https://data2.proshkolu.ru/img/ps2/menu/mp-r.gif' border='0'><br></td>
+              <td width='1'><img src='https://data2.proshkolu.ru/img/empty.gif' border='0' width='1' height='5'></td>
+
+              <td width='10'><img src='https://data2.proshkolu.ru/img/ps2/menu/mp-l.gif' border='0'><br></td>
+              <td width='40' style='background:transparent url(/img/ps2/menu/mp-c.gif) repeat-x;'><a href='lib/' class='tmenu' title='������� ��������� � �������������� ����������'><nobr>����������</nobr></a></td>
+              <td width='10'><img src='https://data2.proshkolu.ru/img/ps2/menu/mp-r.gif' border='0'><br></td>
+              <td width='1'><img src='https://data2.proshkolu.ru/img/empty.gif' border='0' width='1' height='5'></td>
+
+              <td width='10'><img src='https://data2.proshkolu.ru/img/ps2/menu/mp-l.gif' border='0'><br></td>
+              <td width='40' style='background:transparent url(/img/ps2/menu/mp-c.gif) repeat-x;'><a href='discover/' class='tmenu' title='��������� � ������'><nobr>�������� ������</nobr></a></td>
+              <td width='10'><img src='https://data2.proshkolu.ru/img/ps2/menu/mp-r.gif' border='0'><br></td>
+              <td width='1'><img src='https://data2.proshkolu.ru/img/empty.gif' border='0' width='1' height='5'></td>
+
+              <td width='10'><img src='https://data2.proshkolu.ru/img/ps2/menu/mp-l.gif' border='0'><br></td>
+              <td width='40' style='background:transparent url(/img/ps2/menu/mp-c.gif) repeat-x;'><a href='info/help/' class='tmenu' title='������ �� ���� �������'><nobr>������</nobr></a></td>
+              <td width='10'><img src='https://data2.proshkolu.ru/img/ps2/menu/mp-r.gif' border='0'><br></td>
+              <td width='1'><img src='https://data2.proshkolu.ru/img/empty.gif' border='0' width='1' height='5'></td>
+
+              <td><img src='https://data2.proshkolu.ru/img/empty.gif' border='0'><br></td>
+             </tr>
+             <tr><td><img src='https://data2.proshkolu.ru/img/empty.gif' border='0' width='1' height='1'><br></td></tr>
+            </table>
+
+
+           </td>
+           <td width='65' style='background: transparent url(/img/ps2/v2/u-r.png) repeat-x bottom left;'>
+            <img src='https://data2.proshkolu.ru/img/empty.gif' border='0' width='65' height='1'><br>
+           </td>
+          </tr>
+         </table>
+        </td>
+       </tr>
+
+
+  <!- BOOK: MAIN -!>
+       <tr valign='top'>
+        <td>
+         <table width='100%' height='100%' border='0' cellpadding='0' cellspacing='0'>
+          <tr valign='top'>
+           <td width='35' background='https://data2.proshkolu.ru/img/ps2/v2/m-l-bg.png'><img src='https://data2.proshkolu.ru/img/ps2/v2/ml-u-l.png' width='35' height='32' border='0'><br></td>
+           <td width='5' style='background: #fffefe;'><img src='https://data2.proshkolu.ru/img/empty.gif' border='0' width='5'><br></td>
+           <td style='background: #fffefe ;'>
+
+
+<!- MAINPAGE ->		   
+
+
+				<h3>���������� �������� ������</h3>
+				<table border=0><tr valign='middle'><td>
+				<h1>��������.�� - ��� ����� ������</h1>
+				</td><td width=10>&nbsp;<br></td><td>
+
+				<table border=0><tr><td>
+				<form method=post action='goregion'><select name='theregion' style='width:200px;'><option value='' selected>�������� ������</option>
+				{regionoptions}
+				</select> </td><td> <input type='image' src='https://data2.proshkolu.ru/img/btn-search.png' style='border:0px;'></form> </td></tr></table>
+
+				</td></tr></table>
+
+
+
+				<table border=0><tr valign='top'><td>
+
+					��������.�� - ���������� �������� ������.
+					�������� <a class=adot href='club/'>���������� ����� ��������</a>,
+					���������� <a class=adot href='schools/&from=mpintro'>�� ���� �����</a> �� �������,
+					<a class=adot href='whatsnewcmt/&from=mpintro'>�����������</a> � �������� ����, <a class=adot href='peopleonline/&from=mpintro'>�������� � ��������</a>,
+					��������� ���� ������ � <a class=adot href='discover/'>��������� ������</a>,
+					���������� <a class=adot href='whatsnew/video/&from=mpintro'>�����</a>, <a class=adot href='whatsnew/doc/&from=mpintro'>��������� � �����������</a>,
+					����������� <a class=adot href='user/Kirillov/folder/1289/&from=mpintro'>�������������</a> <a class=adot href='org/101-116/folder/1443/&from=mpintro'>����������</a>,
+					���������� �� <a class=adot href='map/'>����� ����-��������</a>,
+					�������� <a class=adot href='org/700/folder/1105/&from=mpintro'>����</a>-<a class=adot href='org/53/folder/1134/&from=mpintro'>�����</a> �������, <a class=adot href='whatsnewblogs/&from=mpintro'>�����</a> � ���� ����,
+					���������� ������ �������� <a class=adot href='activemembers/'>����������</a> � <a class=adot href='activeorgs/'>����</a>,
+					�������� ���� ��������� <a class=adot href='contest/catalogu/'>�� �������</a> ��� <a class=adot href='club/catalogu/'>� ����</a>...
+					�� ��� - <a class=adot href='info/help/&from=mpintro2'>���������</a>!<br>
+
+				   <img src='https://data2.proshkolu.ru/img/empty.gif' border=0 height='10'><br>
+
+				</td></tr></table>
+
+
+				<table width='100%' border=0><tr valign='top'>
+				<td><a target='_blank' href='click3/1024/1331/' title='https://proshkolu.ru/discover/'><img src='content/p3/httpsproshkolu.rudis-snimok-090605.jpg' border=0 width='303' height='300' alt='https://proshkolu.ru/discover/'><br></a>
+</td>
+				<td align='center'><a target='_blank' href='click3/1009/1330/' title='https://proshkolu.ru/discover/'><img src='content/p3/httpsproshkolu.rudis-snimok-090409.jpg' border=0 width='300' height='301' alt='https://proshkolu.ru/discover/'><br></a>
+</td>
+				<td align='right'><a target='_blank' href='click3/1025/1323/' title='�������� ������'><img src='content/p3/istochnik_znaniy-2015-12-15-yjgqessgv-193734.jpg' border=0 width='300' height='300' alt='�������� ������'><br></a>
+</td>
+				</tr></table>
+
+				
+
+				<table border=0 cellpadding=0 cellspacing=0>
+					<tr valign=top>
+						<td>
+
+							<table border=0>
+							<tr><td><a target='_blank' href='click3/1010/1329/' title='http://pedjournal.ru/?promo=proshkolu&utm_source=site&utm_medium=proshkolu&utm_campaign=220x50 (edited)'><img src='content/p3/httppedjournal.rupro-220h100-pedjurnal-101417.gif' border=0 width='220' height='100' alt='http://pedjournal.ru/?promo=proshkolu&utm_source=site&utm_medium=proshkolu&utm_campaign=220x50 (edited)'><br></a>
+</td><td><a target='_blank' href='click3/1011/1056/' title='https://roscomsport.com/'><img src='content/p3/otkrytoe_pervenstvo_-sport-111812.jpg' border=0 width='220' height='100' alt='https://roscomsport.com/'><br></a>
+</td><td><a target='_blank' href='click3/1012/1326/' title='https://diso.ru/?promo=proshkolu&utm_source=site&utm_medium=proshkolu&utm_campaign=220x100'><img src='content/p3/httpsdiso.rupromopro-220x100-105953.png' border=0 width='220' height='100' alt='https://diso.ru/?promo=proshkolu&utm_source=site&utm_medium=proshkolu&utm_campaign=220x100'><br></a>
+</td></tr>
+							</table>
+
+							      <h2></h2>
+      
+
+
+
+
+
+<!- moved to spec mainpage -><table border='0'><tr valign='top'><td width='50%'><table border=0 cellpadding=0 cellspacing=0 width='100%'>
+ <tr valign='middle'>
+  <td width='7'><img src='https://data2.proshkolu.ru/img/ps2/menu/sm-l-a.gif' border='0'><br></td>
+  <td width='110' align='center' background='https://data2.proshkolu.ru/img/ps2/menu/sm-c-a.gif'><a class='tmenu' href='activeorgs/&from=mpleader'><nobr>����� �������� � ���������� �����</nobr></a></td>
+  <td width='7'><img src='https://data2.proshkolu.ru/img/ps2/menu/sm-r-a.gif' border='0'><br></td>
+  <td style='border-bottom:1px solid #eceae5;'><img src='https://data2.proshkolu.ru/img/empty.gif' border='0' width=1 height=1><br></td>
+ </tr>
+</table>
+<table bgcolor='#ffffff' style='border:1px solid #dcdad5;border-top:0px;' width='100%' cellpadding='3' cellspacing='0'>
+ <tr valign='top'>
+  <td>
+   <a href='org/2-sterlitamak/&from=mpleader' title='������������� ���������� ������������������� ���������� ������� ������������������� ����� �2 ���������� ������ ����� ����������� ���������� ������������  , �����������, ���������� ������������'><img width='50' height='50' src='content/media/pic/icon/6000000/5821000/5820374-42942d6e.gif' style='border:1px solid #90a090;' alt='������������� ���������� ������������������� ���������� ������� ������������������� ����� �2 ���������� ������ ����� ����������� ���������� ������������  , �����������, ���������� ������������'></a><img src='https://data2.proshkolu.ru/img/empty.gif' border='0'><a href='org/116-138/&from=mpleader' title='����� � 617 ����� ����, �����-���������'><img width='50' height='50' src='https://img3.proshkolu.ru/content/media/pic/icon/3000000/2197000/2196551-0293ecc8.jpg' style='border:1px solid #90a090;' alt='����� � 617 ����� ����, �����-���������'></a><img src='https://data2.proshkolu.ru/img/empty.gif' border='0'><a href='org/113-979/&from=mpleader' title='������������ ��������, ���������, ���������� ����� ��'><img width='50' height='50' src='https://img3.proshkolu.ru/content/media/pic/icon/1000000/910000/909031-f5e83c15.jpg' style='border:1px solid #90a090;' alt='������������ ��������, ���������, ���������� ����� ��'></a><img src='https://data2.proshkolu.ru/img/empty.gif' border='0'><a href='org/102-738/&from=mpleader' title='����� �42 ���������� ���������� ������, �������, ����������� �������'><img width='50' height='50' src='https://img3.proshkolu.ru/content/media/pic/icon/3000000/2865000/2864566-e3b70466.jpg' style='border:1px solid #90a090;' alt='����� �42 ���������� ���������� ������, �������, ����������� �������'></a><img src='https://data2.proshkolu.ru/img/empty.gif' border='0'><a href='org/115-818/&from=mpleader' title='������� ������������������� ����� 337, �����-���������'><img width='50' height='50' src='https://img3.proshkolu.ru/content/media/pic/icon/1000000/531000/530754-8048d1a1.jpg' style='border:1px solid #90a090;' alt='������� ������������������� ����� 337, �����-���������'></a><img src='https://data2.proshkolu.ru/img/empty.gif' border='0'><a href='org/108-714/&from=mpleader' title='���� �������� � 19, ������-��-����, ���������� �������'><img width='50' height='50' src='https://img3.proshkolu.ru/content/media/pic/icon/1000000/475000/474545-ab18f234.jpg' style='border:1px solid #90a090;' alt='���� �������� � 19, ������-��-����, ���������� �������'></a><img src='https://data2.proshkolu.ru/img/empty.gif' border='0'><br><img src='https://data2.proshkolu.ru/img/empty.gif' border=0><br><a href='org/111-793/&from=mpleader' title='������������� ��������� ��������������� ���������� `������ ������� ������������������� ����� �2`, ��, ����������� �������'><img width='50' height='50' src='https://img3.proshkolu.ru/content/media/pic/icon/1000000/545000/544594-04ca21d5.jpg' style='border:1px solid #90a090;' alt='������������� ��������� ��������������� ���������� `������ ������� ������������������� ����� �2`, ��, ����������� �������'></a><img src='https://data2.proshkolu.ru/img/empty.gif' border='0'><a href='org/115-807/&from=mpleader' title='����� 329 www.school329.spb.ru, �����-���������'><img width='50' height='50' src='https://img3.proshkolu.ru/content/media/pic/icon/3000000/2076000/2075846-3b5d393e.jpg' style='border:1px solid #90a090;' alt='����� 329 www.school329.spb.ru, �����-���������'></a><img src='https://data2.proshkolu.ru/img/empty.gif' border='0'><a href='org/gdou-84/&from=mpleader' title='����� �84, �����-���������'><img width='50' height='50' src='https://img3.proshkolu.ru/content/media/pic/icon/3000000/2248000/2247253-d79646c0.jpg' style='border:1px solid #90a090;' alt='����� �84, �����-���������'></a><img src='https://data2.proshkolu.ru/img/empty.gif' border='0'><a href='org/125-265/&from=mpleader' title='����������� ���, ��������, �����-���������� ���������� �����'><img width='50' height='50' src='https://img3.proshkolu.ru/content/media/pic/icon/2000000/1476000/1475333-71659eda.jpg' style='border:1px solid #90a090;' alt='����������� ���, ��������, �����-���������� ���������� �����'></a><img src='https://data2.proshkolu.ru/img/empty.gif' border='0'><a href='org/gdou-130/&from=mpleader' title='����� �130, �����-���������'><img width='50' height='50' src='https://img3.proshkolu.ru/content/media/pic/icon/2000000/1076000/1075552-27a24e23.jpg' style='border:1px solid #90a090;' alt='����� �130, �����-���������'></a><img src='https://data2.proshkolu.ru/img/empty.gif' border='0'><a href='org/133-239/&from=mpleader' title='���� ����� � 268 �������� ������ �����-����������, �����-���������'><img width='50' height='50' src='content/media/pic/icon/6000000/5351000/5350277-dc2b3bd4.jpg' style='border:1px solid #90a090;' alt='���� ����� � 268 �������� ������ �����-����������, �����-���������'></a><img src='https://data2.proshkolu.ru/img/empty.gif' border='0'><br><img src='https://data2.proshkolu.ru/img/empty.gif' border=0><br><a href='org/kruglyzhskaya/&from=mpleader' title='������������� ������������������� ���������� �������� ������������������� ����� ����� �. �. ������ �. �������� ����������� ������ ��������� �������, ��������, ��������� �������'><img width='50' height='50' src='https://img3.proshkolu.ru/content/media/pic/icon/1000000/265000/264632-28e199b3.jpg' style='border:1px solid #90a090;' alt='������������� ������������������� ���������� �������� ������������������� ����� ����� �. �. ������ �. �������� ����������� ������ ��������� �������, ��������, ��������� �������'></a><img src='https://data2.proshkolu.ru/img/empty.gif' border='0'><a href='org/gdou-101/&from=mpleader' title='����� ������� ��� �101, �����-���������'><img width='50' height='50' src='https://img3.proshkolu.ru/content/media/pic/icon/2000000/1692000/1691432-5070a9db.jpg' style='border:1px solid #90a090;' alt='����� ������� ��� �101, �����-���������'></a><img src='https://data2.proshkolu.ru/img/empty.gif' border='0'><a href='org/gdou-37/&from=mpleader' title='����� �37, �����-���������'><img width='50' height='50' src='https://img3.proshkolu.ru/content/media/pic/icon/1000000/334000/333671-74234105.jpg' style='border:1px solid #90a090;' alt='����� �37, �����-���������'></a><img src='https://data2.proshkolu.ru/img/empty.gif' border='0'><a href='org/133-203/&from=mpleader' title='������� ����� � 23 � ���������� ��������� �������� �����, �����-���������'><img width='50' height='50' src='https://img3.proshkolu.ru/content/media/pic/icon/1000000/953000/952549-40c3e2ca.jpg' style='border:1px solid #90a090;' alt='������� ����� � 23 � ���������� ��������� �������� �����, �����-���������'></a><img src='https://data2.proshkolu.ru/img/empty.gif' border='0'><a href='org/122-122/&from=mpleader' title='���� `������� ������������������� ����� �47`  �.����, ����, ������������� ����'><img width='50' height='50' src='https://img3.proshkolu.ru/content/media/pic/icon/2000000/1006000/1005360-2713333c.jpg' style='border:1px solid #90a090;' alt='���� `������� ������������������� ����� �47`  �.����, ����, ������������� ����'></a><img src='https://data2.proshkolu.ru/img/empty.gif' border='0'><a href='org/133-311/&from=mpleader' title='���� ��� � 346, ��������, �����-���������'><img width='50' height='50' src='https://img3.proshkolu.ru/content/media/pic/icon/2000000/1055000/1054114-2519d029.jpg' style='border:1px solid #90a090;' alt='���� ��� � 346, ��������, �����-���������'></a><img src='https://data2.proshkolu.ru/img/empty.gif' border='0'>
+  </td>
+  </tr>
+</table>
+
+</td><td><table border=0 cellpadding=0 cellspacing=0 width='100%'>
+ <tr valign='middle'>
+  <td width='7'><img src='https://data2.proshkolu.ru/img/ps2/menu/sm-l-a.gif' border='0'><br></td>
+  <td width='110' align='center' background='https://data2.proshkolu.ru/img/ps2/menu/sm-c-a.gif'><a class='tmenu' href='activemembers/&from=mpleader'><nobr>����� �������� � ���������� ���������</nobr></a></td>
+  <td width='7'><img src='https://data2.proshkolu.ru/img/ps2/menu/sm-r-a.gif' border='0'><br></td>
+  <td style='border-bottom:1px solid #eceae5;'><img src='https://data2.proshkolu.ru/img/empty.gif' border='0' width=1 height=1><br></td>
+ </tr>
+</table>
+<table bgcolor='#ffffff' style='border:1px solid #dcdad5;border-top:0px;' width='100%' cellpadding='3' cellspacing='0'>
+ <tr valign='top'>
+  <td>
+   <a href='user/zaharovaliv55/&from=mpleader' title='�������� ������� ��������'><img width='50' height='50' src='content/media/pic/icon/7000000/6309000/6308998-9e79b6e7.jpg' style='border:1px solid #90a090;' alt='�������� ������� ��������'></a><img src='https://data2.proshkolu.ru/img/empty.gif' border='0'><a href='user/vasilisamel/&from=mpleader' title='����������    �������� ����������'><img width='50' height='50' src='content/media/pic/icon/7000000/6423000/6422165-c13741e9.jpg' style='border:1px solid #90a090;' alt='����������    �������� ����������'></a><img src='https://data2.proshkolu.ru/img/empty.gif' border='0'><a href='user/Gor154/&from=mpleader' title='��������� ������ �������'><img width='50' height='50' src='content/media/pic/icon/5000000/4887000/4886302-f6c48d4c.jpg' style='border:1px solid #90a090;' alt='��������� ������ �������'></a><img src='https://data2.proshkolu.ru/img/empty.gif' border='0'><a href='user/NIKA1907/&from=mpleader' title='���������� ������� ����������'><img width='50' height='50' src='content/media/pic/icon/7000000/6424000/6423516-a6d61db9.jpg' style='border:1px solid #90a090;' alt='���������� ������� ����������'></a><img src='https://data2.proshkolu.ru/img/empty.gif' border='0'><a href='user/Nadegda797/&from=mpleader' title='���������� ������� ����������'><img width='50' height='50' src='https://img3.proshkolu.ru/content/media/pic/icon/1000000/450000/449472-f7730433.jpg' style='border:1px solid #90a090;' alt='���������� ������� ����������'></a><img src='https://data2.proshkolu.ru/img/empty.gif' border='0'><a href='user/Olgas28/&from=mpleader' title='�������� ����� ����������'><img width='50' height='50' src='content/media/pic/icon/7000000/6299000/6298116-194f07e1.jpg' style='border:1px solid #90a090;' alt='�������� ����� ����������'></a><img src='https://data2.proshkolu.ru/img/empty.gif' border='0'><br><img src='https://data2.proshkolu.ru/img/empty.gif' border=0><br><a href='user/konstantinovaON23/&from=mpleader' title='������������� ����� ����������'><img width='50' height='50' src='content/media/pic/icon/7000000/6391000/6390350-bebce2b5.jpg' style='border:1px solid #90a090;' alt='������������� ����� ����������'></a><img src='https://data2.proshkolu.ru/img/empty.gif' border='0'><a href='user/lpsinkova60/&from=mpleader' title='�������� ������ ��������'><img width='50' height='50' src='content/media/pic/icon/6000000/5496000/5495843-263093f1.jpg' style='border:1px solid #90a090;' alt='�������� ������ ��������'></a><img src='https://data2.proshkolu.ru/img/empty.gif' border='0'><a href='user/Iluza23/&from=mpleader' title='��������� ����� ����������'><img width='50' height='50' src='content/media/pic/icon/5000000/4844000/4843876-896a8700.gif' style='border:1px solid #90a090;' alt='��������� ����� ����������'></a><img src='https://data2.proshkolu.ru/img/empty.gif' border='0'><a href='user/alanx/&from=mpleader' title='������� ��������� �����������'><img width='50' height='50' src='content/media/pic/icon/7000000/6294000/6293501-2d0d866b.jpg' style='border:1px solid #90a090;' alt='������� ��������� �����������'></a><img src='https://data2.proshkolu.ru/img/empty.gif' border='0'><a href='user/aakavreva/&from=mpleader' title='������� �������� ����������'><img width='50' height='50' src='content/media/pic/icon/7000000/6110000/6109226-98bcd3af.jpg' style='border:1px solid #90a090;' alt='������� �������� ����������'></a><img src='https://data2.proshkolu.ru/img/empty.gif' border='0'><a href='user/ryabizova/&from=mpleader' title='�������� ��������� ���������'><img width='50' height='50' src='content/media/pic/icon/7000000/6421000/6420272-a5e515fc.jpg' style='border:1px solid #90a090;' alt='�������� ��������� ���������'></a><img src='https://data2.proshkolu.ru/img/empty.gif' border='0'><br><img src='https://data2.proshkolu.ru/img/empty.gif' border=0><br><a href='user/goncharovaelena/&from=mpleader' title='�������V� ����� ��������������'><img width='50' height='50' src='content/media/pic/icon/6000000/5314000/5313145-719676ab.jpg' style='border:1px solid #90a090;' alt='�������V� ����� ��������������'></a><img src='https://data2.proshkolu.ru/img/empty.gif' border='0'><a href='user/sol27slo/&from=mpleader' title='�������� ������� ������������'><img width='50' height='50' src='content/media/pic/icon/6000000/5643000/5642289-c892d995.jpg' style='border:1px solid #90a090;' alt='�������� ������� ������������'></a><img src='https://data2.proshkolu.ru/img/empty.gif' border='0'><a href='user/Dikaya77/&from=mpleader' title='����� ������� �������������'><img width='50' height='50' src='content/media/pic/icon/5000000/4156000/4155075-a2a2b432.jpg' style='border:1px solid #90a090;' alt='����� ������� �������������'></a><img src='https://data2.proshkolu.ru/img/empty.gif' border='0'><a href='user/putilina67/&from=mpleader' title='�������� ������� ��������'><img width='50' height='50' src='content/media/pic/icon/7000000/6379000/6378217-ff4002b2.jpg' style='border:1px solid #90a090;' alt='�������� ������� ��������'></a><img src='https://data2.proshkolu.ru/img/empty.gif' border='0'><a href='user/galstonok/&from=mpleader' title='������������ ������ ����������'><img width='50' height='50' src='https://img3.proshkolu.ru/content/media/pic/icon/1000000/443000/442468-4db63da0.jpg' style='border:1px solid #90a090;' alt='������������ ������ ����������'></a><img src='https://data2.proshkolu.ru/img/empty.gif' border='0'><a href='user/nadezhda1957/&from=mpleader' title='�������� ������� ���������'><img width='50' height='50' src='content/media/pic/icon/7000000/6115000/6114437-a54ad641.jpg' style='border:1px solid #90a090;' alt='�������� ������� ���������'></a><img src='https://data2.proshkolu.ru/img/empty.gif' border='0'>
+  </td>
+  </tr>
+</table>
+
+</td></tr></table><img src='https://data2.proshkolu.ru/img/empty.gif' border='0' height='10'><br><table border='0'><tr valign='top'><td width='50%'><table border=0 cellpadding=0 cellspacing=0 width='100%'>
+ <tr valign='middle'>
+  <td width='7'><img src='https://data2.proshkolu.ru/img/ps2/menu/sm-l-a.gif' border='0'><br></td>
+  <td width='110' align='center' background='https://data2.proshkolu.ru/img/ps2/menu/sm-c-a.gif'><a class='tmenu' href='activeorgs/&from=mpyesterday'><nobr>�����, ���������� �� ������ ��� (2017-06-14)</nobr></a></td>
+  <td width='7'><img src='https://data2.proshkolu.ru/img/ps2/menu/sm-r-a.gif' border='0'><br></td>
+  <td style='border-bottom:1px solid #eceae5;'><img src='https://data2.proshkolu.ru/img/empty.gif' border='0' width=1 height=1><br></td>
+ </tr>
+</table>
+<table bgcolor='#ffffff' style='border:1px solid #dcdad5;border-top:0px;' width='100%' cellpadding='3' cellspacing='0'>
+ <tr valign='top'>
+  <td>
+   <a href='org/116-146/&from=mpyesterday' title='������� ������������������� ����� � 625 � ����������� ��������� ���������� ����� ����� ������ �.�.�������, �����-���������'><img width='50' height='50' src='https://img3.proshkolu.ru/content/media/pic/icon/1000000/122000/121067-b2a82b59.jpg' style='border:1px solid #90a090;' alt='������� ������������������� ����� � 625 � ����������� ��������� ���������� ����� ����� ������ �.�.�������, �����-���������'></a><img src='https://data2.proshkolu.ru/img/empty.gif' border='0'><a href='org/116-083/&from=mpyesterday' title='������� ������������������� ����� 570, �����-���������'><img width='50' height='50' src='https://img3.proshkolu.ru/content/media/pic/icon/1000000/138000/137150-da896f90.gif' style='border:1px solid #90a090;' alt='������� ������������������� ����� 570, �����-���������'></a><img src='https://data2.proshkolu.ru/img/empty.gif' border='0'><a href='org/700/&from=mpyesterday' title='����� � 700  �.������, ������, ����� ���������������, ������'><img width='50' height='50' src='https://img3.proshkolu.ru/content/media/pic/icon/2000000/1344000/1343420-075ae7e1.jpg' style='border:1px solid #90a090;' alt='����� � 700  �.������, ������, ����� ���������������, ������'></a><img src='https://data2.proshkolu.ru/img/empty.gif' border='0'><a href='org/133-117/&from=mpyesterday' title='������� ����� � 13 � ���������� ��������� ����������� �����, �����-���������'><img width='50' height='50' src='https://img3.proshkolu.ru/content/media/pic/icon/1000000/134000/133015-878a74c9.jpg' style='border:1px solid #90a090;' alt='������� ����� � 13 � ���������� ��������� ����������� �����, �����-���������'></a><img src='https://data2.proshkolu.ru/img/empty.gif' border='0'><a href='org/gdou-111/&from=mpyesterday' title='����� �111, �����-���������'><img width='50' height='50' src='https://img3.proshkolu.ru/content/media/pic/icon/1000000/141000/140138-a159d477.jpg' style='border:1px solid #90a090;' alt='����� �111, �����-���������'></a><img src='https://data2.proshkolu.ru/img/empty.gif' border='0'><a href='org/grodno9-a/&from=mpyesterday' title='��������������� ���������� ����������� `�������� �9 ����� �.�.��������� �.������`, ������, ����������� �������'><img width='50' height='50' src='https://img3.proshkolu.ru/content/media/pic/icon/3000000/2842000/2841795-44912172.jpg' style='border:1px solid #90a090;' alt='��������������� ���������� ����������� `�������� �9 ����� �.�.��������� �.������`, ������, ����������� �������'></a><img src='https://data2.proshkolu.ru/img/empty.gif' border='0'><br><img src='https://data2.proshkolu.ru/img/empty.gif' border=0><br><a href='org/116-081/&from=mpyesterday' title='��������������� ��������� ��������������� ���������� ����� � 569 ��������  ������ �����-����������, �����-���������'><img width='50' height='50' src='https://img3.proshkolu.ru/content/media/pic/icon/3000000/2771000/2770132-8e61211b.jpg' style='border:1px solid #90a090;' alt='��������������� ��������� ��������������� ���������� ����� � 569 ��������  ������ �����-����������, �����-���������'></a><img src='https://data2.proshkolu.ru/img/empty.gif' border='0'><a href='org/cheboksary-43/&from=mpyesterday' title='������������� ��������� ��������������� ���������� `��� �43`, ���������, ��������� ����������'><img width='50' height='50' src='https://img3.proshkolu.ru/content/media/pic/icon/3000000/2396000/2395109-812ace8d.jpg' style='border:1px solid #90a090;' alt='������������� ��������� ��������������� ���������� `��� �43`, ���������, ��������� ����������'></a><img src='https://data2.proshkolu.ru/img/empty.gif' border='0'><a href='org/rechushinskaya/&from=mpyesterday' title='������������� ��������������� ���������� ����������� ������� ������������������� �����, �������, ��������� �������'><img width='50' height='50' src='content/media/pic/icon/6000000/5011000/5010201-3a6d65ad.jpg' style='border:1px solid #90a090;' alt='������������� ��������������� ���������� ����������� ������� ������������������� �����, �������, ��������� �������'></a><img src='https://data2.proshkolu.ru/img/empty.gif' border='0'><a href='org/gdou-135/&from=mpyesterday' title='����� �135, �����-���������'><img width='50' height='50' src='https://img3.proshkolu.ru/content/media/pic/icon/2000000/1060000/1059135-42d7c01d.jpg' style='border:1px solid #90a090;' alt='����� �135, �����-���������'></a><img src='https://data2.proshkolu.ru/img/empty.gif' border='0'><a href='org/gdou-1/&from=mpyesterday' title='����� �1, �����-���������'><img width='50' height='50' src='https://img3.proshkolu.ru/content/media/pic/icon/1000000/126000/125171-92885298.jpg' style='border:1px solid #90a090;' alt='����� �1, �����-���������'></a><img src='https://data2.proshkolu.ru/img/empty.gif' border='0'><a href='org/karatuzskoe/&from=mpyesterday' title='���� `����������� ���` ����� ����� ���������� C���� �.�.���������, �����������, ������������ ����'><img width='50' height='50' src='content/media/pic/icon/7000000/6103000/6102502-d0862331.jpg' style='border:1px solid #90a090;' alt='���� `����������� ���` ����� ����� ���������� C���� �.�.���������, �����������, ������������ ����'></a><img src='https://data2.proshkolu.ru/img/empty.gif' border='0'><br><img src='https://data2.proshkolu.ru/img/empty.gif' border=0><br><a href='org/gdou-119/&from=mpyesterday' title='����� �119, �����-���������'><img width='50' height='50' src='https://img3.proshkolu.ru/content/media/pic/icon/1000000/127000/126459-92825eba.gif' style='border:1px solid #90a090;' alt='����� �119, �����-���������'></a><img src='https://data2.proshkolu.ru/img/empty.gif' border='0'><a href='org/chufarovskaya/&from=mpyesterday' title='������������� ������������������� ���������� ����������� ������� ������������������� �����, ��������, ����������� �������'><img width='50' height='50' src='content/media/pic/icon/7000000/6400000/6399804-37ed9e07.jpg' style='border:1px solid #90a090;' alt='������������� ������������������� ���������� ����������� ������� ������������������� �����, ��������, ����������� �������'></a><img src='https://data2.proshkolu.ru/img/empty.gif' border='0'><a href='org/133-499/&from=mpyesterday' title='����� � 572 , �����-���������'><img width='50' height='50' src='https://img3.proshkolu.ru/content/media/pic/icon/1000000/188000/187672-eb71f133.gif' style='border:1px solid #90a090;' alt='����� � 572 , �����-���������'></a><img src='https://data2.proshkolu.ru/img/empty.gif' border='0'><a href='org/7-lesozavodska/&from=mpyesterday' title='���� ��� �1 ���, �����������, ���������� ����'><img width='50' height='50' src='content/media/pic/icon/7000000/6189000/6188421-3621377b.jpg' style='border:1px solid #90a090;' alt='���� ��� �1 ���, �����������, ���������� ����'></a><img src='https://data2.proshkolu.ru/img/empty.gif' border='0'><a href='org/chekunda-14/&from=mpyesterday' title=' ������������� �������� ������������������� ���������� ������� ������������������� ����� � 14 ������������� ��������� ��������� ����������������� �������������� ������ ������������ ���� , �������, ����������� ����'><img width='50' height='50' src='https://img3.proshkolu.ru/content/media/pic/icon/3000000/2304000/2303859-e6d898b9.jpg' style='border:1px solid #90a090;' alt=' ������������� �������� ������������������� ���������� ������� ������������������� ����� � 14 ������������� ��������� ��������� ����������������� �������������� ������ ������������ ���� , �������, ����������� ����'></a><img src='https://data2.proshkolu.ru/img/empty.gif' border='0'><a href='org/znamenka2karian-str/&from=mpyesterday' title='������-������������� ������ ���� `���������� ��� `, ��������, ���������� �������'><img width='50' height='50' src='https://img3.proshkolu.ru/content/media/pic/icon/1000000/190000/189160-0a31498e.jpg' style='border:1px solid #90a090;' alt='������-������������� ������ ���� `���������� ��� `, ��������, ���������� �������'></a><img src='https://data2.proshkolu.ru/img/empty.gif' border='0'>
+  </td>
+  </tr>
+</table>
+
+</td><td><table border=0 cellpadding=0 cellspacing=0 width='100%'>
+ <tr valign='middle'>
+  <td width='7'><img src='https://data2.proshkolu.ru/img/ps2/menu/sm-l-a.gif' border='0'><br></td>
+  <td width='110' align='center' background='https://data2.proshkolu.ru/img/ps2/menu/sm-c-a.gif'><a class='tmenu' href='activemembers/&from=mpyesterday'><nobr>���������, ���������� �� ������ ��� (2017-06-14)</nobr></a></td>
+  <td width='7'><img src='https://data2.proshkolu.ru/img/ps2/menu/sm-r-a.gif' border='0'><br></td>
+  <td style='border-bottom:1px solid #eceae5;'><img src='https://data2.proshkolu.ru/img/empty.gif' border='0' width=1 height=1><br></td>
+ </tr>
+</table>
+<table bgcolor='#ffffff' style='border:1px solid #dcdad5;border-top:0px;' width='100%' cellpadding='3' cellspacing='0'>
+ <tr valign='top'>
+  <td>
+   <a href='user/vik-navigator/&from=mpyesterday' title='����������� ������� ��������'><img width='50' height='50' src='https://img3.proshkolu.ru/content/media/pic/icon/3000000/2370000/2369427-d37a1b20.jpg' style='border:1px solid #90a090;' alt='����������� ������� ��������'></a><img src='https://data2.proshkolu.ru/img/empty.gif' border='0'><a href='user/mart4910natali/&from=mpyesterday' title='���������� ������ �������������'><img width='50' height='50' src='https://img3.proshkolu.ru/content/media/pic/icon/1000000/433000/432574-ed14ee12.jpg' style='border:1px solid #90a090;' alt='���������� ������ �������������'></a><img src='https://data2.proshkolu.ru/img/empty.gif' border='0'><a href='user/natalya7777d/&from=mpyesterday' title='���������� ������� ������������'><img width='50' height='50' src='content/media/pic/icon/7000000/6303000/6302074-4a6274e6.jpg' style='border:1px solid #90a090;' alt='���������� ������� ������������'></a><img src='https://data2.proshkolu.ru/img/empty.gif' border='0'><a href='user/Vaco/&from=mpyesterday' title='��� ����� ������'><img width='50' height='50' src='content/media/pic/icon/0/0/0--.-' style='border:1px solid #90a090;' alt='��� ����� ������'></a><img src='https://data2.proshkolu.ru/img/empty.gif' border='0'><a href='user/olganikina/&from=mpyesterday' title='������� ����� ����������'><img width='50' height='50' src='content/media/pic/icon/7000000/6163000/6162102-ead6791c.jpg' style='border:1px solid #90a090;' alt='������� ����� ����������'></a><img src='https://data2.proshkolu.ru/img/empty.gif' border='0'><a href='user/dolzhikowa1966/&from=mpyesterday' title='��������� ������� �����������'><img width='50' height='50' src='https://img3.proshkolu.ru/content/media/pic/icon/3000000/2986000/2985039-be97a2e1.jpg' style='border:1px solid #90a090;' alt='��������� ������� �����������'></a><img src='https://data2.proshkolu.ru/img/empty.gif' border='0'><br><img src='https://data2.proshkolu.ru/img/empty.gif' border=0><br><a href='user/alova57/&from=mpyesterday' title='��������� ������� ����������'><img width='50' height='50' src='content/media/pic/icon/5000000/4826000/4825059-c1386a58.jpg' style='border:1px solid #90a090;' alt='��������� ������� ����������'></a><img src='https://data2.proshkolu.ru/img/empty.gif' border='0'><a href='user/startnatali/&from=mpyesterday' title='�������� ������� ����������'><img width='50' height='50' src='content/media/pic/icon/5000000/4445000/4444065-b4c26f4b.jpg' style='border:1px solid #90a090;' alt='�������� ������� ����������'></a><img src='https://data2.proshkolu.ru/img/empty.gif' border='0'><a href='user/bacalai/&from=mpyesterday' title='��������� ����� ����������'><img width='50' height='50' src='content/media/pic/icon/6000000/5760000/5759770-e87b71a5.jpg' style='border:1px solid #90a090;' alt='��������� ����� ����������'></a><img src='https://data2.proshkolu.ru/img/empty.gif' border='0'><a href='user/valent5/&from=mpyesterday' title='�������� ��������� ������������'><img width='50' height='50' src='content/media/pic/icon/7000000/6045000/6044974-9b62ff51.jpg' style='border:1px solid #90a090;' alt='�������� ��������� ������������'></a><img src='https://data2.proshkolu.ru/img/empty.gif' border='0'><a href='user/sopin-iu64/&from=mpyesterday' title='������ ������� ����������'><img width='50' height='50' src='https://img10.proshkolu.ru/content/media/pic/icon/4000000/3017000/3016221-3d4529a9.jpg' style='border:1px solid #90a090;' alt='������ ������� ����������'></a><img src='https://data2.proshkolu.ru/img/empty.gif' border='0'><a href='user/Haitonov1970/&from=mpyesterday' title='��������� ������ ����������'><img width='50' height='50' src='content/media/pic/icon/6000000/5675000/5674974-13cb20ea.jpg' style='border:1px solid #90a090;' alt='��������� ������ ����������'></a><img src='https://data2.proshkolu.ru/img/empty.gif' border='0'><br><img src='https://data2.proshkolu.ru/img/empty.gif' border=0><br><a href='user/04061958kozina/&from=mpyesterday' title='������ ����� ����������'><img width='50' height='50' src='https://img3.proshkolu.ru/content/media/pic/icon/3000000/2714000/2713417-c353de7b.jpg' style='border:1px solid #90a090;' alt='������ ����� ����������'></a><img src='https://data2.proshkolu.ru/img/empty.gif' border='0'><a href='user/jhcr/&from=mpyesterday' title='�������� ���� ����������'><img width='50' height='50' src='content/media/pic/icon/5000000/4445000/4444207-e35d006b.jpg' style='border:1px solid #90a090;' alt='�������� ���� ����������'></a><img src='https://data2.proshkolu.ru/img/empty.gif' border='0'><a href='user/trefilova0316/&from=mpyesterday' title='��������� ����� ������������'><img width='50' height='50' src='content/media/pic/icon/7000000/6127000/6126167-78cd3659.jpg' style='border:1px solid #90a090;' alt='��������� ����� ������������'></a><img src='https://data2.proshkolu.ru/img/empty.gif' border='0'><a href='user/ilyina59/&from=mpyesterday' title='������ ���� ��������'><img width='50' height='50' src='https://img10.proshkolu.ru/content/media/pic/icon/4000000/3511000/3510247-58d91be4.jpg' style='border:1px solid #90a090;' alt='������ ���� ��������'></a><img src='https://data2.proshkolu.ru/img/empty.gif' border='0'><a href='user/briha/&from=mpyesterday' title='�� ��������� ����������'><img width='50' height='50' src='content/media/pic/icon/7000000/6413000/6412022-62b5ed68.jpg' style='border:1px solid #90a090;' alt='�� ��������� ����������'></a><img src='https://data2.proshkolu.ru/img/empty.gif' border='0'><a href='user/mamornika/&from=mpyesterday' title='������� ����� ��������'><img width='50' height='50' src='content/media/pic/icon/0/0/0--.-' style='border:1px solid #90a090;' alt='������� ����� ��������'></a><img src='https://data2.proshkolu.ru/img/empty.gif' border='0'>
+  </td>
+  </tr>
+</table>
+
+</td></tr></table><img src='https://data2.proshkolu.ru/img/empty.gif' border='0' height='10'><br><img src='https://data2.proshkolu.ru/img/empty.gif' border=0 height='3'><br>
+
+<table border=0>
+<tr><td><a target='_blank' href='click3/1013/1035/' title='��������'><img src='content/p3/video_doktor-vd-ban220x100-135803.jpg' border=0 width='220' height='100' alt='��������'><br></a>
+</td><td></td><td><a target='_blank' href='click3/1015/1035/' title='https://roscomsport.com/'><img src='content/p3/video_doktor-vd-ban220x100-135803.jpg' border=0 width='220' height='100' alt='https://roscomsport.com/'><br></a>
+</td></tr>
+</table>
+
+<img src='https://data2.proshkolu.ru/img/empty.gif' border=0 height='3'><br>
+
+<table border=0 cellpadding=0 cellspacing=0 width='100%'>
+ <tr valign='middle'>
+  <td width='7'><img src='https://data2.proshkolu.ru/img/ps2/menu/sm-l-a.gif' border='0'><br></td>
+  <td width='110' align='center' background='https://data2.proshkolu.ru/img/ps2/menu/sm-c-a.gif'><a class='tmenu' href='whatsnew/doc/&from=mpnewdoc'><nobr>����� ��������� � �����������</nobr></a></td>
+  <td width='7'><img src='https://data2.proshkolu.ru/img/ps2/menu/sm-r-a.gif' border='0'><br></td>
+  <td style='border-bottom:1px solid #eceae5;'><img src='https://data2.proshkolu.ru/img/empty.gif' border='0' width=1 height=1><br></td>
+ </tr>
+</table>
+<table bgcolor='#ffffff' style='border:1px solid #dcdad5;border-top:0px;' width='100%' cellpadding='3' cellspacing='0'>
+ <tr valign='top'>
+  <td>
+   <table border=0><tr valign='top'><td>&#9642; </td><td><nobr><font color=green><b>�������</b></font>, 19:35:19 </nobr></td><td><a href='gofile/6714621-a3668161/&from=mpnewdoc'>� �������� ��������� �������!</a></td></tr><tr valign='top'><td>&#9642; </td><td><nobr><font color=green><b>�������</b></font>, 17:27:55 </nobr></td><td><a href='gofile/6714585-a2389826/&from=mpnewdoc'>��� ��������</a></td></tr><tr valign='top'><td>&#9642; </td><td><nobr><font color=green><b>�������</b></font>, 17:25:30 </nobr></td><td><a href='gofile/6714584-a2389826/&from=mpnewdoc'>��� ��������</a></td></tr><tr valign='top'><td>&#9642; </td><td><nobr><font color=green><b>�������</b></font>, 15:37:14 </nobr></td><td><a href='gofile/6714576-a588187/&from=mpnewdoc'>�����������</a></td></tr><tr valign='top'><td>&#9642; </td><td><nobr><font color=green><b>�������</b></font>, 15:34:53 </nobr></td><td><a href='gofile/6714575-a588187/&from=mpnewdoc'>�����������</a></td></tr><tr valign='top'><td>&#9642; </td><td><nobr><font color=green><b>�������</b></font>, 15:10:49 </nobr></td><td><a href='gofile/6714571-a588187/&from=mpnewdoc'>�����������</a></td></tr><tr valign='top'><td>&#9642; </td><td><nobr><font color=green><b>�������</b></font>, 15:02:41 </nobr></td><td><a href='gofile/6714570-a588187/&from=mpnewdoc'>������� ��������: � ������������ �� ������������ � �������. 1953-1964 ����</a></td></tr><tr valign='top'><td>&#9642; </td><td><nobr><font color=green><b>�������</b></font>, 14:39:19 </nobr></td><td><a href='gofile/6714563-a588187/&from=mpnewdoc'>`��������`: ����� ������������� ������</a></td></tr><tr valign='top'><td>&#9642; </td><td><nobr><font color=green><b>�������</b></font>, 14:37:03 </nobr></td><td><a href='gofile/6714562-a2006080/&from=mpnewdoc'>�������� � ����������� `� � ������`</a></td></tr><tr valign='top'><td>&#9642; </td><td><nobr><font color=green><b>�������</b></font>, 14:32:51 </nobr></td><td><a href='gofile/6714560-a2006080/&from=mpnewdoc'>���������� ����� `����� ����� �. �������� `�� ���`</a></td></tr><tr valign='top'><td>&#9642; </td><td><nobr><font color=green><b>�������</b></font>, 14:15:48 </nobr></td><td><a href='gofile/6714558-a4362690/&from=mpnewdoc'>��������</a></td></tr><tr valign='top'><td>&#9642; </td><td><nobr><font color=green><b>�������</b></font>, 14:14:54 </nobr></td><td><a href='gofile/6714557-a4362690/&from=mpnewdoc'>��������</a></td></tr><tr valign='top'><td>&#9642; </td><td><nobr><font color=green><b>�������</b></font>, 14:05:45 </nobr></td><td><a href='gofile/6714555-a588187/&from=mpnewdoc'>������� ��������� � ������������  ����������� ������</a></td></tr><tr valign='top'><td>&#9642; </td><td><nobr><font color=green><b>�������</b></font>, 13:55:29 </nobr></td><td><a href='gofile/6714554-a4362690/&from=mpnewdoc'>�������� ������</a></td></tr><tr valign='top'><td>&#9642; </td><td><nobr><font color=green><b>�������</b></font>, 13:55:09 </nobr></td><td><a href='gofile/6714553-a4362690/&from=mpnewdoc'>�������� ����������</a></td></tr><tr valign='top'><td>&#9642; </td><td><nobr><font color=green><b>�������</b></font>, 13:45:36 </nobr></td><td><a href='gofile/6714544-a4362690/&from=mpnewdoc'>��������� ����</a></td></tr><tr valign='top'><td>&#9642; </td><td><nobr><font color=green><b>�������</b></font>, 13:43:18 </nobr></td><td><a href='gofile/6714542-a4362690/&from=mpnewdoc'>����� �� ����������� � ���������� �������</a></td></tr><tr valign='top'><td>&#9642; </td><td><nobr><font color=green><b>�������</b></font>, 13:42:49 </nobr></td><td><a href='gofile/6714541-a4362690/&from=mpnewdoc'>�� �� �����������</a></td></tr><tr valign='top'><td>&#9642; </td><td><nobr><font color=green><b>�������</b></font>, 13:35:35 </nobr></td><td><a href='gofile/6714535-a2882065/&from=mpnewdoc'>��� �� ���� `������`</a></td></tr><tr valign='top'><td>&#9642; </td><td><nobr><font color=green><b>�������</b></font>, 13:35:11 </nobr></td><td><a href='gofile/6714534-a588187/&from=mpnewdoc'>�����������</a></td></tr><tr valign='top'><td>&#9642; </td><td>����� ����������</td><td><a href='whatsnew/doc/&from=mpnewdoc'>���������� �����</a></td></tr></table>
+  </td>
+  </tr>
+</table>
+
+<img src='https://data2.proshkolu.ru/img/empty.gif' border='0' height='10'><br><img src='https://data2.proshkolu.ru/img/empty.gif' border=0 height='3'><br>
+
+<table border=0>
+<tr><td><a target='_blank' href='click3/1016/1198/' title='�������� ������'><img src='content/p3/istochnik_znaniy-220100-iz-pdd-2-034904.jpg' border=0 width='220' height='100' alt='�������� ������'><br></a>
+</td><td></td><td></td></tr>
+</table>
+
+<img src='https://data2.proshkolu.ru/img/empty.gif' border=0 height='3'><br>
+
+<table border=0 cellpadding=0 cellspacing=0 width='100%'>
+ <tr valign='middle'>
+  <td width='7'><img src='https://data2.proshkolu.ru/img/ps2/menu/sm-l-a.gif' border='0'><br></td>
+  <td width='110' align='center' background='https://data2.proshkolu.ru/img/ps2/menu/sm-c-a.gif'><a class='tmenu' href='info/about/'><nobr>PRO�����.RU</nobr></a></td>
+  <td width='7'><img src='https://data2.proshkolu.ru/img/ps2/menu/sm-r-a.gif' border='0'><br></td>
+  <td style='border-bottom:1px solid #eceae5;'><img src='https://data2.proshkolu.ru/img/empty.gif' border='0' width=1 height=1><br></td>
+ </tr>
+</table>
+<table bgcolor='#ffffff' style='border:1px solid #dcdad5;border-top:0px;' width='100%' cellpadding='3' cellspacing='0'>
+ <tr valign='top'>
+  <td>
+   <h2>�� ��� �����</h2>�� ������ ��������� ���������� ���������� <a href='schools/'>��� �����</a>! <a href='info/help/'>���������...</a><br>
+  </td>
+  </tr>
+</table>
+
+<img src='https://data2.proshkolu.ru/img/empty.gif' border='0' height='10'><br><table border=0 cellpadding=0 cellspacing=0 width='100%'>
+ <tr valign='middle'>
+  <td width='7'><img src='https://data2.proshkolu.ru/img/ps2/menu/sm-l-a.gif' border='0'><br></td>
+  <td width='110' align='center' background='https://data2.proshkolu.ru/img/ps2/menu/sm-c-a.gif'><a class='tmenu' href='golink/www.roscomsport.ru'><nobr>�������� �����</nobr></a></td>
+  <td width='7'><img src='https://data2.proshkolu.ru/img/ps2/menu/sm-r-a.gif' border='0'><br></td>
+  <td style='border-bottom:1px solid #eceae5;'><img src='https://data2.proshkolu.ru/img/empty.gif' border='0' width=1 height=1><br></td>
+ </tr>
+</table>
+<table bgcolor='#ffffff' style='border:1px solid #dcdad5;border-top:0px;' width='100%' cellpadding='3' cellspacing='0'>
+ <tr valign='top'>
+  <td>
+   <h2>������������ �������</h2>���������� ��� <a href='http://www.roscomsport.com/'>� ����� ���������� ������ RosComSport</a> - ������ ������� ����������, ���������� ������� � ������� � ����� �������������, ��������� ���� ������ <a href='http://www.roscomsport.com/discover/go/122/'>������ �������</a> � <a href='http://www.roscomsport.com/discover/go/127/'>������ ������</a>, �������� �� ������ <a href='http://www.roscomsport.com/discover/'>���������� �������</a>.<br>
+  </td>
+  </tr>
+</table>
+
+<img src='https://data2.proshkolu.ru/img/empty.gif' border='0' height='10'><br><table border=0 cellpadding=0 cellspacing=0 width='100%'>
+ <tr valign='middle'>
+  <td width='7'><img src='https://data2.proshkolu.ru/img/ps2/menu/sm-l-a.gif' border='0'><br></td>
+  <td width='110' align='center' background='https://data2.proshkolu.ru/img/ps2/menu/sm-c-a.gif'><a class='tmenu' href='./'><nobr>�������� �����</nobr></a></td>
+  <td width='7'><img src='https://data2.proshkolu.ru/img/ps2/menu/sm-r-a.gif' border='0'><br></td>
+  <td style='border-bottom:1px solid #eceae5;'><img src='https://data2.proshkolu.ru/img/empty.gif' border='0' width=1 height=1><br></td>
+ </tr>
+</table>
+<table bgcolor='#ffffff' style='border:1px solid #dcdad5;border-top:0px;' width='100%' cellpadding='3' cellspacing='0'>
+ <tr valign='top'>
+  <td>
+   ���������� ��� ����������� � �������������-������� ������� "<a href='discover/'>�������� ������</a>"!
+���������� � �������� ��������� �� ������ � <a href='lib/'>����������� ����������</a>, � ����� ����� <a href='articles/'>������ � ��������</a> �� ����� �������������� ���������, �������� ����������� <a href='http://www.vkussovet.ru/' target='_blank'>��������� ������� � ����</a>.
+�, �������, ���������� ��� ��� <a href='user/reg/'>����������� �� ��������</a> ������ � ���������� ��������� - <a href='user/reg/'>�������� ���������</a> ��� ���� ��� ����� ����� ����� ������!
+
+
+  </td>
+  </tr>
+</table>
+
+<img src='https://data2.proshkolu.ru/img/empty.gif' border='0' height='10'><br>
+
+<br><br>
+
+<img src='https://data2.proshkolu.ru/img/empty.gif' border='0' height='5'><br>
+
+<a href="https://ru.jooble.org/������-�-�����-�������">�������� ��� ��������</a>
+<br>
+<br>
+
+<table bgcolor='#ffffff' style='border:1px solid #dcdad5;' width='100%' cellpadding='3' cellspacing='0'>
+ <tr valign='top'>
+  <td>
+
+<!-- book bottom -->
+
+
+
+
+  </td>
+  </tr>
+</table>
+<Br>
+
+
+
+
+
+<table bgcolor='#ffffff' style='border:1px solid #dcdad5;' width='100%' cellpadding='3' cellspacing='0'>
+ <tr valign='top'>
+  <td>
+		<div id="retail_5750"></div>
+  </td>
+  </tr>
+</table>
+<br>
+
+
+
+
+
+
+<table bgcolor='#ffffff' style='border:1px solid #dcdad5;' width='100%' cellpadding='3' cellspacing='0'>
+ <tr valign='top'>
+  <td>
+
+<script type="text/javascript"><!--
+//google_ad_client = "ca-pub-8951912719572200";
+/* ps468 */
+//google_ad_slot = "3703543882";
+//google_ad_width = 468;
+//google_ad_height = 60;
+//-->
+</script>
+<!-- <script type="text/javascript"
+src="https://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script> -->
+
+  </td>
+  </tr>
+</table>
+
+
+
+						
+						</td>
+						<td bgcolor='#fffefe' width='7'><img src='https://data2.proshkolu.ru/img/empty.gif' border='0' height='1' width='7'><br></td>
+						<td bgcolor='#fffefe'>
+							
+							
+
+							<!--<form method=post action='search/' accept-charset="windows-1251">
+<table border=0><tr><td><input style='width:145px;' name=search> </td><td><input type='image' src='https://data2.proshkolu.ru/img/btn-search2.png' style='border:0px;'></td></tr></table>
+</form>-->
+
+<a class="btn_subproject green " href="/search/" style="width: 214px;display: block;text-align: center;">����� �� �������</a>
+
+
+							
+							
+<!-- banner d5 (kusakin) start -->
+<script type="text/javascript" src="https://code.jquery.com/jquery-1.11.0.min.js"></script> 
+<script type="text/javascript" src="/d5_banner/d5_banner_slideshow.js"></script>
+<script type="text/javascript">
+jQuery(document).ready(function () {
+   jQuery('img').each(function(){
+         jQuery(this).attr('src', jQuery(this).attr('src').replace('37.230.112.112', 'proshkolu.ru').replace('82.146.40.206','proshkolu.ru'))
+   });
+ });
+</script>
+<style>
+.btn_subproject {
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 14px;
+  padding: 4px 4px 4px 4px;
+  text-decoration: none;
+}
+
+.btn_subproject:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+.btn_subproject.green {
+  background: #A1E532;
+  background-image: -webkit-linear-gradient(top, #A1E532, #8EBE1E);
+  background-image: -moz-linear-gradient(top, #A1E532, #8EBE1E);
+  background-image: -ms-linear-gradient(top, #A1E532, #8EBE1E);
+  background-image: -o-linear-gradient(top, #A1E532, #8EBE1E);
+  background-image: linear-gradient(to bottom, #A1E532, #8EBE1E);
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 14px;
+  padding: 4px 4px 4px 4px;
+  text-decoration: none;
+}
+
+.btn_subproject.green:hover {
+  background: #73e332;
+  background-image: -webkit-linear-gradient(top, #73e332, #46bd1e);
+  background-image: -moz-linear-gradient(top, #73e332, #46bd1e);
+  background-image: -ms-linear-gradient(top, #73e332, #46bd1e);
+  background-image: -o-linear-gradient(top, #73e332, #46bd1e);
+  background-image: linear-gradient(to bottom, #73e332, #46bd1e);
+  text-decoration: none;
+}
+</style>
+<div>
+	<br>
+	<a class="btn_subproject" href="http://proshkolu.info/" style="color:#fff;text-decoration:none">�����������</a>&nbsp;
+	<a class="btn_subproject green " href="http://donate.proshkolu.ru">������ �������</a>
+	<br>
+	<br>
+</div>
+<div id="d5_banner"></div>
+<!-- banner d5 (kusakin) end -->
+
+<div style="text-align:center;display: flex;justify-content: center">
+<!-- Yandex.RTB R-A-139660-8 -->
+<div id="yandex_rtb_R-A-139660-8"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Context.AdvManager.render({
+                blockId: "R-A-139660-8",
+                renderTo: "yandex_rtb_R-A-139660-8",
+                async: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//an.yandex.ru/system/context.js";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(this, this.document, "yandexContextAsyncCallbacks");
+</script>
+</div>
+
+<br>
+<table width='220' height='137' border='0' cellpadding='0' cellspacing='0'>
+ <tr height='4'><td colspan='3'><img src='https://data2.proshkolu.ru/img/ps2/v3/card220-top.png' border='0'><br></td></tr>
+ <tr valign='top'>
+  <td width='4' background='https://data2.proshkolu.ru/img/ps2/v3/card220-l-bg.png'><img src='https://data2.proshkolu.ru/img/empty.gif' border='0'><br></td>
+  <td width='212' bgcolor='#ffffff'><div style='width:212;overflow:hidden;'>
+   <h2><a class=acolhdr href='peopleonline/'>��� ����� �� �����</a></h2>
+   <img src='https://data2.proshkolu.ru/img/empty.gif' border='0' width='5' height='5'><br>
+   <table border=0 cellpadding=0 cellspacing=0 height='104'><tr valign='top'><td><nobr><a alt='����� ����������� ���������' title='����� ����������� ���������' href='http://www.proshkolu.ru/user/karlushina1965/&from=peopleonline'><img width=50 height=50 src='https://img3.proshkolu.ru/content/media/pic/icon/2000000/1361000/1360744-1fa0c060.jpg' style='border:1px solid #99cc99;'></a><img src='https://data2.proshkolu.ru/img/empty.gif' border='0' width='1'><a alt='�������� ���������� ��������' title='�������� ���������� ��������' href='http://www.proshkolu.ru/user/kachanova/&from=peopleonline'><img width=50 height=50 src='https://img10.proshkolu.ru/content/media/pic/icon/4000000/3812000/3811278-1f52efa6.jpg' style='border:1px solid #99cc99;'></a><img src='https://data2.proshkolu.ru/img/empty.gif' border='0' width='1'><a alt='���� �������� ������' title='���� �������� ������' href='http://www.proshkolu.ru/user/ilyina59/&from=peopleonline'><img width=50 height=50 src='https://img10.proshkolu.ru/content/media/pic/icon/4000000/3511000/3510247-58d91be4.jpg' style='border:1px solid #99cc99;'></a><img src='https://data2.proshkolu.ru/img/empty.gif' border='0' width='1'><a alt='���� �������� ��������' title='���� �������� ��������' href='http://www.proshkolu.ru/user/FilatovaNI/&from=peopleonline'><img width=50 height=50 src='content/media/pic/icon/7000000/6606000/6605254-bde814a7.jpg' style='border:1px solid #99cc99;'></a><img src='https://data2.proshkolu.ru/img/empty.gif' border='0' width='1'><br><img src='https://data2.proshkolu.ru/img/empty.gif' border='0'><br>
+<a alt='�������� ��������� ��������' title='�������� ��������� ��������' href='http://www.proshkolu.ru/user/Solodkin/&from=peopleonline'><img width=50 height=50 src='content/media/pic/icon/6000000/5503000/5502582-576b8efe.jpg' style='border:1px solid #99cc99;'></a><img src='https://data2.proshkolu.ru/img/empty.gif' border='0' width='1'><a alt='��������� ���������� ��������' title='��������� ���������� ��������' href='http://www.proshkolu.ru/user/dyanskaya/&from=peopleonline'><img width=50 height=50 src='https://img3.proshkolu.ru/content/media/pic/icon/3000000/2683000/2682466-81a942e8.jpg' style='border:1px solid #99cc99;'></a><img src='https://data2.proshkolu.ru/img/empty.gif' border='0' width='1'><a alt='Olga Alex B' title='Olga Alex B' href='http://www.proshkolu.ru/user/carma/&from=peopleonline'><img width=50 height=50 src='content/media/pic/icon/7000000/6615000/6614642-69cf8362.jpg' style='border:1px solid #99cc99;'></a><img src='https://data2.proshkolu.ru/img/empty.gif' border='0' width='1'><a alt='����� ������������� ������' title='����� ������������� ������' href='http://www.proshkolu.ru/user/kashina1991/&from=peopleonline'><img width=50 height=50 src='content/media/pic/icon/6000000/5753000/5752079-8c647e32.jpg' style='border:1px solid #99cc99;'></a><img src='https://data2.proshkolu.ru/img/empty.gif' border='0' width='1'></nobr></td></tr></table>
+  </div></td>
+  <td width='4' background='https://data2.proshkolu.ru/img/ps2/v2/card160-r-bg.png'><img src='https://data2.proshkolu.ru/img/ps2/v2/card160-r.png' border='0'><br></td>
+ </tr>
+ <tr height='4'><td colspan='3'><img src='https://data2.proshkolu.ru/img/ps2/v3/card220-bottom.png' border='0'><br></td></tr>
+</table>
+
+
+							<img src='https://data2.proshkolu.ru/img/empty.gif' border='0' width='5' height='5'><br>
+							<!-- d5 banner -->
+
+
+							<table width='220' height='137' border='0' cellpadding='0' cellspacing='0'>
+ <tr height='4'><td colspan='3'><img src='https://data2.proshkolu.ru/img/ps2/v3/card220-top.png' border='0'><br></td></tr>
+ <tr valign='top'>
+  <td width='4' background='https://data2.proshkolu.ru/img/ps2/v3/card220-l-bg.png'><img src='https://data2.proshkolu.ru/img/empty.gif' border='0'><br></td>
+  <td width='212' bgcolor='#ffffff'><div style='width:212;overflow:hidden;'>
+   <h2><a class=acolhdr href='whatsnew/'>����� �� �����</a></h2>
+   <img src='https://data2.proshkolu.ru/img/empty.gif' border='0' width='5' height='5'><br>
+   <table border=0 cellpadding=0 cellspacing=0 height='104'><tr valign='top'><td><a href='gofile/6714623-a3974049/' title='-'><img src='content/media/pic/icon/7000000/6715000/6714623-c964b1d0.png' style='border:1px solid #99cc99;' border=0 alt='-'></a><img src='https://data2.proshkolu.ru/img/empty.gif' border=0 width=1 height=1><a href='gofile/6714622-a3974049/' title='���. ������ �������'><img src='content/media/pic/icon/7000000/6715000/6714622-6621c44d.jpg' style='border:1px solid #99cc99;' border=0 alt='���. ������ �������'></a><img src='https://data2.proshkolu.ru/img/empty.gif' border=0 width=1 height=1><a href='gofile/6714621-a3668161/' title='� �������� ��������� �������!'><img src='https://data2.proshkolu.ru/img/ps2/icons/50-word.png' style='border:1px solid #99cc99;' border=0 alt='� �������� ��������� �������!'></a><img src='https://data2.proshkolu.ru/img/empty.gif' border=0 width=1 height=1><a href='gofile/6714620-a3974049/' title='�� �/� `��������� �����`'><img src='content/media/pic/icon/7000000/6715000/6714620-9caf36f3.png' style='border:1px solid #99cc99;' border=0 alt='�� �/� `��������� �����`'></a><img src='https://data2.proshkolu.ru/img/empty.gif' border=0 width=1 height=1><br><img src='https://data2.proshkolu.ru/img/empty.gif' border=0 width=1 height=1><br><a href='gofile/6714619-a3974049/' title='��� ��������'><img src='content/media/pic/icon/7000000/6715000/6714619-9791ace5.jpg' style='border:1px solid #99cc99;' border=0 alt='��� ��������'></a><img src='https://data2.proshkolu.ru/img/empty.gif' border=0 width=1 height=1><a href='gofile/6714617-a3668161/' title='�������'><img src='content/media/pic/icon/7000000/6715000/6714617-ae5f6dba.jpg' style='border:1px solid #99cc99;' border=0 alt='�������'></a><img src='https://data2.proshkolu.ru/img/empty.gif' border=0 width=1 height=1><a href='gofile/6714616-a3298085/' title='����-����'><img src='https://data2.proshkolu.ru/img/ps2/icons/50-sound.png' style='border:1px solid #99cc99;' border=0 alt='����-����'></a><img src='https://data2.proshkolu.ru/img/empty.gif' border=0 width=1 height=1><a href='gofile/6714615-a3974049/' title='���� �����'><img src='content/media/pic/icon/7000000/6715000/6714615-1f89d8c3.jpg' style='border:1px solid #99cc99;' border=0 alt='���� �����'></a><img src='https://data2.proshkolu.ru/img/empty.gif' border=0 width=1 height=1></td></tr></table>
+  </div></td>
+  <td width='4' background='https://data2.proshkolu.ru/img/ps2/v2/card160-r-bg.png'><img src='https://data2.proshkolu.ru/img/ps2/v2/card160-r.png' border='0'><br></td>
+ </tr>
+ <tr height='4'><td colspan='3'><img src='https://data2.proshkolu.ru/img/ps2/v3/card220-bottom.png' border='0'><br></td></tr>
+</table>
+
+
+							<img src='https://data2.proshkolu.ru/img/empty.gif' border='0' width='5' height='5'><br>
+							<table width='220' height='133' border='0' cellpadding='0' cellspacing='0'>
+ <tr height='4'><td colspan='3'><img src='https://data2.proshkolu.ru/img/ps2/v3/card220-top.png' border='0'><br></td></tr>
+ <tr valign='top'>
+  <td width='4' background='https://data2.proshkolu.ru/img/ps2/v3/card220-l-bg.png'><img src='https://data2.proshkolu.ru/img/empty.gif' border='0'><br></td>
+  <td width='212' bgcolor='#ffffff'><div style='width:212;overflow:hidden;'>
+   <h2><a class=acolhdr href='whatsnewcmt/'>����� �����������</a></h2>
+   <img src='https://data2.proshkolu.ru/img/empty.gif' border='0' width='3' height='3'><br>
+   <table border=0 cellpadding=0 cellspacing=0 height='104'><tr valign='top'><td width='5'><img src='https://data2.proshkolu.ru/img/empty.gif' border='0' width='5'><br></td><td><div style='width:205px; overflow:hidden;'><nobr>&#9643; <a href='goblog/586187-c7425954/&from=newcmt'>��� ������ ���������� � �������.
+����� ���� ������.�� �����, ��� ����.�� �����, ��� �����. ������ ������, � ������� �����������, �� ���� � ������ ������� ���������.</a><br>&#9643; <a href='gofile/5359375-a3298085/&from=newcmt'>�� �� ���, ���, � ������ - ��� ��-�-�... � ��� ��� ����, �����, ������ - ���������, ��� ������ ������ ��� �� ���� ��������. ��� ��������� � ���� ������� ���� ��� � ����, � ����� ������������� ��� �����... �... ���� �����, ������� ����� ���� � ������, ��������� � ����������� ���� ��� ����. ������� ���, ����� ���, ��� � �� ���� ����� - ��������, �������.. ���... �� �������� �����.. ��� ����� ��� ���������� ���� � �������... ��� �� ���� ��� ��� ���, � ��� ��������� - � ����� �� ���������...</a><br>&#9643; <a href='gofile/6642042-a3974049/&from=newcmt'>�� ��, �����, �����, ������� ���!! ����� �������� ����� ��� ������� ����, �������� ����� ��� �������� �� ���� �� ����� � ������� ����������� ����. � ��� ����� ������������ �������� ����� ���� ���������.... ����-�� ��������, � ��� � ����� �� ����� ������ ����������, ��� ����� ������� ������������ �� ���� �����!!!</a><br>&#9643; <a href='gofile/5359375-a3298085/&from=newcmt'>� ������ ���� �����!
+� ������� ������, ������� �������,
+� ������ ��������� ������� ������,
+� � ������� ��������� �������!
+� ��� ����� � ������ ������� 
+��� �����, ��� ������, � ���� ����!
+����� � ������ ����� �� �� ��!
+���� ������ ��������� ����� ������!
+������� ��������� ���������� �
+� �������� ���������� ������������ ������!
+� ����� ������� ������� ����� 
+���� ������� ��������� ��� ������ �����!
+
+����� ������: � ������ � ������ 
+6714615-a3974049</a><br>&#9643; <a href='gofile/6714595-a151550/&from=newcmt'>���, ������, ��������� ����. � �� �� �����, ��� � ������ �������� ������������. �� �� ��������� � �������, �����������.</a><br>&#9643; <a href='gofile/5227247-a2902037/&from=newcmt'>���������� ����������, ��� ������� ����?
+
+������������. � ��� �������? � ���� �� ����������</a><br></nobr></a></td></tr></table>
+  </div></td>
+  <td width='4' background='https://data2.proshkolu.ru/img/ps2/v2/card160-r-bg.png'><img src='https://data2.proshkolu.ru/img/ps2/v2/card160-r.png' border='0'><br></td>
+ </tr>
+ <tr height='4'><td colspan='3'><img src='https://data2.proshkolu.ru/img/ps2/v3/card220-bottom.png' border='0'><br></td></tr>
+</table>
+
+
+							<img src='https://data2.proshkolu.ru/img/empty.gif' border='0' width='5' height='5'><br>
+							<img src='https://data2.proshkolu.ru/img/empty.gif' border='0' width='5' height='5'><br>
+							<table width='220' height='133' border='0' cellpadding='0' cellspacing='0'>
+ <tr height='4'><td colspan='3'><img src='https://data2.proshkolu.ru/img/ps2/v3/card220-top.png' border='0'><br></td></tr>
+ <tr valign='top'>
+  <td width='4' background='https://data2.proshkolu.ru/img/ps2/v3/card220-l-bg.png'><img src='https://data2.proshkolu.ru/img/empty.gif' border='0'><br></td>
+  <td width='212' bgcolor='#ffffff'><div style='width:212;overflow:hidden;'>
+   <h2><a class=acolhdr href='whatsnewblogs/'>����� � ������</a></h2>
+   <img src='https://data2.proshkolu.ru/img/empty.gif' border='0' width='3' height='3'><br>
+   <table border=0 cellpadding=0 cellspacing=0 height='104'><tr valign='top'><td width='5'><img src='https://data2.proshkolu.ru/img/empty.gif' border='0' width='5'><br></td><td><div style='width:225px; overflow:hidden;'><nobr>&#9643; <a href='goblog/586192-a4060534/&from=newblogs'>�������� ���������</a><br>&#9643; <a href='goblog/586191-a3624608/&from=newblogs'>Insta-���������, ����������? ;)</a><br>&#9643; <a href='goblog/586190-a1449346/&from=newblogs'>���������� ����������</a><br>&#9643; <a href='goblog/586189-a634407/&from=newblogs'>� ����� ���������� � ������ � ��������</a><br>&#9643; <a href='goblog/586188-a2213416/&from=newblogs'>����������� ���������� ������� ����������</a><br>&#9643; <a href='goblog/586187-a4235762/&from=newblogs'>������ ������</a><br></nobr></a></td></tr></table>
+  </div></td>
+  <td width='4' background='https://data2.proshkolu.ru/img/ps2/v2/card160-r-bg.png'><img src='https://data2.proshkolu.ru/img/ps2/v2/card160-r.png' border='0'><br></td>
+ </tr>
+ <tr height='4'><td colspan='3'><img src='https://data2.proshkolu.ru/img/ps2/v3/card220-bottom.png' border='0'><br></td></tr>
+</table>
+
+
+							<img src='https://data2.proshkolu.ru/img/empty.gif' border='0' width='5' height='5'><br>
+							<table width='220' height='150' border='0' cellpadding='0' cellspacing='0'>
+ <tr height='4'><td colspan='3'><img src='https://data2.proshkolu.ru/img/ps2/v3/card220-top.png' border='0'><br></td></tr>
+ <tr valign='top'>
+  <td width='4' background='https://data2.proshkolu.ru/img/ps2/v3/card220-l-bg.png'><img src='https://data2.proshkolu.ru/img/empty.gif' border='0'><br></td>
+  <td width='212' bgcolor='#ffffff'><div style='width:212;overflow:hidden;'>
+   <h2><a class=acolhdr href='activeorgs'>�������� �����</a></h2>
+   <img src='https://data2.proshkolu.ru/img/empty.gif' border='0' width='5' height='5'><br>
+   <table border=0 cellpadding=0 cellspacing=0 height='104'><tr valign='top'><td><a href='org/2-sterlitamak/'><img src='content/media/pic/icon/6000000/5821000/5820374-42942d6e.gif' title='������������� ���������� ������������������� ���������� ������� ������������������� ����� �2 ���������� ������ ����� ����������� ���������� ������������   - �����������, ���������� ������������' alt='������������� ���������� ������������������� ���������� ������� ������������������� ����� �2 ���������� ������ ����� ����������� ���������� ������������   - �����������, ���������� ������������' style='border:1px solid #88cc88;'></a><img src='https://data2.proshkolu.ru/img/empty.gif' border='0' width=1 height=1><a href='org/116-138/'><img src='https://img3.proshkolu.ru/content/media/pic/icon/3000000/2197000/2196551-0293ecc8.jpg' title='����� � 617 ����� ���� - �����-���������, �����-���������' alt='����� � 617 ����� ���� - �����-���������, �����-���������' style='border:1px solid #88cc88;'></a><img src='https://data2.proshkolu.ru/img/empty.gif' border='0' width=1 height=1><a href='org/113-979/'><img src='https://img3.proshkolu.ru/content/media/pic/icon/1000000/910000/909031-f5e83c15.jpg' title='������������ �������� - ���������, ���������� ����� ��' alt='������������ �������� - ���������, ���������� ����� ��' style='border:1px solid #88cc88;'></a><img src='https://data2.proshkolu.ru/img/empty.gif' border='0' width=1 height=1><a href='org/102-738/'><img src='https://img3.proshkolu.ru/content/media/pic/icon/3000000/2865000/2864566-e3b70466.jpg' title='����� �42 ���������� ���������� ������ - �������, ����������� �������' alt='����� �42 ���������� ���������� ������ - �������, ����������� �������' style='border:1px solid #88cc88;'></a><img src='https://data2.proshkolu.ru/img/empty.gif' border='0' width=1 height=1><br><a href='org/115-818/'><img src='https://img3.proshkolu.ru/content/media/pic/icon/1000000/531000/530754-8048d1a1.jpg' title='������� ������������������� ����� 337 - �����-���������, �����-���������' alt='������� ������������������� ����� 337 - �����-���������, �����-���������' style='border:1px solid #88cc88;'></a><img src='https://data2.proshkolu.ru/img/empty.gif' border='0' width=1 height=1><a href='org/108-714/'><img src='https://img3.proshkolu.ru/content/media/pic/icon/1000000/475000/474545-ab18f234.jpg' title='���� �������� � 19 - ������-��-����, ���������� �������' alt='���� �������� � 19 - ������-��-����, ���������� �������' style='border:1px solid #88cc88;'></a><img src='https://data2.proshkolu.ru/img/empty.gif' border='0' width=1 height=1><a href='org/111-793/'><img src='https://img3.proshkolu.ru/content/media/pic/icon/1000000/545000/544594-04ca21d5.jpg' title='������������� ��������� ��������������� ���������� `������ ������� ������������������� ����� �2` - ��, ����������� �������' alt='������������� ��������� ��������������� ���������� `������ ������� ������������������� ����� �2` - ��, ����������� �������' style='border:1px solid #88cc88;'></a><img src='https://data2.proshkolu.ru/img/empty.gif' border='0' width=1 height=1><a href='org/115-807/'><img src='https://img3.proshkolu.ru/content/media/pic/icon/3000000/2076000/2075846-3b5d393e.jpg' title='����� 329 www.school329.spb.ru - �����-���������, �����-���������' alt='����� 329 www.school329.spb.ru - �����-���������, �����-���������' style='border:1px solid #88cc88;'></a><img src='https://data2.proshkolu.ru/img/empty.gif' border='0' width=1 height=1><br><a href='org/gdou-84/'><img src='https://img3.proshkolu.ru/content/media/pic/icon/3000000/2248000/2247253-d79646c0.jpg' title='����� �84 - �����-���������, �����-���������' alt='����� �84 - �����-���������, �����-���������' style='border:1px solid #88cc88;'></a><img src='https://data2.proshkolu.ru/img/empty.gif' border='0' width=1 height=1><a href='org/125-265/'><img src='https://img3.proshkolu.ru/content/media/pic/icon/2000000/1476000/1475333-71659eda.jpg' title='����������� ��� - ��������, �����-���������� ���������� �����' alt='����������� ��� - ��������, �����-���������� ���������� �����' style='border:1px solid #88cc88;'></a><img src='https://data2.proshkolu.ru/img/empty.gif' border='0' width=1 height=1><a href='org/gdou-130/'><img src='https://img3.proshkolu.ru/content/media/pic/icon/2000000/1076000/1075552-27a24e23.jpg' title='����� �130 - �����-���������, �����-���������' alt='����� �130 - �����-���������, �����-���������' style='border:1px solid #88cc88;'></a><img src='https://data2.proshkolu.ru/img/empty.gif' border='0' width=1 height=1><a href='org/133-239/'><img src='content/media/pic/icon/7000000/6465000/6464817-c1b103ac.jpg' title='���� ����� � 268 �������� ������ �����-���������� - �����-���������, �����-���������' alt='���� ����� � 268 �������� ������ �����-���������� - �����-���������, �����-���������' style='border:1px solid #88cc88;'></a><img src='https://data2.proshkolu.ru/img/empty.gif' border='0' width=1 height=1></td></tr></table>
+  </div></td>
+  <td width='4' background='https://data2.proshkolu.ru/img/ps2/v2/card160-r-bg.png'><img src='https://data2.proshkolu.ru/img/ps2/v2/card160-r.png' border='0'><br></td>
+ </tr>
+ <tr height='4'><td colspan='3'><img src='https://data2.proshkolu.ru/img/ps2/v3/card220-bottom.png' border='0'><br></td></tr>
+</table>
+
+<img src='https://data2.proshkolu.ru/img/empty.gif' border='0' width='5' height='5'><br><table width='220' height='150' border='0' cellpadding='0' cellspacing='0'>
+ <tr height='4'><td colspan='3'><img src='https://data2.proshkolu.ru/img/ps2/v3/card220-top.png' border='0'><br></td></tr>
+ <tr valign='top'>
+  <td width='4' background='https://data2.proshkolu.ru/img/ps2/v3/card220-l-bg.png'><img src='https://data2.proshkolu.ru/img/empty.gif' border='0'><br></td>
+  <td width='212' bgcolor='#ffffff'><div style='width:212;overflow:hidden;'>
+   <h2><a class=acolhdr href='activemembers/'>�������� ���������</a></h2>
+   <img src='https://data2.proshkolu.ru/img/empty.gif' border='0' width='5' height='5'><br>
+   <table border=0 cellpadding=0 cellspacing=0 height='104'><tr valign='top'><td><a href='user/zaharovaliv55/'><img src='content/media/pic/icon/7000000/6537000/6536655-fa488f93.jpg' title='�������� ������� ��������' alt='�������� ������� ��������' style='border:1px solid #88cc88;'></a><img src='https://data2.proshkolu.ru/img/empty.gif' border='0' width=1 height=1><a href='user/vasilisamel/'><img src='content/media/pic/icon/7000000/6653000/6652504-1f56f40e.jpg' title='A.B.M.    �������� ����������' alt='A.B.M.    �������� ����������' style='border:1px solid #88cc88;'></a><img src='https://data2.proshkolu.ru/img/empty.gif' border='0' width=1 height=1><a href='user/Gor154/'><img src='https://img3.proshkolu.ru/content/media/pic/icon/3000000/2957000/2956620-52662713.jpg' title='��������� ������ �������' alt='��������� ������ �������' style='border:1px solid #88cc88;'></a><img src='https://data2.proshkolu.ru/img/empty.gif' border='0' width=1 height=1><a href='user/NIKA1907/'><img src='content/media/pic/icon/7000000/6706000/6705414-55192700.jpg' title='���������� ������� ����������' alt='���������� ������� ����������' style='border:1px solid #88cc88;'></a><img src='https://data2.proshkolu.ru/img/empty.gif' border='0' width=1 height=1><br><a href='user/Nadegda797/'><img src='https://img3.proshkolu.ru/content/media/pic/icon/1000000/450000/449472-f7730433.jpg' title='���������� ������� ����������' alt='���������� ������� ����������' style='border:1px solid #88cc88;'></a><img src='https://data2.proshkolu.ru/img/empty.gif' border='0' width=1 height=1><a href='user/Olgas28/'><img src='content/media/pic/icon/7000000/6618000/6617803-c1e26cd6.jpg' title='�������� ����� ����������' alt='�������� ����� ����������' style='border:1px solid #88cc88;'></a><img src='https://data2.proshkolu.ru/img/empty.gif' border='0' width=1 height=1><a href='user/konstantinovaON23/'><img src='content/media/pic/icon/7000000/6536000/6535929-56e61172.jpg' title='������������� ����� ����������' alt='������������� ����� ����������' style='border:1px solid #88cc88;'></a><img src='https://data2.proshkolu.ru/img/empty.gif' border='0' width=1 height=1><a href='user/lpsinkova60/'><img src='content/media/pic/icon/6000000/5496000/5495843-263093f1.jpg' title='�������� ������ ��������' alt='�������� ������ ��������' style='border:1px solid #88cc88;'></a><img src='https://data2.proshkolu.ru/img/empty.gif' border='0' width=1 height=1><br><a href='user/Iluza23/'><img src='content/media/pic/icon/5000000/4844000/4843876-896a8700.gif' title='��������� ����� ����������' alt='��������� ����� ����������' style='border:1px solid #88cc88;'></a><img src='https://data2.proshkolu.ru/img/empty.gif' border='0' width=1 height=1><a href='user/alanx/'><img src='content/media/pic/icon/7000000/6523000/6522080-ab8f2db3.jpg' title='������� ��������� �����������' alt='������� ��������� �����������' style='border:1px solid #88cc88;'></a><img src='https://data2.proshkolu.ru/img/empty.gif' border='0' width=1 height=1><a href='user/aakavreva/'><img src='content/media/pic/icon/6000000/5327000/5326206-b6c9c386.jpg' title='������� �������� ����������' alt='������� �������� ����������' style='border:1px solid #88cc88;'></a><img src='https://data2.proshkolu.ru/img/empty.gif' border='0' width=1 height=1><a href='user/ryabizova/'><img src='content/media/pic/icon/7000000/6709000/6708063-c742b1f8.jpg' title='�������� ��������� ���������' alt='�������� ��������� ���������' style='border:1px solid #88cc88;'></a><img src='https://data2.proshkolu.ru/img/empty.gif' border='0' width=1 height=1><br><a href='user/putilina67/'><img src='content/media/pic/icon/7000000/6703000/6702916-fbf32cd2.jpg' title='�������� ������� ��������' alt='�������� ������� ��������' style='border:1px solid #88cc88;'></a><img src='https://data2.proshkolu.ru/img/empty.gif' border='0' width=1 height=1><a href='user/sol27slo/'><img src='content/media/pic/icon/7000000/6709000/6708947-f38445fa.jpg' title='�������� ������� ������������' alt='�������� ������� ������������' style='border:1px solid #88cc88;'></a><img src='https://data2.proshkolu.ru/img/empty.gif' border='0' width=1 height=1><a href='user/goncharovaelena/'><img src='content/media/pic/icon/6000000/5314000/5313145-719676ab.jpg' title='�������V� ����� ��������������' alt='�������V� ����� ��������������' style='border:1px solid #88cc88;'></a><img src='https://data2.proshkolu.ru/img/empty.gif' border='0' width=1 height=1><a href='user/Dikaya77/'><img src='content/media/pic/icon/5000000/4156000/4155075-a2a2b432.jpg' title='����� ������� �������������' alt='����� ������� �������������' style='border:1px solid #88cc88;'></a><img src='https://data2.proshkolu.ru/img/empty.gif' border='0' width=1 height=1></td></tr></table>
+  </div></td>
+  <td width='4' background='https://data2.proshkolu.ru/img/ps2/v2/card160-r-bg.png'><img src='https://data2.proshkolu.ru/img/ps2/v2/card160-r.png' border='0'><br></td>
+ </tr>
+ <tr height='4'><td colspan='3'><img src='https://data2.proshkolu.ru/img/ps2/v3/card220-bottom.png' border='0'><br></td></tr>
+</table>
+
+
+							<img src='https://data2.proshkolu.ru/img/empty.gif' border='0' width='5' height='5'><br>
+							
+							
+							<img src='https://data2.proshkolu.ru/img/empty.gif' border='0' width='5' height='5'><br>
+							<table border=0><tr><td width='10'>&nbsp;</td><td>
+							<noindex><!--.LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='https://www.liveinternet.ru/click' "+
+"target=_blank><img src='https://counter.yadro.ru/hit?t26.1;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet: �������� ����� ����������� ��"+
+" �������' "+
+"border=0 width=88 height=15><\/a>")//--></script><!--/LiveInternet-->
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-16075209-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter47023047 = new Ya.Metrika({
+                    id:47023047,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/47023047" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+
+<!-- begin of Top100 code -->
+
+<script id="top100Counter" type="text/javascript" src="https://counter.rambler.ru/top100.jcn?2265867"></script>
+<noscript>
+<a href="https://top100.rambler.ru/navi/2265867/">
+<img src="https://counter.rambler.ru/top100.cnt?2265867" alt="Rambler's Top100" border="0" />
+</a>
+
+</noscript>
+<!-- end of Top100 code -->
+
+</noindex>
+							</td></tr></table>
+							<img src='https://data2.proshkolu.ru/img/empty.gif' border='0' width='5' height='5'><br>
+							
+							<img src='https://data2.proshkolu.ru/img/empty.gif' border='0' width='5' height='5'><br>
+						</td>
+					</tr>
+				</table>
+			
+			
+			
+			
+			
+			
+			
+			
+           </td>
+           <td width='35' background='https://data2.proshkolu.ru/img/ps2/v2/m-r-bg.png'>
+            <table width='100%' height='100%' border='0' cellpadding='0' cellspacing='0'>
+             <tr valign='top'><td><img src='https://data2.proshkolu.ru/img/ps2/v2/m-r-t.png' border='0' width='35' height='35'><br></td></tr>
+             <tr valign='top' height='35'><td><img src='https://data2.proshkolu.ru/img/ps2/v2/m-r-b.png' border='0' width='35' height='35'><br></td></tr>
+            </table>
+           </td>
+          </tr>
+         </table>
+        </td>
+       </tr>
+
+  <!- BOOK: BOTTOM -!>
+       <tr valign='top' height='22'>
+        <td>
+         <table width='100%' height='100%' border='0' cellpadding='0' cellspacing='0'>
+          <tr valign='top'>
+           <td width='251' background='https://data2.proshkolu.ru/img/ps2/v2/b-l2.png'><img src='https://data2.proshkolu.ru/img/empty.gif' width='1' height='22' border='0'><br></td>
+           <td background='https://data2.proshkolu.ru/img/ps2/v2/b-bg.png'><img src='https://data2.proshkolu.ru/img/ps2/v2/b-c2.png' width='382' height='22' border='0'><br></td>
+           <td width='65' background='https://data2.proshkolu.ru/img/ps2/v2/b-r.png'><img src='https://data2.proshkolu.ru/img/empty.gif' width='1' height='22' border='0'><br></td>
+          </td>
+         </table>
+        </td>
+       </tr>
+
+
+  <!- UNDER THE BOOK -!>
+       <tr valign='top' height='35'>
+        <td>
+         <img src='https://data2.proshkolu.ru/img/empty.gif' border='0' height='5'><br>
+         <table border=0><tr><td width='15'>&nbsp;</td><td>
+          <span style='font-size:13px'>Copyright &copy; <a href='http://www.proshkolu.ru/'>��������.��</a>
+2007-2021. ��� ����� ��������. &nbsp;
+</span>
+          <span style='menubottom'>           <a class='menubottom' href='info/about/'>� �������</a> |
+           <a class='menubottom' href='adv/'>�������</a> |
+           <a class='menubottom' href='info/stat/'>����������</a> |
+           <a class='menubottom' href='info/contacts/'>��������</a> |
+           <a class='menubottom' href='&translate=yes'>Translate</a>
+
+
+</span><br>
+          <span style='font-size:11px'>������������� ���������� ������� ������� ��������� ������ � ����������� ���������� ������������� �����.<br></span>
+          
+
+         </td></tr></table>
+        </td>
+       </tr>
+      </table>
+     </td>
+
+    </tr>
+
+   </table>
+  </td>
+ </tr>
+
+ <a name='footer'></a>
+
+ <tr height=55 valign='top'><td>
+<table border=0 cellpadding=0 cellspacing=0 width=100% height=50>
+<tr valign=middle>
+<td width=3><img src='https://data2.proshkolu.ru/img/empty.gif' border=0><br></td>
+<td width=245> <!-- <iframe src="http://dhsweb.ru/prog/10" frameborder="0" width="245" height="50"></iframe> --> <a target='_blank' href='click3/1005/1252/' title='http://www.roscomsport.com/'><img src='content/p3/httpwww.roscomsport.-sp-131254.jpg' border=0 width='245' height='50' alt='http://www.roscomsport.com/'><br></a>
+</td>
+<td><img src='https://data2.proshkolu.ru/img/empty.gif' border=0><br></td>
+<td width=245><a target='_blank' href='click3/1006/1316/' title='https://proshkolu.ru/user/robot/blog/568472/'><img src='content/p3/httpsproshkolu.ruuse-245-50--sborka-075438.gif' border=0 width='245' height='50' alt='https://proshkolu.ru/user/robot/blog/568472/'><br></a>
+</td>
+<td><img src='https://data2.proshkolu.ru/img/empty.gif' border=0><br></td>
+<td width=245><a target='_blank' href='click3/1007/1084/' title='https://roscomsport.com/'><img src='content/p3/vsya_meditsina_rossi-vsya-meditsina--080942.jpg' border=0 width='245' height='50' alt='https://roscomsport.com/'><br></a>
+</td>
+<td><img src='https://data2.proshkolu.ru/img/empty.gif' border=0><br></td>
+<td width=245><a target='_blank' href='click3/1008/1084/' title='https://roscomsport.com/'><img src='content/p3/vsya_meditsina_rossi-vsya-meditsina--080942.jpg' border=0 width='245' height='50' alt='https://roscomsport.com/'><br></a>
+</td>
+<td><img src='https://data2.proshkolu.ru/img/empty.gif' border=0><br></td>
+</tr></table>
+</td></tr>
+
+
+ 
+ <tr valign='top' height='80'><td><img src='https://data2.proshkolu.ru/img/ps2/bottom.jpg' border=0><br></td></tr>
+</table>
+</center>
+</body>
+<script>function jsInit() {} </script></html>
+
+
+

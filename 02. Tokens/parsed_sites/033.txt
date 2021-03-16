@@ -1,0 +1,407 @@
+<!DOCTYPE html>
+<html lang="ru" class="no-js"><head>
+  <!-- base -->
+  <base href="http://38mama.ru" />
+
+  <!--[if IE]><![endif]-->
+  
+  <!-- icons/rss -->
+  <link rel="shortcut icon" type="image/x-icon" href="http://38mama.ru/favicon.ico" />
+  <link rel="apple-touch-icon-precomposed" href="http://38mama.ru/apple-touch-icon-precomposed.png" />
+  <link rel="apple-touch-icon" href="http://38mama.ru/apple-touch-icon-precomposed.png" />
+
+  <!--[if lt IE 8]>
+  <link href="/assets/4fc49c07/css/style_ie.css" type="text/css" rel="stylesheet" media="screen, projection" />
+  <![endif]-->
+  <!--[if gte IE 9]>
+  <style type="text/css">
+    .gradient {filter: none; }
+  </style>
+  <![endif]-->
+
+  <link rel="stylesheet" type="text/css" href="/assets/4fc49c07/css/styles.css" media="screen, projection" />
+<link rel="stylesheet" type="text/css" href="/assets/4fc49c07/css/handheld.css" media="handheld" />
+<script type="text/javascript" src="/assets/5943e940/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="/assets/5943e940/modernizr.custom.86283.js"></script>
+<title>Главная | ПАПА+МАМА = сайт для родителей Иркутска и области</title>
+      <script type="text/javascript">
+     var _gaq = _gaq || []; _gaq.push(['_setAccount', 'UA-13051304-1']); _gaq.push(['_addOrganic', 'images.yandex.ru', 'q', true]); _gaq.push(['_addOrganic', 'blogsearch.google.ru', 'q', true]); _gaq.push(['_addOrganic', 'blogs.yandex.ru', 'text', true]); _gaq.push(['_addOrganic', 'go.mail.ru', 'q']); _gaq.push(['_addOrganic', 'nova.rambler.ru', 'query']); _gaq.push(['_addOrganic', 'nigma.ru', 's']); _gaq.push(['_addOrganic', 'webalta.ru', 'q']); _gaq.push(['_addOrganic', 'aport.ru', 'r']); _gaq.push(['_addOrganic', 'poisk.ru', 'text']); _gaq.push(['_addOrganic', 'km.ru', 'sq']); _gaq.push(['_addOrganic', 'liveinternet.ru', 'ask']); _gaq.push(['_addOrganic', 'quintura.ru', 'request']); _gaq.push(['_addOrganic', 'search.qip.ru', 'query']); _gaq.push(['_addOrganic', 'gde.ru', 'keywords']); _gaq.push(['_addOrganic', 'gogo.ru', 'q']); _gaq.push(['_addOrganic', 'ru.yahoo.com', 'p']); _gaq.push(['_trackPageview']);
+    
+     (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+    </script>
+  </head>
+
+<!--[if lt IE 7 ]> <body class="ie6"> <![endif]-->
+<!--[if IE 7 ]>    <body class="ie7"> <![endif]-->
+<!--[if IE 8 ]>    <body class="ie8"> <![endif]-->
+<!--[if IE 9 ]>    <body class="ie9"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <body> <!--<![endif]-->
+  <script type="text/javascript">(function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter22302091 = new Ya.Metrika({id:22302091, webvisor:true, clickmap:true, trackLinks:true, accurateTrackBounce:true}); } catch(e) { } }); var n = d.getElementsByTagName("script")[0], s = d.createElement("script"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = "text/javascript"; s.async = true; s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js"; if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); } })(document, window, "yandex_metrika_callbacks");</script><noscript><div><img src="//mc.yandex.ru/watch/22302091" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+  <div class="page header" id="pageHeader">
+    <div class="sitelogo"><a href="/" title="ПАПА+МАМА = сайт для родителей Иркутска и области">&nbsp;</a></div>
+    <h1 class="sitename">38mama.ru: ПАПА+МАМА = сайт для родителей Иркутска и области</h1><div class="login" style="float: right; position: relative; bottom: 25px;">
+          <span style="color: #777"><a href="/forum/?action=login">Войти</a> | <a href="/forum/?action=register">Зарегистрироваться</a></span>
+        </div>
+    <div class="headmenu">
+      <ul id="sitesmenu">
+        <li><a id="forumimg" href="/forum/" target="_blank" title="Форумы ПАПА+МАМА">ПАПА+МАМА= форум для родителей</a></li>
+        <li><a id="spimg" href="http://sp38.ru/" target="_blank" title="Союз покупателей: совместные покупки в Иркутске на «ПАПА+МАМА»">Союз покупателей: совместные покупки в Иркутске на «ПАПА+МАМА»</a></li>
+        <li><a id="spravimg" href="/spravochnik/" title="Справочник для родителей Иркутска">Справочник для родителей Иркутска</a></li>
+      </ul>
+
+
+		<ul id="mainmenu">
+<li><a class="fl" href="/blog/">Мамин блог</a>
+          <div class="inner"><b>Статьи, новости, объявления…</b> … а также самое интересное и популярное из личных дневников наших мам и не только</div></li>
+<li><a class="fl" href="/gallery/">Фото-галереи</a>
+          <div class="inner">Фотоальбомы официальных событий и встреч форумчан</div></li>
+<li><a class="fl" href="/forum/?board=73">Конкурсы!</a>
+          <div class="inner"><b>Участвуйте в конкурсах, которые ргулярно проводятся на 38mama.ru…</b> … и получайте ценные призы от наших спонсоров!</div></li>
+<li><a class="fl" href="/forum/?board=89">Фото-альбомы</a>
+          <div class="inner"><b>Фото-альбомы форумчан</b> Посиделки, совместные прогулки и встречи, фотографии наших деточек и не только!</div></li>
+</ul>
+
+    </div> <!-- //headmenu -->
+  </div> <!-- //header -->
+
+  <div class="page">
+    <div class="pageRLA"><div class="pageRLB"><div class="pageRLC">
+      <div class="pageLRA"><div class="pageLRB"><div class="pageLRC">
+        <div class="content">
+
+	
+
+  <div class="contentblock">
+    <div class="sideheader"><h2>Новости, события, мероприятия</h2></div>
+
+    <div class="column-item" id="item0">
+
+              <div class="itemtitle">
+                <a href="/blog/novosti-sobitiya-meropriyatiya/kinomarafon-k-8-marta-v-kinoteatre-dom-kino.html">
+                  <img src="/images/uploads/20210301/logokinofond-235355-user.2.tn-520x340.tn-100x100.jpeg" alt="Киномарафон к 8 марта в кинотеатре "Дом Кино"" />
+                  <h3>Киномарафон к 8 марта в кинотеатре "Дом Кино" 
+                    <span class="itdate">01.03.2021</span></h3>
+                </a>
+              </div>
+              <div class="itemtext">
+                Иркутский областной кинофонд приглашает на праздничный киномарафон в честь Международного женского дня
+              </div>
+              <br class="clear" /></div>    <div class="column-item" id="item1">
+
+              <div class="itemtitle">
+                <a href="/blog/novosti-sobitiya-meropriyatiya/avtorskaya-vistavka-nadezhdi-uldanovoy-otkroetsya-v-otdele-prirodi.html">
+                  <img src="/images/uploads/20210224/загруженное-155111-user.2.cr-145.0.255.110.110.110.tn-100x100.jpeg" alt="Авторская выставка Надежды Ульдановой откроется в отделе природы" />
+                  <h3>Авторская выставка Надежды Ульдановой откроется в отделе природы 
+                    <span class="itdate">24.02.2021</span></h3>
+                </a>
+              </div>
+              <div class="itemtext">
+                В отделе природы Иркутского областного краеведческого музея с 26 февраля начнет работать выставка авторских работ Надежды Ульдановой.
+              </div>
+              <br class="clear" /></div> <br class="clear" />    <div class="column-item" id="item2">
+
+              <div class="itemtitle">
+                <a href="/blog/novosti-sobitiya-meropriyatiya/irkutskiy-oblastnoy-kinofond-priglashaet-na-premeru-filma-pugalo.html">
+                  <img src="/images/uploads/20210224/logokinofond-140538-user.2.tn-520x340.tn-100x100.jpeg" alt="Иркутский областной кинофонд приглашает на премьеру фильма «Пугало»" />
+                  <h3>Иркутский областной кинофонд приглашает на премьеру фильма «Пугало» 
+                    <span class="itdate">24.02.2021</span></h3>
+                </a>
+              </div>
+              <div class="itemtext">
+                25 февраля в кинотеатре «Дом Кино» состоятся премьерные показы якутской мистической драмы «Пугало» режиссера Дмитрия Давыдова. Сеансы пройдут на языке оригинала с русскими субтитрами.
+              </div>
+              <br class="clear" /></div>    <div class="column-item" id="item3">
+
+              <div class="itemtitle">
+                <a href="/blog/novosti-sobitiya-meropriyatiya/den-otkritih-dverey-dlya-veteranov-velikoy-otechestvennoy-voyni-i-tila-voinov-internatsionalistov-v-otdele-istorii.html">
+                  <img src="/images/uploads/20210219/загруженное-140603-user.2.cr-145.2.255.112.110.110.tn-100x100.jpeg" alt="День открытых дверей для ветеранов Великой Отечественной войны и тыла, воинов-интернационалистов в отделе истории" />
+                  <h3>День открытых дверей для ветеранов Великой Отечественной войны и тыла, воинов-интернационалистов в отделе истории 
+                    <span class="itdate">19.02.2021</span></h3>
+                </a>
+              </div>
+              <div class="itemtext">
+                Отдел истории Иркутского областного краеведческого музея приглашает 23 февраля на День открытых дверей ветеранов Великой Отечественной войны и тыла, воинов-интернационалистов.
+              </div>
+              <br class="clear" /></div> <br class="clear" />    <div class="column-item" id="item4">
+
+              <div class="itemtitle">
+                <a href="/blog/novosti-sobitiya-meropriyatiya/18-fevralya-2021-goda-sostoitsya-onlayn-pokaz-dokumentalnogo-filma-eda-po--sovetski-ili-poest-v-sssr.html">
+                  <img src="/images/uploads/20210219/logokinofond-135534-user.2.tn-520x340.tn-100x100.jpeg" alt="18 февраля 2021 года состоится онлайн-показ документального фильма «Еда по- советски или поесть в СССР…»" />
+                  <h3>18 февраля 2021 года состоится онлайн-показ документального фильма «Еда по- советски или поесть в СССР…» 
+                    <span class="itdate">19.02.2021</span></h3>
+                </a>
+              </div>
+              <div class="itemtext">
+                18 февраля состоится большой онлайн показ и обсуждение, организованное Российской Гильдией неигрового кино и телевидения. Фильм представит автор сценария и режиссер Борис Караджев. После просмотра он пообщается со зрителями в зуме и расскажет о создании фильма.
+              </div>
+              <br class="clear" /></div>    <div class="column-item" id="item5">
+
+              <div class="itemtitle">
+                <a href="/blog/novosti-sobitiya-meropriyatiya/film-zdes-zhivet-muzika---na-kinofestivale-v-bristole.html">
+                  <img src="/images/uploads/20210219/logokinofond-134901-user.2.tn-520x340.tn-100x100.jpeg" alt="Фильм «Здесь живет музыка» - на кинофестивале в Бристоле" />
+                  <h3>Фильм «Здесь живет музыка» - на кинофестивале в Бристоле 
+                    <span class="itdate">19.02.2021</span></h3>
+                </a>
+              </div>
+              <div class="itemtext">
+                Документальная лента Иркутского областного кинофонда «Здесь живет музыка» режиссера Полины Степановой вошла в конкурсную программу фестиваля независимого кино в Бристоле (Англия).
+              </div>
+              <br class="clear" /></div> <br class="clear" />    <div class="column-item" id="item6">
+
+              <div class="itemtitle">
+                <a href="/blog/novosti-sobitiya-meropriyatiya/vserossiyskaya-perepis-naseleniya-proydet-v-sentyabre.html">
+                  <img src="/images/uploads/20210209/perepis4501-204256-user.2.tn-100x100.jpeg" alt="Всероссийская перепись населения пройдет в сентябре" />
+                  <h3>Всероссийская перепись населения пройдет в сентябре 
+                    <span class="itdate">09.02.2021</span></h3>
+                </a>
+              </div>
+              <div class="itemtext">
+                Всероссийская перепись населения пройдет в сентябре 2021 года. Решение о переносе сроков приняло Правительство РФ.
+              </div>
+              <br class="clear" /></div>    <div class="column-item" id="item7">
+
+              <div class="itemtitle">
+                <a href="/blog/novosti-sobitiya-meropriyatiya/kraevedcheskiy-muzey-priglashaet-na-meropriyatiya-posvyaschennie-prazdnovaniyu-novogo-goda-po-vostochnomu-kalendaryu.html">
+                  <img src="/images/uploads/20210205/загруженное-161426-user.2.cr-146.2.256.112.110.110.tn-100x100.jpeg" alt="Краеведческий музей приглашает на мероприятия, посвященные празднованию Нового года по восточному календарю" />
+                  <h3>Краеведческий музей приглашает на мероприятия, посвященные празднованию Нового года по восточному календарю 
+                    <span class="itdate">05.02.2021</span></h3>
+                </a>
+              </div>
+              <div class="itemtext">
+                12 и 14 февраля: Мастер-класс по изготовлению национальной сумочки-оберега.
+              </div>
+              <br class="clear" /></div> <br class="clear" />    <div class="column-item" id="item8">
+
+              <div class="itemtitle">
+                <a href="/blog/novosti-sobitiya-meropriyatiya/detskie-palatochnie-lagerya-v-svyazi-s-COVID-19-ne-budut-rabotat-etim-letom-v-irkutskoy-oblasti.html">
+                  <img src="/images/uploads/20210204/otdyh-115455-user.2.tn-100x100.jpeg" alt="Детские палаточные лагеря в связи с COVID-19 не будут работать этим летом в Иркутской области" />
+                  <h3>Детские палаточные лагеря в связи с COVID-19 не будут работать этим летом в Иркутской области 
+                    <span class="itdate">04.02.2021</span></h3>
+                </a>
+              </div>
+              <div class="itemtext">
+                В соответствии с решением Роспотребнадзора России на текущий год в стране приостановлена деятельность всех палаточных лагерей. Иркутская область не исключение. В связи с этим из действующих в регионе 53 контрактов подлежат расторжению 10.
+              </div>
+              <br class="clear" /></div>    <div class="column-item" id="item9">
+
+              <div class="itemtitle">
+                <a href="/blog/novosti-sobitiya-meropriyatiya/nachalsya-priem-rabot-na-vserossiyskiy-literaturniy-konkurs-geroi-velikoy-pobedi.html">
+                  <img src="/images/uploads/20210204/konkurs17-115154-user.2.tn-100x100.jpeg" alt="Начался прием работ на Всероссийский литературный конкурс «Герои Великой Победы»" />
+                  <h3>Начался прием работ на Всероссийский литературный конкурс «Герои Великой Победы» 
+                    <span class="itdate">04.02.2021</span></h3>
+                </a>
+              </div>
+              <div class="itemtext">
+                Конкурс проводится ежегодно, в этом году пройдет седьмой раз. Министерством обороны РФ будут отмечены работы о популяризации достижений и успехов Вооруженных Сил в боевой учебе, внедрении и освоении новой военной техники, рассказы о лучших военнослужащих России.
+              </div>
+              <br class="clear" /></div> <br class="clear" />    
+  </div>
+
+
+
+
+
+
+
+        </div> <!-- /content -->
+      </div></div></div> <!-- /pageLRC /pageLRB /pageLRA -->
+
+      <div class="pageLLA"><div class="pageLLB"> <!-- левая колонка -->
+      <div class="baloon bgreen sidemenu" id="baloon_bgreen_sidemenu0">
+<div class="baloon_top">
+
+            <div class="baloon_bottom">
+                            
+               <ul>
+                                <li class="first"><a  id="forumlink" target="_blank" style="color:#ff6600!important" href="/forum/">ПАПА+МАМА=Форум
+                  <p class="smalltitle">для родителей Иркутска</p></a></li>
+                                <li><a id="splink" target="_blank" style="color: #ff6600;" href="http://sp.38mama.ru/">Союз покупателей:
+                  <p class="smalltitle">совместные покупки в Иркутске</p></a></li>
+                               </ul>
+              
+            </div>
+</div>
+</div><div class="baloon bgreen sidemenu" id="baloon_bgreen_sidemenu1">
+<div class="baloon_top">
+
+            <div class="baloon_bottom">
+              <h2>Справка:</h2>              
+               <ul>
+                                <li><a target="_blank" href="/forum/?topic=171283">Обмен детскими садами в Иркутске
+                  <p class="smalltitle">ищем варианты!</p></a></li>
+                                <li><a  href="/blog/novosti-sobitiya-meropriyatiya/uznat-ob-ocheredi-v-detskiy-sad-teper-mozhno-cherez-internet.html">Как поставить ребёнка в очередь в детский сад
+                  <p class="smalltitle">и посмотреть очередь в детский сад Иркутска через интернет</p></a></li>
+                               </ul>
+              
+            </div>
+</div>
+</div><div class="baloon blue sidemenu" id="baloon_blue_sidemenu2">
+<div class="baloon_top">
+
+            <div class="baloon_bottom">
+              <h2>Наши проекты</h2>              
+               <ul>
+                                <li><a  href="/quest/">Questomania38!
+                  <p class="smalltitle">Увлекательные квесты в реале.
+Играйте с нами!</p></a></li>
+                                <li><a  href="/carnival2011/">Карнавал 2011
+                  <p class="smalltitle">ПАПА+МАМА= на карнавале в честь 350-летия Иркутска</p></a></li>
+                                <li><a  href="/irkutskmotherday2011/">День Матери 2011
+                  <p class="smalltitle">ПАПА+МАМА= на праздновании Дня Матери</p></a></li>
+                                <li><a  href="/ice-carousel2012/">Ледовая карусель 2011-2012
+                  <p class="smalltitle">Встаём на коньки всей семьёй и всем форумом!</p></a></li>
+                                <li><a  href="/QandA/board/moy-doctor">Проект «Мой доктор»
+                  <p class="smalltitle">Совместно с минздравом</p></a></li>
+                                <li><a  href="/forum/?msg=6469995">Карнавал 2012
+                  <p class="smalltitle">ПАПА+МАМА= на карнавале «Шагаем вместе!» 2 июня 2012</p></a></li>
+                               </ul>
+              
+            </div>
+</div>
+</div><div class="baloon ad" style="background-image: url('/images/contest-winners/c2140072cd50.jpg');" id="baloon_ad3">
+<div class="baloon_top">
+
+            <div class="baloon_bottom">
+               <div class="img"><a class="blocklink greetl" href="http://38mama.ru/forum/index.php?topic=171486"><span class="caption">Победитель конкурса «Воздух, солнце и вода», ЯмайкА (Лена)</span></a></div>            </div></div>
+</div>      </div></div> <!-- /pageLLA /pageLLB -->
+
+    </div></div></div> <!-- /pageRLC /pageRLB /pageRLA -->
+
+    <div class="pageRRA"><div class="pageRRB"> <!-- правая колонка -->
+      <div id="search" class="baloon sidemenu">
+<div class="baloon_top">
+
+            <div class="baloon_bottom">
+              
+        <form method="post" action="search-results.html" id="sisea-search-form">
+          <input type="search" name="search" id="sisea-search-input"><button type="submit" id="sisea-search-submit" title="Найти!"></button>
+        </form>
+              
+               <ul>
+                               </ul>
+              
+            </div>
+</div>
+</div><div class="baloon ad" style="background-image: url('/images/contest-winners/9ee090b5d2ff.jpg');" id="baloon_ad6">
+<div class="baloon_top">
+
+            <div class="baloon_bottom">
+               <div class="img"><a class="blocklink greetr" href="http://38mama.ru/forum/index.php?topic=171486"><span class="caption">Победитель конкурса «Воздух, солнце и вода», cvetlachok (Светлана) </span></a></div>            </div></div>
+</div><div class="baloon borange sidemenu" id="baloon_borange_sidemenu7">
+<div class="baloon_top">
+
+            <div class="baloon_bottom">
+              <h2>Интересное на форуме</h2>              
+               <ul>
+                                <li><a target="_blank" href="/forum/index.php?board=18">Красота и Здоровье</a></li>
+                                <li><a target="_blank" href="/forum/index.php?board=227">Своими руками!</a></li>
+                                <li><a target="_blank" href="/forum/index.php?board=24">Тайная комната</a></li>
+                                <li><a target="_blank" href="/forum/index.php?board=73">Наши конкурсы</a></li>
+                                <li><a target="_blank" href="/forum/index.php?board=177">Скидки, рекламные акции для форумчан</a></li>
+                                <li><a target="_blank" href="/forum/index.php?board=28">Техподдержка</a></li>
+                               </ul>
+              
+            </div>
+</div>
+</div><div class="baloon bgreen sidemenu" id="baloon_bgreen_sidemenu8">
+<div class="baloon_top">
+
+            <div class="baloon_bottom">
+              <h2>Самое полезное!</h2>              
+               <ul>
+                                <li><a rel="external,nofolow" target="_blank" href="http://www.google.ru/">Google: поѓугли это</a></li>
+                                <li><a rel="external,nofolow" target="_blank" href="http://www.yandex.ru/">Яндекс: найдётся всё</a></li>
+                                <li><a rel="external,nofolow" target="_blank" href="http://ru.wikipedia.com/">Wikipedia: свободная энциклопедия</a></li>
+                                <li><a rel="external,nofolow" target="_blank" href="http://gramota.ru/">Грамота.ру: портал</a></li>
+                                <li><a rel="external,nofolow" target="_blank" href="http://tsya.ru/">«-тся» или «-ться»?</a></li>
+                                <li><a rel="external,nofolow" target="_blank" href="http://udarenie.info/">Ударения в словах</a></li>
+                                <li><a rel="external,nofolow" target="_blank" href="http://therules.ru/">Правила русского языка</a></li>
+                               </ul>
+              
+            </div>
+</div>
+</div><div class="baloon ad" style="background-image: url('/images/contest-winners/4c72ab6d13e8.jpg');" id="baloon_ad9">
+<div class="baloon_top">
+
+            <div class="baloon_bottom">
+               <div class="img"><a class="blocklink greetr" href="http://38mama.ru/forum/index.php?topic=171486"><span class="caption">Победитель конкурса «Воздух, солнце и вода», Чародейка (Аня)</span></a></div>            </div></div>
+</div>
+    </div></div>
+    <div class="clear"></div>
+  </div> <!-- <div class="page"> -->
+
+	<div class="clear"></div>
+
+
+
+<div class="page">
+    <ul class="ourfamily">
+      <li id="couple"></li><li id="pregnancy"></li><li id="birth"></li><li id="baby"></li><li id="parenting"></li><li id="education"></li><li id="children"></li><li id="game"></li><li id="entertainments"></li>
+    </ul>
+</div>
+
+
+
+  <div class="footer smalltext">
+    <div id="cnt">
+
+<script type="text/javascript"><!--
+new Image().src = "//counter.yadro.ru/hit?r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";h"+escape(document.title.substring(0,80))+
+";"+Math.random();//--></script>
+<img src="http://de.c6.b5.a1.top.mail.ru/counter?id=1404446"
+
+border="0" height="1" width="1" alt="Рейтинг@Mail.ru" />
+
+<a href="http://www.liveinternet.ru/click" target="_blank"><img src="//counter.yadro.ru/logo?14.15" title="LiveInternet: показано число просмотров за 24 часа, посетителей за 24 часа и за сегодня" alt="" border="0" width="88" height="31"/></a>
+
+<a target="_top" href="http://top.mail.ru/jump?from=1404446">
+<img src="http://de.c6.b5.a1.top.mail.ru/counter?id=1404446;t=53;l=1"
+
+border="0" height="31" width="88" alt="Рейтинг@Mail.ru" /></a>
+
+<a href="http://www.reklamno.ru"><img src="http://www.reklamno.ru/Logo_reklamno.gif" alt="Справочник рекламы Иркутска"></a>
+
+<script type="text/javascript">
+var userid = 7931;
+var fix = '';
+var rndnum = Math.round(Math.random() * 999111);
+document.write('<s' + 'cript language="JavaScript" src="http://index.babr.ru/i.php?userID='
+ + userid + '&nocache=' + rndnum + '&fix=' + fix  +'&ref='
+ + escape(document.referrer) + '" ><'+'/sc'+'ript'+'>');
+</script>
+
+    </div>
+    38mama.ru Все права на материалы, размещенные на сайте, защищены законодательством об авторском праве и смежных правах и не могут быть воспроизведены или каким либо образом использованы без письменного разрешения правообладателя и проставления активной ссылки на главную страницу <a href="/">38mama.ru</a> рядом с использованными материалами.
+    За содержание рекламных материалов,сообщений, публикуемых в форумах, на доске объявлений, в отзывах и комментариях к материалам администрация ответственности не несёт.
+
+    <p class="stat">&copy; 38mama.ru 2007-2013 &nbsp;-&nbsp;  <a href="/forum/?action=rules;sa=agreement">Соглашение пользователя</a> | <a href="/forum/?action=rules">Правила сервиса</a> | <b>По вопросам рекламы обращаться по тел: 8 (3952) 40-11-09</b>
+
+    <span class="copy">Powered by <a title="Yii Framework home" href="http://www.yiiframework.com">Yii Framework</a> Tuned by mama38.ru |
+MySQL: 0.00076 c., запросов: 5, PHP: 0.10582 с., Память: 10.66 MB</span></p>
+  </div>
+
+
+
+  <!--[if lt IE 7 ]>
+    <script>!window.jQuery && document.write('<script src="/assets/4fc49c07/js/jquery-1.6.2.min.js"><\/script>')</script>
+    <script type="text/javascript" src="/assets/4fc49c07/js/jquery.pngFix.pack.js"></script>
+    <script type="text/javascript">
+      $(document).ready(function(){
+		$(document).pngFix();
+	});
+    </script>
+  <![endif]-->
+  <!--[if lt IE 8]>
+    <script type="text/javascript" src="/assets/4fc49c07/js/jquery.pseudo.js"></script>
+  <![endif]-->
+
+<script type="text/javascript" src="/assets/4fc49c07/js/interface.js"></script>
+</body></html>

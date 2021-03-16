@@ -1,0 +1,811 @@
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=0.3">
+<meta name="yandex-verification" content="2fe6dc21c78f34f8" />
+<!--6D9998B15A126218C74D67C99BB8A19C-->
+<title>Школьные сочинения</title>
+<meta name="description" content="Школьные сочинения по произведениям писателей и картинам художников, а также на другие темы среднего образования.">
+
+<link type="text/css" rel="stylesheet" href="/_st/my.css" />
+
+	<link rel="stylesheet" href="/.s/src/base.min.css" />
+	<link rel="stylesheet" href="/.s/src/layer7.min.css" />
+
+	<script src="/.s/src/jquery-1.12.4.min.js"></script>
+	
+	<script src="/.s/src/uwnd.min.js"></script>
+<script type="text/javascript">/* --- UCOZ-JS-INIT_CODE --- */
+	window.ulb = {photoPage:"Перейти на страницу с фотографией.", closeBtn:"Закрыть", error:"Запрошенный контент не может быть загружен. Пожалуйста, попробуйте позже.", next:"Следующий", prev:"Предыдущий", btnPlay:"Начать слайдшоу", btnToggle:"Изменить размер", };
+/* --- UCOZ-JS-END --- */</script>
+
+	<link rel="stylesheet" href="/.s/src/ulightbox/ulightbox.min.css" />
+	<script src="/.s/src/ulightbox/ulightbox.min.js"></script>
+	<script type="text/javascript">
+/* --- UCOZ-JS-DATA --- */
+window.uCoz = {"ssid":"122750667611464071043","language":"ru"};
+</script>
+
+	<style type="text/css">.UhideBlock{display:none; }
+</style>
+	<script type="text/javascript">new Image().src = "//counter.yadro.ru/hit;noadsru?r"+escape(document.referrer)+(screen&&";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth||screen.pixelDepth))+";u"+escape(document.URL)+";"+Date.now();</script>
+<script type="text/javascript">//<!--
+	function uSocialLogin(t) {
+		var params = { 'vkontakte':{ 'width':790, 'height':400 }, 'facebook':{ 'width':950, 'height':520 }, 'yandex':{ 'width':870, 'height':515 }, 'google':{ 'width':700, 'height':600 }, 'ok':{ 'width':710, 'height':390 } };
+		var ref = escape(location.protocol + '//' + ('sochinenie.my1.ru' || location.hostname) + location.pathname + ((location.hash ? ( location.search ? location.search + '&' : '?' ) + 'rnd=' + Date.now() + location.hash : ( location.search || '' ))));
+		// var ref = escape(location.href);
+		window.open('/'+t+'?ref='+ref,'conwin','width='+params[t].width+',height='+params[t].height+',status=1,resizable=1,left='+parseInt((screen.availWidth/2)-(params[t].width/2))+',top='+parseInt((screen.availHeight/2)-(params[t].height/2)-20)+'screenX='+parseInt((screen.availWidth/2)-(params[t].width/2))+',screenY='+parseInt((screen.availHeight/2)-(params[t].height/2)-20));
+		return false;
+	}
+//--></script>
+
+<link type="text/css" rel="stylesheet" href="/.s/src/social.css" />
+</head>
+
+<body>
+<div id="utbr8214" rel="s86"></div>
+<div id="contanier">
+<table cellpadding="0" cellspacing="0" border="0" width="1000" align="center">
+ <tr>
+ <td width="49" valign="top"><img src="/.s/t/908/1.gif" border="0"></td>
+ <td width="302" valign="top" style="background:url('/.s/t/908/2.gif') repeat-y;">
+ <table cellpadding="0" cellspacing="0" border="0" width="302">
+ <tr><td id="dataBar">Понедельник<br>01.03.2021<br>22:47</td></tr>
+ <tr>
+<!-- <sblock_menu> -->
+ <td id="menuBlock"><!-- <bc> --><table border="0" cellspacing="1" cellpadding="0" width="100%" class="catsTable"><tr><td style="width:100%" class="catsTd" valign="top" id="cid1"><a href="/publ/1_j_klass/1" class="catName">?-й класс</a></td></tr><tr><td style="width:100%" class="catsTd" valign="top" id="cid2"><a href="/publ/2_j_klass/2" class="catName">2-й класс</a></td></tr><tr><td style="width:100%" class="catsTd" valign="top" id="cid3"><a href="/publ/3_j_klass/3" class="catName">3-й класс</a></td></tr><tr><td style="width:100%" class="catsTd" valign="top" id="cid4"><a href="/publ/4_j_klass/4" class="catName">4-й класс</a></td></tr><tr><td style="width:100%" class="catsTd" valign="top" id="cid5"><a href="/publ/5_j_klass/5" class="catName">5-й класс</a></td></tr><tr><td style="width:100%" class="catsTd" valign="top" id="cid6"><a href="/publ/6_j_klass/6" class="catName">6-й класс</a></td></tr><tr><td style="width:100%" class="catsTd" valign="top" id="cid7"><a href="/publ/7_j_klass/7" class="catName">7-й класс</a></td></tr><tr><td style="width:100%" class="catsTd" valign="top" id="cid8"><a href="/publ/8_j_klass/8" class="catName">8-й класс</a></td></tr><tr><td style="width:100%" class="catsTd" valign="top" id="cid9"><a href="/publ/9_j_klass/9" class="catName">9-й класс</a></td></tr><tr><td style="width:100%" class="catsTd" valign="top" id="cid10"><a href="/publ/10_j_klass/10" class="catName">10-й класс</a></td></tr><tr><td style="width:100%" class="catsTd" valign="top" id="cid11"><a href="/publ/11_j_klass/11" class="catName">11-й класс</a></td></tr><tr><td style="width:100%" class="catsTd" valign="top" id="cid12"><a href="/publ/referaty/12" class="catName">Рефераты</a></td></tr></table><!-- </bc> --></td>
+<!-- </sblock_menu> -->
+ </tr>
+ <tr>
+ <td valign="top">
+ <!--U1CLEFTER1Z--><!-- <block1> -->
+
+<!-- </block1> -->
+
+<!-- <block2> -->
+
+<!-- </block2> -->
+
+<!-- <block3> -->
+
+<!-- </block3> -->
+
+<!-- <block7> -->
+
+<!-- </block7> -->
+
+<!-- <block8> -->
+
+<!-- </block8> -->
+
+<!-- <block9> -->
+
+<!-- </block9> -->
+
+<!-- <block11> -->
+
+<!-- </block11> -->
+
+<!-- <block14> -->
+<table border="0" cellpadding="0" cellspacing="0" class="boxTable">
+<center><div class="blokreklama">
+<script type="text/javascript">
+ google_ad_client = "ca-pub-6931237608177106";
+ google_ad_slot = "3885359290";
+ google_ad_width = 300;
+ google_ad_height = 250;
+</script>
+<!-- Сочинения 300х250 -->
+<script type="text/javascript"
+src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div></center>
+
+<script> 
+ window.onload = function() { 
+ setTimeout(function() {
+ var ad = document.querySelector("div.blokreklama");
+ if (ad && (ad.innerHTML.indexOf('<ins') == -1)) {
+ ad.innerHTML = '<a rel="nofollow" href="//wmzona.com/gptr/signup.php#57715" target="_blank"><img src="/img/300x169.jpg"></a>';
+ }
+ }, 2000); 
+ }; 
+</script>
+</table>
+<!-- </block14> -->
+
+<!-- <block13> -->
+<table border="0" cellpadding="0" cellspacing="0" class="boxTable"><tr><td class="boxTitle"><b><!-- <bt> --><!--<s5441>-->Авторы<!--</s>--><!-- </bt> --></b></td></tr><tr><td class="boxContent"><!-- <bc> -->
+<div id="sortBox" style="max-height:400px;overflow:auto;"><noindex><div class="tagItem"><a href="/search/%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%20%D0%90.%D0%A1./" rel="nofollow" class="eTag eTagGr25">Пушкин А.С.</a> (149)</div><div class="tagItem"><a href="/search/%D0%93%D0%BE%D0%B3%D0%BE%D0%BB%D1%8C%20%D0%9D.%D0%92./" rel="nofollow" class="eTag eTagGr20">Гоголь Н.В.</a> (107)</div><div class="tagItem"><a href="/search/%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B9%20%D0%9B.%D0%9D./" rel="nofollow" class="eTag eTagGr15">Толстой Л.Н.</a> (62)</div><div class="tagItem"><a href="/search/%D0%9B%D0%B5%D1%80%D0%BC%D0%BE%D0%BD%D1%82%D0%BE%D0%B2%20%D0%9C.%D0%AE./" rel="nofollow" class="eTag eTagGr14">Лермонтов М.Ю.</a> (57)</div><div class="tagItem"><a href="/search/%D0%A1%D0%B0%D0%BB%D1%82%D1%8B%D0%BA%D0%BE%D0%B2-%D0%A9%D0%B5%D0%B4%D1%80%D0%B8%D0%BD%20%D0%9C.%D0%95./" rel="nofollow" class="eTag eTagGr14">Салтыков-Щедрин М.Е.</a> (55)</div><div class="tagItem"><a href="/search/%D0%94%D0%BE%D1%81%D1%82%D0%BE%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%A4.%D0%9C./" rel="nofollow" class="eTag eTagGr14">Достоевский Ф.М.</a> (51)</div><div class="tagItem"><a href="/search/%D0%9B%D0%B5%D0%B2%D0%B8%D1%82%D0%B0%D0%BD%20%D0%98.%D0%98./" rel="nofollow" class="eTag eTagGr14">Левитан И.И.</a> (49)</div><div class="tagItem"><a href="/search/%D0%A2%D1%83%D1%80%D0%B3%D0%B5%D0%BD%D0%B5%D0%B2%20%D0%98.%D0%A1./" rel="nofollow" class="eTag eTagGr14">Тургенев И.С.</a> (49)</div><div class="tagItem"><a href="/search/%D0%91%D1%83%D0%BB%D0%B3%D0%B0%D0%BA%D0%BE%D0%B2%20%D0%9C.%D0%90./" rel="nofollow" class="eTag eTagGr13">Булгаков М.А.</a> (45)</div><div class="tagItem"><a href="/search/%D0%A7%D0%B5%D1%85%D0%BE%D0%B2%20%D0%90.%D0%9F./" rel="nofollow" class="eTag eTagGr13">Чехов А.П.</a> (41)</div><div class="tagItem"><a href="/search/%D0%9E%D1%81%D1%82%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%90.%D0%9D./" rel="nofollow" class="eTag eTagGr12">Островский А.Н.</a> (38)</div><div class="tagItem"><a href="/search/%D0%93%D1%80%D0%B8%D0%B1%D0%BE%D0%B5%D0%B4%D0%BE%D0%B2%20%D0%90.%D0%A1./" rel="nofollow" class="eTag eTagGr12">Грибоедов А.С.</a> (34)</div><div class="tagItem"><a href="/search/%D0%9A%D1%83%D0%BF%D1%80%D0%B8%D0%BD%20%D0%90.%D0%98./" rel="nofollow" class="eTag eTagGr11">Куприн А.И.</a> (30)</div><div class="tagItem"><a href="/search/%D0%A8%D0%BE%D0%BB%D0%BE%D1%85%D0%BE%D0%B2%20%D0%9C.%D0%90./" rel="nofollow" class="eTag eTagGr11">Шолохов М.А.</a> (24)</div><div class="tagItem"><a href="/search/%D0%93%D0%BE%D0%BD%D1%87%D0%B0%D1%80%D0%BE%D0%B2%20%D0%98.%D0%90./" rel="nofollow" class="eTag eTagGr11">Гончаров И.А.</a> (23)</div><div class="tagItem"><a href="/search/%D0%93%D0%BE%D1%80%D1%8C%D0%BA%D0%B8%D0%B9%20%D0%90.%D0%9C./" rel="nofollow" class="eTag eTagGr10">Горький А.М.</a> (19)</div><div class="tagItem"><a href="/search/%D0%9F%D0%B5%D1%80%D0%BE%D0%B2%20%D0%92.%D0%93./" rel="nofollow" class="eTag eTagGr10">Перов В.Г.</a> (18)</div><div class="tagItem"><a href="/search/%D0%92%D0%B0%D1%81%D0%BD%D0%B5%D1%86%D0%BE%D0%B2%20%D0%92.%D0%9C./" rel="nofollow" class="eTag eTagGr10">Васнецов В.М.</a> (16)</div><div class="tagItem"><a href="/search/%D0%A4%D0%BE%D0%BD%D0%B2%D0%B8%D0%B7%D0%B8%D0%BD%20%D0%94.%D0%98./" rel="nofollow" class="eTag eTagGr10">Фонвизин Д.И.</a> (16)</div><div class="tagItem"><a href="/search/%D0%A8%D0%B8%D1%88%D0%BA%D0%B8%D0%BD%20%D0%98.%D0%98./" rel="nofollow" class="eTag eTagGr10">Шишкин И.И.</a> (16)</div><div class="tagItem"><a href="/search/%D0%91%D1%83%D0%BD%D0%B8%D0%BD%20%D0%98.%D0%90./" rel="nofollow" class="eTag eTagGr10">Бунин И.А.</a> (15)</div><div class="tagItem"><a href="/search/%D0%90%D0%B9%D0%B2%D0%B0%D0%B7%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%98.%D0%9A./" rel="nofollow" class="eTag eTagGr9">Айвазовский И.К.</a> (14)</div><div class="tagItem"><a href="/search/%D0%90%D0%BD%D0%B4%D0%B5%D1%80%D1%81%D0%B5%D0%BD%20%D0%93.%D0%A5./" rel="nofollow" class="eTag eTagGr9">Андерсен Г.Х.</a> (14)</div><div class="tagItem"><a href="/search/%D0%9D%D0%B5%D0%BA%D1%80%D0%B0%D1%81%D0%BE%D0%B2%20%D0%9D.%D0%90./" rel="nofollow" class="eTag eTagGr9">Некрасов Н.А.</a> (14)</div><div class="tagItem"><a href="/search/%D0%9A%D1%80%D1%8B%D0%BB%D0%BE%D0%B2%20%D0%98.%D0%90./" rel="nofollow" class="eTag eTagGr9">Крылов И.А.</a> (13)</div><div class="tagItem"><a href="/search/%D0%9C%D0%B0%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%92.%D0%95./" rel="nofollow" class="eTag eTagGr9">Маковский В.Е.</a> (13)</div><div class="tagItem"><a href="/search/%D0%9B%D0%B5%D1%81%D0%BA%D0%BE%D0%B2%20%D0%9D.%D0%A1./" rel="nofollow" class="eTag eTagGr9">Лесков Н.С.</a> (12)</div><div class="tagItem"><a href="/search/%D0%9F%D0%BB%D0%B0%D1%82%D0%BE%D0%BD%D0%BE%D0%B2%20%D0%90.%D0%9F./" rel="nofollow" class="eTag eTagGr9">Платонов А.П.</a> (12)</div><div class="tagItem"><a href="/search/%D0%A0%D0%B0%D1%81%D0%BF%D1%83%D1%82%D0%B8%D0%BD%20%D0%92.%D0%93./" rel="nofollow" class="eTag eTagGr9">Распутин В.Г.</a> (11)</div><div class="tagItem"><a href="/search/%D0%91%D0%B0%D0%BB%D1%8C%D0%B7%D0%B0%D0%BA%20%D0%9E./" rel="nofollow" class="eTag eTagGr9">Бальзак О.</a> (10)</div><div class="tagItem"><a href="/search/%D0%91%D0%B0%D1%82%D1%8E%D1%88%D0%BA%D0%BE%D0%B2%20%D0%9A.%D0%9D./" rel="nofollow" class="eTag eTagGr9">Батюшков К.Н.</a> (9)</div><div class="tagItem"><a href="/search/%D0%95%D1%81%D0%B5%D0%BD%D0%B8%D0%BD%20%D0%A1.%D0%90./" rel="nofollow" class="eTag eTagGr9">Есенин С.А.</a> (9)</div><div class="tagItem"><a href="/search/%D0%9A%D1%83%D1%81%D1%82%D0%BE%D0%B4%D0%B8%D0%B5%D0%B2%20%D0%91.%D0%9C./" rel="nofollow" class="eTag eTagGr9">Кустодиев Б.М.</a> (9)</div><div class="tagItem"><a href="/search/%D0%A0%D0%B5%D1%88%D0%B5%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D0%A4.%D0%9F./" rel="nofollow" class="eTag eTagGr9">Решетников Ф.П.</a> (9)</div><div class="tagItem"><a href="/search/%D0%A8%D0%B5%D0%BA%D1%81%D0%BF%D0%B8%D1%80%20%D0%A3./" rel="nofollow" class="eTag eTagGr9">Шекспир У.</a> (9)</div><div class="tagItem"><a href="/search/%D0%AD%D0%BA%D0%B7%D1%8E%D0%BF%D0%B5%D1%80%D0%B8%20%D0%90.%D0%A1./" rel="nofollow" class="eTag eTagGr9">Экзюпери А.С.</a> (9)</div><div class="tagItem"><a href="/search/%D0%91%D0%BB%D0%BE%D0%BA%20%D0%90.%D0%90./" rel="nofollow" class="eTag eTagGr9">Блок А.А.</a> (8)</div><div class="tagItem"><a href="/search/%D0%91%D1%80%D1%8E%D0%BB%D0%BB%D0%BE%D0%B2%20%D0%9A.%D0%9F./" rel="nofollow" class="eTag eTagGr9">Брюллов К.П.</a> (8)</div><div class="tagItem"><a href="/search/%D0%93%D1%80%D0%B8%D0%BD%20%D0%90.%D0%A1./" rel="nofollow" class="eTag eTagGr9">Грин А.С.</a> (8)</div><div class="tagItem"><a href="/search/%D0%9A%D0%B0%D1%80%D0%B0%D0%BC%D0%B7%D0%B8%D0%BD%20%D0%9D.%D0%9C./" rel="nofollow" class="eTag eTagGr9">Карамзин Н.М.</a> (8)</div><div class="tagItem"><a href="/search/%D0%9C%D0%B0%D1%8F%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%92.%D0%92./" rel="nofollow" class="eTag eTagGr9">Маяковский В.В.</a> (8)</div><div class="tagItem"><a href="/search/%D0%9D%D0%B5%D1%81%D1%82%D0%B5%D1%80%D0%BE%D0%B2%20%D0%9C.%D0%92./" rel="nofollow" class="eTag eTagGr9">Нестеров М.В.</a> (8)</div><div class="tagItem"><a href="/search/%D0%9F%D0%BB%D0%B0%D1%81%D1%82%D0%BE%D0%B2%20%D0%90.%D0%90./" rel="nofollow" class="eTag eTagGr9">Пластов А.А.</a> (8)</div><div class="tagItem"><a href="/search/%D0%A0%D0%B5%D0%BF%D0%B8%D0%BD%20%D0%98.%D0%95./" rel="nofollow" class="eTag eTagGr9">Репин И.Е.</a> (8)</div><div class="tagItem"><a href="/search/%D0%A1%D0%BE%D0%BB%D0%B6%D0%B5%D0%BD%D0%B8%D1%86%D1%8B%D0%BD%20%D0%90.%D0%98./" rel="nofollow" class="eTag eTagGr9">Солженицын А.И.</a> (8)</div><div class="tagItem"><a href="/search/%D0%90%D1%81%D1%82%D0%B0%D1%84%D1%8C%D0%B5%D0%B2%20%D0%92.%D0%9F./" rel="nofollow" class="eTag eTagGr9">Астафьев В.П.</a> (7)</div><div class="tagItem"><a href="/search/%D0%93%D0%B5%D1%80%D0%B0%D1%81%D0%B8%D0%BC%D0%BE%D0%B2%20%D0%90.%D0%9C./" rel="nofollow" class="eTag eTagGr9">Герасимов А.М.</a> (7)</div><div class="tagItem"><a href="/search/%D0%93%D1%80%D0%B0%D0%B1%D0%B0%D1%80%D1%8C%20%D0%98.%D0%AD./" rel="nofollow" class="eTag eTagGr9">Грабарь И.Э.</a> (7)</div><div class="tagItem"><a href="/search/%D0%9A%D0%BE%D1%80%D0%BE%D0%BB%D0%B5%D0%BD%D0%BA%D0%BE%20%D0%92.%D0%93./" rel="nofollow" class="eTag eTagGr9">Короленко В.Г.</a> (7)</div><div class="tagItem"><a href="/search/%D0%9A%D1%83%D0%B8%D0%BD%D0%B4%D0%B6%D0%B8%20%D0%90.%D0%98./" rel="nofollow" class="eTag eTagGr9">Куинджи А.И.</a> (7)</div><div class="tagItem"><a href="/search/%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B9%20%D0%90.%D0%9D./" rel="nofollow" class="eTag eTagGr9">Толстой А.Н.</a> (7)</div><div class="tagItem"><a href="/search/%D0%AE%D0%BE%D0%BD%20%D0%9A.%D0%A4./" rel="nofollow" class="eTag eTagGr9">Юон К.Ф.</a> (7)</div><div class="tagItem"><a href="/search/%D0%90%D1%85%D0%BC%D0%B0%D1%82%D0%BE%D0%B2%D0%B0%20%D0%90.%D0%90./" rel="nofollow" class="eTag eTagGr9">Ахматова А.А.</a> (6)</div><div class="tagItem"><a href="/search/%D0%9B%D0%BE%D0%BC%D0%BE%D0%BD%D0%BE%D1%81%D0%BE%D0%B2%20%D0%9C.%D0%92./" rel="nofollow" class="eTag eTagGr9">Ломоносов М.В.</a> (6)</div><div class="tagItem"><a href="/search/%D0%9E%D1%81%D1%82%D1%80%D0%BE%D1%83%D1%85%D0%BE%D0%B2%20%D0%98.%D0%A1./" rel="nofollow" class="eTag eTagGr9">Остроухов И.С.</a> (6)</div><div class="tagItem"><a href="/search/%D0%93%D1%91%D1%82%D0%B5%20%D0%98.%D0%92./" rel="nofollow" class="eTag eTagGr8">Гёте И.В.</a> (5)</div><div class="tagItem"><a href="/search/%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D1%8C%D0%B5%D0%B2%20%D0%A1.%D0%90./" rel="nofollow" class="eTag eTagGr8">Григорьев С.А.</a> (5)</div><div class="tagItem"><a href="/search/%D0%9A%D0%B8%D0%BF%D1%80%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%20%D0%9E.%D0%90./" rel="nofollow" class="eTag eTagGr8">Кипренский О.А.</a> (5)</div><div class="tagItem"><a href="/search/%D0%9B%D0%BE%D0%BD%D0%B4%D0%BE%D0%BD%20%D0%94./" rel="nofollow" class="eTag eTagGr8">Лондон Д.</a> (5)</div><div class="tagItem"><a href="/search/%D0%9D%D0%B8%D1%81%D1%81%D0%BA%D0%B8%D0%B9%20%D0%93.%D0%93./" rel="nofollow" class="eTag eTagGr8">Нисский Г.Г.</a> (5)</div><div class="tagItem"><a href="/search/%D0%9F%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%BD%D0%B0%D0%BA%20%D0%91.%D0%9B./" rel="nofollow" class="eTag eTagGr8">Пастернак Б.Л.</a> (5)</div><div class="tagItem"><a href="/search/%D0%A2%D1%8E%D1%82%D1%87%D0%B5%D0%B2%20%D0%A4.%D0%98./" rel="nofollow" class="eTag eTagGr8">Тютчев Ф.И.</a> (5)</div><div class="tagItem"><a href="/search/%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D1%8C%D0%B5%D0%B2%20%D0%91.%D0%9B./" rel="nofollow" class="eTag eTagGr8">Васильев Б.Л.</a> (4)</div><div class="tagItem"><a href="/search/%D0%92%D1%80%D1%83%D0%B1%D0%B5%D0%BB%D1%8C%20%D0%9C.%D0%90./" rel="nofollow" class="eTag eTagGr8">Врубель М.А.</a> (4)</div><div class="tagItem"><a href="/search/%D0%92%D1%8B%D1%81%D0%BE%D1%86%D0%BA%D0%B8%D0%B9%20%D0%92.%D0%A1./" rel="nofollow" class="eTag eTagGr8">Высоцкий В.С.</a> (4)</div><div class="tagItem"><a href="/search/%D0%94%D0%B5%D0%BB%D1%8C%D0%B2%D0%B8%D0%B3%20%D0%90.%D0%90./" rel="nofollow" class="eTag eTagGr8">Дельвиг А.А.</a> (4)</div><div class="tagItem"><a href="/search/%D0%96%D1%83%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%92.%D0%90./" rel="nofollow" class="eTag eTagGr8">Жуковский В.А.</a> (4)</div><div class="tagItem"><a href="/search/%D0%96%D1%8E%D0%BB%D1%8C%20%D0%92%D0%B5%D1%80%D0%BD/" rel="nofollow" class="eTag eTagGr8">Жюль Верн</a> (4)</div><div class="tagItem"><a href="/search/%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%20%D0%90.%D0%90./" rel="nofollow" class="eTag eTagGr8">Иванов А.А.</a> (4)</div><div class="tagItem"><a href="/search/%D0%9A%D1%80%D1%8B%D0%BC%D0%BE%D0%B2%20%D0%9D.%D0%9F./" rel="nofollow" class="eTag eTagGr8">Крымов Н.П.</a> (4)</div><div class="tagItem"><a href="/search/%D0%9C%D0%B0%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%9A.%D0%95./" rel="nofollow" class="eTag eTagGr8">Маковский К.Е.</a> (4)</div><div class="tagItem"><a href="/search/%D0%9F%D0%BE%D0%BB%D0%B5%D0%BD%D0%BE%D0%B2%20%D0%92.%D0%94./" rel="nofollow" class="eTag eTagGr8">Поленов В.Д.</a> (4)</div><div class="tagItem"><a href="/search/%D0%A0%D0%B0%D0%B4%D0%B8%D1%89%D0%B5%D0%B2%20%D0%90.%D0%9D./" rel="nofollow" class="eTag eTagGr8">Радищев А.Н.</a> (4)</div><div class="tagItem"><a href="/search/%D0%A1%D0%B0%D0%B2%D1%80%D0%B0%D1%81%D0%BE%D0%B2%20%D0%90.%D0%9A./" rel="nofollow" class="eTag eTagGr8">Саврасов А.К.</a> (4)</div><div class="tagItem"><a href="/search/%D0%A1%D0%B5%D1%80%D0%BE%D0%B2%20%D0%92.%D0%90./" rel="nofollow" class="eTag eTagGr8">Серов В.А.</a> (4)</div><div class="tagItem"><a href="/search/%D0%A1%D1%83%D1%80%D0%B8%D0%BA%D0%BE%D0%B2%20%D0%92.%D0%98./" rel="nofollow" class="eTag eTagGr8">Суриков В.И.</a> (4)</div><div class="tagItem"><a href="/search/%D0%A4%D0%B5%D0%BB%D1%8C%D0%B4%D0%BC%D0%B0%D0%BD%20%D0%92.%D0%9F./" rel="nofollow" class="eTag eTagGr8">Фельдман В.П.</a> (4)</div><div class="tagItem"><a href="/search/%D0%A8%D0%B8%D1%80%D0%BE%D0%BA%D0%BE%D0%B2%20%D0%95.%D0%9D./" rel="nofollow" class="eTag eTagGr8">Широков Е.Н.</a> (4)</div><div class="tagItem"><a href="/search/%D0%90%D0%B1%D1%80%D0%B0%D0%BC%D0%BE%D0%B2%20%D0%A4.%D0%90./" rel="nofollow" class="eTag eTagGr8">Абрамов Ф.А.</a> (3)</div><div class="tagItem"><a href="/search/%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%20%D0%9B.%D0%9D./" rel="nofollow" class="eTag eTagGr8">Андреев Л.Н.</a> (3)</div><div class="tagItem"><a href="/search/%D0%91%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%B8%D0%B9%20%D0%98.%D0%98./" rel="nofollow" class="eTag eTagGr8">Бродский И.И.</a> (3)</div><div class="tagItem"><a href="/search/%D0%B2%D0%B5%D0%BD%D0%B5%D1%86%D0%B8%D0%B0%D0%BD%D0%BE%D0%B2%20%D0%B0.%D0%B3./" rel="nofollow" class="eTag eTagGr8">венецианов а.г.</a> (3)</div><div class="tagItem"><a href="/search/%D0%93%D0%B5%D0%BD%D1%80%D0%B8%20%D0%9E./" rel="nofollow" class="eTag eTagGr8">Генри О.</a> (3)</div><div class="tagItem"><a href="/search/%D0%93%D1%8E%D0%B3%D0%BE%20%D0%92.%D0%9C./" rel="nofollow" class="eTag eTagGr8">Гюго В.М.</a> (3)</div><div class="tagItem"><a href="/search/%D0%9A%D0%B0%D0%BC%D1%8E%20%D0%90./" rel="nofollow" class="eTag eTagGr8">Камю А.</a> (3)</div><div class="tagItem"><a href="/search/%D0%9A%D0%BE%D0%BD%D1%87%D0%B0%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%9F.%D0%9F./" rel="nofollow" class="eTag eTagGr8">Кончаловский П.П.</a> (3)</div><div class="tagItem"><a href="/search/%D0%9C%D0%BE%D0%BB%D1%8C%D0%B5%D1%80%20%D0%96.-%D0%91./" rel="nofollow" class="eTag eTagGr8">Мольер Ж.-Б.</a> (3)</div><div class="tagItem"><a href="/search/%D0%9C%D0%BE%D0%BD%D0%B5%20%D0%9A.%D0%9E./" rel="nofollow" class="eTag eTagGr8">Моне К.О.</a> (3)</div><div class="tagItem"><a href="/search/%D0%BD%D0%B0%D1%80%D0%BE%D0%B4/" rel="nofollow" class="eTag eTagGr8">народ</a> (3)</div><div class="tagItem"><a href="/search/%D0%9F%D0%B0%D1%83%D1%81%D1%82%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%9A.%D0%93./" rel="nofollow" class="eTag eTagGr8">Паустовский К.Г.</a> (3)</div><div class="tagItem"><a href="/search/%D0%9F%D0%BE%D0%BF%D0%BE%D0%B2%20%D0%98.%D0%90./" rel="nofollow" class="eTag eTagGr8">Попов И.А.</a> (3)</div><div class="tagItem"><a href="/search/%D0%A0%D0%BE%D0%BC%D0%B0%D0%B4%D0%B8%D0%BD%20%D0%9D.%D0%9C./" rel="nofollow" class="eTag eTagGr8">Ромадин Н.М.</a> (3)</div><div class="tagItem"><a href="/search/%D0%A2%D0%B2%D0%B0%D1%80%D0%B4%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%90.%D0%A2./" rel="nofollow" class="eTag eTagGr8">Твардовский А.Т.</a> (3)</div><div class="tagItem"><a href="/search/%D0%A2%D1%80%D0%BE%D0%BF%D0%B8%D0%BD%D0%B8%D0%BD%20%D0%92.%D0%90./" rel="nofollow" class="eTag eTagGr8">Тропинин В.А.</a> (3)</div><div class="tagItem"><a href="/search/%D0%A3%D0%B0%D0%B9%D0%BB%D1%8C%D0%B4%20%D0%9E.%D0%A4./" rel="nofollow" class="eTag eTagGr8">Уайльд О.Ф.</a> (3)</div><div class="tagItem"><a href="/search/%D0%A7%D0%B5%D1%80%D0%BD%D1%8B%D1%88%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%9D.%D0%93./" rel="nofollow" class="eTag eTagGr8">Чернышевский Н.Г.</a> (3)</div><div class="tagItem"><a href="/search/%D0%A8%D1%83%D0%BA%D1%88%D0%B8%D0%BD%20%D0%92.%D0%9C./" rel="nofollow" class="eTag eTagGr8">Шукшин В.М.</a> (3)</div><div class="tagItem"><a href="/search/%D0%91%D0%B0%D0%B9%D1%80%D0%BE%D0%BD%20%D0%94.%D0%93./" rel="nofollow" class="eTag eTagGr8">Байрон Д.Г.</a> (2)</div><div class="tagItem"><a href="/search/%D0%91%D1%80%D1%8E%D1%81%D0%BE%D0%B2%20%D0%92.%D0%AF./" rel="nofollow" class="eTag eTagGr8">Брюсов В.Я.</a> (2)</div><div class="tagItem"><a href="/search/%D0%92%D0%B0%D0%BD%20%D0%93%D0%BE%D0%B3%20%D0%92.%D0%92./" rel="nofollow" class="eTag eTagGr8">Ван Гог В.В.</a> (2)</div><div class="tagItem"><a href="/search/%D0%93%D1%83%D0%BC%D0%B8%D0%BB%D0%B5%D0%B2%20%D0%9D.%D0%A1./" rel="nofollow" class="eTag eTagGr8">Гумилев Н.С.</a> (2)</div><div class="tagItem"><a href="/search/%D0%94%D0%B0%D0%BD%D1%82%D0%B5%20%D0%90%D0%BB%D0%B8%D0%B3%D1%8C%D0%B5%D1%80%D0%B8/" rel="nofollow" class="eTag eTagGr8">Данте Алигьери</a> (2)</div><div class="tagItem"><a href="/search/%D0%94%D0%B5%D1%80%D0%B6%D0%B0%D0%B2%D0%B8%D0%BD%20%D0%93.%D0%A0./" rel="nofollow" class="eTag eTagGr8">Державин Г.Р.</a> (2)</div><div class="tagItem"><a href="/search/%D0%94%D0%B5%D1%84%D0%BE%20%D0%94./" rel="nofollow" class="eTag eTagGr8">Дефо Д.</a> (2)</div><div class="tagItem"><a href="/search/%D0%94%D0%BE%D0%B9%D0%BB%20%D0%90.%D0%9A./" rel="nofollow" class="eTag eTagGr8">Дойл А.К.</a> (2)</div><div class="tagItem"><a href="/search/%D0%94%D1%8E%D0%BC%D0%B0%20%D0%90./" rel="nofollow" class="eTag eTagGr8">Дюма А.</a> (2)</div><div class="tagItem"><a href="/search/%D0%95%D0%B2%D1%82%D1%83%D1%88%D0%B5%D0%BD%D0%BA%D0%BE%20%D0%95.%D0%90./" rel="nofollow" class="eTag eTagGr8">Евтушенко Е.А.</a> (2)</div><div class="tagItem"><a href="/search/%D0%96%D1%83%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%A1.%D0%AE./" rel="nofollow" class="eTag eTagGr8">Жуковский С.Ю.</a> (2)</div><div class="tagItem"><a href="/search/%D0%97%D0%B0%D0%B1%D0%BE%D0%BB%D0%BE%D1%86%D0%BA%D0%B8%D0%B9%20%D0%9D.%D0%90./" rel="nofollow" class="eTag eTagGr8">Заболоцкий Н.А.</a> (2)</div><div class="tagItem"><a href="/search/%D0%97%D0%BE%D1%89%D0%B5%D0%BD%D0%BA%D0%BE%20%D0%9C.%D0%9C./" rel="nofollow" class="eTag eTagGr8">Зощенко М.М.</a> (2)</div><div class="tagItem"><a href="/search/%D0%9A%D0%B0%D1%84%D0%BA%D0%B0%20%D0%A4./" rel="nofollow" class="eTag eTagGr8">Кафка Ф.</a> (2)</div><div class="tagItem"><a href="/search/%D0%9A%D0%B8%D0%BF%D0%BB%D0%B8%D0%BD%D0%B3%20%D0%94.%D0%A0./" rel="nofollow" class="eTag eTagGr8">Киплинг Д.Р.</a> (2)</div><div class="tagItem"><a href="/search/%D0%9C%D0%B0%D1%80%D1%88%D0%B0%D0%BA%20%D0%A1.%D0%AF./" rel="nofollow" class="eTag eTagGr8">Маршак С.Я.</a> (2)</div><div class="tagItem"><a href="/search/%D0%9D%D0%BE%D1%81%D0%BE%D0%B2%20%D0%95.%D0%98./" rel="nofollow" class="eTag eTagGr8">Носов Е.И.</a> (2)</div><div class="tagItem"><a href="/search/%D0%9F%D0%BE%D0%BF%D0%BE%D0%B2%D0%B8%D1%87%20%D0%9E.%D0%92./" rel="nofollow" class="eTag eTagGr8">Попович О.В.</a> (2)</div><div class="tagItem"><a href="/search/%D0%9F%D1%80%D0%B8%D1%88%D0%B2%D0%B8%D0%BD%20%D0%9C.%D0%9C./" rel="nofollow" class="eTag eTagGr8">Пришвин М.М.</a> (2)</div><div class="tagItem"><a href="/search/%D0%9F%D1%83%D0%BA%D0%B8%D1%80%D0%B5%D0%B2%20%D0%92.%D0%92./" rel="nofollow" class="eTag eTagGr8">Пукирев В.В.</a> (2)</div><div class="tagItem"><a href="/search/%D0%A0%D0%B0%D1%81%D0%BF%D0%B5%20%D0%A0.%D0%AD./" rel="nofollow" class="eTag eTagGr8">Распе Р.Э.</a> (2)</div><div class="tagItem"><a href="/search/%D0%A0%D0%B5%D1%80%D0%B8%D1%85%20%D0%9D.%D0%9A./" rel="nofollow" class="eTag eTagGr8">Рерих Н.К.</a> (2)</div><div class="tagItem"><a href="/search/%D0%A1%D0%B0%D0%B3%D0%B0%D0%BD%20%D0%A4./" rel="nofollow" class="eTag eTagGr8">Саган Ф.</a> (2)</div><div class="tagItem"><a href="/search/%D0%A1%D1%82%D0%B8%D0%B2%D0%B5%D0%BD%D1%81%D0%BE%D0%BD%20%D0%A0.%D0%9B./" rel="nofollow" class="eTag eTagGr8">Стивенсон Р.Л.</a> (2)</div><div class="tagItem"><a href="/search/%D0%A1%D1%8D%D0%BB%D0%B8%D0%BD%D0%B4%D0%B6%D0%B5%D1%80%20%D0%94.%D0%94./" rel="nofollow" class="eTag eTagGr8">Сэлинджер Д.Д.</a> (2)</div><div class="tagItem"><a href="/search/%D0%A4%D0%B5%D1%82%20%D0%90.%D0%90./" rel="nofollow" class="eTag eTagGr8">Фет А.А.</a> (2)</div><div class="tagItem"><a href="/search/%D0%A6%D1%8B%D0%BF%D0%BB%D0%B0%D0%BA%D0%BE%D0%B2%20%D0%92.%D0%93./" rel="nofollow" class="eTag eTagGr8">Цыплаков В.Г.</a> (2)</div><div class="tagItem"><a href="/search/%D0%A8%D0%B8%D0%B1%D0%B0%D0%BD%D0%BE%D0%B2%20%D0%9C./" rel="nofollow" class="eTag eTagGr8">Шибанов М.</a> (2)</div><div class="tagItem"><a href="/search/%D0%90%D0%B9%D1%82%D0%BC%D0%B0%D1%82%D0%BE%D0%B2%20%D0%A7.%D0%A2./" rel="nofollow" class="eTag eTagGr8">Айтматов Ч.Т.</a> (1)</div><div class="tagItem"><a href="/search/%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B5%D0%B2%20%D0%9C.%D0%9D./" rel="nofollow" class="eTag eTagGr8">Алексеев М.Н.</a> (1)</div><div class="tagItem"><a href="/search/%D0%91%D0%B0%D0%BA%D1%88%D0%B5%D0%B5%D0%B2%20%D0%92.%D0%9D./" rel="nofollow" class="eTag eTagGr8">Бакшеев В.Н.</a> (1)</div><div class="tagItem"><a href="/search/%D0%91%D0%B0%D0%BB%D1%8C%D0%BC%D0%BE%D0%BD%D1%82%20%D0%9A.%D0%94./" rel="nofollow" class="eTag eTagGr8">Бальмонт К.Д.</a> (1)</div><div class="tagItem"><a href="/search/%D0%91%D0%B0%D1%81%D0%B0%D0%BD%D0%B5%D1%86%20%D0%9F.%D0%90./" rel="nofollow" class="eTag eTagGr8">Басанец П.А.</a> (1)</div><div class="tagItem"><a href="/search/%D0%91%D0%B0%D1%85%20%D0%98.%D0%A1./" rel="nofollow" class="eTag eTagGr8">Бах И.С.</a> (1)</div><div class="tagItem"><a href="/search/%D0%91%D1%91%D1%80%D0%BD%D1%81%20%D0%A0./" rel="nofollow" class="eTag eTagGr8">Бёрнс Р.</a> (1)</div><div class="tagItem"><a href="/search/%D0%91%D0%BE%D0%B3%D0%B4%D0%B0%D0%BD%D0%BE%D0%B2-%D0%91%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9%20%D0%9D.%D0%9F./" rel="nofollow" class="eTag eTagGr8">Богданов-Бельский Н.П.</a> (1)</div><div class="tagItem"><a href="/search/%D0%91%D0%BE%D1%82%D1%82%D0%B8%D1%87%D0%B5%D0%BB%D0%BB%D0%B8%20%D0%A1.%D0%9C./" rel="nofollow" class="eTag eTagGr8">Боттичелли С.М.</a> (1)</div><div class="tagItem"><a href="/search/%D0%91%D1%80%D0%B0%D1%82%D1%8C%D1%8F%20%D0%93%D1%80%D0%B8%D0%BC%D0%BC/" rel="nofollow" class="eTag eTagGr8">Братья Гримм</a> (1)</div><div class="tagItem"><a href="/search/%D0%91%D1%8B%D0%BA%D0%BE%D0%B2%20%D0%92.%D0%92./" rel="nofollow" class="eTag eTagGr8">Быков В.В.</a> (1)</div><div class="tagItem"><a href="/search/%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D1%8C%D0%B5%D0%B2%20%D0%9A.%D0%90./" rel="nofollow" class="eTag eTagGr8">Васильев К.А.</a> (1)</div><div class="tagItem"><a href="/search/%D0%92%D0%B0%D1%82%D0%BE%D0%BB%D0%B8%D0%BD%D0%B0%20%D0%9D.%D0%9D./" rel="nofollow" class="eTag eTagGr8">Ватолина Н.Н.</a> (1)</div><div class="tagItem"><a href="/search/%D0%92%D0%B5%D1%80%D0%B5%D1%89%D0%B0%D0%B3%D0%B8%D0%BD%20%D0%92.%D0%92./" rel="nofollow" class="eTag eTagGr8">Верещагин В.В.</a> (1)</div><div class="tagItem"><a href="/search/%D0%92%D0%B5%D1%80%D0%BC%D0%B5%D0%B5%D1%80%20%D0%AF.%D0%94./" rel="nofollow" class="eTag eTagGr8">Вермеер Я.Д.</a> (1)</div><div class="tagItem"><a href="/search/%D0%92%D0%B8%D0%BB%D1%8C%D0%B3%D0%B5%D0%BB%D1%8C%D0%BC%20%D0%93%D0%B0%D1%83%D1%84/" rel="nofollow" class="eTag eTagGr8">Вильгельм Гауф</a> (1)</div><div class="tagItem"><a href="/search/%D0%92%D0%B8%D1%88%D0%BD%D1%8F%D0%BA%20%D0%9C.%D0%92./" rel="nofollow" class="eTag eTagGr8">Вишняк М.В.</a> (1)</div><div class="tagItem"><a href="/search/%D0%92%D0%BE%D0%BB%D0%BA%D0%BE%D0%B2%20%D0%90.%D0%9C./" rel="nofollow" class="eTag eTagGr8">Волков А.М.</a> (1)</div><div class="tagItem"><a href="/search/%D0%93%D0%B0%D1%80%D1%88%D0%B8%D0%BD%20%D0%92.%D0%9C./" rel="nofollow" class="eTag eTagGr8">Гаршин В.М.</a> (1)</div><div class="tagItem"><a href="/search/%D0%93%D1%80%D0%B0%D0%BD%D0%B8%D0%BD%20%D0%94.%D0%90./" rel="nofollow" class="eTag eTagGr8">Гранин Д.А.</a> (1)</div><div class="tagItem"><a href="/search/%D0%94%D0%B0%D0%B2%D1%8B%D0%B4%D0%BE%D0%B2%20%D0%94.%D0%92./" rel="nofollow" class="eTag eTagGr8">Давыдов Д.В.</a> (1)</div><div class="tagItem"><a href="/search/%D0%94%D0%B5%D0%BA%D0%B0%D1%80%D1%82%20%D0%A0./" rel="nofollow" class="eTag eTagGr8">Декарт Р.</a> (1)</div><div class="tagItem"><a href="/search/%D0%94%D0%B6%D0%B5%D0%B9%D0%BC%D1%81%20%D0%92./" rel="nofollow" class="eTag eTagGr8">Джеймс В.</a> (1)</div><div class="tagItem"><a href="/search/%D0%94%D0%B6%D0%BE%D0%B2%D0%B0%D0%BD%D1%8C%D0%BE%D0%BB%D0%B8%20%D0%A0./" rel="nofollow" class="eTag eTagGr8">Джованьоли Р.</a> (1)</div><div class="tagItem"><a href="/search/%D0%94%D0%B8%D0%B5%D0%B3%D0%BE%20%D0%A0%D0%B8%D0%B2%D0%B5%D1%80%D0%B0/" rel="nofollow" class="eTag eTagGr8">Диего Ривера</a> (1)</div><div class="tagItem"><a href="/search/%D0%94%D0%B8%D0%BA%D0%BA%D0%B5%D0%BD%D1%81%20%D0%A7.%D0%94./" rel="nofollow" class="eTag eTagGr8">Диккенс Ч.Д.</a> (1)</div><div class="tagItem"><a href="/search/%D0%94%D0%BE%D0%B2%D0%BB%D0%B0%D1%82%D0%BE%D0%B2%20%D0%A1.%D0%94./" rel="nofollow" class="eTag eTagGr8">Довлатов С.Д.</a> (1)</div><div class="tagItem"><a href="/search/%D0%94%D1%80%D0%B0%D0%B9%D0%B7%D0%B5%D1%80%20%D0%A2./" rel="nofollow" class="eTag eTagGr8">Драйзер Т.</a> (1)</div><div class="tagItem"><a href="/search/%D0%94%D1%83%D0%B4%D0%B8%D0%BD%D1%86%D0%B5%D0%B2%20%D0%92.%D0%94./" rel="nofollow" class="eTag eTagGr8">Дудинцев В.Д.</a> (1)</div><div class="tagItem"><a href="/search/%D0%95%D1%80%D1%88%D0%BE%D0%B2%20%D0%9F.%D0%9F./" rel="nofollow" class="eTag eTagGr8">Ершов П.П.</a> (1)</div><div class="tagItem"><a href="/search/%D0%97%D0%B0%D0%BC%D1%8F%D1%82%D0%B8%D0%BD%20%D0%95.%D0%98./" rel="nofollow" class="eTag eTagGr8">Замятин Е.И.</a> (1)</div><div class="tagItem"><a href="/search/%D0%98%D0%B2%D0%B0%D1%88%D0%BA%D0%B5%D0%B2%D0%B8%D1%87%20%D0%AF.%D0%9B./" rel="nofollow" class="eTag eTagGr8">Ивашкевич Я.Л.</a> (1)</div><div class="tagItem"><a href="/search/%D0%98%D1%81%D0%BA%D0%B0%D0%BD%D0%B4%D0%B5%D1%80%20%D0%A4.%D0%90./" rel="nofollow" class="eTag eTagGr8">Искандер Ф.А.</a> (1)</div><div class="tagItem"><a href="/search/%D0%9A%D0%B0%D0%B2%D0%B0%D0%B1%D0%B0%D1%82%D0%B0%20%D0%AF./" rel="nofollow" class="eTag eTagGr8">Кавабата Я.</a> (1)</div><div class="tagItem"><a href="/search/%D0%9A%D0%B0%D0%B4%D1%8B%D1%80%D0%B8%20%D0%90./" rel="nofollow" class="eTag eTagGr8">Кадыри А.</a> (1)</div><div class="tagItem"><a href="/search/%D0%9A%D0%B0%D1%82%D0%B0%D0%B5%D0%B2%20%D0%92.%D0%9F./" rel="nofollow" class="eTag eTagGr8">Катаев В.П.</a> (1)</div><div class="tagItem"><a href="/search/%D0%9A%D0%BB%D0%B5%D0%B2%D0%B5%D1%80%20%D0%AE.%D0%AE./" rel="nofollow" class="eTag eTagGr8">Клевер Ю.Ю.</a> (1)</div><div class="tagItem"><a href="/search/%D0%9A%D0%BE%D0%BC%D0%B0%D1%80%D0%BE%D0%B2%20%D0%90.%D0%9D./" rel="nofollow" class="eTag eTagGr8">Комаров А.Н.</a> (1)</div><div class="tagItem"><a href="/search/%D0%9A%D0%BE%D0%BD%D0%B4%D1%80%D0%B0%D1%82%D1%8C%D0%B5%D0%B2%20%D0%92.%D0%9B./" rel="nofollow" class="eTag eTagGr8">Кондратьев В.Л.</a> (1)</div><div class="tagItem"><a href="/search/%D0%9A%D0%BE%D1%80%D0%B6%D0%B5%D0%B2%20%D0%93.%D0%9C./" rel="nofollow" class="eTag eTagGr8">Коржев Г.М.</a> (1)</div><div class="tagItem"><a href="/search/%D0%9A%D0%BE%D1%81%D0%B0%D1%87-%D0%9A%D0%B2%D0%B8%D1%82%D0%BA%D0%B0%20%D0%9B.%D0%9F./" rel="nofollow" class="eTag eTagGr8">Косач-Квитка Л.П.</a> (1)</div><div class="tagItem"><a href="/search/%D0%9A%D1%83%D0%BB%D0%B8%D1%88%20%D0%9F.%D0%90./" rel="nofollow" class="eTag eTagGr8">Кулиш П.А.</a> (1)</div><div class="tagItem"><a href="/search/%D0%9A%D1%83%D0%BD%20%D0%9D.%D0%90./" rel="nofollow" class="eTag eTagGr8">Кун Н.А.</a> (1)</div><div class="tagItem"><a href="/search/%D0%9B%D0%B5%D0%BE%D0%BD%D0%B0%D1%80%D0%B4%D0%BE%20%D0%B4%D0%B0%20%D0%92%D0%B8%D0%BD%D1%87%D0%B8/" rel="nofollow" class="eTag eTagGr8">Леонардо да Винчи</a> (1)</div><div class="tagItem"><a href="/search/%D0%9B%D0%B5%D0%BE%D0%BD%D0%BE%D0%B2%20%D0%9B.%D0%9C./" rel="nofollow" class="eTag eTagGr8">Леонов Л.М.</a> (1)</div><div class="tagItem"><a href="/search/%D0%9B%D0%B5%D0%BE%D0%BD%D1%82%D1%8C%D0%B5%D0%B2%20%D0%90.%D0%9D./" rel="nofollow" class="eTag eTagGr8">Леонтьев А.Н.</a> (1)</div><div class="tagItem"><a href="/search/%D0%BB%D0%B5%D1%81%D1%8F%20%D1%83%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D0%BA%D0%B0/" rel="nofollow" class="eTag eTagGr8">леся украинка</a> (1)</div><div class="tagItem"><a href="/search/%D0%9B%D0%BE%D0%BF%D0%B5%20%D0%B4%D0%B5%20%D0%92%D0%B5%D0%B3%D0%B0/" rel="nofollow" class="eTag eTagGr8">Лопе де Вега</a> (1)</div><div class="tagItem"><a href="/search/%D0%9C%D0%B0%D0%BA%D0%B0%D0%BD%D0%B8%D0%BD%20%D0%92.%D0%A1./" rel="nofollow" class="eTag eTagGr8">Маканин В.С.</a> (1)</div><div class="tagItem"><a href="/search/%D0%9C%D0%B0%D0%BA%D0%B0%D1%80%D0%B5%D0%BD%D0%BA%D0%BE%20%D0%90.%D0%A1./" rel="nofollow" class="eTag eTagGr8">Макаренко А.С.</a> (1)</div><div class="tagItem"><a href="/search/%D0%9C%D0%B0%D0%BA%D1%81%D0%B8%D0%BC%D0%BE%D0%B2%20%D0%92.%D0%9C./" rel="nofollow" class="eTag eTagGr8">Максимов В.М.</a> (1)</div><div class="tagItem"><a href="/search/%D0%9C%D0%B0%D0%BC%D0%B8%D0%BD-%D0%A1%D0%B8%D0%B1%D0%B8%D1%80%D1%8F%D0%BA%20%D0%94.%D0%9D./" rel="nofollow" class="eTag eTagGr8">Мамин-Сибиряк Д.Н.</a> (1)</div><div class="tagItem"><a href="/search/%D0%9C%D0%B0%D0%BD%D0%B5%20%D0%AD.%D0%9E./" rel="nofollow" class="eTag eTagGr8">Мане Э.О.</a> (1)</div><div class="tagItem"><a href="/search/%D0%9C%D0%B0%D1%80%D0%BA%20%D0%A2%D0%B2%D0%B5%D0%BD/" rel="nofollow" class="eTag eTagGr8">Марк Твен</a> (1)</div><div class="tagItem"><a href="/search/%D0%9C%D0%B0%D1%80%D0%BA%D0%BE%D0%B2%20%D0%93.%D0%9C./" rel="nofollow" class="eTag eTagGr8">Марков Г.М.</a> (1)</div><div class="tagItem"><a href="/search/%D0%9C%D0%B0%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE%20%D0%92.%D0%98./" rel="nofollow" class="eTag eTagGr8">Марченко В.И.</a> (1)</div><div class="tagItem"><a href="/search/%D0%9D%D0%B0%D0%B7%D0%B0%D1%80%D0%B5%D0%BD%D0%BA%D0%BE%20%D0%A2.%D0%93./" rel="nofollow" class="eTag eTagGr8">Назаренко Т.Г.</a> (1)</div><div class="tagItem"><a href="/search/%D0%9D%D0%B5%D1%87%D1%83%D0%B9-%D0%9B%D0%B5%D0%B2%D0%B8%D1%86%D0%BA%D0%B8%D0%B9%20%D0%98.%D0%A1./" rel="nofollow" class="eTag eTagGr8">Нечуй-Левицкий И.С.</a> (1)</div><div class="tagItem"><a href="/search/%D0%9D%D0%BE%D1%81%D0%BE%D0%B2%20%D0%9D.%D0%9D./" rel="nofollow" class="eTag eTagGr8">Носов Н.Н.</a> (1)</div><div class="tagItem"><a href="/search/%D0%9E%D0%BB%D0%B4%D1%80%D0%B8%D0%B4%D0%B6%20%D0%94%D0%B6./" rel="nofollow" class="eTag eTagGr8">Олдридж Дж.</a> (1)</div><div class="tagItem"><a href="/search/%D0%9E%D1%81%D0%B5%D0%B5%D0%B2%D0%B0%20%D0%92.%D0%90./" rel="nofollow" class="eTag eTagGr8">Осеева В.А.</a> (1)</div><div class="tagItem"><a href="/search/%D0%9F%D0%B5%D1%80%D1%81%D0%B8%D0%B2%D0%B0%D0%BB%D1%8C%20%D0%94.%D0%A1./" rel="nofollow" class="eTag eTagGr8">Персиваль Д.С.</a> (1)</div><div class="tagItem"><a href="/search/%D0%9F%D0%B5%D1%82%D1%80%D0%B0%D1%80%D0%BA%D0%B0%20%D0%A4./" rel="nofollow" class="eTag eTagGr8">Петрарка Ф.</a> (1)</div><div class="tagItem"><a href="/search/%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%B2-%D0%92%D0%BE%D0%B4%D0%BA%D0%B8%D0%BD%20%D0%9A.%D0%A1./" rel="nofollow" class="eTag eTagGr8">Петров-Водкин К.С.</a> (1)</div><div class="tagItem"><a href="/search/%D0%9F%D0%B8%D0%BA%D0%B0%D1%81%D1%81%D0%BE%20%D0%9F%D0%B0%D0%B1%D0%BB%D0%BE/" rel="nofollow" class="eTag eTagGr8">Пикассо Пабло</a> (1)</div><div class="tagItem"><a href="/search/%D0%9F%D0%B8%D0%BC%D0%B5%D0%BD%D0%BE%D0%B2%20%D0%AE.%D0%98./" rel="nofollow" class="eTag eTagGr8">Пименов Ю.И.</a> (1)</div><div class="tagItem"><a href="/search/%D0%9F%D0%BE%20%D0%AD.%D0%90./" rel="nofollow" class="eTag eTagGr8">По Э.А.</a> (1)</div><div class="tagItem"><a href="/search/%D0%9F%D0%BE%D0%B3%D0%BE%D1%80%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9%20%D0%90./" rel="nofollow" class="eTag eTagGr8">Погорельский А.</a> (1)</div><div class="tagItem"><a href="/search/%D0%9F%D0%BE%D0%BF%D0%BA%D0%BE%D0%B2%20%D0%92.%D0%95./" rel="nofollow" class="eTag eTagGr8">Попков В.Е.</a> (1)</div><div class="tagItem"><a href="/search/%D0%A0%D0%B0%D1%84%D0%B0%D1%8D%D0%BB%D1%8C%20%D0%A1%D0%B0%D0%BD%D1%82%D0%B8/" rel="nofollow" class="eTag eTagGr8">Рафаэль Санти</a> (1)</div><div class="tagItem"><a href="/search/%D0%A0%D0%B5%D0%BC%D0%B1%D1%80%D0%B0%D0%BD%D0%B4%D1%82%20%D0%A5.%D0%A0./" rel="nofollow" class="eTag eTagGr8">Рембрандт Х.Р.</a> (1)</div><div class="tagItem"><a href="/search/%D0%A0%D0%BE%D0%BA%D0%BE%D1%82%D0%BE%D0%B2%20%D0%A4.%D0%A1./" rel="nofollow" class="eTag eTagGr8">Рокотов Ф.С.</a> (1)</div><div class="tagItem"><a href="/search/%D0%A0%D1%83%D0%B1%D1%86%D0%BE%D0%B2%20%D0%9D.%D0%9C./" rel="nofollow" class="eTag eTagGr8">Рубцов Н.М.</a> (1)</div><div class="tagItem"><a href="/search/%D0%A0%D1%8B%D0%BB%D0%BE%D0%B2%20%D0%90.%D0%90./" rel="nofollow" class="eTag eTagGr8">Рылов А.А.</a> (1)</div><div class="tagItem"><a href="/search/%D0%A1%D0%B0%D0%B9%D0%BA%D0%B8%D0%BD%D0%B0%20%D0%90.%D0%92./" rel="nofollow" class="eTag eTagGr8">Сайкина А.В.</a> (1)</div><div class="tagItem"><a href="/search/%D0%A1%D0%B2%D0%B8%D1%84%D1%82%20%D0%94./" rel="nofollow" class="eTag eTagGr8">Свифт Д.</a> (1)</div><div class="tagItem"><a href="/search/%D0%A1%D0%B5%D0%B7%D0%B0%D0%BD%D0%BD%20%D0%9F./" rel="nofollow" class="eTag eTagGr8">Сезанн П.</a> (1)</div><div class="tagItem"><a href="/search/%D0%A1%D0%B5%D1%80%D0%B2%D0%B0%D0%BD%D1%82%D0%B5%D1%81%20%D0%9C.%D0%A1./" rel="nofollow" class="eTag eTagGr8">Сервантес М.С.</a> (1)</div><div class="tagItem"><a href="/search/%D0%A1%D0%B5%D1%80%D0%B5%D0%B1%D1%80%D1%8F%D0%BA%D0%BE%D0%B2%D0%B0%20%D0%97.%D0%95./" rel="nofollow" class="eTag eTagGr8">Серебрякова З.Е.</a> (1)</div><div class="tagItem"><a href="/search/%D0%A1%D0%B8%D0%BC%D0%BE%D0%BD%D0%B5%D0%BD%D0%BA%D0%BE%20%D0%92.%D0%90./" rel="nofollow" class="eTag eTagGr8">Симоненко В.А.</a> (1)</div><div class="tagItem"><a href="/search/%D0%A1%D1%82%D0%B0%D0%BD%D0%B8%D1%81%D0%BB%D0%B0%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%9A.%D0%A1./" rel="nofollow" class="eTag eTagGr8">Станиславский К.С.</a> (1)</div><div class="tagItem"><a href="/search/%D0%A1%D1%82%D0%B5%D0%BD%D0%B4%D0%B0%D0%BB%D1%8C/" rel="nofollow" class="eTag eTagGr8">Стендаль</a> (1)</div><div class="tagItem"><a href="/search/%D0%A1%D1%8B%D0%BD%D0%B3%D0%B0%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%9D.%D0%A4./" rel="nofollow" class="eTag eTagGr8">Сынгаевский Н.Ф.</a> (1)</div><div class="tagItem"><a href="/search/%D0%A1%D1%8B%D1%80%D0%BE%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%20%D0%95.%D0%92./" rel="nofollow" class="eTag eTagGr8">Сыромятникова Е.В.</a> (1)</div><div class="tagItem"><a href="/search/%D0%A1%D1%8B%D1%87%D0%BA%D0%BE%D0%B2%20%D0%A4.%D0%92./" rel="nofollow" class="eTag eTagGr8">Сычков Ф.В.</a> (1)</div><div class="tagItem"><a href="/search/%D0%A2%D0%B8%D1%85%D0%B8%D0%B9%20%D0%98.%D0%90./" rel="nofollow" class="eTag eTagGr8">Тихий И.А.</a> (1)</div><div class="tagItem"><a href="/search/%D0%A2%D0%BE%D0%BB%D0%BA%D0%B8%D0%BD%20%D0%94%D0%B6.%D0%A0.%D0%A0./" rel="nofollow" class="eTag eTagGr8">Толкин Дж.Р.Р.</a> (1)</div><div class="tagItem"><a href="/search/%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B9%20%D0%A4.%D0%9F./" rel="nofollow" class="eTag eTagGr8">Толстой Ф.П.</a> (1)</div><div class="tagItem"><a href="/search/%D0%A2%D1%83%D1%82%D1%83%D0%BD%D0%BE%D0%B2%20%D0%A1.%D0%90./" rel="nofollow" class="eTag eTagGr8">Тутунов С.А.</a> (1)</div><div class="tagItem"><a href="/search/%D0%A2%D1%8D%D0%BD%20%D0%98.%D0%90./" rel="nofollow" class="eTag eTagGr8">Тэн И.А.</a> (1)</div><div class="tagItem"><a href="/search/%D0%A4%D0%B0%D0%B4%D0%B5%D0%B5%D0%B2%20%D0%90.%D0%90./" rel="nofollow" class="eTag eTagGr8">Фадеев А.А.</a> (1)</div><div class="tagItem"><a href="/search/%D0%A4%D0%B8%D0%BD%D0%BE%D0%B3%D0%B5%D0%BD%D0%BE%D0%B2%D0%B0%20%D0%9C.%D0%9A./" rel="nofollow" class="eTag eTagGr8">Финогенова М.К.</a> (1)</div><div class="tagItem"><a href="/search/%D0%A5%D0%B0%D0%B1%D0%B0%D1%80%D0%BE%D0%B2%20%D0%92.%D0%98./" rel="nofollow" class="eTag eTagGr8">Хабаров В.И.</a> (1)</div><div class="tagItem"><a href="/search/%D0%A5%D0%B5%D0%BC%D0%B8%D0%BD%D0%B3%D1%83%D1%8D%D0%B9%20%D0%AD.%D0%9C./" rel="nofollow" class="eTag eTagGr8">Хемингуэй Э.М.</a> (1)</div><div class="tagItem"><a href="/search/%D0%A7%D0%B0%D0%B9%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%9F.%D0%98./" rel="nofollow" class="eTag eTagGr8">Чайковский П.И.</a> (1)</div><div class="tagItem"><a href="/search/%D0%A7%D0%B5%D1%85%D0%BE%D0%B2%20%D0%9C.%D0%90./" rel="nofollow" class="eTag eTagGr8">Чехов М.А.</a> (1)</div><div class="tagItem"><a href="/search/%D0%A8%D0%B0%D1%80%D0%BB%D1%8C%20%D0%9F%D0%B5%D1%80%D1%80%D0%BE/" rel="nofollow" class="eTag eTagGr8">Шарль Перро</a> (1)</div><div class="tagItem"><a href="/search/%D0%A8%D0%B5%D0%B2%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%BD%D0%BE%D0%B2%D0%B0%20%D0%98.%D0%92./" rel="nofollow" class="eTag eTagGr8">Шевандронова И.В.</a> (1)</div><div class="tagItem"><a href="/search/%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE%20%D0%A2.%D0%93./" rel="nofollow" class="eTag eTagGr8">Шевченко Т.Г.</a> (1)</div><div class="tagItem"><a href="/search/%D0%A9%D0%B5%D1%80%D0%B1%D0%B0%D0%BA%D0%BE%D0%B2%20%D0%91.%D0%92./" rel="nofollow" class="eTag eTagGr8">Щербаков Б.В.</a> (1)</div><div class="tagItem"><a href="/search/%D0%AF%D0%B1%D0%BB%D0%BE%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%20%D0%A2.%D0%9D./" rel="nofollow" class="eTag eTagGr8">Яблонская Т.Н.</a> (1)</div><div class="tagItem"><a href="/search/%D0%AF%D0%BA%D0%BE%D0%B2%D0%BB%D0%B5%D0%B2%20%D0%AE.%D0%AF./" rel="nofollow" class="eTag eTagGr8">Яковлев Ю.Я.</a> (1)</div></noindex></div>
+<script type="text/javascript" src="/js/_isSort.js"></script>
+<!-- </bc> --></td></tr></table>
+<!-- </block13> -->
+
+<!-- <block10> -->
+
+<table border="0" cellpadding="0" cellspacing="0" class="boxTable"><tr><td class="boxTitle"><b><!-- <bt> --><!--<s5207>-->Наш опрос<!--</s>--><!-- </bt> --></b></td></tr><tr><td class="boxContent"><!-- <bc> --><script type="text/javascript">function pollnow950(){document.getElementById('PlBtn950').disabled=true;_uPostForm('pollform950',{url:'/poll/',type:'POST'});}function polll950(id,i){_uPostForm('',{url:'/poll/'+id+'-1-'+i+'-950',type:'GET'});}</script><div id="pollBlock950"><form id="pollform950" onsubmit="pollnow950();return false;"><div class="pollBlock">
+<div class="pollQue"><b>Как поют поздравительную песню на вашем Дне Рождения?</b></div><br>
+<div class="pollAns"><div class="answer"><input id="a9501" type="radio" name="answer" value="1" style="vertical-align:middle;" /> <label style="vertical-align:middle;display:inline;" for="a9501">С днём рожденья тебя</label></div>
+<div class="answer"><input id="a9502" type="radio" name="answer" value="2" style="vertical-align:middle;" /> <label style="vertical-align:middle;display:inline;" for="a9502">Хеппи бёздей ту ю</label></div>
+<div id="pollSbm950" class="pollButton"><input class="pollBut" id="PlBtn950" type="submit" value="Ответить" /></div>
+<input type="hidden" name="ssid" value="122750667611464071043" />
+<input type="hidden" name="id"   value="3" />
+<input type="hidden" name="a"    value="1" />
+<input type="hidden" name="ajax" value="950" /></div>
+<div class="pollLnk"> <a href="javascript://" rel="nofollow" onclick="new _uWnd('PollR','Результаты опроса',660,200,{closeonesc:1,maxh:400},{url:'/poll/3'});return false;">Результаты</a> | <a href="javascript://" rel="nofollow" onclick="new _uWnd('PollA','Архив опросов',660,250,{closeonesc:1,maxh:400,max:1,min:1},{url:'/poll/0-2'});return false;">Архив опросов</a> </div>
+<div class="pollTot">Всего ответов: <b>1160</b></div>
+</div></form></div><!-- </bc> --></td></tr></table>
+
+<!-- </block10> -->
+
+<!-- <block18> -->
+<table border="0" cellpadding="0" cellspacing="0" class="boxTable"><tr><td class="boxTitle"><b><!-- <bt> --><!--<s5441>-->Новые сочинения<!--</s>--><!-- </bt> --></b></td></tr><tr><td class="boxContent"><!-- <bc> -->
+<a href="https://sochinenie.my1.ru/publ/10_j_klass/istoki_disgarmonii_mezhdu_lichnostju_i_obshhestvom/10-1-0-4636" class="silki" title="Истоки дисгармонии между личностью и обще...">Истоки дисгармонии между личностью и обще...</a><br><br><a href="https://sochinenie.my1.ru/publ/6_j_klass/istorija_assol_i_kapitana_grehja/6-1-0-4637" class="silki" title="История Ассоль и капитана Грэя">История Ассоль и капитана Грэя</a><br><br><a href="https://sochinenie.my1.ru/publ/9_j_klass/strashnye_kartiny_dejstvitelnosti_v_tvorchestve_v_m_garshina/9-1-0-4635" class="silki" title="Страшные картины действительности в творч...">Страшные картины действительности в творч...</a><br><br><a href="https://sochinenie.my1.ru/publ/6_j_klass/vladimir_dubrovskij/6-1-0-4634" class="silki" title="Владимир Дубровский">Владимир Дубровский</a><br><br><a href="https://sochinenie.my1.ru/publ/11_j_klass/sochinenie_po_povesti_a_i_kuprina_olesja/11-1-0-4633" class="silki" title="Сочинение по повести А.И. Куприна «Олеся»">Сочинение по повести А.И. Куприна «Олеся»</a><br><br>
+<!-- </bc> --></td></tr></table>
+<!-- </block18> -->
+
+<!-- <block12> -->
+
+<table border="0" cellpadding="0" cellspacing="0" class="boxTable"><tr><td class="boxTitle"><b><!-- <bt> --><!--<s5195>-->Статистика<!--</s>--><!-- </bt> --></b></td></tr><tr><td class="boxContent"><div align="center"><!-- <bc> --><hr /><div class="tOnline" id="onl1">Онлайн всего: <b>30</b></div> <div class="gOnline" id="onl2">Гостей: <b>30</b></div> <div class="uOnline" id="onl3">Пользователей: <b>0</b></div><br>
+
+<!--LiveInternet counter--><script type="text/javascript">
+document.write("<a href='//www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t12.2;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";h"+escape(document.title.substring(0,150))+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число просмотров за 24"+
+" часа, посетителей за 24 часа и за сегодня' "+
+"border='0' width='88' height='31'><\/a>")
+</script><!--/LiveInternet-->
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+ (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+ m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+ (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+ ym(70984204, "init", {
+ clickmap:true,
+ trackLinks:true,
+ accurateTrackBounce:true
+ });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/70984204" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+<!-- </bc> --></div></td></tr></table>
+
+<!-- </block12> --><!--/U1CLEFTER1Z-->
+</td></tr>
+</table>
+
+ <td width="649" valign="top">
+ <table cellpadding="0" cellspacing="0" border="0" width="649">
+ <tr><td id="navBar"><!--<s5212>-->Приветствую Вас<!--</s>--> <b>Гость</b><br>
+<br><a href="https://sochinenie.my1.ru/" class="silki" title="Главная"><!--<s5176>-->Главная<!--</s>--></a> | <a href="/register" class="silki" title="Регистрация"><!--<s3089>-->Регистрация<!--</s>--></a>  | <a href="javascript:;" rel="nofollow" onclick="new _uWnd('LF', ' ', -250, -110, {autosize:1, closeonesc:1, resize:1 }, {url:'/index/40' } ); return false;" class="silki" title="Вход"><!--<s3087>-->Вход<!--</s>--></a> | <a href="/index/0-3" class="silki" title="Обратная связь">Обратная связь</a><br><br><script type="text/javascript">
+<!--
+var _acic={dataProvider:140};(function(){var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="//www.acint.net/aci.js";var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t)})()
+//-->
+</script><!--2038950758255--></td></tr>
+ <tr><td id="logoBar"><center><!-- <logo> -->Школьные сочинения<!-- </logo> --><div class="searchForm"><form onsubmit="this.sfSbm.disabled=true" method="get" style="margin:0" action="/search/"><div align="center" class="schQuery"><input type="text" name="q" maxlength="30" size="20" class="queryField" /></div><div align="center" class="schBtn"><input type="submit" class="searchSbmFl" name="sfSbm" value="Найти" /></div></form></div></center></td></tr>
+ <tr>
+ <td id="centerBlock" valign="top">
+ <!-- <middle> -->
+ <!-- <body> --><table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td width="80%"><a href="https://sochinenie.my1.ru/" class="silki"><!--<s5176>-->Главная<!--</s>--></a> » <span class="silki1"><!--<s5208>-->Сочинения<!--</s>--></span></td>
+<td align="right" style="white-space: nowrap;"></td>
+</tr>
+</table>
+<hr>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td width="40%"><!--<s5218>-->Всего сочинений<!--</s>-->: <b>14635</b><br><!--<s5220>-->Показано сочинений<!--</s>-->: <b><span class="numShown73">1-50</span></b></td>
+<td align="right"><!--<s3015>--><!--</s>--> <span class="pagesBlockuz1"><b class="swchItemA"><span>1</span></b> <a class="swchItem" href="/?page2" onclick="spages('2', this);return false;"><span>2</span></a> <a class="swchItem" href="/?page3" onclick="spages('3', this);return false;"><span>3</span></a> <span class="swchItemDots"><span>...</span></span> <a class="swchItem" href="/?page92" onclick="spages('92', this);return false;"><span>92</span></a> <a class="swchItem" href="/?page93" onclick="spages('93', this);return false;"><span>93</span></a>  <a class="swchItem" href="/?page2" onclick="spages('2', this);return false;" ><span>&raquo;</span></a></span></td>
+</tr>
+</table>
+<hr>
+<div id="myGrid" style="display:none;"><img alt="" src="/.s/img/ma/m/i3.gif" /></div><script type="text/javascript">
+function spages(p, link ) {
+	if (0 ) { document.location.href = link.href; return; }
+	try {document.getElementById('myGrid').style.display = ''; } catch(e) {}
+	_uPostForm('', {url:'/publ/0-' + p + '-' + Date.now() } );}</script><div id="allEntries"><div id="entryID698"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="eBlock"><tr><td style="padding:3px;">
+
+<div class="eTitle" style="text-align:left;"><a href="/publ/11_j_klass/ehkonomit_ili_net_sochinenie_rassuzhdenie/11-1-0-698">Экономить, или нет? (Сочинение–рассуждение)</a></div>
+<div class="eDetails" style="clear:both;">
+<div style="float:right">
+			<style type="text/css">
+				.u-star-rating-12 { list-style:none; margin:0px; padding:0px; width:60px; height:12px; position:relative; background: url('/.s/img/stars/3/12.png') top left repeat-x }
+				.u-star-rating-12 li{ padding:0px; margin:0px; float:left }
+				.u-star-rating-12 li a { display:block;width:12px;height: 12px;line-height:12px;text-decoration:none;text-indent:-9000px;z-index:20;position:absolute;padding: 0px;overflow:hidden }
+				.u-star-rating-12 li a:hover { background: url('/.s/img/stars/3/12.png') left center;z-index:2;left:0px;border:none }
+				.u-star-rating-12 a.u-one-star { left:0px }
+				.u-star-rating-12 a.u-one-star:hover { width:12px }
+				.u-star-rating-12 a.u-two-stars { left:12px }
+				.u-star-rating-12 a.u-two-stars:hover { width:24px }
+				.u-star-rating-12 a.u-three-stars { left:24px }
+				.u-star-rating-12 a.u-three-stars:hover { width:36px }
+				.u-star-rating-12 a.u-four-stars { left:36px }
+				.u-star-rating-12 a.u-four-stars:hover { width:48px }
+				.u-star-rating-12 a.u-five-stars { left:48px }
+				.u-star-rating-12 a.u-five-stars:hover { width:60px }
+				.u-star-rating-12 li.u-current-rating { top:0 !important; left:0 !important;margin:0 !important;padding:0 !important;outline:none;background: url('/.s/img/stars/3/12.png') left bottom;position: absolute;height:12px !important;line-height:12px !important;display:block;text-indent:-9000px;z-index:1 }
+			</style><script type="text/javascript">
+				var usrarids = {};
+				function ustarrating(id, mark) {
+					if( !usrarids[id] ){
+						usrarids[id] = 1;
+						$(".u-star-li-"+id).hide();
+						_uPostForm('', {type:'POST', url:'/publ/', data:{
+							'a':'65',
+							'id':id,
+							'mark':mark,
+							'mod':'publ',
+							'ajax':'2'
+						}});
+					}
+				}
+			</script><ul id="uStarRating698" class="uStarRating698 u-star-rating-12" title="Рейтинг: 3.0/2">
+			<li id="uCurStarRating698" class="u-current-rating uCurStarRating698" style="width:60%;"></li></ul></div>
+<a class="e-category" href="/publ/11_j_klass/11">11-й класс</a><span class="ed-sep"> | </span>
+<span class="e-reads"><span class="ed-title">Просмотров:</span> <span class="ed-value">18906</span></span><span class="ed-sep"> | </span>
+
+<span class="e-date"><span class="ed-title">Дата:</span> <span class="ed-value"title="14:50">23.11.2017</span></span>
+<span class="ed-sep"> | </span><a class="e-comments" href="/publ/11_j_klass/ehkonomit_ili_net_sochinenie_rassuzhdenie/11-1-0-698#comments">Комментарии (0)</a>
+</div></td></tr></table><br /></div><div id="entryID697"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="eBlock"><tr><td style="padding:3px;">
+
+<div class="eTitle" style="text-align:left;"><a href="/publ/5_j_klass/zhilin_i_kostylin_dva_kharaktera_dve_sudby/5-1-0-697">Жилин и Костылин: два характера – две судьбы</a></div>
+<div class="eDetails" style="clear:both;">
+<div style="float:right"><ul id="uStarRating697" class="uStarRating697 u-star-rating-12" title="Рейтинг: 4.0/28">
+			<li id="uCurStarRating697" class="u-current-rating uCurStarRating697" style="width:80%;"></li></ul></div>
+<a class="e-category" href="/publ/5_j_klass/5">5-й класс</a><span class="ed-sep"> | </span>
+<span class="e-reads"><span class="ed-title">Просмотров:</span> <span class="ed-value">18466</span></span><span class="ed-sep"> | </span>
+
+<span class="e-date"><span class="ed-title">Дата:</span> <span class="ed-value"title="10:59">23.11.2017</span></span>
+<span class="ed-sep"> | </span><a class="e-comments" href="/publ/5_j_klass/zhilin_i_kostylin_dva_kharaktera_dve_sudby/5-1-0-697#comments">Комментарии (0)</a>
+</div></td></tr></table><br /></div><div id="entryID41"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="eBlock"><tr><td style="padding:3px;">
+
+<div class="eTitle" style="text-align:left;"><a href="/publ/6_j_klass/sochinenie_po_skazke_a_p_platonova_neizvestnyj_cvetok/6-1-0-41">Сочинение по сказке А.П. Платонова «Неизвестный цветок»</a></div>
+<div class="eDetails" style="clear:both;">
+<div style="float:right"><ul id="uStarRating41" class="uStarRating41 u-star-rating-12" title="Рейтинг: 3.9/9">
+			<li id="uCurStarRating41" class="u-current-rating uCurStarRating41" style="width:78%;"></li></ul></div>
+<a class="e-category" href="/publ/6_j_klass/6">6-й класс</a><span class="ed-sep"> | </span>
+<span class="e-reads"><span class="ed-title">Просмотров:</span> <span class="ed-value">16990</span></span><span class="ed-sep"> | </span>
+
+<span class="e-date"><span class="ed-title">Дата:</span> <span class="ed-value"title="19:25">03.06.2016</span></span>
+<span class="ed-sep"> | </span><a class="e-comments" href="/publ/6_j_klass/sochinenie_po_skazke_a_p_platonova_neizvestnyj_cvetok/6-1-0-41#comments">Комментарии (0)</a>
+</div></td></tr></table><br /></div><div id="entryID696"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="eBlock"><tr><td style="padding:3px;">
+
+<div class="eTitle" style="text-align:left;"><a href="/publ/7_j_klass/a_p_chekhov_tolstyj_i_tonkij/7-1-0-696">А.П. Чехов &quot;Толстый и тонкий&quot;</a></div>
+<div class="eDetails" style="clear:both;">
+<div style="float:right"><ul id="uStarRating696" class="uStarRating696 u-star-rating-12" title="Рейтинг: 5.0/1">
+			<li id="uCurStarRating696" class="u-current-rating uCurStarRating696" style="width:100%;"></li></ul></div>
+<a class="e-category" href="/publ/7_j_klass/7">7-й класс</a><span class="ed-sep"> | </span>
+<span class="e-reads"><span class="ed-title">Просмотров:</span> <span class="ed-value">16437</span></span><span class="ed-sep"> | </span>
+
+<span class="e-date"><span class="ed-title">Дата:</span> <span class="ed-value"title="21:15">22.11.2017</span></span>
+<span class="ed-sep"> | </span><a class="e-comments" href="/publ/7_j_klass/a_p_chekhov_tolstyj_i_tonkij/7-1-0-696#comments">Комментарии (0)</a>
+</div></td></tr></table><br /></div><div id="entryID722"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="eBlock"><tr><td style="padding:3px;">
+
+<div class="eTitle" style="text-align:left;"><a href="/publ/5_j_klass/kavkazskij_plennik/5-1-0-722">Кавказский пленник</a></div>
+<div class="eDetails" style="clear:both;">
+<div style="float:right"><ul id="uStarRating722" class="uStarRating722 u-star-rating-12" title="Рейтинг: 3.1/13">
+			<li id="uCurStarRating722" class="u-current-rating uCurStarRating722" style="width:62%;"></li></ul></div>
+<a class="e-category" href="/publ/5_j_klass/5">5-й класс</a><span class="ed-sep"> | </span>
+<span class="e-reads"><span class="ed-title">Просмотров:</span> <span class="ed-value">15576</span></span><span class="ed-sep"> | </span>
+
+<span class="e-date"><span class="ed-title">Дата:</span> <span class="ed-value"title="15:18">04.12.2017</span></span>
+<span class="ed-sep"> | </span><a class="e-comments" href="/publ/5_j_klass/kavkazskij_plennik/5-1-0-722#comments">Комментарии (0)</a>
+</div></td></tr></table><br /></div><div id="entryID723"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="eBlock"><tr><td style="padding:3px;">
+
+<div class="eTitle" style="text-align:left;"><a href="/publ/11_j_klass/dobroe_slovo/11-1-0-723">Доброе слово</a></div>
+<div class="eDetails" style="clear:both;">
+<div style="float:right"><ul id="uStarRating723" class="uStarRating723 u-star-rating-12" title="Рейтинг: 0.0/0">
+			<li id="uCurStarRating723" class="u-current-rating uCurStarRating723" style="width:0%;"></li></ul></div>
+<a class="e-category" href="/publ/11_j_klass/11">11-й класс</a><span class="ed-sep"> | </span>
+<span class="e-reads"><span class="ed-title">Просмотров:</span> <span class="ed-value">15011</span></span><span class="ed-sep"> | </span>
+
+<span class="e-date"><span class="ed-title">Дата:</span> <span class="ed-value"title="21:40">05.12.2017</span></span>
+<span class="ed-sep"> | </span><a class="e-comments" href="/publ/11_j_klass/dobroe_slovo/11-1-0-723#comments">Комментарии (0)</a>
+</div></td></tr></table><br /></div><div id="entryID374"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="eBlock"><tr><td style="padding:3px;">
+
+<div class="eTitle" style="text-align:left;"><a href="/publ/8_j_klass/chto_znachit_byt_schastlivym_po_rasskazam_a_p_chekhova_a_i_kuprina_i_a_bunina/8-1-0-374">Что значит быть счастливым? По рассказам А.П. Чехова, А.И. Куприна, И.А. Бунина</a></div>
+<div class="eDetails" style="clear:both;">
+<div style="float:right"><ul id="uStarRating374" class="uStarRating374 u-star-rating-12" title="Рейтинг: 4.1/15">
+			<li id="uCurStarRating374" class="u-current-rating uCurStarRating374" style="width:82%;"></li></ul></div>
+<a class="e-category" href="/publ/8_j_klass/8">8-й класс</a><span class="ed-sep"> | </span>
+<span class="e-reads"><span class="ed-title">Просмотров:</span> <span class="ed-value">14303</span></span><span class="ed-sep"> | </span>
+
+<span class="e-date"><span class="ed-title">Дата:</span> <span class="ed-value"title="17:20">30.08.2016</span></span>
+<span class="ed-sep"> | </span><a class="e-comments" href="/publ/8_j_klass/chto_znachit_byt_schastlivym_po_rasskazam_a_p_chekhova_a_i_kuprina_i_a_bunina/8-1-0-374#comments">Комментарии (0)</a>
+</div></td></tr></table><br /></div><div id="entryID40"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="eBlock"><tr><td style="padding:3px;">
+
+<div class="eTitle" style="text-align:left;"><a href="/publ/8_j_klass/sochinenie_po_povesti_i_s_turgeneva_pervaja_ljubov/8-1-0-40">Сочинение по повести И.С. Тургенева «Первая любовь»</a></div>
+<div class="eDetails" style="clear:both;">
+<div style="float:right"><ul id="uStarRating40" class="uStarRating40 u-star-rating-12" title="Рейтинг: 4.0/3">
+			<li id="uCurStarRating40" class="u-current-rating uCurStarRating40" style="width:80%;"></li></ul></div>
+<a class="e-category" href="/publ/8_j_klass/8">8-й класс</a><span class="ed-sep"> | </span>
+<span class="e-reads"><span class="ed-title">Просмотров:</span> <span class="ed-value">13958</span></span><span class="ed-sep"> | </span>
+
+<span class="e-date"><span class="ed-title">Дата:</span> <span class="ed-value"title="16:25">03.06.2016</span></span>
+<span class="ed-sep"> | </span><a class="e-comments" href="/publ/8_j_klass/sochinenie_po_povesti_i_s_turgeneva_pervaja_ljubov/8-1-0-40#comments">Комментарии (0)</a>
+</div></td></tr></table><br /></div><div id="entryID375"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="eBlock"><tr><td style="padding:3px;">
+
+<div class="eTitle" style="text-align:left;"><a href="/publ/7_j_klass/basennoe_nachalo_v_skazkakh_m_e_saltykova_shhedrina/7-1-0-375">Басенное начало в сказках М.Е. Салтыкова-Щедрина</a></div>
+<div class="eDetails" style="clear:both;">
+<div style="float:right"><ul id="uStarRating375" class="uStarRating375 u-star-rating-12" title="Рейтинг: 0.0/0">
+			<li id="uCurStarRating375" class="u-current-rating uCurStarRating375" style="width:0%;"></li></ul></div>
+<a class="e-category" href="/publ/7_j_klass/7">7-й класс</a><span class="ed-sep"> | </span>
+<span class="e-reads"><span class="ed-title">Просмотров:</span> <span class="ed-value">13701</span></span><span class="ed-sep"> | </span>
+
+<span class="e-date"><span class="ed-title">Дата:</span> <span class="ed-value"title="17:27">30.08.2016</span></span>
+<span class="ed-sep"> | </span><a class="e-comments" href="/publ/7_j_klass/basennoe_nachalo_v_skazkakh_m_e_saltykova_shhedrina/7-1-0-375#comments">Комментарии (0)</a>
+</div></td></tr></table><br /></div><div id="entryID721"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="eBlock"><tr><td style="padding:3px;">
+
+<div class="eTitle" style="text-align:left;"><a href="/publ/11_j_klass/chto_vazhnee_v_nashi_dni_materialnoe_ili_dukhovnoe/11-1-0-721">Что важнее в наши дни: материальное или духовное?</a></div>
+<div class="eDetails" style="clear:both;">
+<div style="float:right"><ul id="uStarRating721" class="uStarRating721 u-star-rating-12" title="Рейтинг: 5.0/1">
+			<li id="uCurStarRating721" class="u-current-rating uCurStarRating721" style="width:100%;"></li></ul></div>
+<a class="e-category" href="/publ/11_j_klass/11">11-й класс</a><span class="ed-sep"> | </span>
+<span class="e-reads"><span class="ed-title">Просмотров:</span> <span class="ed-value">13347</span></span><span class="ed-sep"> | </span>
+
+<span class="e-date"><span class="ed-title">Дата:</span> <span class="ed-value"title="15:15">04.12.2017</span></span>
+<span class="ed-sep"> | </span><a class="e-comments" href="/publ/11_j_klass/chto_vazhnee_v_nashi_dni_materialnoe_ili_dukhovnoe/11-1-0-721#comments">Комментарии (0)</a>
+</div></td></tr></table><br /></div><div id="entryID42"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="eBlock"><tr><td style="padding:3px;">
+
+<div class="eTitle" style="text-align:left;"><a href="/publ/11_j_klass/sochinenie_po_rasskazu_a_p_chekhova_kryzhovnik/11-1-0-42">Сочинение по рассказу А.П. Чехова «Крыжовник»</a></div>
+<div class="eDetails" style="clear:both;">
+<div style="float:right"><ul id="uStarRating42" class="uStarRating42 u-star-rating-12" title="Рейтинг: 0.0/0">
+			<li id="uCurStarRating42" class="u-current-rating uCurStarRating42" style="width:0%;"></li></ul></div>
+<a class="e-category" href="/publ/11_j_klass/11">11-й класс</a><span class="ed-sep"> | </span>
+<span class="e-reads"><span class="ed-title">Просмотров:</span> <span class="ed-value">13236</span></span><span class="ed-sep"> | </span>
+
+<span class="e-date"><span class="ed-title">Дата:</span> <span class="ed-value"title="11:02">04.06.2016</span></span>
+<span class="ed-sep"> | </span><a class="e-comments" href="/publ/11_j_klass/sochinenie_po_rasskazu_a_p_chekhova_kryzhovnik/11-1-0-42#comments">Комментарии (0)</a>
+</div></td></tr></table><br /></div><div id="entryID2826"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="eBlock"><tr><td style="padding:3px;">
+
+<div class="eTitle" style="text-align:left;"><a href="/publ/7_j_klass/jubilej_shkoly/7-1-0-2826">Юбилей школы</a></div>
+<div class="eDetails" style="clear:both;">
+<div style="float:right"><ul id="uStarRating2826" class="uStarRating2826 u-star-rating-12" title="Рейтинг: 0.0/0">
+			<li id="uCurStarRating2826" class="u-current-rating uCurStarRating2826" style="width:0%;"></li></ul></div>
+<a class="e-category" href="/publ/7_j_klass/7">7-й класс</a><span class="ed-sep"> | </span>
+<span class="e-reads"><span class="ed-title">Просмотров:</span> <span class="ed-value">12688</span></span><span class="ed-sep"> | </span>
+
+<span class="e-date"><span class="ed-title">Дата:</span> <span class="ed-value"title="13:29">05.09.2018</span></span>
+<span class="ed-sep"> | </span><a class="e-comments" href="/publ/7_j_klass/jubilej_shkoly/7-1-0-2826#comments">Комментарии (0)</a>
+</div></td></tr></table><br /></div><div id="entryID2825"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="eBlock"><tr><td style="padding:3px;">
+
+<div class="eTitle" style="text-align:left;"><a href="/publ/11_j_klass/spor_pokolenij/11-1-0-2825">Спор поколений</a></div>
+<div class="eDetails" style="clear:both;">
+<div style="float:right"><ul id="uStarRating2825" class="uStarRating2825 u-star-rating-12" title="Рейтинг: 5.0/1">
+			<li id="uCurStarRating2825" class="u-current-rating uCurStarRating2825" style="width:100%;"></li></ul></div>
+<a class="e-category" href="/publ/11_j_klass/11">11-й класс</a><span class="ed-sep"> | </span>
+<span class="e-reads"><span class="ed-title">Просмотров:</span> <span class="ed-value">12554</span></span><span class="ed-sep"> | </span>
+
+<span class="e-date"><span class="ed-title">Дата:</span> <span class="ed-value"title="13:27">05.09.2018</span></span>
+<span class="ed-sep"> | </span><a class="e-comments" href="/publ/11_j_klass/spor_pokolenij/11-1-0-2825#comments">Комментарии (0)</a>
+</div></td></tr></table><br /></div><div id="entryID18"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="eBlock"><tr><td style="padding:3px;">
+
+<div class="eTitle" style="text-align:left;"><a href="/publ/6_j_klass/sochinenie_po_rasskazu_a_p_chekhova_khameleon/6-1-0-18">Сочинение по рассказу А.П. Чехова «Хамелеон»</a></div>
+<div class="eDetails" style="clear:both;">
+<div style="float:right"><ul id="uStarRating18" class="uStarRating18 u-star-rating-12" title="Рейтинг: 0.0/0">
+			<li id="uCurStarRating18" class="u-current-rating uCurStarRating18" style="width:0%;"></li></ul></div>
+<a class="e-category" href="/publ/6_j_klass/6">6-й класс</a><span class="ed-sep"> | </span>
+<span class="e-reads"><span class="ed-title">Просмотров:</span> <span class="ed-value">12216</span></span><span class="ed-sep"> | </span>
+
+<span class="e-date"><span class="ed-title">Дата:</span> <span class="ed-value"title="16:37">31.05.2016</span></span>
+<span class="ed-sep"> | </span><a class="e-comments" href="/publ/6_j_klass/sochinenie_po_rasskazu_a_p_chekhova_khameleon/6-1-0-18#comments">Комментарии (0)</a>
+</div></td></tr></table><br /></div><div id="entryID26"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="eBlock"><tr><td style="padding:3px;">
+
+<div class="eTitle" style="text-align:left;"><a href="/publ/7_j_klass/sochinenie_po_kartine_i_i_shishkina_utro_v_sosnovom_lesu/7-1-0-26">Сочинение по картине И.И. Шишкина «Утро в сосновом лесу»</a></div>
+<div class="eDetails" style="clear:both;">
+<div style="float:right"><ul id="uStarRating26" class="uStarRating26 u-star-rating-12" title="Рейтинг: 0.0/0">
+			<li id="uCurStarRating26" class="u-current-rating uCurStarRating26" style="width:0%;"></li></ul></div>
+<a class="e-category" href="/publ/7_j_klass/7">7-й класс</a><span class="ed-sep"> | </span>
+<span class="e-reads"><span class="ed-title">Просмотров:</span> <span class="ed-value">12137</span></span><span class="ed-sep"> | </span>
+
+<span class="e-date"><span class="ed-title">Дата:</span> <span class="ed-value"title="18:52">01.06.2016</span></span>
+<span class="ed-sep"> | </span><a class="e-comments" href="/publ/7_j_klass/sochinenie_po_kartine_i_i_shishkina_utro_v_sosnovom_lesu/7-1-0-26#comments">Комментарии (0)</a>
+</div></td></tr></table><br /></div><div id="entryID373"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="eBlock"><tr><td style="padding:3px;">
+
+<div class="eTitle" style="text-align:left;"><a href="/publ/6_j_klass/kak_metel_povlijala_na_techenie_zhizni_geroev_odnoimjonnoj_povesti_a_s_pushkina/6-1-0-373">Как метель повлияла на течение жизни героев одноимённой повести А.С. Пушкина</a></div>
+<div class="eDetails" style="clear:both;">
+<div style="float:right"><ul id="uStarRating373" class="uStarRating373 u-star-rating-12" title="Рейтинг: 0.0/0">
+			<li id="uCurStarRating373" class="u-current-rating uCurStarRating373" style="width:0%;"></li></ul></div>
+<a class="e-category" href="/publ/6_j_klass/6">6-й класс</a><span class="ed-sep"> | </span>
+<span class="e-reads"><span class="ed-title">Просмотров:</span> <span class="ed-value">11838</span></span><span class="ed-sep"> | </span>
+
+<span class="e-date"><span class="ed-title">Дата:</span> <span class="ed-value"title="17:02">30.08.2016</span></span>
+<span class="ed-sep"> | </span><a class="e-comments" href="/publ/6_j_klass/kak_metel_povlijala_na_techenie_zhizni_geroev_odnoimjonnoj_povesti_a_s_pushkina/6-1-0-373#comments">Комментарии (0)</a>
+</div></td></tr></table><br /></div><div id="entryID583"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="eBlock"><tr><td style="padding:3px;">
+
+<div class="eTitle" style="text-align:left;"><a href="/publ/5_j_klass/kakoj_ty_sled_ostavish_na_zemle/5-1-0-583">Какой ты след оставишь на Земле?</a></div>
+<div class="eDetails" style="clear:both;">
+<div style="float:right"><ul id="uStarRating583" class="uStarRating583 u-star-rating-12" title="Рейтинг: 4.4/14">
+			<li id="uCurStarRating583" class="u-current-rating uCurStarRating583" style="width:88%;"></li></ul></div>
+<a class="e-category" href="/publ/5_j_klass/5">5-й класс</a><span class="ed-sep"> | </span>
+<span class="e-reads"><span class="ed-title">Просмотров:</span> <span class="ed-value">11731</span></span><span class="ed-sep"> | </span>
+
+<span class="e-date"><span class="ed-title">Дата:</span> <span class="ed-value"title="10:22">18.10.2017</span></span>
+<span class="ed-sep"> | </span><a class="e-comments" href="/publ/5_j_klass/kakoj_ty_sled_ostavish_na_zemle/5-1-0-583#comments">Комментарии (0)</a>
+</div></td></tr></table><br /></div><div id="entryID1489"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="eBlock"><tr><td style="padding:3px;">
+
+<div class="eTitle" style="text-align:left;"><a href="/publ/7_j_klass/sochinenie_po_proizvedeniju_gogolja_taras_bulba/7-1-0-1489">Сочинение по произведению Гоголя «Тарас Бульба»</a></div>
+<div class="eDetails" style="clear:both;">
+<div style="float:right"><ul id="uStarRating1489" class="uStarRating1489 u-star-rating-12" title="Рейтинг: 5.0/1">
+			<li id="uCurStarRating1489" class="u-current-rating uCurStarRating1489" style="width:100%;"></li></ul></div>
+<a class="e-category" href="/publ/7_j_klass/7">7-й класс</a><span class="ed-sep"> | </span>
+<span class="e-reads"><span class="ed-title">Просмотров:</span> <span class="ed-value">11620</span></span><span class="ed-sep"> | </span>
+
+<span class="e-date"><span class="ed-title">Дата:</span> <span class="ed-value"title="11:23">28.07.2018</span></span>
+<span class="ed-sep"> | </span><a class="e-comments" href="/publ/7_j_klass/sochinenie_po_proizvedeniju_gogolja_taras_bulba/7-1-0-1489#comments">Комментарии (0)</a>
+</div></td></tr></table><br /></div><div id="entryID80"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="eBlock"><tr><td style="padding:3px;">
+
+<div class="eTitle" style="text-align:left;"><a href="/publ/11_j_klass/zhiznennyj_put_grineva_v_proizvedenii_a_s_pushkina_kapitanskaja_dochka/11-1-0-80">Жизненный путь Гринева в произведении А.С. Пушкина «Капитанская дочка»</a></div>
+<div class="eDetails" style="clear:both;">
+<div style="float:right"><ul id="uStarRating80" class="uStarRating80 u-star-rating-12" title="Рейтинг: 4.5/4">
+			<li id="uCurStarRating80" class="u-current-rating uCurStarRating80" style="width:90%;"></li></ul></div>
+<a class="e-category" href="/publ/11_j_klass/11">11-й класс</a><span class="ed-sep"> | </span>
+<span class="e-reads"><span class="ed-title">Просмотров:</span> <span class="ed-value">11333</span></span><span class="ed-sep"> | </span>
+
+<span class="e-date"><span class="ed-title">Дата:</span> <span class="ed-value"title="22:10">08.06.2016</span></span>
+<span class="ed-sep"> | </span><a class="e-comments" href="/publ/11_j_klass/zhiznennyj_put_grineva_v_proizvedenii_a_s_pushkina_kapitanskaja_dochka/11-1-0-80#comments">Комментарии (0)</a>
+</div></td></tr></table><br /></div><div id="entryID2824"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="eBlock"><tr><td style="padding:3px;">
+
+<div class="eTitle" style="text-align:left;"><a href="/publ/3_j_klass/leto_i_les/3-1-0-2824">Лето и лес</a></div>
+<div class="eDetails" style="clear:both;">
+<div style="float:right"><ul id="uStarRating2824" class="uStarRating2824 u-star-rating-12" title="Рейтинг: 0.0/0">
+			<li id="uCurStarRating2824" class="u-current-rating uCurStarRating2824" style="width:0%;"></li></ul></div>
+<a class="e-category" href="/publ/3_j_klass/3">3-й класс</a><span class="ed-sep"> | </span>
+<span class="e-reads"><span class="ed-title">Просмотров:</span> <span class="ed-value">11333</span></span><span class="ed-sep"> | </span>
+
+<span class="e-date"><span class="ed-title">Дата:</span> <span class="ed-value"title="13:24">05.09.2018</span></span>
+<span class="ed-sep"> | </span><a class="e-comments" href="/publ/3_j_klass/leto_i_les/3-1-0-2824#comments">Комментарии (0)</a>
+</div></td></tr></table><br /></div><div id="entryID584"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="eBlock"><tr><td style="padding:3px;">
+
+<div class="eTitle" style="text-align:left;"><a href="/publ/8_j_klass/tema_poehta_v_stikhotvorenijakh_m_ju_lermontova/8-1-0-584">Тема поэта в стихотворениях М.Ю. Лермонтова</a></div>
+<div class="eDetails" style="clear:both;">
+<div style="float:right"><ul id="uStarRating584" class="uStarRating584 u-star-rating-12" title="Рейтинг: 5.0/1">
+			<li id="uCurStarRating584" class="u-current-rating uCurStarRating584" style="width:100%;"></li></ul></div>
+<a class="e-category" href="/publ/8_j_klass/8">8-й класс</a><span class="ed-sep"> | </span>
+<span class="e-reads"><span class="ed-title">Просмотров:</span> <span class="ed-value">11171</span></span><span class="ed-sep"> | </span>
+
+<span class="e-date"><span class="ed-title">Дата:</span> <span class="ed-value"title="19:26">18.10.2017</span></span>
+<span class="ed-sep"> | </span><a class="e-comments" href="/publ/8_j_klass/tema_poehta_v_stikhotvorenijakh_m_ju_lermontova/8-1-0-584#comments">Комментарии (0)</a>
+</div></td></tr></table><br /></div><div id="entryID1490"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="eBlock"><tr><td style="padding:3px;">
+
+<div class="eTitle" style="text-align:left;"><a href="/publ/8_j_klass/chto_takoe_druzhba/8-1-0-1490">Что такое дружба?</a></div>
+<div class="eDetails" style="clear:both;">
+<div style="float:right"><ul id="uStarRating1490" class="uStarRating1490 u-star-rating-12" title="Рейтинг: 3.0/2">
+			<li id="uCurStarRating1490" class="u-current-rating uCurStarRating1490" style="width:60%;"></li></ul></div>
+<a class="e-category" href="/publ/8_j_klass/8">8-й класс</a><span class="ed-sep"> | </span>
+<span class="e-reads"><span class="ed-title">Просмотров:</span> <span class="ed-value">11129</span></span><span class="ed-sep"> | </span>
+
+<span class="e-date"><span class="ed-title">Дата:</span> <span class="ed-value"title="11:27">28.07.2018</span></span>
+<span class="ed-sep"> | </span><a class="e-comments" href="/publ/8_j_klass/chto_takoe_druzhba/8-1-0-1490#comments">Комментарии (0)</a>
+</div></td></tr></table><br /></div><div id="entryID651"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="eBlock"><tr><td style="padding:3px;">
+
+<div class="eTitle" style="text-align:left;"><a href="/publ/5_j_klass/zabavnye_istorii_iz_moej_zhizni/5-1-0-651">Забавные истории из моей жизни</a></div>
+<div class="eDetails" style="clear:both;">
+<div style="float:right"><ul id="uStarRating651" class="uStarRating651 u-star-rating-12" title="Рейтинг: 3.5/4">
+			<li id="uCurStarRating651" class="u-current-rating uCurStarRating651" style="width:70%;"></li></ul></div>
+<a class="e-category" href="/publ/5_j_klass/5">5-й класс</a><span class="ed-sep"> | </span>
+<span class="e-reads"><span class="ed-title">Просмотров:</span> <span class="ed-value">10800</span></span><span class="ed-sep"> | </span>
+
+<span class="e-date"><span class="ed-title">Дата:</span> <span class="ed-value"title="20:17">07.11.2017</span></span>
+<span class="ed-sep"> | </span><a class="e-comments" href="/publ/5_j_klass/zabavnye_istorii_iz_moej_zhizni/5-1-0-651#comments">Комментарии (0)</a>
+</div></td></tr></table><br /></div><div id="entryID81"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="eBlock"><tr><td style="padding:3px;">
+
+<div class="eTitle" style="text-align:left;"><a href="/publ/7_j_klass/kakova_aktualnost_obrazov_komedii_nedorosl_na_segodnjashnij_den/7-1-0-81">Какова актуальность образов комедии «Недоросль», на сегодняшний день?</a></div>
+<div class="eDetails" style="clear:both;">
+<div style="float:right"><ul id="uStarRating81" class="uStarRating81 u-star-rating-12" title="Рейтинг: 0.0/0">
+			<li id="uCurStarRating81" class="u-current-rating uCurStarRating81" style="width:0%;"></li></ul></div>
+<a class="e-category" href="/publ/7_j_klass/7">7-й класс</a><span class="ed-sep"> | </span>
+<span class="e-reads"><span class="ed-title">Просмотров:</span> <span class="ed-value">10794</span></span><span class="ed-sep"> | </span>
+
+<span class="e-date"><span class="ed-title">Дата:</span> <span class="ed-value"title="22:16">08.06.2016</span></span>
+<span class="ed-sep"> | </span><a class="e-comments" href="/publ/7_j_klass/kakova_aktualnost_obrazov_komedii_nedorosl_na_segodnjashnij_den/7-1-0-81#comments">Комментарии (0)</a>
+</div></td></tr></table><br /></div><div id="entryID5"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="eBlock"><tr><td style="padding:3px;">
+
+<div class="eTitle" style="text-align:left;"><a href="/publ/11_j_klass/obraz_starukhi_v_skazke_a_s_pushkina_o_rybake_i_rybke/11-1-0-5">Образ старухи в сказке А.С. Пушкина «О рыбаке и рыбке»</a></div>
+<div class="eDetails" style="clear:both;">
+<div style="float:right"><ul id="uStarRating5" class="uStarRating5 u-star-rating-12" title="Рейтинг: 5.0/1">
+			<li id="uCurStarRating5" class="u-current-rating uCurStarRating5" style="width:100%;"></li></ul></div>
+<a class="e-category" href="/publ/11_j_klass/11">11-й класс</a><span class="ed-sep"> | </span>
+<span class="e-reads"><span class="ed-title">Просмотров:</span> <span class="ed-value">10604</span></span><span class="ed-sep"> | </span>
+
+<span class="e-date"><span class="ed-title">Дата:</span> <span class="ed-value"title="16:26">25.05.2016</span></span>
+<span class="ed-sep"> | </span><a class="e-comments" href="/publ/11_j_klass/obraz_starukhi_v_skazke_a_s_pushkina_o_rybake_i_rybke/11-1-0-5#comments">Комментарии (0)</a>
+</div></td></tr></table><br /></div><div id="entryID25"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="eBlock"><tr><td style="padding:3px;">
+
+<div class="eTitle" style="text-align:left;"><a href="/publ/7_j_klass/sochinenie_po_skazke_m_e_saltykova_shhedrina_premudryj_peskar/7-1-0-25">Сочинение по сказке М.Е. Салтыкова-Щедрина «Премудрый пескарь»</a></div>
+<div class="eDetails" style="clear:both;">
+<div style="float:right"><ul id="uStarRating25" class="uStarRating25 u-star-rating-12" title="Рейтинг: 3.0/2">
+			<li id="uCurStarRating25" class="u-current-rating uCurStarRating25" style="width:60%;"></li></ul></div>
+<a class="e-category" href="/publ/7_j_klass/7">7-й класс</a><span class="ed-sep"> | </span>
+<span class="e-reads"><span class="ed-title">Просмотров:</span> <span class="ed-value">10560</span></span><span class="ed-sep"> | </span>
+
+<span class="e-date"><span class="ed-title">Дата:</span> <span class="ed-value"title="18:47">01.06.2016</span></span>
+<span class="ed-sep"> | </span><a class="e-comments" href="/publ/7_j_klass/sochinenie_po_skazke_m_e_saltykova_shhedrina_premudryj_peskar/7-1-0-25#comments">Комментарии (0)</a>
+</div></td></tr></table><br /></div><div id="entryID50"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="eBlock"><tr><td style="padding:3px;">
+
+<div class="eTitle" style="text-align:left;"><a href="/publ/11_j_klass/tri_mira_v_romane_master_i_margarita/11-1-0-50">Три мира в романе &quot;Мастер и Маргарита&quot;</a></div>
+<div class="eDetails" style="clear:both;">
+<div style="float:right"><ul id="uStarRating50" class="uStarRating50 u-star-rating-12" title="Рейтинг: 5.0/1">
+			<li id="uCurStarRating50" class="u-current-rating uCurStarRating50" style="width:100%;"></li></ul></div>
+<a class="e-category" href="/publ/11_j_klass/11">11-й класс</a><span class="ed-sep"> | </span>
+<span class="e-reads"><span class="ed-title">Просмотров:</span> <span class="ed-value">10331</span></span><span class="ed-sep"> | </span>
+
+<span class="e-date"><span class="ed-title">Дата:</span> <span class="ed-value"title="12:29">05.06.2016</span></span>
+<span class="ed-sep"> | </span><a class="e-comments" href="/publ/11_j_klass/tri_mira_v_romane_master_i_margarita/11-1-0-50#comments">Комментарии (0)</a>
+</div></td></tr></table><br /></div><div id="entryID582"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="eBlock"><tr><td style="padding:3px;">
+
+<div class="eTitle" style="text-align:left;"><a href="/publ/11_j_klass/obraz_sharikova_iz_proizvedenija_m_bulgakova_sobache_serdce/11-1-0-582">Образ Шарикова из произведения М. Булгакова &quot;Собачье сердце&quot;</a></div>
+<div class="eDetails" style="clear:both;">
+<div style="float:right"><ul id="uStarRating582" class="uStarRating582 u-star-rating-12" title="Рейтинг: 5.0/1">
+			<li id="uCurStarRating582" class="u-current-rating uCurStarRating582" style="width:100%;"></li></ul></div>
+<a class="e-category" href="/publ/11_j_klass/11">11-й класс</a><span class="ed-sep"> | </span>
+<span class="e-reads"><span class="ed-title">Просмотров:</span> <span class="ed-value">10251</span></span><span class="ed-sep"> | </span>
+
+<span class="e-date"><span class="ed-title">Дата:</span> <span class="ed-value"title="10:18">18.10.2017</span></span>
+<span class="ed-sep"> | </span><a class="e-comments" href="/publ/11_j_klass/obraz_sharikova_iz_proizvedenija_m_bulgakova_sobache_serdce/11-1-0-582#comments">Комментарии (0)</a>
+</div></td></tr></table><br /></div><div id="entryID14"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="eBlock"><tr><td style="padding:3px;">
+
+<div class="eTitle" style="text-align:left;"><a href="/publ/9_j_klass/chto_menja_zakhvatyvaet_i_chto_ja_osuzhdaju_v_glavnom_geroe_romana_m_ju_lermontova_geroj_nashego_vremeni/9-1-0-14">Что меня захватывает и что я осуждаю в главном герое романа М.Ю.Лермонтова «Герой нашего времени»</a></div>
+<div class="eDetails" style="clear:both;">
+<div style="float:right"><ul id="uStarRating14" class="uStarRating14 u-star-rating-12" title="Рейтинг: 5.0/1">
+			<li id="uCurStarRating14" class="u-current-rating uCurStarRating14" style="width:100%;"></li></ul></div>
+<a class="e-category" href="/publ/9_j_klass/9">9-й класс</a><span class="ed-sep"> | </span>
+<span class="e-reads"><span class="ed-title">Просмотров:</span> <span class="ed-value">10113</span></span><span class="ed-sep"> | </span>
+
+<span class="e-date"><span class="ed-title">Дата:</span> <span class="ed-value"title="23:42">30.05.2016</span></span>
+<span class="ed-sep"> | </span><a class="e-comments" href="/publ/9_j_klass/chto_menja_zakhvatyvaet_i_chto_ja_osuzhdaju_v_glavnom_geroe_romana_m_ju_lermontova_geroj_nashego_vremeni/9-1-0-14#comments">Комментарии (0)</a>
+</div></td></tr></table><br /></div><div id="entryID652"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="eBlock"><tr><td style="padding:3px;">
+
+<div class="eTitle" style="text-align:left;"><a href="/publ/5_j_klass/pokhod/5-1-0-652">Поход</a></div>
+<div class="eDetails" style="clear:both;">
+<div style="float:right"><ul id="uStarRating652" class="uStarRating652 u-star-rating-12" title="Рейтинг: 0.0/0">
+			<li id="uCurStarRating652" class="u-current-rating uCurStarRating652" style="width:0%;"></li></ul></div>
+<a class="e-category" href="/publ/5_j_klass/5">5-й класс</a><span class="ed-sep"> | </span>
+<span class="e-reads"><span class="ed-title">Просмотров:</span> <span class="ed-value">9689</span></span><span class="ed-sep"> | </span>
+
+<span class="e-date"><span class="ed-title">Дата:</span> <span class="ed-value"title="20:21">07.11.2017</span></span>
+<span class="ed-sep"> | </span><a class="e-comments" href="/publ/5_j_klass/pokhod/5-1-0-652#comments">Комментарии (0)</a>
+</div></td></tr></table><br /></div><div id="entryID79"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="eBlock"><tr><td style="padding:3px;">
+
+<div class="eTitle" style="text-align:left;"><a href="/publ/10_j_klass/obrazy_pomeshhikov_v_poehme_mjortvye_dushi/10-1-0-79">Образы помещиков в поэме &quot;Мёртвые души&quot;</a></div>
+<div class="eDetails" style="clear:both;">
+<div style="float:right"><ul id="uStarRating79" class="uStarRating79 u-star-rating-12" title="Рейтинг: 0.0/0">
+			<li id="uCurStarRating79" class="u-current-rating uCurStarRating79" style="width:0%;"></li></ul></div>
+<a class="e-category" href="/publ/10_j_klass/10">10-й класс</a><span class="ed-sep"> | </span>
+<span class="e-reads"><span class="ed-title">Просмотров:</span> <span class="ed-value">9487</span></span><span class="ed-sep"> | </span>
+
+<span class="e-date"><span class="ed-title">Дата:</span> <span class="ed-value"title="21:39">08.06.2016</span></span>
+<span class="ed-sep"> | </span><a class="e-comments" href="/publ/10_j_klass/obrazy_pomeshhikov_v_poehme_mjortvye_dushi/10-1-0-79#comments">Комментарии (0)</a>
+</div></td></tr></table><br /></div><div id="entryID13"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="eBlock"><tr><td style="padding:3px;">
+
+<div class="eTitle" style="text-align:left;"><a href="/publ/5_j_klass/sochinenie_po_skazke_a_pogorelskogo_chernaja_kurica_ili_podzemnye_zhiteli/5-1-0-13">Сочинение по сказке А. Погорельского «Черная курица, или Подземные жители»</a></div>
+<div class="eDetails" style="clear:both;">
+<div style="float:right"><ul id="uStarRating13" class="uStarRating13 u-star-rating-12" title="Рейтинг: 4.1/8">
+			<li id="uCurStarRating13" class="u-current-rating uCurStarRating13" style="width:82%;"></li></ul></div>
+<a class="e-category" href="/publ/5_j_klass/5">5-й класс</a><span class="ed-sep"> | </span>
+<span class="e-reads"><span class="ed-title">Просмотров:</span> <span class="ed-value">9477</span></span><span class="ed-sep"> | </span>
+
+<span class="e-date"><span class="ed-title">Дата:</span> <span class="ed-value"title="13:15">30.05.2016</span></span>
+<span class="ed-sep"> | </span><a class="e-comments" href="/publ/5_j_klass/sochinenie_po_skazke_a_pogorelskogo_chernaja_kurica_ili_podzemnye_zhiteli/5-1-0-13#comments">Комментарии (0)</a>
+</div></td></tr></table><br /></div><div id="entryID1488"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="eBlock"><tr><td style="padding:3px;">
+
+<div class="eTitle" style="text-align:left;"><a href="/publ/7_j_klass/gorod_moej_mechty_tokio/7-1-0-1488">Город моей мечты - Токио</a></div>
+<div class="eDetails" style="clear:both;">
+<div style="float:right"><ul id="uStarRating1488" class="uStarRating1488 u-star-rating-12" title="Рейтинг: 0.0/0">
+			<li id="uCurStarRating1488" class="u-current-rating uCurStarRating1488" style="width:0%;"></li></ul></div>
+<a class="e-category" href="/publ/7_j_klass/7">7-й класс</a><span class="ed-sep"> | </span>
+<span class="e-reads"><span class="ed-title">Просмотров:</span> <span class="ed-value">9365</span></span><span class="ed-sep"> | </span>
+
+<span class="e-date"><span class="ed-title">Дата:</span> <span class="ed-value"title="11:16">28.07.2018</span></span>
+<span class="ed-sep"> | </span><a class="e-comments" href="/publ/7_j_klass/gorod_moej_mechty_tokio/7-1-0-1488#comments">Комментарии (0)</a>
+</div></td></tr></table><br /></div><div id="entryID1404"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="eBlock"><tr><td style="padding:3px;">
+
+<div class="eTitle" style="text-align:left;"><a href="/publ/10_j_klass/pismo_oblomovu/10-1-0-1404">Письмо Обломову</a></div>
+<div class="eDetails" style="clear:both;">
+<div style="float:right"><ul id="uStarRating1404" class="uStarRating1404 u-star-rating-12" title="Рейтинг: 5.0/2">
+			<li id="uCurStarRating1404" class="u-current-rating uCurStarRating1404" style="width:100%;"></li></ul></div>
+<a class="e-category" href="/publ/10_j_klass/10">10-й класс</a><span class="ed-sep"> | </span>
+<span class="e-reads"><span class="ed-title">Просмотров:</span> <span class="ed-value">9315</span></span><span class="ed-sep"> | </span>
+
+<span class="e-date"><span class="ed-title">Дата:</span> <span class="ed-value"title="15:23">24.07.2018</span></span>
+<span class="ed-sep"> | </span><a class="e-comments" href="/publ/10_j_klass/pismo_oblomovu/10-1-0-1404#comments">Комментарии (0)</a>
+</div></td></tr></table><br /></div><div id="entryID12"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="eBlock"><tr><td style="padding:3px;">
+
+<div class="eTitle" style="text-align:left;"><a href="/publ/3_j_klass/sochinenie_po_rasskazu_n_n_nosova_fantazery/3-1-0-12">Сочинение по рассказу Н.Н. Носова «Фантазеры»</a></div>
+<div class="eDetails" style="clear:both;">
+<div style="float:right"><ul id="uStarRating12" class="uStarRating12 u-star-rating-12" title="Рейтинг: 5.0/2">
+			<li id="uCurStarRating12" class="u-current-rating uCurStarRating12" style="width:100%;"></li></ul></div>
+<a class="e-category" href="/publ/3_j_klass/3">3-й класс</a><span class="ed-sep"> | </span>
+<span class="e-reads"><span class="ed-title">Просмотров:</span> <span class="ed-value">9170</span></span><span class="ed-sep"> | </span>
+
+<span class="e-date"><span class="ed-title">Дата:</span> <span class="ed-value"title="16:34">28.05.2016</span></span>
+<span class="ed-sep"> | </span><a class="e-comments" href="/publ/3_j_klass/sochinenie_po_rasskazu_n_n_nosova_fantazery/3-1-0-12#comments">Комментарии (0)</a>
+</div></td></tr></table><br /></div><div id="entryID17"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="eBlock"><tr><td style="padding:3px;">
+
+<div class="eTitle" style="text-align:left;"><a href="/publ/6_j_klass/sochinenie_po_rasskazu_a_p_chekhova_tolstyj_i_tonkij/6-1-0-17">Сочинение по рассказу А.П. Чехова «Толстый и тонкий»</a></div>
+<div class="eDetails" style="clear:both;">
+<div style="float:right"><ul id="uStarRating17" class="uStarRating17 u-star-rating-12" title="Рейтинг: 4.1/11">
+			<li id="uCurStarRating17" class="u-current-rating uCurStarRating17" style="width:82%;"></li></ul></div>
+<a class="e-category" href="/publ/6_j_klass/6">6-й класс</a><span class="ed-sep"> | </span>
+<span class="e-reads"><span class="ed-title">Просмотров:</span> <span class="ed-value">9154</span></span><span class="ed-sep"> | </span>
+
+<span class="e-date"><span class="ed-title">Дата:</span> <span class="ed-value"title="16:35">31.05.2016</span></span>
+<span class="ed-sep"> | </span><a class="e-comments" href="/publ/6_j_klass/sochinenie_po_rasskazu_a_p_chekhova_tolstyj_i_tonkij/6-1-0-17#comments">Комментарии (0)</a>
+</div></td></tr></table><br /></div><div id="entryID16"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="eBlock"><tr><td style="padding:3px;">
+
+<div class="eTitle" style="text-align:left;"><a href="/publ/6_j_klass/analiz_ballady_lesnoj_car_i_gete_v_perevode_v_zhukovskogo/6-1-0-16">Анализ баллады «Лесной царь» И. Гете в переводе В. Жуковского</a></div>
+<div class="eDetails" style="clear:both;">
+<div style="float:right"><ul id="uStarRating16" class="uStarRating16 u-star-rating-12" title="Рейтинг: 0.0/0">
+			<li id="uCurStarRating16" class="u-current-rating uCurStarRating16" style="width:0%;"></li></ul></div>
+<a class="e-category" href="/publ/6_j_klass/6">6-й класс</a><span class="ed-sep"> | </span>
+<span class="e-reads"><span class="ed-title">Просмотров:</span> <span class="ed-value">9097</span></span><span class="ed-sep"> | </span>
+
+<span class="e-date"><span class="ed-title">Дата:</span> <span class="ed-value"title="16:33">31.05.2016</span></span>
+<span class="ed-sep"> | </span><a class="e-comments" href="/publ/6_j_klass/analiz_ballady_lesnoj_car_i_gete_v_perevode_v_zhukovskogo/6-1-0-16#comments">Комментарии (0)</a>
+</div></td></tr></table><br /></div><div id="entryID6"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="eBlock"><tr><td style="padding:3px;">
+
+<div class="eTitle" style="text-align:left;"><a href="/publ/11_j_klass/dobro_i_zlo_v_romane_m_bulgakova_master_i_margarita/11-1-0-6">Добро и зло в романе М.Булгакова &quot;Мастер и Маргарита&quot;</a></div>
+<div class="eDetails" style="clear:both;">
+<div style="float:right"><ul id="uStarRating6" class="uStarRating6 u-star-rating-12" title="Рейтинг: 4.3/3">
+			<li id="uCurStarRating6" class="u-current-rating uCurStarRating6" style="width:86%;"></li></ul></div>
+<a class="e-category" href="/publ/11_j_klass/11">11-й класс</a><span class="ed-sep"> | </span>
+<span class="e-reads"><span class="ed-title">Просмотров:</span> <span class="ed-value">9086</span></span><span class="ed-sep"> | </span>
+
+<span class="e-date"><span class="ed-title">Дата:</span> <span class="ed-value"title="16:34">25.05.2016</span></span>
+<span class="ed-sep"> | </span><a class="e-comments" href="/publ/11_j_klass/dobro_i_zlo_v_romane_m_bulgakova_master_i_margarita/11-1-0-6#comments">Комментарии (0)</a>
+</div></td></tr></table><br /></div><div id="entryID49"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="eBlock"><tr><td style="padding:3px;">
+
+<div class="eTitle" style="text-align:left;"><a href="/publ/5_j_klass/sochinenie_po_basne_i_a_krylova_vorona_i_lisica/5-1-0-49">Сочинение по басне И.А. Крылова «Ворона и лисица»</a></div>
+<div class="eDetails" style="clear:both;">
+<div style="float:right"><ul id="uStarRating49" class="uStarRating49 u-star-rating-12" title="Рейтинг: 3.0/5">
+			<li id="uCurStarRating49" class="u-current-rating uCurStarRating49" style="width:60%;"></li></ul></div>
+<a class="e-category" href="/publ/5_j_klass/5">5-й класс</a><span class="ed-sep"> | </span>
+<span class="e-reads"><span class="ed-title">Просмотров:</span> <span class="ed-value">8987</span></span><span class="ed-sep"> | </span>
+
+<span class="e-date"><span class="ed-title">Дата:</span> <span class="ed-value"title="09:55">05.06.2016</span></span>
+<span class="ed-sep"> | </span><a class="e-comments" href="/publ/5_j_klass/sochinenie_po_basne_i_a_krylova_vorona_i_lisica/5-1-0-49#comments">Комментарии (0)</a>
+</div></td></tr></table><br /></div><div id="entryID11"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="eBlock"><tr><td style="padding:3px;">
+
+<div class="eTitle" style="text-align:left;"><a href="/publ/10_j_klass/sochinenie_po_rasskazu_dzheka_londona_ljubov_k_zhizni/10-1-0-11">Сочинение по рассказу Джека Лондона «Любовь к жизни»</a></div>
+<div class="eDetails" style="clear:both;">
+<div style="float:right"><ul id="uStarRating11" class="uStarRating11 u-star-rating-12" title="Рейтинг: 5.0/1">
+			<li id="uCurStarRating11" class="u-current-rating uCurStarRating11" style="width:100%;"></li></ul></div>
+<a class="e-category" href="/publ/10_j_klass/10">10-й класс</a><span class="ed-sep"> | </span>
+<span class="e-reads"><span class="ed-title">Просмотров:</span> <span class="ed-value">8971</span></span><span class="ed-sep"> | </span>
+
+<span class="e-date"><span class="ed-title">Дата:</span> <span class="ed-value"title="15:06">28.05.2016</span></span>
+<span class="ed-sep"> | </span><a class="e-comments" href="/publ/10_j_klass/sochinenie_po_rasskazu_dzheka_londona_ljubov_k_zhizni/10-1-0-11#comments">Комментарии (0)</a>
+</div></td></tr></table><br /></div><div id="entryID1405"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="eBlock"><tr><td style="padding:3px;">
+
+<div class="eTitle" style="text-align:left;"><a href="/publ/6_j_klass/zachem_nuzhno_uchitsja/6-1-0-1405">Зачем нужно учиться?</a></div>
+<div class="eDetails" style="clear:both;">
+<div style="float:right"><ul id="uStarRating1405" class="uStarRating1405 u-star-rating-12" title="Рейтинг: 0.0/0">
+			<li id="uCurStarRating1405" class="u-current-rating uCurStarRating1405" style="width:0%;"></li></ul></div>
+<a class="e-category" href="/publ/6_j_klass/6">6-й класс</a><span class="ed-sep"> | </span>
+<span class="e-reads"><span class="ed-title">Просмотров:</span> <span class="ed-value">8881</span></span><span class="ed-sep"> | </span>
+
+<span class="e-date"><span class="ed-title">Дата:</span> <span class="ed-value"title="15:27">24.07.2018</span></span>
+<span class="ed-sep"> | </span><a class="e-comments" href="/publ/6_j_klass/zachem_nuzhno_uchitsja/6-1-0-1405#comments">Комментарии (0)</a>
+</div></td></tr></table><br /></div><div id="entryID19"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="eBlock"><tr><td style="padding:3px;">
+
+<div class="eTitle" style="text-align:left;"><a href="/publ/5_j_klass/sochinenie_po_rasskazu_a_platonova_nikita/5-1-0-19">Сочинение по рассказу А. Платонова «Никита»</a></div>
+<div class="eDetails" style="clear:both;">
+<div style="float:right"><ul id="uStarRating19" class="uStarRating19 u-star-rating-12" title="Рейтинг: 4.0/6">
+			<li id="uCurStarRating19" class="u-current-rating uCurStarRating19" style="width:80%;"></li></ul></div>
+<a class="e-category" href="/publ/5_j_klass/5">5-й класс</a><span class="ed-sep"> | </span>
+<span class="e-reads"><span class="ed-title">Просмотров:</span> <span class="ed-value">8866</span></span><span class="ed-sep"> | </span>
+
+<span class="e-date"><span class="ed-title">Дата:</span> <span class="ed-value"title="17:22">31.05.2016</span></span>
+<span class="ed-sep"> | </span><a class="e-comments" href="/publ/5_j_klass/sochinenie_po_rasskazu_a_platonova_nikita/5-1-0-19#comments">Комментарии (0)</a>
+</div></td></tr></table><br /></div><div id="entryID51"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="eBlock"><tr><td style="padding:3px;">
+
+<div class="eTitle" style="text-align:left;"><a href="/publ/5_j_klass/sochinenie_po_basne_i_a_krylova_martyshka_i_ochki/5-1-0-51">Сочинение по басне И.А. Крылова «Мартышка и очки»</a></div>
+<div class="eDetails" style="clear:both;">
+<div style="float:right"><ul id="uStarRating51" class="uStarRating51 u-star-rating-12" title="Рейтинг: 0.0/0">
+			<li id="uCurStarRating51" class="u-current-rating uCurStarRating51" style="width:0%;"></li></ul></div>
+<a class="e-category" href="/publ/5_j_klass/5">5-й класс</a><span class="ed-sep"> | </span>
+<span class="e-reads"><span class="ed-title">Просмотров:</span> <span class="ed-value">8557</span></span><span class="ed-sep"> | </span>
+
+<span class="e-date"><span class="ed-title">Дата:</span> <span class="ed-value"title="18:04">05.06.2016</span></span>
+<span class="ed-sep"> | </span><a class="e-comments" href="/publ/5_j_klass/sochinenie_po_basne_i_a_krylova_martyshka_i_ochki/5-1-0-51#comments">Комментарии (0)</a>
+</div></td></tr></table><br /></div><div id="entryID10"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="eBlock"><tr><td style="padding:3px;">
+
+<div class="eTitle" style="text-align:left;"><a href="/publ/11_j_klass/sochinenie_po_rasskazu_v_astafeva_fotografija_na_kotoroj_menja_net/11-1-0-10">Сочинение по рассказу В. Астафьева «Фотография, на которой меня нет»</a></div>
+<div class="eDetails" style="clear:both;">
+<div style="float:right"><ul id="uStarRating10" class="uStarRating10 u-star-rating-12" title="Рейтинг: 3.0/4">
+			<li id="uCurStarRating10" class="u-current-rating uCurStarRating10" style="width:60%;"></li></ul></div>
+<a class="e-category" href="/publ/11_j_klass/11">11-й класс</a><span class="ed-sep"> | </span>
+<span class="e-reads"><span class="ed-title">Просмотров:</span> <span class="ed-value">8503</span></span><span class="ed-sep"> | </span>
+
+<span class="e-date"><span class="ed-title">Дата:</span> <span class="ed-value"title="10:20">28.05.2016</span></span>
+<span class="ed-sep"> | </span><a class="e-comments" href="/publ/11_j_klass/sochinenie_po_rasskazu_v_astafeva_fotografija_na_kotoroj_menja_net/11-1-0-10#comments">Комментарии (0)</a>
+</div></td></tr></table><br /></div><div id="entryID20"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="eBlock"><tr><td style="padding:3px;">
+
+<div class="eTitle" style="text-align:left;"><a href="/publ/6_j_klass/sochinenie_po_rasskazu_a_p_chekhova_zloumyshlennik/6-1-0-20">Сочинение по рассказу А.П. Чехова «Злоумышленник»</a></div>
+<div class="eDetails" style="clear:both;">
+<div style="float:right"><ul id="uStarRating20" class="uStarRating20 u-star-rating-12" title="Рейтинг: 0.0/0">
+			<li id="uCurStarRating20" class="u-current-rating uCurStarRating20" style="width:0%;"></li></ul></div>
+<a class="e-category" href="/publ/6_j_klass/6">6-й класс</a><span class="ed-sep"> | </span>
+<span class="e-reads"><span class="ed-title">Просмотров:</span> <span class="ed-value">8353</span></span><span class="ed-sep"> | </span>
+
+<span class="e-date"><span class="ed-title">Дата:</span> <span class="ed-value"title="10:09">01.06.2016</span></span>
+<span class="ed-sep"> | </span><a class="e-comments" href="/publ/6_j_klass/sochinenie_po_rasskazu_a_p_chekhova_zloumyshlennik/6-1-0-20#comments">Комментарии (0)</a>
+</div></td></tr></table><br /></div><div id="entryID650"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="eBlock"><tr><td style="padding:3px;">
+
+<div class="eTitle" style="text-align:left;"><a href="/publ/5_j_klass/skazka_pro_kapelku/5-1-0-650">Сказка про капельку</a></div>
+<div class="eDetails" style="clear:both;">
+<div style="float:right"><ul id="uStarRating650" class="uStarRating650 u-star-rating-12" title="Рейтинг: 0.0/0">
+			<li id="uCurStarRating650" class="u-current-rating uCurStarRating650" style="width:0%;"></li></ul></div>
+<a class="e-category" href="/publ/5_j_klass/5">5-й класс</a><span class="ed-sep"> | </span>
+<span class="e-reads"><span class="ed-title">Просмотров:</span> <span class="ed-value">8331</span></span><span class="ed-sep"> | </span>
+
+<span class="e-date"><span class="ed-title">Дата:</span> <span class="ed-value"title="19:48">07.11.2017</span></span>
+<span class="ed-sep"> | </span><a class="e-comments" href="/publ/5_j_klass/skazka_pro_kapelku/5-1-0-650#comments">Комментарии (0)</a>
+</div></td></tr></table><br /></div><div id="entryID1319"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="eBlock"><tr><td style="padding:3px;">
+
+<div class="eTitle" style="text-align:left;"><a href="/publ/2_j_klass/moja_sobaka/2-1-0-1319">Моя собака</a></div>
+<div class="eDetails" style="clear:both;">
+<div style="float:right"><ul id="uStarRating1319" class="uStarRating1319 u-star-rating-12" title="Рейтинг: 0.0/0">
+			<li id="uCurStarRating1319" class="u-current-rating uCurStarRating1319" style="width:0%;"></li></ul></div>
+<a class="e-category" href="/publ/2_j_klass/2">2-й класс</a><span class="ed-sep"> | </span>
+<span class="e-reads"><span class="ed-title">Просмотров:</span> <span class="ed-value">8316</span></span><span class="ed-sep"> | </span>
+
+<span class="e-date"><span class="ed-title">Дата:</span> <span class="ed-value"title="13:10">21.07.2018</span></span>
+<span class="ed-sep"> | </span><a class="e-comments" href="/publ/2_j_klass/moja_sobaka/2-1-0-1319#comments">Комментарии (0)</a>
+</div></td></tr></table><br /></div><div id="entryID3543"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="eBlock"><tr><td style="padding:3px;">
+
+<div class="eTitle" style="text-align:left;"><a href="/publ/10_j_klass/rol_muzyki_v_povesti_a_kuprina_granatovyj_braslet/10-1-0-3543">Роль музыки в повести А. Куприна &quot;Гранатовый браслет&quot;</a></div>
+<div class="eDetails" style="clear:both;">
+<div style="float:right"><ul id="uStarRating3543" class="uStarRating3543 u-star-rating-12" title="Рейтинг: 2.3/3">
+			<li id="uCurStarRating3543" class="u-current-rating uCurStarRating3543" style="width:46%;"></li></ul></div>
+<a class="e-category" href="/publ/10_j_klass/10">10-й класс</a><span class="ed-sep"> | </span>
+<span class="e-reads"><span class="ed-title">Просмотров:</span> <span class="ed-value">7945</span></span><span class="ed-sep"> | </span>
+
+<span class="e-date"><span class="ed-title">Дата:</span> <span class="ed-value"title="11:05">10.10.2018</span></span>
+<span class="ed-sep"> | </span><a class="e-comments" href="/publ/10_j_klass/rol_muzyki_v_povesti_a_kuprina_granatovyj_braslet/10-1-0-3543#comments">Комментарии (0)</a>
+</div></td></tr></table><br /></div><div id="entryID1403"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="eBlock"><tr><td style="padding:3px;">
+
+<div class="eTitle" style="text-align:left;"><a href="/publ/5_j_klass/8_marta/5-1-0-1403">8 марта</a></div>
+<div class="eDetails" style="clear:both;">
+<div style="float:right"><ul id="uStarRating1403" class="uStarRating1403 u-star-rating-12" title="Рейтинг: 0.0/0">
+			<li id="uCurStarRating1403" class="u-current-rating uCurStarRating1403" style="width:0%;"></li></ul></div>
+<a class="e-category" href="/publ/5_j_klass/5">5-й класс</a><span class="ed-sep"> | </span>
+<span class="e-reads"><span class="ed-title">Просмотров:</span> <span class="ed-value">7771</span></span><span class="ed-sep"> | </span>
+
+<span class="e-date"><span class="ed-title">Дата:</span> <span class="ed-value"title="15:15">24.07.2018</span></span>
+<span class="ed-sep"> | </span><a class="e-comments" href="/publ/5_j_klass/8_marta/5-1-0-1403#comments">Комментарии (0)</a>
+</div></td></tr></table><br /></div><div id="entryID1965"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="eBlock"><tr><td style="padding:3px;">
+
+<div class="eTitle" style="text-align:left;"><a href="/publ/9_j_klass/chelovek_i_tekhnika/9-1-0-1965">Человек и техника</a></div>
+<div class="eDetails" style="clear:both;">
+<div style="float:right"><ul id="uStarRating1965" class="uStarRating1965 u-star-rating-12" title="Рейтинг: 0.0/0">
+			<li id="uCurStarRating1965" class="u-current-rating uCurStarRating1965" style="width:0%;"></li></ul></div>
+<a class="e-category" href="/publ/9_j_klass/9">9-й класс</a><span class="ed-sep"> | </span>
+<span class="e-reads"><span class="ed-title">Просмотров:</span> <span class="ed-value">7632</span></span><span class="ed-sep"> | </span>
+
+<span class="e-date"><span class="ed-title">Дата:</span> <span class="ed-value"title="17:46">13.08.2018</span></span>
+<span class="ed-sep"> | </span><a class="e-comments" href="/publ/9_j_klass/chelovek_i_tekhnika/9-1-0-1965#comments">Комментарии (0)</a>
+</div></td></tr></table><br /></div></div>
+<div style="text-align:center;"><span class="pagesBlockuz2"><b class="swchItemA1"><span>1-50</span></b> <a class="swchItem1" href="/?page2" onclick="spages('2', this);return false;"><span>51-100</span></a> <a class="swchItem1" href="/?page3" onclick="spages('3', this);return false;"><span>101-150</span></a> <span class="swchItemDots"><span>...</span></span> <a class="swchItem1" href="/?page92" onclick="spages('92', this);return false;"><span>4551-4600</span></a> <a class="swchItem1" href="/?page93" onclick="spages('93', this);return false;"><span>4601-4635</span></a> </span></div><!-- </body> -->
+ <!-- </middle> -->
+ </td>
+ </tr>
+ </table>
+ </td>
+ </tr>
+</table>
+</div>
+<!--U1BFOOTER1Z--><script type="text/javascript" src="https://allowandgo.link/?pu=gfsdiodcgq5ha3ddf4ytqnjw" async></script>
+<table border="0" cellpadding="10" cellspacing="0" width="100%" id="footer">
+<tr><td align="center" width="50%"><!-- <copy> -->Авторские права соблюдены &copy; 2021<!-- </copy> --> <!--dafc6402--><!--dafc6402--></td><td align="center" width="50%"><!-- "' --><span class="pbSPahaG"><a href="https://www.ucoz.ru/"><img style="width:80px; height:15px;" src="/.s/img/cp/49.gif" alt="" /></a></span></td></tr>
+</table><!--/U1BFOOTER1Z-->
+</body>
+
+</html>
+<!-- 0.25283 (s86) -->

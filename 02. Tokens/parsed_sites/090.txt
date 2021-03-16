@@ -1,0 +1,1150 @@
+<!DOCTYPE html>
+
+<!--[if IE 8]> <html class="ie ie8" lang="ru-RU"> <![endif]-->
+<!--[if IE 9]> <html class="ie ie9" lang="ru-RU"> <![endif]-->
+<!--[if gt IE 9]><!--> <html lang="ru-RU"> <!--<![endif]-->
+
+<head>
+
+
+<meta charset="UTF-8" />
+<title>Қызықты психология &mdash; Психологиялық журнал</title>
+
+<link rel="pingback" href="http://artpsy.kz/xmlrpc.php" />
+	
+<link rel="shortcut icon" href="http://artpsy.kz/wp-content/uploads/2016/04/newfavicon.ico" />	
+
+<link rel="apple-touch-icon-precomposed" href="http://artpsy.kz/wp-content/uploads/2016/04/newfavicon.ico" />
+	
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Қызықты психология &raquo; Лента" href="http://artpsy.kz/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Қызықты психология &raquo; Лента комментариев" href="http://artpsy.kz/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/artpsy.kz\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.8.15"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,56826,8203,55356,56819),0,0),c=j.toDataURL(),b!==c&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55358,56794,8205,9794,65039),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55358,56794,8203,9794,65039),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='contact-form-7-css'  href='http://artpsy.kz/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='bwg_frontend-css'  href='http://artpsy.kz/wp-content/plugins/photo-gallery/css/bwg_frontend.css?ver=1.2.96' type='text/css' media='all' />
+<link rel='stylesheet' id='bwg_sumoselect-css'  href='http://artpsy.kz/wp-content/plugins/photo-gallery/css/sumoselect.css?ver=1.2.96' type='text/css' media='all' />
+<link rel='stylesheet' id='bwg_font-awesome-css'  href='http://artpsy.kz/wp-content/plugins/photo-gallery/css/font-awesome/font-awesome.css?ver=4.2.0' type='text/css' media='all' />
+<link rel='stylesheet' id='bwg_mCustomScrollbar-css'  href='http://artpsy.kz/wp-content/plugins/photo-gallery/css/jquery.mCustomScrollbar.css?ver=1.2.96' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-settings-css'  href='http://artpsy.kz/wp-content/plugins/revslider/rs-plugin/css/settings.css?rev=4.1.4&#038;ver=4.8.15' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-captions-css'  href='http://artpsy.kz/wp-content/plugins/revslider/rs-plugin/css/dynamic-captions.css?rev=4.1.4&#038;ver=4.8.15' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-plugin-static-css'  href='http://artpsy.kz/wp-content/plugins/revslider/rs-plugin/css/static-captions.css?rev=4.1.4&#038;ver=4.8.15' type='text/css' media='all' />
+<link rel='stylesheet' id='smartmag-fonts-css'  href='http://fonts.googleapis.com/css?family=Open+Sans:400,600,700|Roboto+Slab' type='text/css' media='all' />
+<link rel='stylesheet' id='smartmag-core-css'  href='http://artpsy.kz/wp-content/themes/smart-mag/style.css?ver=2.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='smartmag-font-awesome-css'  href='http://artpsy.kz/wp-content/themes/smart-mag/css/fontawesome/css/font-awesome.min.css?ver=2.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='ssp-flexslider-css-css'  href='http://artpsy.kz/wp-content/plugins/simple-slider-ssp/views/ssp_skins/default/lib/flexslider.css?ver=1.4' type='text/css' media='all' />
+<link rel='stylesheet' id='custom-css-css'  href='http://artpsy.kz/?bunyad_custom_css=1&#038;ver=4.8.15' type='text/css' media='all' />
+<script type='text/javascript' src='http://artpsy.kz/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://artpsy.kz/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://artpsy.kz/wp-content/plugins/photo-gallery/js/bwg_frontend.js?ver=1.2.96'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var bwg_objectsL10n = {"bwg_select_tag":"Select Tag."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://artpsy.kz/wp-content/plugins/photo-gallery/js/jquery.sumoselect.min.js?ver=1.2.96'></script>
+<script type='text/javascript' src='http://artpsy.kz/wp-content/plugins/photo-gallery/js/jquery.mobile.js?ver=1.2.96'></script>
+<script type='text/javascript' src='http://artpsy.kz/wp-content/plugins/photo-gallery/js/jquery.mCustomScrollbar.concat.min.js?ver=1.2.96'></script>
+<script type='text/javascript' src='http://artpsy.kz/wp-content/plugins/photo-gallery/js/jquery.fullscreen-0.4.1.js?ver=0.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var bwg_objectL10n = {"bwg_field_required":"field is required.","bwg_mail_validation":"\u042d\u0442\u043e \u043d\u0435\u043f\u0440\u0430\u0432\u0438\u043b\u044c\u043d\u044b\u0439 \u0430\u0434\u0440\u0435\u0441 \u044d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u043e\u0439 \u043f\u043e\u0447\u0442\u044b.","bwg_search_result":"\u041f\u043e \u0432\u0430\u0448\u0435\u043c\u0443 \u043f\u043e\u0438\u0441\u043a\u0443 \u0438\u0437\u043e\u0431\u0440\u0430\u0436\u0435\u043d\u0438\u0439 \u043d\u0435 \u043d\u0430\u0439\u0434\u0435\u043d\u043e"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://artpsy.kz/wp-content/plugins/photo-gallery/js/bwg_gallery_box.js?ver=1.2.96'></script>
+<script type='text/javascript' src='http://artpsy.kz/wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.plugins.min.js?rev=4.1.4&#038;ver=4.8.15'></script>
+<script type='text/javascript' src='http://artpsy.kz/wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.revolution.min.js?rev=4.1.4&#038;ver=4.8.15'></script>
+<script type='text/javascript' src='http://artpsy.kz/wp-content/plugins/simple-slider-ssp/views/ssp_skins/default/lib/jquery.flexslider-min.js?ver=1.4'></script>
+<link rel='https://api.w.org/' href='http://artpsy.kz/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://artpsy.kz/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://artpsy.kz/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.8.15" />
+	
+<!--[if lt IE 9]>
+<script src="http://artpsy.kz/wp-content/themes/smart-mag/js/html5.js" type="text/javascript"></script>
+<![endif]-->
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-64996973-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '149671378922287'); // Insert your pixel ID here.
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=149671378922287&ev=PageView&noscript=1"
+/></noscript>
+<!-- DO NOT MODIFY -->
+<!-- End Facebook Pixel Code -->
+
+</head>
+<script>
+fbq('track', 'Сатып алу');
+</script>
+
+
+<body class="home blog page-builder right-sidebar boxed">
+<!--LiveInternet counter--><script type="text/javascript"><!--
+new Image().src = "//counter.yadro.ru/hit?r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random();//--></script><!--/LiveInternet-->
+<div class="main-wrap">
+
+	
+	
+	<div class="top-bar">
+
+		<div class="wrap">
+			<section class="top-bar-content">
+			
+				
+				
+				<div class="search">
+					<form role="search" action="http://artpsy.kz/" method="get">
+						<input type="text" name="s" class="query" value="" placeholder="Search..." />
+						<button class="search-button" type="submit"><i class="fa fa-search"></i></button>
+					</form>
+				</div> <!-- .search -->
+							<div class="textwidget"><p><strong>Республикалық ғылыми-практикалық психологиялық журналының ресми сайты</strong></p>
+</div>
+						
+			</section>
+		</div>
+		
+	</div>
+	
+	
+	<div id="main-head" class="main-head">
+		
+		<div class="wrap">
+		
+			<header>
+				<div class="title">
+				
+				<a href="http://artpsy.kz/" title="Қызықты психология" rel="home">
+									
+					<img src="http://artpsy.kz/wp-content/uploads/2016/04/logopsixolog.png" class="logo-image" alt="Қызықты психология"  />
+						 
+								</a>
+				
+				</div>
+				
+				<div class="right">
+									</div>
+			</header>
+			
+						
+			<nav class="navigation cf" data-sticky-nav="1">
+			
+				<div class="mobile" data-type="classic" data-search="1">
+					<a href="#" class="selected">
+						<span class="text">Navigate</span><span class="current"></span> <i class="hamburger fa fa-bars"></i>
+					</a>
+				</div>
+				
+				<div class="menu-menyu-container"><ul id="menu-menyu" class="menu"><li id="menu-item-121" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-121"><a href="http://artpsy.kz">Басты бет</a></li>
+<li id="menu-item-131" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-131"><a href="http://artpsy.kz/redkollegiya/">Редколлегия</a>
+<ul  class="sub-menu">
+	<li id="menu-item-144" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-144"><a href="http://artpsy.kz/makala-zhariyalau-sharttary/">Мақала жариялау шарттары</a></li>
+	<li id="menu-item-515" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-515"><a href="http://artpsy.kz/usloviya-publikatcii-statei/">Условия публикации статей</a></li>
+	<li id="menu-item-3319" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3319"><a href="http://artpsy.kz/ma-ala-a-ojylatyn-talaptar-trebovaniya-k-oformleniyu-statej/">Мақалаға қойылатын талаптар — Требования к оформлению статей</a></li>
+	<li id="menu-item-145" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-145"><a href="http://artpsy.kz/materialdy-zhariyalau-ushin-bezendiru/">Материалды безендіру</a></li>
+	<li id="menu-item-1634" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1634"><a href="http://artpsy.kz/bailanys/">Байланыс</a></li>
+</ul>
+</li>
+<li id="menu-item-133" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-133"><a href="http://artpsy.kz/kualik-alu/">Мақала жариялау</a></li>
+<li id="menu-item-1532" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1532"><a href="http://artpsy.kz/saiystar-konkursy/">Байқаулар — Конкурсы</a>
+<ul  class="sub-menu">
+	<li id="menu-item-4821" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4821"><a href="http://artpsy.kz/shy-armashyl-psiholog-respublikaly-ashy-ty-baj-auy-2020/">&#171;Шығармашыл Психолог&#187; республикалық қашықтық байқауы &#8212; 2020</a></li>
+	<li id="menu-item-4817" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4817"><a href="http://artpsy.kz/mamandyqtar-alemine-sayahat-baiqauy/">&#171;Мамандықтар әлеміне саяхат&#187; байқауы</a></li>
+	<li id="menu-item-4774" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4774"><a href="http://artpsy.kz/zhas-erekshelikterine-s-jkes-psihologiyaly-yzmet-k-rsetu-baj-auy/">&#171;Жас ерекшеліктеріне сәйкес психологиялық қызмет көрсету&#187; байқауы</a></li>
+	<li id="menu-item-4752" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4752"><a href="http://artpsy.kz/shy-armashyl-bala-o-ushylar-a-arnal-an-baj-auy/">&#171;Шығармашыл бала&#187; оқушыларға арналған байқауы</a></li>
+	<li id="menu-item-4740" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4740"><a href="http://artpsy.kz/pandemiyaly-da-darystan-shy-udy-psihologiyaly-zholdary-baj-auy/">&#171;Пандемиялық дағдарыстан шығудың психологиялық жолдары&#187; байқауы</a></li>
+	<li id="menu-item-4601" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4601"><a href="http://artpsy.kz/4594-2/">&#171;Күйзеліс және оның алдын алу жолдары&#187; байқауы / 2020</a></li>
+	<li id="menu-item-4600" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4600"><a href="http://artpsy.kz/zhan-a-azhet-azy-baj-auy-konkurs-pishha-dlya-dushi/">&#171;Жанға қажет азық&#187; байқауы &#8212; Конкурс &#171;Пища для души&#187; / 2020</a></li>
+	<li id="menu-item-4526" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4526"><a href="http://artpsy.kz/balalar-men-o-ushylar-a-arnal-an-baj-aular/">Балалар мен оқушыларға арналған байқаулар</a></li>
+	<li id="menu-item-4499" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4499"><a href="http://artpsy.kz/otbasy-ba-yt-mekeni-respublikaly-syrttaj-baj-auy/">&#171;Отбасы &#8212; бақыт мекені&#187; республикалық сырттай байқауы</a></li>
+	<li id="menu-item-4370" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4370"><a href="http://artpsy.kz/erekshe-syjly-baj-auy-konkurs-chudesnyj-podarok/">&#171;Ерекше сыйлық&#187; байқауы &#8212; Конкурс &#171;Чудесный подарок&#187;</a></li>
+	<li id="menu-item-4356" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4356"><a href="http://artpsy.kz/shy-armashyl-psiholog-baj-auy-2019-2020-o-u-zhyly/">Шығармашыл психолог байқауы — 2019-2020 оқу жылы</a></li>
+	<li id="menu-item-3837" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3837"><a href="http://artpsy.kz/shy-armashyl-psiholog-baj-auy-2018-2019-o-u-zhyly/">Шығармашыл психолог байқауы — 2018-2019 оқу жылы</a></li>
+	<li id="menu-item-3883" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3883"><a href="http://artpsy.kz/meni-otbasym-baj-auy-konkurs-moya-semya/">&#171;Менің отбасым&#187; байқауы &#8212; Конкурс &#171;Моя семья&#187;</a></li>
+	<li id="menu-item-3231" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3231"><a href="http://artpsy.kz/avtorly-ba-darlamalar-sajysy/">&#171;Авторлық бағдарламалар&#187; сайысы</a></li>
+	<li id="menu-item-3227" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3227"><a href="http://artpsy.kz/shy-armashyl-psiholog-baj-auy/">&#171;Шығармашыл психолог&#187; байқауы</a></li>
+	<li id="menu-item-3337" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3337"><a href="http://artpsy.kz/balalar-baiqauy/">&#171;Ақ қанат арман&#187; оқушылар байқауы</a></li>
+	<li id="menu-item-3772" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3772"><a href="http://artpsy.kz/meni-zhetistigimni-tarihy-sajysy-konkurs-moya-istoriya-uspeha/">“Менің Жетістігімнің Тарихы” Сайысы &#8212; Конкурс &#171;Моя История Успеха&#187;</a></li>
+	<li id="menu-item-3786" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3786"><a href="http://artpsy.kz/psihologty-zdik-prezentatsiyasy-sajysy/">&#171;Психологтың үздік презентациясы&#187; сайысы</a></li>
+	<li id="menu-item-3828" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3828"><a href="http://artpsy.kz/astana-aza-standy-tar-k-zimen-b-kil-aza-standy-fotobaj-auy/">&#171;Астана қазақстандықтар көзімен&#187; бүкілқазақстандық фотобайқауы</a></li>
+	<li id="menu-item-4093" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4093"><a href="http://artpsy.kz/bala-bojynda-y-or-ynyshty-aldyn-alu-baj-auy/">&#171;Бала бойындағы қорқыныштың алдын алу&#187; байқауы</a></li>
+	<li id="menu-item-4096" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4096"><a href="http://artpsy.kz/t-rli-t-sti-lem-shy-armashyly-baj-auy/">«Түрлі түсті әлем» шығармашылық байқауы</a></li>
+	<li id="menu-item-4126" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4126"><a href="http://artpsy.kz/k-jzelisti-aldyn-alu-zholdary-baj-auy/">&#171;Күйзелістің алдын алу жолдары&#187; байқауы</a></li>
+	<li id="menu-item-4132" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4132"><a href="http://artpsy.kz/4129-2/">&#171;Жанға қажет азық&#187; байқауы</a></li>
+	<li id="menu-item-4251" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4251"><a href="http://artpsy.kz/meni-zhaz-y-demalysym-baj-auy/">&#171;Менің жазғы демалысым&#187; байқауы</a></li>
+	<li id="menu-item-4282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4282"><a href="http://artpsy.kz/adam-mirindegi-bejimdelu-rdisini-ma-yzy-respublikaly-syrttaj-baj-auy/">&#171;Адам өміріндегі бейімделу үрдісінің маңызы&#187; республикалық сырттай байқауы</a></li>
+	<li id="menu-item-4288" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4288"><a href="http://artpsy.kz/pedagog-psihologty-zdik-kabineti-respublikaly-syrttaj-baj-auy/">&#171;Педагог-психологтың үздік кабинеті&#187; республикалық сырттай байқауы</a></li>
+	<li id="menu-item-3239" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3239"><a href="http://artpsy.kz/marapattar-nagrajdenia/">Марапаттар — Награждения</a></li>
+	<li id="menu-item-3279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3279"><a href="http://artpsy.kz/baj-aular-a-atysu-tinimi-formalary-formy-zayavok-dlya-uchastiya-v-konkursah/">Байқауларға қатысу өтінімі формалары — Формы заявок для участия в конкурсах</a></li>
+</ul>
+</li>
+<li id="menu-item-127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-127"><a href="http://artpsy.kz/zhurnalga-zhazylu/">Журналға жазылу</a>
+<ul  class="sub-menu">
+	<li id="menu-item-4831" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4831"><a href="http://artpsy.kz/zhurnal-a-zhazylu-2021/">Журналға жазылу — 2021</a></li>
+	<li id="menu-item-4304" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4304"><a href="http://artpsy.kz/zhurnal-a-zhazylu-2020/">Журналға жазылу — 2020</a></li>
+	<li id="menu-item-3896" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3896"><a href="http://artpsy.kz/zhurnal-a-zhazylu-2019/">Журналға жазылу — 2019</a></li>
+	<li id="menu-item-3121" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3121"><a href="http://artpsy.kz/zhurnal-a-zhazylu-2018/">Журналға жазылу — 2018</a></li>
+	<li id="menu-item-3128" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3128"><a href="http://artpsy.kz/podpiska-na-zhurnal-2018/">Подписка на журнал — 2018</a></li>
+	<li id="menu-item-130" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-130"><a href="http://artpsy.kz/onlain-zhurnal/">Онлайн-журнал</a></li>
+	<li id="menu-item-1818" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1818"><a href="http://artpsy.kz/t-lem-t-rleri/">Сатып алу</a></li>
+	<li id="menu-item-3675" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3675"><a href="http://artpsy.kz/zhurnaldy-10-zhyldy-merejtojy-aktsiyasy-n-tizhesi/">Журналдың 10 жылдық мерейтойы акциясы нәтижесі</a></li>
+</ul>
+</li>
+<li id="menu-item-1720" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1720"><a href="http://artpsy.kz/adistemeler/">Әдістемелерді сатып алу</a></li>
+<li id="menu-item-2862" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2862"><a href="http://artpsy.kz/o-yrman-pikiri/">Оқырман пікірі</a></li>
+<li id="menu-item-4328" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4328"><a href="http://artpsy.kz/bajlanysu/">Байланысу</a></li>
+</ul></div>			</nav>
+			
+		</div>
+		
+	</div>
+<!-- START REVOLUTION SLIDER 4.1.4 responsitive mode -->
+			<style type='text/css'>
+				#rev_slider_1_1, #rev_slider_1_1_wrapper { width:1080px; height:400px;}
+						
+			   @media only screen and (min-width: 980px)  {
+			 		  #rev_slider_1_1, #rev_slider_1_1_wrapper { width:1080px; height:400px;}	
+			   }
+			
+						
+			   @media only screen and (min-width: 980px) and (max-width: 979px) {
+			 		  #rev_slider_1_1, #rev_slider_1_1_wrapper { width:770px; height:285px;}	
+			   }
+			
+						
+			   @media only screen and (min-width: 980px) and (max-width: 979px) {
+			 		  #rev_slider_1_1, #rev_slider_1_1_wrapper { width:980px; height:362px;}	
+			   }
+			
+						
+			   @media only screen and (min-width: 980px) and (max-width: 979px) {
+			 		  #rev_slider_1_1, #rev_slider_1_1_wrapper { width:980px; height:362px;}	
+			   }
+			
+						
+			   @media only screen and (min-width: 980px) and (max-width: 979px) {
+			 		  #rev_slider_1_1, #rev_slider_1_1_wrapper { width:980px; height:362px;}	
+			   }
+			
+						
+			   @media only screen and (min-width: 0px) and (max-width: 979px) {
+			 		  #rev_slider_1_1, #rev_slider_1_1_wrapper { width:770px; height:285px;}	
+			   }
+			
+			</style>
+<div id="rev_slider_1_1_wrapper" class="rev_slider_wrapper" style="margin:0px auto;background-color:#E9E9E9;padding:0px;margin-top:0px;margin-bottom:0px;">
+	<div id="rev_slider_1_1" class="rev_slider" style="display:none;">
+<ul>	<!-- SLIDE  -->
+	<li data-transition="random" data-slotamount="7" >
+		<!-- MAIN IMAGE -->
+		<img src="http://artpsy.kz/wp-content/uploads/2021/02/Heading-7.png"  alt="Heading-7"  data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+		<!-- LAYERS -->
+	</li>
+	<!-- SLIDE  -->
+	<li data-transition="random" data-slotamount="7" >
+		<!-- MAIN IMAGE -->
+		<img src="http://artpsy.kz/wp-content/uploads/2021/02/7.png"  alt="7"  data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+		<!-- LAYERS -->
+	</li>
+	<!-- SLIDE  -->
+	<li data-transition="random" data-slotamount="7" >
+		<!-- MAIN IMAGE -->
+		<img src="http://artpsy.kz/wp-content/uploads/2021/02/18.png"  alt="18"  data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+		<!-- LAYERS -->
+	</li>
+	<!-- SLIDE  -->
+	<li data-transition="random" data-slotamount="7" >
+		<!-- MAIN IMAGE -->
+		<img src="http://artpsy.kz/wp-content/uploads/2021/02/19.png"  alt="19"  data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+		<!-- LAYERS -->
+	</li>
+	<!-- SLIDE  -->
+	<li data-transition="random" data-slotamount="7" >
+		<!-- MAIN IMAGE -->
+		<img src="http://artpsy.kz/wp-content/uploads/2021/02/17.png"  alt="17"  data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+		<!-- LAYERS -->
+	</li>
+	<!-- SLIDE  -->
+	<li data-transition="random" data-slotamount="7" >
+		<!-- MAIN IMAGE -->
+		<img src="http://artpsy.kz/wp-content/uploads/2021/02/11.png"  alt="11"  data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+		<!-- LAYERS -->
+	</li>
+	<!-- SLIDE  -->
+	<li data-transition="random" data-slotamount="7" >
+		<!-- MAIN IMAGE -->
+		<img src="http://artpsy.kz/wp-content/uploads/2021/02/Heading-6.png"  alt="Heading-6"  data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+		<!-- LAYERS -->
+	</li>
+	<!-- SLIDE  -->
+	<li data-transition="random" data-slotamount="7" >
+		<!-- MAIN IMAGE -->
+		<img src="http://artpsy.kz/wp-content/uploads/2021/02/8.png"  alt="8"  data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+		<!-- LAYERS -->
+	</li>
+	<!-- SLIDE  -->
+	<li data-transition="random" data-slotamount="7" >
+		<!-- MAIN IMAGE -->
+		<img src="http://artpsy.kz/wp-content/uploads/2021/02/31.png"  alt="31"  data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+		<!-- LAYERS -->
+	</li>
+	<!-- SLIDE  -->
+	<li data-transition="random" data-slotamount="7" >
+		<!-- MAIN IMAGE -->
+		<img src="http://artpsy.kz/wp-content/uploads/2021/02/35.png"  alt="35"  data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+		<!-- LAYERS -->
+	</li>
+	<!-- SLIDE  -->
+	<li data-transition="random" data-slotamount="7" >
+		<!-- MAIN IMAGE -->
+		<img src="http://artpsy.kz/wp-content/uploads/2021/02/32.png"  alt="32"  data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+		<!-- LAYERS -->
+	</li>
+</ul>
+<div class="tp-bannertimer"></div>	</div>
+</div>			
+			<script type="text/javascript">
+
+				var tpj=jQuery;				
+				tpj.noConflict();				
+				var revapi1;
+				
+				tpj(document).ready(function() {
+								
+				if(tpj('#rev_slider_1_1').revolution == undefined)
+					revslider_showDoubleJqueryError('#rev_slider_1_1');
+				else
+				   revapi1 = tpj('#rev_slider_1_1').show().revolution(
+					{
+						dottedOverlay:"none",
+						delay:9000,
+						startwidth:1080,
+						startheight:400,
+						hideThumbs:200,
+						
+						thumbWidth:100,
+						thumbHeight:50,
+						thumbAmount:5,
+						
+						navigationType:"bullet",
+						navigationArrows:"solo",
+						navigationStyle:"round",
+						
+						touchenabled:"on",
+						onHoverStop:"on",
+						
+						navigationHAlign:"center",
+						navigationVAlign:"bottom",
+						navigationHOffset:0,
+						navigationVOffset:20,
+
+						soloArrowLeftHalign:"left",
+						soloArrowLeftValign:"center",
+						soloArrowLeftHOffset:20,
+						soloArrowLeftVOffset:0,
+
+						soloArrowRightHalign:"right",
+						soloArrowRightValign:"center",
+						soloArrowRightHOffset:20,
+						soloArrowRightVOffset:0,
+								
+						shadow:2,
+						fullWidth:"off",
+						fullScreen:"off",
+
+						stopLoop:"off",
+						stopAfterLoops:-1,
+						stopAtSlide:-1,
+
+						
+						shuffle:"off",
+						
+												
+												
+												
+												
+						hideThumbsOnMobile:"off",
+						hideBulletsOnMobile:"off",
+						hideArrowsOnMobile:"off",
+						hideThumbsUnderResolution:0,
+						
+						hideSliderAtLimit:0,
+						hideCaptionAtLimit:0,
+						hideAllCaptionAtLilmit:0,
+						startWithSlide:0,
+						videoJsPath:"http://artpsy.kz/wp-content/plugins/revslider/rs-plugin/videojs/",
+						fullScreenOffsetContainer: ""	
+					});
+				
+				});	//ready
+				
+			</script>
+			
+			<!-- END REVOLUTION SLIDER --> 
+	
+
+
+<div class="main wrap cf">
+	<div class="row">
+		<div class="col-8 main-content">
+	
+				
+			
+		
+
+		
+	<div class="row listing">
+		
+					
+		<div class="column half">
+		
+			<article class="highlights post-5082 post type-post status-publish format-standard has-post-thumbnail category-mekteptegi-psihologialyk-kyzmet" itemscope itemtype="http://schema.org/Article">
+				
+						
+				<span class="cat-title cat-8"><a href="http://artpsy.kz/category/mekteptegi-psihologialyk-kyzmet/">Мектептегі психологиялық қызмет</a></span>
+					
+								
+				
+				<a href="http://artpsy.kz/qashyqtan-bilim-alushy-oqushylardyn-psihikalyq-densaulygyn-qamtamasyz-etudegi-ata-ananyn-roli-ata-analar-oquy/" title="Қашықтан білім алушы оқушылардың  психикалық денсаулығын қамтамасыз етудегі ата-ананың рөлі (ата-аналар оқуы)" class="image-link">
+					<img width="351" height="185" src="http://artpsy.kz/wp-content/uploads/2020/10/distanzionno-351x185.jpg" class="image wp-post-image" alt="" title="Қашықтан білім алушы оқушылардың  психикалық денсаулығын қамтамасыз етудегі ата-ананың рөлі (ата-аналар оқуы)" itemprop="image" />					
+					
+									</a>
+				
+				<div class="meta">
+					<time datetime="2021-02-04T13:46:37+00:00" itemprop="datePublished">04.02.2021 </time>
+						
+										
+					<span class="comments"><a href="http://artpsy.kz/qashyqtan-bilim-alushy-oqushylardyn-psihikalyq-densaulygyn-qamtamasyz-etudegi-ata-ananyn-roli-ata-analar-oquy/#respond"><i class="fa fa-comments-o"></i>
+						0</a></span>
+					
+				</div>
+				
+				<h2 itemprop="name"><a href="http://artpsy.kz/qashyqtan-bilim-alushy-oqushylardyn-psihikalyq-densaulygyn-qamtamasyz-etudegi-ata-ananyn-roli-ata-analar-oquy/" title="Қашықтан білім алушы оқушылардың  психикалық денсаулығын қамтамасыз етудегі ата-ананың рөлі (ата-аналар оқуы)" itemprop="url">Қашықтан білім алушы оқушылардың  психикалық денсаулығын қамтамасыз етудегі ата-ананың рөлі (ата-аналар оқуы)</a></h2>
+				
+				<div class="excerpt"><p>Досова Қуаныш,  «Қ. Билялов атындағы мектеп-лицей» КММ педагог-психологы</p>
+</div>
+			
+			</article>
+		</div>
+			
+					
+		<div class="column half">
+		
+			<article class="highlights post-5079 post type-post status-publish format-standard has-post-thumbnail category-arym-atynas-psihologiyasy" itemscope itemtype="http://schema.org/Article">
+				
+						
+				<span class="cat-title cat-112"><a href="http://artpsy.kz/category/aleumettik-psihologia/arym-atynas-psihologiyasy/">Қарым-қатынас психологиясы</a></span>
+					
+								
+				
+				<a href="http://artpsy.kz/oqushylardyn-til-tabysu-men-qarym-qatynas-zhasau-qabiletterin-damytu/" title="Оқушылардың тіл табысу мен қарым-қатынас жасау қабілеттерін дамыту" class="image-link">
+					<img width="351" height="185" src="http://artpsy.kz/wp-content/uploads/2021/01/Sadekova-A-351x185.png" class="image wp-post-image" alt="" title="Оқушылардың тіл табысу мен қарым-қатынас жасау қабілеттерін дамыту" itemprop="image" />					
+					
+									</a>
+				
+				<div class="meta">
+					<time datetime="2021-02-01T13:58:23+00:00" itemprop="datePublished">01.02.2021 </time>
+						
+										
+					<span class="comments"><a href="http://artpsy.kz/oqushylardyn-til-tabysu-men-qarym-qatynas-zhasau-qabiletterin-damytu/#respond"><i class="fa fa-comments-o"></i>
+						0</a></span>
+					
+				</div>
+				
+				<h2 itemprop="name"><a href="http://artpsy.kz/oqushylardyn-til-tabysu-men-qarym-qatynas-zhasau-qabiletterin-damytu/" title="Оқушылардың тіл табысу мен қарым-қатынас жасау қабілеттерін дамыту" itemprop="url">Оқушылардың тіл табысу мен қарым-қатынас жасау қабілеттерін дамыту</a></h2>
+				
+				<div class="excerpt"><p>Әлдірова Еңлік Дәулеткерейқызы, Психолог, «Бейнеу психологиялық – педагогикалық түзету кабинеті» ММ</p>
+</div>
+			
+			</article>
+		</div>
+			
+					
+		<div class="column half">
+		
+			<article class="highlights post-5073 post type-post status-publish format-standard has-post-thumbnail category-mekteptegi-psihologialyk-kyzmet" itemscope itemtype="http://schema.org/Article">
+				
+						
+				<span class="cat-title cat-8"><a href="http://artpsy.kz/category/mekteptegi-psihologialyk-kyzmet/">Мектептегі психологиялық қызмет</a></span>
+					
+								
+				
+				<a href="http://artpsy.kz/ar-mugalim-shygarmashyl-tulga/" title="Әр мұғалім &#8212; шығармашыл тұлға" class="image-link">
+					<img width="351" height="185" src="http://artpsy.kz/wp-content/uploads/2019/12/Pedagog-351x185.jpg" class="image wp-post-image" alt="" title="Әр мұғалім &#8212; шығармашыл тұлға" itemprop="image" />					
+					
+									</a>
+				
+				<div class="meta">
+					<time datetime="2021-01-19T17:33:11+00:00" itemprop="datePublished">19.01.2021 </time>
+						
+										
+					<span class="comments"><a href="http://artpsy.kz/ar-mugalim-shygarmashyl-tulga/#respond"><i class="fa fa-comments-o"></i>
+						0</a></span>
+					
+				</div>
+				
+				<h2 itemprop="name"><a href="http://artpsy.kz/ar-mugalim-shygarmashyl-tulga/" title="Әр мұғалім &#8212; шығармашыл тұлға" itemprop="url">Әр мұғалім &#8212; шығармашыл тұлға</a></h2>
+				
+				<div class="excerpt"><p>Ермекжанова Зауре Жанболатовна, педагог-психолог, №61 орта мектеп, Нұр-Сұлтан қ.</p>
+</div>
+			
+			</article>
+		</div>
+			
+					
+		<div class="column half">
+		
+			<article class="highlights post-5069 post type-post status-publish format-standard has-post-thumbnail category-mekteptegi-psihologialyk-kyzmet category-psihologiadagy-innovacialyk-adister" itemscope itemtype="http://schema.org/Article">
+				
+						
+				<span class="cat-title cat-8"><a href="http://artpsy.kz/category/mekteptegi-psihologialyk-kyzmet/">Мектептегі психологиялық қызмет</a></span>
+					
+								
+				
+				<a href="http://artpsy.kz/qashyqtan-oqudy-ujymdastyruga-bajlanysty-psiholog-kenesi/" title="Қашықтан оқуды ұйымдастыруға байланысты психолог кеңесі" class="image-link">
+					<img width="351" height="185" src="http://artpsy.kz/wp-content/uploads/2020/12/webinar-351x185.png" class="image wp-post-image" alt="" title="Қашықтан оқуды ұйымдастыруға байланысты психолог кеңесі" itemprop="image" />					
+					
+									</a>
+				
+				<div class="meta">
+					<time datetime="2021-01-12T14:27:25+00:00" itemprop="datePublished">12.01.2021 </time>
+						
+										
+					<span class="comments"><a href="http://artpsy.kz/qashyqtan-oqudy-ujymdastyruga-bajlanysty-psiholog-kenesi/#respond"><i class="fa fa-comments-o"></i>
+						0</a></span>
+					
+				</div>
+				
+				<h2 itemprop="name"><a href="http://artpsy.kz/qashyqtan-oqudy-ujymdastyruga-bajlanysty-psiholog-kenesi/" title="Қашықтан оқуды ұйымдастыруға байланысты психолог кеңесі" itemprop="url">Қашықтан оқуды ұйымдастыруға байланысты психолог кеңесі</a></h2>
+				
+				<div class="excerpt"><p>Разаева Асел Ахметкалиевна, Педагог – психолог «№20 орта мектеп» МКМ, Алматы облысы, Іле ауданы, М.Түймебай&hellip;</p>
+</div>
+			
+			</article>
+		</div>
+			
+					
+		<div class="column half">
+		
+			<article class="highlights post-5051 post type-post status-publish format-standard has-post-thumbnail category-otbasy-psihologiasy" itemscope itemtype="http://schema.org/Article">
+				
+						
+				<span class="cat-title cat-1"><a href="http://artpsy.kz/category/otbasy-psihologiasy/">Отбасы психологиясы</a></span>
+					
+								
+				
+				<a href="http://artpsy.kz/ata-ana-baqyty-bala/" title="Ата-ана бақыты – бала" class="image-link">
+					<img width="351" height="185" src="http://artpsy.kz/wp-content/uploads/2021/01/Omarova-S-351x185.jpg" class="image wp-post-image" alt="" title="Ата-ана бақыты – бала" itemprop="image" />					
+					
+									</a>
+				
+				<div class="meta">
+					<time datetime="2021-01-09T11:15:30+00:00" itemprop="datePublished">09.01.2021 </time>
+						
+										
+					<span class="comments"><a href="http://artpsy.kz/ata-ana-baqyty-bala/#respond"><i class="fa fa-comments-o"></i>
+						0</a></span>
+					
+				</div>
+				
+				<h2 itemprop="name"><a href="http://artpsy.kz/ata-ana-baqyty-bala/" title="Ата-ана бақыты – бала" itemprop="url">Ата-ана бақыты – бала</a></h2>
+				
+				<div class="excerpt"><p>Омарова Салтанат Тасболатқызы, педагог-психолог, «Болашақ» бөбекжай балабақшасы Түркістан обл. Қазығұрт ауданы Болашақ м/а</p>
+</div>
+			
+			</article>
+		</div>
+			
+					
+		<div class="column half">
+		
+			<article class="highlights post-5047 post type-post status-publish format-standard has-post-thumbnail category-shygarmashyl-psiholog-baiqauy" itemscope itemtype="http://schema.org/Article">
+				
+						
+				<span class="cat-title cat-141"><a href="http://artpsy.kz/category/shygarmashyl-psiholog-baiqauy/">&quot;Шығармашыл психолог&quot; байқауы</a></span>
+					
+								
+				
+				<a href="http://artpsy.kz/seminar-sabaq-gajaiyp-oiyn-alemi/" title="Семинар -сабақ «Ғажайып ойын әлемі»" class="image-link">
+					<img width="351" height="185" src="http://artpsy.kz/wp-content/uploads/2021/01/Sadekova-A-351x185.png" class="image wp-post-image" alt="" title="Семинар -сабақ «Ғажайып ойын әлемі»" itemprop="image" />					
+					
+									</a>
+				
+				<div class="meta">
+					<time datetime="2021-01-08T21:30:16+00:00" itemprop="datePublished">08.01.2021 </time>
+						
+										
+					<span class="comments"><a href="http://artpsy.kz/seminar-sabaq-gajaiyp-oiyn-alemi/#respond"><i class="fa fa-comments-o"></i>
+						0</a></span>
+					
+				</div>
+				
+				<h2 itemprop="name"><a href="http://artpsy.kz/seminar-sabaq-gajaiyp-oiyn-alemi/" title="Семинар -сабақ «Ғажайып ойын әлемі»" itemprop="url">Семинар -сабақ «Ғажайып ойын әлемі»</a></h2>
+				
+				<div class="excerpt"><p>Садекова Айгуль Бакытовна, Педагог-психолог, МҚКҚ №97 б/балабақшасы, Алматы қаласы Жетісу ауданы</p>
+</div>
+			
+			</article>
+		</div>
+			
+					
+		<div class="column half">
+		
+			<article class="highlights post-5045 post type-post status-publish format-standard has-post-thumbnail category-shygarmashyl-psiholog-baiqauy" itemscope itemtype="http://schema.org/Article">
+				
+						
+				<span class="cat-title cat-141"><a href="http://artpsy.kz/category/shygarmashyl-psiholog-baiqauy/">&quot;Шығармашыл психолог&quot; байқауы</a></span>
+					
+								
+				
+				<a href="http://artpsy.kz/tvorcheskoe-esse-ya-psiholog/" title="Творческое эссе «Я психолог»" class="image-link">
+					<img width="351" height="185" src="http://artpsy.kz/wp-content/uploads/2020/12/psychol-351x185.png" class="image wp-post-image" alt="" title="Творческое эссе «Я психолог»" itemprop="image" />					
+					
+									</a>
+				
+				<div class="meta">
+					<time datetime="2020-12-30T21:29:37+00:00" itemprop="datePublished">30.12.2020 </time>
+						
+										
+					<span class="comments"><a href="http://artpsy.kz/tvorcheskoe-esse-ya-psiholog/#respond"><i class="fa fa-comments-o"></i>
+						0</a></span>
+					
+				</div>
+				
+				<h2 itemprop="name"><a href="http://artpsy.kz/tvorcheskoe-esse-ya-psiholog/" title="Творческое эссе «Я психолог»" itemprop="url">Творческое эссе «Я психолог»</a></h2>
+				
+				<div class="excerpt"><p>Акумбаева Азина Аяпбергенқызы, Педагог-психолог, ГУ СОШ №13, Павлодарская обл., г. Павлодар</p>
+</div>
+			
+			</article>
+		</div>
+			
+					
+		<div class="column half">
+		
+			<article class="highlights post-5043 post type-post status-publish format-standard has-post-thumbnail category-shygarmashyl-psiholog-baiqauy category-arnaiy-psihologia" itemscope itemtype="http://schema.org/Article">
+				
+						
+				<span class="cat-title cat-141"><a href="http://artpsy.kz/category/shygarmashyl-psiholog-baiqauy/">&quot;Шығармашыл психолог&quot; байқауы</a></span>
+					
+								
+				
+				<a href="http://artpsy.kz/mshb-inklyuzivti-mektepte-bullingtin-aldyn-aludagy-psihologiyalyq-qyzmettin-roli/" title="МШБ инклюзивті мектепте буллингтің  алдын алудағы психологиялық қызметтің рөлі" class="image-link">
+					<img width="351" height="185" src="http://artpsy.kz/wp-content/uploads/2017/02/bulling-351x185.jpg" class="image wp-post-image" alt="" title="МШБ инклюзивті мектепте буллингтің  алдын алудағы психологиялық қызметтің рөлі" itemprop="image" />					
+					
+									</a>
+				
+				<div class="meta">
+					<time datetime="2020-12-29T14:41:56+00:00" itemprop="datePublished">29.12.2020 </time>
+						
+										
+					<span class="comments"><a href="http://artpsy.kz/mshb-inklyuzivti-mektepte-bullingtin-aldyn-aludagy-psihologiyalyq-qyzmettin-roli/#respond"><i class="fa fa-comments-o"></i>
+						0</a></span>
+					
+				</div>
+				
+				<h2 itemprop="name"><a href="http://artpsy.kz/mshb-inklyuzivti-mektepte-bullingtin-aldyn-aludagy-psihologiyalyq-qyzmettin-roli/" title="МШБ инклюзивті мектепте буллингтің  алдын алудағы психологиялық қызметтің рөлі" itemprop="url">МШБ инклюзивті мектепте буллингтің  алдын алудағы психологиялық қызметтің рөлі</a></h2>
+				
+				<div class="excerpt"><p>Жолмаханова Куралай Амантаевна, Қызылорда облысы, Қармақшы ауданы, Қармақшы ауылы №113 Қаракөл орта мектебінің педагог – психологы</p>
+</div>
+			
+			</article>
+		</div>
+			
+					
+		<div class="column half">
+		
+			<article class="highlights post-5041 post type-post status-publish format-standard has-post-thumbnail category-shygarmashyl-psiholog-baiqauy category-mekteptegi-psihologialyk-kyzmet" itemscope itemtype="http://schema.org/Article">
+				
+						
+				<span class="cat-title cat-141"><a href="http://artpsy.kz/category/shygarmashyl-psiholog-baiqauy/">&quot;Шығармашыл психолог&quot; байқауы</a></span>
+					
+								
+				
+				<a href="http://artpsy.kz/attestazia-aldyndagy-qorqynyshty-ureidi-kuizelisti-qalai-jenuge-bolady/" title="Аттестация алдындағы қорқынышты, үрейді, күйзелісті қалай жеңуге болады?" class="image-link">
+					<img width="351" height="185" src="http://artpsy.kz/wp-content/uploads/2020/12/psycholog-351x185.png" class="image wp-post-image" alt="" title="Аттестация алдындағы қорқынышты, үрейді, күйзелісті қалай жеңуге болады?" itemprop="image" />					
+					
+									</a>
+				
+				<div class="meta">
+					<time datetime="2020-12-25T21:20:21+00:00" itemprop="datePublished">25.12.2020 </time>
+						
+										
+					<span class="comments"><a href="http://artpsy.kz/attestazia-aldyndagy-qorqynyshty-ureidi-kuizelisti-qalai-jenuge-bolady/#respond"><i class="fa fa-comments-o"></i>
+						0</a></span>
+					
+				</div>
+				
+				<h2 itemprop="name"><a href="http://artpsy.kz/attestazia-aldyndagy-qorqynyshty-ureidi-kuizelisti-qalai-jenuge-bolady/" title="Аттестация алдындағы қорқынышты, үрейді, күйзелісті қалай жеңуге болады?" itemprop="url">Аттестация алдындағы қорқынышты, үрейді, күйзелісті қалай жеңуге болады?</a></h2>
+				
+				<div class="excerpt"><p>Ширчикбаева Динара Ералиевна, Педагог-психолог, №132 Жалпы орта білім беретін мектебі КММ, Шымкент қаласы</p>
+</div>
+			
+			</article>
+		</div>
+			
+					
+		<div class="column half">
+		
+			<article class="highlights post-5039 post type-post status-publish format-standard has-post-thumbnail category-shygarmashyl-psiholog-baiqauy" itemscope itemtype="http://schema.org/Article">
+				
+						
+				<span class="cat-title cat-141"><a href="http://artpsy.kz/category/shygarmashyl-psiholog-baiqauy/">&quot;Шығармашыл психолог&quot; байқауы</a></span>
+					
+								
+				
+				<a href="http://artpsy.kz/esse-sezim-aqyldan-kushti/" title="Эссе «Сезім -ақылдан күшті»" class="image-link">
+					<img width="351" height="185" src="http://artpsy.kz/wp-content/uploads/2020/12/psycholog-351x185.png" class="image wp-post-image" alt="" title="Эссе «Сезім -ақылдан күшті»" itemprop="image" />					
+					
+									</a>
+				
+				<div class="meta">
+					<time datetime="2020-12-24T20:36:38+00:00" itemprop="datePublished">24.12.2020 </time>
+						
+										
+					<span class="comments"><a href="http://artpsy.kz/esse-sezim-aqyldan-kushti/#respond"><i class="fa fa-comments-o"></i>
+						0</a></span>
+					
+				</div>
+				
+				<h2 itemprop="name"><a href="http://artpsy.kz/esse-sezim-aqyldan-kushti/" title="Эссе «Сезім -ақылдан күшті»" itemprop="url">Эссе «Сезім -ақылдан күшті»</a></h2>
+				
+				<div class="excerpt"><p>Коспанова Куралай Сансызбаевна, Қаратал орта мектебінің педагог-психологы Қаратал ауылы Шал ақын ауданы СҚО Эссе «Сезім&hellip;</p>
+</div>
+			
+			</article>
+		</div>
+			
+					
+		<div class="column half">
+		
+			<article class="highlights post-5036 post type-post status-publish format-standard has-post-thumbnail category-arnaiy-psihologia" itemscope itemtype="http://schema.org/Article">
+				
+						
+				<span class="cat-title cat-21"><a href="http://artpsy.kz/category/arnaiy-psihologia/">Арнайы психология</a></span>
+					
+								
+				
+				<a href="http://artpsy.kz/men-qajtalanbajtyn-tulgamyn/" title="Мен – қайталанбайтын тұлғамын" class="image-link">
+					<img width="351" height="185" src="http://artpsy.kz/wp-content/uploads/2020/12/Shalgynbaeva-Moldir-351x185.png" class="image wp-post-image" alt="" title="Мен – қайталанбайтын тұлғамын" itemprop="image" />					
+					
+									</a>
+				
+				<div class="meta">
+					<time datetime="2020-12-24T17:22:12+00:00" itemprop="datePublished">24.12.2020 </time>
+						
+										
+					<span class="comments"><a href="http://artpsy.kz/men-qajtalanbajtyn-tulgamyn/#respond"><i class="fa fa-comments-o"></i>
+						0</a></span>
+					
+				</div>
+				
+				<h2 itemprop="name"><a href="http://artpsy.kz/men-qajtalanbajtyn-tulgamyn/" title="Мен – қайталанбайтын тұлғамын" itemprop="url">Мен – қайталанбайтын тұлғамын</a></h2>
+				
+				<div class="excerpt"><p>Шалғынбаева Мөлдір Қамбарқызы, БҚО, Орал қаласы, Жәнібек ауданы, Жәнібек ауылы, «ЖББ А.Оразбаева атындағы негізгі мектебі»&hellip;</p>
+</div>
+			
+			</article>
+		</div>
+			
+					
+		<div class="column half">
+		
+			<article class="highlights post-5034 post type-post status-publish format-standard has-post-thumbnail category-shygarmashyl-psiholog-baiqauy" itemscope itemtype="http://schema.org/Article">
+				
+						
+				<span class="cat-title cat-141"><a href="http://artpsy.kz/category/shygarmashyl-psiholog-baiqauy/">&quot;Шығармашыл психолог&quot; байқауы</a></span>
+					
+								
+				
+				<a href="http://artpsy.kz/sen-ozin-ojlagannan-myqtyraqsyn/" title="Сен – өзің ойлағаннан мықтырақсың" class="image-link">
+					<img width="351" height="185" src="http://artpsy.kz/wp-content/uploads/2019/06/boy-351x185.jpg" class="image wp-post-image" alt="" title="Сен – өзің ойлағаннан мықтырақсың" itemprop="image" />					
+					
+									</a>
+				
+				<div class="meta">
+					<time datetime="2020-12-23T13:25:36+00:00" itemprop="datePublished">23.12.2020 </time>
+						
+										
+					<span class="comments"><a href="http://artpsy.kz/sen-ozin-ojlagannan-myqtyraqsyn/#respond"><i class="fa fa-comments-o"></i>
+						0</a></span>
+					
+				</div>
+				
+				<h2 itemprop="name"><a href="http://artpsy.kz/sen-ozin-ojlagannan-myqtyraqsyn/" title="Сен – өзің ойлағаннан мықтырақсың" itemprop="url">Сен – өзің ойлағаннан мықтырақсың</a></h2>
+				
+				<div class="excerpt"><p>Космагамбетова Ботагоз Айтпаевна, Педагог-психолог, №30 қазақ орта мектебі, Ақтөбе облысы, Ақтобе қаласы</p>
+</div>
+			
+			</article>
+		</div>
+			
+						
+	</div>
+	
+	
+			
+	<div class="main-pagination">
+		<span class='page-numbers current'>1</span>
+<a class='page-numbers' href='http://artpsy.kz/page/2/'>2</a>
+<a class='page-numbers' href='http://artpsy.kz/page/3/'>3</a>
+<span class="page-numbers dots">&hellip;</span>
+<a class='page-numbers' href='http://artpsy.kz/page/91/'>91</a>
+<a class="next page-numbers" href="http://artpsy.kz/page/2/"><span class="visuallyhidden">Next</span><i class="fa fa-angle-right"></i></a>	</div>
+		
+			
+
+	
+		</div>
+		
+		
+			
+		
+		<aside class="col-4 sidebar">
+			<ul>
+			
+			<li id="categories-2" class="widget widget_categories"><h3 class="widgettitle">АЙДАРЛАР</h3><label class="screen-reader-text" for="cat">АЙДАРЛАР</label><select  name='cat' id='cat' class='postform' >
+	<option value='-1'>Выберите рубрику</option>
+	<option class="level-0" value="108">&#171;Авторлық бағдарламалар&#187; сайысы&nbsp;&nbsp;(21)</option>
+	<option class="level-0" value="162">&#171;Алғыс айту парызым!&#187; байқауы&nbsp;&nbsp;(1)</option>
+	<option class="level-0" value="164">&#171;Асыл анам&#187; байқауы&nbsp;&nbsp;(2)</option>
+	<option class="level-0" value="160">&#171;Ерекше сыйлық&#187; байқауы&nbsp;&nbsp;(4)</option>
+	<option class="level-0" value="156">&#171;Жанға қажет азық&#187; эссе байқауы&nbsp;&nbsp;(7)</option>
+	<option class="level-0" value="163">&#171;Көктем &#8212; өмір бастауы&#187; байқауы&nbsp;&nbsp;(1)</option>
+	<option class="level-0" value="155">&#171;Күйзеліс және оның алдын алу жолдары&#187; байқауы&nbsp;&nbsp;(24)</option>
+	<option class="level-0" value="169">&#171;Мамандықтар әлеміне саяхат&#187; байқауы&nbsp;&nbsp;(2)</option>
+	<option class="level-0" value="157">&#171;Менің жазғы демалысым&#187; байқауы&nbsp;&nbsp;(3)</option>
+	<option class="level-0" value="146">&#171;Менің отбасым&#187; байқауы&nbsp;&nbsp;(4)</option>
+	<option class="level-0" value="161">&#171;Отбасы &#8212; бақыт мекені&#187; байқауы&nbsp;&nbsp;(13)</option>
+	<option class="level-0" value="159">&#171;Педагог-психологтың үздік кабинеті&#187; байқауы&nbsp;&nbsp;(2)</option>
+	<option class="level-0" value="23">&#171;Психолог портреті&#187; сайысы&nbsp;&nbsp;(34)</option>
+	<option class="level-0" value="145">&#171;Психологтың үздік презентациясы&#187; сайысы&nbsp;&nbsp;(7)</option>
+	<option class="level-0" value="149">&#171;Туған жерім -ең көрікті мекен&#187; байқауы&nbsp;&nbsp;(1)</option>
+	<option class="level-0" value="167">&#171;Шығармашыл бала&#187; байқауы&nbsp;&nbsp;(3)</option>
+	<option class="level-0" value="141">&#171;Шығармашыл психолог&#187; байқауы&nbsp;&nbsp;(214)</option>
+	<option class="level-0" value="158">«Адам өміріндегі бейімделу үрдісінің маңызы» байқауы&nbsp;&nbsp;(8)</option>
+	<option class="level-0" value="168">«Жас ерекшеліктеріне сәйкес психологиялық қызмет көрсету» байқауы&nbsp;&nbsp;(15)</option>
+	<option class="level-0" value="2">Аңыз әңгімелер, ертегілер&nbsp;&nbsp;(9)</option>
+	<option class="level-0" value="21">Арнайы психология&nbsp;&nbsp;(85)</option>
+	<option class="level-0" value="70">Арт-терапия&nbsp;&nbsp;(34)</option>
+	<option class="level-0" value="100">Әлеуметтік психология&nbsp;&nbsp;(25)</option>
+	<option class="level-0" value="82">Балабақша психологына&nbsp;&nbsp;(86)</option>
+	<option class="level-0" value="139">Балалар шығармашылығы&nbsp;&nbsp;(34)</option>
+	<option class="level-0" value="110">Библиотерапия&nbsp;&nbsp;(2)</option>
+	<option class="level-0" value="24">Ғылыми зерттеулер&nbsp;&nbsp;(11)</option>
+	<option class="level-0" value="3">Даму психологиясы&nbsp;&nbsp;(13)</option>
+	<option class="level-0" value="76">Девиантология&nbsp;&nbsp;(25)</option>
+	<option class="level-0" value="4">Ежелгі түркі психологиясы&nbsp;&nbsp;(3)</option>
+	<option class="level-0" value="142">Ертегі терапиясы&nbsp;&nbsp;(8)</option>
+	<option class="level-0" value="5">Жалпы психология&nbsp;&nbsp;(15)</option>
+	<option class="level-0" value="6">Жас ерекшелік психологиясы&nbsp;&nbsp;(45)</option>
+	<option class="level-0" value="138">Жетістік психологиясы&nbsp;&nbsp;(13)</option>
+	<option class="level-0" value="86">Заң психологиясы&nbsp;&nbsp;(3)</option>
+	<option class="level-0" value="60">Кәсіби бағдарлау жұмыстары&nbsp;&nbsp;(31)</option>
+	<option class="level-0" value="136">Кіріктірмелі сабақтар&nbsp;&nbsp;(39)</option>
+	<option class="level-0" value="118">Конфликтология&nbsp;&nbsp;(4)</option>
+	<option class="level-0" value="13">Қанатты сөздер&nbsp;&nbsp;(7)</option>
+	<option class="level-0" value="112">Қарым-қатынас психологиясы&nbsp;&nbsp;(37)</option>
+	<option class="level-0" value="14">Қызықты тесттер&nbsp;&nbsp;(6)</option>
+	<option class="level-0" value="15">Қызықты факт&nbsp;&nbsp;(5)</option>
+	<option class="level-0" value="7">Медициналық психология&nbsp;&nbsp;(7)</option>
+	<option class="level-0" value="8">Мектептегі психологиялық қызмет&nbsp;&nbsp;(136)</option>
+	<option class="level-0" value="1">Отбасы психологиясы&nbsp;&nbsp;(108)</option>
+	<option class="level-0" value="16">Өзін-өзі тану&nbsp;&nbsp;(42)</option>
+	<option class="level-0" value="165">Пандемиялық дағдарыстан шығудың психологиялық жолдары&nbsp;&nbsp;(11)</option>
+	<option class="level-0" value="9">Педагогикалық психология&nbsp;&nbsp;(61)</option>
+	<option class="level-0" value="52">Психодиагностика&nbsp;&nbsp;(28)</option>
+	<option class="level-0" value="61">Психологиядағы инновациялық әдістер&nbsp;&nbsp;(19)</option>
+	<option class="level-0" value="54">Психологиядағы ұлы тұлғалар&nbsp;&nbsp;(1)</option>
+	<option class="level-0" value="10">Психологиялық кеңес беру&nbsp;&nbsp;(36)</option>
+	<option class="level-0" value="113">Психотерапия&nbsp;&nbsp;(5)</option>
+	<option class="level-0" value="64">Психотерапиялық кітаптар&nbsp;&nbsp;(1)</option>
+	<option class="level-0" value="143">Соғыс психологиясы&nbsp;&nbsp;(2)</option>
+	<option class="level-0" value="123">Спорт психологиясы&nbsp;&nbsp;(6)</option>
+	<option class="level-0" value="137">Стресс психологиясы&nbsp;&nbsp;(19)</option>
+	<option class="level-0" value="11">Тренингтер&nbsp;&nbsp;(78)</option>
+	<option class="level-0" value="147">Туризм психологиясы&nbsp;&nbsp;(1)</option>
+	<option class="level-0" value="125">Ұжым психологиясы&nbsp;&nbsp;(18)</option>
+	<option class="level-0" value="140">Шығармашылық психологиясы&nbsp;&nbsp;(4)</option>
+	<option class="level-0" value="129">Этнопсихология&nbsp;&nbsp;(3)</option>
+</select>
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+(function() {
+	var dropdown = document.getElementById( "cat" );
+	function onCatChange() {
+		if ( dropdown.options[ dropdown.selectedIndex ].value > 0 ) {
+			location.href = "http://artpsy.kz/?cat=" + dropdown.options[ dropdown.selectedIndex ].value;
+		}
+	}
+	dropdown.onchange = onCatChange;
+})();
+/* ]]> */
+</script>
+
+</li>
+<li id="media_image-32" class="widget widget_media_image"><h3 class="widgettitle">2021 жылғы алғашқы санды оқыңыздар!</h3><img width="640" height="640" src="http://artpsy.kz/wp-content/uploads/2021/02/1-2021-640x640.png" class="image wp-image-5081  attachment-large size-large" alt="" style="max-width: 100%; height: auto;" srcset="http://artpsy.kz/wp-content/uploads/2021/02/1-2021-640x640.png 640w, http://artpsy.kz/wp-content/uploads/2021/02/1-2021-150x150.png 150w, http://artpsy.kz/wp-content/uploads/2021/02/1-2021-300x300.png 300w, http://artpsy.kz/wp-content/uploads/2021/02/1-2021-768x768.png 768w, http://artpsy.kz/wp-content/uploads/2021/02/1-2021.png 1080w" sizes="(max-width: 640px) 100vw, 640px" /></li>
+<li id="media_image-31" class="widget widget_media_image"><h3 class="widgettitle">Журналдың 11-12 сандары (2020)</h3><img width="640" height="640" src="http://artpsy.kz/wp-content/uploads/2020/12/KP-11-12-insta-640x640.png" class="image wp-image-4898  attachment-large size-large" alt="" style="max-width: 100%; height: auto;" srcset="http://artpsy.kz/wp-content/uploads/2020/12/KP-11-12-insta-640x640.png 640w, http://artpsy.kz/wp-content/uploads/2020/12/KP-11-12-insta-150x150.png 150w, http://artpsy.kz/wp-content/uploads/2020/12/KP-11-12-insta-300x300.png 300w, http://artpsy.kz/wp-content/uploads/2020/12/KP-11-12-insta-768x768.png 768w, http://artpsy.kz/wp-content/uploads/2020/12/KP-11-12-insta.png 1080w" sizes="(max-width: 640px) 100vw, 640px" /></li>
+<li id="media_video-2" class="widget widget_media_video"><h3 class="widgettitle">2021 жылға жазылу</h3><div style="width:100%;" class="wp-video"><!--[if lt IE 9]><script>document.createElement('video');</script><![endif]-->
+<video class="wp-video-shortcode" id="video-5034-1" preload="metadata" controls="controls"><source type="video/mp4" src="http://artpsy.kz/wp-content/uploads/2020/10/2021-jylga-jazylynyz.mp4?_=1" /><source type="video/mp4" src="http://artpsy.kz/wp-content/uploads/2020/10/2021-jylga-jazylynyz.mp4?_=1" /><a href="http://artpsy.kz/wp-content/uploads/2020/10/2021-jylga-jazylynyz.mp4">http://artpsy.kz/wp-content/uploads/2020/10/2021-jylga-jazylynyz.mp4</a></video></div></li>
+<li id="media_image-6" class="widget widget_media_image"><h3 class="widgettitle">Мақала жариялау шарттары</h3><a href="http://artpsy.kz/respublikaly-ylymi-praktikaly-yzy-ty-psihologiya-basylymyna-ma-ala-beru-talaptary/" class="" rel="" target="_blank"><img width="640" height="384" src="http://artpsy.kz/wp-content/uploads/2018/12/makala_beru_sharttary-640x384.png" class="image wp-image-3999  attachment-large size-large" alt="" style="max-width: 100%; height: auto;" srcset="http://artpsy.kz/wp-content/uploads/2018/12/makala_beru_sharttary.png 640w, http://artpsy.kz/wp-content/uploads/2018/12/makala_beru_sharttary-300x180.png 300w" sizes="(max-width: 640px) 100vw, 640px" /></a></li>
+		<li id="recent-posts-2" class="widget widget_recent_entries">		<h3 class="widgettitle">Жаңа мақалалар</h3>		<ul>
+					<li>
+				<a href="http://artpsy.kz/qashyqtan-bilim-alushy-oqushylardyn-psihikalyq-densaulygyn-qamtamasyz-etudegi-ata-ananyn-roli-ata-analar-oquy/">Қашықтан білім алушы оқушылардың  психикалық денсаулығын қамтамасыз етудегі ата-ананың рөлі (ата-аналар оқуы)</a>
+						</li>
+					<li>
+				<a href="http://artpsy.kz/oqushylardyn-til-tabysu-men-qarym-qatynas-zhasau-qabiletterin-damytu/">Оқушылардың тіл табысу мен қарым-қатынас жасау қабілеттерін дамыту</a>
+						</li>
+					<li>
+				<a href="http://artpsy.kz/ar-mugalim-shygarmashyl-tulga/">Әр мұғалім &#8212; шығармашыл тұлға</a>
+						</li>
+					<li>
+				<a href="http://artpsy.kz/qashyqtan-oqudy-ujymdastyruga-bajlanysty-psiholog-kenesi/">Қашықтан оқуды ұйымдастыруға байланысты психолог кеңесі</a>
+						</li>
+					<li>
+				<a href="http://artpsy.kz/ata-ana-baqyty-bala/">Ата-ана бақыты – бала</a>
+						</li>
+				</ul>
+		</li>
+		<li id="archives-2" class="widget widget_archive"><h3 class="widgettitle">Мұрағат</h3>		<label class="screen-reader-text" for="archives-dropdown-2">Мұрағат</label>
+		<select id="archives-dropdown-2" name="archive-dropdown" onchange='document.location.href=this.options[this.selectedIndex].value;'>
+			
+			<option value="">Выберите месяц</option>
+				<option value='http://artpsy.kz/2021/02/'> Февраль 2021 </option>
+	<option value='http://artpsy.kz/2021/01/'> Январь 2021 </option>
+	<option value='http://artpsy.kz/2020/12/'> Декабрь 2020 </option>
+	<option value='http://artpsy.kz/2020/11/'> Ноябрь 2020 </option>
+	<option value='http://artpsy.kz/2020/10/'> Октябрь 2020 </option>
+	<option value='http://artpsy.kz/2020/09/'> Сентябрь 2020 </option>
+	<option value='http://artpsy.kz/2020/08/'> Август 2020 </option>
+	<option value='http://artpsy.kz/2020/07/'> Июль 2020 </option>
+	<option value='http://artpsy.kz/2020/06/'> Июнь 2020 </option>
+	<option value='http://artpsy.kz/2020/05/'> Май 2020 </option>
+	<option value='http://artpsy.kz/2020/04/'> Апрель 2020 </option>
+	<option value='http://artpsy.kz/2020/03/'> Март 2020 </option>
+	<option value='http://artpsy.kz/2020/02/'> Февраль 2020 </option>
+	<option value='http://artpsy.kz/2020/01/'> Январь 2020 </option>
+	<option value='http://artpsy.kz/2019/12/'> Декабрь 2019 </option>
+	<option value='http://artpsy.kz/2019/11/'> Ноябрь 2019 </option>
+	<option value='http://artpsy.kz/2019/10/'> Октябрь 2019 </option>
+	<option value='http://artpsy.kz/2019/09/'> Сентябрь 2019 </option>
+	<option value='http://artpsy.kz/2019/08/'> Август 2019 </option>
+	<option value='http://artpsy.kz/2019/07/'> Июль 2019 </option>
+	<option value='http://artpsy.kz/2019/06/'> Июнь 2019 </option>
+	<option value='http://artpsy.kz/2019/05/'> Май 2019 </option>
+	<option value='http://artpsy.kz/2019/04/'> Апрель 2019 </option>
+	<option value='http://artpsy.kz/2019/03/'> Март 2019 </option>
+	<option value='http://artpsy.kz/2019/02/'> Февраль 2019 </option>
+	<option value='http://artpsy.kz/2019/01/'> Январь 2019 </option>
+	<option value='http://artpsy.kz/2018/12/'> Декабрь 2018 </option>
+	<option value='http://artpsy.kz/2018/11/'> Ноябрь 2018 </option>
+	<option value='http://artpsy.kz/2018/10/'> Октябрь 2018 </option>
+	<option value='http://artpsy.kz/2018/09/'> Сентябрь 2018 </option>
+	<option value='http://artpsy.kz/2018/06/'> Июнь 2018 </option>
+	<option value='http://artpsy.kz/2018/05/'> Май 2018 </option>
+	<option value='http://artpsy.kz/2018/04/'> Апрель 2018 </option>
+	<option value='http://artpsy.kz/2018/03/'> Март 2018 </option>
+	<option value='http://artpsy.kz/2018/02/'> Февраль 2018 </option>
+	<option value='http://artpsy.kz/2018/01/'> Январь 2018 </option>
+	<option value='http://artpsy.kz/2017/12/'> Декабрь 2017 </option>
+	<option value='http://artpsy.kz/2017/11/'> Ноябрь 2017 </option>
+	<option value='http://artpsy.kz/2017/10/'> Октябрь 2017 </option>
+	<option value='http://artpsy.kz/2017/09/'> Сентябрь 2017 </option>
+	<option value='http://artpsy.kz/2017/08/'> Август 2017 </option>
+	<option value='http://artpsy.kz/2017/07/'> Июль 2017 </option>
+	<option value='http://artpsy.kz/2017/06/'> Июнь 2017 </option>
+	<option value='http://artpsy.kz/2017/05/'> Май 2017 </option>
+	<option value='http://artpsy.kz/2017/04/'> Апрель 2017 </option>
+	<option value='http://artpsy.kz/2017/03/'> Март 2017 </option>
+	<option value='http://artpsy.kz/2017/02/'> Февраль 2017 </option>
+	<option value='http://artpsy.kz/2017/01/'> Январь 2017 </option>
+	<option value='http://artpsy.kz/2016/12/'> Декабрь 2016 </option>
+	<option value='http://artpsy.kz/2016/11/'> Ноябрь 2016 </option>
+	<option value='http://artpsy.kz/2016/10/'> Октябрь 2016 </option>
+	<option value='http://artpsy.kz/2016/09/'> Сентябрь 2016 </option>
+	<option value='http://artpsy.kz/2016/08/'> Август 2016 </option>
+	<option value='http://artpsy.kz/2016/07/'> Июль 2016 </option>
+	<option value='http://artpsy.kz/2016/06/'> Июнь 2016 </option>
+	<option value='http://artpsy.kz/2016/05/'> Май 2016 </option>
+	<option value='http://artpsy.kz/2016/04/'> Апрель 2016 </option>
+	<option value='http://artpsy.kz/2016/03/'> Март 2016 </option>
+	<option value='http://artpsy.kz/2016/02/'> Февраль 2016 </option>
+	<option value='http://artpsy.kz/2016/01/'> Январь 2016 </option>
+	<option value='http://artpsy.kz/2015/12/'> Декабрь 2015 </option>
+	<option value='http://artpsy.kz/2015/11/'> Ноябрь 2015 </option>
+	<option value='http://artpsy.kz/2015/10/'> Октябрь 2015 </option>
+	<option value='http://artpsy.kz/2015/09/'> Сентябрь 2015 </option>
+	<option value='http://artpsy.kz/2015/05/'> Май 2015 </option>
+	<option value='http://artpsy.kz/2015/04/'> Апрель 2015 </option>
+
+		</select>
+		</li>
+<li id="custom_html-2" class="widget_text widget widget_custom_html"><h3 class="widgettitle">Соңғы жаңалықтарға жазылу</h3><div class="textwidget custom-html-widget"><form style="border:1px solid #ccc;padding:3px;text-align:center;" action="https://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('https://feedburner.google.com/fb/a/mailverify?uri=artpsy/DxaK', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true"><p>E-mail адресіңізді көрсетіңіз:</p><p><input type="text" style="width:140px" name="email"/></p><input type="hidden" value="artpsy/DxaK" name="uri"/><input type="hidden" name="loc" value="en_US"/><input type="submit" value="Жазылу" /></form></div></li>
+<li id="text-19" class="widget widget_text"><h3 class="widgettitle">Санақ</h3>			<div class="textwidget"><!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='//www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t13.7;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число просмотров за 24"+
+" часа, посетителей за 24 часа и за сегодня' "+
+"border='0' width='88' height='31'><\/a>")
+//--></script><!--/LiveInternet--></div>
+		</li>
+<li id="text-20" class="widget widget_text">			<div class="textwidget"><!-- ZERO.kz -->
+<span id="_zero_67779">
+<noscript>
+<a href="http://zero.kz/?s=67779" target="_blank">
+<img src="http://c.zero.kz/z.png?u=67779" width="88" height="31" alt="ZERO.kz" />
+</a>
+</noscript>
+</span>
+
+<script type="text/javascript"><!--
+var _zero_kz_ = _zero_kz_ || [];
+_zero_kz_.push(["id", 67779]);
+_zero_kz_.push(["type", 1]);
+
+(function () {
+    var a = document.getElementsByTagName("script")[0],
+    s = document.createElement("script");
+    s.type = "text/javascript";
+    s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https:" : "http:")
+    + "//c.zero.kz/z.js";
+    a.parentNode.insertBefore(s, a);
+})(); //-->
+</script>
+<!-- End ZERO.kz --></div>
+		</li>
+	
+			</ul>
+		</aside>
+		
+			
+	</div> <!-- .row -->
+</div> <!-- .main -->
+
+		
+	<footer class="main-footer">
+	
+			<div class="wrap">
+		
+					<ul class="widgets row cf">
+				<li class="widget col-4 widget_text"><h3 class="widgettitle">Серіктес</h3>			<div class="textwidget"><a href="http://kzcontent.kz"> <img src="http://artpsy.kz/wp-content/uploads/2016/03/kazcontent.jpg"> </a>
+
+</div>
+		</li><li class="widget_text widget col-4 widget_custom_html"><h3 class="widgettitle">Серіктес</h3><div class="textwidget custom-html-widget"><a href="http://uilesim.kz"><img src="http://artpsy.kz/wp-content/uploads/2020/01/uilesim-seriktes.png"> </a></div></li><li class="widget col-4 widget_text"><h3 class="widgettitle">Серіктес</h3>			<div class="textwidget"><a href="http://ustazdar-alemi.kz"><img src="http://artpsy.kz/wp-content/uploads/2016/12/logotip-mua-2.jpg"> </a>
+
+
+</div>
+		</li>			</ul>
+				
+		</div>
+
+	
+		
+	
+			<div class="lower-foot">
+			<div class="wrap">
+		
+						
+			<div class="widgets">
+							<div class="textwidget"><p><strong>ҚР Байланыс және ақпарат Министрлігінің №11837-Ж куәлігі 07.07.2011 ж. берілген</strong></p>
+</div>
+					<div class="textwidget"><p>Сайт материалдарын редакция келісімінсіз көшіріп басуға болмайды. Мақалалар мазмұнына, авторлар пікірі мен жарнама мәтініне редакция жауап бермейді.</p>
+<p><strong>Хат жазыңыз: info@artpsy.kz</strong><br />
+<strong> Хабарласыңыз: +7 777 146 14 14; +7 717 242 05 89</strong></p>
+<p><strong>© Қызықты психология журналы 2008 &#8212; 2021</strong></p>
+</div>
+					</div>
+			
+					
+			</div>
+		</div>		
+		
+	</footer>
+	
+</div> <!-- .main-wrap -->
+
+<link rel='stylesheet' id='animated-css'  href='http://artpsy.kz/wp-content/plugins/like-box/includes/style/effects.css?ver=4.8.15' type='text/css' media='all' />
+<link rel='stylesheet' id='front_end_like_box-css'  href='http://artpsy.kz/wp-content/plugins/like-box/includes/style/style.css?ver=4.8.15' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='http://artpsy.kz/wp-includes/css/dashicons.min.css?ver=4.8.15' type='text/css' media='all' />
+<link rel='stylesheet' id='thickbox-css'  href='http://artpsy.kz/wp-includes/js/thickbox/thickbox.css?ver=4.8.15' type='text/css' media='all' />
+<link rel='stylesheet' id='mediaelement-css'  href='http://artpsy.kz/wp-includes/js/mediaelement/mediaelementplayer.min.css?ver=2.22.0' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-mediaelement-css'  href='http://artpsy.kz/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=4.8.15' type='text/css' media='all' />
+<script type='text/javascript' src='http://artpsy.kz/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/artpsy.kz\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","recaptchaEmpty":"\u041f\u043e\u0436\u0430\u043b\u0443\u0439\u0441\u0442\u0430 \u043f\u043e\u0434\u0442\u0432\u0435\u0440\u0434\u0438\u0442\u0435, \u0447\u0442\u043e \u0412\u044b - \u043d\u0435 \u0440\u043e\u0431\u043e\u0442.","sending":"\u041e\u0442\u043f\u0440\u0430\u0432\u043a\u0430..."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://artpsy.kz/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var Bunyad = {"ajaxurl":"http:\/\/artpsy.kz\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://artpsy.kz/wp-content/themes/smart-mag/js/bunyad-theme.js?ver=2.4.1'></script>
+<script type='text/javascript' src='http://artpsy.kz/wp-content/themes/smart-mag/js/jquery.flexslider-min.js?ver=2.4.1'></script>
+<script type='text/javascript' src='http://artpsy.kz/wp-includes/js/wp-embed.min.js?ver=4.8.15'></script>
+<script type='text/javascript' src='http://artpsy.kz/wp-content/plugins/like-box/includes/javascript/front_end_js.js?ver=4.8.15'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var thickboxL10n = {"next":"\u0414\u0430\u043b\u0435\u0435 \u2192","prev":"\u2190 \u041d\u0430\u0437\u0430\u0434","image":"\u0418\u0437\u043e\u0431\u0440\u0430\u0436\u0435\u043d\u0438\u0435","of":"\u0438\u0437","close":"\u0417\u0430\u043a\u0440\u044b\u0442\u044c","noiframes":"\u042d\u0442\u0430 \u0444\u0443\u043d\u043a\u0446\u0438\u044f \u0442\u0440\u0435\u0431\u0443\u0435\u0442 \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0438 \u043f\u043b\u0430\u0432\u0430\u044e\u0449\u0438\u0445 \u0444\u0440\u0435\u0439\u043c\u043e\u0432. \u0423 \u0432\u0430\u0441 \u043e\u0442\u043a\u043b\u044e\u0447\u0435\u043d\u044b \u0442\u0435\u0433\u0438 iframe, \u043b\u0438\u0431\u043e \u0432\u0430\u0448 \u0431\u0440\u0430\u0443\u0437\u0435\u0440 \u0438\u0445 \u043d\u0435 \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u0438\u0432\u0430\u0435\u0442.","loadingAnimation":"http:\/\/artpsy.kz\/wp-includes\/js\/thickbox\/loadingAnimation.gif"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://artpsy.kz/wp-includes/js/thickbox/thickbox.js?ver=3.1-20121105'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var mejsL10n = {"language":"ru-RU","strings":{"Close":"\u0417\u0430\u043a\u0440\u044b\u0442\u044c","Fullscreen":"\u041d\u0430 \u0432\u0435\u0441\u044c \u044d\u043a\u0440\u0430\u043d","Turn off Fullscreen":"\u0412\u044b\u043a\u043b\u044e\u0447\u0438\u0442\u044c \u043f\u043e\u043b\u043d\u044b\u0439 \u044d\u043a\u0440\u0430\u043d","Go Fullscreen":"\u041f\u043e\u043b\u043d\u044b\u0439 \u044d\u043a\u0440\u0430\u043d","Download File":"\u0421\u043a\u0430\u0447\u0430\u0442\u044c \u0444\u0430\u0439\u043b","Download Video":"\u0421\u043a\u0430\u0447\u0430\u0442\u044c \u0432\u0438\u0434\u0435\u043e","Play":"\u0412\u043e\u0441\u043f\u0440\u043e\u0438\u0437\u0432\u0435\u0441\u0442\u0438","Pause":"\u041f\u0430\u0443\u0437\u0430","Captions\/Subtitles":"\u0421\u0443\u0431\u0442\u0438\u0442\u0440\u044b","None":"\u041d\u0435\u0442","Time Slider":"\u0428\u043a\u0430\u043b\u0430 \u0432\u0440\u0435\u043c\u0435\u043d\u0438","Skip back %1 seconds":"\u041d\u0430\u0437\u0430\u0434 \u043d\u0430 %1 \u0441\u0435\u043a\u0443\u043d\u0434","Video Player":"\u0412\u0438\u0434\u0435\u043e\u043f\u043b\u0435\u0435\u0440","Audio Player":"\u0410\u0443\u0434\u0438\u043e\u043f\u043b\u0435\u0435\u0440","Volume Slider":"\u0420\u0435\u0433\u0443\u043b\u044f\u0442\u043e\u0440 \u0433\u0440\u043e\u043c\u043a\u043e\u0441\u0442\u0438","Mute Toggle":"\u0412\u043a\u043b\u044e\u0447\u0438\u0442\u044c\/\u0432\u044b\u043a\u043b\u044e\u0447\u0438\u0442\u044c \u0437\u0432\u0443\u043a","Unmute":"\u0412\u043a\u043b\u044e\u0447\u0438\u0442\u044c \u0437\u0432\u0443\u043a","Mute":"\u0411\u0435\u0437 \u0437\u0432\u0443\u043a\u0430","Use Up\/Down Arrow keys to increase or decrease volume.":"\u0418\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0439\u0442\u0435 \u043a\u043b\u0430\u0432\u0438\u0448\u0438 \u0432\u0432\u0435\u0440\u0445\/\u0432\u043d\u0438\u0437, \u0447\u0442\u043e\u0431\u044b \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0442\u044c \u0438\u043b\u0438 \u0443\u043c\u0435\u043d\u044c\u0448\u0438\u0442\u044c \u0433\u0440\u043e\u043c\u043a\u043e\u0441\u0442\u044c.","Use Left\/Right Arrow keys to advance one second, Up\/Down arrows to advance ten seconds.":"\u0418\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0439\u0442\u0435 \u043a\u043b\u0430\u0432\u0438\u0448\u0438 \u0432\u043b\u0435\u0432\u043e\/\u0432\u043f\u0440\u0430\u0432\u043e, \u0447\u0442\u043e\u0431\u044b \u043f\u0435\u0440\u0435\u043c\u0435\u0441\u0442\u0438\u0442\u044c\u0441\u044f \u043d\u0430 \u043e\u0434\u043d\u0443 \u0441\u0435\u043a\u0443\u043d\u0434\u0443; \u0432\u0432\u0435\u0440\u0445\/\u0432\u043d\u0438\u0437, \u0447\u0442\u043e\u0431\u044b \u043f\u0435\u0440\u0435\u043c\u0435\u0441\u0442\u0438\u0442\u044c\u0441\u044f \u043d\u0430 \u0434\u0435\u0441\u044f\u0442\u044c \u0441\u0435\u043a\u0443\u043d\u0434."}};
+var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://artpsy.kz/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=2.22.0'></script>
+<script type='text/javascript' src='http://artpsy.kz/wp-includes/js/mediaelement/wp-mediaelement.min.js?ver=4.8.15'></script>
+
+</body>
+</html>

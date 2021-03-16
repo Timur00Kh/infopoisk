@@ -1,0 +1,724 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<link rel="shortcut icon" href="https://ohrana-tryda.com/files/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="viewport" content="width=device-width" />
+<link rel="alternate" type="application/rss+xml" title="Охрана труда и техника безопасности в школе RSS" href="https://ohrana-tryda.com/rss.xml" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<title>Охрана труда и техника безопасности в школе | Пакеты инструкций для школы и ДОУ</title>
+<link type="text/css" rel="stylesheet" href="https://ohrana-tryda.com/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://ohrana-tryda.com/files/css/css_WyiZ1Y30QjE5-1Y6pY1x2VaOZc9_WSe2QWOv6RgctjA.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://ohrana-tryda.com/files/css/css_Pi2KnVQxbE1ex6GnAgTy4ARriX75b9kRCY-zLQoVFRM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://ohrana-tryda.com/files/css/css_dXPps4SVikP1swAP0wInuINJTPGzUWEqqHZ1xekjKjs.css" media="all" />
+<script type="text/javascript" src="https://ohrana-tryda.com/misc/jquery.js?v=1.4.4"></script>
+<script type="text/javascript" src="https://ohrana-tryda.com/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="https://ohrana-tryda.com/misc/drupal.js?qomee0"></script>
+<script type="text/javascript" src="https://ohrana-tryda.com/misc/ajax.js?v=7.59"></script>
+<script type="text/javascript" src="https://ohrana-tryda.com/modules/ubercart/uc_file/uc_file.js?qomee0"></script>
+<script type="text/javascript" src="https://ohrana-tryda.com/files/languages/ru_mWSk2bRF9ZAcAamR0seISELvhpiFpLro9WHjeaTvezo.js?qomee0"></script>
+<script type="text/javascript" src="https://ohrana-tryda.com/misc/progress.js?v=7.59"></script>
+<script type="text/javascript" src="https://ohrana-tryda.com/modules/uc_ajax_cart_alt/uc_ajax_cart_alt.js?qomee0"></script>
+<script type="text/javascript" src="https://ohrana-tryda.com/themes/professional/js/custom.js?qomee0"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"professional_responsive_theme","theme_token":"fowJ_M9QbfBRJK1wh1lKsCU-W4QM5gg0INsW5CT36v4","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"misc\/ajax.js":1,"modules\/ubercart\/uc_file\/uc_file.js":1,"public:\/\/languages\/ru_mWSk2bRF9ZAcAamR0seISELvhpiFpLro9WHjeaTvezo.js":1,"misc\/progress.js":1,"modules\/uc_ajax_cart_alt\/uc_ajax_cart_alt.js":1,"themes\/professional\/js\/custom.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/ubercart\/uc_file\/uc_file.css":1,"modules\/ubercart\/uc_order\/uc_order.css":1,"modules\/ubercart\/uc_product\/uc_product.css":1,"modules\/ubercart\/uc_store\/uc_store.css":1,"modules\/user\/user.css":1,"modules\/views\/css\/views.css":1,"modules\/ctools\/css\/ctools.css":1,"themes\/professional\/style.css":1,"themes\/professional\/media.css":1}},"linkSelector":"li[class|=\u0022menu\u0022] \u003E a[href$=\u0022\/cart\u0022],ul.menu \u003E li \u003E a[href$=\u0022\/cart\u0022]","ucAjaxCartAlt":{"linkSelector":"li[class|=\u0022menu\u0022] \u003E a[href$=\u0022\/cart\u0022],ul.menu \u003E li \u003E a[href$=\u0022\/cart\u0022]"},"urlIsAjaxTrusted":{"\/":true}});
+//--><!]]>
+</script>
+<!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+</head>
+<body class="html front not-logged-in two-sidebars page-node">
+    
+<div id="header_wrapper">
+  <header id="header" role="banner">
+    <div id="logo"><a href="/" title="Главная"><img src="https://ohrana-tryda.com/files/logo.png"/></a></div>
+        <h1 id="site-title">
+      <a href="/" title="Главная">Охрана труда и техника безопасности в школе</a>
+      <div id="site-description">Пакеты инструкций для школы и ДОУ</div>
+    </h1>
+    <div class="search-block"><div class="region region-header-top">
+  <div id="block-search-form" class="block block-search">
+
+      
+  <div class="content">
+    <form action="/" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Поиск на сайте</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Найти </label>
+ <input title="Введите ключевые слова для поиска." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Найти" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-1kWzjgWB_3nfL93zQiAJgEpTa1_mLcshiNmZEedgWgk" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  </div>
+  
+</div> <!-- /.block -->
+</div>
+ <!-- /.region -->
+</div>
+    <div class="clear"></div>
+
+  </header>
+
+  <div class="menu_wrapper">
+      <nav id="main-menu"  role="navigation">
+        <a class="nav-toggle" href="#">Навигация</a>
+        <div class="menu-navigation-container">
+          <ul class="menu"><li class="first leaf"><a href="/" title="Главная страница сайта по охране труда" class="active">Главная</a></li>
+<li class="leaf"><a href="/store" title="Купить инструкции для школы и ДОУ">Магазин</a></li>
+<li class="leaf"><a href="/faq" title="">Вопросы по магазину</a></li>
+<li class="leaf"><a href="/delivery_info" title="">Оплата и доставка</a></li>
+<li class="leaf"><a href="/node/2968" title="Ответы на вопросы по ОТ, ПБ и иные">Ответы на вопросы</a></li>
+<li class="leaf"><a href="/kontakty" title="Контакты сайта по технике безопасности">Контакты</a></li>
+<li class="last leaf"><a href="/user" title="Вход в личный кабинет для зарегистрированных пользователей">Личный кабинет</a></li>
+</ul>        </div>
+        <div class="clear"></div>
+      </nav><!-- end main-menu -->
+  </div>
+</div>
+  
+  <div id="container">
+
+        <div class="region region-slideshow">
+  <div id="block-block-56" class="block block-block">
+
+      
+  <div class="content">
+    <div class="all-package">
+<span class="title-package"><strong>Пакеты документов для школы </strong></span>
+<a class="but-package" href="/product/school-polojeniya"><img src="/magaz/poloj-sch60.png" alt="Положения школы"><br />Положения<br />для<br />школы</a>
+<a class="but-package" href="/store/camp"><img src="/magaz/lager4.png" alt="Документы лагеря"><br />Инструкции<br />для детских<br />лагерей</a>
+<a class="but-package" href="/store/school/doljnost"><img src="/magaz/doljn60.png" alt="Должностные работников школы"><br />Должностные<br />инструкции<br />для школы</a>
+<a class="but-package" href="/store/school/ot"><img src="/magaz/safety_school_60.png" alt="Документация по охрана труда в школе"><br />Документы<br />по Охране труда<br />в школе</a>
+<a class="but-package" href="/product/school-pojar"><img src="/magaz/fire_school_60.png" alt="Документы пожарной безопасности в школе"><br />Пожарная<br />безопасность<br />в школе</a>
+<a class="but-package" href="/store/school/classroom"><img src="/magaz/kabinets_60.png" alt="Документы учебных кабинетов"><br />Инструкции<br />для<br />кабинетов</a>
+<a class="but-package" href="/product/go_school"><img src="/magaz/school-go-60.png" alt="Документация ГОЧС школы"><br />Документы<br />по ГО и ЧС<br />в школе</a>
+<a class="but-package" href="/store/school/kotelnaya"><img src="/magaz/kotgaz-60.png" alt="Документация котельной школы"><br />Документы<br />для котельной<br />школы</a>
+<a class="but-package" href="/store/kitchen"><img src="/magaz/kitchen60.png" alt="Документы кафе и ресторана"><br />Инструкции<br />для организаций<br />питания</a>
+</div>
+  </div>
+  
+</div> <!-- /.block -->
+</div>
+ <!-- /.region -->
+     <!-- Banner -->
+
+     
+    <div class="content-sidebar-wrap">
+
+    <div id="content">
+            <section id="post-content" role="main">
+                <div id="content_top"><div class="region region-content-top">
+  <div id="block-block-57" class="block block-block">
+
+      
+  <div class="content">
+    <div class="all-package">
+<span class="title-package"><strong>Пакеты документов для ДОУ </strong></span>
+<a class="but-package but-package-dou" href="/product/dou-polojeniya"><img src="/magaz/poloj-dou60.png" alt="Положения детского сада"><br />Положения<br />для<br />ДОУ</a>
+<a class="but-package but-package-dou" href="/store/dou/doln"><img src="/magaz/doljn-dou60.png" alt="Должностные работников ДОУ"><br />Должностные<br />инструкции<br />для ДОУ</a>
+<a class="but-package but-package-dou" href="/store/dou/ot"><img src="/magaz/ot_dou_60.png" alt="Охрана труда в детском саду"><br />Охрана<br />труда<br />в ДОУ</a>
+<a class="but-package but-package-dou" href="/product/dou-pojar"><img src="/magaz/fire_safety_60.png" alt="Пожарная безопасность детского сада"><br />Пожарная<br />безопасность<br />в ДОУ</a>
+<a class="but-package but-package-dou" href="/product/go_dou"><img src="/magaz/school-go-60.png" alt="Гражданская оборона в ДОУ"><br />Документы<br />по ГО и ЧС<br />в ДОУ</a>
+<a class="but-package but-package-dou" href="/store/dou/kotelnaya"><img src="/magaz/kotgaz2-60.png" alt="Документация котельной ДОУ"><br />Документы<br />для котельной<br />ДОУ</a>
+</div>  </div>
+  
+</div> <!-- /.block -->
+</div>
+ <!-- /.region -->
+</div>                                                        <div class="region region-content">
+  <div id="block-system-main" class="block block-system">
+
+      
+  <div class="content">
+      <article id="node-3700" class="node node-page-list node-promoted node-teaser clearfix">
+          <header>
+	                  <h2 class="title" ><a href="/koronavirus">Документы для работы при коронавирусе (карантине)</a></h2>
+              
+      
+          </header>
+    
+    
+
+  
+  <div class="content node-page-list">
+    <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/koronavirus"><img src="https://ohrana-tryda.com/files/styles/medium/public/koronavirus.png?itok=nydKzOV9" width="190" height="127" alt="" /></a></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>В разделе представлены приказы, инструкции и инструктажи по предупреждению распространения коронавируса для организаций в период пандемии Covid-19, журналы и графики уборки, дезинфекции (обработки) помещений, измерения температуры сотрудников, а также правила работы и наглядная документация по профилактике коронавирусной инфекции.</p>
+</div></div></div>  </div>
+
+ 
+  
+      <footer>
+      <ul class="links inline"><li class="node-readmore first last"><a href="/koronavirus" rel="tag" title="Документы для работы при коронавирусе (карантине)">Подробнее<span class="element-invisible"> о Документы для работы при коронавирусе (карантине)</span></a></li>
+</ul>    </footer>
+  
+    </article> <!-- /.node -->
+  <article id="node-3466" class="node node-page-list node-promoted node-teaser clearfix">
+          <header>
+	                  <h2 class="title" ><a href="/node/3466">Акты и протоколы по охране труда в ДОУ</a></h2>
+              
+      
+          </header>
+    
+    
+
+  
+  <div class="content node-page-list">
+    <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/node/3466"><img src="https://ohrana-tryda.com/files/styles/medium/public/aktdouot.png?itok=KB9Fe-MJ" width="190" height="127" alt="" /></a></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>В данном разделе предложены акты по охране труда для ДОУ, необходимые для благополучной приемки детского сада и его готовности к новому учебному году. В перечне присутствуют акты и протоколы для обеспечения требований безопасности и охраны труда при выполнении работ, расследования несчастных случаев в дошкольном образовательном учреждении.</p>
+</div></div></div>  </div>
+
+ 
+  
+      <footer>
+      <ul class="links inline"><li class="node-readmore first last"><a href="/node/3466" rel="tag" title="Акты и протоколы по охране труда в ДОУ">Подробнее<span class="element-invisible"> о Акты и протоколы по охране труда в ДОУ</span></a></li>
+</ul>    </footer>
+  
+    </article> <!-- /.node -->
+  <article id="node-3256" class="node node-page-list node-promoted node-teaser clearfix">
+          <header>
+	                  <h2 class="title" ><a href="/node/3256">Журналы по охране труда, технике безопасности в школе</a></h2>
+              
+      
+          </header>
+    
+    
+
+  
+  <div class="content node-page-list">
+    <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/node/3256"><img src="https://ohrana-tryda.com/files/styles/medium/public/school_ot.png?itok=GbQgI-kK" width="190" height="127" alt="" /></a></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>Готовые формы и образцы всех необходимых в школе журналов по охране труда и технике безопасности, как для специалиста по охране труда и работников, так и для учащихся образовательной организации. Журналы в формате Word, содержат по 15 страниц, готовы к распечатыванию.</p>
+</div></div></div>  </div>
+
+ 
+  
+      <footer>
+      <ul class="links inline"><li class="node-readmore first last"><a href="/node/3256" rel="tag" title="Журналы по охране труда, технике безопасности в школе">Подробнее<span class="element-invisible"> о Журналы по охране труда, технике безопасности в школе</span></a></li>
+</ul>    </footer>
+  
+    </article> <!-- /.node -->
+  <article id="node-3107" class="node node-page node-promoted node-teaser clearfix">
+          <header>
+	                  <h2 class="title" ><a href="/node/3107">Акты и протоколы по охране труда в школе</a></h2>
+              
+      
+          </header>
+    
+    
+
+  
+  <div class="content node-page">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>В разделе представлены акты по охране труда для школы, необходимые для приемки образовательного учреждения и его готовности к новому учебному году. В перечне предложены акты и протоколы для обеспечения соблюдения правил безопасности труда при выполнении работ и эксплуатации оборудования, расследования несчастных случаев.</p>
+</div></div></div>  </div>
+
+ 
+  
+      <footer>
+      <ul class="links inline"><li class="node-readmore first last"><a href="/node/3107" rel="tag" title="Акты и протоколы по охране труда в школе">Подробнее<span class="element-invisible"> о Акты и протоколы по охране труда в школе</span></a></li>
+</ul>    </footer>
+  
+    </article> <!-- /.node -->
+  <article id="node-2707" class="node node-page-list node-promoted node-teaser clearfix">
+          <header>
+	                  <h2 class="title" ><a href="/node/2707">Программы инструктажей и обучение охране труда в школе</a></h2>
+              
+      
+          </header>
+    
+    
+
+  
+  <div class="content node-page-list">
+    <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/node/2707"><img src="https://ohrana-tryda.com/files/styles/medium/public/instruktaj-school.png?itok=mHkKIPwo" width="190" height="127" alt="" /></a></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>Важным моментом при проведении подготовки и обучения в 2021 году является проведение <strong>инструктажей по охране труда в школе</strong> по разработанным программам вводного, первичного на рабочем месте, повторного и целевого инструктажей по охране труда для работников образовательного учреждения.</p></div></div></div>  </div>
+
+ 
+  
+      <footer>
+      <ul class="links inline"><li class="node-readmore first last"><a href="/node/2707" rel="tag" title="Программы инструктажей и обучение охране труда в школе">Подробнее<span class="element-invisible"> о Программы инструктажей и обучение охране труда в школе</span></a></li>
+</ul>    </footer>
+  
+    </article> <!-- /.node -->
+  <article id="node-2142" class="node node-page-list node-promoted node-teaser clearfix">
+          <header>
+	                  <h2 class="title" ><a href="/node/2142">Положения для ДОУ (детского сада)</a></h2>
+              
+      
+          </header>
+    
+    
+
+  
+  <div class="content node-page-list">
+    <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/node/2142"><img src="https://ohrana-tryda.com/files/styles/medium/public/polojeniya-dou_0.png?itok=eymyp7IV" width="190" height="126" alt="" /></a></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>Основные правила организации и деятельности детских садов определяются <strong>положениями ДОУ</strong>, которые подразделяются на положения по организации работы, воспитательной и образовательной деятельности в соответствии с ФГОС ДО, на положения по охране труда и пожарной безопасности в дошкольном образовательном учреждении.</p>
+</div></div></div>  </div>
+
+ 
+  
+      <footer>
+      <ul class="links inline"><li class="node-readmore first last"><a href="/node/2142" rel="tag" title="Положения для ДОУ (детского сада)">Подробнее<span class="element-invisible"> о Положения для ДОУ (детского сада)</span></a></li>
+</ul>    </footer>
+  
+    </article> <!-- /.node -->
+  <article id="node-638" class="node node-page-list node-promoted node-teaser clearfix">
+          <header>
+	                  <h2 class="title" ><a href="/doljnostnie-dou">Должностные инструкции работников ДОУ (детского сада)</a></h2>
+              
+      
+          </header>
+    
+    
+
+  
+  <div class="content node-page-list">
+    <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/doljnostnie-dou"><img src="https://ohrana-tryda.com/files/styles/medium/public/detsky_sad_0.jpg?itok=bmieigAW" width="190" height="127" alt="" /></a></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>Документами, регулирующими трудовое законодательство в сфере дошкольного образования, являются <strong>должностные инструкции работников ДОУ</strong>, которые разработаны по Профстандартам и распределены на должностные инструкции для педагогических работников детского сада, обслуживающего персонала и работников кухни.</p>
+</div></div></div>  </div>
+
+ 
+  
+      <footer>
+      <ul class="links inline"><li class="node-readmore first last"><a href="/doljnostnie-dou" rel="tag" title="Должностные инструкции работников ДОУ (детского сада)">Подробнее<span class="element-invisible"> о Должностные инструкции работников ДОУ (детского сада)</span></a></li>
+</ul>    </footer>
+  
+    </article> <!-- /.node -->
+<h2 class="element-invisible">Страницы</h2><div class="item-list"><ul class="pager"><li class="pager-current first">1</li>
+<li class="pager-item"><a title="На страницу номер 2" href="/node?page=1">2</a></li>
+<li class="pager-item"><a title="На страницу номер 3" href="/node?page=2">3</a></li>
+<li class="pager-item"><a title="На страницу номер 4" href="/node?page=3">4</a></li>
+<li class="pager-next"><a title="На следующую страницу" href="/node?page=1">следующая ›</a></li>
+<li class="pager-last last"><a title="На последнюю страницу" href="/node?page=3">последняя »</a></li>
+</ul></div>  </div>
+  
+</div> <!-- /.block -->
+<div id="block-views-new-update-block" class="block block-views">
+
+      
+  <div class="content">
+    <div class="view view-new-update view-id-new_update view-display-id-block view-dom-id-ecf0787cf0d0cdce462bac2fd7a86763">
+        
+  
+  
+      <div class="view-content">
+      <table class="views-table cols-2" >
+         <thead>
+      <tr>
+                  <th  scope="col">
+            <strong>Обновления</strong>          </th>
+                  <th class="views-field views-field-changed"  scope="col">
+            <strong>Дата</strong>          </th>
+              </tr>
+    </thead>
+    <tbody>
+          <tr >
+                  <td >
+            <a href="/node/3200">Должностная инструкция заместителя директора по АХЧ (профстандарт)</a>          </td>
+                  <td class="views-field views-field-changed" >
+            01.03.2021 - 16:22          </td>
+              </tr>
+          <tr >
+                  <td >
+            <a href="/node/625">Должностная инструкция заместителя директора по АХР</a>          </td>
+                  <td class="views-field views-field-changed" >
+            01.03.2021 - 16:17          </td>
+              </tr>
+          <tr >
+                  <td >
+            <a href="/node/626">Должностная инструкция заместителя директора по УМР</a>          </td>
+                  <td class="views-field views-field-changed" >
+            01.03.2021 - 16:16          </td>
+              </tr>
+          <tr >
+                  <td >
+            <a href="/node/617">Должностная инструкция заместителя директора по воспитательной работе</a>          </td>
+                  <td class="views-field views-field-changed" >
+            01.03.2021 - 16:14          </td>
+              </tr>
+          <tr >
+                  <td >
+            <a href="/node/616">Должностная инструкция заместителя директора по УВР</a>          </td>
+                  <td class="views-field views-field-changed" >
+            01.03.2021 - 16:13          </td>
+              </tr>
+          <tr >
+                  <td >
+            <a href="/director">Должностная инструкция директора школы</a>          </td>
+                  <td class="views-field views-field-changed" >
+            01.03.2021 - 16:12          </td>
+              </tr>
+          <tr >
+                  <td >
+            <a href="/node/748">Должностная инструкция по пожарной безопасности заведующего ДОУ</a>          </td>
+                  <td class="views-field views-field-changed" >
+            01.03.2021 - 14:55          </td>
+              </tr>
+      </tbody>
+</table>
+    </div>
+  
+  
+  
+  
+      <div class="view-footer">
+      <p><div id="block-block-14--2" class="block block-block">
+
+      
+  <div class="content">
+    <div align="center">
+Если страница Вам понравилась, поделитесь в социальных сетях:</p>
+<script type="text/javascript">(function(w,doc) {
+if (!w.__utlWdgt ) {
+    w.__utlWdgt = true;
+    var d = doc, s = d.createElement('script'), g = 'getElementsByTagName';
+    s.type = 'text/javascript'; s.charset='UTF-8'; s.async = true;
+    s.src = ('https:' == w.location.protocol ? 'https' : 'http')  + '://w.uptolike.com/widgets/v1/uptolike.js';
+    var h=d[g]('body')[0];
+    h.appendChild(s);
+}})(window,document);
+</script><div data-mobile-view="true" data-share-size="40" data-follow-button-text="ПРИСОЕДИНИТЬСЯ" data-like-text-enable="false" data-background-alpha="0.0" data-pid="1890687" data-mode="share" data-background-color="#ffffff" data-hover-effect="scale" data-share-shape="round-rectangle" data-share-counter-size="12" data-icon-color="#ffffff" data-mobile-sn-ids="fb.vk.tw.ok." data-text-color="#000000" data-buttons-color="#ffffff" data-counter-background-color="#ffffff" data-share-counter-type="separate" data-follow-text="Сообщество Документация для организаций и учреждений:<br />
+%network%" data-orientation="horizontal" data-following-enable="true" data-sn-ids="fb.vk.tw.ok." data-preview-mobile="false" data-selection-enable="false" data-follow-title="Присоединяйся к нам в cоц. сети!" data-exclude-show-more="false" data-share-style="2" data-follow-vk="instruckcii" data-counter-background-alpha="1.0" data-top-button="true" class="uptolike-buttons" ></div>
+</div>
+  </div>
+  
+</div> <!-- /.block -->
+</p>
+    </div>
+  
+  
+</div>  </div>
+  
+</div> <!-- /.block -->
+<div id="block-block-58" class="block block-block">
+
+      
+  <div class="content">
+    <div class="subscribe-footer">
+<a href="/subscribe" class="but-subscribe"><img src="/themes/professional/images/sub_mail.png" alt="">Подписаться на E-MAIL рассылку</a>
+</div>  </div>
+  
+</div> <!-- /.block -->
+</div>
+ <!-- /.region -->
+      </section> <!-- /#main -->
+    </div>
+  
+          <aside id="sidebar-first" role="complementary">
+        <div class="region region-sidebar-first">
+  <div id="block-uc-ajax-cart-alt-uc-ajax-cart-alt" class="block block-uc-ajax-cart-alt sidebar">
+
+        <h2 >Корзина</h2>
+    
+  <div class="content">
+    <div class="uc-ajax-cart-alt-cart"><div class="ajax-progress ajax-progress-throbber"><div class="throbber">&nbsp;</div><div class="message">Пожалуйста, подождите...</div></div></div>  </div>
+  
+</div> <!-- /.block -->
+<div id="block-block-48" class="block block-block">
+
+      
+  <div class="content">
+    <a href="/store/school" style="display:block" class="art-store">Все пакеты<br />
+документов для Школы</a>  </div>
+  
+</div> <!-- /.block -->
+<div id="block-menu-menu-akt-school" class="block block-menu">
+
+        <h2 >Документы школы</h2>
+    
+  <div class="content">
+    <ul class="menu"><li class="first leaf"><a href="/node/1987" title="Положения в школе">Положения школы</a></li>
+<li class="leaf"><a href="/koronavirus" title="Документация для работы в период коронавируса">Документы по коронавирусу</a></li>
+<li class="leaf"><a href="/node/2707" title="Программы инструктажей работников школы">Билеты и инструктажи по ОТ</a></li>
+<li class="leaf"><a href="/node/3256" title="Журналы по охране труда и технике безопасности в школе">Журналы по охране труда</a></li>
+<li class="leaf"><a href="/node/3107" title="Акты и протоколы по охране труда в школе">Акты и протоколы по ОТ</a></li>
+<li class="last leaf"><a href="/product/normot_school" title="Нормативные документы по охране труда для школы">Нормативные документы ОТ</a></li>
+</ul>  </div>
+  
+</div> <!-- /.block -->
+<div id="block-menu-menu-doljnostnie" class="block block-menu">
+
+        <h2 >Должностные школы</h2>
+    
+  <div class="content">
+    <ul class="menu"><li class="first leaf"><a href="/node/1631" title="Должностные инструкции работников школы по профстандарту">Должностные Профстандарт</a></li>
+<li class="leaf"><a href="/doljnostnye" title="Должностные инструкции работников школы">Должностные по ЕКС</a></li>
+<li class="leaf"><a href="/node/624" title="Должностные инструкции заместителей директора школы">Должностные заместителей</a></li>
+<li class="leaf"><a href="/node/887" title="Должностные инструкции для администрации школы">Должностные администрации</a></li>
+<li class="leaf"><a href="/doljnostnaya-uchitel" title="Должностные инструкции учителей школ Российской Федерации">Должностные учителей</a></li>
+<li class="leaf"><a href="/node/629" title="Должностные инструкции работников школы">Должностные персонала</a></li>
+<li class="leaf"><a href="/laborant" title="Должностные инструкции лаборантов в школе">Должностные лаборантов</a></li>
+<li class="last leaf"><a href="/perechen-school" title="Список должностных инструкций для школы">Перечень должностных</a></li>
+</ul>  </div>
+  
+</div> <!-- /.block -->
+<div id="block-menu-menu-tbvkab" class="block block-menu">
+
+        <h2 >Охрана труда в школе</h2>
+    
+  <div class="content">
+    <ul class="menu"><li class="first leaf"><a href="/administraciya" title="Техника безопасности для администрации школы">Охрана труда администрации</a></li>
+<li class="leaf"><a href="/node/110" title="Охрана труда учителя в школе">Охрана труда учителя</a></li>
+<li class="leaf"><a href="/node/683" title="Охрана труда учебно-вспомогательного персонала школы">Охрана труда учебно-вспомогательного персонала</a></li>
+<li class="leaf"><a href="/personal" title="Охрана труда технического и обслуживающего персонала школы">Охрана труда обслуживающего персонала</a></li>
+<li class="leaf"><a href="/vvodniy-rabotniki" title="Инструкция вводного инструктажа по охране труда для работников школы">Вводный инструктаж для работников школы</a></li>
+<li class="leaf"><a href="/klassniy" title="Инструкции по охране труда классного руководителя">Техника безопасности классного руководителя</a></li>
+<li class="leaf"><a href="/vneklasnie-meropriyatiya" title="Охрана труда для учащихся, инструкции">Техника безопасности для учащихся</a></li>
+<li class="leaf"><a href="/instruktaji" title="Инструктажи по технике безопасности для детей">Инструктажи для учащихся</a></li>
+<li class="leaf"><a href="/psihologi" title="Инструкции по охране труда для психолога">Охрана труда психолога</a></li>
+<li class="leaf"><a href="/biblioteka" title="Техника безопасности и охрана труда в библиотеке">Техника безопасности в библиотеке</a></li>
+<li class="leaf"><a href="/pisheblock" title="Инструкции по охране труда на пищеблоке школы">Охрана труда в школьной столовой</a></li>
+<li class="last leaf"><a href="/perechen-school-ot" title="Список инструкций по охране труда для школы">Перечень инструкций по охране труда в школе</a></li>
+</ul>  </div>
+  
+</div> <!-- /.block -->
+<div id="block-menu-menu-tb-kabinet" class="block block-menu">
+
+        <h2 >Охрана труда в кабинетах</h2>
+    
+  <div class="content">
+    <ul class="menu"><li class="first leaf"><a href="/nachalnaya-shkola" title="Техника безопасности в начальной школе, классах">Кабинет начальной школы</a></li>
+<li class="leaf"><a href="/fizika" title="Техника безопасности и инструкции в кабинете физики">Кабинет физики</a></li>
+<li class="leaf"><a href="/informatika" title="Техника безопасности и охрана труда в кабинетах информатики">Кабинет информатики</a></li>
+<li class="leaf"><a href="/biologiya" title="Техника безопасности охрана труда в кабинете биологии">Кабинет биологии</a></li>
+<li class="leaf"><a href="/himiya" title="Техника безопасности и инструкции в кабинете химии">Кабинет химии</a></li>
+<li class="leaf"><a href="/node/48" title="Техника безопасности в кабинете технологии для девочек">Кабинет технологии</a></li>
+<li class="leaf"><a href="/trud" title="Техника безопасности в кабинете технологии для мальчиков">Учебные мастерские</a></li>
+<li class="leaf"><a href="/node/54" title="Техника безопасности и охрана труда на уроках физкультуры">Спортивный зал</a></li>
+<li class="leaf"><a href="/obj" title="Инструкции по охране труда для ОБЖ">Кабинет ОБЖ</a></li>
+<li class="last leaf"><a href="/krujok" title="Техника безопасности и охрана труда на кружках">Кружки, студии, секции</a></li>
+</ul>  </div>
+  
+</div> <!-- /.block -->
+<div id="block-menu-menu-pojarnaya" class="block block-menu">
+
+        <h2 >Пожарная безопасность</h2>
+    
+  <div class="content">
+    <ul class="menu"><li class="first leaf"><a href="/protivopojarnaya" title="Инструкции по противопожарной безопасности в школе">Пожарная безопасность в школе</a></li>
+<li class="leaf"><a href="/node/791" title="Инструктажи по пожарной безопасности для учащихся">Инструктажи по пожарной безопасности в школе</a></li>
+<li class="leaf"><a href="/pojarnaya-dou" title="Пожарная безопасность в ДОУ (детском саду)">Пожарная безопасность в ДОУ</a></li>
+<li class="leaf"><a href="/pojar-video" title="Фильмы и видео-ролики по пожарной безопасности">Видео по пожарной безопасности</a></li>
+<li class="last leaf"><a href="/node/765" title="Перечень инструкций по пожарной безопасности для школы и ДОУ">Перечень инструкций по пожарной безопасности</a></li>
+</ul>  </div>
+  
+</div> <!-- /.block -->
+<div id="block-menu-menu-go" class="block block-menu">
+
+        <h2 >Гражданская оборона</h2>
+    
+  <div class="content">
+    <ul class="menu"><li class="first last leaf"><a href="/go-shkola" title="Документы по ГО и ЧС в школе">Гражданская оборона в школе</a></li>
+</ul>  </div>
+  
+</div> <!-- /.block -->
+<div id="block-menu-menu-instrukcii-lager" class="block block-menu">
+
+        <h2 >Документы пришкольного лагеря</h2>
+    
+  <div class="content">
+    <ul class="menu"><li class="first leaf"><a href="/doljnostnie-lager" title="Должностные инструкции работников лагеря с дневным пребыванием детей">Должностные инструкции для пришкольного лагеря</a></li>
+<li class="leaf"><a href="/lager" title="Инструкции по охране труда для пришкольного оздоровительного лагеря дневного пребывания">Инструкции по охране труда для пришкольного лагеря</a></li>
+<li class="leaf"><a href="/node/856" title="Инструкции для школьного лагеря дневного пребывания">Инструкции для школьного лагеря</a></li>
+<li class="leaf"><a href="/node/834" title="Инструкции по безопасности для детей пришкольного лагеря">Инструкции для детей пришкольного лагеря</a></li>
+<li class="last leaf"><a href="/instruktaj-lager" title="Инструктажи для детей лагеря дневного пребывания">Инструктажи для детей пришкольного лагеря</a></li>
+</ul>  </div>
+  
+</div> <!-- /.block -->
+<div id="block-menu-menu-kotelnaya" class="block block-menu">
+
+        <h2 >Документация котельной школы</h2>
+    
+  <div class="content">
+    <ul class="menu"><li class="first last leaf"><a href="/node/1871" title="Инструкции для котельной школы">Документы для котельной школы</a></li>
+</ul>  </div>
+  
+</div> <!-- /.block -->
+<div id="block-block-52" class="block block-block sidebar">
+
+      
+  <div class="content">
+    <script type="text/javascript">
+<!--
+var _acic={dataProvider:10,allowCookieMatch:false};(function(){var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="//www.acint.net/aci.js";var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t)})()
+//-->
+</script>  </div>
+  
+</div> <!-- /.block -->
+</div>
+ <!-- /.region -->
+      </aside>  <!-- /#sidebar-first -->
+      
+    </div>
+
+          <aside id="sidebar-second" role="complementary">
+        <div class="region region-sidebar-second">
+  <div id="block-block-47" class="block block-block">
+
+      
+  <div class="content">
+    <a style="display:block" href="/store/dou" class="art-store">Все пакеты<br />
+документов для ДОУ</a>  </div>
+  
+</div> <!-- /.block -->
+<div id="block-menu-menu-polojeniya-dou" class="block block-menu">
+
+        <h2 >Документы ДОУ</h2>
+    
+  <div class="content">
+    <ul class="menu"><li class="first leaf"><a href="/node/2142" title="Положения для ДОУ">Положения ДОУ</a></li>
+<li class="leaf"><a href="/koronavirus" title="Документация для работы в период коронавируса">Документация по коронавирусу</a></li>
+<li class="leaf"><a href="/node/3341" title="Журналы по охране труда в детском саду">Журналы по охране труда</a></li>
+<li class="leaf"><a href="/node/3466" title="Акты и протоколы по охране труда в ДОУ">Акты и протоколы по ОТ в ДОУ</a></li>
+<li class="last leaf"><a href="/product/normot_school" title="Нормативные документы по охране труда для ДОУ">Нормативные документы ОТ</a></li>
+</ul>  </div>
+  
+</div> <!-- /.block -->
+<div id="block-menu-menu-doljnostnie-dou" class="block block-menu">
+
+        <h2 >Должностные ДОУ</h2>
+    
+  <div class="content">
+    <ul class="menu"><li class="first leaf"><a href="/doljnostnie-dou" title="Должностные инструкции работников ДОУ">Должностные для ДОУ</a></li>
+<li class="leaf"><a href="/zamestiteli-dou" title="Должностные инструкции заместителей заведующего ДОУ">Должностные заместителей</a></li>
+<li class="leaf"><a href="/personal-dou" title="Должностные инструкции обслуживающего персонала ДОУ">Должностные персонала ДОУ</a></li>
+<li class="last leaf"><a href="/perechen-dou" title="Перечень должностных инструкций для детского сада">Перечень должностных в ДОУ</a></li>
+</ul>  </div>
+  
+</div> <!-- /.block -->
+<div id="block-menu-menu-ot-dou" class="block block-menu">
+
+        <h2 >Охрана труда в ДОУ</h2>
+    
+  <div class="content">
+    <ul class="menu"><li class="first leaf"><a href="/dou" title="Охрана труда в детском саду">Инструкции по охрана труда</a></li>
+<li class="leaf"><a href="/node/929" title="Инструкции по охране труда для работников ДОУ">Инструкции для работников</a></li>
+<li class="leaf"><a href="/detskiy-sad" title="Инструкции по технике безопасности в детском саду">Техника безопасности в ДОУ</a></li>
+<li class="leaf"><a href="/node/895" title="Инструкции по охране труда на пищеблоке ДОУ">Инструкции на кухне ДОУ</a></li>
+<li class="leaf"><a href="/node/921" title="Инструкции по охране труда для детей ДОУ">Инструкции для детей ДОУ</a></li>
+<li class="leaf"><a href="/node/824" title="Инструкции по охране труда для воспитанников ДОУ">Инструкции для воспитанников</a></li>
+<li class="last leaf"><a href="/perechen-douot" title="Список инструкций по охране труда для ДОУ">Перечень инструкций по ОТ</a></li>
+</ul>  </div>
+  
+</div> <!-- /.block -->
+<div id="block-menu-menu-menu-go-dou" class="block block-menu">
+
+        <h2 >Гражданская оборона</h2>
+    
+  <div class="content">
+    <ul class="menu"><li class="first last leaf"><a href="/go-dou" title="ГО и ЧС в ДОУ">Гражданская оборона в ДОУ</a></li>
+</ul>  </div>
+  
+</div> <!-- /.block -->
+<div id="block-menu-menu-menu-kotelnaya-dou" class="block block-menu">
+
+        <h2 >Котельная ДОУ</h2>
+    
+  <div class="content">
+    <ul class="menu"><li class="first last leaf"><a href="/node/2379" title="Инструкции для котельной ДОУ">Документы для котельной ДОУ</a></li>
+</ul>  </div>
+  
+</div> <!-- /.block -->
+<div id="block-menu-menu-dvijenie" class="block block-menu">
+
+        <h2 >ПДД для детей</h2>
+    
+  <div class="content">
+    <ul class="menu"><li class="first last leaf"><a href="/pravila" title="Правила дорожного движения учащихся">Правила дорожного движения</a></li>
+</ul>  </div>
+  
+</div> <!-- /.block -->
+<div id="block-menu-menu-http-ohrana-tryda-com-doljn" class="block block-menu">
+
+        <h2 >Документация детского лагеря</h2>
+    
+  <div class="content">
+    <ul class="menu"><li class="first leaf"><a href="/node/2057" title="Должностные инструкции для детского оздоровительного лагеря">Должностные инструкции для детского лагеря</a></li>
+<li class="last leaf"><a href="/node/931" title="Инструкции по охране труда для детского оздоровительного лагеря">Инструкции по охране труда для детского лагеря</a></li>
+</ul>  </div>
+  
+</div> <!-- /.block -->
+<div id="block-menu-menu-instrukcii-po-ot" class="block block-menu">
+
+        <h2 >Документы кафе, ресторана, столовой</h2>
+    
+  <div class="content">
+    <ul class="menu"><li class="first leaf"><a href="/node/1174" title="Должностные инструкции работников кафе">Должностные для кафе</a></li>
+<li class="leaf"><a href="/node/1169" title="Должностные инструкции работников ресторана">Должностные для ресторана</a></li>
+<li class="leaf"><a href="/node/1123" title="Должностные инструкции работников столовой">Должностные для столовой</a></li>
+<li class="leaf"><a href="/node/1072" title="Инструкции по охране труда в кафе и баре">Охрана труда в кафе и баре</a></li>
+<li class="leaf"><a href="/node/1083" title="Инструкции по охране труда в ресторане">Охрана труда в ресторане</a></li>
+<li class="leaf"><a href="/node/1026" title="Инструкции по охране труда на пищеблоке столовой">Охрана труда в столовой</a></li>
+<li class="leaf"><a href="/node/2470" title="Документы по пожарной безопасности в кафе">Пожарная безопасность в кафе</a></li>
+<li class="leaf"><a href="/node/2473" title="Документы по пожарной безопасности в ресторане">Пожарная безопасность в ресторане</a></li>
+<li class="leaf"><a href="/node/2482" title="Документы по пожарной безопасности в ресторане">Пожарная безопасность в столовой</a></li>
+<li class="last leaf"><a href="/node/1015" title="Инструкции по охране труда на производстве">Инструкции по ОТ на производстве</a></li>
+</ul>  </div>
+  
+</div> <!-- /.block -->
+<div id="block-menu-menu-posadovi-instrukcii" class="block block-menu">
+
+        <h2 >Посадові інструкції</h2>
+    
+  <div class="content">
+    <ul class="menu"><li class="first last leaf"><a href="/posadovi-vchiteliv" title="Посадові інструкції учителів шкіл України">Посадові інструкції вчителів</a></li>
+</ul>  </div>
+  
+</div> <!-- /.block -->
+<div id="block-block-49" class="block block-block sidebar">
+
+        <h2 >Баннер сайта</h2>
+    
+  <div class="content">
+    <div class="block-banner">
+Мы будем благодарны, если вы установите на своем сайте ссылочку!<br />
+<img alt="Баннер сайта Охрана труда" title="Баннер сайта Охрана труда в школе и ДОУ" src="/banners/bohrana3.gif"><br />
+Код баннера:</p>
+<div class="code-banner">&lt;a href=&quot;https://ohrana-tryda.com/&quot; target=&quot;_blank&quot;&gt; &lt;img src=&quot;https://ohrana-tryda.com/banners/bohrana3.gif&quot; width=&quot;88&quot; height=&quot;31&quot; alt=&quot;Охрана труда в школе и ДОУ&quot;&gt;&lt;/a&gt;</div>
+<p><a href="/banneri" title="Другие баннеры сайта">Другие баннеры и ссылки...</a>
+</div>
+  </div>
+  
+</div> <!-- /.block -->
+</div>
+ <!-- /.region -->
+      </aside>  <!-- /#sidebar-first -->
+      
+</div>
+
+<div id="footer">
+  <div id="footer_wrapper">
+      </div>
+  <div class="footer_credit">
+    <div class="footer_inner_credit">
+           <div id="foot">
+        <div class="region region-footer">
+  <div id="block-block-50" class="block block-block">
+
+      
+  <div class="content">
+    <noindex>
+<!--LiveInternet counter--><script type="text/javascript">
+document.write("<a href='//www.liveinternet.ru/click' "+
+"target=_blank rel=nofollow><img src='//counter.yadro.ru/hit?t52.10;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='LI Охрана труда в школе и ДОУ' title='LiveInternet: показано число просмотров и"+
+" посетителей за 24 часа' "+
+"border='0' width='88' height='31'><\/a>")
+</script><!--/LiveInternet-->
+
+<!-- Yandex.Metrika counter --> <script type="text/javascript" > (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)}; m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)}) (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym"); ym(27054178, "init", { clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true }); </script> <noscript><div><img src="https://mc.yandex.ru/watch/27054178" style="position:absolute; left:-9999px;" alt="" /></div></noscript> <!-- /Yandex.Metrika counter -->
+</noindex>
+
+<a href="/sitemap.xml" title="sitemap.xml"><img src="/themes/professional/images/sitemap.gif" alt="Sitemap"></a>
+  </div>
+  
+</div> <!-- /.block -->
+</div>
+ <!-- /.region -->
+      </div>
+         
+    <div id="copyright">
+     <p class="copyright">Copyright &copy; 2014-2021, Охрана труда и техника безопасности в школе </p> 
+    <div class="clear"></div>
+    </div>
+  </div>
+  </div>
+</div>  </body>
+</html>

@@ -1,0 +1,882 @@
+
+ <!DOCTYPE html>
+<html lang="ru-RU" class="no-js">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+	
+<link href="https://russkiy-pravilno.ru/wp-content/uploads/2019/05/favicon.png" rel="icon" type="image/x-icon">
+	<meta name="yandex-verification" content="e4d2ef1fe2fbfdd1" />
+	<script data-ad-client="ca-pub-6980898547522533" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	
+<title>Русский язык как правильно писать и говорить слова, правила</title>
+<meta name="description" content="Как подготовится к сдаче ЕГЭ и ОГЭ на отлично. Как правильно писать слова, как определить род, узнать все о частях речи и не ошибиться со знаками препинания? Русский язык правильно - вот о чем этот сайт." />
+<meta name="robots" content="index, follow" />
+<meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+<meta name="bingbot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+<link rel="canonical" href="https://russkiy-pravilno.ru/" />
+<meta name="author" content="Автор статей по русскому языку">
+<script type="application/ld+json">{"@context" : "https://schema.org","@type" : "Organization","name" : "\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u044f\u0437\u044b\u043a","url" : "https:\/\/russkiy-pravilno.ru"}</script>
+<script type="application/ld+json">{
+				"@context": "https://schema.org",
+				"@type": "WebSite",
+				"url" : "https:\/\/russkiy-pravilno.ru",
+				"potentialAction": {
+					"@type": "SearchAction",
+					"target": "https:\/\/russkiy-pravilno.ru\/?s={search_term_string}",
+					"query-input": "required name=search_term_string"
+				}
+			}</script>
+<meta property="og:url" content="https://russkiy-pravilno.ru/" />
+<meta property="og:site_name" content="Русский язык" />
+<meta property="og:locale" content="ru_RU" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Русский язык как правильно писать и говорить слова, правила" />
+<meta property="og:description" content="Как подготовится к сдаче ЕГЭ и ОГЭ на отлично. Как правильно писать слова, как определить род, узнать все о частях речи и не ошибиться со знаками препинания? Русский язык правильно - вот о чем этот сайт." />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="Русский язык как правильно писать и говорить слова, правила" />
+<meta name="twitter:description" content="Как подготовится к сдаче ЕГЭ и ОГЭ на отлично. Как правильно писать слова, как определить род, узнать все о частях речи и не ошибиться со знаками препинания? Русский язык правильно - вот о чем этот сайт." />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Русский язык &raquo; Лента" href="https://russkiy-pravilno.ru/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Русский язык &raquo; Лента комментариев" href="https://russkiy-pravilno.ru/comments/feed/" />
+<link rel='stylesheet' id='maxtd_info_box_plugin-style-css'  href='https://russkiy-pravilno.ru/wp-content/plugins/maxtd-info-box/css/style.css?ver=5.0.4' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://russkiy-pravilno.ru/wp-includes/css/dist/block-library/style.min.css?ver=5.0.4' type='text/css' media='all' />
+<link rel='stylesheet' id='ai-aos-css'  href='https://russkiy-pravilno.ru/wp-content/plugins/ad-inserter-pro/includes/aos/ai-aos.css?ver=2.6.11' type='text/css' media='all' />
+<link rel='stylesheet' id='email-subscription_css-css'  href='https://russkiy-pravilno.ru/wp-content/plugins/email-subscription/assets/email-subscription.css?ver=0.50' type='text/css' media='all' />
+<link rel='stylesheet' id='members_of_proposal-style-css'  href='https://russkiy-pravilno.ru/wp-content/plugins/members_of_proposal/style.css?ver=5.0.4' type='text/css' media='all' />
+<link rel='stylesheet' id='style-name-css'  href='https://russkiy-pravilno.ru/wp-content/plugins/morphemes/style.css?ver=5.0.4' type='text/css' media='all' />
+<link rel='stylesheet' id='mideal-faq-style-css'  href='https://russkiy-pravilno.ru/wp-content/plugins/question-answer-faq/css/style.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='mideal-faq-avatar_small-css'  href='https://russkiy-pravilno.ru/wp-content/plugins/question-answer-faq/css/small_size.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='mideal-faq-bootstrap-css'  href='https://russkiy-pravilno.ru/wp-content/plugins/question-answer-faq/css/bootstrap.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-pagenavi-css'  href='https://russkiy-pravilno.ru/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70' type='text/css' media='all' />
+<link rel='stylesheet' id='ez-icomoon-css'  href='https://russkiy-pravilno.ru/wp-content/plugins/easy-table-of-contents/vendor/icomoon/style.min.css?ver=1.7' type='text/css' media='all' />
+<link rel='stylesheet' id='ez-toc-css'  href='https://russkiy-pravilno.ru/wp-content/plugins/easy-table-of-contents/assets/css/screen.min.css?ver=1.7' type='text/css' media='all' />
+<style id='ez-toc-inline-css' type='text/css'>
+div#ez-toc-container p.ez-toc-title {font-size: 120%;}div#ez-toc-container p.ez-toc-title {font-weight: 500;}div#ez-toc-container ul li {font-size: 95%;}div#ez-toc-container {background: #fff;border: 1px solid #ddd;}div#ez-toc-container p.ez-toc-title {color: #999;}div#ez-toc-container ul.ez-toc-list a {color: #428bca;}div#ez-toc-container ul.ez-toc-list a:hover {color: #2a6496;}div#ez-toc-container ul.ez-toc-list a:visited {color: #428bca;}
+</style>
+<link rel='stylesheet' id='theme-style-css'  href='https://russkiy-pravilno.ru/wp-content/themes/justgoodnews/style.css' type='text/css' media='all' />
+<script type='text/javascript' src='https://russkiy-pravilno.ru/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://russkiy-pravilno.ru/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='https://russkiy-pravilno.ru/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://russkiy-pravilno.ru/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://russkiy-pravilno.ru/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.0.4" />
+<link rel='shortlink' href='https://russkiy-pravilno.ru/' />
+<link rel="alternate" type="application/json+oembed" href="https://russkiy-pravilno.ru/wp-json/oembed/1.0/embed?url=https%3A%2F%2Frusskiy-pravilno.ru%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://russkiy-pravilno.ru/wp-json/oembed/1.0/embed?url=https%3A%2F%2Frusskiy-pravilno.ru%2F&#038;format=xml" />
+
+			<script type="text/javascript">
+				//Rate my Post compatibility with autoreplace SVG from FontAwesome
+				window.FontAwesomeConfig = { autoReplaceSvg: false };
+			</script>
+		<style>.menunav{background:#358fca}h1, h2, h3, h4, h5, h6, .arch-title, .related-title{color:#358fca}h2 a, .rel-post-title {color:#358fca; text-decoration: none}h2 a:hover,  .rel-post-title:hover  { color:#358fca; text-decoration: underline}.comment-form input[type="submit"], #emailSub-widget input[type="submit"],.top-load-blok .dropdown input[type="submit"]{ background:#3575c4}.comment-form input[type="submit"]:hover,  .tagcloud a:hover, .dropdown input[type="submit"]:hover, #emailSub-widget input[type="submit"]:hover, .vk:hover, .fb:hover, .tw:hover, .ig:hover, .od:hover, .gp:hover, .yt:hover, .in:hover, .lj:hover { background: #343434}.foot-wid a, .side-blok a{color:#358fca}.foot-wid a:hover, .side-blok a:hover{color:#358fca}p.site-desc,  .entry-info, .blog .cats a, .breadcrumbs, .breadcrumbs a,  .entry-tags, .entry-tags a,  .archive-desc,   .cat-bar,  .cat-bar .sl-icon, .cat-bar .sl-count, .cat-bar a.post-edit-link, .post-navigation span,   .wp-pagenavi,  .about-author span,  .credits, .credits p a, .sl-wrapper a, .about-author a:hover { color:#999}.wp-pagenavi span.current, .wp-pagenavi a:hover,   .tagcloud a {background: #165399}.main-col{float:left; width:64%;  margin-right:4%}.sidebar{float:left; width:32%}@media only screen and (max-width:1024px){  .main-col{ width:60% }.sidebar{ width:36% }}@media only screen and (max-width:900px){ .main-col{width:100%;  margin-right:0; margin-bottom: 40px}.sidebar{width:100%}}@media only screen and (max-width:800px){ .main-col{width:90%; float:left; margin:0 0 0 5%} .sidebar{width:90%; margin:0 0 0 5%}} .color-1 {background:#295dbc} .color-2 {background:#E33258}  .color-3 {background:#173e9b}  .color-4 {background:#246618} .color-5 {background:#5040c4} .color-6 {background:#684c99} .color-7 {background:#f23737} .color-8 {background:#267f32} .color-9 {background:#E33258} .color-10 {background:#00A0B0} .color-11 {background:#1e73be} .color-12 {background:#A8DBA8} .color-13 {background:#E33258} .color-14 {background:#99B2B7}.entry-content >p:first-child:first-letter{ float:left; color:#333; font-size:78px; line-height:60px; padding-top:5px; padding-right:10px; padding-left:0px; font-weight:normal; font-style:normal} @media only screen and (max-width:1024px){ .entry-content  > p:first-child:first-letter {  font-size: 48px;  line-height: 40px; } } .cat-box-1{ background:url('https://russkiy-pravilno.ru/wp-content/uploads/2019/06/Pretenziya-ili-pritenziya.png') }.cat-box-2{background:url('https://russkiy-pravilno.ru/wp-content/uploads/2019/06/Mnogotochie-1.png') }.cat-box-3{background:url('https://russkiy-pravilno.ru/wp-content/uploads/2019/06/rosinka.png') } .cat-box-4{background:url('https://russkiy-pravilno.ru/wp-content/uploads/2019/06/Vysokaya-mechta-ee-znachenie.png') } .cat-box-5{ background:url('')}.cat-box-6{background:url('')}.cat-box-7{background:url('')  } .cat-box-8{background:url('') }.cat-box-1, .cat-box-2, .cat-box-3, .cat-box-4, .cat-box-5,  .cat-box-6,  .cat-box-7, .cat-box-8 {background-position: center center;background-size: cover; background-repeat: no-repeat}a, .about-author a, .entry p a:hover { color:#037fa5}a:hover,   .featured-item a:hover,  .featured-item-main a:hover, .breadcrumbs a:hover,   .more-link, .more-link-center,  .credits p a:hover, .blog .cats a:hover, .cat-bar a.post-edit-link:hover,  .entry p a  { color:#358fca}.logo a{  color:#333}.menunav ul li, .menunav li a{ color:#fff}.menunav li a:hover{ color:#fff } .menunav ul li ul{ background:#1e73be}.menunav ul li ul li a { color:#fff }.menunav ul li ul li a:hover { color:#fff }.side-title, .pop-title  {background:#3698bc}.foot-title {background:#3698bc } .date-color {background:#6cc2cc}  h1.site-title,   span.site-title {background-image: url('https://russkiy-pravilno.ru/wp-content/uploads/2019/07/logo-russian-new.png'); background-repeat: no-repeat;  width: 270px; height:90px}.full-width-col {margin-top:45px}.search-expand input {background: #1fa377; color:#fff}.menunav ul li{padding:22px 0 22px 17px;position:relative;text-align:center;z-index:101;font-size:14px;display:inline-block}.menunav li a{text-decoration:none;padding-left:9px;font-family:Helvetica,Arial,sans-serif;font-weight:bold; }.menunav li a:hover{text-decoration:underline}.menunav ul li ul{position:absolute;height:auto;top:57px;left:-2px;display:none;visibility:hidden;width:265px;padding:25px 0 15px 0}.menunav ul li ul li{display:list-item;text-align:left;padding:0 0 15px 20px;border:0}.menunav ul li ul li:first-child{border:0;padding-left:20px}.menunav ul li ul li ul{top:0}* html .menunav{height:1%}.menunav ul li ul li ul{position:absolute;top:-25px;height:auto;left:265px;display:none;visibility:hidden;width:265px;padding:25px 0 15px 0}@media only screen and (max-width:1100px){.menunav ul li{padding:22px 0 22px 9px; font-size:12px}}a.more-link-сenter{display:block;text-align: center; color:#358fca}</style>
+ <link rel="icon" href="https://russkiy-pravilno.ru/wp-content/uploads/2019/05/favicon.png" sizes="32x32" />
+<link rel="icon" href="https://russkiy-pravilno.ru/wp-content/uploads/2019/05/favicon.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://russkiy-pravilno.ru/wp-content/uploads/2019/05/favicon.png" />
+<meta name="msapplication-TileImage" content="https://russkiy-pravilno.ru/wp-content/uploads/2019/05/favicon.png" />
+<style>
+.ai-viewports                 {--ai: 1;}
+.ai-viewport-3                { display: none !important;}
+.ai-viewport-2                { display: none !important;}
+.ai-viewport-1                { display: inherit !important;}
+.ai-viewport-0                { display: none !important;}
+@media (min-width: 1200px) and (max-width: 1399px) {
+.ai-viewport-1                { display: none !important;}
+.ai-viewport-2                { display: inherit !important;}
+}
+@media (max-width: 1199px) {
+.ai-viewport-1                { display: none !important;}
+.ai-viewport-3                { display: inherit !important;}
+}
+.ai-close {position: relative;}
+.ai-close-button {position: absolute; top: -8px; right: -8px; width: 24px; height: 24px; background: url(https://russkiy-pravilno.ru/wp-content/plugins/ad-inserter-pro/css/images/close-button.png) no-repeat center center; cursor: pointer; z-index: 9; display: none;}
+.ai-close-show {display: block;}
+.ai-close-left {right: unset; left: -10px;}
+.ai-close-bottom {top: unset; bottom: -11px;}
+.ai-close-none {visibility: hidden;}
+.ai-close-fit {width: fit-content; width: -moz-fit-content;}
+</style>
+
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(56335867, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/56335867" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+
+</head>
+<body class="home page-template page-template-main page-template-main-php page page-id-151">
+ <div class="top-load-blok nodisp">
+<div class="top-header-bar">
+ <span class="top-header-date">Понедельник, 1 марта 2021</span>
+ 	
+<span class="top-header-sub"><!--noindex--><a class="open_window" href="#" rel="nofollow"><i class="fa fa-envelope-o" aria-hidden="true"></i>&nbsp; Подписка на обновления</a><!--/noindex--></span>
+ 
+	
+<div class="social-bar">
+<ul>
+<!--noindex-->
+ <li class="first"><a class="vk" href="https://vk.com/ege_russkiy_pravilno" target="_blank" title="ВКонтакте" rel="nofollow"> <i class="fa fa-vk" aria-hidden="true"></i></a></li>	
+ <li><a class="ig" href="https://www.instagram.com/russkiypravilno/?hl=ru" target="_blank" title="Instagram" rel="nofollow"> <i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+<!--/noindex-->
+</ul>
+</div><!-- end // social-bar -->
+<div class="top-bar-search">
+<form method="get" class="searchform" action="https://russkiy-pravilno.ru/">
+<input type="text" class="search" name="s" onblur="if(this.value=='')this.value='Поиск: впишите запрос и нажмите enter';" onfocus="if(this.value=='Поиск: впишите запрос и нажмите enter')this.value='';" value="Поиск: впишите запрос и нажмите enter">
+</form>	
+</div>
+<div class="clear"></div>
+</div><!-- end // top header bar -->
+</div><!-- end // top-load-blok -->
+<div class="wrap">	 
+<div class="header">
+<div id="top-bar" class="top-header-bar">
+<span class="top-header-date">Понедельник, 1 марта 2021</span>
+ 	
+<span class="top-header-sub"><!--noindex--><a class="open_window" href="#" rel="nofollow"><i class="fa fa-envelope-o" aria-hidden="true"></i>&nbsp; Подписка на обновления</a><!--/noindex--></span>
+ 
+<div class="clear"></div>
+</div><!-- end // top header bar -->
+<div class="clear"></div>
+ 
+<div class="logo">
+ <a href="/"><h1 class="site-title">Русский язык</h1></a>
+<div class="ad728-top">
+	
+</div><!-- end // ad728-top -->
+</div><!-- end // logo -->
+
+ <div class="clear"></div>
+<div id="menu" class="menunav">
+<ul id="menu-menu-1" class="top-menu"><li id="menu-item-38" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-38"><a href="https://russkiy-pravilno.ru/pravila/alfavit/">Алфавит</a></li>
+<li id="menu-item-39" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-39"><a href="https://russkiy-pravilno.ru/pravila/orfografiya/">Орфография</a></li>
+<li id="menu-item-40" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-40"><a href="https://russkiy-pravilno.ru/pravila/punktuatciya/">Пунктуация</a></li>
+<li id="menu-item-41" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-41"><a href="https://russkiy-pravilno.ru/pravila/sintaksis/">Синтаксис</a></li>
+<li id="menu-item-42" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-42"><a href="https://russkiy-pravilno.ru/pravila/fonetika/">Фонетика</a></li>
+<li id="menu-item-43" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-43"><a href="https://russkiy-pravilno.ru/pravila/morphologiya/">Морфология</a></li>
+<li id="menu-item-119" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-119"><a href="https://russkiy-pravilno.ru/pravila/leksika/">Лексика</a></li>
+<li id="menu-item-184" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-184"><a href="https://russkiy-pravilno.ru/pravila/morphemika/">Морфемика</a></li>
+<li id="menu-item-176" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-176"><a href="https://russkiy-pravilno.ru/pravila/ege-russkiy-yazyk/">ЕГЭ</a>
+<ul class="sub-menu">
+	<li id="menu-item-1414" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1414"><a href="https://russkiy-pravilno.ru/varianty-ege/">Варианты ЕГЭ</a></li>
+</ul>
+</li>
+<li id="menu-item-1038" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1038"><a href="https://russkiy-pravilno.ru/sitemap/">Карта сайта</a></li>
+</ul></div><!-- end menunav -->
+<span class="top-load-trigger"><i class="fa fa-plus-square"></i><i class="fa fa-minus-square"></i></span>
+<div class="toggle-search active"><i class="fa fa-search"></i></div>
+<div class="search-expand">
+<div class="search-expand-inner">
+<form method="get" class="searchform" action="https://russkiy-pravilno.ru/">
+<input type="text" class="search" name="s" onblur="if(this.value=='')this.value='Поиск по сайту';" onfocus="if(this.value=='Поиск по сайту')this.value='';" value="Поиск по сайту">
+</form></div>
+</div><!-- end toggle-search -->
+<!--noindex--><a id="showHere"></a><!--/noindex-->
+<div id="mob">
+<!--noindex--><a href="#mobilemenu"><i class="fa fa-bars"></i></a><!--/noindex-->
+</div><!-- end // mob -->
+</div><!-- end // header -->
+ 
+
+ 
+ 
+
+ 
+ 
+ <div class="featured-post-main">
+<div class="featured-item-main">
+  <a rel="bookmark" href="https://russkiy-pravilno.ru/podskazka-a-znaete-li-vy-znachenie-etogo-slova/">
+<img alt='' src='https://russkiy-pravilno.ru/wp-content/uploads/bfi_thumb/Podskazka-3ck8lsbb6wfi06cwxl0e16.jpg'/></a>
+<div class="f-blok">
+<span class="post-cat-2  color-1"><a href="https://russkiy-pravilno.ru/pravila/leksika/" title="Посмотреть все записи в этой рубрике">Лексика&raquo; </a></span>
+
+
+<h2><a rel="bookmark" href="https://russkiy-pravilno.ru/podskazka-a-znaete-li-vy-znachenie-etogo-slova/">Подсказка &#8212; а знаете ли вы значение этого слова</a></h2>
+</div><!-- end // f-blok -->
+</div><!-- end // featured-item-main -->
+
+</div><!-- end // featured-post-main -->
+		
+		
+		
+<div class="featured-post-main-right">
+<div class="featured-item-main">
+  <a rel="bookmark" href="https://russkiy-pravilno.ru/privet-chto-oznachaet-eto-slovo/">
+<img alt='' src='https://russkiy-pravilno.ru/wp-content/uploads/bfi_thumb/Privet-3cjr49yjnxxpef3g9lmc5m.jpg'/></a>
+<div class="f-blok">
+<span class="post-cat-2  color-1"><a href="https://russkiy-pravilno.ru/pravila/leksika/" title="Посмотреть все записи в этой рубрике">Лексика&raquo; </a></span>
+
+
+<h2><a rel="bookmark" href="https://russkiy-pravilno.ru/privet-chto-oznachaet-eto-slovo/">Привет &#8212; что означает это слово</a></h2>
+</div><!-- end // f-blok -->
+</div><!-- end // featured-item-main -->
+
+</div><!-- end // featured-post-main right-->
+
+ 
+
+ 
+ 
+<div class="feat-blok">
+<div class="feat-blok-left">
+<div class="cat-bar"><span class="cat-name color-2"><a href="https://russkiy-pravilno.ru/pravila/morphemika/" title="Посмотреть все записи в этой рубрике">Морфемика&raquo; </a></span>
+ </div><!-- end // cat-bar-->
+ <div class="clear"></div>
+ 
+ <div class="feat-main">
+  <a href="https://russkiy-pravilno.ru/pristavka-nad-i-slova-s-pristavkoy-nad/">
+ <img alt='Приставка над &#8212; что она означает и примеры слов с этой приставкой' class='main-thumb'  src='https://russkiy-pravilno.ru/wp-content/uploads/bfi_thumb/Pristavka-nad-slova-s-pristavkoj-nad-3cc29of844o1yzez4ok26i.jpg'/> </a>
+<h2><a rel="bookmark" href="https://russkiy-pravilno.ru/pristavka-nad-i-slova-s-pristavkoy-nad/">Приставка над &#8212; что она означает и примеры слов с этой приставкой</a></h2>
+ <p>Приставка над &#8212; это специальная часть слова, которая ставится в самом начале слова и нужна для того, чтобы поменять смысл слова. Это обогащает нашу речь. Некоторые приставки несут в себе определенный смысл. Например,...</p>
+ 	<a class="more-link" rel="bookmark" href="https://russkiy-pravilno.ru/">Читать далее &raquo; </a>
+  </div><!-- end // feat-left-main-->
+ 
+<div class="feat-side">
+<ul>
+<li>
+ 	<a href="https://russkiy-pravilno.ru/slova-s-suffiksom-n/">
+ <img alt='Слова с суффиксом «н»' class='list-thumb'  src='https://russkiy-pravilno.ru/wp-content/uploads/bfi_thumb/Slova-s-suffiksom-n-3bal5qp32zwjax4emwvnd6.jpg'/> </a>
+<h2><a rel="bookmark" href="https://russkiy-pravilno.ru/slova-s-suffiksom-n/">Слова с суффиксом «н»</a></h2>
+ </li>
+ <li>
+ 	<a href="https://russkiy-pravilno.ru/slova-s-suffiksom-k/">
+ <img alt='Слова с суффиксом «к»' class='list-thumb'  src='https://russkiy-pravilno.ru/wp-content/uploads/bfi_thumb/slova-s-suffiksom-k-3bal5qtlxafq2yva0s2ayy.jpg'/> </a>
+<h2><a rel="bookmark" href="https://russkiy-pravilno.ru/slova-s-suffiksom-k/">Слова с суффиксом «к»</a></h2>
+ </li>
+ <li>
+ 	<a href="https://russkiy-pravilno.ru/pristavki/">
+ <img alt='Приставки' class='list-thumb'  src='https://russkiy-pravilno.ru/wp-content/uploads/bfi_thumb/pristavki-v-russkom-yazyke-3bal5qtlxafq2yva0s2ayy.jpg'/> </a>
+<h2><a rel="bookmark" href="https://russkiy-pravilno.ru/pristavki/">Приставки</a></h2>
+ </li>
+ <li>
+ 	<a href="https://russkiy-pravilno.ru/morfemnyj-razbor-slova/">
+ <img alt='Морфемный разбор слова' class='list-thumb'  src='https://russkiy-pravilno.ru/wp-content/uploads/bfi_thumb/morfemnyj-razbor-slova-3bal5qtlxafq2yva0s2ayy.png'/> </a>
+<h2><a rel="bookmark" href="https://russkiy-pravilno.ru/morfemnyj-razbor-slova/">Морфемный разбор слова</a></h2>
+ </li>
+ <li>
+ 	<a href="https://russkiy-pravilno.ru/okonchaniya-v-russkom-yazyke/">
+ <img alt='Окончания в русском языке' class='list-thumb'  src='https://russkiy-pravilno.ru/wp-content/uploads/bfi_thumb/OKONCHANIYA-3bal5qkk8pdcivdj91ozre.png'/> </a>
+<h2><a rel="bookmark" href="https://russkiy-pravilno.ru/okonchaniya-v-russkom-yazyke/">Окончания в русском языке</a></h2>
+ </li>
+  </ul>
+ </div><!-- end // feat blok side-->
+</div><!-- end // feat blok left-->
+  
+<div class="feat-blok-right">
+	<div class="cat-bar"><span class="cat-name color-3"><a href="https://russkiy-pravilno.ru/pravila/orfografiya/" title="Посмотреть все записи в этой рубрике">Орфография&raquo; </a></span>  
+</div>
+<div class="clear"></div>
+
+<div class="feat-main">
+ <a href="https://russkiy-pravilno.ru/v-nachale-ili-vnachale-slitno-ili-razdelno/">
+ <img alt='Как пишется &#171;в начале&#187; или &#171;вначале&#187; слитно или раздельно' class='main-thumb'  src='https://russkiy-pravilno.ru/wp-content/uploads/bfi_thumb/V-nachale-ili-vnachale-3cptjyxercgj3vdvbxaq6i.jpg'/> </a>
+<h2><a rel="bookmark" href="https://russkiy-pravilno.ru/v-nachale-ili-vnachale-slitno-ili-razdelno/">Как пишется &#171;в начале&#187; или &#171;вначале&#187; слитно или раздельно</a></h2>
+ <p>Как правильно написать &#171;вначале&#187; или &#171;в начале&#187;? Чтобы ответить на этот вопрос нам нужно вспомнить &#8212; какую часть речи мы имеем в виду, когда говорим о &#171;в начале&#187; или &#171;вначале&#187;.
+Правильное...</p>
+  	<a class="more-link" rel="bookmark" href="https://russkiy-pravilno.ru/v-nachale-ili-vnachale-slitno-ili-razdelno/">Читать далее &raquo; </a>
+ </div><!-- end // feat-left-main-->
+   <div class="feat-side">
+<ul>
+	<li>
+	 	<a href="https://russkiy-pravilno.ru/slovo-zaranee-kak-pishetsya-pravilno/">
+ <img alt='Слово заранее как пишется правильно' class='list-thumb'  src='https://russkiy-pravilno.ru/wp-content/uploads/bfi_thumb/zaranee-kak-pishetsya-3coo2dph508194077grl6y.jpg'/> </a>
+ <h2><a rel="bookmark" href="https://russkiy-pravilno.ru/slovo-zaranee-kak-pishetsya-pravilno/">Слово заранее как пишется правильно</a></h2>
+ </li>
+ 	<li>
+	 	<a href="https://russkiy-pravilno.ru/kardinalno-ili-koordinalno-kak-pravilno-pisat-i-govorit/">
+ <img alt='Кардинально или координально &#8212; как правильно писать и говорить' class='list-thumb'  src='https://russkiy-pravilno.ru/wp-content/uploads/bfi_thumb/Kardinalno-ili-koordinalno-3clvdgmr8z3np7pmx9cx6y.jpg'/> </a>
+ <h2><a rel="bookmark" href="https://russkiy-pravilno.ru/kardinalno-ili-koordinalno-kak-pravilno-pisat-i-govorit/">Кардинально или координально &#8212; как правильно писать и говорить</a></h2>
+ </li>
+ 	<li>
+	 	<a href="https://russkiy-pravilno.ru/poboltaem-ili-po-boltaem-kak-pravilno-pisat/">
+ <img alt='Поболтаем или по болтаем &#8212; как правильно писать' class='list-thumb'  src='https://russkiy-pravilno.ru/wp-content/uploads/bfi_thumb/Poboltaem-ili-po-boltaem-kak-pravilno-3cgn11ohpxuj22gn9p0zd6.jpg'/> </a>
+ <h2><a rel="bookmark" href="https://russkiy-pravilno.ru/poboltaem-ili-po-boltaem-kak-pravilno-pisat/">Поболтаем или по болтаем &#8212; как правильно писать</a></h2>
+ </li>
+ 	<li>
+	 	<a href="https://russkiy-pravilno.ru/kak-pravilno-pisat-czifra-ili-czyfra/">
+ <img alt='Как правильно писать &#171;цифра&#187; или &#171;цыфра&#187;' class='list-thumb'  src='https://russkiy-pravilno.ru/wp-content/uploads/bfi_thumb/TSifra-ili-tsyfra-kak-pravilno-3ccra82kqwlrl2hw0ec1e2.jpg'/> </a>
+ <h2><a rel="bookmark" href="https://russkiy-pravilno.ru/kak-pravilno-pisat-czifra-ili-czyfra/">Как правильно писать &#171;цифра&#187; или &#171;цыфра&#187;</a></h2>
+ </li>
+ 	<li>
+	 	<a href="https://russkiy-pravilno.ru/zarya-ili-zorya-kak-pravilno/">
+ <img alt='Заря или зоря &#8212; как правильно' class='list-thumb'  src='https://russkiy-pravilno.ru/wp-content/uploads/bfi_thumb/Zarya-ili-zorya-3cc1lbn3vpzt9kuhycyqru.jpg'/> </a>
+ <h2><a rel="bookmark" href="https://russkiy-pravilno.ru/zarya-ili-zorya-kak-pravilno/">Заря или зоря &#8212; как правильно</a></h2>
+ </li>
+  </ul>
+ </div><!-- end // feat blok side-->
+</div><!-- end // feat blok right-->
+</div><!-- end // feat blok -->
+<div class="clear"></div> 
+
+<div class="category-box">
+	
+<div class="cat-box-1">
+		
+<a href="https://russkiy-pravilno.ru/pravila/ege-russkiy-yazyk/">
+<div class="cat-box-inner">
+<div class="cat-box-text"><span>Рубрика</span>
+		<h3>ЕГЭ</h3>
+		</div> 
+</div> 
+</a>
+</div><!-- end // cat-box-1 -->
+
+ <div class="cat-box-2">
+	 	
+<a href="https://russkiy-pravilno.ru/pravila/punktuatciya/">
+<div class="cat-box-inner">
+<div class="cat-box-text"><span>Рубрика</span>
+		<h3>Пунктуация</h3>
+		</div> 
+</div> 	 
+</a>
+</div><!-- end // cat-box-2 -->
+ 
+<div class="cat-box-3">
+	<a href="https://russkiy-pravilno.ru/pravila/leksika/">
+<div class="cat-box-inner">
+<div class="cat-box-text"><span>Рубрика</span>
+	   <h3>Лексика</h3>
+		</div> 
+</div>	
+</a> 
+</div><!-- end // cat-box-3 -->
+
+<div class="cat-box-4">
+		
+<a href="https://russkiy-pravilno.ru/pravila/morphologiya/">
+<div class="cat-box-inner">
+<div class="cat-box-text"><span>Рубрика</span>
+	  <h3>Морфология</h3>
+		</div> 
+</div>	 
+</a> 
+</div><!-- end // cat-box-4 -->
+ 
+
+ 		 
+	   
+   	 
+	  
+ </div><!-- end // category-box -->
+<div class="clear"></div>
+ 
+<div class="cat-two">			  
+<div class="cat-two-left">	
+	
+<div class="cat-bar"><span class="cat-name color-5"><a href="https://russkiy-pravilno.ru/pravila/leksika/" title="Посмотреть все записи в этой рубрике">Лексика&raquo; </a></span>
+ </div><!-- end // cat-bar-->
+<div class="clear"></div>
+<ul>
+ <li>
+  <a href="https://russkiy-pravilno.ru/podskazka-a-znaete-li-vy-znachenie-etogo-slova/">
+ <img alt='Подсказка &#8212; а знаете ли вы значение этого слова' class='list-thumb'  src='https://russkiy-pravilno.ru/wp-content/uploads/bfi_thumb/Podskazka-3ck8lsbahoxxc7kp0imtca.jpg'/> </a>
+<h2><a rel="bookmark" href="https://russkiy-pravilno.ru/podskazka-a-znaete-li-vy-znachenie-etogo-slova/">Подсказка &#8212; а знаете ли вы значение этого слова</a></h2> 
+ </li>
+  <li>
+  <a href="https://russkiy-pravilno.ru/privet-chto-oznachaet-eto-slovo/">
+ <img alt='Привет &#8212; что означает это слово' class='list-thumb'  src='https://russkiy-pravilno.ru/wp-content/uploads/bfi_thumb/Privet-3cjr49yiyqg4qgb8cj8rgq.jpg'/> </a>
+<h2><a rel="bookmark" href="https://russkiy-pravilno.ru/privet-chto-oznachaet-eto-slovo/">Привет &#8212; что означает это слово</a></h2> 
+ </li>
+  <li>
+  <a href="https://russkiy-pravilno.ru/kategoricheski-privetstvuyu-chto-oznachaet-eto-vyrazhenie/">
+ <img alt='Категорически приветствую &#8212; что означает это выражение' class='list-thumb'  src='https://russkiy-pravilno.ru/wp-content/uploads/bfi_thumb/Kategoricheski-privetstvuyu-3ch6oermy75jrdpksptg5m.jpg'/> </a>
+<h2><a rel="bookmark" href="https://russkiy-pravilno.ru/kategoricheski-privetstvuyu-chto-oznachaet-eto-vyrazhenie/">Категорически приветствую &#8212; что означает это выражение</a></h2> 
+ </li>
+  <li>
+  <a href="https://russkiy-pravilno.ru/chto-takoe-ritoricheskij-vopros/">
+ <img alt='Что такое риторический вопрос' class='list-thumb'  src='https://russkiy-pravilno.ru/wp-content/uploads/bfi_thumb/Ritoricheskij-vopros-3cb22ygioy28alpzsbuo0a.jpg'/> </a>
+<h2><a rel="bookmark" href="https://russkiy-pravilno.ru/chto-takoe-ritoricheskij-vopros/">Что такое риторический вопрос</a></h2> 
+ </li>
+  </ul>
+ </div><!-- end // cat two left -->
+				  
+				  
+  <div class="cat-two-center">					  
+	
+<div class="cat-bar"><span class="cat-name color-6"><a href="https://russkiy-pravilno.ru/pravila/ege-russkiy-yazyk/" title="Посмотреть все записи в этой рубрике">ЕГЭ&raquo; </a></span>
+ </div><!-- end // cat-bar-->
+ <div class="clear"></div>
+<a href="https://russkiy-pravilno.ru/glavnaya-informatsiya-v-tekste/">
+ <img alt='Главная информация в тексте' class='main-thumb'  src='https://russkiy-pravilno.ru/wp-content/uploads/bfi_thumb/Informatsiya-chto-eto-3bal5qkkq46611p1tszaiy.jpg'/> </a>
+<h2><a rel="bookmark" href="https://russkiy-pravilno.ru/glavnaya-informatsiya-v-tekste/">Главная информация в тексте</a></h2> 
+ <p>Главная информация в тексте &#8212; это предложение, которым можно выразить сразу весь текст целиком. Поэтому нужно сначала внимательно прочитать текст, а затем про себя подумать &#8212; что самое главное в нем.
+Как бы вы его...</p>
+  	<a class="more-link" rel="bookmark" href="https://russkiy-pravilno.ru/glavnaya-informatsiya-v-tekste/">Читать далее &raquo; </a>
+  <div class="clear"></div>
+			 
+<div class="cat-two-center-side">	
+<ul>
+<li>
+ 
+<h2><a rel="bookmark" href="https://russkiy-pravilno.ru/sredstva-svyazej-predlozhenij-v-tekste/">Средства связей предложений в тексте</a></h2> 
+ </li>
+ <li>
+ 
+<h2><a rel="bookmark" href="https://russkiy-pravilno.ru/ege-po-russkomu-yazyku-ne-ochevidnoe-i-veroyatnoe/">ЕГЭ по русскому языку &#8212; не очевидное и вероятное</a></h2> 
+ </li>
+  
+</ul>
+ </div><!-- end // cat-two-center-side --> 
+</div><!-- end // cat two center -->
+		 
+	
+	
+	
+ <div class="cat-two-right">					  
+	
+<div class="cat-bar"><span class="cat-name color-7"><a href="https://russkiy-pravilno.ru/pravila/fonetika/" title="Посмотреть все записи в этой рубрике">Фонетика&raquo; </a></span>
+ </div><!-- end // cat-bar-->
+	     <div class="clear"></div>
+<a href="https://russkiy-pravilno.ru/pravilnoe-udarenie-v-slove-optovyj/">
+ <img alt='Правильное ударение в слове &#171;оптовый&#187;' class='main-thumb'  src='https://russkiy-pravilno.ru/wp-content/uploads/bfi_thumb/Optovyj-udarenie-3crnevclddurh27cdlnax6.jpg'/> </a>
+<h2><a rel="bookmark" href="https://russkiy-pravilno.ru/pravilnoe-udarenie-v-slove-optovyj/">Правильное ударение в слове &#171;оптовый&#187;</a></h2> 
+ <p>Произнося слово оптовый, которое часто встречается сегодня в повседневной жизни, люди часто делают ошибки в произношении, что превращает их речь в просторечье. Чтобы безошибочно выделять ударную гласную в слове и...</p>
+  	<a class="more-link" rel="bookmark" href="https://russkiy-pravilno.ru/pravilnoe-udarenie-v-slove-optovyj/">Читать далее &raquo; </a>
+  
+ 
+ 			  
+			  
+			  
+<div class="cat-two-right-side">	
+<ul>
+  
+ 
+	<li>
+ 
+<h2><a rel="bookmark" href="https://russkiy-pravilno.ru/udarenie-v-slove-stolyar/">Ударение в слове &#171;столяр&#187;</a></h2> 
+ </li>
+   
+ 
+	<li>
+ 
+<h2><a rel="bookmark" href="https://russkiy-pravilno.ru/zavidno-udarenie/">Завидно &#8212; как правильно поставить ударение в этом слове</a></h2> 
+ </li>
+   
+ 
+	<li>
+ 
+<h2><a rel="bookmark" href="https://russkiy-pravilno.ru/banty-udarenie-na-pervyj-slog-ili-na-vtoroj/">Банты ударение на первый слог или на второй</a></h2> 
+ </li>
+   
+ 
+	<li>
+ 
+<h2><a rel="bookmark" href="https://russkiy-pravilno.ru/ponyala-udarenie-v-slove/">Как правильно в слове &#171;поняла&#187; ударение поставить</a></h2> 
+ </li>
+  </ul>
+ </div><!-- end // cat-two right-side -->
+</div><!-- end // cat two center -->
+</div><!-- end // cat two -->  
+<div class="clear"></div>
+ 
+ <div class="cat-four">	
+<div class="cat-four-left">
+<div class="cat-four-left-main">
+	
+<div class="cat-bar"><span class="cat-name color-8"><a href="https://russkiy-pravilno.ru/pravila/punktuatciya/" title="Посмотреть все записи в этой рубрике">Пунктуация&raquo; </a></span>
+ </div><!-- end // cat-bar-->
+<div class="clear"></div>
+<div class="cat-four-left-main-blok">
+		<a href="https://russkiy-pravilno.ru/da-konechno-ili-net-konechno-vydelyaetsya-zapyatymi-ili-net/">
+ <img alt='&#171;Да конечно&#187; или &#171;нет конечно&#187; выделяется запятыми или нет' class='main-thumb'  src='https://russkiy-pravilno.ru/wp-content/uploads/bfi_thumb/Da-konechno-ili-net-konechno-vydelyaetsya-zapyatymi-3ca6h1ei6a9rw7gwbsxo22.jpg'/> </a>
+<h2><a rel="bookmark" href="https://russkiy-pravilno.ru/da-konechno-ili-net-konechno-vydelyaetsya-zapyatymi-ili-net/">&#171;Да конечно&#187; или &#171;нет конечно&#187; выделяется запятыми или нет</a></h2> 
+ <p>Русский язык знаменит разнообразием правил. Некоторые сложно запомнить, другие легко сдаются перед напором заинтересованных учеников. Встречаются и такие,...</p>
+  	<a class="more-link" rel="bookmark" href="https://russkiy-pravilno.ru/da-konechno-ili-net-konechno-vydelyaetsya-zapyatymi-ili-net/">Читать далее &raquo; </a>
+ </div><!-- end // cat-four left main blok -->
+ <div class="cat-four-left-main-blok">
+		<a href="https://russkiy-pravilno.ru/deeprichastnyj-oborot-v-predlozhenii/">
+ <img alt='Деепричастный оборот в предложении или когда ставить запятые' class='main-thumb'  src='https://russkiy-pravilno.ru/wp-content/uploads/bfi_thumb/Deeprichastnyj-oborot-v-predlozhenii-3bzj4sgma5i9q687nm7w22.jpg'/> </a>
+<h2><a rel="bookmark" href="https://russkiy-pravilno.ru/deeprichastnyj-oborot-v-predlozhenii/">Деепричастный оборот в предложении или когда ставить запятые</a></h2> 
+ <p>Мы уже с вами изучали деепричастие. Здесь же мы изучили и деепричастный оборот. Деепричастие &#8212; это одно слово. А деепричастный оборот включает в себя и...</p>
+  	<a class="more-link" rel="bookmark" href="https://russkiy-pravilno.ru/deeprichastnyj-oborot-v-predlozhenii/">Читать далее &raquo; </a>
+ </div><!-- end // cat-four left main blok -->
+  
+</div><!-- end // cat-four left main -->
+		 	 
+		 	 
+ <div class="cat-four-left-side">
+	
+<div class="cat-bar"><span class="cat-name color-9"><a href="https://russkiy-pravilno.ru/pravila/sintaksis/" title="Посмотреть все записи в этой рубрике">Синтаксис&raquo; </a></span>
+ </div><!-- end // cat-bar-->
+ <div class="clear"></div>
+	     
+<ul>
+			  <li>
+ <a href="https://russkiy-pravilno.ru/vvodnye-slova-v-russkom-yazyke/">
+ <img alt='Вводные слова в русском языке' class='list-thumb'  src='https://russkiy-pravilno.ru/wp-content/uploads/bfi_thumb/Vvodnye-slova-3bc079rubkl5grurnt1csq.jpg'/> </a>
+<h2><a rel="bookmark" href="https://russkiy-pravilno.ru/vvodnye-slova-v-russkom-yazyke/">Вводные слова в русском языке</a></h2> 
+</li>
+ 			  <li>
+ <a href="https://russkiy-pravilno.ru/predlozhenie/">
+ <img alt='Предложение' class='list-thumb'  src='https://russkiy-pravilno.ru/wp-content/uploads/bfi_thumb/Predlozhenie-i-vidy-predlozhenij-3bal5r2not0wki9vz1w5ca.jpg'/> </a>
+<h2><a rel="bookmark" href="https://russkiy-pravilno.ru/predlozhenie/">Предложение</a></h2> 
+</li>
+ 			  <li>
+ <a href="https://russkiy-pravilno.ru/podchinitelnaya-svyaz-v-predlozhenii/">
+ <img alt='Подчинительная связь в предложении' class='list-thumb'  src='https://russkiy-pravilno.ru/wp-content/uploads/bfi_thumb/Podchinitelnaya-svyaz-3bal5qp35xfc8d19tgc6iy.png'/> </a>
+<h2><a rel="bookmark" href="https://russkiy-pravilno.ru/podchinitelnaya-svyaz-v-predlozhenii/">Подчинительная связь в предложении</a></h2> 
+</li>
+ 			  <li>
+ <a href="https://russkiy-pravilno.ru/sochinitelnye-soyuzy/">
+ <img alt='Сочинительные союзы' class='list-thumb'  src='https://russkiy-pravilno.ru/wp-content/uploads/bfi_thumb/Sochinitelnye-soyuzy-3bal5qp35xfc8d19tgc6iy.png'/> </a>
+<h2><a rel="bookmark" href="https://russkiy-pravilno.ru/sochinitelnye-soyuzy/">Сочинительные союзы</a></h2> 
+</li>
+   
+</ul>
+ </div><!-- end // cat-four left side -->
+</div><!-- end // cat-four left-->
+		 
+<div class="cat-four-right">
+	<div class="cat-four-right-one" style=" background-image: url(https://russkiy-pravilno.ru/wp-content/uploads/2021/01/Sochi-rod-sushhestvitelnogo.jpg)">
+<span class="post-cat  color-10"><a href="https://russkiy-pravilno.ru/pravila/morphologiya/" title="Посмотреть все записи в этой рубрике">Морфология&raquo; </a></span>
+
+<div class="cat-four-right-inner">
+<h2><a rel="bookmark" href="https://russkiy-pravilno.ru/sochi-rod-sushhestvitelnogo/">Сочи род существительного</a></h2>
+<p>Каждое слово в русском языке имеет свой род. У каких-то слов достаточно просто определить родовую принадлежность, необходимо лишь задать вопрос. Но встречаются экземпляры, род...</p>
+<a class="more-link" rel="bookmark" href="https://russkiy-pravilno.ru/sochi-rod-sushhestvitelnogo/">Читать далее &raquo; </a>
+</div><!-- end // cat-four right inner-->
+</div><!-- end // cat-four right one-->
+ <div class="cat-four-right-one" style=" background-image: url(https://russkiy-pravilno.ru/wp-content/uploads/2020/12/Poni-rod-sushhestvitelnogo.jpg)">
+<span class="post-cat  color-10"><a href="https://russkiy-pravilno.ru/pravila/morphologiya/" title="Посмотреть все записи в этой рубрике">Морфология&raquo; </a></span>
+
+<div class="cat-four-right-inner">
+<h2><a rel="bookmark" href="https://russkiy-pravilno.ru/kakogo-roda-poni/">Какого рода пони</a></h2>
+<p>Русский язык знаменит загадками. Некоторые не поддаются простому объяснению. Рассмотрим слово пони род так просто не определить сразу! Кажется: одинаково может быть средним или...</p>
+<a class="more-link" rel="bookmark" href="https://russkiy-pravilno.ru/kakogo-roda-poni/">Читать далее &raquo; </a>
+</div><!-- end // cat-four right inner-->
+</div><!-- end // cat-four right one-->
+  
+		 	 
+	   
+</div><!-- end // cat-four right-->
+</div><!-- end // cat-four -->  
+<div class="clear"></div>
+ 
+<div class="cat-five">			  
+ <div class="cat-five-left">	
+	
+<div class="cat-bar"><span class="cat-name color-11"><a href="https://russkiy-pravilno.ru/pravila/leksika/" title="Посмотреть все записи в этой рубрике">Лексика&raquo; </a></span>
+ </div><!-- end // cat-bar-->
+<div class="clear"></div>
+<ul>
+<li>
+ <a href="https://russkiy-pravilno.ru/podskazka-a-znaete-li-vy-znachenie-etogo-slova/">
+ <img alt='Подсказка &#8212; а знаете ли вы значение этого слова' class='list-thumb'  src='https://russkiy-pravilno.ru/wp-content/uploads/bfi_thumb/Podskazka-3ck8lsbaiv5g3zjfvxm87e.jpg'/> </a>
+<h2><a rel="bookmark" href="https://russkiy-pravilno.ru/podskazka-a-znaete-li-vy-znachenie-etogo-slova/">Подсказка &#8212; а знаете ли вы значение этого слова</a></h2> 
+ </li>
+ <li>
+ <a href="https://russkiy-pravilno.ru/privet-chto-oznachaet-eto-slovo/">
+ <img alt='Привет &#8212; что означает это слово' class='list-thumb'  src='https://russkiy-pravilno.ru/wp-content/uploads/bfi_thumb/Privet-3cjr49yizwnni89z7y86bu.jpg'/> </a>
+<h2><a rel="bookmark" href="https://russkiy-pravilno.ru/privet-chto-oznachaet-eto-slovo/">Привет &#8212; что означает это слово</a></h2> 
+ </li>
+ <li>
+ <a href="https://russkiy-pravilno.ru/kategoricheski-privetstvuyu-chto-oznachaet-eto-vyrazhenie/">
+ <img alt='Категорически приветствую &#8212; что означает это выражение' class='list-thumb'  src='https://russkiy-pravilno.ru/wp-content/uploads/bfi_thumb/Kategoricheski-privetstvuyu-3ch6oermzdd2j5obo4sv0q.jpg'/> </a>
+<h2><a rel="bookmark" href="https://russkiy-pravilno.ru/kategoricheski-privetstvuyu-chto-oznachaet-eto-vyrazhenie/">Категорически приветствую &#8212; что означает это выражение</a></h2> 
+ </li>
+ <li>
+ <a href="https://russkiy-pravilno.ru/chto-takoe-ritoricheskij-vopros/">
+ <img alt='Что такое риторический вопрос' class='list-thumb'  src='https://russkiy-pravilno.ru/wp-content/uploads/bfi_thumb/Ritoricheskij-vopros-3cb22ygiq49r2doqnqu2ve.jpg'/> </a>
+<h2><a rel="bookmark" href="https://russkiy-pravilno.ru/chto-takoe-ritoricheskij-vopros/">Что такое риторический вопрос</a></h2> 
+ </li>
+  </ul>
+</div><!-- end // cat five left -->
+				  
+				  
+<div class="cat-five-center">					  
+	
+<div class="cat-bar"><span class="cat-name color-12"><a href="https://russkiy-pravilno.ru/pravila/alfavit/" title="Посмотреть все записи в этой рубрике">Алфавит&raquo; </a></span>
+ </div><!-- end // cat-bar-->
+<div class="clear"></div>
+<ul>
+<li>
+<a href="https://russkiy-pravilno.ru/bukva-ts-harakteristika-bukvy-ts-i-zvuka-ts/">
+ <img alt='Буква ц: характеристика буквы ц и звука ц' class='list-thumb'  src='https://russkiy-pravilno.ru/wp-content/uploads/bfi_thumb/Bukva-TS-3cl3qgwwa8ceopy5v7ny8a.jpg'/> </a>
+<h2><a rel="bookmark" href="https://russkiy-pravilno.ru/bukva-ts-harakteristika-bukvy-ts-i-zvuka-ts/">Буква ц: характеристика буквы ц и звука ц</a></h2> 
+ </li>
+ <li>
+<a href="https://russkiy-pravilno.ru/bukva-b-istoriya-bukvy-propisi/">
+ <img alt='Буква Б &#8212; история буквы, прописи' class='list-thumb'  src='https://russkiy-pravilno.ru/wp-content/uploads/bfi_thumb/Bukva-B-3bj94t7fwgs30cd34vlybu.jpg'/> </a>
+<h2><a rel="bookmark" href="https://russkiy-pravilno.ru/bukva-b-istoriya-bukvy-propisi/">Буква Б &#8212; история буквы, прописи</a></h2> 
+ </li>
+ <li>
+<a href="https://russkiy-pravilno.ru/bukva-a/">
+ <img alt='Буква А' class='list-thumb'  src='https://russkiy-pravilno.ru/wp-content/uploads/bfi_thumb/bukva-A-3bal5qp373mv0500ovble2.png'/> </a>
+<h2><a rel="bookmark" href="https://russkiy-pravilno.ru/bukva-a/">Буква А</a></h2> 
+ </li>
+ <li>
+<a href="https://russkiy-pravilno.ru/bukva-y/">
+ <img alt='Буква Ы' class='list-thumb'  src='https://russkiy-pravilno.ru/wp-content/uploads/bfi_thumb/Bukva-Y-3bal5qkkct3o8395b04xsa.png'/> </a>
+<h2><a rel="bookmark" href="https://russkiy-pravilno.ru/bukva-y/">Буква Ы</a></h2> 
+ </li>
+ </ul>
+			  
+</div><!-- end // cat two center -->
+	  
+	  
+<div class="cat-five-right">					  
+	
+<div class="cat-bar"><span class="cat-name color-13"><a href="https://russkiy-pravilno.ru/pravila/orfografiya/" title="Посмотреть все записи в этой рубрике">Орфография&raquo; </a></span>
+ </div><!-- end // cat-bar-->
+<div class="clear"></div>
+<ul>
+	<li>
+<a href="https://russkiy-pravilno.ru/v-nachale-ili-vnachale-slitno-ili-razdelno/">
+ <img alt='Как пишется &#171;в начале&#187; или &#171;вначале&#187; слитно или раздельно' class='list-thumb'  src='https://russkiy-pravilno.ru/wp-content/uploads/bfi_thumb/V-nachale-ili-vnachale-3cptjyxecoumu7chy88s22.jpg'/> </a>
+<h2><a rel="bookmark" href="https://russkiy-pravilno.ru/v-nachale-ili-vnachale-slitno-ili-razdelno/">Как пишется &#171;в начале&#187; или &#171;вначале&#187; слитно или раздельно</a></h2> 
+ </li>
+ 	<li>
+<a href="https://russkiy-pravilno.ru/slovo-zaranee-kak-pishetsya-pravilno/">
+ <img alt='Слово заранее как пишется правильно' class='list-thumb'  src='https://russkiy-pravilno.ru/wp-content/uploads/bfi_thumb/zaranee-kak-pishetsya-3coo2dph93ycybvt9f7j7u.jpg'/> </a>
+<h2><a rel="bookmark" href="https://russkiy-pravilno.ru/slovo-zaranee-kak-pishetsya-pravilno/">Слово заранее как пишется правильно</a></h2> 
+ </li>
+ 	<li>
+<a href="https://russkiy-pravilno.ru/kardinalno-ili-koordinalno-kak-pravilno-pisat-i-govorit/">
+ <img alt='Кардинально или координально &#8212; как правильно писать и говорить' class='list-thumb'  src='https://russkiy-pravilno.ru/wp-content/uploads/bfi_thumb/Kardinalno-ili-koordinalno-3clvdgmrd2tzefl8z7sv7u.jpg'/> </a>
+<h2><a rel="bookmark" href="https://russkiy-pravilno.ru/kardinalno-ili-koordinalno-kak-pravilno-pisat-i-govorit/">Кардинально или координально &#8212; как правильно писать и говорить</a></h2> 
+ </li>
+ 	<li>
+<a href="https://russkiy-pravilno.ru/poboltaem-ili-po-boltaem-kak-pravilno-pisat/">
+ <img alt='Поболтаем или по болтаем &#8212; как правильно писать' class='list-thumb'  src='https://russkiy-pravilno.ru/wp-content/uploads/bfi_thumb/Poboltaem-ili-po-boltaem-kak-pravilno-3cgn11ohu1kurac9bngxe2.jpg'/> </a>
+<h2><a rel="bookmark" href="https://russkiy-pravilno.ru/poboltaem-ili-po-boltaem-kak-pravilno-pisat/">Поболтаем или по болтаем &#8212; как правильно писать</a></h2> 
+ </li>
+  </ul>
+ </div><!-- end // cat five right -->
+</div><!-- end // cat five -->
+<div class="clear"></div> 
+<div class="footer">
+<div class="foot-blok-left">
+<div class="widget_text foot-wid"> <div class="textwidget custom-html-widget"><!--LiveInternet counter--><script type="text/javascript">
+document.write('<a href="//www.liveinternet.ru/click" '+
+'target="_blank"><img src="//counter.yadro.ru/hit?t44.11;r'+
+escape(document.referrer)+((typeof(screen)=='undefined')?'':
+';s'+screen.width+'*'+screen.height+'*'+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+';u'+escape(document.URL)+
+';h'+escape(document.title.substring(0,150))+';'+Math.random()+
+'" alt="" title="LiveInternet" '+
+'border="0" width="31" height="31"><\/a>')
+</script><!--/LiveInternet--></div></div> </div><!-- end // foot-blok-left -->
+
+<div class="foot-blok-center">
+</div><!-- end // foot-blok-center -->
+
+<div class="foot-blok-right">
+ </div><!-- end // foot-blok-right -->
+
+</div> <!-- end // footer -->
+<div class="clear"></div>
+</div><!-- end // wrap -->
+<div class="credits">
+	
+	
+	
+ 	<div class="social-bar">
+<ul>
+	<!--noindex-->
+ <li class="first"><a class="vk" href="https://vk.com/ege_russkiy_pravilno" target="_blank" title="ВКонтакте" rel="nofollow"> <i class="fa fa-vk" aria-hidden="true"></i></a></li>	
+ <li><a class="ig" href="https://www.instagram.com/russkiypravilno/?hl=ru" target="_blank" title="Instagram" rel="nofollow"> <i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+   <!--/noindex-->
+</ul>
+</div><!-- end // social-bar -->
+<p>&copy; 2021 Русский язык     <br /> Дизайн и поддержка: GoodwinPress.ru </br> Создание и продвижение сайта gogetseo.ru </p>
+	
+
+ </div><!-- end // credits -->
+ 
+ 	<div class="overlay"></div>
+<div class="popup">
+ <div class="pop-wrap">
+  <a class="close">x</a>
+<p class="popup-text">Хотите получать обновления?</p>
+<p class="sub-message">Подпишитесь, чтобы не пропустить новые публикации</p>
+<div id="emailSub-widget">
+<div id="emailSub-output" style="display:none;"></div>
+<form id="emailSub-form" action="https://russkiy-pravilno.ru/wp-admin/admin-ajax.php">
+<input type="hidden" name="success_msg" id="emailSub-success" value=" <i class='fa fa-thumbs-o-up' aria-hidden='true'></i>Успешно! <br />Спасибо за подписку!" />
+<input type="hidden" name="fail_msg" id="emailSub-fail" value="<i class='fa fa-exclamation-triangle' aria-hidden='true'></i> Ошибка! <br />Обновите страницу и попробуйте еще раз!" />
+<input type="text" name="email" id="emailSub-email" placeholder="Ваш e-mail" /><br />
+<input type="submit" class="submit" value="Подписаться" />
+
+</form>
+<div class="clear"></div>
+</div>
+
+	</div><!-- end pop-wrap -->
+</div><!-- end popup --> 
+
+
+ <!--noindex--><a id="backtop" href="#top"><i class="fa fa-chevron-circle-up" aria-hidden="true"></i></a><!--/noindex-->
+
+<script type= "text/javascript">function gotoal(link){window.open(link.replace("_","http://"));}</script>
+<link rel='stylesheet' id='watupro-style-css'  href='https://russkiy-pravilno.ru/wp-content/plugins/watupro/style.css?ver=6.2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='watupro-intelligence-css-css'  href='https://russkiy-pravilno.ru/wp-content/plugins/watupro/i/css/main.css?ver=4.4.5' type='text/css' media='all' />
+<link rel='stylesheet' id='watupro-theme-css'  href='https://russkiy-pravilno.ru/wp-content/plugins/watupro/css/themes/blue-namaste.css?ver=4.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='watupro-dynamic-style-css'  href='https://russkiy-pravilno.ru/?watupro_dynamic_css=1&#038;ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='su-shortcodes-css'  href='https://russkiy-pravilno.ru/wp-content/plugins/shortcodes-ultimate/includes/css/shortcodes.css?ver=5.8.0' type='text/css' media='all' />
+<script type='text/javascript' src='https://russkiy-pravilno.ru/wp-content/plugins/ad-inserter-pro/includes/aos/aos.js?ver=2.6.11'></script>
+<script type='text/javascript' src='https://russkiy-pravilno.ru/wp-content/plugins/email-subscription/assets/email-subscription.js?ver=1.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var midealfaqajax = {"url":"https:\/\/russkiy-pravilno.ru\/wp-admin\/admin-ajax.php","nonce":"40ca4f0cba"};
+var mideal_faq_l10n = {"errorajax":"\u041a \u0441\u043e\u0436\u0430\u043b\u0435\u043d\u0438\u044e, \u043f\u0440\u043e\u0438\u0437\u043e\u0448\u043b\u0430 \u043e\u0448\u0438\u0431\u043a\u0430. \u041f\u043e\u0432\u0442\u043e\u0440\u0438\u0442\u0435 \u043f\u043e\u043f\u044b\u0442\u043a\u0443 \u043f\u043e\u0437\u0436\u0435","okajax":"\u0421\u043f\u0430\u0441\u0438\u0431\u043e \u0437\u0430 \u0432\u0430\u0448 \u0432\u043e\u043f\u0440\u043e\u0441. \u041e\u043d \u043f\u043e\u044f\u0432\u0438\u0442\u0441\u044f \u043f\u043e\u0441\u043b\u0435 \u043c\u043e\u0434\u0435\u0440\u0430\u0446\u0438\u0438","publish":"\u041e\u043f\u0443\u0431\u043b\u0438\u043a\u043e\u0432\u0430\u0442\u044c","unpublish":"\u0421\u043d\u044f\u0442\u044c \u0441 \u043f\u0443\u0431\u043b\u0438\u043a\u0430\u0446\u0438\u0438","edit":"\u0420\u0435\u0434\u0430\u043a\u0442\u0438\u0440\u043e\u0432\u0430\u0442\u044c","save":"\u0421\u043e\u0445\u0440\u0430\u043d\u0438\u0442\u044c","nogooglecapcha":"\u041d\u0435 \u043f\u0440\u043e\u0448\u043b\u0430 \u043f\u0440\u043e\u0432\u0435\u0440\u043a\u0430 Google capcha","nameanswer":"\u041e\u0442\u0432\u0435\u0442","backgroundanswer":"#fcfcfc","coloranswer":"#171616","imageanswer":"https:\/\/russkiy-pravilno.ru\/wp-content\/plugins\/question-answer-faq\/img\/avatar-default.png"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://russkiy-pravilno.ru/wp-content/plugins/question-answer-faq/js/app.js?ver=1'></script>
+<script type='text/javascript' src='https://russkiy-pravilno.ru/wp-content/themes/justgoodnews/scripts/custom.js?ver=1.0'></script>
+<script type='text/javascript' src='https://russkiy-pravilno.ru/wp-content/themes/justgoodnews/scripts/theia-sticky-sidebar.js?ver=1.1.2'></script>
+<script type='text/javascript' src='https://russkiy-pravilno.ru/wp-content/themes/justgoodnews/scripts/jquery.mmenu.min.js?ver=5.6.1'></script>
+<script type='text/javascript' src='https://russkiy-pravilno.ru/wp-content/themes/justgoodnews/scripts/superfish.js?ver=1.4.8.'></script>
+<script type='text/javascript' src='https://russkiy-pravilno.ru/wp-content/themes/justgoodnews/scripts/headhesive.min.js?ver=1.2.0'></script>
+<script type='text/javascript' src='https://russkiy-pravilno.ru/wp-content/themes/justgoodnews/scripts/jquery.webticker.min.js?ver=1.3.1'></script>
+<script type='text/javascript' src='https://russkiy-pravilno.ru/wp-content/themes/justgoodnews/scripts/inview.js?ver=1.0.0.'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var simpleLikes = {"ajaxurl":"https:\/\/russkiy-pravilno.ru\/wp-admin\/admin-ajax.php","like":"\u041b\u0430\u0439\u043a","unlike":"\u0421\u043d\u044f\u0442\u044c \u043b\u0430\u0439\u043a"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://russkiy-pravilno.ru/wp-content/themes/justgoodnews/scripts/simple-likes.js?ver=0.5'></script>
+<script type='text/javascript' src='https://russkiy-pravilno.ru/wp-includes/js/wp-embed.min.js?ver=5.0.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var watupro_i18n = {"answering_required":"Answering this question is required","did_not_answer":"You did not answer the question. Are you sure you want to continue?","missed_required_question":"You have not answered a required question","please_wait":"Please wait...","try_again":"Try again","time_over":"Sorry, your time is over! I'm submitting your results... Done!","seconds":" seconds ","minutes_and":" minutes and ","hours":" hours, ","time_left":"\u0412\u0440\u0435\u043c\u0435\u043d\u0438 \u043e\u0441\u0442\u0430\u043b\u043e\u0441\u044c","email_required":"Please enter your email address","name_required":"Please enter your name","field_required":"This field is required","not_last_page":"You are not on the last page. Are you sure you want to submit the quiz?","please_answer":"Please first answer the question","selections_saved":"Your work has been saved. You can come later to continue.","confirm_submit":"Are you sure you want to submit the quiz?","taking_details":"Details of submitted quiz","questions_pending_review":"The following questions have been flagged for review: %s. Are you sure you want to submit your results? Click OK to submit and Cancel to go back and review these questions.","ajax_url":"https:\/\/russkiy-pravilno.ru\/wp-admin\/admin-ajax.php","complete_captcha":"You need to enter the image verification code","complete_text_captcha":"You need to answer the verification question","size_errors":"Question(s) number %s have files uploaded that exceed the allowed size of %dKB","extension_errors":"Question(s) number %s have files uploaded that are not within the allowed file types","cant_continue_low_correct_percent":"You can't continue until you reach the desired % correct answers.","please_wait_feedback":"Please wait for the feedback..."};
+var watupro_i18n = {"answering_required":"Answering this question is required","did_not_answer":"You did not answer the question. Are you sure you want to continue?","missed_required_question":"You have not answered a required question","please_wait":"Please wait...","try_again":"Try again","time_over":"Sorry, your time is over! I'm submitting your results... Done!","seconds":" seconds ","minutes_and":" minutes and ","hours":" hours, ","time_left":"\u0412\u0440\u0435\u043c\u0435\u043d\u0438 \u043e\u0441\u0442\u0430\u043b\u043e\u0441\u044c","email_required":"Please enter your email address","name_required":"Please enter your name","field_required":"This field is required","not_last_page":"You are not on the last page. Are you sure you want to submit the quiz?","please_answer":"Please first answer the question","selections_saved":"Your work has been saved. You can come later to continue.","confirm_submit":"Are you sure you want to submit the quiz?","taking_details":"Details of submitted quiz","questions_pending_review":"The following questions have been flagged for review: %s. Are you sure you want to submit your results? Click OK to submit and Cancel to go back and review these questions.","ajax_url":"https:\/\/russkiy-pravilno.ru\/wp-admin\/admin-ajax.php","complete_captcha":"You need to enter the image verification code","complete_text_captcha":"You need to answer the verification question","size_errors":"Question(s) number %s have files uploaded that exceed the allowed size of %dKB","extension_errors":"Question(s) number %s have files uploaded that are not within the allowed file types","cant_continue_low_correct_percent":"You can't continue until you reach the desired % correct answers.","please_wait_feedback":"Please wait for the feedback..."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://russkiy-pravilno.ru/wp-content/plugins/watupro/lib/main.js?ver=5.2.1'></script>
+<script type='text/javascript' src='https://russkiy-pravilno.ru/wp-content/plugins/watupro/i/js/main.js?ver=4.4.9'></script>
+<script type='text/javascript' src='https://russkiy-pravilno.ru/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://russkiy-pravilno.ru/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://russkiy-pravilno.ru/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://russkiy-pravilno.ru/wp-includes/js/jquery/ui/resizable.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://russkiy-pravilno.ru/wp-includes/js/jquery/ui/draggable.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://russkiy-pravilno.ru/wp-includes/js/jquery/ui/button.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://russkiy-pravilno.ru/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://russkiy-pravilno.ru/wp-includes/js/jquery/ui/dialog.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://russkiy-pravilno.ru/wp-includes/js/comment-reply.min.js?ver=5.0.4'></script>
+<script>
+/* <![CDATA[ */
+ai_front = {"insertion_before":"BEFORE","insertion_after":"AFTER","insertion_prepend":"PREPEND CONTENT","insertion_append":"APPEND CONTENT","insertion_replace_content":"REPLACE CONTENT","insertion_replace_element":"REPLACE ELEMENT","visible":"VISIBLE","hidden":"HIDDEN","fallback":"FALLBACK","automatically_placed":"Automatically placed by AdSense Auto ads code","cancel":"Cancel","use":"Use","add":"Add","parent":"Parent","cancel_element_selection":"Cancel element selection","select_parent_element":"Select parent element","css_selector":"CSS selector","use_current_selector":"Use current selector","element":"ELEMENT","path":"PATH","selector":"SELECTOR"};
+/* ]]> */
+function b2a(a){var b,c=0,l=0,f="",g=[];if(!a)return a;do{var e=a.charCodeAt(c++);var h=a.charCodeAt(c++);var k=a.charCodeAt(c++);var d=e<<16|h<<8|k;e=63&d>>18;h=63&d>>12;k=63&d>>6;d&=63;g[l++]="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=".charAt(e)+"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=".charAt(h)+"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=".charAt(k)+"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=".charAt(d)}while(c<
+a.length);return f=g.join(""),b=a.length%3,(b?f.slice(0,b-3):f)+"===".slice(b||3)}function a2b(a){var b,c,l,f={},g=0,e=0,h="",k=String.fromCharCode,d=a.length;for(b=0;64>b;b++)f["ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/".charAt(b)]=b;for(c=0;d>c;c++)for(b=f[a.charAt(c)],g=(g<<6)+b,e+=6;8<=e;)((l=255&g>>>(e-=8))||d-2>c)&&(h+=k(l));return h}b64e=function(a){return btoa(encodeURIComponent(a).replace(/%([0-9A-F]{2})/g,function(b,a){return String.fromCharCode("0x"+a)}))};
+b64d=function(a){return decodeURIComponent(atob(a).split("").map(function(a){return"%"+("00"+a.charCodeAt(0).toString(16)).slice(-2)}).join(""))};
+function ai_run_scripts(){var $jscomp=$jscomp||{};$jscomp.scope={};$jscomp.arrayIteratorImpl=function(a){var b=0;return function(){return b<a.length?{done:!1,value:a[b++]}:{done:!0}}};$jscomp.arrayIterator=function(a){return{next:$jscomp.arrayIteratorImpl(a)}};$jscomp.makeIterator=function(a){var b="undefined"!=typeof Symbol&&Symbol.iterator&&a[Symbol.iterator];return b?b.call(a):$jscomp.arrayIterator(a)};
+(function(a){if("function"===typeof define&&define.amd){define(a);var b=!0}"object"===typeof exports&&(module.exports=a(),b=!0);if(!b){var f=window.Cookies,c=window.Cookies=a();c.noConflict=function(){window.Cookies=f;return c}}})(function(){function a(){for(var a=0,c={};a<arguments.length;a++){var b=arguments[a],e;for(e in b)c[e]=b[e]}return c}function b(f){function c(){}function d(b,e,d){if("undefined"!==typeof document){d=a({path:"/"},c.defaults,d);"number"===typeof d.expires&&(d.expires=new Date(1*
+new Date+864E5*d.expires));d.expires=d.expires?d.expires.toUTCString():"";try{var g=JSON.stringify(e);/^[\{\[]/.test(g)&&(e=g)}catch(n){}e=f.write?f.write(e,b):encodeURIComponent(String(e)).replace(/%(23|24|26|2B|3A|3C|3E|3D|2F|3F|40|5B|5D|5E|60|7B|7D|7C)/g,decodeURIComponent);b=encodeURIComponent(String(b)).replace(/%(23|24|26|2B|5E|60|7C)/g,decodeURIComponent).replace(/[\(\)]/g,escape);g="";for(var k in d)d[k]&&(g+="; "+k,!0!==d[k]&&(g+="="+d[k].split(";")[0]));return document.cookie=b+"="+e+g}}
+function e(a,b){if("undefined"!==typeof document){for(var c={},e=document.cookie?document.cookie.split("; "):[],d=0;d<e.length;d++){var g=e[d].split("="),h=g.slice(1).join("=");b||'"'!==h.charAt(0)||(h=h.slice(1,-1));try{var l=g[0].replace(/(%[0-9A-Z]{2})+/g,decodeURIComponent);h=(f.read||f)(h,l)||h.replace(/(%[0-9A-Z]{2})+/g,decodeURIComponent);if(b)try{h=JSON.parse(h)}catch(m){}c[l]=h;if(a===l)break}catch(m){}}return a?c[a]:c}}c.set=d;c.get=function(a){return e(a,!1)};c.getJSON=function(a){return e(a,
+!0)};c.remove=function(b,c){d(b,"",a(c,{expires:-1}))};c.defaults={};c.withConverter=b;return c}return b(function(){})});AiCookies=Cookies.noConflict();
+ai_check_block=function(a){if(null==a)return!0;var b=AiCookies.getJSON("aiBLOCKS");ai_debug_cookie_status="";null==b&&(b={});"undefined"!==typeof ai_delay_showing_pageviews&&(b.hasOwnProperty(a)||(b[a]={}),b[a].hasOwnProperty("d")||(b[a].d=ai_delay_showing_pageviews));if(b.hasOwnProperty(a))for(var f in b[a]){if("x"==f){var c="",d=document.querySelectorAll('span[data-ai-block="'+a+'"]')[0];"aiHash"in d.dataset&&(c=d.dataset.aiHash);d="";b[a].hasOwnProperty("h")&&(d=b[a].h);var e=new Date;e=b[a][f]-
+Math.round(e.getTime()/1E3);if(0<e&&d==c)return ai_debug_cookie_status=a="closed for "+e+" s = "+Math.round(1E4*e/3600/24)/1E4+" days",!1;ai_set_cookie(a,"x","");b[a].hasOwnProperty("i")||b[a].hasOwnProperty("c")||ai_set_cookie(a,"h","")}else if("d"==f){if(0!=b[a][f])return ai_debug_cookie_status=a="delayed for "+b[a][f]+" pageviews",!1}else if("i"==f){c="";d=document.querySelectorAll('span[data-ai-block="'+a+'"]')[0];"aiHash"in d.dataset&&(c=d.dataset.aiHash);d="";b[a].hasOwnProperty("h")&&(d=b[a].h);
+if(0==b[a][f]&&d==c)return ai_debug_cookie_status=a="max impressions reached",!1;if(0>b[a][f]&&d==c){e=new Date;e=-b[a][f]-Math.round(e.getTime()/1E3);if(0<e)return ai_debug_cookie_status=a="max imp. reached ("+Math.round(1E4*e/24/3600)/1E4+" days = "+e+" s)",!1;ai_set_cookie(a,"i","");b[a].hasOwnProperty("c")||b[a].hasOwnProperty("x")||ai_set_cookie(a,"h","")}}if("ipt"==f&&0==b[a][f]&&(e=new Date,c=Math.round(e.getTime()/1E3),e=b[a].it-c,0<e))return ai_debug_cookie_status=a="max imp. per time reached ("+
+Math.round(1E4*e/24/3600)/1E4+" days = "+e+" s)",!1;if("c"==f){c="";d=document.querySelectorAll('span[data-ai-block="'+a+'"]')[0];"aiHash"in d.dataset&&(c=d.dataset.aiHash);d="";b[a].hasOwnProperty("h")&&(d=b[a].h);if(0==b[a][f]&&d==c)return ai_debug_cookie_status=a="max clicks reached",!1;if(0>b[a][f]&&d==c){e=new Date;e=-b[a][f]-Math.round(e.getTime()/1E3);if(0<e)return ai_debug_cookie_status=a="max clicks reached ("+Math.round(1E4*e/24/3600)/1E4+" days = "+e+" s)",!1;ai_set_cookie(a,"c","");b[a].hasOwnProperty("i")||
+b[a].hasOwnProperty("x")||ai_set_cookie(a,"h","")}}if("cpt"==f&&0==b[a][f]&&(e=new Date,c=Math.round(e.getTime()/1E3),e=b[a].ct-c,0<e))return ai_debug_cookie_status=a="max clicks per time reached ("+Math.round(1E4*e/24/3600)/1E4+" days = "+e+" s)",!1}ai_debug_cookie_status="OK";return!0};
+ai_check_and_insert_block=function(a,b){if(null==a)return!0;var f=document.getElementsByClassName(b);if(f.length){f=f[0];var c=f.closest(".code-block");if(ai_check_block(a))ai_insert_code(f),c&&(c.classList.remove("ai-list-block"),c.style.visibility="",c.classList.contains("ai-remove-position")&&(c.style.position=""));else{var d=f.closest("div[data-ai]");if(null!=d&&"undefined"!=typeof d.getAttribute("data-ai")){var e=JSON.parse(b64d(d.getAttribute("data-ai")));"undefined"!==typeof e&&
+e.constructor===Array&&(e[1]="",d.setAttribute("data-ai",b64e(JSON.stringify(e))))}d=c.querySelectorAll(".ai-debug-block");c&&d.length&&(c.classList.remove("ai-list-block"),c.style.visibility="",c.classList.contains("ai-remove-position")&&(c.style.position=""))}f.classList.remove(b)}f=document.querySelectorAll("."+b+"-dbg");f=$jscomp.makeIterator(f);for(c=f.next();!c.done;c=f.next())c=c.value,c.querySelector(".ai-status").textContent=ai_debug_cookie_status,c.querySelector(".ai-cookie-data").textContent=
+ai_get_cookie_text(a),c.classList.remove(b+"-dbg")};function ai_load_cookie(){var a=AiCookies.getJSON("aiBLOCKS");null==a&&(a={});return a}function ai_get_cookie(a,b){var f="",c=ai_load_cookie();c.hasOwnProperty(a)&&c[a].hasOwnProperty(b)&&(f=c[a][b]);return f}
+function ai_set_cookie(a,b,f){var c=ai_load_cookie();if(""===f){if(c.hasOwnProperty(a)){delete c[a][b];a:{b=c[a];for(d in b)if(b.hasOwnProperty(d)){var d=!1;break a}d=!0}d&&delete c[a]}}else c.hasOwnProperty(a)||(c[a]={}),c[a][b]=f;0===Object.keys(c).length&&c.constructor===Object?AiCookies.remove("aiBLOCKS"):AiCookies.set("aiBLOCKS",c,{expires:365,path:"/"});return c}
+ai_get_cookie_text=function(a){var b=AiCookies.getJSON("aiBLOCKS");null==b&&(b={});return b.hasOwnProperty(a)?JSON.stringify(b[a]).replace(/"/g,"").replace("{","").replace("}",""):""};
+var ai_sticky_delay=200,ai_process_sticky_elements_on_ready=!0;
+function ai_process_sticky_elements(a){a("[data-ai-position-pc]").each(function(){var b=a("body").height()-document.documentElement.clientHeight;if(0>=b)return!0;a(this).css("top",b*a(this).data("ai-position-pc"))});var e=document.documentElement.clientWidth,d=element=a(".ai-content").first(),k=a(".ai-sticky-content"),b=a(".ai-sticky-background"),c=0;if(0!=k.length||0!=b.length)if(a("body").hasClass("ai-preview")){if(0!=element.length)for(;"BODY"!=element.prop("tagName");)b=element.outerWidth(),0!=
+b&&b<=e&&b>=c-1&&(d=element,c=b),element=element.parent();if(0==c)for(d=element=a(".ai-content").last();"BODY"!=element.prop("tagName");)b=element.outerWidth(),0!=b&&b<=e&&b>=c-1&&(d=element,c=b),element=element.parent()}else""!=parseInt("")&&(d=a(""),"undefined"!=typeof d.prop("tagName")&&(b=d.outerWidth(),0!=b&&b<=e&&b>=c&&(c=b)));if(0!=c){var l=Math.floor(c/2)+0;k.each(function(){if(0!=c){var b=a(this).width(),
+f=a(this).height(),g=a(this).hasClass("ai-sticky-background");a(this).removeClass("ai-sticky-background");g&&(a(this).removeClass("ai-sticky-background").removeAttr("data-aos"),"undefined"===typeof ai_preview&&a(this).find(".ai-close-button").removeAttr("class"));if(a(this).hasClass("ai-sticky-left")){var h=parseInt(a(this).css("margin-right"));g||d.offset().left-h-b>=-b/2?(a(this).css("right","calc(50% + "+l+"px)"),a(this).show()):a(this).removeClass("ai-sticky-scroll")}else a(this).hasClass("ai-sticky-right")&&
+(h=parseInt(a(this).css("margin-left")),g||d.offset().left+c+h+b<=e+b/2?(a(this).css("right","").css("left","calc(50% + "+l+"px)"),a(this).show()):a(this).removeClass("ai-sticky-scroll"));a(this).hasClass("ai-sticky-scroll")&&a(this).css("margin-bottom",-f).show()}});b=a(".ai-sticky-background");b.each(function(){if(0!=c){a(this).width();var b=a(this).height();a(this).removeClass("ai-sticky-background").removeAttr("data-aos");"undefined"===typeof ai_preview&&a(this).find(".ai-close-button").removeAttr("class");
+if(a(this).hasClass("ai-sticky-left")){var f=d.offset().left;a(this).css("width",f+"px").css("overflow","hidden");a(this).show()}else a(this).hasClass("ai-sticky-right")&&(f=e-(d.offset().left+c),a(this).css("width",f+"px").css("overflow","hidden").css("display","flex"));a(this).hasClass("ai-sticky-scroll")&&a(this).css("margin-bottom",-b).show()}})}}
+jQuery(document).ready(function(a){ai_process_sticky_elements_on_ready&&(setTimeout(function(){ai_process_sticky_elements(jQuery)},ai_sticky_delay),"undefined"!=typeof AOS&&setTimeout(function(){AOS.init()},ai_sticky_delay+10))});
+var $jscomp=$jscomp||{};$jscomp.scope={};$jscomp.createTemplateTagFirstArg=function(a){return a.raw=a};$jscomp.createTemplateTagFirstArgWithRaw=function(a,l){a.raw=l;return a};$jscomp.arrayIteratorImpl=function(a){var l=0;return function(){return l<a.length?{done:!1,value:a[l++]}:{done:!0}}};$jscomp.arrayIterator=function(a){return{next:$jscomp.arrayIteratorImpl(a)}};$jscomp.makeIterator=function(a){var l="undefined"!=typeof Symbol&&Symbol.iterator&&a[Symbol.iterator];return l?l.call(a):$jscomp.arrayIterator(a)};
+jQuery(function(a){function l(f){f=f.match(n);return null!=f&&1<f.length&&"string"===typeof f[1]&&0<f[1].length?f[1].toLowerCase():null}function v(f){try{var h=Date.parse(f);isNaN(h)&&(h=null)}catch(y){h=null}return h}Array.prototype.includes||(Array.prototype.includes=function(f){return!!~this.indexOf(f)});var n=/:\/\/(.[^/:]+)/i;ai_process_lists=function(f){function h(d,c,k){if(0==d.length)return"!@!"==k?!0:c==k;if("object"!=typeof c&&"array"!=typeof c)return!1;var e=d[0];d=d.slice(1);if("*"==e)for(c=
+$jscomp.makeIterator(Object.entries(c)),e=c.next();!e.done;e=c.next()){if(e=$jscomp.makeIterator(e.value),e.next(),e=e.next().value,h(d,e,k))return!0}else if(e in c)return h(d,c[e],k);return!1}function y(d,c,k){if("object"!=typeof d||-1==c.indexOf("["))return!1;c=c.replace(/]| /gi,"").split("[");return h(c,d,k)}f=null==f?a("div.ai-list-data"):f.filter(".ai-list-data");if(f.length){f.removeClass("ai-list-data");var z=document.cookie.split(";");z.forEach(function(d,c){z[c]=d.trim()});var G=getAllUrlParams(window.location.search);
+if(null!=G.referrer)var p=G.referrer;else p=document.referrer,""!=p&&(p=l(p));var B=window.navigator.userAgent,C=B.toLowerCase();if("undefined"!==typeof MobileDetect)var H=new MobileDetect(B);f.each(function(){var d=a(this).closest("div.code-block"),c=!0,k=a(this).attr("referer-list");if("undefined"!=typeof k){k=b64d(k).split(",");var e=a(this).attr("referer-list-type"),g=!1;a.each(k,function(r,b){if(""==b)return!0;if("*"==b.charAt(0))if("*"==b.charAt(b.length-1)){if(b=b.substr(1,
+b.length-2),-1!=p.indexOf(b))return g=!0,!1}else{if(b=b.substr(1),p.substr(-b.length)==b)return g=!0,!1}else if("*"==b.charAt(b.length-1)){if(b=b.substr(0,b.length-1),0==p.indexOf(b))return g=!0,!1}else if("#"==b){if(""==p)return g=!0,!1}else if(b==p)return g=!0,!1});switch(e){case "B":g&&(c=!1);break;case "W":g||(c=!1)}}if(c&&(k=a(this).attr("client-list"),"undefined"!=typeof k&&"undefined"!==typeof H))switch(k=b64d(k).split(","),e=a(this).attr("client-list-type"),g=!1,a.each(k,function(r,b){if(""==
+b)return!0;if("*"==b.charAt(0))if("*"==b.charAt(b.length-1)){if(b=b.substr(1,b.length-2).toLowerCase(),-1!=C.indexOf(b))return g=!0,!1}else{if(b=b.substr(1).toLowerCase(),C.substr(-b.length)==b)return g=!0,!1}else if("*"==b.charAt(b.length-1)){if(b=b.substr(0,b.length-1).toLowerCase(),0==C.indexOf(b))return g=!0,!1}else if(H.is(b))return g=!0,!1}),e){case "B":g&&(c=!1);break;case "W":g||(c=!1)}var I=k=!1;if(c&&(e=a(this).attr("parameter-list"),"undefined"!=typeof e)){e=b64d(e).split(",");var q=a(this).attr("parameter-list-type"),
+D=[];z.forEach(function(r){r=r.split("=");try{var b=JSON.parse(decodeURIComponent(r[1]))}catch(t){b=decodeURIComponent(r[1])}D[r[0]]=b});g=!1;var L=a(this);a.each(e,function(r,b){if(-1!=b.indexOf("=")){if(-1!=z.indexOf(b))return g=!0,!1;var t=b.split("=");if(0==t[0].indexOf("euconsent-v2")&&-1!=t[0].indexOf("["))if("object"==typeof ai_tcData){var J=t[0].replace(/]| /gi,"").split("[");J.shift();if(h(J,ai_tcData,t[1]))return g=!0,!1}else"function"==typeof __tcfapi&&("undefined"==typeof ai_tcData_requested&&
+(ai_tcData_requested=!0,__tcfapi("getTCData",2,function(u,M){!M||"tcloaded"!=u.eventStatus&&"useractioncomplete"!=u.eventStatus||(ai_tcData=u,setTimeout(function(){ai_process_lists()},10))})),L.addClass("ai-list-data"),I=!0);else if(y(D,t[0],t[1]))return g=!0,!1}else if(z.forEach(function(u){u=u.split("=");if(b==u[0])return g=!0,!1}),y(D,b,"!@!"))return g=!0,!1});switch(q){case "B":g&&(c=!1);break;case "W":g||(c=!1)}!c&&a(this).hasClass("ai-list-manual")?(k=!0,a(this).addClass("ai-list-data")):a(this).removeClass("ai-list-manual")}if(!I){var m=
+a(this).prevAll(".ai-debug-bar.ai-debug-lists");e=""==p?"#":p;m.find(".ai-debug-name.ai-list-info").text(e).attr("title",B);m.find(".ai-debug-name.ai-list-status").text(c?ai_front.visible:ai_front.hidden);e=!1;if(c){var A=a(this).attr("scheduling-start");m=a(this).attr("scheduling-end");var w=a(this).attr("scheduling-days");if("undefined"!=typeof A&&"undefined"!=typeof m&&"undefined"!=typeof w){e=!0;var E=parseInt(a(this).attr("scheduling-fallback"));q=parseInt(a(this).attr("gmt"));var x=v(b64d(A))+
+q;m=v(b64d(m))+q;A=b64d(w).split(",");w=a(this).attr("scheduling-type");var F=(new Date).getTime()+q,K=new Date(F);q=K.getDay();0==q?q=6:q--;x=F>=x&&F<m&&A.includes(q.toString());switch(w){case "B":x=!x}x||(c=!1);w=K.toISOString().split(".")[0].replace("T"," ");m=a(this).prevAll(".ai-debug-bar.ai-debug-scheduling");m.find(".ai-debug-name.ai-scheduling-info").text(w+" "+q);m.find(".ai-debug-name.ai-scheduling-status").text(c?ai_front.visible:ai_front.hidden);c||0==E||(m.removeClass("ai-debug-scheduling").addClass("ai-debug-fallback"),
+m.find(".ai-debug-name.ai-scheduling-status").text(ai_front.fallback+"="+E))}}k||(a(this).css({visibility:"",position:"",width:"",height:"","z-index":""}),c?(d.css({visibility:""}),d.hasClass("ai-remove-position")&&d.css({position:""}),"undefined"!=typeof a(this).data("code")&&(c=b64d(a(this).data("code")),a(this).append(c),ai_process_element(this))):e&&!x&&0!=E?(d.css({visibility:""}),d.hasClass("ai-remove-position")&&d.css({position:""}),a(this).next(".ai-fallback").removeClass("ai-fallback"),"undefined"!=
+typeof a(this).data("fallback-code")?(c=b64d(a(this).data("fallback-code")),a(this).append(c),ai_process_element(this)):a(this).hide(),c=d.attr("data-ai"),"undefined"!==typeof c&&!1!==c&&(c=a(this).attr("fallback-tracking"),"undefined"!==typeof c&&!1!==c&&d.attr("data-ai",c))):(a(this).hide(),d.removeAttr("data-ai").removeClass("ai-track"),d.find(".ai-debug-block").length?(d.css({visibility:""}).removeClass("ai-close"),d.hasClass("ai-remove-position")&&d.css({position:""})):d.hide()),a(this).attr("data-code",
+""),a(this).attr("data-fallback-code",""),d.removeClass("ai-list-block"))}})}};a(document).ready(function(f){setTimeout(function(){ai_process_lists()},5)})});
+function ai_process_element(a){setTimeout(function(){"function"==typeof ai_process_rotations_in_element&&ai_process_rotations_in_element(a);"function"==typeof ai_process_lists&&ai_process_lists(jQuery("div.ai-list-data",a));"function"==typeof ai_process_ip_addresses&&ai_process_ip_addresses(jQuery("div.ai-ip-data",a));"function"==typeof ai_adb_process_blocks&&ai_adb_process_blocks(a)},5)}
+function getAllUrlParams(a){var l=a?a.split("?")[1]:window.location.search.slice(1);a={};if(l){l=l.split("#")[0];l=l.split("&");for(var v=0;v<l.length;v++){var n=l[v].split("="),f=void 0,h=n[0].replace(/\[\d*\]/,function(y){f=y.slice(1,-1);return""});n="undefined"===typeof n[1]?"":n[1];h=h.toLowerCase();n=n.toLowerCase();a[h]?("string"===typeof a[h]&&(a[h]=[a[h]]),"undefined"===typeof f?a[h].push(n):a[h][f]=n):a[h]=n}}return a};
+jQuery(document).ready(function(c){function f(a){var d=c(a).find(".ai-close-button.ai-close-unprocessed");d.length&&(0!==c(a).outerHeight()?c(a).css("width","").addClass("ai-close-fit").find(".ai-close-button").fadeIn(50):(d=c(a),setTimeout(function(){0!==d.outerHeight()&&d.css("width","").addClass("ai-close-fit").find(".ai-close-button").fadeIn(50)},4E3)),c(a).removeClass("ai-close-unprocessed"))}ai_close_block=function(a){var d=c(a).closest(".ai-close"),b=c(a).data("ai-block");if("undefined"!=typeof d){var e=
+d.find(".ai-attributes [data-ai-hash]").data("ai-hash");a=c(a).data("ai-closed-time");if("undefined"!=typeof a){var f=Math.round((new Date).getTime()/1E3);ai_set_cookie(b,"x",Math.round(f+86400*a));ai_set_cookie(b,"h",e)}else e=ai_set_cookie(b,"x",""),!e.hasOwnProperty(b)||e[b].hasOwnProperty("i")||e[b].hasOwnProperty("c")||ai_set_cookie(b,"h","");d.remove()}else ai_set_cookie(b,"x",""),!e.hasOwnProperty(b)||e[b].hasOwnProperty("i")||e[b].hasOwnProperty("c")||ai_set_cookie(b,"h","")};ai_install_close_buttons=
+function(a){setTimeout(function(){c(".ai-close-button.ai-close-unprocessed",a).click(function(){ai_close_block(this)})},1800);"undefined"===typeof ai_preview&&setTimeout(function(){c(".ai-close-button.ai-close-unprocessed",a).each(function(){var a=c(this),b=a.data("ai-close-timeout");0<b&&setTimeout(function(){ai_close_block(a)},1E3*(2<b?b-2:0)+1)})},2E3);setTimeout(function(){c(a).hasClass("ai-close")?f(a):c(".ai-close",a).each(function(){f(this)})},2200)};ai_install_close_buttons(document)});
+jQuery(function(b){function m(b,c){c||(c=window.location.href);b=b.replace(/[\[\]]/g,"\\$&");var a=(new RegExp("[?&]"+b+"(=([^&#]*)|&|#|$)")).exec(c);return a?a[2]?decodeURIComponent(a[2].replace(/\+/g," ")):"":null}function n(d){d.removeClass("ai-ip-data");var c=!1;if(""!=ai_ip_data){try{var a=JSON.parse(ai_ip_data),h=a[0],p=a[1],g=a[2],k=a[3]}catch(q){return}var l=h+", "+p;null!=g&&null!=k&&(l=l+":"+g+":"+k);null==g&&(g="");null==k&&(k="");null!=a&&d.each(function(){var a=b(this).closest("div.code-block");
+c=!0;var e=b(this).attr("ip-addresses");if("undefined"!=typeof e){e=e.split(",");var d=b(this).attr("ip-address-list"),f=!1;b.each(e,function(b,a){if("*"==a.charAt(0))if("*"==a.charAt(a.length-1)){if(a=a.substr(1,a.length-2),-1!=h.indexOf(a))return f=!0,!1}else{if(a=a.substr(1),h.substr(-a.length)==a)return f=!0,!1}else if("*"==a.charAt(a.length-1)){if(a=a.substr(0,a.length-1),0==h.indexOf(a))return f=!0,!1}else if("#"==a){if(""==h)return f=!0,!1}else if(a==h)return f=!0,!1});switch(d){case "B":f&&
+(c=!1);break;case "W":f||(c=!1)}}if(c&&(e=b(this).attr("countries"),"undefined"!=typeof e))switch(e=e.split(","),d=b(this).attr("country-list"),f=!1,b.each(e,function(a,b){var c=b.trim().split(":");if(null==c[1]||""==g)c[1]="";if(null==c[2]||""==k)c[2]="";var d=c.join(":").toUpperCase();c=(p+":"+(""==c[1]?"":g)+":"+(""==c[2]?"":k)).toUpperCase();if(d==c)return f=!0,!1}),d){case "B":f&&(c=!1);break;case "W":f||(c=!1)}b(this).css({visibility:"",position:"",width:"",height:"","z-index":""});e=b(this).prev(".ai-debug-bar");
+e.find(".ai-debug-name.ai-ip-country").text(l);e.find(".ai-debug-name.ai-ip-status").text(c?ai_front.visible:ai_front.hidden);c?(a.css({visibility:""}),a.hasClass("ai-remove-position")&&a.css({position:""}),"undefined"!=typeof b(this).data("code")&&(e=b64d(b(this).data("code")),b(this).append(e),b(this).attr("data-code",""),ai_process_element(this))):(b(this).hide(),a.removeAttr("data-ai"),a.find(".ai-debug-block")?(a.css({visibility:""}).removeClass("ai-close"),a.hasClass("ai-remove-position")&&
+a.css({position:""})):a.hide());a.removeClass("ai-list-block")})}}ai_process_ip_addresses=function(d){d=null==d?b("div.ai-ip-data"):d.filter(".ai-ip-data");if(d.length)if(d.removeClass("ai-ip-data"),"undefined"!=typeof ai_ip_data)n(d);else{var c="/wp-admin/admin-ajax.php?action=ai_ajax&ip-data=ip-address-country-city&ai_check=70044f34cf&ver="+((new Date).getTime()+"-"+Math.round(1E5*Math.random())),a=m("ai-debug-ip-address");null!=a&&(c+="&ai-debug-ip-address="+a);a=m("ai-debug-country");
+null!=a&&(c+="&ai-debug-country="+a);b.get(c,function(a){ai_ip_data=a;if(""==a){var b="Ajax request returned empty data, geo-targeting disabled";console.error(b);"undefined"!=typeof ai_js_errors&&ai_js_errors.push([b,c,0])}else try{JSON.parse(a)}catch(g){b="Ajax call returned invalid data, geo-targeting disabled",console.error(b,a),"undefined"!=typeof ai_js_errors&&ai_js_errors.push([b,c,0])}n(d)}).fail(function(a,c,d){b("div.ai-ip-data").each(function(){b(this).css({display:"none",visibility:"",
+position:"",width:"",height:"","z-index":""}).removeClass("ai-ip-data").hide()})})}};b(document).ready(function(b){setTimeout(function(){ai_process_ip_addresses()},5)})});
+function ai_process_element(b){setTimeout(function(){"function"==typeof ai_process_rotations_in_element&&ai_process_rotations_in_element(b);"function"==typeof ai_process_lists&&ai_process_lists(jQuery("div.ai-list-data",b));"function"==typeof ai_process_ip_addresses&&ai_process_ip_addresses(jQuery("div.ai-ip-data",b));"function"==typeof ai_adb_process_blocks&&ai_adb_process_blocks(b)},5)};
+(function(a,r){"function"===typeof define&&define.amd?define(["jquery"],function(a){return r(a)}):"object"===typeof module&&module.exports?module.exports=r(require("jquery")):r(a.jQuery)})(this,function(a){(function(a){a.fn.iframeTracker=function(k){"function"==typeof k&&(k={blurCallback:k});var e=this.get();if(null===k||!1===k)a.iframeTracker.untrack(e);else if("object"==typeof k)a.iframeTracker.track(e,k);else throw Error("Wrong handler type (must be an object, or null|false to untrack)");return this};
+a.iframeTracker={focusRetriever:null,focusRetrieved:!1,handlersList:[],isIE8AndOlder:!1,init:function(){try{!0===a.browser.msie&&9>a.browser.version&&(this.isIE8AndOlder=!0)}catch(e){try{9>navigator.userAgent.match(/(msie) ([\w.]+)/i)[2]&&(this.isIE8AndOlder=!0)}catch(m){}}a(window).focus();a(window).blur(function(e){a.iframeTracker.windowLoseFocus(e)});a("body").append('<div style="position:fixed; top:0; left:0; overflow:hidden;"><input style="position:absolute; left:-300px;" type="text" value="" id="focus_retriever" readonly="true" /></div>');
+this.focusRetriever=a("#focus_retriever");this.focusRetrieved=!1;var k=this;a(document).mousemove(function(e){!document.activeElement||"IFRAME"!==document.activeElement.tagName||document.activeElement.hasAttribute("id")&&0===a(document.activeElement).attr("id").indexOf("dsq-")||(a.iframeTracker.focusRetriever.focus(),a.iframeTracker.focusRetrieved=!0);if(document.activeElement&&"A"==document.activeElement.tagName)for(var m in k.handlersList)try{k.handlersList[m].focusCallback(document.activeElement)}catch(v){}});
+if(this.isIE8AndOlder){this.focusRetriever.blur(function(e){e.stopPropagation();e.preventDefault();a.iframeTracker.windowLoseFocus(e)});a("body").click(function(e){a(window).focus()});a("form").click(function(a){a.stopPropagation()});try{a("body").on("click","form",function(a){a.stopPropagation()})}catch(e){console.log("[iframeTracker] Please update jQuery to 1.7 or newer. (exception: "+e.message+")")}}},track:function(k,e){e.target=k;a.iframeTracker.handlersList.push(e);a(k).bind("mouseover",{handler:e},
+a.iframeTracker.mouseoverListener).bind("mouseout",{handler:e},a.iframeTracker.mouseoutListener)},untrack:function(k){if("function"!=typeof Array.prototype.filter)console.log("Your browser doesn't support Array filter, untrack disabled");else{a(k).each(function(e){a(this).unbind("mouseover",a.iframeTracker.mouseoverListener).unbind("mouseout",a.iframeTracker.mouseoutListener)});var e=function(a){return null===a?!1:!0},m;for(m in this.handlersList){for(var r in this.handlersList[m].target)-1!==a.inArray(this.handlersList[m].target[r],
+k)&&(this.handlersList[m].target[r]=null);this.handlersList[m].target=this.handlersList[m].target.filter(e);0===this.handlersList[m].target.length&&(this.handlersList[m]=null)}this.handlersList=this.handlersList.filter(e)}},mouseoverListener:function(a){a.data.handler.over=!0;try{a.data.handler.overCallback(this,a)}catch(e){}},mouseoutListener:function(k){k.data.handler.over=!1;a.iframeTracker.focusRetriever.focus();try{k.data.handler.outCallback(this,k)}catch(e){}},windowLoseFocus:function(a){for(var e in this.handlersList)if(!0===
+this.handlersList[e].over)try{this.handlersList[e].blurCallback(a)}catch(m){}}};a(document).ready(function(){a.iframeTracker.init()})})(a)});ai_tracking_finished=!1;
+jQuery(document).ready(function(a){function r(a,e,h,b,d,n,g){a=a.replace("[EVENT]",e);a=a.replace("[BLOCK_NUMBER]",h);a=a.replace("[BLOCK_NAME]",b);a=a.replace("[BLOCK_COUNTER]",d);a=a.replace("[VERSION_NUMBER]",n);a=a.replace("[VERSION_NAME]",g);a=a.replace("[BLOCK_VERSION_NUMBER]",h+(0==n?"":" - "+n));return a=a.replace("[BLOCK_VERSION_NAME]",b+(""==g?"":" - "+g))}function k(a,e,h,b,d,n,g){var c=r("Ad Inserter Pro",a,e,h,b,d,n),l=r("[EVENT]",a,e,h,b,d,n),q=r("[BLOCK_NUMBER] - [BLOCK_VERSION_NAME]",a,e,h,b,d,n);if("function"!=
+typeof ai_external_tracking_event||0!=ai_external_tracking_event({event:a,block:e,block_name:h,block_counter:b,version:d,version_name:n},c,l,q,g))"function"==typeof window.ga?ga("send","event",{eventCategory:c,eventAction:l,eventLabel:q,nonInteraction:g}):"function"==typeof window.gtag?gtag("event","impression",{event_category:c,event_action:l,event_label:q,non_interaction:g}):"function"==typeof window.__gaTracker?__gaTracker("send","event",{eventCategory:c,eventAction:l,eventLabel:q,nonInteraction:g}):
+"object"==typeof _gaq&&_gaq.push(["_trackEvent",c,l,q,void 0,g]),"object"==typeof _paq&&_paq.push(["trackEvent",c,l,q])}function e(c,l){var h=c[0],b=c[1];if(Number.isInteger(b))if("undefined"==typeof ai_check_data&&"undefined"==typeof ai_check_data_timeout)ai_check_data_timeout=!0,setTimeout(function(){e(c,l)},2500);else{ai_cookie=ai_load_cookie();for(var d in ai_cookie)if(parseInt(h)==parseInt(d))for(var n in ai_cookie[d])if("c"==n){var g=ai_cookie[d][n];if(0<g)if(ai_set_cookie(d,"c",g-1),1==g){g=
+a("span[data-ai-block="+h+"]").data("ai-cfp-time");var f=new Date;f=Math.round(f.getTime()/1E3);var p=f+604800;ai_set_cookie(d,"c",-p);setTimeout(function(){a("span[data-ai-block="+h+"]").closest("div[data-ai]").remove()},50);"undefined"!=typeof g&&(p=f+86400*g,ai_set_cookie(h,"x",p),a("span.ai-cfp").each(function(b){b=a(this).data("ai-block");var d=a(this);setTimeout(function(){d.closest("div[data-ai]").remove()},50);ai_set_cookie(b,"x",p)}))}else ai_set_cookie(d,"c",g-1)}else if("cpt"==n)if(g=ai_cookie[d][n],
+0<g){if(ai_set_cookie(d,"cpt",g-1),1==g){g=a("span[data-ai-block="+h+"]").data("ai-cfp-time");f=new Date;f=Math.round(f.getTime()/1E3);var q=a(this);setTimeout(function(){q.closest("div[data-ai]").remove()},50);"undefined"!=typeof g&&(p=f+86400*g,ai_set_cookie(h,"x",p),a("span.ai-cfp").each(function(b){b=a(this).data("ai-block");var d=a(this);setTimeout(function(){d.closest("div[data-ai]").remove()},50);ai_set_cookie(b,"x",p)}))}}else ai_check_data.hasOwnProperty(d)&&ai_check_data[d].hasOwnProperty("cpt")&&
+ai_check_data[d].hasOwnProperty("ct")?ai_cookie.hasOwnProperty(d)&&ai_cookie[d].hasOwnProperty("ct")&&(f=new Date,0>=ai_cookie[d].ct-Math.round(f.getTime()/1E3)&&(f=Math.round(f.getTime()/1E3),ai_set_cookie(d,"cpt",ai_check_data[d].cpt-1),ai_set_cookie(d,"ct",Math.round(f+86400*ai_check_data[d].ct)))):(ai_cookie.hasOwnProperty(d)&&ai_cookie[d].hasOwnProperty("cpt")&&ai_set_cookie(d,"cpt",""),ai_cookie.hasOwnProperty(d)&&ai_cookie[d].hasOwnProperty("ct")&&ai_set_cookie(d,"ct",""));t&&a.ajax({url:"/wp-admin/admin-ajax.php",
+type:"post",data:{action:"ai_ajax",ai_check:"70044f34cf",click:h,version:b,type:l},async:!0}).done(function(b){});if(u){var x=c[2],y=c[3];k("click",h,x,c[4],b,y,!1)}"function"==typeof ai_click_action&&ai_click_action(h,x,b,y)}}function m(){ai_check_data={};if("undefined"==typeof ai_iframe){ai_cookie=ai_load_cookie();a(".ai-check-block").each(function(){var b=a(this).data("ai-block"),d=a(this).data("ai-delay-pv"),c=a(this).data("ai-every-pv"),e=a(this).data("ai-hash"),f=a(this).data("ai-max-imp"),h=
+a(this).data("ai-limit-imp-per-time"),q=a(this).data("ai-limit-imp-time"),l=a(this).data("ai-max-clicks"),k=a(this).data("ai-limit-clicks-per-time"),m=a(this).data("ai-limit-clicks-time");if("undefined"!=typeof d&&0<d){ai_check_data.hasOwnProperty(b)||(ai_check_data[b]={});ai_check_data[b].d=d;var w="";ai_cookie.hasOwnProperty(b)&&ai_cookie[b].hasOwnProperty("d")&&(w=ai_cookie[b].d);""===w&&ai_set_cookie(b,"d",d-1)}"undefined"!=typeof c&&2<=c&&(ai_check_data.hasOwnProperty(b)||(ai_check_data[b]={}),
+"undefined"!==typeof ai_delay_showing_pageviews||ai_cookie.hasOwnProperty(b)&&ai_cookie[b].hasOwnProperty("d")||(ai_cookie.hasOwnProperty(b)||(ai_cookie[b]={}),ai_cookie[b].d=0),ai_check_data[b].e=c);if("undefined"!=typeof f&&0<f){if(ai_check_data.hasOwnProperty(b)||(ai_check_data[b]={}),ai_check_data[b].i=f,ai_check_data[b].h=e,c=d="",ai_cookie.hasOwnProperty(b)&&(ai_cookie[b].hasOwnProperty("i")&&(c=ai_cookie[b].i),ai_cookie[b].hasOwnProperty("h")&&(d=ai_cookie[b].h)),""===c||d!=e)ai_set_cookie(b,
+"i",f),ai_set_cookie(b,"h",e)}else ai_cookie.hasOwnProperty(b)&&ai_cookie[b].hasOwnProperty("i")&&(ai_set_cookie(b,"i",""),ai_cookie[b].hasOwnProperty("c")||ai_cookie[b].hasOwnProperty("x")||ai_set_cookie(b,"h",""));if("undefined"!=typeof h&&0<h&&"undefined"!=typeof q&&0<q){ai_check_data.hasOwnProperty(b)||(ai_check_data[b]={});ai_check_data[b].ipt=h;ai_check_data[b].it=q;f=d="";ai_cookie.hasOwnProperty(b)&&(ai_cookie[b].hasOwnProperty("ipt")&&(d=ai_cookie[b].ipt),ai_cookie[b].hasOwnProperty("it")&&
+(f=ai_cookie[b].it));if(""===d||""===f)ai_set_cookie(b,"ipt",h),d=new Date,d=Math.round(d.getTime()/1E3),ai_set_cookie(b,"it",Math.round(d+86400*q));0<f&&(d=new Date,d=Math.round(d.getTime()/1E3),f<=d&&(ai_set_cookie(b,"ipt",h),ai_set_cookie(b,"it",Math.round(d+86400*q))))}else ai_cookie.hasOwnProperty(b)&&(ai_cookie[b].hasOwnProperty("ipt")&&ai_set_cookie(b,"ipt",""),ai_cookie[b].hasOwnProperty("it")&&ai_set_cookie(b,"it",""));if("undefined"!=typeof l&&0<l){if(ai_check_data.hasOwnProperty(b)||(ai_check_data[b]=
+{}),ai_check_data[b].c=l,ai_check_data[b].h=e,h=d="",ai_cookie.hasOwnProperty(b)&&(ai_cookie[b].hasOwnProperty("c")&&(h=ai_cookie[b].c),ai_cookie[b].hasOwnProperty("h")&&(d=ai_cookie[b].h)),""===h||d!=e)ai_set_cookie(b,"c",l),ai_set_cookie(b,"h",e)}else ai_cookie.hasOwnProperty(b)&&ai_cookie[b].hasOwnProperty("c")&&(ai_set_cookie(b,"c",""),ai_cookie[b].hasOwnProperty("i")||ai_cookie[b].hasOwnProperty("x")||ai_set_cookie(b,"h",""));if("undefined"!=typeof k&&0<k&&"undefined"!=typeof m&&0<m){ai_check_data.hasOwnProperty(b)||
+(ai_check_data[b]={});ai_check_data[b].cpt=k;ai_check_data[b].ct=m;e=l="";ai_cookie.hasOwnProperty(b)&&(ai_cookie[b].hasOwnProperty("cpt")&&(l=ai_cookie[b].cpt),ai_cookie[b].hasOwnProperty("ct")&&(e=ai_cookie[b].ct));if(""===l||""===e)ai_set_cookie(b,"cpt",k),d=new Date,d=Math.round(d.getTime()/1E3),ai_set_cookie(b,"ct",Math.round(d+86400*m));0<e&&(d=new Date,d=Math.round(d.getTime()/1E3),e<=d&&(ai_set_cookie(b,"cpt",k),ai_set_cookie(b,"ct",Math.round(d+86400*m))))}else ai_cookie.hasOwnProperty(b)&&
+(ai_cookie[b].hasOwnProperty("cpt")&&ai_set_cookie(b,"cpt",""),ai_cookie[b].hasOwnProperty("ct")&&ai_set_cookie(b,"ct",""))});for(var c in ai_cookie)for(var e in ai_cookie[c])if("d"==e){var h=ai_cookie[c][e];0<h?ai_set_cookie(c,"d",h-1):ai_check_data.hasOwnProperty(c)&&ai_check_data[c].hasOwnProperty("e")?ai_set_cookie(c,"d",ai_check_data[c].e-1):ai_check_data.hasOwnProperty(c)&&ai_check_data[c].hasOwnProperty("d")||ai_set_cookie(c,"d","")}}}function v(){if(A){var c=document.documentElement.clientWidth,
+e=window.innerWidth,h=c<e?e:c,b=0;a.each(B,function(a,d){if(h>=d)return b=C[a],!1});c=jQuery(b64d("Ym9keQ==")).attr(b64d ('ZGF0YS1kYXRhLW1hc2s='));if("string"===typeof c)var d=c==b64d("bWFzaw==");"string"===typeof c&&"boolean"===typeof d&&d&&(u&&k("ad blocking",0,D[b-1],0,0,"",!0),b|=128);t&&a.ajax({url:"/wp-admin/admin-ajax.php",type:"post",data:{action:"ai_ajax",ai_check:"70044f34cf",views:[0],versions:[b]},async:!0}).done(function(b){})}m();ai_tracking_finished=!0;ai_process_impressions()}var t=1,
+u=0,A=0,z=1,B=[1400,1200,0],C=[1,2,3],D=JSON.parse(b64d("WyJEZXNrdG9wIiwiVGFibGV0IiwiUGhvbmUiXQ=="));Number.isInteger=Number.isInteger||function(a){return"number"===typeof a&&isFinite(a)&&Math.floor(a)===a};ai_install_standard_click_trackers=function(c){"undefined"==typeof c&&(c=a("body"));c=a("div.ai-track[data-ai]:visible a",c);var l=a();c.each(function(){var c=a(this).find("div.ai-lazy"),b=a(this).find("div.ai-manual");0==c.length&&0==b.length&&
+(l=l.add(a(this)))});c=l;c.removeClass("ai-track");0!=c.length&&(z?c.click(function(){for(var c=a(this).closest("div[data-ai]");"undefined"!=typeof c.attr("data-ai");){var b=JSON.parse(b64d(c.attr("data-ai")));"undefined"!==typeof b&&b.constructor===Array&&Number.isInteger(b[1])&&!c.hasClass("clicked")&&(c.addClass("clicked"),e(b,"a.click"));c=c.parent().closest("div[data-ai]")}}):c.click(function(){for(var c=a(this).closest("div[data-ai]");"undefined"!=typeof c.attr("data-ai");){var b=JSON.parse(b64d(c.attr("data-ai")));
+"undefined"!==typeof b&&b.constructor===Array&&Number.isInteger(b[1])&&(e(b,"a.click"),clicked=!0);c=c.parent().closest("div[data-ai]")}}))};ai_install_click_trackers=function(c){"undefined"==typeof c&&(c=a("body"));if(z){var l=a("div.ai-track[data-ai]:visible, div.ai-rotate[data-info]:visible div.ai-track[data-ai]",c);"undefined"!=typeof a(c).attr("data-ai")&&a(c).hasClass("ai-track")&&a(c).is(":visible")&&(l=l.add(c));var h=a();l.each(function(){var b=a(this).find("div.ai-lazy"),c=a(this).find("div.ai-manual");
+0==b.length&&0==c.length&&(h=h.add(a(this)))});l=h;l.removeClass("ai-track");0!=l.length&&l.iframeTracker({blurCallback:function(){if(null!=this.ai_data&&null!=wrapper&&!wrapper.hasClass("clicked")){wrapper.addClass("clicked");e(this.ai_data,"blurCallback");for(var b=wrapper.find("div[data-ai]:visible");"undefined"!=typeof b.attr("data-ai");){var a=JSON.parse(b64d(b.attr("data-ai")));"undefined"!==typeof a&&a.constructor===Array&&Number.isInteger(a[1])&&e(a,"blurCallback INNER");b=b.find("div[data-ai]:visible")}}},
+overCallback:function(b){b=a(b).closest("div[data-ai]");if("undefined"!=typeof b.attr("data-ai")){var c=JSON.parse(b64d(b.attr("data-ai")));"undefined"!==typeof c&&c.constructor===Array&&Number.isInteger(c[1])?(wrapper=b,this.ai_data=c):(null!=wrapper&&wrapper.removeClass("clicked"),this.ai_data=wrapper=null)}},outCallback:function(b){null!=wrapper&&wrapper.removeClass("clicked");this.ai_data=wrapper=null},focusCallback:function(b){if(null!=this.ai_data&&null!=wrapper&&!wrapper.hasClass("clicked"))for(wrapper.addClass("clicked"),
+e(this.ai_data,"focusCallback"),b=wrapper.find("div[data-ai]:visible");"undefined"!=typeof b.attr("data-ai");){var a=JSON.parse(b64d(b.attr("data-ai")));"undefined"!==typeof a&&a.constructor===Array&&Number.isInteger(a[1])&&e(a,"focusCallback INNER");b=b.find("div[data-ai]:visible")}},wrapper:null,ai_data:null,block:null,version:null})}ai_install_standard_click_trackers(c)};ai_process_impressions=function(c){"undefined"==typeof c&&(c=a("body"));var e=[],h=[],b=[],d=[],m=[],g=a("div.ai-track[data-ai]:visible, div.ai-rotate[data-info]:visible div.ai-track[data-ai]",
+c);"undefined"!=typeof a(c).attr("data-ai")&&a(c).hasClass("ai-track")&&a(c).is(":visible")&&(g=g.add(c));0!=g.length&&a(g).each(function(){if("undefined"!=typeof a(this).attr("data-ai")){var c=JSON.parse(b64d(a(this).attr("data-ai")));if("undefined"!==typeof c&&c.constructor===Array){var f=0,k=a(this).find("div.ai-rotate[data-info]");1==k.length&&(f=JSON.parse(b64d(k.data("info")))[1]);if(Number.isInteger(c[0])&&0!=c[0]&&Number.isInteger(c[1])){k=0;var l=a(this).hasClass("ai-no-tracking"),g=jQuery(b64d("Ym9keQ==")).attr(b64d ('ZGF0YS1kYXRhLW1hc2s='));
+if("string"===typeof g)var n=g==b64d("bWFzaw==");if("string"===typeof g&&"boolean"===typeof n){var p=a(this).outerHeight();g=a(this).find(".ai-attributes");g.length&&g.each(function(){p>=a(this).outerHeight()&&(p-=a(this).outerHeight())});g=a(this).find(".ai-code");g.length&&(p=0,g.each(function(){p+=a(this).outerHeight()}));n&&0===p&&(k=128)}n=a(this).find("div.ai-lazy");g=a(this).find("div.ai-manual");if(0!=n.length||0!=g.length)l=!0;if(!l)if(0==f)e.push(c[0]),h.push(c[1]|k),b.push(c[2]),d.push(c[3]),
+m.push(c[4]);else for(l=1;l<=f;l++)e.push(c[0]),h.push(l|k),b.push(c[2]),d.push(c[3]),m.push(c[4])}}}});ai_cookie=ai_load_cookie();for(var f in ai_cookie)if(e.includes(parseInt(f)))for(var p in ai_cookie[f])"i"==p?(c=ai_cookie[f][p],0<c&&(1==c?(c=new Date,c=Math.round(c.getTime()/1E3)+604800,ai_set_cookie(f,"i",-c)):ai_set_cookie(f,"i",c-1))):"ipt"==p&&(c=ai_cookie[f][p],0<c?ai_set_cookie(f,"ipt",c-1):ai_check_data.hasOwnProperty(f)&&ai_check_data[f].hasOwnProperty("ipt")&&ai_check_data[f].hasOwnProperty("it")?
+ai_cookie.hasOwnProperty(f)&&ai_cookie[f].hasOwnProperty("it")&&(c=new Date,0>=ai_cookie[f].it-Math.round(c.getTime()/1E3)&&(c=Math.round(c.getTime()/1E3),ai_set_cookie(f,"ipt",ai_check_data[f].ipt),ai_set_cookie(f,"it",Math.round(c+86400*ai_check_data[f].it)))):(ai_cookie.hasOwnProperty(f)&&ai_cookie[f].hasOwnProperty("ipt")&&ai_set_cookie(f,"ipt",""),ai_cookie.hasOwnProperty(f)&&ai_cookie[f].hasOwnProperty("it")&&ai_set_cookie(f,"it","")));if(e.length&&(t&&a.ajax({url:"/wp-admin/admin-ajax.php",
+type:"post",data:{action:"ai_ajax",ai_check:"70044f34cf",views:e,versions:h},async:!0}).done(function(a){a=a.trim();if(""!=a&&(a=JSON.parse(a),"undefined"!=typeof a["#"])){var b=Math.round((new Date).getTime()/1E3)+43200,c;for(c in a["#"])ai_cookie.hasOwnProperty(a["#"][c])&&ai_cookie[a["#"][c]].hasOwnProperty("x")||ai_set_cookie(a["#"][c],"x",b)}}),u))for(f=0;f<e.length;f++)k("impression",e[f],b[f],m[f],h[f],d[f],!0)};jQuery(window).on("load",function(){setTimeout(v,1200);setTimeout(ai_install_click_trackers,
+1300)})});
+
+ai_js_code = true;
+}
+function ai_wait_for_jquery(){function b(b,c){var a=document.createElement("script");a.src=b;var d=document.getElementsByTagName("head")[0],e=!1;a.onload=a.onreadystatechange=function(){e||this.readyState&&"loaded"!=this.readyState&&"complete"!=this.readyState||(e=!0,c&&c(),a.onload=a.onreadystatechange=null,d.removeChild(a))};d.appendChild(a)}window.jQuery?ai_run_scripts():(ai_jquery_waiting_counter++,4==ai_jquery_waiting_counter&&b("https://russkiy-pravilno.ru/wp-includes/js/jquery/jquery.js?ver=1.12.4",function(){b("https://russkiy-pravilno.ru/wp-includes/js/jquery/jquery-migrate.min.js?ver=5.0.4",null)}),30>ai_jquery_waiting_counter&&
+setTimeout(function(){ai_wait_for_jquery()},50))}ai_jquery_waiting_counter=0;ai_wait_for_jquery();
+
+</script>
+ <div id="mobilemenu" class="mobilemenu"><ul id="menu-menu-2" class="top-menu"><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-38"><a href="https://russkiy-pravilno.ru/pravila/alfavit/">Алфавит</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-39"><a href="https://russkiy-pravilno.ru/pravila/orfografiya/">Орфография</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-40"><a href="https://russkiy-pravilno.ru/pravila/punktuatciya/">Пунктуация</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-41"><a href="https://russkiy-pravilno.ru/pravila/sintaksis/">Синтаксис</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-42"><a href="https://russkiy-pravilno.ru/pravila/fonetika/">Фонетика</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-43"><a href="https://russkiy-pravilno.ru/pravila/morphologiya/">Морфология</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-119"><a href="https://russkiy-pravilno.ru/pravila/leksika/">Лексика</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-184"><a href="https://russkiy-pravilno.ru/pravila/morphemika/">Морфемика</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-176"><a href="https://russkiy-pravilno.ru/pravila/ege-russkiy-yazyk/">ЕГЭ</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1414"><a href="https://russkiy-pravilno.ru/varianty-ege/">Варианты ЕГЭ</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1038"><a href="https://russkiy-pravilno.ru/sitemap/">Карта сайта</a></li>
+</ul></div><!-- end // mobilemenu -->
+</body>
+</html>

@@ -1,0 +1,801 @@
+
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="UTF-8" />
+<meta name="yandex-verification" content="6ab1a59f0ee163f8" />
+<meta name="google-site-verification" content="eDdo7doY8afD6FCM_ixPwL1dgUafwYVOUUVOPrEFC3k" />
+<meta name="description" content="">
+<meta  name="keywords" content="студопедия, школопедия">
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, minimum-scale=1.0"
+    />
+<link href="/main.92d3a362aadc716176c3.css" rel=stylesheet>
+<link rel="icon" href="/logo.ico" type="image/x-icon">
+<link rel="shortcut icon" href="/logo.ico" type="image/x-icon">
+    <title>Студопедия &#8212; Ваша школопедия</title>
+  </head>
+  <body>
+    <nav>
+      <div class="logo">
+        <a href="https://studopedia.ru/" class="logo-inner-wrapper">
+          <img src="./static/logo.svg" alt="" />
+          Студопедия
+        </a>
+      </div>
+      <div class="collapse-menu closed">
+        <div class="link">
+          <a href="#">Категории</a>
+          <div class="dropdown-menu">
+
+<div class="dmit"><a href='/cat/Avto/'>Авто</a></div>
+<div class="dmit"><a href='/cat/Avtomatizatsiya/'>Автоматизация</a></div>
+<div class="dmit"><a href='/cat/Arkhitektura/'>Архитектура</a></div>
+<div class="dmit"><a href='/cat/Astronomia/'>Астрономия</a></div>
+<div class="dmit"><a href='/cat/Audit/'>Аудит</a></div>
+<div class="dmit"><a href='/cat/Biologia/'>Биология</a></div>
+<div class="dmit"><a href='/cat/Bukhgalteriya/'>Бухгалтерия</a></div>
+<div class="dmit"><a href='/cat/Voennoe_delo/'>Военное дело</a></div>
+<div class="dmit"><a href='/cat/Genetika/'>Генетика</a></div>
+<div class="dmit"><a href='/cat/Geografiya/'>География</a></div>
+<div class="dmit"><a href='/cat/Geologiya/'>Геология</a></div>
+<div class="dmit"><a href='/cat/Gosudarstvo/'>Государство</a></div>
+<div class="dmit"><a href='/cat/Dom/'>Дом</a></div>
+<div class="dmit"><a href='/cat/SMI/'>Журналистика и СМИ</a></div>
+<div class="dmit"><a href='/cat/Izobretatelstvo/'>Изобретательство</a></div>
+<div class="dmit"><a href='/cat/Yazyki/'>Иностранные языки</a></div>
+<div class="dmit"><a href='/cat/Informatika/'>Информатика</a></div>
+<div class="dmit"><a href='/cat/Iskusstvo/'>Искусство</a></div>
+<div class="dmit"><a href='/cat/Istoria/'>История</a></div>
+<div class="dmit"><a href='/cat/Computer/'>Компьютеры</a></div>
+<div class="dmit"><a href='/cat/Kulinariya/'>Кулинария</a></div>
+<div class="dmit"><a href='/cat/Kultura/'>Культура</a></div>
+<div class="dmit"><a href='/cat/Leksikologiya/'>Лексикология</a></div>
+<div class="dmit"><a href='/cat/Literatura/'>Литература</a></div>
+<div class="dmit"><a href='/cat/Logika/'>Логика</a></div>
+<div class="dmit"><a href='/cat/Marketing/'>Маркетинг</a></div>
+<div class="dmit"><a href='/cat/Matematika/'>Математика</a></div>
+<div class="dmit"><a href='/cat/Mashinostroenie/'>Машиностроение</a></div>
+<div class="dmit"><a href='/cat/Meditsina/'>Медицина</a></div>
+<div class="dmit"><a href='/cat/Menedzhment/'>Менеджмент</a></div>
+<div class="dmit"><a href='/cat/Metally-Svarka/'>Металлы и Сварка</a></div>
+<div class="dmit"><a href='/cat/Mekhanika/'>Механика</a></div>
+<div class="dmit"><a href='/cat/Muzyka/'>Музыка</a></div>
+<div class="dmit"><a href='/cat/Naselenie/'>Население</a></div>
+<div class="dmit"><a href='/cat/Obrazovanie/'>Образование</a></div>
+<div class="dmit"><a href='/cat/OBZH/'>Охрана безопасности жизни</a></div>
+<div class="dmit"><a href='/cat/OkhranaTruda/'>Охрана Труда</a></div>
+<div class="dmit"><a href='/cat/Pedagogika/'>Педагогика</a></div>
+<div class="dmit"><a href='/cat/Politika/'>Политика</a></div>
+<div class="dmit"><a href='/cat/Pravo/'>Право</a></div>
+<div class="dmit"><a href='/cat/Programmirovanie/'>Программирование</a></div>
+<div class="dmit"><a href='/cat/Proizvodstvo/'>Производство</a></div>
+<div class="dmit"><a href='/cat/Promyshlennost/'>Промышленность</a></div>
+<div class="dmit"><a href='/cat/Psikhologiya/'>Психология</a></div>
+<div class="dmit"><a href='/cat/Radio/'>Радио</a></div>
+<div class="dmit"><a href='/cat/Regiliya/'>Регилия</a></div>
+<div class="dmit"><a href='/cat/Svyaz/'>Связь</a></div>
+<div class="dmit"><a href='/cat/Sotsiologiya/'>Социология</a></div>
+<div class="dmit"><a href='/cat/Sport/'>Спорт</a></div>
+<div class="dmit"><a href='/cat/Standartizatsiya/'>Стандартизация</a></div>
+<div class="dmit"><a href='/cat/Stroitelstvo/'>Строительство</a></div>
+<div class="dmit"><a href='/cat/Tehnologii/'>Технологии</a></div>
+<div class="dmit"><a href='/cat/Torgovlya/'>Торговля</a></div>
+<div class="dmit"><a href='/cat/Turizm/'>Туризм</a></div>
+<div class="dmit"><a href='/cat/Fizika/'>Физика</a></div>
+<div class="dmit"><a href='/cat/Fiziologiya/'>Физиология</a></div>
+<div class="dmit"><a href='/cat/Filosofiya/'>Философия</a></div>
+<div class="dmit"><a href='/cat/Finansy/'>Финансы</a></div>
+<div class="dmit"><a href='/cat/Khimiya/'>Химия</a></div>
+<div class="dmit"><a href='/cat/Khozyaystvo/'>Хозяйство</a></div>
+<div class="dmit"><a href='/cat/Cherchenie/'>Черчение</a></div>
+<div class="dmit"><a href='/cat/Ekologiya/'>Экология</a></div>
+<div class="dmit"><a href='/cat/Ekonometrika/'>Эконометрика</a></div>
+<div class="dmit"><a href='/cat/Ekonomika/'>Экономика</a></div>
+<div class="dmit"><a href='/cat/Elektronika/'>Электроника</a></div>
+<div class="dmit"><a href='/cat/Yurispundenktsiya/'>Юриспунденкция</a></div> 
+
+          </div>
+        </div>
+
+        <div class="link">
+          <a href="#">Предметы</a>
+          <div class="dropdown-menu">
+            <div class="dmit">
+              <a href="/aviadvigatelestroenie.php">Авиадвигателестроения</a>
+            </div>
+            <div class="dmit">
+              <a href="/adminpravo.php">Административное право</a>
+            </div>
+            <div class="dmit">
+              <a href="/adminpravoby.php">Административное право Беларусии</a>
+            </div>
+
+            <div class="dmit">
+              <a href="/algebra.php">Алгебра</a>
+            </div>
+            <div class="dmit">
+              <a href="/arhitektura.php">Архитектура</a>
+            </div>
+            <div class="dmit">
+              <a href="/bg.php">Безопасность жизнедеятельности</a>
+            </div>
+            <div class="dmit">
+              <a href="/psiholog.php">Введение в профессию «психолог»</a>
+            </div>
+            <div class="dmit">
+              <a href="/ekonomkultur.php">Введение в экономику культуры</a>
+            </div>
+
+            <div class="dmit">
+              <a href="/mathematica.php">Высшая математика</a>
+            </div>
+            <div class="dmit">
+              <a href="/geologia.php">Геология</a>
+            </div>
+
+            <div class="dmit">
+              <a href="/geomorfologia.php">Геоморфология</a>
+            </div>
+            <div class="dmit">
+              <a href="/gidroiogia.php">Гидрология и гидрометрии</a>
+            </div>
+
+            <div class="dmit">
+              <a href="/gidrosystem.php">Гидросистемы и гидромашины</a>
+            </div>
+            <div class="dmit">
+              <a href="/istoriyaukr.php">История Украины</a>
+            </div>
+            <div class="dmit">
+              <a href="/culturology.php">Культурология</a>
+            </div>
+            <div class="dmit">
+              <a href="/kulturologia.php">Культурология</a>
+            </div>
+
+            <div class="dmit">
+              <a href="/logica.php">Логика</a>
+            </div>
+
+            <div class="dmit">
+              <a href="/marketing.php">Маркетинг</a>
+            </div>
+            <div class="dmit">
+              <a href="/mashinostroenie.php">Машиностроение</a>
+            </div>
+            <div class="dmit">
+              <a href="/medpsiholog.php">Медицинская психология</a>
+            </div>
+            <div class="dmit">
+              <a href="/menedjment.php">Менеджмент</a>
+            </div>
+            <div class="dmit">
+              <a href="/svarka.php">Металлы и сварка</a>
+            </div>
+            <div class="dmit">
+              <a href="/misi.php"
+                >Методы и средства измерений<br />
+                электрических величин</a
+              >
+            </div>
+            <div class="dmit">
+              <a href="/mirekonomika.php">Мировая экономика</a>
+            </div>
+            <div class="dmit">
+              <a href="/nachertgeometria.php">Начертательная геометрия</a>
+            </div>
+            <div class="dmit">
+              <a href="/osnekteor.php">Основы экономической теории</a>
+            </div>
+            <div class="dmit">
+              <a href="/ohranatruda.php">Охрана труда</a>
+            </div>
+            <div class="dmit">
+              <a href="/pojarnayataktika.php">Пожарная тактика</a>
+            </div>
+
+            <div class="dmit">
+              <a href="/mishleniye.php">Процессы и структуры мышления</a>
+            </div>
+
+            <div class="dmit">
+              <a href="/profpsihologia.php">Профессиональная психология</a>
+            </div>
+            <div class="dmit">
+              <a href="/psihilogiya.php">Психология</a>
+            </div>
+            <div class="dmit">
+              <a href="/psihologmened.php">Психология менеджмента</a>
+            </div>
+
+            <div class="dmit">
+              <a href="/sfpip.php"
+                >Современные фундаментальные и <br />прикладные исследования
+                <br />в приборостроении</a
+              >
+            </div>
+
+            <div class="dmit">
+              <a href="/socialpsihol.php">Социальная психология</a>
+            </div>
+            <div class="dmit">
+              <a href="/socfilosofiaproblem.php"
+                >Социально-философская проблематика</a
+              >
+            </div>
+            <div class="dmit">
+              <a href="/sociologiya.php">Социология</a>
+            </div>
+            <div class="dmit">
+              <a href="/statistic.php">Статистика</a>
+            </div>
+            <div class="dmit">
+              <a href="/informatika.php">Теоретические основы информатики</a>
+            </div>
+            <div class="dmit">
+              <a href="/teoravtoregul.php"
+                >Теория автоматического регулирования</a
+              >
+            </div>
+            <div class="dmit">
+              <a href="/tever.php">Теория вероятности</a>
+            </div>
+            <div class="dmit">
+              <a href="/transpravo.php">Транспортное право</a>
+            </div>
+            <div class="dmit">
+              <a href="/turopetator.php">Туроператор</a>
+            </div>
+            <div class="dmit">
+              <a href="/ugolovnoepravo.php">Уголовное право</a>
+            </div>
+            <div class="dmit">
+              <a href="/ugolovproces.php">Уголовный процесс</a>
+            </div>
+            <div class="dmit">
+              <a href="/upravsovremproiz.php"
+                >Управление современным производством</a
+              >
+            </div>
+
+            <div class="dmit">
+              <a href="/fizika.php">Физика</a>
+            </div>
+            <div class="dmit">
+              <a href="/fopi.php">Физические явления</a>
+            </div>
+            <div class="dmit">
+              <a href="/filosofiya.php">Философия</a>
+            </div>
+            <div class="dmit">
+              <a href="/holodustanov.php">Холодильные установки</a>
+            </div>
+            <div class="dmit">
+              <a href="/ekologiya.php">Экология</a>
+            </div>
+            <div class="dmit">
+              <a href="/ekonomika.php">Экономика</a>
+            </div>
+            <div class="dmit">
+              <a href="/istoriyaekonomiki.php">История экономики</a>
+            </div>
+            <div class="dmit">
+              <a href="/osnoviekonomiki.php">Основы экономики</a>
+            </div>
+            <div class="dmit">
+              <a href="/ekonompred.php">Экономика предприятия</a>
+            </div>
+            <div class="dmit">
+              <a href="/ekonomistor.php">Экономическая история</a>
+            </div>
+            <div class="dmit">
+              <a href="/ekonomteor.php">Экономическая теория</a>
+            </div>
+            <div class="dmit">
+              <a href="/ekonomanaliz.php">Экономический анализ</a>
+            </div>
+            <div class="dmit">
+              <a href="/ekonomika-es.php">Развитие экономики ЕС</a>
+            </div>
+            <div class="dmit">
+              <a href="/factors.php">Чрезвычайные ситуации</a>
+            </div>
+          </div>
+        </div>
+        <div class="link"><a href="/popularnie.php">Популярное</a></div>
+        <div class="link"><a href="/random.php">Случайное</a></div>
+        <div class="link"><a href="/call.php">Контакты</a></div>
+        <div class="link"><a href="/faq.php">FAQ</a></div>
+
+
+
+        <div class="search">
+
+<div class="ya-site-form ya-site-form_inited_no" data-bem="{&quot;action&quot;:&quot;http://studopedia.ru/search.php&quot;,&quot;arrow&quot;:false,&quot;bg&quot;:&quot;transparent&quot;,&quot;fontsize&quot;:14,&quot;fg&quot;:&quot;#000000&quot;,&quot;language&quot;:&quot;ru&quot;,&quot;logo&quot;:&quot;rb&quot;,&quot;publicname&quot;:&quot;Yandex Site Search #2280335&quot;,&quot;suggest&quot;:true,&quot;target&quot;:&quot;_self&quot;,&quot;tld&quot;:&quot;ru&quot;,&quot;type&quot;:3,&quot;usebigdictionary&quot;:true,&quot;searchid&quot;:2280335,&quot;input_fg&quot;:&quot;#333333&quot;,&quot;input_bg&quot;:&quot;#ffffff&quot;,&quot;input_fontStyle&quot;:&quot;normal&quot;,&quot;input_fontWeight&quot;:&quot;normal&quot;,&quot;input_placeholder&quot;:&quot;что вы ищете?&quot;,&quot;input_placeholderColor&quot;:&quot;#333333&quot;,&quot;input_borderColor&quot;:&quot;#7f9db9&quot;}"><form action="https://yandex.ru/search/site/" method="get" target="_self" accept-charset="utf-8"><input type="hidden" name="searchid" value="2280335"/><input type="hidden" name="l10n" value="ru"/><input type="hidden" name="reqenc" value=""/><input type="search" name="text" value=""/><input type="submit" value="Найти"/></form></div><style type="text/css">.ya-page_js_yes .ya-site-form_inited_no { display: none; }</style><script type="text/javascript">(function(w,d,c){var s=d.createElement('script'),h=d.getElementsByTagName('script')[0],e=d.documentElement;if((' '+e.className+' ').indexOf(' ya-page_js_yes ')===-1){e.className+=' ya-page_js_yes';}s.type='text/javascript';s.async=true;s.charset='utf-8';s.src=(d.location.protocol==='https:'?'https:':'http:')+'//site.yandex.net/v2.0/js/all.js';h.parentNode.insertBefore(s,h);(w[c]||(w[c]=[])).push(function(){Ya.Site.Form.init()})})(window,document,'yandex_site_callbacks');</script>
+
+
+
+        </div>
+      </div>
+      <div class="collapse-button">
+        <img src="./static/menu-icon.svg" alt="menu icon" />
+      </div>
+    </nav>
+
+<div class=scrollToTop id=scrollToTop><img src="/images/double_arrow.ddfb77fd5d51d629ac13a8d475018103.svg" alt="double arrow"></div>
+    <div class="content">
+      <div class="intro">
+        <div class="intro-text">
+          <span class="intro-text-header">
+            Студопедия
+          </span>
+          <br />
+          - это общедоступная информация для студентов разных предметных
+          областей. Здесь собрана уникальная и очень полезная информация для
+          студентов.
+        </div>
+      </div>
+      <div class="section mt-80">
+        <img
+          src="./static/globe_bg.svg"
+          alt="globe background image"
+          class="section-globe-bg"
+        />
+        <img
+          src="./static/globe_bg.svg"
+          alt="globe background image"
+          class="section-globe-bg-scaled"
+        />
+        <div class="section-inner-wrapper mx-width-1330 overview-responsive">
+          <div class="overview-column">
+            <div class="overview-img">
+              <img src="./static/content1.svg" alt="" />
+            </div>
+            <div class="overview-description">
+              <div class="overview-column-header">
+                Полезная информация
+              </div>
+              <div>
+                Для Вас собрана уникальная и очень полезная информация из разных дисциплин и предметов. Она поможет Вам для обучения и написания ваших работ.
+              </div>
+            </div>
+          </div>
+          <div class="overview-column">
+            <div class="overview-img">
+              <img src="./static/invoice1.svg" alt="" />
+            </div>
+            <div class="overview-description">
+              <div class="overview-column-header">
+                Популярный сайт
+              </div>
+              <div>
+               Студопедия является одним из самых популярных обучающих сайтов среди студентов и школьников. Благодарим каждого, кто выбрал наш сайт.  </div>
+            </div>
+          </div>
+          <div class="overview-column">
+            <div class="overview-img">
+              <img src="./static/insurance.svg" alt="" />
+            </div>
+            <div class="overview-description">
+              <div class="overview-column-header">
+                Кибербезопасность
+              </div>
+              Мы понимаем, что самое важное для пользователя Интернета - это безопасность соединения, поэтому мы регулярно проверяем сайт на наличие вирусов и перешли на безопасное https соединение.
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="popular-section mt-120 highlight-bg">
+        <div class="section-inner-wrapper column">
+          <div class="section-header text-align-center w-100">
+            Студенты читают
+          </div>
+          <div class="cards-section">
+            <!-- <div class="column"> -->
+
+            <div class="card">
+              <a href="../2_129939_sostav-znachenie-osobennosti-zapadno-sibirskogo-ekonomicheskogo-rayona.html"><img src="/imagesArt/3.jpg" alt="card image" /></a>
+              <div class="card-text">
+                
+                <a href="../2_129939_sostav-znachenie-osobennosti-zapadno-sibirskogo-ekonomicheskogo-rayona.html">
+                  Состав, значение, особенности Западно-Сибирского экономического района
+                </a>
+              </div>
+              <div class="card-footer">
+                <div class="card-date">
+                  <img src="./static/clock.svg" alt="date image" />
+                  <span>
+                    2014-02-05
+                  </span>
+                </div>
+                <div class="card-views">
+                  <img src="./static/eye.svg" alt="views image" />
+                  28 449
+                </div>
+              </div>
+            </div>            <div class="card">
+              <a href="../19_277077_test-po-konfliktologii--voprosov-s-otvetami.html"><img src="/imagesArt/4.jpg" alt="card image" /></a>
+              <div class="card-text">
+                
+                <a href="../19_277077_test-po-konfliktologii--voprosov-s-otvetami.html">
+                  Тест по конфликтологии, 80 вопросов с ответами
+                </a>
+              </div>
+              <div class="card-footer">
+                <div class="card-date">
+                  <img src="./static/clock.svg" alt="date image" />
+                  <span>
+                    2017-12-14
+                  </span>
+                </div>
+                <div class="card-views">
+                  <img src="./static/eye.svg" alt="views image" />
+                  33 249
+                </div>
+              </div>
+            </div>            <div class="card">
+              <a href="../8_35052_revolyutsiya----gg-v-rossii-prichini-sobitiya-rezultati-posledstviya.html"><img src="/imagesArt/5.jpg" alt="card image" /></a>
+              <div class="card-text">
+                
+                <a href="../8_35052_revolyutsiya----gg-v-rossii-prichini-sobitiya-rezultati-posledstviya.html">
+                  Революция 1905 – 1907 гг. в России: причины, события, результаты, последствия
+                </a>
+              </div>
+              <div class="card-footer">
+                <div class="card-date">
+                  <img src="./static/clock.svg" alt="date image" />
+                  <span>
+                    2015-04-20
+                  </span>
+                </div>
+                <div class="card-views">
+                  <img src="./static/eye.svg" alt="views image" />
+                 138 719
+                </div>
+              </div>
+            </div>            <div class="card">
+              <a href="../8_32386_osvobozhdenie-pravoberezhnoy-ukraini-i-krima.html"><img src="/imagesArt/6.jpg" alt="card image" /></a>
+              <div class="card-text">
+                
+                <a href="../8_32386_osvobozhdenie-pravoberezhnoy-ukraini-i-krima.html">
+                 Освобождение правобережной Украины и Крыма
+                </a>
+              </div>
+              <div class="card-footer">
+                <div class="card-date">
+                  <img src="./static/clock.svg" alt="date image" />
+                  <span>
+                    2015-04-20
+                  </span>
+                </div>
+                <div class="card-views">
+                  <img src="./static/eye.svg" alt="views image" />
+                  4352
+                </div>
+              </div>
+            </div>            <div class="card">
+              <a href="../19_398564_perevedite-retsept-s-russkogo-yazika-na-latinskiy.html"><img src="/imagesArt/7.jpg" alt="card image" /></a>
+              <div class="card-text">
+                
+                <a href="../19_398564_perevedite-retsept-s-russkogo-yazika-na-latinskiy.html">
+                 Переведите рецепт с русского языка на латинский
+                </a>
+              </div>
+              <div class="card-footer">
+                <div class="card-date">
+                  <img src="./static/clock.svg" alt="date image" />
+                  <span>
+                    2018-01-21
+                  </span>
+                </div>
+                <div class="card-views">
+                  <img src="./static/eye.svg" alt="views image" />
+                  64 387
+                </div>
+              </div>
+            </div>            <div class="card">
+              <a href="../9_214083_administrativnoe-pravonarushenie-ponyatie-priznaki-sostav.html"><img src="/imagesArt/8.jpg" alt="card image" /></a>
+              <div class="card-text">
+                
+                <a href="../9_214083_administrativnoe-pravonarushenie-ponyatie-priznaki-sostav.html">
+                 Административное правонарушение: понятие, признаки, состав
+                </a>
+              </div>
+              <div class="card-footer">
+                <div class="card-date">
+                  <img src="./static/clock.svg" alt="date image" />
+                  <span>
+                    2015-05-20
+                  </span>
+                </div>
+                <div class="card-views">
+                  <img src="./static/eye.svg" alt="views image" />
+                  55 958
+                </div>
+              </div>
+            </div>
+
+
+          
+         
+
+          <!-- <div class="column"> END -->
+          </div>
+        </div>
+      </div>
+
+      <!--  <div class="price-block">
+      <div class="price-block-image">
+        <img src="./static/pencil-boy-sm.png" alt="pencil-boy image" />
+      </div>
+      <div class="price-block-header">
+        Думаешь где
+        <span class="price-block-header-emphasize">заказать</span>
+        работу?
+        <br />
+        Узнай у нас цену!
+      </div>
+      <div class="price-block-controls">
+        <input class="price-block-input" placeholder="Email" />
+        <button class="price-block-button" type="button">Узнать цену</button>
+      </div>
+    </div> -->
+
+      <div class="popular-section mt-120">
+        <div class="section-inner-wrapper column">
+          <div class="section-header text-align-center w-100">
+            Популярное
+          </div>
+          <div class="cards-section">
+           <!-- вывод статей Популярное -->
+
+
+           
+ <div class="card">
+              <a href="../18_54575_gazoopasnie-raboti-vidi-gazoopasnih-rabot-meri-bezopasnosti-pri-provedenii-gazoopasnih-rabot.html"><img src="/imagesArt/9.jpg" alt="card image" /></a>
+              <div class="card-text">
+                
+                <a href="../18_54575_gazoopasnie-raboti-vidi-gazoopasnih-rabot-meri-bezopasnosti-pri-provedenii-gazoopasnih-rabot.html">
+                 Газоопасные работы. Виды газоопасных работ. Меры безопасности при проведении газоопасных работ
+                </a>
+              </div>
+              <div class="card-footer">
+                <div class="card-date">
+                  <img src="./static/clock.svg" alt="date image" />
+                  <span>
+                   2015-10-22
+                  </span>
+                </div>
+                <div class="card-views">
+                  <img src="./static/eye.svg" alt="views image" />
+                  40 573
+                </div>
+              </div>
+            </div>    <div class="card">
+              <a href="../18_31471_osnovnie-i-oborotnie-sredstva-predpriyatiy.html"><img src="/imagesArt/10.jpg" alt="card image" /></a>
+              <div class="card-text">
+                
+                <a href="../18_31471_osnovnie-i-oborotnie-sredstva-predpriyatiy.html">
+                  Основные и оборотные средства предприятий
+                </a>
+              </div>
+              <div class="card-footer">
+                <div class="card-date">
+                  <img src="./static/clock.svg" alt="date image" />
+                  <span>
+                    2015-10-22
+                  </span>
+                </div>
+                <div class="card-views">
+                  <img src="./static/eye.svg" alt="views image" />
+                  48 824
+                </div>
+              </div>
+            </div>    <div class="card">
+              <a href="../3_72541_vidi-uprazhneniy-v-legkoy-atletike.html"><img src="/imagesArt/11.jpg" alt="card image" /></a>
+              <div class="card-text">
+                
+                <a href="../3_72541_vidi-uprazhneniy-v-legkoy-atletike.html">
+                  Виды упражнений в лёгкой атлетике
+                </a>
+              </div>
+              <div class="card-footer">
+                <div class="card-date">
+                  <img src="./static/clock.svg" alt="date image" />
+                  <span>
+                    2014-02-12
+                  </span>
+                </div>
+                <div class="card-views">
+                  <img src="./static/eye.svg" alt="views image" />
+                  18 424
+                </div>
+              </div>
+            </div>    <div class="card">
+              <a href="../10_307092_obshchaya-harakteristika-russkoy-literaturi-XIX-veka.html"><img src="/imagesArt/14.jpg" alt="card image" /></a>
+              <div class="card-text">
+                
+                <a href="../10_307092_obshchaya-harakteristika-russkoy-literaturi-XIX-veka.html">
+                 Общая характеристика русской литературы XIX века
+                </a>
+              </div>
+              <div class="card-footer">
+                <div class="card-date">
+                  <img src="./static/clock.svg" alt="date image" />
+                  <span>
+                    2015-05-30
+                  </span>
+                </div>
+                <div class="card-views">
+                  <img src="./static/eye.svg" alt="views image" />
+                  48 117
+                </div>
+              </div>
+            </div>    <div class="card">
+              <a href="../9_102847_raschet-stoimosti-tura-i-dohoda-ot-ego-realizatsii.html"><img src="/imagesArt/13.jpg" alt="card image" /></a>
+              <div class="card-text">
+                
+                <a href="../9_102847_raschet-stoimosti-tura-i-dohoda-ot-ego-realizatsii.html">
+                  Расчет себестоимости турпродукта
+                </a>
+              </div>
+              <div class="card-footer">
+                <div class="card-date">
+                  <img src="./static/clock.svg" alt="date image" />
+                  <span>
+                    2015-05-14
+                  </span>
+                </div>
+                <div class="card-views">
+                  <img src="./static/eye.svg" alt="views image" />
+                  40 227
+                </div>
+              </div>
+            </div>    <div class="card">
+              <a href="../11_42358_fizicheskie-kachestva-voleybolistov.html"><img src="/imagesArt/12.jpg" alt="card image" /></a>
+              <div class="card-text">
+                
+                <a href="../11_42358_fizicheskie-kachestva-voleybolistov.html">
+                  Физические качества волейболистов
+                </a>
+              </div>
+              <div class="card-footer">
+                <div class="card-date">
+                  <img src="./static/clock.svg" alt="date image" />
+                  <span>
+                    2015-06-04
+                  </span>
+                </div>
+                <div class="card-views">
+                  <img src="./static/eye.svg" alt="views image" />
+                  16 657
+                </div>
+              </div>
+            </div>   
+			
+			
+			
+			
+           <!-- Конец вывода статей Популярное -->
+          </div>
+        </div>
+      </div>
+
+
+
+
+
+
+
+
+
+      <div class="popular-section mt-120 highlight-bg">
+        <div class="section-inner-wrapper column">
+          <div class="section-header text-align-center w-100">
+            Новые публикации:
+          </div>
+          <div class="cards-section">
+            <!-- <div class="column"> -->
+
+
+<div class="article-info-preview"><div class="article-header"> <a href="../22_63242_razdel-nasledstva-vvedenie.html">Раздел наследства. ВВЕДЕНИЕ</a></div>
+</div>
+<div class="article-info-preview"><div class="article-header"> <a href="../22_63243_ponyatie-i-sushchnost-razdela-nasledstva.html">Понятие и сущность раздела наследства</a></div>
+</div>
+<div class="article-info-preview"><div class="article-header"> <a href="../22_63244_soglashenie-o-razdele-nasledstva.html">Соглашение о разделе наследства</a></div>
+</div>
+<div class="article-info-preview"><div class="article-header"> <a href="../22_63245_razdel-nasledstva-pri-nasledovanii-po-zakonu.html">Раздел наследства при наследовании по закону</a></div>
+</div>
+<div class="article-info-preview"><div class="article-header"> <a href="../22_63246_ohrana-interesov-nesovershennoletnih-naslednikov.html">Охрана интересов несовершеннолетних наследников</a></div>
+</div>
+<div class="article-info-preview"><div class="article-header"> <a href="../22_63235_nesostoyatelnost-bankrotstvo-fizicheskih-lits-v-dorevolyutsionnoy-rossii.html">Несостоятельность (банкротство) физических лиц в дореволюционной России</a></div>
+</div>
+<div class="article-info-preview"><div class="article-header"> <a href="../22_63236_nesostoyatelnost-bankrotstvo-fizicheskih-lits-v-sovetskoy-rossii.html">Несостоятельность (банкротство) физических лиц в советской России</a></div>
+</div>
+<div class="article-info-preview"><div class="article-header"> <a href="../22_63237_nesostoyatelnost-bankrotstvo-fizicheskih-lits-v-sovremennoy-rossii.html">Несостоятельность (банкротство) физических лиц в современной России</a></div>
+</div>
+<div class="article-info-preview"><div class="article-header"> <a href="../22_63238_ponyatie-nesostoyatelnosti-i-bankrotstva-fizicheskih-lits.html">Понятие несостоятельности и банкротства физических лиц</a></div>
+</div>
+<div class="article-info-preview"><div class="article-header"> <a href="../22_63239_priznaki-nesostoyatelnosti-i-bankrotstva-fizicheskih-lits-i-osnovaniya-ih-vozniknoveniya.html">Признаки несостоятельности и банкротства физических лиц и основания их возникновения</a></div>
+</div>
+
+<div class="article-info-preview"><div class="article-header"> <a href="../22_63240_protseduri-primenyaemie-v-dele-o-bankrotstve-grazhdanina.html">Процедуры, применяемые в деле о банкротстве гражданина</a></div>
+</div>
+<div class="article-info-preview"><div class="article-header"> <a href="../22_63241_posledstviya-priznaniya-fizicheskih-lits-bankrotami.html">Последствия признания физических лиц банкротами</a></div>
+</div>
+
+          <!-- <div class="column"> END -->
+          </div>
+        </div>
+      </div>
+
+
+
+
+
+
+
+      <div class="spopular-section mt-120 highlight-bg">
+        <div class="section-inner-wrapper column">
+          <div class="section-header text-align-center w-100">
+            Лучшие изречения 😉
+          </div>
+
+          <div class="best-words">
+
+		  
+		             
+<div class="best-words-inner-wrapper">Сдача сессии и защита диплома - страшная бессонница, которая потом кажется страшным сном. <div class="best-words-controls-wrapper">
+                <div class="best-words-control">
+                  <span class="best-words-controls-like">
+                    <img src="./static/social/like.svg" alt="like icon" />
+                  </span>10462</div>
+                <div class="best-words-control">
+                  <span class="best-words-controls-dislike">
+                    <img src="./static/social/dislike.svg" alt="like icon" />
+                  </span>8556</div>
+              </div>
+            </div><div class="best-words-inner-wrapper">Студент - человек, постоянно откладывающий неизбежность...<div class="best-words-controls-wrapper">
+                <div class="best-words-control">
+                  <span class="best-words-controls-like">
+                    <img src="./static/social/like.svg" alt="like icon" />
+                  </span>12616</div>
+                <div class="best-words-control">
+                  <span class="best-words-controls-dislike">
+                    <img src="./static/social/dislike.svg" alt="like icon" />
+                  </span>8585</div>
+              </div>
+            </div><div class="best-words-inner-wrapper">Только сон приблежает студента к концу лекции. А чужой храп его отдаляет.<div class="best-words-controls-wrapper">
+                <div class="best-words-control">
+                  <span class="best-words-controls-like">
+                    <img src="./static/social/like.svg" alt="like icon" />
+                  </span>10494</div>
+                <div class="best-words-control">
+                  <span class="best-words-controls-dislike">
+                    <img src="./static/social/dislike.svg" alt="like icon" />
+                  </span>8826</div>
+              </div>
+            </div>
+<div class="best-words-inner-wrapper">Хотите прочитать еще лучшие изречения студентов? Тогда вам сюда: <a href="/words/">читать далее...</a>
+</div>
+            </div>
+          
+          </div>
+        </div>
+      </div>
+    </div>
+ 
+<div class=footer>
+<div class=footer-logo>
+<a href=https://studopedia.ru/ ><img src=images/white-logo.5051c226902c064f3556204a8f404c54.svg alt="footer logo image"></a></div>
+<div class=footer-like-block><div>Понравился сайт? Поделись им<br>с друзьями:</div>
+<div class=icons><img src=images/white-fb.87e771fee9c555fa78687ec0f06813f5.svg alt="facebook icon"> 
+<img src=images/white-vk.080e5c0ec0ffc86c18d89755676e4e87.svg alt="vkontakte icon"> 
+<img src=images/white-twitter.0793d79e4e2f5ae2adc568d5f2fec4ea.svg alt="twitter icon"> <img src=images/white-odnoklas.f55b592af685b453e79227a7346ae48c.svg alt="odnoklasniki icon"></div>
+</div>
+</div>
+<script src="/main.d14c5829fa48364fb8c4.js"></script>
+  </body>
+</html>

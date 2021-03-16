@@ -1,0 +1,1140 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" 
+      xmlns:fb="http://ogp.me/ns/fb#" 
+      xmlns:og="http://ogp.me/ns#" lang="uk">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<link rel="shortcut icon" href="https://nus.org.ua/wp-content/themes/nusch/assets/img/favicon.ico">
+	<title>Нова українська школа | Веб-ресурс НУШ</title>
+	<!--Open Graph Facebook-->
+	  
+	<!-- если это статья -->  
+	  
+	<meta property="og:site_name" content="Нова українська школа" />  
+	<meta property="og:description" content="Веб-ресурс НУШ" />  
+	<meta property="og:type" content="website" />  
+			<script type="text/javascript">function theChampLoadEvent(e){var t=window.onload;if(typeof window.onload!="function"){window.onload=e}else{window.onload=function(){t();e()}}}</script>
+		<script type="text/javascript">var theChampDefaultLang = 'uk', theChampCloseIconPath = 'https://nus.org.ua/wp-content/plugins/super-socializer/images/close.png';</script>
+		<script> var theChampSiteUrl = 'https://nus.org.ua', theChampVerified = 0, theChampEmailPopup = 0; </script>
+			<script> var theChampFBKey = '', theChampFBLang = 'uk', theChampFbLikeMycred = 0, theChampSsga = 0, theChampCommentNotification = 0, theChampHeateorFcmRecentComments = 0, theChampFbIosLogin = 0; </script>
+						<script type="text/javascript">var theChampFBCommentUrl = 'https://nus.org.ua/news/na-posadi-ponovyly-zaviduvachku-dytsadka-yaka-zvilnyla-vyhovatelku-za-foto-v-kupalnyku/'; var theChampFBCommentColor = ''; var theChampFBCommentNumPosts = ''; var theChampFBCommentWidth = '100%'; var theChampFBCommentOrderby = ''; var theChampCommentingTabs = "wordpress,facebook,disqus", theChampGpCommentsUrl = 'https://nus.org.ua/news/na-posadi-ponovyly-zaviduvachku-dytsadka-yaka-zvilnyla-vyhovatelku-za-foto-v-kupalnyku/', theChampDisqusShortname = '', theChampScEnabledTabs = 'wordpress,fb', theChampScLabel = 'Leave a reply', theChampScTabLabels = {"wordpress":"Default Comments (0)","fb":"Facebook Comments","disqus":"Disqus Comments"}, theChampGpCommentsWidth = 0, theChampCommentingId = 'respond'</script>
+						<script> var theChampSharingAjaxUrl = 'https://nus.org.ua/wp-admin/admin-ajax.php', heateorSsFbMessengerAPI = 'https://www.facebook.com/dialog/send?app_id=595489497242932&display=popup&link=%encoded_post_url%&redirect_uri=%encoded_post_url%',heateorSsWhatsappShareAPI = 'web', heateorSsUrlCountFetched = [], heateorSsSharesText = 'Поширили:', heateorSsShareText = 'Поділитися', theChampPluginIconPath = 'https://nus.org.ua/wp-content/plugins/super-socializer/images/logo.png', theChampHorizontalSharingCountEnable = 1, theChampVerticalSharingCountEnable = 0, theChampSharingOffset = -10, theChampCounterOffset = -10, theChampMobileStickySharingEnabled = 0, heateorSsCopyLinkMessage = "Link copied.";
+		var heateorSsVerticalSharingShortUrl = "https://nus.org.ua/news/na-posadi-ponovyly-zaviduvachku-dytsadka-yaka-zvilnyla-vyhovatelku-za-foto-v-kupalnyku/";		</script>
+			<style type="text/css">.the_champ_horizontal_sharing .theChampSharing{
+					color: #fff;
+				border-width: 0px;
+		border-style: solid;
+		border-color: transparent;
+	}
+		.the_champ_horizontal_sharing .theChampTCBackground{
+		color:#666;
+	}
+		.the_champ_horizontal_sharing .theChampSharing:hover{
+				border-color: transparent;
+	}
+	.the_champ_vertical_sharing .theChampSharing{
+					color: #fff;
+				border-width: 0px;
+		border-style: solid;
+		border-color: transparent;
+	}
+		.the_champ_vertical_sharing .theChampTCBackground{
+		color:#666;
+	}
+		.the_champ_vertical_sharing .theChampSharing:hover{
+				border-color: transparent;
+	}
+				div.the_champ_horizontal_sharing .the_champ_square_count{float:right;margin:0 8px;line-height:60px;}
+			@media screen and (max-width:783px){.the_champ_vertical_sharing{display:none!important}}</style>
+	
+<!-- All In One SEO Pack 3.7.1[405,420] -->
+<meta name="description"  content="ГС &quot;Освіторія&quot; запрошує батьків та освітян взяти участь у вебінарі &quot;Нейроосвіта для педагогів: готовність до школи&quot;." />
+<link rel="next" href="https://nus.org.ua/page/2/" />
+
+<script type="application/ld+json" class="aioseop-schema">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://nus.org.ua/#organization","url":"https://nus.org.ua/","name":"Нова українська школа","sameAs":[]},{"@type":"WebSite","@id":"https://nus.org.ua/#website","url":"https://nus.org.ua/","name":"Нова українська школа","publisher":{"@id":"https://nus.org.ua/#organization"},"potentialAction":{"@type":"SearchAction","target":"https://nus.org.ua/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"WebPage","@id":"https://nus.org.ua#webpage","url":"https://nus.org.ua","inLanguage":"uk","name":"Нова українська школа","isPartOf":{"@id":"https://nus.org.ua/#website"},"breadcrumb":{"@id":"https://nus.org.ua#breadcrumblist"},"description":"Веб-ресурс НУШ","about":{"@id":"https://nus.org.ua/#organization"}},{"@type":"BreadcrumbList","@id":"https://nus.org.ua#breadcrumblist","itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"WebPage","@id":"https://nus.org.ua/","url":"https://nus.org.ua/","name":"Нова українська школа"}}]}]}</script>
+<link rel="canonical" href="https://nus.org.ua/" />
+<!-- All In One SEO Pack -->
+<link rel='dns-prefetch' href='//s.w.org' />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/nus.org.ua\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.5.1"}};
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://nus.org.ua/wp-includes/css/dist/block-library/style.min.css?ver=5.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='qlik-sense-custom-style-css'  href='https://nus.org.ua/wp-content/plugins/qlik-sense//index.css?ver=5.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wpemfb-lightbox-css'  href='https://nus.org.ua/wp-content/plugins/wp-embed-facebook/templates/lightbox/css/lightbox.css?ver=3.0.10' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-polls-css'  href='https://nus.org.ua/wp-content/plugins/wp-polls/polls-css.css?ver=2.75.5' type='text/css' media='all' />
+<style id='wp-polls-inline-css' type='text/css'>
+.wp-polls .pollbar {
+	margin: 1px;
+	font-size: 6px;
+	line-height: 8px;
+	height: 8px;
+	background: #d8e1eb;
+	border: 1px solid #c8c8c8;
+}
+
+</style>
+<link rel='stylesheet' id='dlm-frontend-css'  href='https://nus.org.ua/wp-content/plugins/download-monitor/assets/css/frontend.css?ver=5.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='av_news_inside-css'  href='https://nus.org.ua/wp-content/themes/nusch/assets/css/news_inside.css?ver=5.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='av_datepicker-css'  href='https://nus.org.ua/wp-content/themes/nusch/assets/libs/datepicker/datepicker.min.css?ver=5.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='av_affiche-css'  href='https://nus.org.ua/wp-content/themes/nusch/assets/css/affiche.css?ver=5.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='av_reset-css'  href='https://nus.org.ua/wp-content/themes/nusch/assets/css/reset.css?ver=5.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='av_main-css'  href='https://nus.org.ua/wp-content/themes/nusch/assets/css/main.css?ver=5.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='article-one-css'  href='https://nus.org.ua/wp-content/themes/nusch/assets/css/page.css?ver=5.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='av_slick-css'  href='https://nus.org.ua/wp-content/themes/nusch/assets/libs/slick/slick.css?ver=5.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='av_polyfill-css'  href='https://nus.org.ua/wp-content/themes/nusch/assets/libs/polyfill-object-fit/polyfill.object-fit.min.css?ver=5.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='av_scroll-css'  href='https://nus.org.ua/wp-content/themes/nusch/assets/libs/scroll/jquery.mCustomScrollbar.css?ver=5.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-grid-css'  href='https://nus.org.ua/wp-content/themes/nusch/assets/libs/bootstrap-grid/hexa-bootstrap-grid-3.3.1.min.css?ver=5.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='custom-style-css'  href='https://nus.org.ua/wp-content/themes/nusch/assets/css/custom.css?ver=4.10' type='text/css' media='all' />
+<link rel='stylesheet' id='the_champ_frontend_css-css'  href='https://nus.org.ua/wp-content/plugins/super-socializer/css/front.css?ver=7.13' type='text/css' media='all' />
+<link rel='stylesheet' id='the_champ_sharing_default_svg-css'  href='https://nus.org.ua/wp-content/plugins/super-socializer/css/share-svg.css?ver=7.13' type='text/css' media='all' />
+<script type='text/javascript' src='https://nus.org.ua/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://nus.org.ua/wp-content/plugins/wp-embed-facebook/templates/lightbox/js/lightbox.min.js?ver=3.0.10' id='wpemfb-lightbox-js'></script>
+<script type='text/javascript' id='wpemfb-fbjs-js-extra'>
+/* <![CDATA[ */
+var WEF = {"local":"en_US","version":"v6.0","fb_id":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://nus.org.ua/wp-content/plugins/wp-embed-facebook/inc/js/fb.min.js?ver=3.0.10' id='wpemfb-fbjs-js'></script>
+<link rel="https://api.w.org/" href="https://nus.org.ua/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://nus.org.ua/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://nus.org.ua/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.5.1" />
+</head>
+<script>
+	//jQuery( document ).ready(function( $ ) {
+		//jQuery('.theChampTwitterSvg').text('0');
+		//jQuery('.theChampGoogleplusSvg').text('0');
+	//});
+</script>
+<body>
+<style type="text/css">
+@media (max-width: 1199px){
+	.s_header .footer_social, .s_header .footer_social img{
+		width: 20px;
+		height: 20px;
+		flex-basis: 20px;
+	}
+	.s_header .footer_social{
+		margin-right: 0.5rem;
+	}
+	.s_header-bottom-header_close {
+	    display: -webkit-box;
+	    display: -moz-box;
+	    display: -ms-flexbox;
+	    display: flex;
+	    -webkit-box-flex: 0;
+	    -moz-box-flex: 0;
+	    -ms-flex: 0 0 50px;
+	    flex: 0 0 50px;
+	}	
+}
+/* GotoTop */
+#GotoTop {
+    /*border:1px solid #cb1616;*/
+    /*border-radius: 5px;*/
+    /*background-color: #c4df5b;*/
+    background: url(https://nus.org.ua/wp-content/themes/nusch/assets/img/arrow_copy1.png) no-repeat center center;
+    text-align:center;
+    padding:30px;
+    position:fixed;
+    bottom:20px;
+    right:20px;
+    cursor:pointer;
+    display:none;
+    color:#000;
+    font-size:14px;
+    font-weight: 700;
+    /*opacity: 0.9;*/
+
+}
+#GotoTop:hover{
+    /*background-color: #e1f68e;*/
+}
+
+</style>
+
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/uk_UA/sdk.js#xfbml=1&version=v4.0&appId=606802719672190&autoLogAppEvents=1"></script>
+
+<!--LiveInternet counter--><script type="text/javascript">
+new Image().src = "//counter.yadro.ru/hit?r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random();</script><!--/LiveInternet-->
+
+<div class="wrapp">
+	<header class="s_header">
+		<div class="s_header-top fw">
+			<div class="container">
+				<div class="s_header-top_wrapper fw">
+					<button class="s_header-top_all fw">
+						<div class="s_header-top_burger">
+							<div class="line"></div>
+							<div class="line"></div>
+							<div class="line"></div>
+						</div>
+						Всі теми
+					</button>
+					<button class="s_header-top_projects fw">
+						<div class="s_header-top_burger">
+							<div class="line"></div>
+							<div class="line"></div>
+							<div class="line"></div>
+						</div>
+						Всі спецпроєкти
+					</button>
+					<button class="">
+						<div class="s_header-top_menu fw">
+							<div class="s_header-top_burger">
+								<div class="line"></div>
+								<div class="line"></div>
+								<div class="line"></div>
+							</div>
+							Меню
+						</div>
+					</button>
+					<div class="s_header-top-tags">
+                        <ul id="top_menu" class="s_header-top-tags_list fw top-line"><li id="menu-item-3946" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3946"><a href="https://nus.org.ua/covid19/">УРОКИ COVID-19</a></li>
+<li id="menu-item-3947" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3947"><a href="https://nus.org.ua/tags/411/">#НАВЧАННЯ ДОБРОЧЕСНОСТІ</a></li>
+</ul>					</div>
+										<div class="fw">
+                        <a target="_blank" class="footer_social" href="https://www.facebook.com/nus.org.ua/"><img src="https://nus.org.ua/wp-content/themes/nusch/assets/img/fb.png"></a>
+                        <a target="_blank" class="footer_social" href="https://invite.viber.com/?g2=AQA2XPnE%2F%2BJMJUn4Gsg%2FsaWfkLV91gZn0mu3CfsNC1SMbDBYdmGsUqEUvQ23%2Br03"><img src="https://nus.org.ua/wp-content/themes/nusch/assets/img/vi.png"></a>
+                        <a target="_blank" class="footer_social" href="https://t.me/vchyshchoho"><img src="https://nus.org.ua/wp-content/themes/nusch/assets/img/te.png"></a>
+                        <a target="_blank" class="footer_social" href="https://www.youtube.com/channel/UCBJohlinaztSDbhUmtFjE5g"><img src="https://nus.org.ua/wp-content/themes/nusch/assets/img/yo.png"></a>
+					</div>
+					<a href="#" class="btn_write s_header-write">Напишіть нам</a>
+				</div>
+			</div>
+		</div>
+		<div class="s_header-middle" style="background-size: auto;">
+			<div class="container">
+				<div class="s_header-middle_wrapper fw">
+
+																<a class="s_header-logo-wrapper2 logo-wrapper" href="/" style="padding: 0;">
+							<img class="logo-img" src="https://nus.org.ua/wp-content/uploads/2017/06/nus_logo.png" alt="" style="max-width: inherit;width: auto;">
+						</a>
+																
+					<advanced-search ref="form" :option-key='1' :whatever=[["batkam","\u0411\u0430\u0442\u044c\u043a\u0430\u043c"],["techers","\u0412\u0447\u0438\u0442\u0435\u043b\u044f\u043c"],["derectors","\u0414\u0438\u0440\u0435\u043a\u0442\u043e\u0440\u0430\u043c"],["students","\u0423\u0447\u043d\u044f\u043c"]]></advanced-search>
+						<a class="s_header-logo-wrapper2 logo-wrapper" target="_blank" href="http://smart-osvita.org" style="padding: 0;">
+							<img class="logo-img" src="https://nus.org.ua/wp-content/themes/nusch/assets/img/smart_trans.png" alt="" style="max-width: inherit;width: auto;">
+						</a>
+
+				</div>
+			</div>
+		</div>
+		<div class="s_header-bottom">
+			<div class="s_header-bottom-header">
+				<div class="s_header-bottom-tags_close s_header-bottom-header_close">
+					<svg
+						width="18px" height="17px">
+						<path fill-rule="evenodd"  fill="rgb(255, 255, 255)"
+							  d="M2.945,0.368 L17.087,14.510 L14.966,16.631 L0.823,2.489 L2.945,0.368 Z"/>
+						<path fill-rule="evenodd"  fill="rgb(255, 255, 255)"
+							  d="M0.823,14.510 L14.966,0.368 L17.087,2.489 L2.945,16.631 L0.823,14.510 Z"/>
+					</svg>
+				</div>
+
+				<advanced-search ref="form" :option-key='2' :whatever=[["batkam","\u0411\u0430\u0442\u044c\u043a\u0430\u043c"],["techers","\u0412\u0447\u0438\u0442\u0435\u043b\u044f\u043c"],["derectors","\u0414\u0438\u0440\u0435\u043a\u0442\u043e\u0440\u0430\u043c"],["students","\u0423\u0447\u043d\u044f\u043c"]]></advanced-search>
+
+			</div>
+			<div class="s_header-nav-wrapper">
+
+				<nav class="s_header-nav">
+					<div class="container">
+						<ul class="s_header-nav_list fw"><li id="menu-item-55" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-55"><a href="https://nus.org.ua/news/">НОВИНИ</a></li>
+<li id="menu-item-54" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-54"><a href="https://nus.org.ua/articles/">СТАТТІ</a></li>
+<li id="menu-item-222" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-222"><a href="https://nus.org.ua/affiche/">АФІША</a></li>
+<li id="menu-item-233" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-233"><a href="https://nus.org.ua/questions/">Є ПИТАННЯ</a></li>
+<li id="menu-item-235" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-235"><a href="https://nus.org.ua/view/">ПОГЛЯД</a></li>
+<li id="menu-item-43366" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-43366"><a href="https://nus.org.ua/posibnyk-zhyvi-pysmennyky-batkam/">Живі письменники</a></li>
+<li id="menu-item-16818" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16818"><a href="https://nus.org.ua/tags/129">ІНКЛЮЗІЯ</a></li>
+<li id="menu-item-20877" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20877"><a href="https://nus.org.ua/tags/272/">НАВЧАЄМОСЬ РАЗОМ</a></li>
+<li id="menu-item-40963" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-40963"><a href="https://nus.org.ua/what-your-school-buys">Школа і гроші</a></li>
+<li id="menu-item-355" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-355"><a href="https://nus.org.ua/about/">НУШ КОРОТКО</a></li>
+</ul>					</div>
+				</nav>
+
+				<!-- Modal Projects-->
+					<div class="s_header-bottom-projects">
+						<div class="s_header-bottom-underlayer"></div>
+						<div class="container">
+
+							<div class="s_header-bottom-projects_wrapper">
+								<div class="s_header-bottom-projects_header fw">
+									<h4 class="s_header-bottom-projects_title">Всі проєкти</h4>
+										<button class="s_header-bottom-projects_close">
+											<svg
+												width="18px" height="17px">
+												<path fill-rule="evenodd"  fill="rgb(255, 255, 255)"
+													  d="M2.945,0.368 L17.087,14.510 L14.966,16.631 L0.823,2.489 L2.945,0.368 Z"/>
+												<path fill-rule="evenodd"  fill="rgb(255, 255, 255)"
+													  d="M0.823,14.510 L14.966,0.368 L17.087,2.489 L2.945,16.631 L0.823,14.510 Z"/>
+											</svg>
+										</button>
+								</div>
+								<ul id="project_menu" class="s_header-bottom-projetcs_list"><li id="menu-item-39992" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-39992"><a href="https://nus.org.ua/news/posibnyk-dlya-shkil-pro-organizatsiyu-dystantsijnogo-navchannya-otrymav-gryf-mon/">Методичні рекомендації до дистанційного навчання</a></li>
+<li id="menu-item-39999" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-39999"><a href="https://nus.org.ua/covid19/">Уроки COVID-19</a></li>
+<li id="menu-item-39993" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-39993"><a href="https://nus.org.ua/memorandum/">Меморандум співпраці учасників освітнього процесу</a></li>
+<li id="menu-item-39994" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-39994"><a href="https://courses.ed-era.com/courses/course-v1:EDERA-SMARTOSVITA+EC101+EC101/about">Курс “Комунікайції для освітніх управлінців”</a></li>
+<li id="menu-item-40000" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-40000"><a href="https://nus.org.ua/articles/posibnyk-efektyvni-komunikatsiyi-dlya-osvitnih-upravlintsiv/">Посібник із комунікацій для освітніх управлінців</a></li>
+<li id="menu-item-39995" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-39995"><a href="https://courses.ed-era.com/courses/course-v1:EdEra-SmartOsvita+Inc+1/about">Онлайн-курс з інклюзивного навчання</a></li>
+<li id="menu-item-39996" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-39996"><a href="https://courses.ed-era.com/courses/course-v1:EdEra-SmartOsvita+Par+1/about">Онлайн-курс з інклюзивного навчання для батьків</a></li>
+<li id="menu-item-39997" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-39997"><a href="https://courses.ed-era.com/courses/course-v1:EdEra-SmartOsvita+Med+1/about">Онлайн курс з домедичної допомоги</a></li>
+<li id="menu-item-40001" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-40001"><a href="https://www.facebook.com/watch/152972148596436/433303720903053/">Форум про інклюзивне навчання</a></li>
+<li id="menu-item-39998" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-39998"><a href="https://www.ed-era.com/children-ua/">Наколошкільне дитинознавство зі Світланою Ройз</a></li>
+<li id="menu-item-43369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-43369"><a href="https://nus.org.ua/kalendar-poradnyk/">Календар турботи про себе</a></li>
+<li id="menu-item-43368" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-43368"><a href="https://nus.org.ua/posibnyk-zhyvi-pysmennyky-batkam/">Посібник “Живі письменники. Батькам”</a></li>
+<li id="menu-item-43475" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-43475"><a href="https://nus.org.ua/news/dyvitsya-posibnyk-iz-lajfhakamy-vid-dosvidchenyh-ta-uspishnyh-dyrektoriv-shkil/">Посібник “Директорські лайфхаки. Як долати виклики в школі”</a></li>
+<li id="menu-item-44984" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-44984"><a href="https://nus.org.ua/news/dlya-osvityan-stvoryly-posibnyk-pro-pedagogiku-partnerstva-i-praktyky-dobrochesnosti/">Поібник про педагогіку партнерства й доброчесність у школі</a></li>
+</ul>							</div>
+						</div>
+					</div>
+				<!-- /Modal Projects-->
+				<!-- Modal Tags-->
+					<div class="s_header-bottom-tags">
+						<div class="s_header-bottom-underlayer"></div>
+						<div class="container">
+
+							<div class="s_header-bottom-tags_wrapper">
+								<div class="s_header-bottom-tags_header fw">
+									<h4 class="s_header-bottom-tags_title">Всі теми</h4>
+										<button class="s_header-bottom-tags_close">
+											<svg
+												width="18px" height="17px">
+												<path fill-rule="evenodd"  fill="rgb(255, 255, 255)"
+													  d="M2.945,0.368 L17.087,14.510 L14.966,16.631 L0.823,2.489 L2.945,0.368 Z"/>
+												<path fill-rule="evenodd"  fill="rgb(255, 255, 255)"
+													  d="M0.823,14.510 L14.966,0.368 L17.087,2.489 L2.945,16.631 L0.823,14.510 Z"/>
+											</svg>
+										</button>
+								</div>
+
+								<ul class="s_header-bottom-tags_list">
+																													<li class="s_header-bottom-tags_item"><a class="tag" href="https://nus.org.ua/tags/76" style="color:#c4df5b;">вчителям <span class="s_header-bottom-tags_value">4353</span></a></li>
+																				<li class="s_header-bottom-tags_item"><a class="tag" href="https://nus.org.ua/tags/75" style="color:#c4df5b;">директорам <span class="s_header-bottom-tags_value">4149</span></a></li>
+																				<li class="s_header-bottom-tags_item"><a class="tag" href="https://nus.org.ua/tags/5" style="color:#c4df5b;">батькам <span class="s_header-bottom-tags_value">3271</span></a></li>
+																				<li class="s_header-bottom-tags_item"><a class="tag" href="https://nus.org.ua/tags/77" style="color:#c4df5b;">учням <span class="s_header-bottom-tags_value">1967</span></a></li>
+																				<li class="s_header-bottom-tags_item"><a class="tag" href="https://nus.org.ua/tags/173" style="color:#c4df5b;">НУШ <span class="s_header-bottom-tags_value">1593</span></a></li>
+																				<li class="s_header-bottom-tags_item"><a class="tag" href="https://nus.org.ua/tags/114" >початкова освіта <span class="s_header-bottom-tags_value">580</span></a></li>
+																				<li class="s_header-bottom-tags_item"><a class="tag" href="https://nus.org.ua/tags/129" >інклюзія <span class="s_header-bottom-tags_value">533</span></a></li>
+																				<li class="s_header-bottom-tags_item"><a class="tag" href="https://nus.org.ua/tags/213" >ПрямуємоРазом <span class="s_header-bottom-tags_value">326</span></a></li>
+																				<li class="s_header-bottom-tags_item"><a class="tag" href="https://nus.org.ua/tags/422" >фінансування освіти <span class="s_header-bottom-tags_value">305</span></a></li>
+																				<li class="s_header-bottom-tags_item"><a class="tag" href="https://nus.org.ua/tags/63" >закон про освіту <span class="s_header-bottom-tags_value">252</span></a></li>
+																				<li class="s_header-bottom-tags_item"><a class="tag" href="https://nus.org.ua/tags/95" >ЗНО <span class="s_header-bottom-tags_value">247</span></a></li>
+																				<li class="s_header-bottom-tags_item"><a class="tag" href="https://nus.org.ua/tags/249" >пілотні класи <span class="s_header-bottom-tags_value">244</span></a></li>
+																				<li class="s_header-bottom-tags_item"><a class="tag" href="https://nus.org.ua/tags/383" >дистанційна освіта <span class="s_header-bottom-tags_value">232</span></a></li>
+																				<li class="s_header-bottom-tags_item"><a class="tag" href="https://nus.org.ua/tags/272" >навчаємось разом <span class="s_header-bottom-tags_value">222</span></a></li>
+																				<li class="s_header-bottom-tags_item"><a class="tag" href="https://nus.org.ua/tags/112" >інтегроване навчання <span class="s_header-bottom-tags_value">177</span></a></li>
+																				<li class="s_header-bottom-tags_item"><a class="tag" href="https://nus.org.ua/tags/209" >підручники <span class="s_header-bottom-tags_value">169</span></a></li>
+																				<li class="s_header-bottom-tags_item"><a class="tag" href="https://nus.org.ua/tags/91" >українська мова <span class="s_header-bottom-tags_value">158</span></a></li>
+																				<li class="s_header-bottom-tags_item"><a class="tag" href="https://nus.org.ua/tags/3" >базова освіта <span class="s_header-bottom-tags_value">141</span></a></li>
+																				<li class="s_header-bottom-tags_item"><a class="tag" href="https://nus.org.ua/tags/235" >якість освіти <span class="s_header-bottom-tags_value">129</span></a></li>
+																				<li class="s_header-bottom-tags_item"><a class="tag" href="https://nus.org.ua/tags/92" >література <span class="s_header-bottom-tags_value">128</span></a></li>
+																				<li class="s_header-bottom-tags_item"><a class="tag" href="https://nus.org.ua/tags/100" >старша школа <span class="s_header-bottom-tags_value">126</span></a></li>
+																				<li class="s_header-bottom-tags_item"><a class="tag" href="https://nus.org.ua/tags/34" >закордонний досвід <span class="s_header-bottom-tags_value">121</span></a></li>
+																				<li class="s_header-bottom-tags_item"><a class="tag" href="https://nus.org.ua/tags/98" >математика <span class="s_header-bottom-tags_value">107</span></a></li>
+																				<li class="s_header-bottom-tags_item"><a class="tag" href="https://nus.org.ua/tags/86" >педагогіка партнерства <span class="s_header-bottom-tags_value">99</span></a></li>
+																				<li class="s_header-bottom-tags_item"><a class="tag" href="https://nus.org.ua/tags/103" >англійська мова <span class="s_header-bottom-tags_value">99</span></a></li>
+																				<li class="s_header-bottom-tags_item"><a class="tag" href="https://nus.org.ua/tags/197" >PISA <span class="s_header-bottom-tags_value">97</span></a></li>
+																				<li class="s_header-bottom-tags_item"><a class="tag" href="https://nus.org.ua/tags/109" >булінг <span class="s_header-bottom-tags_value">77</span></a></li>
+																				<li class="s_header-bottom-tags_item"><a class="tag" href="https://nus.org.ua/tags/263" >сертифікація <span class="s_header-bottom-tags_value">77</span></a></li>
+																				<li class="s_header-bottom-tags_item"><a class="tag" href="https://nus.org.ua/tags/232" >громадянська освіта <span class="s_header-bottom-tags_value">68</span></a></li>
+																				<li class="s_header-bottom-tags_item"><a class="tag" href="https://nus.org.ua/tags/304" >освітабезкорупції <span class="s_header-bottom-tags_value">60</span></a></li>
+																				<li class="s_header-bottom-tags_item"><a class="tag" href="https://nus.org.ua/tags/375" >дружня школа <span class="s_header-bottom-tags_value">47</span></a></li>
+																				<li class="s_header-bottom-tags_item"><a class="tag" href="https://nus.org.ua/tags/69" >агенти змін <span class="s_header-bottom-tags_value">42</span></a></li>
+																				<li class="s_header-bottom-tags_item"><a class="tag" href="https://nus.org.ua/tags/291" >інфографіка <span class="s_header-bottom-tags_value">40</span></a></li>
+																				<li class="s_header-bottom-tags_item"><a class="tag" href="https://nus.org.ua/tags/132" >інформатика <span class="s_header-bottom-tags_value">37</span></a></li>
+																				<li class="s_header-bottom-tags_item"><a class="tag" href="https://nus.org.ua/tags/161" >освітній простір <span class="s_header-bottom-tags_value">35</span></a></li>
+																				<li class="s_header-bottom-tags_item"><a class="tag" href="https://nus.org.ua/tags/102" >фізика <span class="s_header-bottom-tags_value">34</span></a></li>
+																				<li class="s_header-bottom-tags_item"><a class="tag" href="https://nus.org.ua/tags/96" >історія <span class="s_header-bottom-tags_value">33</span></a></li>
+																				<li class="s_header-bottom-tags_item"><a class="tag" href="https://nus.org.ua/tags/105" >біологія <span class="s_header-bottom-tags_value">30</span></a></li>
+																				<li class="s_header-bottom-tags_item"><a class="tag" href="https://nus.org.ua/tags/128" >книжки <span class="s_header-bottom-tags_value">30</span></a></li>
+																				<li class="s_header-bottom-tags_item"><a class="tag" href="https://nus.org.ua/tags/183" >французька мова <span class="s_header-bottom-tags_value">30</span></a></li>
+																				<li class="s_header-bottom-tags_item"><a class="tag" href="https://nus.org.ua/tags/184" >німецька мова <span class="s_header-bottom-tags_value">30</span></a></li>
+																				<li class="s_header-bottom-tags_item"><a class="tag" href="https://nus.org.ua/tags/169" >хімія <span class="s_header-bottom-tags_value">24</span></a></li>
+																				<li class="s_header-bottom-tags_item"><a class="tag" href="https://nus.org.ua/tags/181" >опорні школи <span class="s_header-bottom-tags_value">24</span></a></li>
+																				<li class="s_header-bottom-tags_item"><a class="tag" href="https://nus.org.ua/tags/108" >географія <span class="s_header-bottom-tags_value">20</span></a></li>
+																				<li class="s_header-bottom-tags_item"><a class="tag" href="https://nus.org.ua/tags/106" >природничі науки <span class="s_header-bottom-tags_value">18</span></a></li>
+																				<li class="s_header-bottom-tags_item"><a class="tag" href="https://nus.org.ua/tags/188" >фізкультура <span class="s_header-bottom-tags_value">14</span></a></li>
+																				<li class="s_header-bottom-tags_item"><a class="tag" href="https://nus.org.ua/tags/158" >змішане навчання <span class="s_header-bottom-tags_value">13</span></a></li>
+																				<li class="s_header-bottom-tags_item"><a class="tag" href="https://nus.org.ua/tags/134" >мистецтво <span class="s_header-bottom-tags_value">12</span></a></li>
+																				<li class="s_header-bottom-tags_item"><a class="tag" href="https://nus.org.ua/tags/170" >астрономія <span class="s_header-bottom-tags_value">12</span></a></li>
+																				<li class="s_header-bottom-tags_item"><a class="tag" href="https://nus.org.ua/tags/405" >Мамо_я в IT <span class="s_header-bottom-tags_value">10</span></a></li>
+																				<li class="s_header-bottom-tags_item"><a class="tag" href="https://nus.org.ua/tags/409" >подкасти <span class="s_header-bottom-tags_value">9</span></a></li>
+																				<li class="s_header-bottom-tags_item"><a class="tag" href="https://nus.org.ua/tags/411" >навчання доброчесності <span class="s_header-bottom-tags_value">9</span></a></li>
+																				<li class="s_header-bottom-tags_item"><a class="tag" href="https://nus.org.ua/tags/427" >дошкільна освіта <span class="s_header-bottom-tags_value">9</span></a></li>
+																				<li class="s_header-bottom-tags_item"><a class="tag" href="https://nus.org.ua/tags/267" >фінансова грамотність <span class="s_header-bottom-tags_value">8</span></a></li>
+																				<li class="s_header-bottom-tags_item"><a class="tag" href="https://nus.org.ua/tags/167" >правознавство <span class="s_header-bottom-tags_value">6</span></a></li>
+																				<li class="s_header-bottom-tags_item"><a class="tag" href="https://nus.org.ua/tags/116" >опитування <span class="s_header-bottom-tags_value">5</span></a></li>
+																				<li class="s_header-bottom-tags_item"><a class="tag" href="https://nus.org.ua/tags/277" >іспанська мова <span class="s_header-bottom-tags_value">5</span></a></li>
+																				<li class="s_header-bottom-tags_item"><a class="tag" href="https://nus.org.ua/tags/385" >тести <span class="s_header-bottom-tags_value">5</span></a></li>
+																				<li class="s_header-bottom-tags_item"><a class="tag" href="https://nus.org.ua/tags/269" >економіка <span class="s_header-bottom-tags_value">3</span></a></li>
+																				<li class="s_header-bottom-tags_item"><a class="tag" href="https://nus.org.ua/tags/133" >трудове навчання <span class="s_header-bottom-tags_value">2</span></a></li>
+																	</ul>
+							</div>
+						</div>
+					</div>
+				<!-- /Modal Tags-->
+
+			</div>
+
+		</div>
+
+
+ 		<!--div class="container">
+			<div class="top-banner">
+				<a href="http://newstandard.nus.org.ua/">
+					<h3>Проект нового державного стандарту початкової загальної освіти</h3>
+					<h4>Долучайтеся до обговорення</h4>
+				</a>
+			</div>
+		</div-->
+	</header>
+
+<style>
+.section_title a{
+    margin-bottom: 30px;
+    font-size: 22px;
+    font-weight: 900;
+    text-transform: uppercase;
+    text-align: center;
+	transition: color .4s, text-decoration .4s;
+}
+.section_title a:hover{
+	color: #c4df5b;
+    text-decoration: underline;
+}
+.block_view-item object{
+	font-size: 10px;
+}
+.block_view-item .link-in-link{
+	font-size: 10px;
+	line-height: 10px;
+	padding: 10px;
+	display: block;
+}
+.block_view-item:hover .link-in-link{
+	color: #fff;
+}
+.block_view-item .btn_view {
+    padding: 0;
+}
+</style>
+	<section class="s_last_articles">
+		<div class="container">
+			<div class="s_last_articles-top_line">
+
+				
+								
+					<div class="big_articles-wrap box">
+						<a href="https://nus.org.ua/articles/yak-pratsyuvaty-zi-slabozorymy-ta-nezryachymy-ditmy-v-inklyuzyvnomu-klasi-pidgotovka/" class="big_articles">
+							<div class="wrap_img">
+								<img src="https://nus.org.ua/wp-content/uploads/2021/02/Depositphotos_108975110_l-2015-e1614352142619.jpg" alt="" data-object-fit="cover">
+							</div>
+							<div class="big_articles-tag">
+																																																					<span class="tag">батькам,</span>
+																																																						<span class="tag">вчителям</span>
+																	</div>
+							<h3 class="big_articles-head">
+								Як працювати зі слабозорими та незрячими дітьми в інклюзивному класі. Підготовка							</h3>
+						</a>
+					</div>
+					
+				<div class="last_news-wrap box">
+					<div class="last_news">
+																											<div class="last_news-item">
+																		<div class="date">1 Березня 2021</div>
+									<a href="https://nus.org.ua/news/onovyly-karantynni-zony-shkoly-zachynyayut-u-zhytomyrskij-oblasti/" style="font-weight: bold;">
+										Оновили карантинні зони – школи зачиняють у Житомирській області									</a>
+								</div>
+															<div class="last_news-item">
+																		<div class="date">1 Березня 2021</div>
+									<a href="https://nus.org.ua/news/konkurs-sotsialnyh-videorobit-dlya-uchniv-yak-vzyaty-uchast/" style="">
+										Конкурс соціальних відеоробіт для учнів – як взяти участь									</a>
+								</div>
+															<div class="last_news-item">
+																		<div class="date">1 Березня 2021</div>
+									<a href="https://nus.org.ua/news/pedagogy-mozhut-obraty-pidruchnyky-dlya-8-ta-4-klasu/" style="">
+										Педагоги можуть обрати підручники для 8 та 4 класів									</a>
+								</div>
+															<div class="last_news-item">
+																		<div class="date">27 Лютого 2021</div>
+									<a href="https://nus.org.ua/news/onovyly-karantynni-zony-shkoly-zachynyayut-u-chernivetskij-oblasti/" style="">
+										Оновили карантинні зони – школи зачиняють у Чернівецькій області									</a>
+								</div>
+																		</div>
+				</div>
+			</div>
+
+
+			<div class="s_last_articles-bottom_line">
+				<div class="last_articles">
+																											<div class="last_articles-item box">
+							<a href="https://nus.org.ua/articles/do-uvagy-vchyteliv-modul-na-23-j-tyzhden-z-ukrayinskoyi-movy-dlya-4-h-pilotnyh-klasiv-2/" class="last_articles-img">
+								<img src="https://nus.org.ua/wp-content/uploads/2021/03/Depositphotos_84706442_l-2015-e1614595072366.jpg" alt="" data-object-fit="cover">
+							</a>
+							<div class="last_articles-tag">
+																																																					<a href="https://nus.org.ua/tags/5" class="tag">батькам,</a>
+																																																						<a href="https://nus.org.ua/tags/76" class="tag">вчителям</a>
+																	</div>
+							<a href="https://nus.org.ua/articles/do-uvagy-vchyteliv-modul-na-23-j-tyzhden-z-ukrayinskoyi-movy-dlya-4-h-pilotnyh-klasiv-2/" class="last_articles-link">
+								До уваги вчителів! Календарно-тематичне планування з української мови для 4-х пілотних класів (березень) + 24 тиждень							</a>
+							<!--div class="article-excerpt">
+								<p></p>
+							</div-->							
+						</div>
+												<div class="last_articles-item box">
+							<a href="https://nus.org.ua/articles/kosmetychnyj-remont-gnyloyi-pidlogy-shho-ne-tak-iz-pidgotovkoyu-ta-ekspertyzoyu-pidruchnykiv/" class="last_articles-img">
+								<img src="https://nus.org.ua/wp-content/uploads/2021/02/Depositphotos_134393466_xl-2015-scaled-e1614347210573.jpg" alt="" data-object-fit="cover">
+							</a>
+							<div class="last_articles-tag">
+																																																					<a href="https://nus.org.ua/tags/5" class="tag">батькам,</a>
+																																																						<a href="https://nus.org.ua/tags/76" class="tag">вчителям</a>
+																	</div>
+							<a href="https://nus.org.ua/articles/kosmetychnyj-remont-gnyloyi-pidlogy-shho-ne-tak-iz-pidgotovkoyu-ta-ekspertyzoyu-pidruchnykiv/" class="last_articles-link">
+								Косметичний ремонт гнилої підлоги – що не так із підготовкою та експертизою підручників							</a>
+							<!--div class="article-excerpt">
+								<p></p>
+							</div-->							
+						</div>
+												<div class="last_articles-item box">
+							<a href="https://nus.org.ua/articles/navishho-osvitni-trayektoriyi-j-chomu-vony-nemozhlyvi-za-novoyi-programy-dlya-5-9-klasiv-poyasnyuye-dyrektor-shkoly/" class="last_articles-img">
+								<img src="https://nus.org.ua/wp-content/uploads/2021/02/Depositphotos_440868312_xl-2015-scaled-e1613745698554.jpg" alt="" data-object-fit="cover">
+							</a>
+							<div class="last_articles-tag">
+																																																					<a href="https://nus.org.ua/tags/3" class="tag">базова освіта,</a>
+																																																						<a href="https://nus.org.ua/tags/5" class="tag">батькам</a>
+																	</div>
+							<a href="https://nus.org.ua/articles/navishho-osvitni-trayektoriyi-j-chomu-vony-nemozhlyvi-za-novoyi-programy-dlya-5-9-klasiv-poyasnyuye-dyrektor-shkoly/" class="last_articles-link">
+								Навіщо освітні траєкторії й чому вони неможливі за нової програми для 5–9 класів. Пояснює директор школи							</a>
+							<!--div class="article-excerpt">
+								<p></p>
+							</div-->							
+						</div>
+											
+					<div class="banner box">
+													<a href="https://nus.org.ua/news/posibnyk-dlya-shkil-pro-organizatsiyu-dystantsijnogo-navchannya-otrymav-gryf-mon/">
+								<img src="https://nus.org.ua/wp-content/uploads/2017/06/banner-1.jpg" alt="" data-object-fit="cover"  style="margin-bottom: 10px;">
+							</a>
+							
+													<a href="https://nus.org.ua/kalendar-poradnyk/">
+								<img src="https://nus.org.ua/wp-content/uploads/2017/08/logo-calander.jpg" alt="" data-object-fit="cover" >
+							</a>
+							
+					</div>
+
+				</div>
+			</div>
+		</div>
+	</section>
+
+	<!-- Questions -->
+	<section class="s_question-main">
+		<div class="container">
+			<div class="question_slider">
+																			<div class="question_slide">
+							<div class="question_item fw">
+								<div class="question_info fw">
+									<div class="question_tag-wrapper">
+																				<button class="question_btn question_btn-prev" style="display:inline-block;"></button>
+										<a href="/category/questions" class="question_tag">Є ПИТАННЯ</a>
+										<button class="question_btn question_btn-next" style="display:inline-block;"></button>
+									</div>
+ 										<a href="https://nus.org.ua/questions/novyj-standart-doshkilnoyi-osvity-vidpovidi-na-golovni-zapytannya/" class="question_link">
+										<div class="question_text">
+											<h3>Новий стандарт дошкільної освіти. Відповіді на головні запитання</h3>
+											<p>Що передбачає оновлений базовий компонент дошкільної освіти й навіщо потрібен.</p>
+										</div>
+									</a>
+								</div>
+								<a class="question_img-wrapper" href="https://nus.org.ua/questions/novyj-standart-doshkilnoyi-osvity-vidpovidi-na-golovni-zapytannya/">
+									<img src="https://nus.org.ua/wp-content/uploads/2021/01/Novyy-standart-doshkilnoi-osvity.-Vidpovidi-na-golovni-zapytannya-e1611838991807.jpg" alt="" class="question_img" data-object-fit="cover">
+								</a>
+								<i class="question_icon">
+									<svg
+										width="28px" height="41px">
+										<path fill-rule="evenodd"  fill="rgb(0, 0, 0)"
+											  d="M6.853,16.625 C6.615,17.673 6.609,18.742 6.833,19.804 C6.838,19.827 6.842,19.850 6.844,19.874 C6.916,20.434 7.392,20.856 7.954,20.856 C8.541,20.856 9.024,20.398 9.069,19.819 C9.066,19.789 9.065,19.760 9.065,19.729 C9.065,19.643 9.054,19.556 9.034,19.470 C8.822,18.573 8.854,17.633 9.130,16.751 C9.270,16.303 9.744,16.054 10.189,16.195 C10.635,16.336 10.882,16.814 10.742,17.263 C10.559,17.850 10.537,18.477 10.679,19.076 C10.719,19.245 10.743,19.417 10.752,19.589 C10.760,19.635 10.763,19.681 10.763,19.729 C10.763,21.289 9.503,22.558 7.954,22.558 C6.556,22.558 5.366,21.516 5.173,20.126 C4.904,18.831 4.914,17.526 5.205,16.246 C5.309,15.787 5.763,15.501 6.218,15.605 C6.672,15.710 6.957,16.167 6.853,16.625 L6.853,16.625 ZM19.332,34.557 C18.872,34.479 18.435,34.791 18.357,35.255 C18.279,35.718 18.589,36.158 19.050,36.236 C21.660,36.681 22.650,37.285 22.876,37.539 C22.725,37.704 22.121,38.196 20.066,38.651 C18.189,39.067 15.756,39.296 13.215,39.296 C10.304,39.296 7.528,38.992 5.600,38.463 C4.148,38.065 3.683,37.681 3.552,37.539 C3.778,37.285 4.768,36.681 7.379,36.236 C7.839,36.158 8.149,35.718 8.071,35.255 C7.994,34.791 7.557,34.479 7.097,34.557 C3.600,35.153 1.827,36.157 1.827,37.542 C1.827,38.653 2.916,39.491 5.155,40.106 C7.223,40.673 10.160,40.998 13.215,40.998 C16.096,40.998 18.815,40.719 20.870,40.211 C23.381,39.591 24.602,38.718 24.602,37.542 C24.602,36.157 22.829,35.153 19.332,34.557 L19.332,34.557 ZM16.023,34.980 L16.023,35.121 C16.023,36.681 14.764,37.950 13.214,37.950 C11.665,37.950 10.405,36.681 10.405,35.121 L10.405,34.980 C10.405,33.420 11.665,32.151 13.214,32.151 C14.764,32.151 16.023,33.420 16.023,34.980 L16.023,34.980 ZM14.333,34.980 C14.333,34.359 13.831,33.853 13.214,33.853 C12.598,33.853 12.096,34.359 12.096,34.980 L12.096,35.121 C12.096,35.742 12.598,36.247 13.214,36.247 C13.831,36.247 14.333,35.742 14.333,35.121 L14.333,34.980 ZM16.862,20.138 C16.386,20.885 15.656,21.410 14.800,21.617 L14.793,21.619 C13.275,21.984 11.994,22.916 11.185,24.243 C10.371,25.576 10.122,27.147 10.482,28.667 C10.788,29.965 11.943,30.843 13.215,30.843 C13.428,30.843 13.645,30.818 13.862,30.766 C14.592,30.592 15.210,30.142 15.604,29.499 C15.998,28.856 16.120,28.097 15.946,27.361 C15.930,27.291 15.950,27.238 15.970,27.205 C15.988,27.175 16.029,27.122 16.090,27.107 C16.095,27.106 16.100,27.105 16.106,27.103 C18.414,26.544 20.374,25.126 21.634,23.106 C21.652,23.083 21.669,23.058 21.685,23.033 C22.927,20.996 23.317,18.586 22.784,16.246 C22.680,15.788 22.226,15.502 21.771,15.607 C21.316,15.713 21.032,16.169 21.136,16.627 C21.564,18.503 21.262,20.433 20.286,22.073 C20.270,22.094 20.255,22.116 20.241,22.138 C19.217,23.815 17.605,24.991 15.702,25.449 C15.697,25.451 15.692,25.452 15.686,25.454 C15.206,25.572 14.795,25.877 14.529,26.313 C14.265,26.747 14.185,27.259 14.302,27.754 C14.371,28.047 14.322,28.349 14.165,28.605 C14.009,28.861 13.763,29.040 13.472,29.109 C12.873,29.252 12.269,28.878 12.127,28.272 C11.871,27.194 12.048,26.080 12.625,25.134 C13.197,24.197 14.104,23.537 15.179,23.276 C15.181,23.276 15.183,23.275 15.186,23.274 C16.507,22.957 17.628,22.138 18.340,20.970 C18.341,20.969 18.344,20.963 18.345,20.962 C18.360,20.936 18.374,20.910 18.387,20.884 C19.060,19.737 19.266,18.399 18.966,17.100 L18.956,17.057 C18.932,16.959 18.904,16.858 18.873,16.756 C18.736,16.307 18.264,16.055 17.817,16.193 C17.371,16.331 17.120,16.807 17.258,17.256 C17.278,17.325 17.296,17.392 17.313,17.459 L17.321,17.495 C17.525,18.376 17.376,19.291 16.899,20.070 C16.886,20.093 16.874,20.115 16.862,20.138 L16.862,20.138 ZM27.998,10.524 C27.998,11.930 26.490,13.049 23.518,13.848 C20.964,14.535 17.583,14.913 13.998,14.913 C10.413,14.913 7.032,14.535 4.478,13.848 C1.506,13.049 -0.002,11.930 -0.002,10.524 C-0.002,9.244 1.250,8.201 3.720,7.422 L4.661,1.905 C4.803,1.075 5.456,0.079 7.762,0.045 C9.046,0.027 10.555,0.278 11.886,0.499 C12.747,0.643 13.560,0.778 13.998,0.778 C14.527,0.778 15.409,0.623 16.344,0.459 C18.603,0.064 21.163,-0.386 22.493,0.559 C22.948,0.883 23.239,1.348 23.334,1.905 L24.275,7.422 C26.746,8.201 27.998,9.244 27.998,10.524 L27.998,10.524 ZM26.307,10.524 C26.307,10.378 25.895,9.758 24.002,9.121 C21.430,9.887 17.806,10.324 13.998,10.324 C11.619,10.324 9.279,10.153 7.231,9.831 C6.769,9.759 6.453,9.323 6.526,8.859 C6.598,8.393 7.030,8.076 7.491,8.149 C9.456,8.458 11.706,8.621 13.998,8.621 C17.216,8.621 20.276,8.302 22.614,7.734 L21.668,2.193 C21.649,2.080 21.609,2.014 21.519,1.951 C20.762,1.413 18.277,1.849 16.634,2.137 C15.582,2.322 14.674,2.481 13.998,2.481 C13.421,2.481 12.582,2.341 11.610,2.180 C10.391,1.976 9.014,1.747 7.900,1.747 C7.862,1.747 7.824,1.748 7.786,1.748 C7.461,1.752 6.395,1.799 6.328,2.193 L5.298,8.231 C5.242,8.555 5.007,8.818 4.693,8.907 C2.198,9.612 1.688,10.362 1.688,10.524 C1.688,10.695 2.236,11.482 4.914,12.203 C7.330,12.853 10.556,13.211 13.998,13.211 C17.440,13.211 20.666,12.853 23.081,12.203 C25.760,11.482 26.307,10.695 26.307,10.524 L26.307,10.524 Z"/>
+									</svg>
+								</i>
+							</div>
+						</div>
+											<div class="question_slide">
+							<div class="question_item fw">
+								<div class="question_info fw">
+									<div class="question_tag-wrapper">
+																				<button class="question_btn question_btn-prev" style="display:inline-block;"></button>
+										<a href="/category/questions" class="question_tag">Є ПИТАННЯ</a>
+										<button class="question_btn question_btn-next" style="display:inline-block;"></button>
+									</div>
+ 										<a href="https://nus.org.ua/questions/shho-take-i-dlya-chogo-svidotstvo-dosyagnen-uchniv-nush-vidpovidaye-mon/" class="question_link">
+										<div class="question_text">
+											<h3>Що таке і для чого свідоцтво досягнень учнів НУШ – відповідає МОН</h3>
+											<p>Міністерство освіти і науки відповіло на найпоширеніші запитання щодо свідоцтва досягнень.</p>
+										</div>
+									</a>
+								</div>
+								<a class="question_img-wrapper" href="https://nus.org.ua/questions/shho-take-i-dlya-chogo-svidotstvo-dosyagnen-uchniv-nush-vidpovidaye-mon/">
+									<img src="https://nus.org.ua/wp-content/uploads/2020/12/SHHo-take-i-dlya-chogo-svidotstvo-dosyagnen-uchniv-NUSH-vidpovidaye-MON-e1608813634666.jpg" alt="" class="question_img" data-object-fit="cover">
+								</a>
+								<i class="question_icon">
+									<svg
+										width="28px" height="41px">
+										<path fill-rule="evenodd"  fill="rgb(0, 0, 0)"
+											  d="M6.853,16.625 C6.615,17.673 6.609,18.742 6.833,19.804 C6.838,19.827 6.842,19.850 6.844,19.874 C6.916,20.434 7.392,20.856 7.954,20.856 C8.541,20.856 9.024,20.398 9.069,19.819 C9.066,19.789 9.065,19.760 9.065,19.729 C9.065,19.643 9.054,19.556 9.034,19.470 C8.822,18.573 8.854,17.633 9.130,16.751 C9.270,16.303 9.744,16.054 10.189,16.195 C10.635,16.336 10.882,16.814 10.742,17.263 C10.559,17.850 10.537,18.477 10.679,19.076 C10.719,19.245 10.743,19.417 10.752,19.589 C10.760,19.635 10.763,19.681 10.763,19.729 C10.763,21.289 9.503,22.558 7.954,22.558 C6.556,22.558 5.366,21.516 5.173,20.126 C4.904,18.831 4.914,17.526 5.205,16.246 C5.309,15.787 5.763,15.501 6.218,15.605 C6.672,15.710 6.957,16.167 6.853,16.625 L6.853,16.625 ZM19.332,34.557 C18.872,34.479 18.435,34.791 18.357,35.255 C18.279,35.718 18.589,36.158 19.050,36.236 C21.660,36.681 22.650,37.285 22.876,37.539 C22.725,37.704 22.121,38.196 20.066,38.651 C18.189,39.067 15.756,39.296 13.215,39.296 C10.304,39.296 7.528,38.992 5.600,38.463 C4.148,38.065 3.683,37.681 3.552,37.539 C3.778,37.285 4.768,36.681 7.379,36.236 C7.839,36.158 8.149,35.718 8.071,35.255 C7.994,34.791 7.557,34.479 7.097,34.557 C3.600,35.153 1.827,36.157 1.827,37.542 C1.827,38.653 2.916,39.491 5.155,40.106 C7.223,40.673 10.160,40.998 13.215,40.998 C16.096,40.998 18.815,40.719 20.870,40.211 C23.381,39.591 24.602,38.718 24.602,37.542 C24.602,36.157 22.829,35.153 19.332,34.557 L19.332,34.557 ZM16.023,34.980 L16.023,35.121 C16.023,36.681 14.764,37.950 13.214,37.950 C11.665,37.950 10.405,36.681 10.405,35.121 L10.405,34.980 C10.405,33.420 11.665,32.151 13.214,32.151 C14.764,32.151 16.023,33.420 16.023,34.980 L16.023,34.980 ZM14.333,34.980 C14.333,34.359 13.831,33.853 13.214,33.853 C12.598,33.853 12.096,34.359 12.096,34.980 L12.096,35.121 C12.096,35.742 12.598,36.247 13.214,36.247 C13.831,36.247 14.333,35.742 14.333,35.121 L14.333,34.980 ZM16.862,20.138 C16.386,20.885 15.656,21.410 14.800,21.617 L14.793,21.619 C13.275,21.984 11.994,22.916 11.185,24.243 C10.371,25.576 10.122,27.147 10.482,28.667 C10.788,29.965 11.943,30.843 13.215,30.843 C13.428,30.843 13.645,30.818 13.862,30.766 C14.592,30.592 15.210,30.142 15.604,29.499 C15.998,28.856 16.120,28.097 15.946,27.361 C15.930,27.291 15.950,27.238 15.970,27.205 C15.988,27.175 16.029,27.122 16.090,27.107 C16.095,27.106 16.100,27.105 16.106,27.103 C18.414,26.544 20.374,25.126 21.634,23.106 C21.652,23.083 21.669,23.058 21.685,23.033 C22.927,20.996 23.317,18.586 22.784,16.246 C22.680,15.788 22.226,15.502 21.771,15.607 C21.316,15.713 21.032,16.169 21.136,16.627 C21.564,18.503 21.262,20.433 20.286,22.073 C20.270,22.094 20.255,22.116 20.241,22.138 C19.217,23.815 17.605,24.991 15.702,25.449 C15.697,25.451 15.692,25.452 15.686,25.454 C15.206,25.572 14.795,25.877 14.529,26.313 C14.265,26.747 14.185,27.259 14.302,27.754 C14.371,28.047 14.322,28.349 14.165,28.605 C14.009,28.861 13.763,29.040 13.472,29.109 C12.873,29.252 12.269,28.878 12.127,28.272 C11.871,27.194 12.048,26.080 12.625,25.134 C13.197,24.197 14.104,23.537 15.179,23.276 C15.181,23.276 15.183,23.275 15.186,23.274 C16.507,22.957 17.628,22.138 18.340,20.970 C18.341,20.969 18.344,20.963 18.345,20.962 C18.360,20.936 18.374,20.910 18.387,20.884 C19.060,19.737 19.266,18.399 18.966,17.100 L18.956,17.057 C18.932,16.959 18.904,16.858 18.873,16.756 C18.736,16.307 18.264,16.055 17.817,16.193 C17.371,16.331 17.120,16.807 17.258,17.256 C17.278,17.325 17.296,17.392 17.313,17.459 L17.321,17.495 C17.525,18.376 17.376,19.291 16.899,20.070 C16.886,20.093 16.874,20.115 16.862,20.138 L16.862,20.138 ZM27.998,10.524 C27.998,11.930 26.490,13.049 23.518,13.848 C20.964,14.535 17.583,14.913 13.998,14.913 C10.413,14.913 7.032,14.535 4.478,13.848 C1.506,13.049 -0.002,11.930 -0.002,10.524 C-0.002,9.244 1.250,8.201 3.720,7.422 L4.661,1.905 C4.803,1.075 5.456,0.079 7.762,0.045 C9.046,0.027 10.555,0.278 11.886,0.499 C12.747,0.643 13.560,0.778 13.998,0.778 C14.527,0.778 15.409,0.623 16.344,0.459 C18.603,0.064 21.163,-0.386 22.493,0.559 C22.948,0.883 23.239,1.348 23.334,1.905 L24.275,7.422 C26.746,8.201 27.998,9.244 27.998,10.524 L27.998,10.524 ZM26.307,10.524 C26.307,10.378 25.895,9.758 24.002,9.121 C21.430,9.887 17.806,10.324 13.998,10.324 C11.619,10.324 9.279,10.153 7.231,9.831 C6.769,9.759 6.453,9.323 6.526,8.859 C6.598,8.393 7.030,8.076 7.491,8.149 C9.456,8.458 11.706,8.621 13.998,8.621 C17.216,8.621 20.276,8.302 22.614,7.734 L21.668,2.193 C21.649,2.080 21.609,2.014 21.519,1.951 C20.762,1.413 18.277,1.849 16.634,2.137 C15.582,2.322 14.674,2.481 13.998,2.481 C13.421,2.481 12.582,2.341 11.610,2.180 C10.391,1.976 9.014,1.747 7.900,1.747 C7.862,1.747 7.824,1.748 7.786,1.748 C7.461,1.752 6.395,1.799 6.328,2.193 L5.298,8.231 C5.242,8.555 5.007,8.818 4.693,8.907 C2.198,9.612 1.688,10.362 1.688,10.524 C1.688,10.695 2.236,11.482 4.914,12.203 C7.330,12.853 10.556,13.211 13.998,13.211 C17.440,13.211 20.666,12.853 23.081,12.203 C25.760,11.482 26.307,10.695 26.307,10.524 L26.307,10.524 Z"/>
+									</svg>
+								</i>
+							</div>
+						</div>
+											<div class="question_slide">
+							<div class="question_item fw">
+								<div class="question_info fw">
+									<div class="question_tag-wrapper">
+																				<button class="question_btn question_btn-prev" style="display:inline-block;"></button>
+										<a href="/category/questions" class="question_tag">Є ПИТАННЯ</a>
+										<button class="question_btn question_btn-next" style="display:inline-block;"></button>
+									</div>
+ 										<a href="https://nus.org.ua/questions/zarplatnya-vchyteliv-na-samoizolyatsiyi-ta-dystantsijtsi-roz-yasnennya-osvitnogo-ombudsmena/" class="question_link">
+										<div class="question_text">
+											<h3>Зарплатня вчителів на самоізоляції та дистанційці – роз’яснення освітнього омбудсмена</h3>
+											<p></p>
+										</div>
+									</a>
+								</div>
+								<a class="question_img-wrapper" href="https://nus.org.ua/questions/zarplatnya-vchyteliv-na-samoizolyatsiyi-ta-dystantsijtsi-roz-yasnennya-osvitnogo-ombudsmena/">
+									<img src="https://nus.org.ua/wp-content/uploads/2020/11/Zarplatnya-vchyteliv-na-samoizolyatsiyi-ta-dystantsijtsi-rozyasnennya-osvitnogo-ombudsmena.jpg" alt="" class="question_img" data-object-fit="cover">
+								</a>
+								<i class="question_icon">
+									<svg
+										width="28px" height="41px">
+										<path fill-rule="evenodd"  fill="rgb(0, 0, 0)"
+											  d="M6.853,16.625 C6.615,17.673 6.609,18.742 6.833,19.804 C6.838,19.827 6.842,19.850 6.844,19.874 C6.916,20.434 7.392,20.856 7.954,20.856 C8.541,20.856 9.024,20.398 9.069,19.819 C9.066,19.789 9.065,19.760 9.065,19.729 C9.065,19.643 9.054,19.556 9.034,19.470 C8.822,18.573 8.854,17.633 9.130,16.751 C9.270,16.303 9.744,16.054 10.189,16.195 C10.635,16.336 10.882,16.814 10.742,17.263 C10.559,17.850 10.537,18.477 10.679,19.076 C10.719,19.245 10.743,19.417 10.752,19.589 C10.760,19.635 10.763,19.681 10.763,19.729 C10.763,21.289 9.503,22.558 7.954,22.558 C6.556,22.558 5.366,21.516 5.173,20.126 C4.904,18.831 4.914,17.526 5.205,16.246 C5.309,15.787 5.763,15.501 6.218,15.605 C6.672,15.710 6.957,16.167 6.853,16.625 L6.853,16.625 ZM19.332,34.557 C18.872,34.479 18.435,34.791 18.357,35.255 C18.279,35.718 18.589,36.158 19.050,36.236 C21.660,36.681 22.650,37.285 22.876,37.539 C22.725,37.704 22.121,38.196 20.066,38.651 C18.189,39.067 15.756,39.296 13.215,39.296 C10.304,39.296 7.528,38.992 5.600,38.463 C4.148,38.065 3.683,37.681 3.552,37.539 C3.778,37.285 4.768,36.681 7.379,36.236 C7.839,36.158 8.149,35.718 8.071,35.255 C7.994,34.791 7.557,34.479 7.097,34.557 C3.600,35.153 1.827,36.157 1.827,37.542 C1.827,38.653 2.916,39.491 5.155,40.106 C7.223,40.673 10.160,40.998 13.215,40.998 C16.096,40.998 18.815,40.719 20.870,40.211 C23.381,39.591 24.602,38.718 24.602,37.542 C24.602,36.157 22.829,35.153 19.332,34.557 L19.332,34.557 ZM16.023,34.980 L16.023,35.121 C16.023,36.681 14.764,37.950 13.214,37.950 C11.665,37.950 10.405,36.681 10.405,35.121 L10.405,34.980 C10.405,33.420 11.665,32.151 13.214,32.151 C14.764,32.151 16.023,33.420 16.023,34.980 L16.023,34.980 ZM14.333,34.980 C14.333,34.359 13.831,33.853 13.214,33.853 C12.598,33.853 12.096,34.359 12.096,34.980 L12.096,35.121 C12.096,35.742 12.598,36.247 13.214,36.247 C13.831,36.247 14.333,35.742 14.333,35.121 L14.333,34.980 ZM16.862,20.138 C16.386,20.885 15.656,21.410 14.800,21.617 L14.793,21.619 C13.275,21.984 11.994,22.916 11.185,24.243 C10.371,25.576 10.122,27.147 10.482,28.667 C10.788,29.965 11.943,30.843 13.215,30.843 C13.428,30.843 13.645,30.818 13.862,30.766 C14.592,30.592 15.210,30.142 15.604,29.499 C15.998,28.856 16.120,28.097 15.946,27.361 C15.930,27.291 15.950,27.238 15.970,27.205 C15.988,27.175 16.029,27.122 16.090,27.107 C16.095,27.106 16.100,27.105 16.106,27.103 C18.414,26.544 20.374,25.126 21.634,23.106 C21.652,23.083 21.669,23.058 21.685,23.033 C22.927,20.996 23.317,18.586 22.784,16.246 C22.680,15.788 22.226,15.502 21.771,15.607 C21.316,15.713 21.032,16.169 21.136,16.627 C21.564,18.503 21.262,20.433 20.286,22.073 C20.270,22.094 20.255,22.116 20.241,22.138 C19.217,23.815 17.605,24.991 15.702,25.449 C15.697,25.451 15.692,25.452 15.686,25.454 C15.206,25.572 14.795,25.877 14.529,26.313 C14.265,26.747 14.185,27.259 14.302,27.754 C14.371,28.047 14.322,28.349 14.165,28.605 C14.009,28.861 13.763,29.040 13.472,29.109 C12.873,29.252 12.269,28.878 12.127,28.272 C11.871,27.194 12.048,26.080 12.625,25.134 C13.197,24.197 14.104,23.537 15.179,23.276 C15.181,23.276 15.183,23.275 15.186,23.274 C16.507,22.957 17.628,22.138 18.340,20.970 C18.341,20.969 18.344,20.963 18.345,20.962 C18.360,20.936 18.374,20.910 18.387,20.884 C19.060,19.737 19.266,18.399 18.966,17.100 L18.956,17.057 C18.932,16.959 18.904,16.858 18.873,16.756 C18.736,16.307 18.264,16.055 17.817,16.193 C17.371,16.331 17.120,16.807 17.258,17.256 C17.278,17.325 17.296,17.392 17.313,17.459 L17.321,17.495 C17.525,18.376 17.376,19.291 16.899,20.070 C16.886,20.093 16.874,20.115 16.862,20.138 L16.862,20.138 ZM27.998,10.524 C27.998,11.930 26.490,13.049 23.518,13.848 C20.964,14.535 17.583,14.913 13.998,14.913 C10.413,14.913 7.032,14.535 4.478,13.848 C1.506,13.049 -0.002,11.930 -0.002,10.524 C-0.002,9.244 1.250,8.201 3.720,7.422 L4.661,1.905 C4.803,1.075 5.456,0.079 7.762,0.045 C9.046,0.027 10.555,0.278 11.886,0.499 C12.747,0.643 13.560,0.778 13.998,0.778 C14.527,0.778 15.409,0.623 16.344,0.459 C18.603,0.064 21.163,-0.386 22.493,0.559 C22.948,0.883 23.239,1.348 23.334,1.905 L24.275,7.422 C26.746,8.201 27.998,9.244 27.998,10.524 L27.998,10.524 ZM26.307,10.524 C26.307,10.378 25.895,9.758 24.002,9.121 C21.430,9.887 17.806,10.324 13.998,10.324 C11.619,10.324 9.279,10.153 7.231,9.831 C6.769,9.759 6.453,9.323 6.526,8.859 C6.598,8.393 7.030,8.076 7.491,8.149 C9.456,8.458 11.706,8.621 13.998,8.621 C17.216,8.621 20.276,8.302 22.614,7.734 L21.668,2.193 C21.649,2.080 21.609,2.014 21.519,1.951 C20.762,1.413 18.277,1.849 16.634,2.137 C15.582,2.322 14.674,2.481 13.998,2.481 C13.421,2.481 12.582,2.341 11.610,2.180 C10.391,1.976 9.014,1.747 7.900,1.747 C7.862,1.747 7.824,1.748 7.786,1.748 C7.461,1.752 6.395,1.799 6.328,2.193 L5.298,8.231 C5.242,8.555 5.007,8.818 4.693,8.907 C2.198,9.612 1.688,10.362 1.688,10.524 C1.688,10.695 2.236,11.482 4.914,12.203 C7.330,12.853 10.556,13.211 13.998,13.211 C17.440,13.211 20.666,12.853 23.081,12.203 C25.760,11.482 26.307,10.695 26.307,10.524 L26.307,10.524 Z"/>
+									</svg>
+								</i>
+							</div>
+						</div>
+											<div class="question_slide">
+							<div class="question_item fw">
+								<div class="question_info fw">
+									<div class="question_tag-wrapper">
+																				<button class="question_btn question_btn-prev" style="display:inline-block;"></button>
+										<a href="/category/questions" class="question_tag">Є ПИТАННЯ</a>
+										<button class="question_btn question_btn-next" style="display:inline-block;"></button>
+									</div>
+ 										<a href="https://nus.org.ua/questions/organizatsiya-dystantsijky-v-shkolah-poyasnyuyemo-osnovne-z-rekomendatsij-mon/" class="question_link">
+										<div class="question_text">
+											<h3>Організація дистанційки в школах – пояснюємо основне з рекомендацій МОН</h3>
+											<p>Міністерство освіти і науки опублікувало лист з рекомендаціями щодо організації дистанційного навчання в школах. Ми вибрали найголовніше.</p>
+										</div>
+									</a>
+								</div>
+								<a class="question_img-wrapper" href="https://nus.org.ua/questions/organizatsiya-dystantsijky-v-shkolah-poyasnyuyemo-osnovne-z-rekomendatsij-mon/">
+									<img src="https://nus.org.ua/wp-content/uploads/2020/11/Organizatsiya-dystantsijky-v-shkolah-poyasnyuyemo-osnovne-z-rekomendatsij-MON-e1604421919341.jpg" alt="" class="question_img" data-object-fit="cover">
+								</a>
+								<i class="question_icon">
+									<svg
+										width="28px" height="41px">
+										<path fill-rule="evenodd"  fill="rgb(0, 0, 0)"
+											  d="M6.853,16.625 C6.615,17.673 6.609,18.742 6.833,19.804 C6.838,19.827 6.842,19.850 6.844,19.874 C6.916,20.434 7.392,20.856 7.954,20.856 C8.541,20.856 9.024,20.398 9.069,19.819 C9.066,19.789 9.065,19.760 9.065,19.729 C9.065,19.643 9.054,19.556 9.034,19.470 C8.822,18.573 8.854,17.633 9.130,16.751 C9.270,16.303 9.744,16.054 10.189,16.195 C10.635,16.336 10.882,16.814 10.742,17.263 C10.559,17.850 10.537,18.477 10.679,19.076 C10.719,19.245 10.743,19.417 10.752,19.589 C10.760,19.635 10.763,19.681 10.763,19.729 C10.763,21.289 9.503,22.558 7.954,22.558 C6.556,22.558 5.366,21.516 5.173,20.126 C4.904,18.831 4.914,17.526 5.205,16.246 C5.309,15.787 5.763,15.501 6.218,15.605 C6.672,15.710 6.957,16.167 6.853,16.625 L6.853,16.625 ZM19.332,34.557 C18.872,34.479 18.435,34.791 18.357,35.255 C18.279,35.718 18.589,36.158 19.050,36.236 C21.660,36.681 22.650,37.285 22.876,37.539 C22.725,37.704 22.121,38.196 20.066,38.651 C18.189,39.067 15.756,39.296 13.215,39.296 C10.304,39.296 7.528,38.992 5.600,38.463 C4.148,38.065 3.683,37.681 3.552,37.539 C3.778,37.285 4.768,36.681 7.379,36.236 C7.839,36.158 8.149,35.718 8.071,35.255 C7.994,34.791 7.557,34.479 7.097,34.557 C3.600,35.153 1.827,36.157 1.827,37.542 C1.827,38.653 2.916,39.491 5.155,40.106 C7.223,40.673 10.160,40.998 13.215,40.998 C16.096,40.998 18.815,40.719 20.870,40.211 C23.381,39.591 24.602,38.718 24.602,37.542 C24.602,36.157 22.829,35.153 19.332,34.557 L19.332,34.557 ZM16.023,34.980 L16.023,35.121 C16.023,36.681 14.764,37.950 13.214,37.950 C11.665,37.950 10.405,36.681 10.405,35.121 L10.405,34.980 C10.405,33.420 11.665,32.151 13.214,32.151 C14.764,32.151 16.023,33.420 16.023,34.980 L16.023,34.980 ZM14.333,34.980 C14.333,34.359 13.831,33.853 13.214,33.853 C12.598,33.853 12.096,34.359 12.096,34.980 L12.096,35.121 C12.096,35.742 12.598,36.247 13.214,36.247 C13.831,36.247 14.333,35.742 14.333,35.121 L14.333,34.980 ZM16.862,20.138 C16.386,20.885 15.656,21.410 14.800,21.617 L14.793,21.619 C13.275,21.984 11.994,22.916 11.185,24.243 C10.371,25.576 10.122,27.147 10.482,28.667 C10.788,29.965 11.943,30.843 13.215,30.843 C13.428,30.843 13.645,30.818 13.862,30.766 C14.592,30.592 15.210,30.142 15.604,29.499 C15.998,28.856 16.120,28.097 15.946,27.361 C15.930,27.291 15.950,27.238 15.970,27.205 C15.988,27.175 16.029,27.122 16.090,27.107 C16.095,27.106 16.100,27.105 16.106,27.103 C18.414,26.544 20.374,25.126 21.634,23.106 C21.652,23.083 21.669,23.058 21.685,23.033 C22.927,20.996 23.317,18.586 22.784,16.246 C22.680,15.788 22.226,15.502 21.771,15.607 C21.316,15.713 21.032,16.169 21.136,16.627 C21.564,18.503 21.262,20.433 20.286,22.073 C20.270,22.094 20.255,22.116 20.241,22.138 C19.217,23.815 17.605,24.991 15.702,25.449 C15.697,25.451 15.692,25.452 15.686,25.454 C15.206,25.572 14.795,25.877 14.529,26.313 C14.265,26.747 14.185,27.259 14.302,27.754 C14.371,28.047 14.322,28.349 14.165,28.605 C14.009,28.861 13.763,29.040 13.472,29.109 C12.873,29.252 12.269,28.878 12.127,28.272 C11.871,27.194 12.048,26.080 12.625,25.134 C13.197,24.197 14.104,23.537 15.179,23.276 C15.181,23.276 15.183,23.275 15.186,23.274 C16.507,22.957 17.628,22.138 18.340,20.970 C18.341,20.969 18.344,20.963 18.345,20.962 C18.360,20.936 18.374,20.910 18.387,20.884 C19.060,19.737 19.266,18.399 18.966,17.100 L18.956,17.057 C18.932,16.959 18.904,16.858 18.873,16.756 C18.736,16.307 18.264,16.055 17.817,16.193 C17.371,16.331 17.120,16.807 17.258,17.256 C17.278,17.325 17.296,17.392 17.313,17.459 L17.321,17.495 C17.525,18.376 17.376,19.291 16.899,20.070 C16.886,20.093 16.874,20.115 16.862,20.138 L16.862,20.138 ZM27.998,10.524 C27.998,11.930 26.490,13.049 23.518,13.848 C20.964,14.535 17.583,14.913 13.998,14.913 C10.413,14.913 7.032,14.535 4.478,13.848 C1.506,13.049 -0.002,11.930 -0.002,10.524 C-0.002,9.244 1.250,8.201 3.720,7.422 L4.661,1.905 C4.803,1.075 5.456,0.079 7.762,0.045 C9.046,0.027 10.555,0.278 11.886,0.499 C12.747,0.643 13.560,0.778 13.998,0.778 C14.527,0.778 15.409,0.623 16.344,0.459 C18.603,0.064 21.163,-0.386 22.493,0.559 C22.948,0.883 23.239,1.348 23.334,1.905 L24.275,7.422 C26.746,8.201 27.998,9.244 27.998,10.524 L27.998,10.524 ZM26.307,10.524 C26.307,10.378 25.895,9.758 24.002,9.121 C21.430,9.887 17.806,10.324 13.998,10.324 C11.619,10.324 9.279,10.153 7.231,9.831 C6.769,9.759 6.453,9.323 6.526,8.859 C6.598,8.393 7.030,8.076 7.491,8.149 C9.456,8.458 11.706,8.621 13.998,8.621 C17.216,8.621 20.276,8.302 22.614,7.734 L21.668,2.193 C21.649,2.080 21.609,2.014 21.519,1.951 C20.762,1.413 18.277,1.849 16.634,2.137 C15.582,2.322 14.674,2.481 13.998,2.481 C13.421,2.481 12.582,2.341 11.610,2.180 C10.391,1.976 9.014,1.747 7.900,1.747 C7.862,1.747 7.824,1.748 7.786,1.748 C7.461,1.752 6.395,1.799 6.328,2.193 L5.298,8.231 C5.242,8.555 5.007,8.818 4.693,8.907 C2.198,9.612 1.688,10.362 1.688,10.524 C1.688,10.695 2.236,11.482 4.914,12.203 C7.330,12.853 10.556,13.211 13.998,13.211 C17.440,13.211 20.666,12.853 23.081,12.203 C25.760,11.482 26.307,10.695 26.307,10.524 L26.307,10.524 Z"/>
+									</svg>
+								</i>
+							</div>
+						</div>
+											<div class="question_slide">
+							<div class="question_item fw">
+								<div class="question_info fw">
+									<div class="question_tag-wrapper">
+																				<button class="question_btn question_btn-prev" style="display:inline-block;"></button>
+										<a href="/category/questions" class="question_tag">Є ПИТАННЯ</a>
+										<button class="question_btn question_btn-next" style="display:inline-block;"></button>
+									</div>
+ 										<a href="https://nus.org.ua/questions/mon-vidpovidaye-na-zapytannya-pro-novyj-standart-dlya-5-9-klasiv-mozhna-postavyty-svoye/" class="question_link">
+										<div class="question_text">
+											<h3>МОН відповідає на запитання про новий стандарт для 5–9 класів (+ можна поставити своє). ОНОВЛЕНО 5 листопада</h3>
+											<p>Міністерство освіти і науки дало роз’яснення щодо Державного стандарту базової середньої освіти.</p>
+										</div>
+									</a>
+								</div>
+								<a class="question_img-wrapper" href="https://nus.org.ua/questions/mon-vidpovidaye-na-zapytannya-pro-novyj-standart-dlya-5-9-klasiv-mozhna-postavyty-svoye/">
+									<img src="https://nus.org.ua/wp-content/uploads/2020/10/MON-vidpovidaye-na-zapytannya-pro-novyj-standart-dlya-5-9-klasiv-e1603192100546.jpg" alt="" class="question_img" data-object-fit="cover">
+								</a>
+								<i class="question_icon">
+									<svg
+										width="28px" height="41px">
+										<path fill-rule="evenodd"  fill="rgb(0, 0, 0)"
+											  d="M6.853,16.625 C6.615,17.673 6.609,18.742 6.833,19.804 C6.838,19.827 6.842,19.850 6.844,19.874 C6.916,20.434 7.392,20.856 7.954,20.856 C8.541,20.856 9.024,20.398 9.069,19.819 C9.066,19.789 9.065,19.760 9.065,19.729 C9.065,19.643 9.054,19.556 9.034,19.470 C8.822,18.573 8.854,17.633 9.130,16.751 C9.270,16.303 9.744,16.054 10.189,16.195 C10.635,16.336 10.882,16.814 10.742,17.263 C10.559,17.850 10.537,18.477 10.679,19.076 C10.719,19.245 10.743,19.417 10.752,19.589 C10.760,19.635 10.763,19.681 10.763,19.729 C10.763,21.289 9.503,22.558 7.954,22.558 C6.556,22.558 5.366,21.516 5.173,20.126 C4.904,18.831 4.914,17.526 5.205,16.246 C5.309,15.787 5.763,15.501 6.218,15.605 C6.672,15.710 6.957,16.167 6.853,16.625 L6.853,16.625 ZM19.332,34.557 C18.872,34.479 18.435,34.791 18.357,35.255 C18.279,35.718 18.589,36.158 19.050,36.236 C21.660,36.681 22.650,37.285 22.876,37.539 C22.725,37.704 22.121,38.196 20.066,38.651 C18.189,39.067 15.756,39.296 13.215,39.296 C10.304,39.296 7.528,38.992 5.600,38.463 C4.148,38.065 3.683,37.681 3.552,37.539 C3.778,37.285 4.768,36.681 7.379,36.236 C7.839,36.158 8.149,35.718 8.071,35.255 C7.994,34.791 7.557,34.479 7.097,34.557 C3.600,35.153 1.827,36.157 1.827,37.542 C1.827,38.653 2.916,39.491 5.155,40.106 C7.223,40.673 10.160,40.998 13.215,40.998 C16.096,40.998 18.815,40.719 20.870,40.211 C23.381,39.591 24.602,38.718 24.602,37.542 C24.602,36.157 22.829,35.153 19.332,34.557 L19.332,34.557 ZM16.023,34.980 L16.023,35.121 C16.023,36.681 14.764,37.950 13.214,37.950 C11.665,37.950 10.405,36.681 10.405,35.121 L10.405,34.980 C10.405,33.420 11.665,32.151 13.214,32.151 C14.764,32.151 16.023,33.420 16.023,34.980 L16.023,34.980 ZM14.333,34.980 C14.333,34.359 13.831,33.853 13.214,33.853 C12.598,33.853 12.096,34.359 12.096,34.980 L12.096,35.121 C12.096,35.742 12.598,36.247 13.214,36.247 C13.831,36.247 14.333,35.742 14.333,35.121 L14.333,34.980 ZM16.862,20.138 C16.386,20.885 15.656,21.410 14.800,21.617 L14.793,21.619 C13.275,21.984 11.994,22.916 11.185,24.243 C10.371,25.576 10.122,27.147 10.482,28.667 C10.788,29.965 11.943,30.843 13.215,30.843 C13.428,30.843 13.645,30.818 13.862,30.766 C14.592,30.592 15.210,30.142 15.604,29.499 C15.998,28.856 16.120,28.097 15.946,27.361 C15.930,27.291 15.950,27.238 15.970,27.205 C15.988,27.175 16.029,27.122 16.090,27.107 C16.095,27.106 16.100,27.105 16.106,27.103 C18.414,26.544 20.374,25.126 21.634,23.106 C21.652,23.083 21.669,23.058 21.685,23.033 C22.927,20.996 23.317,18.586 22.784,16.246 C22.680,15.788 22.226,15.502 21.771,15.607 C21.316,15.713 21.032,16.169 21.136,16.627 C21.564,18.503 21.262,20.433 20.286,22.073 C20.270,22.094 20.255,22.116 20.241,22.138 C19.217,23.815 17.605,24.991 15.702,25.449 C15.697,25.451 15.692,25.452 15.686,25.454 C15.206,25.572 14.795,25.877 14.529,26.313 C14.265,26.747 14.185,27.259 14.302,27.754 C14.371,28.047 14.322,28.349 14.165,28.605 C14.009,28.861 13.763,29.040 13.472,29.109 C12.873,29.252 12.269,28.878 12.127,28.272 C11.871,27.194 12.048,26.080 12.625,25.134 C13.197,24.197 14.104,23.537 15.179,23.276 C15.181,23.276 15.183,23.275 15.186,23.274 C16.507,22.957 17.628,22.138 18.340,20.970 C18.341,20.969 18.344,20.963 18.345,20.962 C18.360,20.936 18.374,20.910 18.387,20.884 C19.060,19.737 19.266,18.399 18.966,17.100 L18.956,17.057 C18.932,16.959 18.904,16.858 18.873,16.756 C18.736,16.307 18.264,16.055 17.817,16.193 C17.371,16.331 17.120,16.807 17.258,17.256 C17.278,17.325 17.296,17.392 17.313,17.459 L17.321,17.495 C17.525,18.376 17.376,19.291 16.899,20.070 C16.886,20.093 16.874,20.115 16.862,20.138 L16.862,20.138 ZM27.998,10.524 C27.998,11.930 26.490,13.049 23.518,13.848 C20.964,14.535 17.583,14.913 13.998,14.913 C10.413,14.913 7.032,14.535 4.478,13.848 C1.506,13.049 -0.002,11.930 -0.002,10.524 C-0.002,9.244 1.250,8.201 3.720,7.422 L4.661,1.905 C4.803,1.075 5.456,0.079 7.762,0.045 C9.046,0.027 10.555,0.278 11.886,0.499 C12.747,0.643 13.560,0.778 13.998,0.778 C14.527,0.778 15.409,0.623 16.344,0.459 C18.603,0.064 21.163,-0.386 22.493,0.559 C22.948,0.883 23.239,1.348 23.334,1.905 L24.275,7.422 C26.746,8.201 27.998,9.244 27.998,10.524 L27.998,10.524 ZM26.307,10.524 C26.307,10.378 25.895,9.758 24.002,9.121 C21.430,9.887 17.806,10.324 13.998,10.324 C11.619,10.324 9.279,10.153 7.231,9.831 C6.769,9.759 6.453,9.323 6.526,8.859 C6.598,8.393 7.030,8.076 7.491,8.149 C9.456,8.458 11.706,8.621 13.998,8.621 C17.216,8.621 20.276,8.302 22.614,7.734 L21.668,2.193 C21.649,2.080 21.609,2.014 21.519,1.951 C20.762,1.413 18.277,1.849 16.634,2.137 C15.582,2.322 14.674,2.481 13.998,2.481 C13.421,2.481 12.582,2.341 11.610,2.180 C10.391,1.976 9.014,1.747 7.900,1.747 C7.862,1.747 7.824,1.748 7.786,1.748 C7.461,1.752 6.395,1.799 6.328,2.193 L5.298,8.231 C5.242,8.555 5.007,8.818 4.693,8.907 C2.198,9.612 1.688,10.362 1.688,10.524 C1.688,10.695 2.236,11.482 4.914,12.203 C7.330,12.853 10.556,13.211 13.998,13.211 C17.440,13.211 20.666,12.853 23.081,12.203 C25.760,11.482 26.307,10.695 26.307,10.524 L26.307,10.524 Z"/>
+									</svg>
+								</i>
+							</div>
+						</div>
+												</div>
+		</div>
+	</section>
+
+	<!-- end Questions -->
+
+	<!--S_VIEW-->
+
+	<section class="s_view">
+		<div class="container">
+			<div class="last_articles">
+																								<div class="last_articles-item box">
+								<a href="https://nus.org.ua/articles/yak-rozvytok-movlennya-doshkilnyat-vplyvaye-na-matematychni-dosyagnennya-v-shkoli-dopovid-yevropejskoyi-komisiyi/" class="last_articles-img">
+									<img src="https://nus.org.ua/wp-content/uploads/2021/02/Depositphotos_77372908_xl-2015-scaled-e1614078933771.jpg" alt="" data-object-fit="cover">
+								</a>
+								<div class="last_articles-tag">
+																																																											<a href="https://nus.org.ua/tags/5" class="tag">батькам,</a>
+																																																												<a href="https://nus.org.ua/tags/76" class="tag">вчителям</a>
+																			</div>
+								<a href="https://nus.org.ua/articles/yak-rozvytok-movlennya-doshkilnyat-vplyvaye-na-matematychni-dosyagnennya-v-shkoli-dopovid-yevropejskoyi-komisiyi/" class="last_articles-link">
+									Як розвиток мовлення дошкільнят впливає на математичні досягнення в школі – доповідь Європейської комісії								</a>
+							</div>
+												<div class="last_articles-item box">
+								<a href="https://nus.org.ua/articles/formuvalne-otsinyuvannya-zmishane-ta-navchannya-cherez-doslidzhennya-rozpovidaye-vchytelka-pochatkovyh-klasiv/" class="last_articles-img">
+									<img src="https://nus.org.ua/wp-content/uploads/2021/02/Formuvalne-otsinyuvannya-zmishane-ta-navchannya-cherez-doslidzhennya.jpg" alt="" data-object-fit="cover">
+								</a>
+								<div class="last_articles-tag">
+																																																											<a href="https://nus.org.ua/tags/5" class="tag">батькам,</a>
+																																																												<a href="https://nus.org.ua/tags/76" class="tag">вчителям</a>
+																			</div>
+								<a href="https://nus.org.ua/articles/formuvalne-otsinyuvannya-zmishane-ta-navchannya-cherez-doslidzhennya-rozpovidaye-vchytelka-pochatkovyh-klasiv/" class="last_articles-link">
+									Формувальне оцінювання, змішане та навчання через дослідження. Розповідає вчителька початкових класів								</a>
+							</div>
+												<div class="last_articles-item box">
+								<a href="https://nus.org.ua/articles/do-uvagy-vchyteliv-modul-na-23-j-tyzhden-z-ukrayinskoyi-movy-dlya-4-h-pilotnyh-klasiv/" class="last_articles-img">
+									<img src="https://nus.org.ua/wp-content/uploads/2021/02/Depositphotos_231396842_xl-2015-scaled-e1613987807375.jpg" alt="" data-object-fit="cover">
+								</a>
+								<div class="last_articles-tag">
+																																																											<a href="https://nus.org.ua/tags/5" class="tag">батькам,</a>
+																																																												<a href="https://nus.org.ua/tags/76" class="tag">вчителям</a>
+																			</div>
+								<a href="https://nus.org.ua/articles/do-uvagy-vchyteliv-modul-na-23-j-tyzhden-z-ukrayinskoyi-movy-dlya-4-h-pilotnyh-klasiv/" class="last_articles-link">
+									До уваги вчителів! Модуль на 23-й тиждень з української мови для 4-х пілотних класів								</a>
+							</div>
+												<div class="last_articles-item box">
+								<a href="https://nus.org.ua/articles/yak-rozrahovuyut-zarplatu-shkilnyh-pedagogiv-infografika/" class="last_articles-img">
+									<img src="https://nus.org.ua/wp-content/uploads/2021/02/YAk-rozrahovuyut-zarplatu-shkilnyh-pedagogiv.-INFOGRAFIKA.jpg" alt="" data-object-fit="cover">
+								</a>
+								<div class="last_articles-tag">
+																																																											<a href="https://nus.org.ua/tags/76" class="tag">вчителям,</a>
+																																																												<a href="https://nus.org.ua/tags/75" class="tag">директорам</a>
+																			</div>
+								<a href="https://nus.org.ua/articles/yak-rozrahovuyut-zarplatu-shkilnyh-pedagogiv-infografika/" class="last_articles-link">
+									Як розраховують зарплату шкільних педагогів. ІНФОГРАФІКА								</a>
+							</div>
+												</div>
+			<div class="s_view-bottom_line">
+
+                                    <div class="big_articles-wrap box">
+                        <a href="https://nus.org.ua/articles/yak-rozpovidaty-pro-pysmennykiv-i-yihni-tvory-shhob-uchnyam-zajshlo/" class="big_articles">
+                            <div class="wrap_img">
+                                <img src="https://nus.org.ua/wp-content/uploads/2021/02/Depositphotos_113971910_xl-2015-scaled-e1614264062285.jpg" alt="" data-object-fit="cover">
+                            </div>
+                            <div class="big_articles-tag">
+
+								                                                                                                                                                <span class="tag">батькам,</span>
+                                                                                                                                                                                    <span class="tag">вчителям,</span>
+                                                                                                                                                                                    <span class="tag">директорам,</span>
+                                                                                                                                                                                    <span class="tag">література,</span>
+                                                                                                                                                                                    <span class="tag">учням</span>
+                                                                                                </div>
+                            <h3 class="big_articles-head">
+                                Як розповідати про письменників і їхні твори, щоб учням “зайшло”                            </h3>
+                        </a>
+                    </div>
+                    				<div class="block_view">
+                                                                                            <a href="https://nus.org.ua/view/ne-nova-ukrayinska-shkola-yak-zatverdzhena-typova-osvitnya-programa-dlya-5-9-klasiv-nivelyuye-reformu/" class="block_view-item box">
+                                <div class="block_view-item-foto">
+                                    <img src="https://nus.org.ua/wp-content/uploads/2018/05/11059914_1018092604870581_4644105895896115270_n.jpg" alt="">
+                                                                        <div class="btn_view"> <!-- делаем ссылку в ссылке -->
+                                    	<object><a href="https://nus.org.ua/view/" class="link-in-link">ПОГЛЯД</a></object>
+                                    </div>
+                                </div>
+                                <p class="block_view-item-name">
+									Іванна Коберник                                </p>
+                                <div class="block_view-item-quote">
+                                    НЕ НОВА УКРАЇНСЬКА ШКОЛА – як затверджена типова освітня програма для 5–9 класів нівелює реформу                                </div>
+                            </a>
+                                                    <a href="https://nus.org.ua/view/chomu-pidlitky-chasto-chynyat-neobdumano-j-shho-z-tsym-mozhna-zrobyty-batkam-ta-v-shkoli/" class="block_view-item box">
+                                <div class="block_view-item-foto">
+                                    <img src="https://nus.org.ua/wp-content/uploads/2019/10/Svitlana-Rojz.jpg" alt="">
+                                                                        <div class="btn_view"> <!-- делаем ссылку в ссылке -->
+                                    	<object><a href="https://nus.org.ua/view/" class="link-in-link">ПОГЛЯД</a></object>
+                                    </div>
+                                </div>
+                                <p class="block_view-item-name">
+									Світлана Ройз                                </p>
+                                <div class="block_view-item-quote">
+                                    Чому підлітки чинять необдумано й що з цим можна зробити батькам та в школі                                </div>
+                            </a>
+                                            				</div>
+			</div>
+		</div>
+	</section>
+
+	<!--S_VIEW END-->
+
+
+	<!-- affiche -->
+	<section class="s_affiche-main">
+		<div class="container">
+			<h2 class="section_title"><a href="https://nus.org.ua/affiche/">АФІША</a></h2>
+			<div class="affiche_wrapper fw">
+																	<div class="affiche_item-wrapper box">
+						<a class="affiche_item" href="https://nus.org.ua/affiche/123131-2-2/">
+							<div class="affiche_top">
+								<p class="affiche_place">онлайн</p>
+								<div class="affiche_date-wrapper">
+									<p class="affiche_date">11/03</p>
+																	</div>
+								<div class="affiche_info">
+									<div class="wrap_tags">
+																															<span class="affiche_tag tag" href="#">батькам</span>
+																					<span class="affiche_tag tag" href="#">вчителям</span>
+																					<span class="affiche_tag tag" href="#">директорам</span>
+																			</div>
+									<p>Вебінар “Нейроосвіта для педагогів: готовність до школи”</p>
+								</div>
+							</div>
+							<div class="affiche_bottom">
+								<p class="affiche_bold">Організовує</p>
+								<span class="affiche_org">ГС "Освіторія"</span>
+							</div>
+						</a>
+					</div>
+									<div class="affiche_item-wrapper box">
+						<a class="affiche_item" href="https://nus.org.ua/affiche/123131/">
+							<div class="affiche_top">
+								<p class="affiche_place">Онлайн, з використанням конференц-зв’язку Zoom</p>
+								<div class="affiche_date-wrapper">
+									<p class="affiche_date">26/03</p>
+																			<p class="affiche_date">30/03</p>
+																	</div>
+								<div class="affiche_info">
+									<div class="wrap_tags">
+																															<span class="affiche_tag tag" href="#">учням</span>
+																			</div>
+									<p>Філософський онлайн-семінар для підлітків “Обрії майбутнього 7.0”</p>
+								</div>
+							</div>
+							<div class="affiche_bottom">
+								<p class="affiche_bold">Організовує</p>
+								<span class="affiche_org">Аспен Інститут Київ та Klitschko Foundation</span>
+							</div>
+						</a>
+					</div>
+									<div class="affiche_item-wrapper box">
+						<a class="affiche_item" href="https://nus.org.ua/affiche/0243324-3/">
+							<div class="affiche_top">
+								<p class="affiche_place">Київ</p>
+								<div class="affiche_date-wrapper">
+									<p class="affiche_date">30/05</p>
+																	</div>
+								<div class="affiche_info">
+									<div class="wrap_tags">
+																															<span class="affiche_tag tag" href="#">батькам</span>
+																					<span class="affiche_tag tag" href="#">вчителям</span>
+																					<span class="affiche_tag tag" href="#">директорам</span>
+																					<span class="affiche_tag tag" href="#">учням</span>
+																			</div>
+									<p>Благодійна пробіжка “Старт ПОКОЛІННЯ Z”</p>
+								</div>
+							</div>
+							<div class="affiche_bottom">
+								<p class="affiche_bold">Організовує</p>
+								<span class="affiche_org">БО «БФ «Пробіг під каштанами», Київська міська державна адміністрація, Департамент молоді та спорту міста Києва та Агентство маркетингових комунікацій «DIALLA» </span>
+							</div>
+						</a>
+					</div>
+									<div class="affiche_item-wrapper box">
+						<a class="affiche_item" href="https://nus.org.ua/affiche/232-2-2-2-2/">
+							<div class="affiche_top">
+								<p class="affiche_place">онлайн</p>
+								<div class="affiche_date-wrapper">
+									<p class="affiche_date">21/06</p>
+																			<p class="affiche_date">02/07</p>
+																	</div>
+								<div class="affiche_info">
+									<div class="wrap_tags">
+																															<span class="affiche_tag tag" href="#">інклюзія</span>
+																					<span class="affiche_tag tag" href="#">учням</span>
+																			</div>
+									<p>“Назустріч Європі! Толерантність та інклюзія”: онлайн-табір для дітей 11-13 років</p>
+								</div>
+							</div>
+							<div class="affiche_bottom">
+								<p class="affiche_bold">Організовує</p>
+								<span class="affiche_org">Французький Інститут в Україні</span>
+							</div>
+						</a>
+					</div>
+							</div>
+		</div>
+	</section>
+	<!-- end affiche -->
+
+<!--S_REFORM-->
+<section class="s_reform">
+    <div class="container">
+        
+        <div class="block_reform-wrap">
+            <div class="block_reform">
+                                                                            <a href="https://nus.org.ua/category/about/calendar/" class="block_reform-item">
+                            <div class="icon">
+                                <img src="https://nus.org.ua/wp-content/uploads/2017/06/reform1.png">
+                            </div>
+                            <div class="content">
+                                <p class="head">Календар</p>
+                                <p class="text">
+                                    <div id="fb-root"></div>
+<p>Календар реформи вказує, які її частини завершаться в які строки. Це офіційний документ, який визначає впровадження реформи</p>
+                                </p>
+                            </div>
+                        </a>
+                                            <a href="https://nus.org.ua/category/about/graduate/" class="block_reform-item">
+                            <div class="icon">
+                                <img src="https://nus.org.ua/wp-content/uploads/2017/06/reform2.png">
+                            </div>
+                            <div class="content">
+                                <p class="head">Випускники нової школи</p>
+                                <p class="text">
+                                    <div id="fb-root"></div>
+<p>Цей розділ пояснює, яким бачать випускника Нової Української школи автори реформи</p>
+                                </p>
+                            </div>
+                        </a>
+                                            <a href="https://nus.org.ua/category/about/formula/" class="block_reform-item">
+                            <div class="icon">
+                                <img src="https://nus.org.ua/wp-content/uploads/2017/06/reform3.png">
+                            </div>
+                            <div class="content">
+                                <p class="head">Формула</p>
+                                <p class="text">
+                                    <div id="fb-root"></div>
+<p>Формула реформи розкриває основні поняття і сутності освітньої реформи – її концепцію, стандарти тощо</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+                                </p>
+                            </div>
+                        </a>
+                                                </div>
+        </div>
+    </div>
+</section>
+<!--S_REFORM END -->
+<!-- footer-->
+<footer class="s_footer">
+                <div class="footer_search"  style="background-size: auto;">
+            <div class="container">
+                                <div class="s_header-middle_wrapper fw">
+                                                                <a class="s_header-logo-wrapper logo-wrapper" href="/" style="padding: 0;">
+                            <img class="logo-img" src="https://nus.org.ua/wp-content/uploads/2017/06/nus_logo.png" alt="" style="max-width: inherit;width: auto;">
+                        </a>
+                                                                
+                    <advanced-search ref="form" :option-key='3' :whatever=[["batkam","\u0411\u0430\u0442\u044c\u043a\u0430\u043c"],["techers","\u0412\u0447\u0438\u0442\u0435\u043b\u044f\u043c"],["derectors","\u0414\u0438\u0440\u0435\u043a\u0442\u043e\u0440\u0430\u043c"],["students","\u0423\u0447\u043d\u044f\u043c"]]></advanced-search>
+
+                </div>
+            </div>
+        </div>
+            <div class="footer_bottom">
+            <div class="container">
+                <div class="footer_wrapper fw">
+                   <div class="footer_social-wrapper fw  hidden-sm hidden-md">
+                        <div class="footer_social-wrapper-top">
+                            <a target="_blank" class="footer_social" href="https://www.facebook.com/nus.org.ua/"><img src="https://nus.org.ua/wp-content/themes/nusch/assets/img/fb.png"></a>
+                            <a target="_blank" class="footer_social" href="https://invite.viber.com/?g2=AQA2XPnE%2F%2BJMJUn4Gsg%2FsaWfkLV91gZn0mu3CfsNC1SMbDBYdmGsUqEUvQ23%2Br03"><img src="https://nus.org.ua/wp-content/themes/nusch/assets/img/vi.png"></a>
+                            <a target="_blank" class="footer_social" href="https://t.me/vchyshchoho"><img src="https://nus.org.ua/wp-content/themes/nusch/assets/img/te.png"></a>
+                            <a target="_blank" class="footer_social" href="https://www.youtube.com/channel/UCBJohlinaztSDbhUmtFjE5g"><img src="https://nus.org.ua/wp-content/themes/nusch/assets/img/yo.png"></a>
+                            <a target="_blank" class="footer_social" href="https://twitter.com/nus_org_ua"><img src="https://nus.org.ua/wp-content/themes/nusch/assets/img/tw.png"></a>
+                        </div>
+                                                <a href='#' class="btn_write footer_write hidden-xs hidden-lg">Напишіть нам</a>
+                        <p class="developer hidden-xs">Стокові фото від</p>
+                        <a href="https://depositphotos.com/" target="_blank" class="footer_social-wrapper-bottom hidden-xs">
+                            <img src="https://nus.org.ua/wp-content/themes/nusch/assets/img/pic.png" alt="">
+                        </a>
+                        <p class="developer hidden-xs">Розробка веб-сайту <a href="http://www.activemedia.ua/" target="_blank">"Activemedia"</a></p>
+                    </div>
+                    <div class="footer_write-wrapper hidden-sm hidden-md">
+                        <a href='#' class="btn_write footer_write">Напишіть нам</a>
+                        <a href="https://nus.org.ua/banery-nush/" class="btn-banner footer_write">Банери НУШ</a>
+                        <div style="display:none">
+                            <ul id="Top-line" class="hexa-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3946"><a href="https://nus.org.ua/covid19/">УРОКИ COVID-19</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3947"><a href="https://nus.org.ua/tags/411/">#НАВЧАННЯ ДОБРОЧЕСНОСТІ</a></li>
+</ul>                        </div>
+                    </div>
+                    <div class="footer_subscribe">
+
+                       <div class="footer_social-wrapper-top hidden-xs hidden-lg">
+                            <a target="_blank" class="footer_social footer_tw" href="https://twitter.com/nus_org_ua"></a>
+                            <a target="_blank" class="footer_social footer_in" href="#"></a>
+                            <a target="_blank" class="footer_social footer_gp" href="#"></a>
+                            <a target="_blank" class="footer_social footer_fb" href="https://www.facebook.com/nus.org.ua/"></a>
+                        </div>
+
+                        <a href='#' class="btn_write footer_write hidden-xs hidden-lg">Напишіть нам</a>
+                        <a href="https://nus.org.ua/banery-nush/" class="btn-banner footer_write hidden-xs hidden-lg">Банери НУШ</a>
+
+                        <p class="footer_subscribe-title">Підпишіться на новини</p>
+                        <form id="subscribe_form">
+                            <div class="footer_subscribe-input_wrapper fw">
+                                <input type="email" name="mail" class="footer_subscribe-input" placeholder="Ваш e-mail" require>
+                                <button class="">
+                                    <span class="footer_subscribe-btn">
+                                        <svg
+                                            width="24px" height="24px">
+                                        <path fill-rule="evenodd"  fill="rgb(0, 0, 0)"
+                                                d="M20.349,7.791 L15.718,7.791 L15.718,4.351 C15.718,2.654 15.228,1.424 14.258,0.686 C12.735,-0.473 10.667,0.178 10.577,0.209 L9.954,0.414 L9.954,5.309 C9.954,6.493 9.331,7.545 8.099,8.441 C7.698,8.734 7.599,9.308 7.881,9.728 C8.163,10.143 8.717,10.246 9.123,9.954 C10.835,8.708 11.740,7.103 11.740,5.309 L11.740,1.849 C12.185,1.808 12.774,1.839 13.210,2.167 C13.694,2.536 13.942,3.269 13.942,4.341 L13.942,9.626 L20.354,9.626 C21.368,9.626 22.194,10.462 22.224,11.507 L20.893,20.165 L20.888,20.196 C20.829,20.678 20.656,22.149 18.489,22.149 L8.510,22.149 C7.530,22.149 6.733,21.324 6.733,20.309 L6.733,11.748 C6.733,10.185 5.506,8.908 3.992,8.908 L2.741,8.908 C1.232,8.908 -0.000,10.179 -0.000,11.748 L-0.000,20.529 C-0.000,22.093 1.227,23.369 2.741,23.369 C3.230,23.369 3.631,22.954 3.631,22.446 C3.631,21.939 3.230,21.523 2.741,21.523 C2.211,21.523 1.781,21.078 1.781,20.529 L1.781,11.748 C1.781,11.200 2.211,10.754 2.741,10.754 L3.992,10.754 C4.522,10.754 4.952,11.200 4.952,11.748 L4.952,20.529 C4.952,20.601 4.962,20.678 4.977,20.744 C5.185,22.575 6.689,24.000 8.510,24.000 L18.479,24.000 C19.488,24.000 20.388,23.749 21.071,23.272 C21.952,22.662 22.496,21.682 22.644,20.442 L23.985,11.732 C23.995,11.681 24.000,11.625 24.000,11.574 C24.000,9.487 22.362,7.791 20.349,7.791 L20.349,7.791 Z"/>
+                                        </svg>
+                                    </span>
+                                </button>
+                            </div>
+                        </form>
+
+                        <p class="developer hidden-xs hidden-lg">Стокові фото від</p>
+                        <a href="https://depositphotos.com/" target="_blank" class="footer_social-wrapper-bottom hidden-xs hidden-lg">
+                            <img src="https://nus.org.ua/wp-content/themes/nusch/assets/img/pic.png" alt="">
+                        </a>
+                        <p class="developer hidden-xs hidden-lg">Розробка веб-сайту <a href="http://www.activemedia.ua/" target="_blank">"Activemedia"</a></p>
+
+                    </div>
+
+                    <div class="footer_copyrigth_wrapper">
+                        <p class="footer_copyrigth">© Нова Українська школа, 2017</p>
+                        <p class="footer_copyrigth_text" style="margin-bottom: 10px;">Проект створений <a href="https://nus.org.ua/zvit-diyalnosti-go-smart-osvita-shho-zrobleno-i-dlya-chogo-2016-2018-roky/?fbclid=IwAR1uzaLRb3LIwGu_KNTMblehZwCWFwpmkhphDqCIrLuHBntO2oA7zcTeLWM">ГО "Смарт Освіта"</a> у партнерстві з <a href="https://mon.gov.ua/ua" target="_blank">Міністерством освіти і науки України</a> для комунікації реформи "Нова Українська Школа"</p>
+                        <p class="footer_copyrigth_text">Використання матеріалів сайту дозволено лише з посиланням (для інтернет-видань - гіперпосиланням)</p>
+                    </div>
+                    <div class="mobil-visible hidden-sm hidden-md hidden-lg">
+                        <p class="developer">Стокові фото від</p>
+                        <a href="https://depositphotos.com/" target="_blank" class="footer_social-wrapper-bottom">
+                            <img src="https://nus.org.ua/wp-content/themes/nusch/assets/img/pic.png" alt="">
+                        </a>
+                        <p class="developer">Розробка веб-сайту <a href="http://www.activemedia.ua/" target="_blank">"Activemedia"</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+            
+    <div class="popup" style="display: none;">
+        <div class="popup-body">
+            <div class="popup-close">
+                <span></span>
+                <span></span>
+            </div>
+            <div class="popup-form_callback popup_content" style="display: none;">
+                <p class="popup-head">Напишіть нам</p>
+                <form action="" id="form_popup">
+                    <div class="wrap_input">
+                        <span class="title">E-mail</span>
+                        <input type="email" name="mail">
+                    </div>
+                    <div class="wrap_input">
+                        <span class="title">Ім’я</span>
+                        <input type="text" name="name">
+                    </div>
+                    <div class="wrap_input">
+                        <span class="title">Повідомлення</span>
+                        <textarea name="message"></textarea>
+                    </div>
+                    <button class="btn_send">Надіслати</button>
+                </form>
+            </div>
+            <div class="popup-thank popup_content" style="display: none;">
+                <p class="popup-head">Дякуємо!</p>
+                <p class="text">Ми дуже цінуємо те, що Ви знайшли час нам написати. І спробуємо відповісти якомога раніше!</p>
+                <p class="title">
+                    Щиро Ваша, команда сайту
+                </p>
+            </div>
+            <div class="popup-subscribe popup_content" style="display: none;">
+                <p class="popup-head">Дякуємо!</p>
+                <p class="text">
+                    На вказану адресу <span class="email_subscribe"></span> відправлен лист з підтвердженням. Будь ласка, підтвердіть ваше бажання отримувати новини
+                
+                </p>
+                <p class="title">
+                    Щиро Ваша, команда сайту 
+                </p>
+            </div>
+        </div>
+    </div>
+</footer>
+<!-- end footer-->
+
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js" type="text/javascript"></script>
+<script src="https://cdn.jsdelivr.net/lodash/4.17.4/lodash.min.js" type="text/javascript"></script>
+
+	<div id="fb-root"></div>
+	<script type='text/javascript' id='disqus_count-js-extra'>
+/* <![CDATA[ */
+var countVars = {"disqusShortname":"nus-org-ua"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://nus.org.ua/wp-content/plugins/disqus-comment-system/public/js/comment_count.js?ver=3.0.21' id='disqus_count-js'></script>
+<script type='text/javascript' src='https://nus.org.ua/wp-content/plugins/social-polls-by-opinionstage/public/js/shortcodes.js?ver=19.7.2' id='opinionstage-shortcodes-js'></script>
+<script type='text/javascript' id='wp-polls-js-extra'>
+/* <![CDATA[ */
+var pollsL10n = {"ajax_url":"https:\/\/nus.org.ua\/wp-admin\/admin-ajax.php","text_wait":"Your last request is still being processed. Please wait a while ...","text_valid":"Please choose a valid poll answer.","text_multiple":"Maximum number of choices allowed: ","show_loading":"1","show_fading":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://nus.org.ua/wp-content/plugins/wp-polls/polls-js.js?ver=2.75.5' id='wp-polls-js'></script>
+<script type='text/javascript' src='https://nus.org.ua/wp-content/themes/nusch/assets/js/loadmore.js?ver=5.5.1' id='true_loadmore-js'></script>
+<script type='text/javascript' src='https://nus.org.ua/wp-content/themes/nusch/assets/libs/slick/slick.min.js?ver=5.5.1' id='av_slick-js'></script>
+<script type='text/javascript' src='https://nus.org.ua/wp-content/themes/nusch/assets/libs/polyfill-object-fit/polyfill.object-fit.min.js?ver=5.5.1' id='av_polyfill-js'></script>
+<script type='text/javascript' src='https://nus.org.ua/wp-content/themes/nusch/assets/libs/datepicker/datepicker.min.js?ver=5.5.1' id='av_datepicker-js'></script>
+<script type='text/javascript' src='https://nus.org.ua/wp-content/themes/nusch/assets/libs/scroll/jquery.mCustomScrollbar.js?ver=5.5.1' id='av_scroll-js'></script>
+<script type='text/javascript' src='https://nus.org.ua/wp-content/themes/nusch/assets/libs/moment/moment.min.js?ver=5.5.1' id='av_moment-js'></script>
+<script type='text/javascript' src='https://nus.org.ua/wp-content/themes/nusch/assets/libs/vue/vue.js?ver=5.5.1' id='av_vue-js'></script>
+<script type='text/javascript' src='https://nus.org.ua/wp-content/themes/nusch/assets/libs/jquery.validate.min.js?ver=5.5.1' id='av_validate-js'></script>
+<script type='text/javascript' src='https://nus.org.ua/wp-content/themes/nusch/assets/js/main.js?ver=5.5.1' id='av_main-js'></script>
+<script type='text/javascript' src='https://nus.org.ua/wp-content/plugins/super-socializer/js/front/combined.js?ver=7.13' id='the_champ_combined_script-js'></script>
+<script type='text/javascript' src='https://nus.org.ua/wp-includes/js/wp-embed.min.js?ver=5.5.1' id='wp-embed-js'></script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-78574824-1', 'auto');
+  ga('send', 'pageview');
+
+$(document).ready(function() {
+
+    $(window).scroll(function() {
+        if($(this).scrollTop() != 0) { 
+            $('#GotoTop').fadeIn(); 
+        } else { 
+            $('#GotoTop').fadeOut(); 
+        }
+    });
+
+    $('#GotoTop').click(function() {
+        $('body,html').animate({scrollTop:0},800);
+    });
+
+});
+
+</script>
+    <div id="GotoTop"></div>
+</body>
+</html>

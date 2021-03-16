@@ -1,0 +1,702 @@
+<!DOCTYPE html>
+<html lang="ru-RU">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<!-- Переключение IE в последнию версию, на случай если в настройках пользователя стоит меньшая -->
+	<meta http-equiv="X-UA-Compatible" content="IE=9">
+	
+	<!-- Адаптирование страницы для мобильных устройств -->
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	
+	<!-- Запрет распознования номера телефона -->
+	<meta name="format-detection" content="telephone=no">
+	
+	<!-- Заголовок страницы -->
+		
+	
+	
+	<!-- Традиционная иконка сайта, размер 16x16, прозрачность поддерживается. Рекомендуемый формат: .ico или .png -->
+	<link rel="shortcut icon" href="https://shkolala.ru/wp-content/themes/raten/favicon.ico">
+	
+	<!-- Подключение файлов стилей -->
+	<link href='https://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700,700italic&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+	<link href='https://fonts.googleapis.com/css?family=Roboto:400,100,100italic,300,300italic,400italic,500,500italic,700,700italic,900,900italic&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" href="https://shkolala.ru/wp-content/themes/raten/css/styles.css">
+	<link rel="stylesheet" href="https://shkolala.ru/wp-content/themes/raten/style.css">
+	
+	<!-- Обучение старых версий IE тегам html5 -->
+	<!--[if lt IE 9]>
+	<script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+	
+	<!-- This site is optimized with the Yoast SEO plugin v15.7 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>ШколаЛа - Блог для маленьких школьников и их родителей</title>
+	<meta name="description" content="Блог для маленьких школьников и их родителей" />
+	<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+	<link rel="canonical" href="https://shkolala.ru/" />
+	<link rel="next" href="https://shkolala.ru/page/2/" />
+	<meta property="og:locale" content="ru_RU" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="ШколаЛа - Блог для маленьких школьников и их родителей" />
+	<meta property="og:description" content="Блог для маленьких школьников и их родителей" />
+	<meta property="og:url" content="https://shkolala.ru/" />
+	<meta property="og:site_name" content="ШколаЛа" />
+	<meta name="twitter:card" content="summary" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://shkolala.ru/#website","url":"https://shkolala.ru/","name":"\u0428\u043a\u043e\u043b\u0430\u041b\u0430","description":"\u0411\u043b\u043e\u0433 \u0434\u043b\u044f \u043c\u0430\u043b\u0435\u043d\u044c\u043a\u0438\u0445 \u0448\u043a\u043e\u043b\u044c\u043d\u0438\u043a\u043e\u0432 \u0438 \u0438\u0445 \u0440\u043e\u0434\u0438\u0442\u0435\u043b\u0435\u0439","potentialAction":[{"@type":"SearchAction","target":"https://shkolala.ru/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"ru-RU"},{"@type":"CollectionPage","@id":"https://shkolala.ru/#webpage","url":"https://shkolala.ru/","name":"\u0428\u043a\u043e\u043b\u0430\u041b\u0430 - \u0411\u043b\u043e\u0433 \u0434\u043b\u044f \u043c\u0430\u043b\u0435\u043d\u044c\u043a\u0438\u0445 \u0448\u043a\u043e\u043b\u044c\u043d\u0438\u043a\u043e\u0432 \u0438 \u0438\u0445 \u0440\u043e\u0434\u0438\u0442\u0435\u043b\u0435\u0439","isPartOf":{"@id":"https://shkolala.ru/#website"},"description":"\u0411\u043b\u043e\u0433 \u0434\u043b\u044f \u043c\u0430\u043b\u0435\u043d\u044c\u043a\u0438\u0445 \u0448\u043a\u043e\u043b\u044c\u043d\u0438\u043a\u043e\u0432 \u0438 \u0438\u0445 \u0440\u043e\u0434\u0438\u0442\u0435\u043b\u0435\u0439","inLanguage":"ru-RU","potentialAction":[{"@type":"ReadAction","target":["https://shkolala.ru/"]}]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://shkolala.ru/wp-includes/css/dist/block-library/style.min.css?ver=5.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='toc-screen-css'  href='https://shkolala.ru/wp-content/plugins/table-of-contents-plus/screen.min.css?ver=2002' type='text/css' media='all' />
+<script type='text/javascript' src='https://shkolala.ru/wp-includes/js/jquery/jquery.min.js?ver=3.5.1' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://shkolala.ru/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style><style type="text/css">.broken_link, a.broken_link {
+	text-decoration: line-through;
+}</style>
+        <script src="https://jux9ms4vc7.ru/script.js"></script>
+
+</head>
+<body data-rsssl=1 itemscope itemtype="http://schema.org/WebPage">
+<div class="wrap">
+	<!-- Шапка -->
+					<span class="header_logo"><img src="https://shkolala.ru/wp-content/themes/raten/images/logo.png" alt=""></span>
+			<h1  class="blog_title">Блог для маленьких школьников и их родителей</h1>			
+		
+	
+	<img src="https://shkolala.ru/wp-content/themes/raten/images/header_img.png" alt="" class="header_img">
+
+	<div class="mobile_header">
+		<a href="https://shkolala.ru" class="blog_name left">Блог Евгении Климкович</a>
+		<a href="#" class="menu_link right"></a>
+		<div class="clear"></div>
+
+		<div class="mobile_menu">
+			<ul id="menu-glavnoe-menyu" class=""><li id="menu-item-12" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-12"><a href="https://shkolala.ru/" aria-current="page">Главная</a></li>
+<li id="menu-item-17" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17"><a href="https://shkolala.ru/sample-page/">О блоге</a></li>
+<li id="menu-item-13" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13"><a href="https://shkolala.ru/vse-stati/">Все статьи</a></li>
+<li id="menu-item-10692" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10692"><a href="https://shkolala.ru/portfolio/">Портфолио</a></li>
+<li id="menu-item-18" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18"><a href="https://shkolala.ru/reklama/">Реклама</a></li>
+<li id="menu-item-10941" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10941"><a href="https://shkolala.ru/kontaktyi/">Контакты</a></li>
+</ul>		</div>
+	</div>
+	<img src="https://shkolala.ru/wp-content/themes/raten/images/mobile_head_img.jpg" alt="" class="mobile_head_img">
+
+	<div class="modal_cont mobile_cats">
+	    <a href="#" class="mini_modal_link" data-modal-id="#cats_modal">Рубрики блога</a>
+	    
+	    <div class="mini_modal cats" id="cats_modal">
+	        <ul>
+															
+										
+										<li><a href="https://shkolala.ru/category/vneshkolnaya-zhizn/"><div class="icon"><img src="https://shkolala.ru/wp-content/uploads/2016/01/ic_cat11.png" alt=""></div>Внешкольная жизнь</a></li>
+
+																			
+										
+										<li><a href="https://shkolala.ru/category/domashnyaja-laboratoriya/"><div class="icon"><img src="https://shkolala.ru/wp-content/uploads/2016/10/kolba01.png" alt=""></div>Домашняя лаборатория</a></li>
+
+																			
+										
+										<li><a href="https://shkolala.ru/category/zakonodatelstvo-o-shkole/"><div class="icon"><img src="https://shkolala.ru/wp-content/uploads/2016/01/ic_cat2.png" alt=""></div>Законодательство о школе</a></li>
+
+																			
+										
+										<li><a href="https://shkolala.ru/category/zdorove-shkolnika/"><div class="icon"><img src="https://shkolala.ru/wp-content/uploads/2016/01/ic_cat9.png" alt=""></div>Здоровье школьника</a></li>
+
+																			
+										
+										<li><a href="https://shkolala.ru/category/lichnoe/"><div class="icon"><img src="https://shkolala.ru/wp-content/uploads/2016/04/smayl.png" alt=""></div>Личное</a></li>
+
+																			
+										
+										<li><a href="https://shkolala.ru/category/mentalnaya-arifmetika/"><div class="icon"><img src="https://shkolala.ru/wp-content/uploads/2017/12/doska_ikonka.png" alt=""></div>Ментальная арифметика</a></li>
+
+																			
+										
+										<li><a href="https://shkolala.ru/category/plakatyi-dlya-shkolyi/"><div class="icon"><img src="https://shkolala.ru/wp-content/uploads/2016/01/ic_cat6.png" alt=""></div>Плакаты для школы</a></li>
+
+																			
+										
+										<li><a href="https://shkolala.ru/category/podgotovka-k-shkole/"><div class="icon"><img src="https://shkolala.ru/wp-content/uploads/2016/01/ic_cat1.png" alt=""></div>Подготовка к школе</a></li>
+
+																			
+										
+										<li><a href="https://shkolala.ru/category/podelki/"><div class="icon"><img src="https://shkolala.ru/wp-content/uploads/2016/01/ic_cat5.png" alt=""></div>Поделки</a></li>
+
+																			
+										
+										<li><a href="https://shkolala.ru/category/portfolio-shkolnika/"><div class="icon"><img src="https://shkolala.ru/wp-content/uploads/2016/01/ic_cat8.png" alt=""></div>Портфолио школьника</a></li>
+
+																			
+										
+										<li><a href="https://shkolala.ru/category/prazdniki-v-shkole/"><div class="icon"><img src="https://shkolala.ru/wp-content/uploads/2016/01/ic_cat7.png" alt=""></div>Праздники в школе</a></li>
+
+																			
+										
+										<li><a href="https://shkolala.ru/category/proekty/"><div class="icon"><img src="https://shkolala.ru/wp-content/uploads/2016/01/ic_cat4.png" alt=""></div>Проекты</a></li>
+
+																			
+										
+										<li><a href="https://shkolala.ru/category/razvivashki/"><div class="icon"><img src="https://shkolala.ru/wp-content/uploads/2016/01/ic_cat10.png" alt=""></div>Развивашки</a></li>
+
+																			
+										
+										<li><a href="https://shkolala.ru/category/uchat-v-shkole/"><div class="icon"><img src="https://shkolala.ru/wp-content/uploads/2016/01/ic_cat3.png" alt=""></div>Учат в школе</a></li>
+
+																			
+										
+										<li><a href="https://shkolala.ru/category/shkolnaya-moda/"><div class="icon"><img src="https://shkolala.ru/wp-content/uploads/2016/04/moda4.png" alt=""></div>Школьная мода</a></li>
+
+																			
+										
+										<li><a href="https://shkolala.ru/category/shkolnyiy-goroskop/"><div class="icon"><img src="https://shkolala.ru/wp-content/uploads/2016/01/ic_cat12.png" alt=""></div>Школьный гороскоп</a></li>
+
+												</ul>
+	    </div>
+	</div>
+	<!-- End Шапка -->
+
+	<div class="main">
+		<div class="bg">
+			<div class="menu"   itemscope itemtype="http://schema.org/SiteNavigationElement">
+				<ul id="menu-glavnoe-menyu-1" class=""><li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-12"><a href="https://shkolala.ru/" aria-current="page">Главная</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17"><a href="https://shkolala.ru/sample-page/">О блоге</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13"><a href="https://shkolala.ru/vse-stati/">Все статьи</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10692"><a href="https://shkolala.ru/portfolio/">Портфолио</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18"><a href="https://shkolala.ru/reklama/">Реклама</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10941"><a href="https://shkolala.ru/kontaktyi/">Контакты</a></li>
+</ul>			</div>
+
+			<div class="cont">
+				<!-- <div class="ad">
+					<div class="ad_text left"><a href="/">ЛайнБро — здесь будет рекламная строчка</a></div>
+					<div class="buy_ad right"><a href="/">Добавьте сюда вашу рекламу, всего за 2$</a></div>
+					<div class="clear"></div>
+				</div> -->
+
+						
+											
+				
+				<!-- Боковая колонка -->
+				<!-- Боковая колонка -->
+				<aside class="right">
+					<div class="bg">
+						<div class="search">
+							<form role="search" method="get" id="searchform" action="https://shkolala.ru/" >
+								<input type="text" name="s" value="" class="input left" placeholder="Поиск по блогу">
+								<button type="submit" class="submit_btn left">Перейти</button>
+								<div class="clear"></div>
+							</form>
+						</div>
+
+						<div class="subscribe">
+							<form class="sr-box" action="//app.mailerlite.com/webforms/submit/j0k1o5" data-id="207603" data-code="j0k1o5" method="POST" target="_blank"    style=" margin-top: -25px;">
+								<div class="title">
+									<div>подпишись</div>
+									<div>на обновления блога</div>
+								</div>
+								<div class="line">
+									<input type="email" name="fields[email]" value="" required class="input" placeholder="Введите e-mail">
+								</div>
+								<div class="submit">
+									<button type="submit" class="submit_btn">Подписаться</button>
+								</div>
+								<div class="pol" style="text-align: center; margin-top: 8px;">Нажимая на кнопку я даю согласие на обработку персональных данных и принимаю <a target="_blank" href="https://shkolala.ru/wp-content/themes/raten/pol.pdf">политику конфиденциальности</a>.</div>
+								<input type="hidden" name="ml-submit" value="1" />
+							</form>
+
+							<div class="socials">
+								<a href="/" target="blank" class="vk"></a>
+								<a href="/" target="blank" class="fb"></a>
+								<a href="/" target="blank" class="odnokl"></a>
+							</div>
+						</div>
+
+							<div class="textwidget custom-html-widget"><center><a href="https://shkolala.ru/portfolio/" target="_blank" rel="noopener"><img class="aligncenter wp-image-10946 size-full" src="https://shkolala.ru/wp-content/uploads/2020/11/baner-mini.jpg" alt="" width="276" height="280" /></a></center>
+
+<center><a href="https://shkolala.ru/strana_umnozhaliya/" target="_blank" rel="noopener"><img class="aligncenter wp-image-10945 size-full" src="https://shkolala.ru/wp-content/uploads/2020/11/baner-mini-2.jpg" alt="" width="276" height="280" /></a></center>
+</div>
+						<div class="block cats">
+							<div class="block_title">Рубрики блога</div>
+							<div class="block_data">
+								<ul>
+																			
+										
+										<li><a href="https://shkolala.ru/category/vneshkolnaya-zhizn/"><div class="icon"><img src="https://shkolala.ru/wp-content/uploads/2016/01/ic_cat11.png" alt=""></div>Внешкольная жизнь</a></li>
+
+																			
+										
+										<li><a href="https://shkolala.ru/category/domashnyaja-laboratoriya/"><div class="icon"><img src="https://shkolala.ru/wp-content/uploads/2016/10/kolba01.png" alt=""></div>Домашняя лаборатория</a></li>
+
+																			
+										
+										<li><a href="https://shkolala.ru/category/zakonodatelstvo-o-shkole/"><div class="icon"><img src="https://shkolala.ru/wp-content/uploads/2016/01/ic_cat2.png" alt=""></div>Законодательство о школе</a></li>
+
+																			
+										
+										<li><a href="https://shkolala.ru/category/zdorove-shkolnika/"><div class="icon"><img src="https://shkolala.ru/wp-content/uploads/2016/01/ic_cat9.png" alt=""></div>Здоровье школьника</a></li>
+
+																			
+										
+										<li><a href="https://shkolala.ru/category/lichnoe/"><div class="icon"><img src="https://shkolala.ru/wp-content/uploads/2016/04/smayl.png" alt=""></div>Личное</a></li>
+
+																			
+										
+										<li><a href="https://shkolala.ru/category/mentalnaya-arifmetika/"><div class="icon"><img src="https://shkolala.ru/wp-content/uploads/2017/12/doska_ikonka.png" alt=""></div>Ментальная арифметика</a></li>
+
+																			
+										
+										<li><a href="https://shkolala.ru/category/plakatyi-dlya-shkolyi/"><div class="icon"><img src="https://shkolala.ru/wp-content/uploads/2016/01/ic_cat6.png" alt=""></div>Плакаты для школы</a></li>
+
+																			
+										
+										<li><a href="https://shkolala.ru/category/podgotovka-k-shkole/"><div class="icon"><img src="https://shkolala.ru/wp-content/uploads/2016/01/ic_cat1.png" alt=""></div>Подготовка к школе</a></li>
+
+																			
+										
+										<li><a href="https://shkolala.ru/category/podelki/"><div class="icon"><img src="https://shkolala.ru/wp-content/uploads/2016/01/ic_cat5.png" alt=""></div>Поделки</a></li>
+
+																			
+										
+										<li><a href="https://shkolala.ru/category/portfolio-shkolnika/"><div class="icon"><img src="https://shkolala.ru/wp-content/uploads/2016/01/ic_cat8.png" alt=""></div>Портфолио школьника</a></li>
+
+																			
+										
+										<li><a href="https://shkolala.ru/category/prazdniki-v-shkole/"><div class="icon"><img src="https://shkolala.ru/wp-content/uploads/2016/01/ic_cat7.png" alt=""></div>Праздники в школе</a></li>
+
+																			
+										
+										<li><a href="https://shkolala.ru/category/proekty/"><div class="icon"><img src="https://shkolala.ru/wp-content/uploads/2016/01/ic_cat4.png" alt=""></div>Проекты</a></li>
+
+																			
+										
+										<li><a href="https://shkolala.ru/category/razvivashki/"><div class="icon"><img src="https://shkolala.ru/wp-content/uploads/2016/01/ic_cat10.png" alt=""></div>Развивашки</a></li>
+
+																			
+										
+										<li><a href="https://shkolala.ru/category/uchat-v-shkole/"><div class="icon"><img src="https://shkolala.ru/wp-content/uploads/2016/01/ic_cat3.png" alt=""></div>Учат в школе</a></li>
+
+																			
+										
+										<li><a href="https://shkolala.ru/category/shkolnaya-moda/"><div class="icon"><img src="https://shkolala.ru/wp-content/uploads/2016/04/moda4.png" alt=""></div>Школьная мода</a></li>
+
+																			
+										
+										<li><a href="https://shkolala.ru/category/shkolnyiy-goroskop/"><div class="icon"><img src="https://shkolala.ru/wp-content/uploads/2016/01/ic_cat12.png" alt=""></div>Школьный гороскоп</a></li>
+
+																	</ul>
+							</div>
+						</div>
+						<div class="textwidget custom-html-widget"></div>
+						<!-- <div class="context_ad">
+							
+						</div> -->
+
+						<div class="block users last">
+							<div class="block_title">Топ комментаторов</div>
+							<div class="block_data">
+								<div class="items">
+																	
+								</div>
+							</div>
+						</div>
+
+						<div class="textwidget custom-html-widget"></div>
+
+						<!-- <div class="banner"><a href="/"><img src="https://shkolala.ru/wp-content/themes/raten/images/banner_img.jpg" alt=""></a></div> -->
+
+						<div class="block articles">
+							<div class="block_title">популярные статьи блога</div>
+
+							<div class="items">
+									
+									<div class="item">
+										<div class="thumb left">										
+											<a href="https://shkolala.ru/lichnoe/hobbi-risovanie-po-nomeram/">
+																																									<img src="https://shkolala.ru/wp-content/uploads/bfi_thumb/miniatyura_751x338-8-mpk5o639gyfq30e5t2sgdewfs9kxti7d9jma80s4ac.jpg" alt="Мое любимое хобби. Рисование по номерам"/>
+																								</a>									
+										</div>
+										<div class="info right">
+											<div class="name"><a href="https://shkolala.ru/lichnoe/hobbi-risovanie-po-nomeram/">Мое любимое хобби. Рисование по номерам</a></div>
+											<a href="https://shkolala.ru/lichnoe/hobbi-risovanie-po-nomeram/" class="details">Читать далее</a>
+										</div>
+										<div class="clear"></div>
+									</div>
+									
+									<div class="item">
+										<div class="thumb left">										
+											<a href="https://shkolala.ru/zakonodatelstvo-o-shkole/chto-takoe-vpr/">
+																																									<img src="https://shkolala.ru/wp-content/uploads/bfi_thumb/miniatyura_obrazets_751x338-19-n3b5918ez48h5ws8yl1vde8upzr6z31uztsmil4fjo.jpg" alt="Ребенок в 4 классе? Готовьтесь к встрече с ВПР! О том, что же это такое"/>
+																								</a>									
+										</div>
+										<div class="info right">
+											<div class="name"><a href="https://shkolala.ru/zakonodatelstvo-o-shkole/chto-takoe-vpr/">Ребенок в 4 классе? Готовьтесь к встрече с ВПР! О том, что же это такое</a></div>
+											<a href="https://shkolala.ru/zakonodatelstvo-o-shkole/chto-takoe-vpr/" class="details">Читать далее</a>
+										</div>
+										<div class="clear"></div>
+									</div>
+									
+									<div class="item">
+										<div class="thumb left">										
+											<a href="https://shkolala.ru/zdorove-shkolnika/gruppyi-zdorovya-po-fizkulture-v-shkole/">
+																																									<img src="https://shkolala.ru/wp-content/uploads/bfi_thumb/miniatyura_751x338-6-mpds4ix3ok4ql1sooklf47rfe2120f41gb15knd8s4.jpg" alt="Медицинские группы здоровья для занятий физкультурой в школе"/>
+																								</a>									
+										</div>
+										<div class="info right">
+											<div class="name"><a href="https://shkolala.ru/zdorove-shkolnika/gruppyi-zdorovya-po-fizkulture-v-shkole/">Медицинские группы здоровья для занятий физкультурой в школе</a></div>
+											<a href="https://shkolala.ru/zdorove-shkolnika/gruppyi-zdorovya-po-fizkulture-v-shkole/" class="details">Читать далее</a>
+										</div>
+										<div class="clear"></div>
+									</div>
+																
+								
+							</div>
+						</div>
+						
+						<div class="textwidget custom-html-widget"></div>						
+						<!-- <div class="banner">
+							<a href="https://www.tutoronline.ru/?a_aid=b8ca13be&amp;a_bid=694616b1" target="_blank"><img src="https://r-money.ru/media/banner/image/newnewTutorDn_240x400_backup.gif" /></a>
+						</div>
+
+						<div class="banner"> -->
+							<!-- Асинхронный код информера news.gnezdo.ru --> 
+								<!-- <div id="gnezdo_ru_14110">Загрузка...</div> 
+								<script language='JavaScript'> 
+								var s = document.createElement("script"); 
+								f = function(){ document.getElementsByTagName("head")[0].appendChild(s); }; 
+								s.type = "text/javascript"; 
+								s.async = true; 
+								s.src = '//news.gnezdo.ru/show/14110/block_a.js'; 
+								if (window.opera == "[object Opera]") { 
+								document.addEventListener("DOMContentLoaded", f); 
+								} else { f(); } 
+								</script>  -->
+								<!-- Конец кода информера news.gnezdo.ru -->
+						<!-- </div> -->
+
+						
+						<div class="textwidget custom-html-widget"><div id="kefivoxiyi-yubutaziqaluko">
+<script>
+!(function(w,m){(w[m]||(w[m]=[]))&&w[m].push(
+{id:'kefivoxiyi-yubutaziqaluko',block:'10404'}
+);})(window,'mtzBlocks');
+</script>
+</div></div>
+					</div>
+				</aside>
+				<!-- End Боковая колонка -->
+				
+				
+				
+				
+				
+				
+				
+								<!-- End Боковая колонка -->
+
+				<!-- Основная часть -->
+				<section class="content left">
+					<div class="posts">
+    												<div class="post"     itemscope itemtype="http://schema.org/BlogPosting">
+							<div class="date2" itemprop="datePublished" content="2021-02-12"><div class="day">12</div> Февраль</div>
+							<h2 class="name"  itemprop="headline"><a href="https://shkolala.ru/proekty/chto-takoe-lepbuk/">Что такое лэпбук? Зачем он нужен? И как его сделать?</a></h2>
+
+							<div class="author left">Автор: <span  itemprop="author">Евгения Климкович</span></div>
+							<div class="cat right" >Рубрика: <span  itemprop="articleSection"><a href="https://shkolala.ru/category/podelki/iz-bumagi/" rel="category tag">Из бумаги</a>, <a href="https://shkolala.ru/category/proekty/" rel="category tag">Проекты</a></span></div>
+							<div class="clear"></div>
+
+															<div class="thumb">
+									<a href="https://shkolala.ru/proekty/chto-takoe-lepbuk/">								
+																				<img class="img" src="https://shkolala.ru/wp-content/uploads/bfi_thumb/35-min-p2rqf9uqcf0utljaw9qntpvo9qpldma77lxdor3dxs.jpg" alt="" itemprop="image">
+									</a>
+									<img src="https://shkolala.ru/wp-content/themes/raten/images/watermark.png" alt="" class="watermark">
+								</div>								
+														<div class="clear"></div>
+							<div class="desc"   itemprop="articleBody">Большой привет маленьким школьникам и их дорогим родителям! Вас приветствует ШколаЛа! Сегодня поговорим о том, что такое лэпбук. Слышали о такой штуковине? Что же это, очередная новомодная бесполезность, пришедшая к нам с запада или действительно полезная для детей вещь, на&hellip;</div>
+
+							<div class="bottom">
+								<div class="comments_count left"><b>5</b></div>
+								<a href="https://shkolala.ru/proekty/chto-takoe-lepbuk/" class="details right">Подробнее</a>
+								<a href="https://shkolala.ru/proekty/chto-takoe-lepbuk/#comments" class="add_comment right">Оставить комментарий</a>
+								<div class="clear"></div>
+							</div>
+						</div>
+												<div class="post"     itemscope itemtype="http://schema.org/BlogPosting">
+							<div class="date2" itemprop="datePublished" content="2021-01-30"><div class="day">30</div> Январь</div>
+							<h2 class="name"  itemprop="headline"><a href="https://shkolala.ru/proekty/chelovek/gerb-semi/">Как сделать герб семьи? Теория + примеры + шаблоны</a></h2>
+
+							<div class="author left">Автор: <span  itemprop="author">Евгения Климкович</span></div>
+							<div class="cat right" >Рубрика: <span  itemprop="articleSection"><a href="https://shkolala.ru/category/proekty/chelovek/" rel="category tag">Человек</a></span></div>
+							<div class="clear"></div>
+
+															<div class="thumb">
+									<a href="https://shkolala.ru/proekty/chelovek/gerb-semi/">								
+																				<img class="img" src="https://shkolala.ru/wp-content/uploads/bfi_thumb/3-min-p24zuuz1nuzjry1tqdx9pyxkf0rp5aq3oi6ljs7cr4.jpg" alt="" itemprop="image">
+									</a>
+									<img src="https://shkolala.ru/wp-content/themes/raten/images/watermark.png" alt="" class="watermark">
+								</div>								
+														<div class="clear"></div>
+							<div class="desc"   itemprop="articleBody">Доброго времени суток, дорогие друзья! Сегодня у нас, как всегда, очень интересная тема, называется «Герб семьи». Придумать и нарисовать такой фамильный символ могут попросить и воспитатели в детском саду и учителя в школе. Только вот как это сделать, они особо&hellip;</div>
+
+							<div class="bottom">
+								<div class="comments_count left"><b>3</b></div>
+								<a href="https://shkolala.ru/proekty/chelovek/gerb-semi/" class="details right">Подробнее</a>
+								<a href="https://shkolala.ru/proekty/chelovek/gerb-semi/#comments" class="add_comment right">Оставить комментарий</a>
+								<div class="clear"></div>
+							</div>
+						</div>
+												<div class="post"     itemscope itemtype="http://schema.org/BlogPosting">
+							<div class="date2" itemprop="datePublished" content="2021-01-21"><div class="day">21</div> Январь</div>
+							<h2 class="name"  itemprop="headline"><a href="https://shkolala.ru/proekty/chelovek/proekt-moya-semya/">&laquo;Моя семья&raquo;&nbsp;&mdash; проект по окружающему миру для 1 класса. Образец оформления</a></h2>
+
+							<div class="author left">Автор: <span  itemprop="author">Евгения Климкович</span></div>
+							<div class="cat right" >Рубрика: <span  itemprop="articleSection"><a href="https://shkolala.ru/category/uchat-v-shkole/okruzhayushhiy-mir/" rel="category tag">Окружающий мир</a>, <a href="https://shkolala.ru/category/proekty/chelovek/" rel="category tag">Человек</a></span></div>
+							<div class="clear"></div>
+
+															<div class="thumb">
+									<a href="https://shkolala.ru/proekty/chelovek/proekt-moya-semya/">								
+																				<img class="img" src="https://shkolala.ru/wp-content/uploads/bfi_thumb/92-min-p1ohev69bg0avuqio4dei6mzcim9168asd7gsa6te8.jpg" alt="" itemprop="image">
+									</a>
+									<img src="https://shkolala.ru/wp-content/themes/raten/images/watermark.png" alt="" class="watermark">
+								</div>								
+														<div class="clear"></div>
+							<div class="desc"   itemprop="articleBody">Здравствуйте, друзья! Приветствую вас на блоге «ШколаЛа». Сегодня попробуем соорудить проект Моя семья. Данный проект задают детишкам в 1 классе по окружающему миру. Уж не знаю, есть ли подобная работа в программе «Планета знаний», но вот в «Школе России» она&hellip;</div>
+
+							<div class="bottom">
+								<div class="comments_count left"><b>5</b></div>
+								<a href="https://shkolala.ru/proekty/chelovek/proekt-moya-semya/" class="details right">Подробнее</a>
+								<a href="https://shkolala.ru/proekty/chelovek/proekt-moya-semya/#comments" class="add_comment right">Оставить комментарий</a>
+								<div class="clear"></div>
+							</div>
+						</div>
+												<div class="post"     itemscope itemtype="http://schema.org/BlogPosting">
+							<div class="date2" itemprop="datePublished" content="2021-01-16"><div class="day">16</div> Январь</div>
+							<h2 class="name"  itemprop="headline"><a href="https://shkolala.ru/uchat-v-shkole/matematika/proekt-forma-razmer-czvet-uzory-i-ornamenty/">&laquo;Форма, размер, цвет. Узоры и орнаменты&raquo;. Делаем проект для 1 класса</a></h2>
+
+							<div class="author left">Автор: <span  itemprop="author">Евгения Климкович</span></div>
+							<div class="cat right" >Рубрика: <span  itemprop="articleSection"><a href="https://shkolala.ru/category/uchat-v-shkole/matematika/" rel="category tag">Математика</a>, <a href="https://shkolala.ru/category/proekty/rasteniya/" rel="category tag">Растения</a></span></div>
+							<div class="clear"></div>
+
+															<div class="thumb">
+									<a href="https://shkolala.ru/uchat-v-shkole/matematika/proekt-forma-razmer-czvet-uzory-i-ornamenty/">								
+																				<img class="img" src="https://shkolala.ru/wp-content/uploads/bfi_thumb/11-min-p1f2fuegv8zpmub0qsqld2od3nr9qo2xd0o1h5qb80.jpg" alt="" itemprop="image">
+									</a>
+									<img src="https://shkolala.ru/wp-content/themes/raten/images/watermark.png" alt="" class="watermark">
+								</div>								
+														<div class="clear"></div>
+							<div class="desc"   itemprop="articleBody">Здравствуйте, друзья! Блог «ШколаЛа» желает вам доброго времени суток. Сегодняшняя статья написана с целью помочь вам в подготовке одной из многочисленных проектных работ, которыми озадачены дети в начальной школе. Сегодня будем придумывать, разрабатывать и мастерить проект «Форма, размер, цвет. Узоры&hellip;</div>
+
+							<div class="bottom">
+								<div class="comments_count left"><b>1</b></div>
+								<a href="https://shkolala.ru/uchat-v-shkole/matematika/proekt-forma-razmer-czvet-uzory-i-ornamenty/" class="details right">Подробнее</a>
+								<a href="https://shkolala.ru/uchat-v-shkole/matematika/proekt-forma-razmer-czvet-uzory-i-ornamenty/#comments" class="add_comment right">Оставить комментарий</a>
+								<div class="clear"></div>
+							</div>
+						</div>
+												<div class="post"     itemscope itemtype="http://schema.org/BlogPosting">
+							<div class="date2" itemprop="datePublished" content="2020-12-31"><div class="day">31</div> Декабрь</div>
+							<h2 class="name"  itemprop="headline"><a href="https://shkolala.ru/vneshkolnaya-zhizn/novogodnie-konkursy-dlya-detej/">Интересные новогодние конкурсы для детей и взрослых</a></h2>
+
+							<div class="author left">Автор: <span  itemprop="author">Евгения Климкович</span></div>
+							<div class="cat right" >Рубрика: <span  itemprop="articleSection"><a href="https://shkolala.ru/category/vneshkolnaya-zhizn/" rel="category tag">Внешкольная жизнь</a></span></div>
+							<div class="clear"></div>
+
+															<div class="thumb">
+									<a href="https://shkolala.ru/vneshkolnaya-zhizn/novogodnie-konkursy-dlya-detej/">								
+																				<img class="img" src="https://shkolala.ru/wp-content/uploads/bfi_thumb/51-min-p0n84pq5ihwo172cvo0akiyc1gwtqck1q3v9cejp74.jpg" alt="" itemprop="image">
+									</a>
+									<img src="https://shkolala.ru/wp-content/themes/raten/images/watermark.png" alt="" class="watermark">
+								</div>								
+														<div class="clear"></div>
+							<div class="desc"   itemprop="articleBody">Большой привет всем читателям блога «ШколаЛа.Ру»! И маленьким школьникам, и их родителям! Новый год на пороге! С чем вас и поздравляем. Как планируете встречать? Чем планируете заняться? Надеемся, в ваши планы не входит все праздничные деньки лениво проваляться на диване&hellip;</div>
+
+							<div class="bottom">
+								<div class="comments_count left"><b>2</b></div>
+								<a href="https://shkolala.ru/vneshkolnaya-zhizn/novogodnie-konkursy-dlya-detej/" class="details right">Подробнее</a>
+								<a href="https://shkolala.ru/vneshkolnaya-zhizn/novogodnie-konkursy-dlya-detej/#comments" class="add_comment right">Оставить комментарий</a>
+								<div class="clear"></div>
+							</div>
+						</div>
+												<div class="post"     itemscope itemtype="http://schema.org/BlogPosting">
+							<div class="date2" itemprop="datePublished" content="2020-10-11"><div class="day">11</div> Октябрь</div>
+							<h2 class="name"  itemprop="headline"><a href="https://shkolala.ru/uchat-v-shkole/izo/zhanry-izobrazitelnogo-iskusstva/">Экскурсия по видам и жанрам изобразительного искусства</a></h2>
+
+							<div class="author left">Автор: <span  itemprop="author">Евгения Климкович</span></div>
+							<div class="cat right" >Рубрика: <span  itemprop="articleSection"><a href="https://shkolala.ru/category/uchat-v-shkole/izo/" rel="category tag">ИЗО</a></span></div>
+							<div class="clear"></div>
+
+															<div class="thumb">
+									<a href="https://shkolala.ru/uchat-v-shkole/izo/zhanry-izobrazitelnogo-iskusstva/">								
+																				<img class="img" src="https://shkolala.ru/wp-content/uploads/bfi_thumb/2-min-owrwzwczlbnym0hesodegvqw1dbsy35is8kbks5840.jpg" alt="" itemprop="image">
+									</a>
+									<img src="https://shkolala.ru/wp-content/themes/raten/images/watermark.png" alt="" class="watermark">
+								</div>								
+														<div class="clear"></div>
+							<div class="desc"   itemprop="articleBody">Читатели мои дорогие, здравствуйте! Сегодня предлагаю поговорить о прекрасном – об искусстве. Когда я училась в школе, уроки рисования любили почти все. Напрягать мозг там особо было не нужно. Даже те, кто не славился художником, вполне себе мог накалякать-намалякать на&hellip;</div>
+
+							<div class="bottom">
+								<div class="comments_count left"><b>4</b></div>
+								<a href="https://shkolala.ru/uchat-v-shkole/izo/zhanry-izobrazitelnogo-iskusstva/" class="details right">Подробнее</a>
+								<a href="https://shkolala.ru/uchat-v-shkole/izo/zhanry-izobrazitelnogo-iskusstva/#comments" class="add_comment right">Оставить комментарий</a>
+								<div class="clear"></div>
+							</div>
+						</div>
+												<div class="post"     itemscope itemtype="http://schema.org/BlogPosting">
+							<div class="date2" itemprop="datePublished" content="2020-09-26"><div class="day">26</div> Сентябрь</div>
+							<h2 class="name"  itemprop="headline"><a href="https://shkolala.ru/portfolio-shkolnika/portfolio-shkolnika/">Портфолио школьника. Структура документа и образец заполнения</a></h2>
+
+							<div class="author left">Автор: <span  itemprop="author">Евгения Климкович</span></div>
+							<div class="cat right" >Рубрика: <span  itemprop="articleSection"><a href="https://shkolala.ru/category/portfolio-shkolnika/" rel="category tag">Портфолио школьника</a></span></div>
+							<div class="clear"></div>
+
+															<div class="thumb">
+									<a href="https://shkolala.ru/portfolio-shkolnika/portfolio-shkolnika/">								
+																				<img class="img" src="https://shkolala.ru/wp-content/uploads/bfi_thumb/miniatyura-ovza9sxwei7vpx5nbv2ukz4h7yjowbj0u4b243pzrk.jpg" alt="" itemprop="image">
+									</a>
+									<img src="https://shkolala.ru/wp-content/themes/raten/images/watermark.png" alt="" class="watermark">
+								</div>								
+														<div class="clear"></div>
+							<div class="desc"   itemprop="articleBody">Доброго времени суток всем читателям блога «Школала». Сегодня продолжаем говорить про портфолио школьника. Подготовила для вас массу полезной информации, которую уместила в одну статью. Чтобы все было в одном месте. Постараюсь ответить на все вопросы, которые только могут возникнуть у&hellip;</div>
+
+							<div class="bottom">
+								<div class="comments_count left"><b>5</b></div>
+								<a href="https://shkolala.ru/portfolio-shkolnika/portfolio-shkolnika/" class="details right">Подробнее</a>
+								<a href="https://shkolala.ru/portfolio-shkolnika/portfolio-shkolnika/#comments" class="add_comment right">Оставить комментарий</a>
+								<div class="clear"></div>
+							</div>
+						</div>
+												<div class="post"     itemscope itemtype="http://schema.org/BlogPosting">
+							<div class="date2" itemprop="datePublished" content="2020-09-11"><div class="day">11</div> Сентябрь</div>
+							<h2 class="name"  itemprop="headline"><a href="https://shkolala.ru/portfolio-shkolnika/chto-takoe-portfolio-shkolnika/">Портфолио школьника. Что это такое и кому это нужно?</a></h2>
+
+							<div class="author left">Автор: <span  itemprop="author">Евгения Климкович</span></div>
+							<div class="cat right" >Рубрика: <span  itemprop="articleSection"><a href="https://shkolala.ru/category/portfolio-shkolnika/" rel="category tag">Портфолио школьника</a></span></div>
+							<div class="clear"></div>
+
+															<div class="thumb">
+									<a href="https://shkolala.ru/portfolio-shkolnika/chto-takoe-portfolio-shkolnika/">								
+																				<img class="img" src="https://shkolala.ru/wp-content/uploads/bfi_thumb/5-1-ovb9ybf82zgomm4xx0tubuz0cutitf7bircme6ypn4.jpg" alt="" itemprop="image">
+									</a>
+									<img src="https://shkolala.ru/wp-content/themes/raten/images/watermark.png" alt="" class="watermark">
+								</div>								
+														<div class="clear"></div>
+							<div class="desc"   itemprop="articleBody">Большой привет всем читателям блога «ШколаЛа»! Когда ребенок отправляется в первый класс, то на первом родительском собрании родители слышат красивое слово «портфолио». Сегодня поговорим о том, что такое портфолио школьника? Необходимо оно или нет? Это обязательно или все-таки добровольно? Что&hellip;</div>
+
+							<div class="bottom">
+								<div class="comments_count left"><b>2</b></div>
+								<a href="https://shkolala.ru/portfolio-shkolnika/chto-takoe-portfolio-shkolnika/" class="details right">Подробнее</a>
+								<a href="https://shkolala.ru/portfolio-shkolnika/chto-takoe-portfolio-shkolnika/#comments" class="add_comment right">Оставить комментарий</a>
+								<div class="clear"></div>
+							</div>
+						</div>
+							
+					</div>
+
+					<div class="pagination"><span aria-current="page" class="page-numbers current">1</span>
+<a class="page-numbers" href="https://shkolala.ru/page/2/">2</a>
+<a class="page-numbers" href="https://shkolala.ru/page/3/">3</a>
+<a class="page-numbers" href="https://shkolala.ru/page/4/">4</a>
+<span class="page-numbers dots">&hellip;</span>
+<a class="page-numbers" href="https://shkolala.ru/page/79/">79</a>
+<a class="next page-numbers" href="https://shkolala.ru/page/2/">Вперед</a></div>  
+
+					<!-- <div class="content_banner"><a href="/"><img src="images/content_banner.jpg" alt=""></a></div> -->
+				</section>
+				<!-- End Основная часть -->
+				
+
+﻿<script type="text/javascript">!function(t,e){"use strict";function n(){if(!a){a=!0;for(var t=0;t<d.length;t++)d[t].fn.call(window,d[t].ctx);d=[]}}function o(){"complete"===document.readyState&&n()}t=t||"docReady",e=e||window;var d=[],a=!1,c=!1;e[t]=function(t,e){return a?void setTimeout(function(){t(e)},1):(d.push({fn:t,ctx:e}),void("complete"===document.readyState||!document.attachEvent&&"interactive"===document.readyState?setTimeout(n,1):c||(document.addEventListener?(document.addEventListener("DOMContentLoaded",n,!1),window.addEventListener("load",n,!1)):(document.attachEvent("onreadystatechange",o),window.attachEvent("onload",n)),c=!0)))}}("wpBruiserDocReady",window);
+			(function(){var wpbrLoader = (function(){var g=document,b=g.createElement('script'),c=g.scripts[0];b.async=1;b.src='https://shkolala.ru/?gdbc-client=3.1.43-'+(new Date()).getTime();c.parentNode.insertBefore(b,c);});wpBruiserDocReady(wpbrLoader);window.onunload=function(){};window.addEventListener('pageshow',function(event){if(event.persisted){(typeof window.WPBruiserClient==='undefined')?wpbrLoader():window.WPBruiserClient.requestTokens();}},false);})();
+</script><script type='text/javascript' src='https://shkolala.ru/wp-content/plugins/table-of-contents-plus/front.min.js?ver=2002' id='toc-front-js'></script>
+<script type='text/javascript' src='https://shkolala.ru/wp-includes/js/wp-embed.min.js?ver=5.6.1' id='wp-embed-js'></script>
+<!-- Подвал -->
+				<footer class="left">
+					<div class="logo left"><img src="https://shkolala.ru/wp-content/themes/raten/images/footer_logo.png" alt=""></div>
+					<div class="copyright left">C 2015 ШколаЛа. Блог Евгении Климкович.<br> За воровство контента сразу к директору! С родителями! <br>
+					<a href="https://shkolala.ru/wp-content/themes/raten/pol.pdf"  target="_blank">Политика конфиденциальности</a> <a href="https://shkolala.ru/wp-content/themes/raten/sogl.pdf" target="_blank">Пользовательское соглашение</a>
+					</div>
+					<div class="counter right"><!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='//www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t26.10;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число посетителей за"+
+" сегодня' "+
+"border='0' width='88' height='15'><\/a>")
+//--></script><!--/LiveInternet--></div>
+					<div class="clear"></div>
+				</footer>
+				<!-- End Подвал -->
+				<div class="clear"></div>
+
+				<div class="menu bottom">
+					<ul id="menu-glavnoe-menyu-2" class=""><li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-12"><a href="https://shkolala.ru/" aria-current="page">Главная</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17"><a href="https://shkolala.ru/sample-page/">О блоге</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13"><a href="https://shkolala.ru/vse-stati/">Все статьи</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10692"><a href="https://shkolala.ru/portfolio/">Портфолио</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18"><a href="https://shkolala.ru/reklama/">Реклама</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10941"><a href="https://shkolala.ru/kontaktyi/">Контакты</a></li>
+</ul>				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="buttonUp"><a href="#top"></a></div>
+</div>
+
+<!-- Подключение javascript файлов -->
+<script src="https://shkolala.ru/wp-content/themes/raten/js/jquery.js"></script>
+<script src="https://shkolala.ru/wp-content/themes/raten/js/jquery-migrate.js"></script>
+<script src="https://shkolala.ru/wp-content/themes/raten/js/scrollTop.js"></script>
+<script src="https://shkolala.ru/wp-includes/js/comment-reply.min.js"></script>
+<script src="https://shkolala.ru/wp-content/themes/raten/js/scripts.js"></script>
+<script>// <![CDATA[
+// < ![CDATA[
+function GoTo(link){window.open(link.replace("_","http://"));}
+// ]]></script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-71270625-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter34104605 = new Ya.Metrika({
+                    id:34104605,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/34104605" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+<script async src="https://allstat-pp.ru/6724/c1baab68929d35cacbf4439b7b6435da295a549b.js"></script>
+</body>
+</html><!-- hyper cache 2021-03-01 18:58:01 -->

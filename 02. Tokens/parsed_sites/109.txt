@@ -1,0 +1,420 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ru-ru" lang="ru-ru">
+
+<head>
+    <script type="text/javascript">
+var siteurl='/';
+var tmplurl='/templates/ja_purity_ii/';
+var isRTL = false;
+</script>
+
+	<base href="https://schoolguide.ru/" />
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="keywords" content="Школа,программы начальной школы,умк,учебники,фгос,школа россии,школа 2100,английский язык,немецкий язык, учебные пособия" />
+	<meta name="generator" content="Joomla! - Open Source Content Management" />
+	<title>Школьный Гид - сайт для заинтересованных родителей</title>
+	<link href="/media/jui/css/icomoon.css" rel="stylesheet" type="text/css" media="" />
+	<link href="/." rel="stylesheet" type="text/css" />
+	<link href="/plugins/system/jat3/jat3/base-themes/default/css/addons.css" rel="stylesheet" type="text/css" media="" />
+	<link href="/plugins/system/jat3/jat3/base-themes/default/css/template-j30.css" rel="stylesheet" type="text/css" media="" />
+	<link href="/plugins/system/jat3/jat3/base-themes/default/css/layout.css" rel="stylesheet" type="text/css" media="" />
+	<link href="/plugins/system/jat3/jat3/base-themes/default/css/template.css" rel="stylesheet" type="text/css" media="" />
+	<link href="/plugins/system/jat3/jat3/base-themes/default/css/usertools.css" rel="stylesheet" type="text/css" media="" />
+	<link href="/plugins/system/jat3/jat3/base-themes/default/css/css3.css" rel="stylesheet" type="text/css" media="" />
+	<link href="/templates/ja_purity_ii/css/typo.css" rel="stylesheet" type="text/css" media="" />
+	<link href="/templates/ja_purity_ii/css/template-j30.css" rel="stylesheet" type="text/css" media="" />
+	<link href="/templates/ja_purity_ii/css/layout.css" rel="stylesheet" type="text/css" media="" />
+	<link href="/templates/ja_purity_ii/css/template.css" rel="stylesheet" type="text/css" media="" />
+	<link href="/templates/ja_purity_ii/css/css3.css" rel="stylesheet" type="text/css" media="" />
+	<script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
+	<script src="/media/system/js/core.js" type="text/javascript"></script>
+	<script src="/media/system/js/mootools-more.js" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery.min.js" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery-noconflict.js" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery-migrate.min.js" type="text/javascript"></script>
+	<script src="/media/system/js/caption.js" type="text/javascript"></script>
+	<script src="/plugins/system/jat3/jat3/base-themes/default/js/core.js" type="text/javascript"></script>
+	<script type="text/javascript">
+jQuery(window).on('load',  function() {
+				new JCaption('img.caption');
+			});jQuery(function($) {
+			 $('.hasTip').each(function() {
+				var title = $(this).attr('title');
+				if (title) {
+					var parts = title.split('::', 2);
+					var mtelement = document.id(this);
+					mtelement.store('tip:title', parts[0]);
+					mtelement.store('tip:text', parts[1]);
+				}
+			});
+			var JTooltips = new Tips($('.hasTip').get(), {"maxTitleChars": 50,"fixed": false});
+		});
+	</script>
+
+<!--[if ie]><link href="/plugins/system/jat3/jat3/base-themes/default/css/template-ie.css" type="text/css" rel="stylesheet" /><![endif]--> 
+<!--[if ie 7]><link href="/plugins/system/jat3/jat3/base-themes/default/css/template-ie7.css" type="text/css" rel="stylesheet" /><![endif]--> 
+<!--[if ie 7]><link href="/templates/ja_purity_ii/css/template-ie7.css" type="text/css" rel="stylesheet" /><![endif]--> 
+
+
+
+
+<link href="/plugins/system/jat3/jat3/base-themes/default/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+
+
+<!--[if IE 7.0]>
+<style>
+.clearfix { display: inline-block; } /* IE7xhtml*/
+</style>
+<![endif]-->
+
+<script language="javascript" type="text/javascript">
+var rightCollapseDefault='show';
+var excludeModules='38';
+</script>
+<script language="javascript" type="text/javascript" src="/templates/ja_purity_ii/js/ja.rightcol.js"></script>
+
+<style type="text/css">
+#ja-header .main {
+	background-image: url(/templates/ja_purity_ii/images/header/AB03.jpg);
+}
+</style>
+<script type="text/javascript"> 
+(function (tos) { 
+       window.setTimeout (function () { 
+       tos = (function (t) { 
+                       return t[0] == 50 ? (parseInt (t[1]) + 1) + ':00' : (t[1] || '0') + ':' + (parseInt (t[0]) + 10); 
+                               })(tos.split (':').reverse ()); 
+         window.pageTracker ? pageTracker._trackEvent ('Time', 'Log', tos) : _gaq.push (['_trackEvent', 'Time', 'Log', tos]); 
+       }, 20000); 
+})('00'); 
+</script>
+    
+    <style type="text/css">
+/*dynamic css*/
+
+    body.bd .main {width: 1000px;}
+    body.bd #ja-wrapper {min-width: 1000px;}
+</style>
+
+<meta name="google-site-verification" content="" />
+
+<script type="text/javascript">
+ var _gaq = _gaq || [];
+ _gaq.push(['_setAccount', 'UA-18556226-1']);
+ _gaq.push(['_gat._anonymizeIp']);
+_gaq.push(['_trackPageview']);
+					
+ (function() {
+  var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+  ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+ })();
+</script>
+
+</head>
+
+<body id="bd" class="bd fs3 com_content">
+<a name="Top" id="Top"></a>
+<div id="ja-wrapper">
+
+
+                <div id="ja-header"
+            	class="wrap ">
+                   <div class="main">
+                           <div class="main-inner1 clearfix">
+                <h1 class="logo">
+    <a href="/" title="Школьный гид"><span>Школьный гид</span></a>
+</h1>                </div>
+                            </div>
+                        </div>
+            
+    <!-- MAIN CONTAINER -->
+    <div id="ja-container" class="wrap ja-l1r1">
+               <div class="main clearfix">
+                   <div id="ja-mainbody" style="width:80%">
+            <!-- CONTENT -->
+            <div id="ja-main" style="width:75%">
+            <div class="inner clearfix">
+
+                <div id="system-message-container">
+	</div>
+
+                
+                <div id="ja-contentwrap" class="clearfix ">
+                    <div id="ja-content" class="column" style="width:100%">
+                        <div id="ja-current-content" class="column" style="width:100%">
+                            
+                                                        <div id="ja-content-main" class="ja-content-main clearfix">
+                                
+<div class="blog clearfix">
+
+	<div class="category-desc clearfix">
+				<p><span style="color: #0f5695;"><em><strong>Мы приветствуем Вас на сайте <span style="color: #008000;">"Школьный гид"</span>! <br />Цель нашего сайта - помочь заинтересованным родителям разобраться в содержании и организации процесса обучения в школе. У нас Вы найдете интересную и нужную информацию, нормативные документы, некоторые данные статистики, полезные ссылки. <span style="color: #008000;">"Школьный гид"</span> поможет Вам в выборе учебников и пособий, которые Вы можете заказать в интернет-магазинах My-shop.ru,&nbsp;Labirint.ru и Litres.ru.</strong></em></span></p>		</div>
+
+<div class="items-leading clearfix">
+			<div class="leading leading-0">
+			
+<div class="contentpaneopen clearfix">
+
+	<h2 class="contentheading">
+					Уровни общего образования			</h2>
+
+
+
+
+<div class="article-tools clearfix">
+
+</div>
+
+
+<p><img src="/images/articles/main_300.jpg" alt="" width="300" height="200" style="float: right;" /></p>
+<p>Закон Российской Федерации от 29 декабря 2012 г. N 273-ФЗ <strong>"Об образовании в Российской Федерации"</strong> - один из основных документов, регулирующих отношения в сфере образовния.</p>
+<p><strong>Общее образование</strong>, как один из видов образования в нашей стране, направлено на развитие личности и приобретение в процессе освоения основных общеобразовательных программ знаний, умений, навыков и формирование компетенции, необходимых для жизни человека в обществе, осознанного выбора профессии и получения профессионального образования.</p>
+<p><strong><span style="text-decoration: underline;">Уровни общего образования в России:</span></strong><br />1) дошкольное образование;<br />2) начальное общее образование (1-4 классы);<br />3) основное общее образование (5-9 классы);<br />4) среднее общее образование (10-11 классы).</p>
+<p>Таким образом, общее образование можно разделить на <strong>дошкольное</strong> и <strong>школьное образование</strong>.</p>
+<p><a href="/index.php/programmy-doshkolnogo-obrazovaniya.html"><strong>Дошкольное образование</strong></a> направлено на разностороннее развитие детей дошкольного возраста с учетом их возрастных и индивидуальных особенностей, в том числе достижение детьми дошкольного возраста уровня развития, необходимого и достаточного для успешного освоения ими образовательных программ начального общего образования, на основе индивидуального подхода к детям дошкольного возраста и специфичных для детей дошкольного возраста видов деятельности.</p>
+<p>Закон "Об образовании в Российской Федерации" закрепляет право граждан на получение дошкольного образования и государственные гарантии его предоставления, однако оно не является обязательным и не устанавливается в качестве условия приема в начальную школу.</p>
+<p>Обучение в <a href="/index.php/progs.html"><strong>начальной школе</strong></a> направлено на формирование личности обучающегося, развитие его индивидуальных способностей, положительной мотивации и умений в учебной деятельности (овладение чтением, письмом, счетом, основными навыками учебной деятельности, элементами теоретического мышления, простейшими навыками самоконтроля, культурой поведения и речи, основами личной гигиены и здорового образа жизни).</p>
+<p>В <strong>основной школе</strong> формируются нравственные убеждения, эстетический вкус и здоровый образ жизни, высокая культура межличностного и межэтнического общения. Учащиеся овладевают основами наук, государственным языком Российской Федерации, навыками умственного и физического труда, у них развиваются склонности, интересы, способности к социальному самоопределению.</p>
+<p>Среднее общее образование (<strong>старшая школа</strong>) направлено на дальнейшее становление и формирование личности обучающегося, развитие интереса к познанию и творческих способностей обучающегося, формирование навыков самостоятельной учебной деятельности на основе индивидуализации и профессиональной ориентации содержания среднего общего образования, подготовку обучающегося к жизни в обществе, самостоятельному жизненному выбору, продолжению образования и началу профессиональной деятельности.</p>
+<p>Организация образовательной деятельности по образовательным программам начального общего, основного общего и среднего общего образования может быть основана на дифференциации содержания с учетом образовательных потребностей и интересов обучающихся, обеспечивающих углубленное изучение отдельных учебных предметов, предметных областей соответствующей образовательной программы (профильное обучение).</p>
+<p><strong>Начальное общее образование, основное общее образование, среднее общее образование</strong> являются обязательными уровнями образования. Обучающиеся, не освоившие основной образовательной программы начального общего и (или) основного общего образования, не допускаются к обучению на следующих уровнях общего образования. Требование обязательности среднего общего образования применительно к конкретному обучающемуся сохраняет силу до достижения им возраста восемнадцати лет, если соответствующее образование не было получено обучающимся ранее.</p>
+<p>Обучение в школе сопровождается <em><strong>промежуточными и итоговыми аттестациями</strong></em>. По окончании 9 и 11 классов проводятся государственные итоговые аттестации в форме <em><strong><a href="/index.php/midschool-gia.html">ОГЭ</a>, <a href="/index.php/starshaya-shkola-ege.html">ЕГЭ</a> и ГВЭ</strong></em>.</p>
+<p><em><strong>Общее образование в нашей стране может быть получено в осуществляющих образовательную деятельность организациях (детские сады, школы), а также вне этих организаций (в форме семейного образования и самообразования).</strong></em> При этом лица, осваивающие основную образовательную программу в форме самообразования или семейного образования, вправе пройти экстерном промежуточную и государственную итоговую аттестацию (ГИА) в аккредитованной образовательн0й организации.</p>
+<p>В Российской Федерации гарантируются общедоступность и бесплатность в соответствии с <a href="/index.php/fgos.html">федеральными государственными образовательными стандартами</a> (ФГОС) <a href="/index.php/fgos-do.html">дошкольного</a>, <a href="/index.php/fgosnoo.html">начального общего</a>, основного общего и среднего общего образования.</p>
+<p>При этом обучающиеся, их родители (законные представители) вправе обращаться за получением образовательных услуг от образовательных организаций и индивидуальных предпринимателей по своему выбору на платной основе.</p>
+<p>Государственные и муниципальные образовательные организации вправе оказывать платные образовательные услуги, которые не могут быть оказаны вместо образовательной деятельности, финансируемой из бюджетов всех уровней (федерального, субъектов РФ или местного). Таким образом, к платным относятся услуги, выходящие за рамки основной образовательной деятельности, предусмотренной государственными образовательными стандартами, и оговоренные в уставе образовательной организации.</p>
+
+
+</div>
+
+<div class="item-separator"></div>
+		</div>
+			</div>
+
+
+
+	
+
+</div>
+                            </div>
+                            
+                                                    </div>
+
+                                            </div>
+
+                    
+                </div>
+
+                            </div>
+            </div>
+            <!-- //CONTENT -->
+                        <!-- LEFT COLUMN-->
+            <div id="ja-left" class="column sidebar" style="width:25%">
+                
+                                <div class="ja-colswrap clearfix ja-l1">
+                                    <div id="ja-left1" class="ja-col  column" style="width:100%">
+                        	<div class="ja-moduletable moduletable_hilite1  clearfix" id="Mod105">
+						<div class="ja-box-ct clearfix">
+		<ul class="nav menu">
+<li class="item-433"><a href="/index.php/search.html" >Поиск по сайту ...</a></li></ul>
+		</div>
+    </div>
+		<div class="ja-moduletable moduletable_hilite1  clearfix" id="Mod102">
+						<h3><span>ОБЩИЙ РАЗДЕЛ</span></h3>
+				<div class="ja-box-ct clearfix">
+		<ul class="nav menu">
+<li class="item-728 default current active"><a href="/index.php" >Главная</a></li><li class="item-172"><a href="/index.php/fgos.html" >ФГОС</a></li><li class="item-735 parent"><a href="/index.php/vpr.html" >ВПР</a></li><li class="item-593"><a href="/index.php/polls.html" >Опросы</a></li><li class="item-607"><a href="/index.php/newbooks.html" >Новинки учебной литературы</a></li><li class="item-149"><a href="/index.php/obzory.html" >Обзоры и аналитика</a></li></ul>
+		</div>
+    </div>
+		<div class="ja-moduletable moduletable  clearfix" id="Mod119">
+						<h3><span>ДОШКОЛЬНОЕ ОБРАЗОВАНИЕ</span></h3>
+				<div class="ja-box-ct clearfix">
+		<ul class="nav menu">
+<li class="item-649 parent"><a href="/index.php/fgos-do.html" >ФГОС дошкольного образования</a></li><li class="item-672"><a href="/index.php/programmy-doshkolnogo-obrazovaniya.html" >ПРОГРАММЫ дошкольного образования</a></li><li class="item-736 parent"><a href="/index.php/kak-podgotovit-rebenka-k-shkole.html" >Подготовка к школе</a></li></ul>
+		</div>
+    </div>
+		<div class="ja-moduletable moduletable_hilite1  clearfix" id="Mod87">
+						<h3><span>НАЧАЛЬНАЯ ШКОЛА</span></h3>
+				<div class="ja-box-ct clearfix">
+		<ul class="nav menu">
+<li class="item-2 parent"><a href="/index.php/progs.html" >ПРОГРАММЫ начальной школы</a></li><li class="item-117 parent"><a href="/index.php/english.html" >Английский язык</a></li><li class="item-193 parent"><a href="/index.php/deutsch.html" >Немецкий язык</a></li><li class="item-557 parent"><a href="/index.php/francuzskij.html" >Французский язык</a></li><li class="item-770 parent"><a href="/index.php/vpr-nachalnaya.html" >ВПР</a></li><li class="item-225 parent"><a href="/index.php/tests.html" >Тесты</a></li><li class="item-209 parent"><a href="/index.php/dopposob.html" >Дополнительные учебные пособия</a></li><li class="item-220 parent"><a href="/index.php/olimpiady.html" >Олимпиады</a></li><li class="item-303 parent"><a href="/index.php/fgosnoo.html" >ФГОС 1-4 классы</a></li><li class="item-439 parent"><a href="/index.php/elementary-school-ebooks.html" >Электронные книги</a></li></ul>
+		</div>
+    </div>
+		<div class="ja-moduletable moduletable_hilite1  clearfix" id="Mod104">
+						<h3><span>ОСНОВНАЯ ШКОЛА</span></h3>
+				<div class="ja-box-ct clearfix">
+		<ul class="nav menu">
+<li class="item-309 parent"><a href="/index.php/midschool-matem.html" >Математика ● Алгебра ● Геометрия ● Информатика</a></li><li class="item-359 parent"><a href="/index.php/midschool-russkiy.html" >Русский язык</a></li><li class="item-395 parent"><a href="/index.php/midschool-foreign.html" >Иностранный язык</a></li><li class="item-390 parent"><a href="/index.php/midschool-geography.html" >География</a></li><li class="item-391 parent"><a href="/index.php/midschool-history.html" >История</a></li><li class="item-450 parent"><a href="/index.php/midschool-fizika.html" >Физика</a></li><li class="item-540 parent"><a href="/index.php/midschool-chemistry.html" >Химия</a></li><li class="item-657 parent"><a href="/index.php/midschool-biology.html" >Биология</a></li><li class="item-466 parent"><a href="/index.php/midschool-gia.html" >ГИА 9</a></li></ul>
+		</div>
+    </div>
+		<div class="ja-moduletable moduletable_hilite1  clearfix" id="Mod106">
+						<h3><span>СТАРШАЯ ШКОЛА</span></h3>
+				<div class="ja-box-ct clearfix">
+		<ul class="nav menu">
+<li class="item-484 parent"><a href="/index.php/starshaya-shkola-ege.html" >ЕГЭ</a></li><li class="item-496 parent"><a href="/index.php/starshaya-shkola-ebooks.html" >Электронные книги</a></li></ul>
+		</div>
+    </div>
+		<div class="ja-moduletable moduletable  clearfix" id="Mod118">
+						<h3><span>РАЗНОЕ</span></h3>
+				<div class="ja-box-ct clearfix">
+		<ul class="nav menu">
+<li class="item-594"><a href="/index.php/zakonacts.html" >Официальные документы</a></li><li class="item-553"><a href="/index.php/sitemap.html" >Карта сайта</a></li></ul>
+		</div>
+    </div>
+		<div class="ja-moduletable moduletable  clearfix" id="Mod101">
+						<div class="ja-box-ct clearfix">
+		<div class="bannergroup">
+
+	<div class="banneritem">
+										<a href="https://vk.com/schoolguide_ru" target="_blank" rel="nofollow"><img src="https://schoolguide.ru/images/banners/vkontakte.png" border="0" alt="Школьный гид ВКонтакте"/></a>				<div class="clr"></div>
+	</div>
+
+</div>
+		</div>
+    </div>
+		<div class="ja-moduletable moduletable  clearfix" id="Mod92">
+						<div class="ja-box-ct clearfix">
+		<div class="bannergroup">
+
+	<div class="banneritem">
+										<!--LiveInternet counter--><script type="text/javascript"><!--
+new Image().src = "https://counter.yadro.ru/hit?r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random();//--></script><!--/LiveInternet-->				<div class="clr"></div>
+	</div>
+
+</div>
+		</div>
+    </div>
+	                    </div>
+                
+                                </div>
+                                            </div>
+            <!-- //LEFT COLUMN-->
+            
+        </div>
+                <!-- RIGHT COLUMN-->
+        <div id="ja-right" class="column sidebar" style="width:20%">
+
+            
+                        <div class="ja-colswrap clearfix ja-r1">
+                                <div id="ja-right1" class="ja-col  column" style="width:100%">
+                    	<div class="ja-module ja-box-br module" id="Mod129">
+	<div class="ja-box-bl"><div class="ja-box-tr"><div class="ja-box-tl clearfix">
+						<div class="jamod-content ja-box-ct clearfix">
+		<div class="bannergroup">
+
+	<div class="banneritem">
+										<!-- Yandex.RTB R-A-65327-2 -->
+<div id="yandex_rtb_R-A-65327-2"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Context.AdvManager.render({
+                blockId: "R-A-65327-2",
+                renderTo: "yandex_rtb_R-A-65327-2",
+                async: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//an.yandex.ru/system/context.js";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(this, this.document, "yandexContextAsyncCallbacks");
+</script>				<div class="clr"></div>
+	</div>
+
+</div>
+		</div>
+	</div></div></div>
+	</div>
+		<div class="ja-module ja-box-br module" id="Mod117">
+	<div class="ja-box-bl"><div class="ja-box-tr"><div class="ja-box-tl clearfix">
+						<div class="jamod-content ja-box-ct clearfix">
+		<div class="bannergroup">
+
+	<div class="banneritem">
+										<script async type="text/javascript" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Вертикальный блок справа -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:160px;height:600px"
+     data-ad-client="ca-pub-4428164110887582"
+     data-ad-slot="3778152751"></ins>
+<script type="text/javascript">
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>				<div class="clr"></div>
+	</div>
+
+</div>
+		</div>
+	</div></div></div>
+	</div>
+	                </div>
+                
+                            </div>
+                                </div>
+        <!-- //RIGHT COLUMN-->
+                        </div>
+                </div>
+        <!-- //MAIN CONTAINER -->
+
+                <div id="ja-navhelper"
+            	class="wrap ">
+                   <div class="main">
+                           <div class="main-inner1 clearfix">
+                <div class="ja-breadcrums">
+    
+</div>
+
+<ul class="ja-links">
+        <li class="top"><a href="javascript:scroll(0,0)" title="Back to top">Top</a></li>
+</ul>
+
+<ul class="no-display">
+    <li><a href="#ja-content" title="Skip to content">Skip to content</a></li>
+</ul>                </div>
+                            </div>
+                        </div>
+                        <div id="ja-footer"
+            	class="wrap ">
+                   <div class="main clearfix">
+           <div class="ja-copyright">
+	<div class="bannergroup">
+
+	<div class="banneritem">
+										Copyright © 2010-2011 <a href="/" target="_blanc">Школьный Гид </a>. Все права защищены.
+<br />
+Копирование материалов сайта "Школьный Гид" с обязательным указанием гиперссылки на <a href="/" target="_blanc">schoolguide.ru</a>.				<div class="clr"></div>
+	</div>
+
+</div>
+<div class="bannergroup">
+
+	<div class="banneritem">
+										<!--LiveInternet logo--><a href="//www.liveinternet.ru/click"
+target="_blank"><img src="https://counter.yadro.ru/logo?38.15"
+title="LiveInternet"
+alt="" border="0" width="31" height="31"/></a><!--/LiveInternet-->				<div class="clr"></div>
+	</div>
+
+</div>
+
+</div>            </div>
+                        </div>
+            
+</div>
+
+
+
+<!--noindex--><!-- Yandex.Metrika counter --><script type="text/javascript">(function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter2988643 = new Ya.Metrika({id:2988643, clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true}); } catch(e) {} }); var n = d.getElementsByTagName("script")[0], s = d.createElement("script"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = "text/javascript"; s.async = true; s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js"; if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f); } else { f(); } })(document, window, "yandex_metrika_callbacks");</script><noscript><div><img src="//mc.yandex.ru/watch/2988643" style="position:absolute; left:-9999px;" alt="" /></div></noscript><!-- /Yandex.Metrika counter --><!--/noindex-->
+
+</body>
+
+</html>

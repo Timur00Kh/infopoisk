@@ -1,0 +1,551 @@
+<script type="text/javascript" src="//s206.ucoz.net/cgi/uutils.fcg?a=uSD&ca=2&ug=999&isp=1&r=0.336501836623981"></script>
+<!DOCTYPE html>
+<html>
+<head>
+<title>Гимнастика для детей. СДЮШОР по гимнастике спортивной "Кольца славы".</title>
+
+<meta http-equiv="charset-type" content="text/html; UTF-8" />
+<meta http-equiv="content-language" content="ru" />
+<meta name="viewport" content="width=device-width; initial-scale=1">
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="title" content="Гимнастика для детей. СДЮШОР по гимнастике спортивной "Кольца славы"." />
+<meta name="description" content="Гимнастика  для детей Минск Детская школа Олимпийского резерва по гимнастике спортивной СДЮШОР Кольца Славы  Записаться на занятия  тел.: + 375 (17) 378-91-20" />
+<meta name="keywords" content="Гимнастика  для детей, детская гимнастика, гимнастика спортивная, гимнастика оздоровительная, СДЮШОР, Кольца Славы, гимнастика детям 5 лет, гимнастика для детей дошкольного возраста, гимнастика для детей школьного возраста, спортивная секция, спортивные кружки, занятия для детей, спортивная школа, спорт школа, набор, спортклуб, спорт центр, тренеры по гимнастике, спортзал, гимнастический зал, история гимнастики, клуб, секции, кружки, Минск." />
+<meta name="rights" content="Учреждение «Минская Специализированная детская юношеская школа Олимпийского резерва по гимнастике спортивной СДЮШОР по гимнастике спортивной»" />
+<meta name="author" content="СДЮШОР Кольца славы" />
+<meta name="esource-type" content="Document">
+<META NAME="Robots" CONTENT="ALL"> 
+<META NAME="Revisit-After" CONTENT="1 Days">
+
+ <!-- Open Graph Meta Data by WP-Open-Graph plugin-->
+<meta property="og:site_name" content="sportgymnastics.narod.ru" />
+<meta property="og:locale" content="ru_ru" />
+<meta property="og:title" content="Гимнастика для детей. СДЮШОР по гимнастике спортивной "Кольца славы"." />
+<meta property="og:url" content="https://sportgymnastics.narod.ru/index.html/" />
+<meta property="og:description" content="Гимнастика спортивная для детей Минск Детская юношеская школа Олимпийского резерва по гимнастике спортивной СДЮШОР Кольца Славы  Записаться на занятия гимнастикой тел.: + 375 (17) 378-91-20" />
+<meta property="og:image" content="https://sportgymnastics.narod.ru/sorevnovanija/XL.jpg" />
+<!-- /Open Graph Meta Data -->
+
+ <!-- Open schema org-->
+<script type="application/ld+json">
+  {
+    "@type" : "Organization",
+    "name" : "sportgymnastics.narod.ru",
+    "url" : "https://sportgymnastics.narod.ru/index.htm",
+    "sameAs" : [
+      "https://vk.com/ring_of_fame",
+      "https://www.facebook.com/Gimnastikadlyadetey/",
+      "https://twitter.com/GimnastikaMinsk",
+      "https://www.instagram.com/gimnastika_dlya_detey/"
+    ]
+  }
+</script>
+<!-- /Open schema org -->
+
+ <link type="text/css" rel="stylesheet" href="/_st/my.css" />
+ <!--[if lt IE 9]>
+ <script type="text/javascript">
+ var e = ("header,footer,article,aside,section,nav").split(',');
+ for (var i = 0; i < e.length; i++) {
+ document.createElement(e[i]);
+ }
+ </script>
+ <![endif]-->
+
+
+	<link rel="stylesheet" href="/.s/src/base.min.css?v=281631" />
+	<link rel="stylesheet" href="/.s/src/layer1.min.css" />
+
+	<script src="/.s/src/jquery-1.7.2.js"></script>
+	
+	<script src="/.s/src/uwnd.min.js"></script>
+	<script type="text/javascript" src="//s206.ucoz.net/cgi/uutils.fcg?a=uSD&ca=2&ug=999&isp=1&r=0.0522240185790501"></script>
+<script type="text/javascript">//------------UCOZ-JS-INIT_CODE-----------
+	window.ulb = {photoPage:"Перейти на страницу с фотографией.", closeBtn:"Закрыть", error:"Запрошенный контент не может быть загружен. Пожалуйста, попробуйте позже.", next:"Следующий", prev:"Предыдущий", btnPlay:"Начать слайдшоу", btnToggle:"Изменить размер", };
+//------------UCOZ-JS-END-----------</script>
+
+	<link rel="stylesheet" href="/.s/src/ulightbox/ulightbox.min.css" />
+	<link rel="stylesheet" href="/.s/src/entriesList.css" />
+	<link rel="stylesheet" href="/.s/src/video.css" />
+	<script src="/.s/src/ulightbox/ulightbox.min.js"></script>
+	<script src="/.s/src/video_gfunc.js"></script>
+	<script src="/.s/src/entriesList.js"></script>
+	<script type="text/javascript">//------------UCOZ-JS-CODE-----------
+jQuery(document).ready(function () {
+window.uEntriesList.root = $('#uEntriesList');
+window.uEntriesList.elWidth = window.uEntriesList.root.find('.entryBlock:eq(0)').outerWidth();
+window.uEntriesList.colWidth(3);
+});
+//------------UCOZ-JS-END-----------
+</script>
+
+	<style type="text/css">.UhideBlock{display:none; }
+</style>
+	<script type="text/javascript">new Image().src = "//counter.yadro.ru/hit;noadsru?r"+escape(document.referrer)+(screen&&";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth||screen.pixelDepth))+";u"+escape(document.URL)+";"+Date.now();</script>
+<script type="text/javascript">//<!--
+	function uSocialLogin(t) {
+		var params = { 'vkontakte':{ 'width':790, 'height':400 }, 'ok':{ 'width':710, 'height':390 }, 'facebook':{ 'width':950, 'height':520 }, 'yandex':{ 'width':870, 'height':515 }, 'google':{ 'width':700, 'height':600 }, 'twitter':{ 'width':800, 'height':400 } };
+		var ref = escape(location.protocol + '//' + ('sportgymnastics.narod.ru' || location.hostname) + location.pathname + ((location.hash ? ( location.search ? location.search + '&' : '?' ) + 'rnd=' + Date.now() + location.hash : ( location.search || '' ))));
+		// var ref = escape(location.href);
+		window.open('/'+t+'?ref='+ref,'conwin','width='+params[t].width+',height='+params[t].height+',status=1,resizable=1,left='+parseInt((screen.availWidth/2)-(params[t].width/2))+',top='+parseInt((screen.availHeight/2)-(params[t].height/2)-20)+'screenX='+parseInt((screen.availWidth/2)-(params[t].width/2))+',screenY='+parseInt((screen.availHeight/2)-(params[t].height/2)-20));
+		return false;
+	}
+//--></script>
+
+<link type="text/css" rel="stylesheet" href="/.s/src/social.css" />
+<meta name="google-site-verification" content="JzyEpyUVeIOXIlDNWyox8IEbb04AFUJQOa8S6Humm3A" />
+<meta name="yandex-verification" content="7b16a0fdeed5f39c"/>
+<meta name="msvalidate.01" content="582C91628F3942D945A6055216F0A06C"/>
+<meta name="msvalidate.01" content="93DA6EA19865E4426F15FB07AD2BF454"/>
+<meta name="alexaVerifyID" content="qZ3MPRsx6tIoVcEw827wEIsxo_4"/> 
+<script data-ad-client="ca-pub-7892376877022975" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+</head>
+
+<body class="base">
+<script>
+ $(document).ready(function(){
+ $('nav').find('li').has('ul').addClass('has-submenu'); 
+ $('#show-menu').click(function() {
+ $('nav').toggleClass('nav-opened');
+ });
+
+ $('a#logo-lnk').click(function (e) {
+ if ($('span', this).hasClass('uz-signs')) {
+ e.preventDefault()
+ }
+});
+ })
+</script>
+<div class="container clearfix">
+ <!--U1AHEADER1Z--><br>
+<div id="top">
+<hr><hr>
+<table class="base" width=100%>
+<tr width=80%>>
+
+<td width=60%><center><center>
+<font color="#ff9900" style="font-size:18pt"><strong><b>СДЮШОР &quot;Кольца славы&quot;.</b></font><br>
+<font color="#ffffff" style="font-size:12pt">Специализированная детская юношеская школа Олимпийского резерва по гимнастике спортивной.</font>
+<br><br>
+<font color="#ff9900" style="font-size:12pt">Официальный сайт СДЮШОР по гимнастике спортивной "Кольца славы".</strong></font><br>
+</td>
+</tr>
+</table>
+<hr><hr>
+
+<table align=center width=100%>
+<tr><center>
+<td>
+<font color="#ffffff" style="font-size: 10pt"><strong>&nbsp; 220070 г. Минск, ул. Ванеева, 1 </strong><br><br>
+&nbsp;<img class="alignnone size-full wp-image-230" src="http://sportgymnastics.narod.ru/telephone.png" alt="" width="16" height="16" /><a title="Позвонить" href="tel:+375 17 378-91-20"><font color="#ffffff" style="font-size: 10pt">&nbsp; тел.:    + 375 (17) 378-91-20</a><br>
+&nbsp;<img class="alignnone size-full wp-image-230" src="http://sportgymnastics.narod.ru/telephone.png" alt="" width="16" height="16" /><a title="Отправить факс., позвонить " href="tel:+375 17 378-94-27"><font color="#ffffff" style="font-size: 10pt">&nbsp; факс:   + 375 (17) 378-94-27</a>
+<br><br>
+</td>
+</tr>
+</table>
+<hr><hr>
+</header>
+ 
+ <div class="show-menu" id="show-menu">MENU</div>
+ <nav class="clearfix">
+ <!-- <sblock_nmenu> -->
+<!-- <bc> --><div id="uNMenuDiv1" class="uMenuV"><ul class="uMenuRoot">
+<li><a  href="https://sportgymnastics.narod.ru/index.html"><span>СДЮШОР "Кольца славы"</span></a></li>
+<li><a  href="https://sportgymnastics.narod.ru/trainer.html"><span>Тренерский состав </span></a></li>
+<li><a  href="https://sportgymnastics.narod.ru/gymnast.html"><span>Лучшие гимнасты </span></a></li>
+<li><a  href="https://sportgymnastics.narod.ru/tournament.html"><span>Соревнования</span></a></li>
+<li><a  href="https://sportgymnastics.narod.ru/nevs.html"><span>Наши новости</span></a></li>
+<li><a  href="https://sportgymnastics.narod.ru/news.html"><span>Контакты</span></a></li>
+<li><a  href="https://sportgymnastics.narod.ru/gimnastika_dlya_detey.html"><span>Гимнастика для мальчиков с 5 лет</span></a></li>
+<li><a  href="https://sportgymnastics.narod.ru/gimnastika-dlya-detey-ot-3-let.html"><span>Гимнастика для детей с 3 лет</span></a></li>
+<li><a  href="/photo" ><span>Фото</span></a></li>
+<li><a  href="/video" ><span>Видео</span></a></li>
+<li><a  href="https://sportgymnastics.narod.ru/photoalbum.html" target="_blank"><span>Архив</span></a></li>
+</ul></div><!-- </bc> -->
+<!-- </sblock_nmenu> -->
+ </nav>
+ </div>
+<hr><hr><!--/U1AHEADER1Z-->
+
+ 
+ <!-- <middle> -->
+
+ <div class="content-wrap clearfix ">
+ 
+ <section>
+ <div class="content">
+ <!-- <body> -->
+<hr>
+<a href="https://vk.com/ring_of_fame" target="_blank"><img src="https://sportgymnastics.narod.ru/vkontakte.jpg" title="СДЮШОР Кольца Славы | ВКонтакте" alt="СДЮШОР Кольца Славы | ВКонтакте" /></a>
+<a href="https://www.facebook.com/Gimnastikadlyadetey/" target="_blank"><img src="https://sportgymnastics.narod.ru/fejsbuk.jpg" title="СДЮШОР Кольца Славы | Facebook" alt="СДЮШОР Кольца Славы | Facebook" /></a>
+<a href="https://twitter.com/GimnastikaMinsk" target="_blank"><img src="https://sportgymnastics.narod.ru/tviter.jpg" title="СДЮШОР Кольца Славы | Твиттер" alt="СДЮШОР Кольца Славы | Твиттер" /></a>
+<a href="https://www.instagram.com/gimnastika_dlya_detey/" target="_blank"><img src="https://sportgymnastics.narod.ru/insta.jpg" title="СДЮШОР Кольца Славы | Instagram" alt="СДЮШОР Кольца Славы | Instagram" /></a>
+
+<hr>
+<div align=center>
+
+<img src="https://sportgymnastics.narod.ru/logo1.jpg" border="0" title="Лого СДЮШОР Кольца Слывы" alt="Логотип СДЮШОР Кольца Слывы" />
+
+<font color="#666fff" style="font-size: 10pt"><strong><h1>Гимнастика спортивная СДЮШОР "Кольца Славы".</h1></strong></font>
+<font color="#000000" style="font-size: 10pt"><strong>
+<h2>&nbsp; Специализированная детская юношеская школа Олимпийского резерва по гимнастике спортивной.&nbsp;</h2></strong></font>
+<br>
+
+</div>
+<hr>
+<div align=center>
+
+
+
+<hr>
+<br>
+<font color=#666fff style="font-size:10pt">
+<strong>
+<h2>&nbsp; За годы работы в СДЮШОР "Кольца Славы" подготовлено:</h2>
+</strong></font>
+
+
+
+<font color=#000000 style="font-size:12pt"><strong><div align=center>
+<br>&nbsp;Заслуженных мастеров спорта ( ЗМС ) - 1 ( И.Иванков );
+&nbsp;Мастеров спорта Международного класса ( МСМК ) -17;
+&nbsp;Мастеров Спорта ( МС ) - более 50;  
+&nbsp;Кандидатов в мастера спорта ( КМС ) - более 200;
+&nbsp;Серебряный призер Олимпийских игр - 1; 
+&nbsp;Пять  финалистов Олимпийских игр 1996, 2000, 2004, 2008 г.; 
+&nbsp;Два Чемпиона Мира, три Чемпиона Европы.</strong></font>
+
+<br><br>
+<a href="https://sportgymnastics.narod.ru/gymnast.html" class="catName">Подробнее о знаменитых гимнастах СДЮШОР "Кольца Славы". </a></font>
+<br><br>
+<hr>
+<div align=center>
+<img src="https://sportgymnastics.narod.ru/sorevnovanija/XL.jpg" width="75%" border="0" title="Спортивная гимнастика СДЮШОР Кольца Слывы" alt="Спортивная гимнастика СДЮШОР Кольца Слывы"/>
+
+
+<hr>
+<br>
+<font color=#666fff style="font-size:12pt"><strong>
+<h3>&nbsp; На Международных соревнованиях  завоевано:</h3>
+</strong></font>
+<font color=#000000 style="font-size:12pt"><strong>
+<br>На Чемпионатах мира - 6 золотых, 3 серебряных, 5 бронзовых наград.
+&nbsp; На Чемпионатах Европы - 4 золотых, 7 серебряных, 8 бронзовых,
+&nbsp; На Юношеских Чемпионатах Европы - 15 золотых, 10 серебряных,  5 бронзовых  медалей. </strong></font>
+
+
+<font color=#000000 style="font-size:12pt">
+<br><br>&nbsp; Учащиеся и воспитанники школы входят в основной, а так же в переменный и стажерский состав Национальной команды Республики Беларусь, 
+<br>проходят обучение в Республиканском училище Олимпийского резерва.
+<br><br>
+<a href="https://sportgymnastics.narod.ru/nevs.html" class="catName">&nbsp; Наши достижения. Итоги участия СДЮШОР "Кольца Славы" 
+<br>&nbsp;в Международных соревнованиях по гимнастике спортивной за 2018 - 2019 год. </a></font>
+<br><br>
+<hr>
+<div align=center>
+<img src="https://sportgymnastics.narod.ru/photo-gymnastic/photoalbum/svjatoslav_dranickij_na_evropejskom_olimpijskom_fe.jpg" width="75%" border="0" title="Спортивная гимнастика СДЮШОР Кольца Слывы" alt="Спортивная гимнастика СДЮШОР Кольца Слывы"/>
+
+
+<hr>
+<br>
+<font color=#666fff style="font-size:12pt"><strong>
+<h3>&nbsp; Тренерский состав СДЮШОР "Кольца Славы".</h3>
+</strong></font>
+<font color=#000000 style="font-size:12pt">
+
+
+
+<font color=#000000 style="font-size:12pt">
+<br>&nbsp; Администрация и тренерский состав являются профессиональными гимнастами:  Мастера Спорта, участники и призеры Чемпионатов Мира, Чемпионатов Европы . 
+В СДЮШОР "Кольца Славы" работают Заслуженные тренеры РБ, тренеры-преподаватели Высшей категории, которые вырастили  самых знаменитых и титулованых гимнастов в Беларуси таких как Иван Иванков, Царевич Александр, Василий Михалицин, Слава Драницкий,   и многих других. 
+Почти все тренеры  -  воспитанники школы.
+
+<br><br>
+<a href="http://sportgymnastics.narod.ru/trainer.html" class="catName">&nbsp;Тренеры по гимнастике СДЮШОР "Кольца Славы". </a></font>
+<br><br>
+<hr>
+
+<img src="https://sportgymnastics.narod.ru/sorevnovanija/otkrytyj_kubok_respubliki_belarus_2.jpg" width="75%" border="0" title="Гимнастика для детей СДЮШОР Кольца Слывы" alt="Гимнастика для детей СДЮШОР Кольца Слывы"/>
+<hr>
+<br>
+
+<font color=#666fff style="font-size:14pt">
+<strong>
+<h4><center>&nbsp; СДЮШОР "Кольца славы" проводит набор детей в группы по гимнастике спортиной.</h4>
+</strong></font>
+<br>
+&nbsp;Каждый год школа пополняется 200 - 250 юными гимнастами.
+&nbsp; Не все из них достигают высот мирового уровня, но все они получат заряд бодрости, здоровья, правильного воспитания, хорошей физической подготовки. 
+<br><br>
+&nbsp;&nbsp;
+<font color="#000000">
+&nbsp;<a href="https://sportgymnastics.narod.ru/news.html" class="catName">&nbsp; Гимнастика для детей. Все вопросы по набору. </a></font>
+
+<br><br>
+<hr>
+<img src="https://sportgymnastics.narod.ru/sorevnovanija/turnir_junyj_chempion.jpg" width="75%" border="0" title="Спортивная гимнастика СДЮШОР Кольца Слывы" alt="Спортивная гимнастика СДЮШОР Кольца Слывы"/>
+<hr>
+<br>
+
+<font color=#666fff style="font-size:14pt">
+<strong>
+<h4><center>Спортивная гимнастика для мальчиков с 5 лет.</h4>
+</strong></font>
+&nbsp;&nbsp; 
+Для того, чтобы профессионально начать заниматься спортивной гимнастикой в группах начальной подготовки СДЮШОР, ребенку должно исполниться 5 лет и он должен уже обладать минимальными физическими качествами для того, чтобы справиться с контрольными тестами при отборе в группу. 
+&nbsp;&nbsp;
+К сожалению, очень часто физические способности ребенка в этом возрасте не соответствуют необходимым критериям.
+<br><br>
+<font color="#000000">
+&nbsp;<a href="https://sportgymnastics.narod.ru/gimnastika_dlya_detey.html" class="catName"" target="_blank">&nbsp;Спортивная гимнастика для детей с 5 лет.&nbsp;</a></font>
+
+<br><br>
+<hr>
+
+<img src="https://sportgymnastics.narod.ru/photo-gymnastic/junye_gimnasty.jpg" width="75%" border="0" title="гимнастика для детей Минск" alt="гимнастика для детей Минск"/>
+<br><br>
+<hr>
+<br>
+
+<font color=#666fff style="font-size:14pt">
+<strong>
+<h4><center>Оздоровительная  гимнастика  для детей с 3 лет.</h4>
+</strong></font>
+&nbsp;&nbsp; 
+Открытие в 2017 году клуба  оздоровительной и спортивной гимнастики для детей "Мир гимнастики" позволило частично решить данную проблему. В рамках этого клуба оздоровительной гимнастикой могут начать заниматься дети с 3-х летнего возраста. На занятиях они развивают координацию движений, выполняют комплексы упражнений на развитие гибкости и силы. Через два - три года занятий дети уже неплохо подготовлены для отбора в специализированную спортивную школу олимпийского резерва. Те малыши, которые не планируют в дальнейшем заниматься спортивной гимнастикой, могут продолжить занятия в рамках нашего клуба  оздоровительной гимнастикой  или попробовать себя в других видах спорта, так как уже имеют хорошую физическую подготовку. Как показывает практика, гимнастика является хорошей основой для других видов спорта. </font>
+<br><br>
+<hr>
+<img src="https://sportgymnastics.narod.ru/sorevnovanija/NG/novyj_god_sdjushor_6.jpg" width="75%" border="0" title="Спортивная гимнастика для мальчиков с 5 лет" alt="Спортивная гимнастика для мальчиков с 5 лет"/>
+
+
+<br><br>
+<font color="#000000">
+&nbsp;<a href="https://sportgymnastics.narod.ru/gimnastika-dlya-detey-ot-3-let.html" class="catName"" target="_blank">&nbsp; Гимнастика для детей с 3 лет.&nbsp;</a></font>
+<br><br>
+<hr>
+
+<br>&nbsp;
+</p></font>
+ </div> 
+ <!-- </body> -->
+ </div> 
+ </section>
+ 
+ <aside>
+
+ <!--U1CLEFTER1Z-->
+<!-- <block1> -->
+<div class="block">
+ <h6 class="blocktitle"><!-- <bt> --><!--<s5204>-->СДЮШОР Кольца Славы. Сообщества.<!--</s>--><!-- </bt> --></h6>
+ <div class="blockcontent"><!-- <bc> --><!--<s1546>--><ul>
+<li><a href="https://vk.com/ring_of_fame" title="СДЮШОР Кольца Славы | ВКонтакте" alt="СДЮШОР Кольца Славы | ВКонтакте" title="СДЮШОР Кольца Славы Мы вконтакте" target="_blank" rel="noopener nofollow">ВКонтакте </a></li>
+<li><a href="https://www.facebook.com/Gimnastikadlyadetey/" title="СДЮШОР Кольца Славы | Facebook" alt="СДЮШОР Кольца Славы | Facebook" target="_blank" rel="noopener nofollow">Facebook</a></li>
+<li><a href="https://twitter.com/GimnastikaMinsk" title="СДЮШОР Кольца Славы | Твиттер" alt="СДЮШОР Кольца Славы | Твиттер" target="_blank" rel="noopener nofollow">Твиттер</a></li>
+<li><a href="https://www.instagram.com/gimnastika_dlya_detey/" title="СДЮШОР Кольца Славы | Instagram" alt="СДЮШОР Кольца Славы | Instagram" rel="noopener nofollow">Instagram</a></li>
+
+</ul><!--</s>--><!-- </bc> --></div>
+ </div>
+ <div class="block-bottom"></div>
+<!-- </block1> -->
+
+<!-- <block2> -->
+<div class="block">
+ <h6 class="blocktitle"><!-- <bt> --><!--<s3163>-->Поиск<!--</s>--><!-- </bt> --></h6>
+ <div class="blockcontent"><div align="center"><!-- <bc> --><div class="searchForm"><form onsubmit="this.sfSbm.disabled=true" method="get" style="margin:0" action="/search/"><div align="center" class="schQuery"><input type="text" name="q" maxlength="30" size="20" class="queryField" /></div><div align="center" class="schBtn"><input type="submit" class="searchSbmFl" name="sfSbm" value="Найти" /></div></form></div><!-- </bc> --></div></div>
+ </div>
+ <div class="block-bottom"></div>
+<!-- </block2> -->
+
+<!-- <block3> -->
+<div class="block">
+ <h6 class="blocktitle"><!-- <bt> --><!--<s5195>-->Статистика<!--</s>--><!-- </bt> --></h6>
+ <div class="blockcontent"><div align="center"><!-- <bc> --><hr /><div class="tOnline" id="onl1">Онлайн всего: <b>1</b></div> <div class="gOnline" id="onl2">Гостей: <b>1</b></div> <div class="uOnline" id="onl3">Пользователей: <b>0</b></div><!-- </bc> --></div></div>
+ </div>
+ <div class="block-bottom"></div>
+<!-- </block3> -->
+
+<!-- <block4> -->
+
+<!-- </block4> -->
+
+<!-- <block5> -->
+
+<!-- </block5> -->
+
+
+
+<div class="block">
+ <h6 class="blocktitle"><!-- <bt> --><!--<s5204>-->Поделиться в сообществе.<!--</s>--><!-- </bt> --></h6>
+ <div class="blockcontent"><!-- <bc> --><!--<s1546>--><ul>
+<hr>
+
+<script async src="https://usocial.pro/usocial/usocial.js?v=6.1.4" data-script="usocial" charset="utf-8"></script>
+<div class="uSocial-Share" data-pid="a40a6be9796292bd188dea94e1963605" data-uscl-host="https://usocial.pro" data-type="share" data-options="round,style1,default,absolute,horizontal,size24,counter1,counter-after,upArrow-right" data-social="vk,fb,twi,ok,spoiler" data-mobile="vi,wa"></div>
+
+<hr>
+
+</ul><!--</s>--><!-- </bc> --></div>
+ </div>
+ <div class="block-bottom"></div>
+<!-- <block7> -->
+<div class="block">
+ <h6 class="blocktitle"><!-- <bt> --><!--<s5204>-->Счетчики.Отзывы.<!--</s>--><!-- </bt> --></h6>
+ <div class="blockcontent"><!-- <bc> --><!--<s1546>--><ul>
+<hr>
+
+<!-- Rating Mail.ru counter -->
+<script type="text/javascript">
+var _tmr = window._tmr || (window._tmr = []);
+_tmr.push({id: "1766119", type: "pageView", start: (new Date()).getTime()});
+(function (d, w, id) {
+  if (d.getElementById(id)) return;
+  var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;
+  ts.src = "https://top-fwz1.mail.ru/js/code.js";
+  var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+  if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+})(document, window, "topmailru-code");
+</script><noscript><div>
+<img src="https://top-fwz1.mail.ru/counter?id=1766119;js=na" style="border:0;position:absolute;left:-9999px;" alt="Top.Mail.Ru" />
+</div></noscript>
+<!-- //Rating Mail.ru counter -->
+
+<!--LiveInternet counter--><script type="text/javascript">
+document.write('<a href="//www.liveinternet.ru/click" '+
+'target="_blank"><img src="//counter.yadro.ru/hit?t14.6;r'+
+escape(document.referrer)+((typeof(screen)=='undefined')?'':
+';s'+screen.width+'*'+screen.height+'*'+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+';u'+escape(document.URL)+
+';h'+escape(document.title.substring(0,150))+';'+Math.random()+
+'" alt="" title="LiveInternet: показано число просмотров за 24'+
+' часа, посетителей за 24 часа и за сегодня" '+
+'border="0" width="88" height="31"><\/a>')
+</script><!--/LiveInternet-->
+
+
+<!-- Yandex.Metrika informer -->
+<a href="https://metrika.yandex.ru/stat/?id=26035107&amp;from=informer"
+target="_blank" rel="nofollow"><img src="https://informer.yandex.ru/informer/26035107/3_1_FFFFFFFF_EFEFEFFF_0_pageviews"
+style="width:88px; height:31px; border:0;" alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)" class="ym-advanced-informer" data-cid="26035107" data-lang="ru" /></a>
+<!-- /Yandex.Metrika informer -->
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(26035107, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/26035107" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+<hr>
+
+</ul><!--</s>--><!-- </bc> --></div>
+ </div>
+ <div class="block-bottom"></div>
+
+
+<!-- </block7> -->
+
+<!-- <block8> -->
+
+<!-- </block8> -->
+
+<!-- <block9> -->
+
+<!-- </block9> -->
+
+<!-- <block10> -->
+
+<!-- </block10> -->
+
+<!-- <block11> -->
+
+<!-- </block11> -->
+
+<!-- <block12> -->
+
+<!-- </block12> -->
+
+<!-- <block13> -->
+
+
+
+<!-- </block13> -->
+
+<!-- <block14> -->
+<div class="block">
+ <h6 class="blocktitle"><!-- <bt> --><!--<s5204>-->Друзья сайта<!--</s>--><!-- </bt> --></h6>
+ <div class="blockcontent"><!-- <bc> --><!--<s1546>--><ul>
+<li><a href="https://mirgymnastiki.by/" target="_blank" rel="noopener nofollow">Мир Гимнастики</a>
+<br><font color="#000000" style="font-size: 8pt"><h9> Первый детский клуб по спортивной и оздоровительной гимнастики в Минске, созданный на базе СДЮШОР .</h9></li>
+
+</ul><!--</s>--><!-- </bc> --></div>
+ </div>
+ <div class="block-bottom"></div>
+<!-- </block14> --><!--/U1CLEFTER1Z-->
+ </aside>
+ <hr>
+ <div class="clearfix"></div>
+ </div>
+
+
+
+<br>
+<hr><hr>
+
+<table align=center width=100%>
+<tr><center>
+ <p class="copyright">
+
+&nbsp;<img class="alignnone size-full wp-image-230" src="https://sportgymnastics.narod.ru/telephone.png" alt="" width="16" height="16" /><a title="Позвонить" href="tel:+375 17 378-91-20"><font color="#ffffff" style="font-size: 10pt">&nbsp; тел.:    + 375 (17) 378-91-20</a><br>
+&nbsp;<img class="alignnone size-full wp-image-230" src="https://sportgymnastics.narod.ru/telephone.png" alt="" width="16" height="16" /><a title="Отправить факс., позвонить " href="tel:+375 17 378-94-27"><font color="#ffffff" style="font-size: 10pt">&nbsp; тел./факс: :   + 375 (17) 378-94-27</a>
+<br>
+
+<!-- </copy> --></p>
+
+
+
+<p class="powered-by"><!-- "' --><span class="pbAht6u4">220070 г. Минск; ул. Ванеева,1; 
+<br>
+<span class="ts2">&nbsp;&nbsp;e-mail: </span><a href="mailto:SDUSHOR-KS@yandex.by" class="ts2"><font color="#ffffff" style="font-size: 10pt">sdushor-ks@yandex.by</a>
+<br>
+
+ <div class="clearfix">
+</tr>
+</table>
+<hr>
+<br>
+<table width=100%> 
+<tr><center>
+<font color="#ffffff" style="font-size: 10pt">
+&nbsp; Учреждение:&nbsp; "Минская городская СДЮШОР Профсоюзов 
+по гимнастике спортивной"
+</tr>
+<br>
+<tr><center>
+
+<font color="#ffffff" style="font-size: 10pt">
+&nbsp; Учреждение:&nbsp; "Минский объединенный спортивный клуб  Федерации Профсоюзов Беларуси"
+</b></font></tr>
+</table>
+<br>
+<hr>
+ <!-- </middle> -->
+
+ <!--U1BFOOTER1Z-->
+ <footer class="clearfix">
+ <p class="copyright"><!-- <copy> -->Copyright MyCorp &copy; 2019<!-- </copy> --></p>
+ <p class="powered-by"><!-- "' --><span class="pbPtmA8c"><a href="https://sportgymnastics.narod.ru/">www.sportgymnastics.narod.ru</a> с <a href="https://www.ucoz.ru/">uCoz</a></span></p>
+ <div class="clearfix"></div>
+ </footer>
+ <!--/U1BFOOTER1Z-->
+</div>
+</body>
+
+</html><div id="utbr8214" rel="s206"></div>

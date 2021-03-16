@@ -1,0 +1,1091 @@
+<!DOCTYPE html>
+<html prefix="og: http://ogp.me/ns#" lang="ru-RU">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="csrf-param" content="_csrf-frontend">
+<meta name="csrf-token" content="NUUfPINdTDGbKDvp_R4BarUsEnSqpBP0eBQm3ecLn-hDJHRkyDF7V-5nboK_d0g6zR9xTcP1QaBJbWG80jyrvw==">
+    <title>Образование в России, учебные заведения России – “Навигатор Образования”</title>
+    <meta name="yandex-verification" content="40833e93c34e82a6">
+<meta name="wmail-verification" content="706ae6398a4d47a625b8d8c257525d0c">
+<meta name="pmail-verification" content="dcec849dbbff053a3d03aa055a2f4d46">
+<meta name="google-site-verification" content="fJnfaV3ZmgVLhZTajYdKdpxbZX9V4-YZIh_3DtlCBiY">
+<meta property="og:site_name" content="Навигатор Образования">
+<meta property="og:locale" content="ru_RU">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Образование в России, учебные заведения России">
+<meta property="og:description" content="Все новости образования в России, интересные статьи, обзор событий, вопросы, ответы и полный каталог учебных заведений России. Обзор Профессий и Образования за рубежом.">
+<meta property="og:url" content="https://fulledu.ru/">
+<meta property="og:image" content="https://fulledu.ru/main/img/logo.jpg">
+<meta property="og:image:width" content="564">
+<meta property="og:image:height" content="294">
+<meta property="twitter:card" content="summary">
+<meta property="twitter:site" content="Навигатор Образования">
+<meta property="twitter:title" content="Образование в России, учебные заведения России">
+<meta property="twitter:description" content="Все новости образования в России, интересные статьи, обзор событий, вопросы, ответы и полный каталог учебных заведений России. Обзор Профессий и Образования за рубежом.">
+<meta property="twitter:image" content="https://fulledu.ru/main/img/logo.jpg">
+<meta property="description" content="Все новости образования в России, интересные статьи, обзор событий, вопросы, ответы и полный каталог учебных заведений России. Обзор Профессий и Образования за рубежом.">
+<meta name="description" content="Все новости образования в России, интересные статьи, обзор событий, вопросы, ответы и полный каталог учебных заведений России. Обзор Профессий и Образования за рубежом.">
+<link href="https://fulledu.ru/main/img/logo.jpg" rel="image_src">
+<link href="https://fulledu.ru/" rel="canonical">
+<link href="https://media.fulledu.ru/assets/main/a-css/fca-992db509cd704a0b2f7f4f2ae0579e85.css" rel="stylesheet">
+<script>var counterParams = {"controller":"site","action":"simple","system":"default","section":"default","region":""};</script>    <link href="/main/css/app.css" rel="stylesheet">
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-83637857-8"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'UA-83637857-8');
+    </script>
+
+    <script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+<script>
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+    googletag.cmd.push(function() {
+
+        var mappingadunitname = googletag.sizeMapping().
+        addSize([1024, 0], [1110, 94]). //desktop
+        addSize([768, 0], [728, 90]). //tablet
+        addSize([320, 0], [[320, 50], [336, 280]]). //mobile
+        addSize([0, 0], [320, 50]). //other
+        build();
+
+        googletag.defineSlot('/21706964907/firm-240x400', [ 240.0 ,  400.0 ], 'div-gpt-ad-1528468702316-0').addService(googletag.pubads());
+        googletag.defineSlot('/21706964907/after-main-image', [ 1110.0 ,  94.0 ], 'div-gpt-ad-1528468590665-0').addService(googletag.pubads()).defineSizeMapping(mappingadunitname);
+        googletag.defineSlot('/21706964907/top-horizont', [ 1110.0 ,  94.0 ], 'div-gpt-ad-1528468539155-0').addService(googletag.pubads()).defineSizeMapping(mappingadunitname);
+        googletag.defineSlot('/21706964907/dwnHorizontBlock', [ 1110.0 ,  94.0 ], 'div-gpt-ad-1528459288325-0').addService(googletag.pubads()).defineSizeMapping(mappingadunitname);
+
+        googletag.pubads().enableSingleRequest();
+        googletag.pubads().collapseEmptyDivs();
+
+        for (var key in counterParams) {
+            googletag.pubads().setTargeting(key, counterParams[key]);
+        }
+
+        googletag.enableServices();
+    });
+</script>
+
+    
+    <script data-ad-client="ca-pub-7263818704035702" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+</head>
+
+<body>
+
+<div class="wrapper" id="wrapper">
+    <div class="main-wrapper">
+        <header class="header">
+    <noindex>
+        <div class="container">
+            <div class="header__inner">
+                <div class="header__toggle">
+                    <button class="nav-toggle">
+                        <span class="nav-toggle__bar"></span>
+                        <span class="nav-toggle__bar"></span>
+                        <span class="nav-toggle__bar"></span>
+                    </button>
+                </div>
+
+                <div class="header__logo">
+                    <div class="logo">
+                                                    <span class="logo__link"><img src="https://media.fulledu.ru/assets/main/img/logo_mini.jpg" alt=""></span>
+                                            </div>
+                </div>
+                <!-- /.header__logo -->
+
+                <div class="header__region">
+                    <div class="region">
+                        <div class="region__label">Ваш город:</div>
+                        <div class="region__value">
+                            <a href="/region/list/" class="region__link">Москва</a>
+                        </div>
+                    </div>
+                </div>
+                <!-- /.header__region -->
+
+                <div class="header__search">
+                    <form action="/search/" class="search-form">
+                        <input type="hidden" name="searchid" value="2065814"/>
+                        <input type="hidden" name="l10n" value="ru"/>
+                        <input type="hidden" name="reqenc" value="utf-8"/>
+
+                        <div class="search-form__main">
+                            <input type="text" class="search-form__control" name="text" value="" placeholder="Поиск">
+                        </div>
+
+                        <div class="search-form__choose">
+                            <select class="search-form__select">
+                                <option value="">По всему сайту</option>
+                            </select>
+                        </div>
+
+                        <div class="search-form__submit">
+                            <input type="submit" value="Найти" class="search-form__btn">
+                        </div>
+                    </form>
+                </div>
+                <!-- /.header__search -->
+
+                <div class="header__user">
+                                            <div class="user-login">
+                            <a class="user-login__link" href="https://fulledu.ru/user/login/" title="Войти"></a>                        </div>
+                                    </div>
+                <!-- /.header__user -->
+            </div>
+        </div>
+    </noindex>
+</header>
+        <nav class="main-nav">
+    <div class="container">
+        <ul class="main-menu">
+                            
+                <li class="main-menu__item main-menu__item_parent">
+                    <a href="#" class="main-menu__link">Для детей</a>
+                    <ul class="main-menu__sub"><li class="main-menu__sub-item"><a href="/sadik/" class="main-menu__sub-link">Дошкольное образование</a></li><li class="main-menu__sub-item"><a href="/school/" class="main-menu__sub-link">Школьное образование</a></li><li class="main-menu__sub-item"><a href="/detskiy-otdyh/" class="main-menu__sub-link">Детский отдых</a></li></ul>                </li>
+                            
+                <li class="main-menu__item main-menu__item_parent">
+                    <a href="#" class="main-menu__link">Старшекласснику и абитуриенту</a>
+                    <ul class="main-menu__sub"><li class="main-menu__sub-item"><a href="/vuzi/" class="main-menu__sub-link">Высшее образование</a></li><li class="main-menu__sub-item"><a href="/kolledj/" class="main-menu__sub-link">Средне-специальное образование</a></li><li class="main-menu__sub-item"><a href="/professii.html" class="main-menu__sub-link">Профессии</a></li></ul>                </li>
+                            
+                <li class="main-menu__item main-menu__item_parent">
+                    <a href="#" class="main-menu__link">Обучение для взрослых</a>
+                    <ul class="main-menu__sub"><li class="main-menu__sub-item"><a href="/mba/" class="main-menu__sub-link">Доп. образование</a></li></ul>                </li>
+                            
+                <li class="main-menu__item main-menu__item_parent">
+                    <a href="#" class="main-menu__link">Обучение за рубежом</a>
+                    <ul class="main-menu__sub"><li class="main-menu__sub-item"><a href="https://moskva.fulledu.ru/zarubej/" class="main-menu__sub-link">Обучение за рубежом</a></li><li class="main-menu__sub-item"><a href="/strany.html" class="main-menu__sub-link">Страны</a></li></ul>                </li>
+                    </ul>
+    </div>
+</nav>
+
+        <div class="content-wrap">
+            <div class="container">
+                    <!-- /21706964907/top-horizont -->
+<!--    <div id='div-gpt-ad-1528468539155-0' style="text-align: center;">-->
+<!--        <script>-->
+<!--            googletag.cmd.push(function() { googletag.display('div-gpt-ad-1528468539155-0'); });-->
+<!--        </script>-->
+<!--    </div>-->
+<!--    <div id="header-banner" style="position: relative; padding-top: 94px; margin-bottom: 12px; text-align: center; overflow: hidden">-->
+<!--        --><!---->
+<!--            <a href="https://mba.msk.ru/mba-programs/?utm_source=fulledu&utm_medium=cpm&utm_content=bannet_top" target="_blank" style="display: block; position: absolute; top: 0; left: 0; right: 0; bottom: 0;">-->
+<!--                <picture>-->
+<!--                        <!-- Сюда картинку для десктопов -->
+<!--                        <source srcset="/advert/ipo-mba-desktop.gif" media="(min-width: 600px)">-->
+<!---->
+<!--                        <!-- А сюда для мобил -->
+<!--                        <img src="/advert/ipo-mba-mobile.gif" style="width: 100%; height: auto;" />-->
+<!--                </picture>-->
+<!--            </a>-->
+<!---->
+<!--        --><!---->
+<!--            <a href="https://opros.sia.center" target="_blank" style="display: block; position: absolute; top: 0; left: 0; right: 0; bottom: 0;">-->
+<!--            <picture>-->
+<!--                <!-- Сюда картинку для десктопов -->
+<!--                <source srcset="/advert/opros-sia-big.png" media="(min-width: 600px)">-->
+<!---->
+<!--                <!-- А сюда для мобил --->
+<!--                <img src="/advert/opros-sia-big-mobile.jpg" style="width: 100%; height: auto;" />-->
+<!--            </picture>-->
+<!--            </a>-->
+<!--        --><!--    </div>-->
+<!--    <br>-->
+
+                
+                                <h1 class="heading">Образование в России, учебные заведения России</h1>
+
+<div class="post-section">
+    <div class="post-section__head">
+        <div class="heading-group">
+            <div class="heading-group__title">
+                <h2 class="heading">Актуальные новости</h2>
+            </div>
+
+            <div class="heading-group__action">
+                <a href="/news/" class="btn-more">Все новости</a>
+            </div>
+        </div>
+    </div>
+
+    <div class="post-section__body list-grid listing">
+            <div class="post-list">
+        <div class="post-item">
+    <div class="post-item__inner">
+        <div class="post-item__img">
+            <a href="/news/6116_sentyabrya-oktyabrya-2021-goda-studenty.html">
+                                    <img src="https://media.fulledu.ru/documents/covers/1k53/603d01ce03de472e47738162/thumbnail603d01cebbff92.46238663.jpg" alt="С 15 сентября по 20 октября 2021 года студенты колледжей впервые напишут ВПР">                            </a>
+        </div>
+
+                    <a href="/news/6116_sentyabrya-oktyabrya-2021-goda-studenty.html" class="post-item__desc">
+                <div class="post-item__desc-inner">Как следует из письма, опубликованного на сайте Рособрнадзора, ведомство намерено впервые провести Всероссийские проверочные работы (ВПР) в техникумах..</div>
+            </a>
+            </div>
+
+    <div class="post-item__title">
+        <a class="post-item__title-link" href="/news/6116_sentyabrya-oktyabrya-2021-goda-studenty.html">С 15 сентября по 20 октября 2021 года студенты колледжей впервые напишут ВПР</a>    </div>
+
+    <div class="post-item__data">
+        <div class="data">
+                            <div class="data__item data__item_date">1 мар. 2021 г.</div>
+            
+            <div class="data__item data__item_comment">0</div>
+
+                            <div class="data__item data__item_view">124</div>
+                    </div>
+        <!-- /.data -->
+    </div>
+</div>
+<!-- /.post-item -->
+
+<div class="post-item">
+    <div class="post-item__inner">
+        <div class="post-item__img">
+            <a href="/news/6115_utverzhdyon-format-provedeniya-itogovoi-gosattestacii.html">
+                                    <img src="https://media.fulledu.ru/documents/covers/1k53/603ce4262e28ce30162adfb2/thumbnail603ce427176907.75294020.jpeg" alt="Утверждён формат проведения итоговой госаттестации школьников в 2021 году">                            </a>
+        </div>
+
+                    <a href="/news/6115_utverzhdyon-format-provedeniya-itogovoi-gosattestacii.html" class="post-item__desc">
+                <div class="post-item__desc-inner">На официальном сайте российского правительства опубликовано постановление главы ведомства Михаила Мишустина, утверждающее формат проведения итоговой г..</div>
+            </a>
+            </div>
+
+    <div class="post-item__title">
+        <a class="post-item__title-link" href="/news/6115_utverzhdyon-format-provedeniya-itogovoi-gosattestacii.html">Утверждён формат проведения итоговой госаттестации школьников в 2021 году</a>    </div>
+
+    <div class="post-item__data">
+        <div class="data">
+                            <div class="data__item data__item_date">1 мар. 2021 г.</div>
+            
+            <div class="data__item data__item_comment">0</div>
+
+                            <div class="data__item data__item_view">438</div>
+                    </div>
+        <!-- /.data -->
+    </div>
+</div>
+<!-- /.post-item -->
+
+<div class="post-item">
+    <div class="post-item__inner">
+        <div class="post-item__img">
+            <a href="/news/6114_2024-godu-vseh-shkolah-poyavyatsya.html">
+                                    <img src="https://media.fulledu.ru/documents/covers/1k52/6038f97cab9ffa44315f2ed2/thumbnail6038f97c8414f1.26892174.jpg" alt="К 2024 году во всех школах РФ появятся спортивные клубы">                            </a>
+        </div>
+
+                    <a href="/news/6114_2024-godu-vseh-shkolah-poyavyatsya.html" class="post-item__desc">
+                <div class="post-item__desc-inner">Как сообщает пресс-служба Министерства спорта РФ, согласно новой редакции Межотраслевой программы развития школьного спорта, утверждённой совместным с..</div>
+            </a>
+            </div>
+
+    <div class="post-item__title">
+        <a class="post-item__title-link" href="/news/6114_2024-godu-vseh-shkolah-poyavyatsya.html">К 2024 году во всех школах РФ появятся спортивные клубы</a>    </div>
+
+    <div class="post-item__data">
+        <div class="data">
+                            <div class="data__item data__item_date">26 февр. 2021 г.</div>
+            
+            <div class="data__item data__item_comment">0</div>
+
+                            <div class="data__item data__item_view">463</div>
+                    </div>
+        <!-- /.data -->
+    </div>
+</div>
+<!-- /.post-item -->
+
+<div class="post-item">
+    <div class="post-item__inner">
+        <div class="post-item__img">
+            <a href="/news/6113_uchastniki-ege-gve-smogut-poslednii.html">
+                                    <img src="https://media.fulledu.ru/documents/covers/1k52/6038dbfd9ebe1c373123ce52/thumbnail6038dc0a921890.74183976.jpg" alt="Участники ЕГЭ и ГВЭ смогут в последний момент изменить форму сдачи экзаменов">                            </a>
+        </div>
+
+                    <a href="/news/6113_uchastniki-ege-gve-smogut-poslednii.html" class="post-item__desc">
+                <div class="post-item__desc-inner">Как сообщает Рособрнадзор, участники единого государственного экзамена (ЕГЭ) и государственного выпускного экзамена (ГВЭ) для выпускников 11-х классов..</div>
+            </a>
+            </div>
+
+    <div class="post-item__title">
+        <a class="post-item__title-link" href="/news/6113_uchastniki-ege-gve-smogut-poslednii.html">Участники ЕГЭ и ГВЭ смогут в последний момент изменить форму сдачи экзаменов</a>    </div>
+
+    <div class="post-item__data">
+        <div class="data">
+                            <div class="data__item data__item_date">26 февр. 2021 г.</div>
+            
+            <div class="data__item data__item_comment">0</div>
+
+                            <div class="data__item data__item_view">792</div>
+                    </div>
+        <!-- /.data -->
+    </div>
+</div>
+<!-- /.post-item -->
+
+<div class="post-item">
+    <div class="post-item__inner">
+        <div class="post-item__img">
+            <a href="/news/6112_mironov-prizval-otmenit-vserossiiskie-proverochnye.html">
+                                    <img src="https://media.fulledu.ru/documents/covers/1k52/60379a44d1851a72e7005302/thumbnail60379a44ef8909.95073144.jpg" alt="С. Миронов призвал отменить Всероссийские проверочные работы">                            </a>
+        </div>
+
+                    <a href="/news/6112_mironov-prizval-otmenit-vserossiiskie-proverochnye.html" class="post-item__desc">
+                <div class="post-item__desc-inner">Лидер партии «Справедливая Россия – За правду», депутат Госдумы РФ Сергей Миронов выступил за отмену проведения в школах Всероссийских проверочных раб..</div>
+            </a>
+            </div>
+
+    <div class="post-item__title">
+        <a class="post-item__title-link" href="/news/6112_mironov-prizval-otmenit-vserossiiskie-proverochnye.html">С. Миронов призвал отменить Всероссийские проверочные работы</a>    </div>
+
+    <div class="post-item__data">
+        <div class="data">
+                            <div class="data__item data__item_date">25 февр. 2021 г.</div>
+            
+            <div class="data__item data__item_comment">7</div>
+
+                            <div class="data__item data__item_view">1013</div>
+                    </div>
+        <!-- /.data -->
+    </div>
+</div>
+<!-- /.post-item -->
+
+<div class="post-item">
+    <div class="post-item__inner">
+        <div class="post-item__img">
+            <a href="/news/6111_kriteriyah-polucheniya-zolotoi-medali-vydache.html">
+                                    <img src="https://media.fulledu.ru/documents/covers/1k52/60378cbd84b28a35ff34da12/thumbnail60378cc7abc1a7.29265177.jpg" alt="О критериях получения золотой медали и выдаче электронных копий аттестатов в школе в 2021 году">                            </a>
+        </div>
+
+                    <a href="/news/6111_kriteriyah-polucheniya-zolotoi-medali-vydache.html" class="post-item__desc">
+                <div class="post-item__desc-inner">На федеральном портале проектов нормативных правовых актов был опубликован проект приказа Минпросвещения РФ, который определяет критерии получения мед..</div>
+            </a>
+            </div>
+
+    <div class="post-item__title">
+        <a class="post-item__title-link" href="/news/6111_kriteriyah-polucheniya-zolotoi-medali-vydache.html">О критериях получения золотой медали и выдаче электронных копий аттестатов в школе в 2021 году</a>    </div>
+
+    <div class="post-item__data">
+        <div class="data">
+                            <div class="data__item data__item_date">25 февр. 2021 г.</div>
+            
+            <div class="data__item data__item_comment">0</div>
+
+                            <div class="data__item data__item_view">2527</div>
+                    </div>
+        <!-- /.data -->
+    </div>
+</div>
+<!-- /.post-item -->
+    </div>
+
+    <div class="load-listing-button load-more"><a href="/render/document/listing/type.News/document_cards/6/1/" class="load-listing btn btn_primary">Показать еще</a></div>
+    </div>
+</div>
+<!-- /.post-section -->
+
+<div class="event-section">
+    <div class="event-section__head">
+        <div class="heading-group">
+            <div class="heading-group__title">
+                <h2 class="subheading">Ближайшие мероприятия</h2>
+            </div>
+
+            <div class="heading-group__action">
+                <a href="/events/" class="btn-more">Смотреть все</a>
+            </div>
+        </div>
+    </div>
+
+    <div class="event-section__body">
+            <div class="event-section__item">
+    <div class="event-section__img">
+                    <a href="/events/1359_sorevnovaniya-robototehnike-robonikel-2020-proidut.html"><img src="https://media.fulledu.ru/documents/covers/1k4c/5fd365f78750f730ee5bcb72/thumbnail5fd365f800ac12.40720250.jpg" alt="Соревнования по робототехнике «РобоНикель 2020»  пройдут в онлайн-формате!"></a>            </div>
+
+    <div class="event-section__inner">
+                    <div class="event-section__data">
+                <div class="data">
+                    <div class="data__item data__item_date">1 дек. 2020 г.</div>
+                </div>
+            </div>
+        
+        <div class="event-section__title">
+            <a class="event-section__link" href="/events/1359_sorevnovaniya-robototehnike-robonikel-2020-proidut.html">Соревнования по робототехнике «РобоНикель 2020»  пройдут в онлайн-формате!</a>        </div>
+
+                    <div class="event-section__place">
+                онлайн            </div>
+        
+        <div class="event-section__data">
+            <div class="data">
+                <div class="data__item data__item_comment">0</div>
+
+                                    <div class="data__item data__item_view">843</div>
+                            </div>
+            <!-- /.data -->
+        </div>
+    </div>
+</div>
+<!-- /.event-section__item -->
+
+<div class="event-section__item">
+    <div class="event-section__img">
+                    <a href="/events/1358_vebinary-pomogut-formirovanii-adaptirovannyh-programm.html"><img src="https://media.fulledu.ru/documents/covers/1k4b/5fbf63cbb6871d2de04ef4a2/thumbnail5fbf641f7a0196.04864221.png" alt="Вебинары помогут в формировании адаптированных программ для детей с ОВЗ в детских садах "></a>            </div>
+
+    <div class="event-section__inner">
+                    <div class="event-section__data">
+                <div class="data">
+                    <div class="data__item data__item_date">1 дек. 2020 г.</div>
+                </div>
+            </div>
+        
+        <div class="event-section__title">
+            <a class="event-section__link" href="/events/1358_vebinary-pomogut-formirovanii-adaptirovannyh-programm.html">Вебинары помогут в формировании адаптированных программ для детей с ОВЗ в детских садах </a>        </div>
+
+        
+        <div class="event-section__data">
+            <div class="data">
+                <div class="data__item data__item_comment">6</div>
+
+                                    <div class="data__item data__item_view">1219</div>
+                            </div>
+            <!-- /.data -->
+        </div>
+    </div>
+</div>
+<!-- /.event-section__item -->
+    </div>
+</div>
+<!-- /.event-section -->
+
+<div class="post-section">
+    <div class="post-section__head">
+        <div class="heading-group">
+            <div class="heading-group__title">
+                <h2 class="heading">Интересные статьи</h2>
+            </div>
+
+            <div class="heading-group__action">
+                <a href="/articles/" class="btn-more">Все статьи</a>
+            </div>
+        </div>
+    </div>
+
+    <div class="post-section__body list-grid listing">
+            <div class="post-list">
+        <div class="post-item">
+    <div class="post-item__inner">
+        <div class="post-item__img">
+            <a href="/articles/1679_obrazovanie-vne-zony-dostupa-obeschaniya.html">
+                                    <img src="https://media.fulledu.ru/documents/covers/1k52/601aff7e17b8ff2338025133/thumbnail601aff7f03be41.44850747.jpg" alt="Образование вне зоны доступа: обещания, планы и необратимые последствия">                            </a>
+        </div>
+
+                    <a href="/articles/1679_obrazovanie-vne-zony-dostupa-obeschaniya.html" class="post-item__desc">
+                <div class="post-item__desc-inner">COVID19 перешагнул в 2021 год и продолжает коварно влиять на все сферы жизнедеятельности общества. Где-то людям уже удалось в течение минувшего года «..</div>
+            </a>
+            </div>
+
+    <div class="post-item__title">
+        <a class="post-item__title-link" href="/articles/1679_obrazovanie-vne-zony-dostupa-obeschaniya.html">Образование вне зоны доступа: обещания, планы и необратимые последствия</a>    </div>
+
+    <div class="post-item__data">
+        <div class="data">
+                            <div class="data__item data__item_date">24 февр. 2021 г.</div>
+            
+            <div class="data__item data__item_comment">0</div>
+
+                            <div class="data__item data__item_view">201</div>
+                    </div>
+        <!-- /.data -->
+    </div>
+</div>
+<!-- /.post-item -->
+
+<div class="post-item">
+    <div class="post-item__inner">
+        <div class="post-item__img">
+            <a href="/articles/1675_dvoika-uchitelyu-istorii.html">
+                                    <img src="https://media.fulledu.ru/documents/covers/1k52/601af4bd4976c53174420ca4/thumbnail601af4be14ff51.98041113.jpg" alt="«Двойка» учителю по истории!">                            </a>
+        </div>
+
+                    <a href="/articles/1675_dvoika-uchitelyu-istorii.html" class="post-item__desc">
+                <div class="post-item__desc-inner">Сегодня в школах и ВУЗах России преподает историю, в основном, поколение 90-х и 2000-х годов. Учителя истории пенсионного возраста, задержавшиеся в кл..</div>
+            </a>
+            </div>
+
+    <div class="post-item__title">
+        <a class="post-item__title-link" href="/articles/1675_dvoika-uchitelyu-istorii.html">«Двойка» учителю по истории!</a>    </div>
+
+    <div class="post-item__data">
+        <div class="data">
+                            <div class="data__item data__item_date">19 февр. 2021 г.</div>
+            
+            <div class="data__item data__item_comment">0</div>
+
+                            <div class="data__item data__item_view">397</div>
+                    </div>
+        <!-- /.data -->
+    </div>
+</div>
+<!-- /.post-item -->
+
+<div class="post-item">
+    <div class="post-item__inner">
+        <div class="post-item__img">
+            <a href="/articles/1676_detstvu-stanovitsya-tesno-shkola-detskii.html">
+                                    <img src="https://media.fulledu.ru/documents/covers/1k52/601af7a03816f452440fd762/thumbnail601af7a18dd904.51685277.jpg" alt="Детству становится тесно: школа и детский сад в новостройке, «беби-бум» и статистика инерции">                            </a>
+        </div>
+
+                    <a href="/articles/1676_detstvu-stanovitsya-tesno-shkola-detskii.html" class="post-item__desc">
+                <div class="post-item__desc-inner">Мама троих детей рассказывает: в младшей группе детского сада, куда местный отдел образования определил ее сына, по списку – 90 детей. При этом в друг..</div>
+            </a>
+            </div>
+
+    <div class="post-item__title">
+        <a class="post-item__title-link" href="/articles/1676_detstvu-stanovitsya-tesno-shkola-detskii.html">Детству становится тесно: школа и детский сад в новостройке, «беби-бум» и статистика инерции</a>    </div>
+
+    <div class="post-item__data">
+        <div class="data">
+                            <div class="data__item data__item_date">15 февр. 2021 г.</div>
+            
+            <div class="data__item data__item_comment">0</div>
+
+                            <div class="data__item data__item_view">408</div>
+                    </div>
+        <!-- /.data -->
+    </div>
+</div>
+<!-- /.post-item -->
+
+<div class="post-item">
+    <div class="post-item__inner">
+        <div class="post-item__img">
+            <a href="/articles/1674_zachem-biznes-obrazovaniyu-gumanitarnye-discipliny.html">
+                                    <img src="https://media.fulledu.ru/documents/covers/1k52/601af0910822d50e297270a2/thumbnail601af09266d0c6.57392412.jpg" alt="Зачем бизнес-образованию гуманитарные дисциплины?">                            </a>
+        </div>
+
+                    <a href="/articles/1674_zachem-biznes-obrazovaniyu-gumanitarnye-discipliny.html" class="post-item__desc">
+                <div class="post-item__desc-inner">Догадки о том, что технократы менее успешны в бизнесе, чем интеллектуалы, увлекающиеся искусством, историей, литературой, вернули в программы бизнес-ш..</div>
+            </a>
+            </div>
+
+    <div class="post-item__title">
+        <a class="post-item__title-link" href="/articles/1674_zachem-biznes-obrazovaniyu-gumanitarnye-discipliny.html">Зачем бизнес-образованию гуманитарные дисциплины?</a>    </div>
+
+    <div class="post-item__data">
+        <div class="data">
+                            <div class="data__item data__item_date">11 февр. 2021 г.</div>
+            
+            <div class="data__item data__item_comment">0</div>
+
+                            <div class="data__item data__item_view">275</div>
+                    </div>
+        <!-- /.data -->
+    </div>
+</div>
+<!-- /.post-item -->
+
+<div class="post-item">
+    <div class="post-item__inner">
+        <div class="post-item__img">
+            <a href="/articles/1678_novoe-horosho-zabytoe-staroe-normativnye.html">
+                                    <img src="https://media.fulledu.ru/documents/covers/1k52/601afef532268a1a9c461616/thumbnail6022f66f950714.65056411.jpg" alt="Новое – хорошо забытое старое: нормативные акты в сфере образования против пандемии">                            </a>
+        </div>
+
+                    <a href="/articles/1678_novoe-horosho-zabytoe-staroe-normativnye.html" class="post-item__desc">
+                <div class="post-item__desc-inner">Начало 2021 года наполнено целым рядом существенных нововведений в сфере образования. Несмотря на кажущееся затишье, еще задолго до начала зимних кани..</div>
+            </a>
+            </div>
+
+    <div class="post-item__title">
+        <a class="post-item__title-link" href="/articles/1678_novoe-horosho-zabytoe-staroe-normativnye.html">Новое – хорошо забытое старое: нормативные акты в сфере образования против пандемии</a>    </div>
+
+    <div class="post-item__data">
+        <div class="data">
+                            <div class="data__item data__item_date">3 февр. 2021 г.</div>
+            
+            <div class="data__item data__item_comment">0</div>
+
+                            <div class="data__item data__item_view">977</div>
+                    </div>
+        <!-- /.data -->
+    </div>
+</div>
+<!-- /.post-item -->
+
+<div class="post-item">
+    <div class="post-item__inner">
+        <div class="post-item__img">
+            <a href="/articles/1672_smeshannoe-obuchenie-realnost-hhі-veka.html">
+                                    <img src="https://media.fulledu.ru/documents/covers/1k4c/5feb40dd6f20e165fe257c52/thumbnail5feb40dde12367.74585586.jpg" alt="Смешанное обучение - реальность ХХІ века">                            </a>
+        </div>
+
+                    <a href="/articles/1672_smeshannoe-obuchenie-realnost-hhі-veka.html" class="post-item__desc">
+                <div class="post-item__desc-inner">Внезапная ситуация, связанная с пандемией в прошлом учебном году, даже учителей старшего поколения простимулировала к скорейшему освоению онлайн-педаг..</div>
+            </a>
+            </div>
+
+    <div class="post-item__title">
+        <a class="post-item__title-link" href="/articles/1672_smeshannoe-obuchenie-realnost-hhі-veka.html">Смешанное обучение - реальность ХХІ века</a>    </div>
+
+    <div class="post-item__data">
+        <div class="data">
+                            <div class="data__item data__item_date">25 янв. 2021 г.</div>
+            
+            <div class="data__item data__item_comment">0</div>
+
+                            <div class="data__item data__item_view">354</div>
+                    </div>
+        <!-- /.data -->
+    </div>
+</div>
+<!-- /.post-item -->
+    </div>
+
+    <div class="load-listing-button load-more"><a href="/render/document/listing/type.Article/document_cards/6/1/" class="load-listing btn btn_primary">Показать еще</a></div>
+    </div>
+</div>
+<!-- /.post-section -->
+
+    <div class="post-section">
+        <div class="post-section__head">
+            <div class="heading-group">
+                <div class="heading-group__title">
+                    <h2 class="heading">Новости образовательных учреждений</h2>
+                </div>
+
+                <div class="heading-group__action">
+                    <a href="/firm-news/" class="btn-more">Все новости</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="post-section__body list-grid listing">
+                <div class="post-list">
+        <div class="post-item post-item_open">
+    <div class="post-item__inner">
+        <div class="post-item__img">
+            <a href="https://sankt-peterburg.fulledu.ru/firm-news/620_uroki-179-licee-spb-raskryvayut.html">
+                                    <img src="https://media.fulledu.ru/assets/app/web/document/cover-placeholder-1.jpg">
+                            </a>
+        </div>
+
+                    <a href="https://sankt-peterburg.fulledu.ru/firm-news/620_uroki-179-licee-spb-raskryvayut.html" class="post-item__desc">
+                <div class="post-item__desc-inner">Уроки биологии в 3D - путешествия по скрытым мирам (на примере 179 лицея СПб)..</div>
+            </a>
+            </div>
+
+    <div class="post-item__title">
+        <a class="post-item__title-link" href="https://sankt-peterburg.fulledu.ru/firm-news/620_uroki-179-licee-spb-raskryvayut.html">3D-уроки в 179 лицее СПб раскрывают тайны биологических процессов</a>    </div>
+
+    <div class="post-item__data">
+        <div class="data">
+                            <div class="data__item data__item_date">26 мая 2019 г.</div>
+            
+            <div class="data__item data__item_comment">0</div>
+
+                            <div class="data__item data__item_view">371</div>
+                    </div>
+        <!-- /.data -->
+    </div>
+</div>
+<!-- /.post-item -->
+
+<div class="post-item">
+    <div class="post-item__inner">
+        <div class="post-item__img">
+            <a href="https://moskva.fulledu.ru/firm-news/619_pobediteli-modeli-vto-proidut-stazhirovku.html">
+                                    <img src="https://media.fulledu.ru/documents/covers/1k2b/5bfc2126d6e4a910d9411db2/thumbnail5bfc212b4be560.12386776.png" alt="Победители «Модели ВТО» пройдут стажировку в Минэконразвития России">                            </a>
+        </div>
+
+                    <a href="https://moskva.fulledu.ru/firm-news/619_pobediteli-modeli-vto-proidut-stazhirovku.html" class="post-item__desc">
+                <div class="post-item__desc-inner">26 ноября, Москва. В Минэкономразвития России состоялось награждение победителей IV международного конкурса «Модель ВТО 2018», проводимого Всероссийск..</div>
+            </a>
+            </div>
+
+    <div class="post-item__title">
+        <a class="post-item__title-link" href="https://moskva.fulledu.ru/firm-news/619_pobediteli-modeli-vto-proidut-stazhirovku.html">Победители «Модели ВТО» пройдут стажировку в Минэконразвития России</a>    </div>
+
+    <div class="post-item__data">
+        <div class="data">
+                            <div class="data__item data__item_date">26 нояб. 2018 г.</div>
+            
+            <div class="data__item data__item_comment">0</div>
+
+                            <div class="data__item data__item_view">568</div>
+                    </div>
+        <!-- /.data -->
+    </div>
+</div>
+<!-- /.post-item -->
+
+<div class="post-item post-item_open">
+    <div class="post-item__inner">
+        <div class="post-item__img">
+            <a href="https://moskva.fulledu.ru/firm-news/618_rebyata-1368-vstretilis-prezidentom-vladimirom.html">
+                                    <img src="https://media.fulledu.ru/assets/app/web/document/cover-placeholder-1.jpg">
+                            </a>
+        </div>
+
+                    <a href="https://moskva.fulledu.ru/firm-news/618_rebyata-1368-vstretilis-prezidentom-vladimirom.html" class="post-item__desc">
+                <div class="post-item__desc-inner">Глава государства одобрил направления, выбранные подростками, отметив, что за этими профессиями – будущее...</div>
+            </a>
+            </div>
+
+    <div class="post-item__title">
+        <a class="post-item__title-link" href="https://moskva.fulledu.ru/firm-news/618_rebyata-1368-vstretilis-prezidentom-vladimirom.html"> Ребята из 1368 встретились с Президентом РФ Владимиром Путиным</a>    </div>
+
+    <div class="post-item__data">
+        <div class="data">
+                            <div class="data__item data__item_date">30 окт. 2018 г.</div>
+            
+            <div class="data__item data__item_comment">0</div>
+
+                            <div class="data__item data__item_view">583</div>
+                    </div>
+        <!-- /.data -->
+    </div>
+</div>
+<!-- /.post-item -->
+
+<div class="post-item post-item_open">
+    <div class="post-item__inner">
+        <div class="post-item__img">
+            <a href="https://moskva.fulledu.ru/firm-news/617_ucheniki-shkoly-1392-ryabinkina-poluchili.html">
+                                    <img src="https://media.fulledu.ru/assets/app/web/document/cover-placeholder-1.jpg">
+                            </a>
+        </div>
+
+                    <a href="https://moskva.fulledu.ru/firm-news/617_ucheniki-shkoly-1392-ryabinkina-poluchili.html" class="post-item__desc">
+                <div class="post-item__desc-inner">Полвека назад, 29 октября 1968 года, капсулу с письмом для потомков вмуровали в стену строящегося здания школы в Ватутинках...</div>
+            </a>
+            </div>
+
+    <div class="post-item__title">
+        <a class="post-item__title-link" href="https://moskva.fulledu.ru/firm-news/617_ucheniki-shkoly-1392-ryabinkina-poluchili.html">Ученики школы №1392 им. Д.В. Рябинкина получили послание от комсомольцев 1960-х годов</a>    </div>
+
+    <div class="post-item__data">
+        <div class="data">
+                            <div class="data__item data__item_date">30 окт. 2018 г.</div>
+            
+            <div class="data__item data__item_comment">0</div>
+
+                            <div class="data__item data__item_view">583</div>
+                    </div>
+        <!-- /.data -->
+    </div>
+</div>
+<!-- /.post-item -->
+
+<div class="post-item">
+    <div class="post-item__inner">
+        <div class="post-item__img">
+            <a href="https://moskva.fulledu.ru/firm-news/616_edcrunch2018-mirovye-eksperty-dlya-liderov.html">
+                                    <img src="https://media.fulledu.ru/documents/covers/1k27/5b573f86d6e4a9570d2ea6a2/thumbnail5b573f86ee85b5.54937911.jpg" alt="#EDCRUNCH2018: МИРОВЫЕ ЭКСПЕРТЫ ДЛЯ ЛИДЕРОВ ЦИФРОВОЙ ЭКОНОМИКИ РОССИИ">                            </a>
+        </div>
+
+            </div>
+
+    <div class="post-item__title">
+        <a class="post-item__title-link" href="https://moskva.fulledu.ru/firm-news/616_edcrunch2018-mirovye-eksperty-dlya-liderov.html">#EDCRUNCH2018: МИРОВЫЕ ЭКСПЕРТЫ ДЛЯ ЛИДЕРОВ ЦИФРОВОЙ ЭКОНОМИКИ РОССИИ</a>    </div>
+
+    <div class="post-item__data">
+        <div class="data">
+                            <div class="data__item data__item_date">24 июл. 2018 г.</div>
+            
+            <div class="data__item data__item_comment">0</div>
+
+                            <div class="data__item data__item_view">538</div>
+                    </div>
+        <!-- /.data -->
+    </div>
+</div>
+<!-- /.post-item -->
+
+<div class="post-item">
+    <div class="post-item__inner">
+        <div class="post-item__img">
+            <a href="https://moskva.fulledu.ru/firm-news/615_nitu-misis-provel-blokchein-laboratoriyu.html">
+                                    <img src="https://media.fulledu.ru/documents/covers/1k27/5b55de07d6e4a91ffb0c5de2/thumbnail5b55de083c9407.26681626.jpg" alt="НИТУ «МИСИС» ПРОВЕЛ БЛОКЧЕЙН-ЛАБОРАТОРИЮ НА ОСТРОВЕ «10-21»">                            </a>
+        </div>
+
+                    <a href="https://moskva.fulledu.ru/firm-news/615_nitu-misis-provel-blokchein-laboratoriyu.html" class="post-item__desc">
+                <div class="post-item__desc-inner">С 10 по 21 июля на острове Русский (Владивосток) прошла первая в России образовательная программа по интенсивной подготовке кадров для цифровой̆ эконо..</div>
+            </a>
+            </div>
+
+    <div class="post-item__title">
+        <a class="post-item__title-link" href="https://moskva.fulledu.ru/firm-news/615_nitu-misis-provel-blokchein-laboratoriyu.html">НИТУ «МИСИС» ПРОВЕЛ БЛОКЧЕЙН-ЛАБОРАТОРИЮ НА ОСТРОВЕ «10-21»</a>    </div>
+
+    <div class="post-item__data">
+        <div class="data">
+                            <div class="data__item data__item_date">23 июл. 2018 г.</div>
+            
+            <div class="data__item data__item_comment">0</div>
+
+                            <div class="data__item data__item_view">638</div>
+                    </div>
+        <!-- /.data -->
+    </div>
+</div>
+<!-- /.post-item -->
+    </div>
+
+    <div class="load-listing-button load-more"><a href="/render/document/listing/type.FirmNews/document_cards/6/1/" class="load-listing btn btn_primary">Показать еще</a></div>
+        </div>
+    </div>
+    <!-- /.post-section -->
+
+<div class="present present_faq">
+    <div class="present__main">
+        <div class="present__main-inner">
+            <div class="present__main-title">
+                <a href="/answer/" class="present__main-link">Вопросы <br>и ответы</a>
+            </div>
+
+            <div class="present__main-desc">
+                <a href="/answer/" class="more-link present__main-more">Все ответы</a>
+            </div>
+
+            <div class="present__main-action">
+                <a href="/answer/add/" class="btn btn_light btn_round">Задать вопрос</a>
+            </div>
+        </div>
+    </div>
+
+    <div class="present__body">
+            <ul class="present-faq">
+                                <li class="present-faq__item">
+                <a class="present-faq__link" href="/answer/zdravstvuite-hotela-udalit-dva-otzyva_1710/">Здравствуйте, я хотела бы удалить два отзыва, отставленные мной об 11 школе города Калининграда. Как это возможно?</a>                <span class="present-faq__num">0</span>
+            </li>
+                                <li class="present-faq__item">
+                <a class="present-faq__link" href="/answer/nazvanie-uchilisch-posle-klassa-spravkoi_1709/">Название училищ после 9 класса со справкой по Саратовской области</a>                <span class="present-faq__num">1</span>
+            </li>
+                                <li class="present-faq__item">
+                <a class="present-faq__link" href="/answer/mozhno-uchitsya-farmocevta-doma_1708/">Можно ли учиться на фармоцевта дома</a>                <span class="present-faq__num">1</span>
+            </li>
+                                <li class="present-faq__item">
+                <a class="present-faq__link" href="/answer/hochu-postupit-posle-klassa-libo_1707/">Я хочу поступить после 9 класса либо на полицейского, либо на психолога. После 9 класса, девушка</a>                <span class="present-faq__num">1</span>
+            </li>
+                                <li class="present-faq__item">
+                <a class="present-faq__link" href="/answer/mogu-postupit-vospitatelya-doshkolgo-obrazovaniya_1705/">Могу ли я поступить на воспитателя дошкольго образования после коррекционной школы vlll вида? </a>                <span class="present-faq__num">1</span>
+            </li>
+                                <li class="present-faq__item">
+                <a class="present-faq__link" href="/answer/postuplenie-zaochku-dlya-sredne-specialnogo_1704/">Поступление на заочку для средне специального. </a>                <span class="present-faq__num">2</span>
+            </li>
+                                <li class="present-faq__item">
+                <a class="present-faq__link" href="/answer/nadr-sdavat-ent-chto-stat_1703/">Надо ли сдавать ент что бы стать певицой ? и ещё что бы стать певицой надо  ли высшее образование? Какие предметы нужно сдавпть для ент что бы стать певицой??</a>                <span class="present-faq__num">1</span>
+            </li>
+                                <li class="present-faq__item">
+                <a class="present-faq__link" href="/answer/obuchenie-lechebnomu-delu-posle-klassa_1702/">Обучение лечебному делу после 9 класса. Возможно ли? Если нет, то можно ли переквалифицироваться</a>                <span class="present-faq__num">1</span>
+            </li>
+                                <li class="present-faq__item">
+                <a class="present-faq__link" href="/answer/kakie-predmety-tochno-nuzhno-sdavt_1701/">Какие предметы точно нужно сдавать для професии повара кондитера?</a>                <span class="present-faq__num">1</span>
+            </li>
+                                <li class="present-faq__item">
+                <a class="present-faq__link" href="/answer/korrekcionnaya-shkola-vida_1700/">Какой специалист должен вести предмет "Предметно- практическая деятельность"  класс "Особый ребёнок"?</a>                <span class="present-faq__num">0</span>
+            </li>
+            </ul>
+    </div>
+</div>
+<!-- /.present -->
+
+            </div>
+        </div>
+    </div>
+
+    <noindex>
+    <!--LiveInternet counter-->
+    <script type="text/javascript">
+        new Image().src = "//counter.yadro.ru/hit;FULLEDU?r"+
+            escape(document.referrer)+((typeof(screen)=="undefined")?"":
+                ";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+                screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+            ";h"+escape(document.title.substring(0,150))+
+            ";"+Math.random();</script>
+    <!--/LiveInternet-->
+
+
+    <!-- Yandex.Metrika informer -->
+    <!-- <a href="https://metrika.yandex.ru/stat/?id=20951263&amp;from=informer"
+       target="_blank" rel="nofollow"><img src="https://informer.yandex.ru/informer/20951263/3_1_FFFFFFFF_EFEFEFFF_0_pageviews"
+                                           style="width:88px; height:31px; border:0;" alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)" class="ym-advanced-informer" data-cid="20951263" data-lang="ru" /></a> -->
+    <!-- /Yandex.Metrika informer -->
+
+    <!-- Yandex.Metrika counter -->
+        <script type="text/javascript" >
+        (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+            m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+        (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+        ym(20951263, "init", {
+            clickmap:true,
+            trackLinks:true,
+            accurateTrackBounce:true,
+            webvisor:true
+        });
+    </script>
+    <noscript><div><img src="https://mc.yandex.ru/watch/20951263" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+    <!-- /Yandex.Metrika counter -->
+
+    <!-- Facebook Pixel Code -->
+    <script>
+        !function(f,b,e,v,n,t,s)
+        {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+            n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+            if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+            n.queue=[];t=b.createElement(e);t.async=!0;
+            t.src=v;s=b.getElementsByTagName(e)[0];
+            s.parentNode.insertBefore(t,s)}(window, document,'script',
+            'https://connect.facebook.net/en_US/fbevents.js');
+        fbq('init', '985003791600848');
+        fbq('track', 'PageView');
+    </script>
+    <noscript><img height="1" width="1" style="display:none"
+                   src="https://www.facebook.com/tr?id=985003791600848&ev=PageView&noscript=1"
+        /></noscript>
+    <!-- End Facebook Pixel Code -->
+
+    <!-- Rating Mail.ru counter -->
+    <script type="text/javascript">
+        var _tmr = window._tmr || (window._tmr = []);
+        _tmr.push({id: "3159511", type: "pageView", start: (new Date()).getTime()});
+        (function (d, w, id) {
+            if (d.getElementById(id)) return;
+            var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;
+            ts.src = "https://top-fwz1.mail.ru/js/code.js";
+            var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+            if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+        })(document, window, "topmailru-code");
+    </script><noscript><div>
+            <img src="https://top-fwz1.mail.ru/counter?id=3159511;js=na" style="border:0;position:absolute;left:-9999px;" alt="Top.Mail.Ru" />
+        </div></noscript>
+    <!-- //Rating Mail.ru counter -->
+
+            <!-- MailerLite Universal -->
+        <script>
+            (function(m,a,i,l,e,r){ m['MailerLiteObject']=e;function f(){
+                var c={ a:arguments,q:[]};var r=this.push(c);return "number"!=typeof r?r:f.bind(c.q);}
+                f.q=f.q||[];m[e]=m[e]||f.bind(f.q);m[e].q=m[e].q||f.q;r=a.createElement(i);
+                var _=a.getElementsByTagName(i)[0];r.async=1;r.src=l+'?v'+(~~(new Date().getTime()/1000000));
+                _.parentNode.insertBefore(r,_);})(window, document, 'script', 'https://static.mailerlite.com/js/universal.js', 'ml');
+
+            var ml_account = ml('accounts', '1131566', 'j9p1y5n6p4', 'load');
+        </script>
+        <!-- End MailerLite Universal -->
+    </noindex>
+    <footer class="footer">
+    <noindex>
+        <div class="container">
+            <div class="footer__inner">
+                <div class="footer__copywrite">
+                    <div class="copywrite">
+                        <div class="copywrite__inner">© Сетевое издание «Навигатор образования», 2008-2021, 16+</div>
+                        <div class="copywrite__dist">Свидетельство о регистрации ЭЛ № ФС 77-53923 от 26.04.2013.</div>
+                    </div>
+                </div>
+                <!-- /.footer__copywrite -->
+
+                <div class="footer__contact">
+                    <div class="footer-contact">
+                        <div class="footer-contact__action">
+                            <a href="/razmeschenie-reklamy.html" class="footer-contact__link" rel="nofollow">Реклама</a>
+                        </div>
+                        <div class="footer-contact__action">
+                            <a href="https://fulledu.zendesk.com/hc/ru/requests/new" class="footer-contact__link" target="_blank" rel="nofollow">Написать нам</a>
+                        </div>
+                    </div>
+                    <!-- /.footer-contact -->
+                </div>
+                <!-- /.footer__contact -->
+
+                <div class="footer__social">
+                    <div class="footer-social">
+                        <a href="https://vk.com/fulledu" class="footer-social__btn footer-social__btn_vk" target="_blank" rel="nofollow"></a>
+                        <a href="https://www.facebook.com/fulleduru/" class="footer-social__btn footer-social__btn_fb" target="_blank" rel="nofollow"></a>
+                        <a href="https://ok.ru/fulledu" class="footer-social__btn footer-social__btn_ok" target="_blank" rel="nofollow"></a>
+                        <a href="https://twitter.com/fulleduru" class="footer-social__btn footer-social__btn_tw" target="_blank" rel="nofollow"></a>
+                    </div>
+                    <!-- /.footer-social -->
+                </div>
+                <!-- /.footer__social -->
+            </div>
+        </div>
+    </noindex>
+</footer>
+</div>
+
+<!-- меню для mobile разрешения -->
+<div class="mobile-panel" id="mobile-nav">
+    <div class="mobile-panel__region">
+        <div class="region region_mobile">
+            <div class="region__label">Ваш город:</div>
+            <div class="region__value">
+                <a href="/region/list/" class="region__link">Москва</a>
+            </div>
+        </div>
+    </div>
+
+    <nav class="mobile-panel__nav">
+        <ul class="mobile-menu">
+                        <li class="mobile-menu__item">
+                <a href="#" class="mobile-menu__link">Для детей</a>
+
+                                <ul class="mobile-menu__sub">
+                                            <li class="mobile-menu__sub-item">
+                            <a href="/sadik/" class="mobile-menu__sub-link">Дошкольное образование</a>
+                        </li>
+                                            <li class="mobile-menu__sub-item">
+                            <a href="/school/" class="mobile-menu__sub-link">Школьное образование</a>
+                        </li>
+                                            <li class="mobile-menu__sub-item">
+                            <a href="/detskiy-otdyh/" class="mobile-menu__sub-link">Детский отдых</a>
+                        </li>
+                                    </ul>
+                            </li>
+                        <li class="mobile-menu__item">
+                <a href="#" class="mobile-menu__link">Старшекласснику и абитуриенту</a>
+
+                                <ul class="mobile-menu__sub">
+                                            <li class="mobile-menu__sub-item">
+                            <a href="/vuzi/" class="mobile-menu__sub-link">Высшее образование</a>
+                        </li>
+                                            <li class="mobile-menu__sub-item">
+                            <a href="/kolledj/" class="mobile-menu__sub-link">Средне-специальное образование</a>
+                        </li>
+                                            <li class="mobile-menu__sub-item">
+                            <a href="/professii.html" class="mobile-menu__sub-link">Профессии</a>
+                        </li>
+                                    </ul>
+                            </li>
+                        <li class="mobile-menu__item">
+                <a href="#" class="mobile-menu__link">Обучение для взрослых</a>
+
+                                <ul class="mobile-menu__sub">
+                                            <li class="mobile-menu__sub-item">
+                            <a href="/mba/" class="mobile-menu__sub-link">Доп. образование</a>
+                        </li>
+                                    </ul>
+                            </li>
+                        <li class="mobile-menu__item">
+                <a href="#" class="mobile-menu__link">Обучение за рубежом</a>
+
+                                <ul class="mobile-menu__sub">
+                                            <li class="mobile-menu__sub-item">
+                            <a href="https://moskva.fulledu.ru/zarubej/" class="mobile-menu__sub-link">Обучение за рубежом</a>
+                        </li>
+                                            <li class="mobile-menu__sub-item">
+                            <a href="/strany.html" class="mobile-menu__sub-link">Страны</a>
+                        </li>
+                                    </ul>
+                            </li>
+                    </ul>
+    </nav>
+</div>
+<!-- /.mobile-panel -->
+
+<script src="https://media.fulledu.ru/assets/main/a-js/fca-f3e19dd5b571d290f14b72a71bd617a2.js"></script></body>
+</html>

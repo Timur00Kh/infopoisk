@@ -1,0 +1,2178 @@
+<!DOCTYPE html>
+<html lang="ru-RU">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="yandex-verification" content="9e79824a42773e87" />
+    <meta name="sputnik-verification" content="iDyBfT6AeSZiILkR" />
+    <link rel="icon" type="image/png" href="https://ug.ru/wp-content/themes/bb/assets/img/favicon.ico" />
+        <title>Главная &ndash; Учительская газета</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v12.3 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1"/>
+<link rel="canonical" href="https://ug.ru/" />
+<meta property="og:locale" content="ru_RU" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Главная &ndash; Учительская газета" />
+<meta property="og:url" content="https://ug.ru/" />
+<meta property="og:site_name" content="Учительская газета " />
+<meta property="og:image" content="https://ug.ru/wp-content/uploads/2019/06/podpiska-UG.jpg" />
+<meta property="og:image:secure_url" content="https://ug.ru/wp-content/uploads/2019/06/podpiska-UG.jpg" />
+<meta property="og:image:width" content="350" />
+<meta property="og:image:height" content="250" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Главная &ndash; Учительская газета" />
+<meta name="twitter:image" content="https://ug.ru/wp-content/uploads/2019/06/podpiska-UG.jpg" />
+<script type='application/ld+json' class='yoast-schema-graph yoast-schema-graph--main'>{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://ug.ru/#website","url":"https://ug.ru/","name":"\u0423\u0447\u0438\u0442\u0435\u043b\u044c\u0441\u043a\u0430\u044f \u0433\u0430\u0437\u0435\u0442\u0430 ","potentialAction":{"@type":"SearchAction","target":"https://ug.ru/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"ImageObject","@id":"https://ug.ru/#primaryimage","url":"https://ug.ru/wp-content/uploads/2019/06/podpiska-UG.jpg","width":350,"height":250},{"@type":"WebPage","@id":"https://ug.ru/#webpage","url":"https://ug.ru/","inLanguage":"ru-RU","name":"\u0413\u043b\u0430\u0432\u043d\u0430\u044f &ndash; \u0423\u0447\u0438\u0442\u0435\u043b\u044c\u0441\u043a\u0430\u044f \u0433\u0430\u0437\u0435\u0442\u0430","isPartOf":{"@id":"https://ug.ru/#website"},"primaryImageOfPage":{"@id":"https://ug.ru/#primaryimage"},"datePublished":"2019-04-23T17:41:35+00:00","dateModified":"2021-02-11T15:22:56+00:00"}]}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//code.responsivevoice.org' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Учительская газета  &raquo; Лента" href="https://ug.ru/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Учительская газета  &raquo; Лента комментариев" href="https://ug.ru/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/ug.ru\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.2.7"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://ug.ru/wp-includes/css/dist/block-library/style.min.css?ver=5.2.7' type='text/css' media='all' />
+<link rel='stylesheet' id='wc-block-style-css'  href='https://ug.ru/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/style.css?ver=2.5.14' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://ug.ru/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.4' type='text/css' media='all' />
+<link rel='stylesheet' id='rv-style-css'  href='https://ug.ru/wp-content/plugins/responsivevoice-text-to-speech/includes/css/responsivevoice.css?ver=5.2.7' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-layout-css'  href='https://ug.ru/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=4.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-smallscreen-css'  href='https://ug.ru/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=4.0.0' type='text/css' media='only screen and (max-width: 768px)' />
+<link rel='stylesheet' id='woocommerce-general-css'  href='https://ug.ru/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=4.0.0' type='text/css' media='all' />
+<style id='woocommerce-inline-inline-css' type='text/css'>
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link rel='stylesheet' id='wsl-widget-css'  href='https://ug.ru/wp-content/plugins/wordpress-social-login/assets/css/style.css?ver=5.2.7' type='text/css' media='all' />
+<link rel='stylesheet' id='style-css'  href='https://ug.ru/wp-content/themes/bb/assets/css/style.css?5481&#038;ver=5.2.7' type='text/css' media='all' />
+<link rel='stylesheet' id='newsletter-css'  href='https://ug.ru/wp-content/plugins/newsletter/style.css?ver=7.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='um_fonticons_ii-css'  href='https://ug.ru/wp-content/plugins/ultimate-member/assets/css/um-fonticons-ii.css?ver=2.1.6' type='text/css' media='all' />
+<link rel='stylesheet' id='um_fonticons_fa-css'  href='https://ug.ru/wp-content/plugins/ultimate-member/assets/css/um-fonticons-fa.css?ver=2.1.6' type='text/css' media='all' />
+<link rel='stylesheet' id='select2-css'  href='https://ug.ru/wp-content/plugins/ultimate-member/assets/css/select2/select2.min.css?ver=2.1.6' type='text/css' media='all' />
+<link rel='stylesheet' id='um_crop-css'  href='https://ug.ru/wp-content/plugins/ultimate-member/assets/css/um-crop.css?ver=2.1.6' type='text/css' media='all' />
+<link rel='stylesheet' id='um_modal-css'  href='https://ug.ru/wp-content/plugins/ultimate-member/assets/css/um-modal.css?ver=2.1.6' type='text/css' media='all' />
+<link rel='stylesheet' id='um_styles-css'  href='https://ug.ru/wp-content/plugins/ultimate-member/assets/css/um-styles.css?ver=2.1.6' type='text/css' media='all' />
+<link rel='stylesheet' id='um_profile-css'  href='https://ug.ru/wp-content/plugins/ultimate-member/assets/css/um-profile.css?ver=2.1.6' type='text/css' media='all' />
+<link rel='stylesheet' id='um_account-css'  href='https://ug.ru/wp-content/plugins/ultimate-member/assets/css/um-account.css?ver=2.1.6' type='text/css' media='all' />
+<link rel='stylesheet' id='um_misc-css'  href='https://ug.ru/wp-content/plugins/ultimate-member/assets/css/um-misc.css?ver=2.1.6' type='text/css' media='all' />
+<link rel='stylesheet' id='um_fileupload-css'  href='https://ug.ru/wp-content/plugins/ultimate-member/assets/css/um-fileupload.css?ver=2.1.6' type='text/css' media='all' />
+<link rel='stylesheet' id='um_datetime-css'  href='https://ug.ru/wp-content/plugins/ultimate-member/assets/css/pickadate/default.css?ver=2.1.6' type='text/css' media='all' />
+<link rel='stylesheet' id='um_datetime_date-css'  href='https://ug.ru/wp-content/plugins/ultimate-member/assets/css/pickadate/default.date.css?ver=2.1.6' type='text/css' media='all' />
+<link rel='stylesheet' id='um_datetime_time-css'  href='https://ug.ru/wp-content/plugins/ultimate-member/assets/css/pickadate/default.time.css?ver=2.1.6' type='text/css' media='all' />
+<link rel='stylesheet' id='um_raty-css'  href='https://ug.ru/wp-content/plugins/ultimate-member/assets/css/um-raty.css?ver=2.1.6' type='text/css' media='all' />
+<link rel='stylesheet' id='um_scrollbar-css'  href='https://ug.ru/wp-content/plugins/ultimate-member/assets/css/simplebar.css?ver=2.1.6' type='text/css' media='all' />
+<link rel='stylesheet' id='um_tipsy-css'  href='https://ug.ru/wp-content/plugins/ultimate-member/assets/css/um-tipsy.css?ver=2.1.6' type='text/css' media='all' />
+<link rel='stylesheet' id='um_responsive-css'  href='https://ug.ru/wp-content/plugins/ultimate-member/assets/css/um-responsive.css?ver=2.1.6' type='text/css' media='all' />
+<link rel='stylesheet' id='um_default_css-css'  href='https://ug.ru/wp-content/plugins/ultimate-member/assets/css/um-old-default.css?ver=2.1.6' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ajax_var = {"url":"https:\/\/ug.ru\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js'></script>
+<script type='text/javascript' src='https://code.responsivevoice.org/1.7.0/responsivevoice.js?source=wp-plugin&#038;key=ezpG0gk5&#038;ver=5.2.7'></script>
+<script type='text/javascript' src='https://ug.ru/wp-includes/js/jquery/jquery.form.min.js?ver=4.2.1'></script>
+<script type='text/javascript' src='https://ug.ru/wp-content/themes/bb/assets/js/min/jquery-wplogin-min.js?ver=5.2.7'></script>
+<script type='text/javascript' src='https://ug.ru/wp-content/plugins/ultimate-member/assets/js/um-gdpr.min.js?ver=2.1.6'></script>
+<link rel='https://api.w.org/' href='https://ug.ru/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://ug.ru/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://ug.ru/wp-includes/wlwmanifest.xml" /> 
+<link rel='shortlink' href='https://ug.ru/' />
+<link rel="alternate" type="application/json+oembed" href="https://ug.ru/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fug.ru%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://ug.ru/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fug.ru%2F&#038;format=xml" />
+<meta name="Description" content="Учительская газета"/>		<style type="text/css">
+			.um_request_name {
+				display: none !important;
+			}
+		</style>
+		<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	      <meta name="onesignal" content="wordpress-plugin"/>
+            <script>
+
+      window.OneSignal = window.OneSignal || [];
+
+      OneSignal.push( function() {
+        OneSignal.SERVICE_WORKER_UPDATER_PATH = "OneSignalSDKUpdaterWorker.js.php";
+        OneSignal.SERVICE_WORKER_PATH = "OneSignalSDKWorker.js.php";
+        OneSignal.SERVICE_WORKER_PARAM = { scope: '/' };
+
+        OneSignal.setDefaultNotificationUrl("https://ug.ru");
+        var oneSignal_options = {};
+        window._oneSignalInitOptions = oneSignal_options;
+
+        oneSignal_options['wordpress'] = true;
+oneSignal_options['appId'] = 'd35ac720-a4b8-4ba2-90c2-cf5dfe1e38ec';
+oneSignal_options['welcomeNotification'] = { };
+oneSignal_options['welcomeNotification']['title'] = "";
+oneSignal_options['welcomeNotification']['message'] = "Спасибо что подписались!";
+oneSignal_options['path'] = "https://ug.ru/wp-content/plugins/onesignal-free-web-push-notifications/sdk_files/";
+oneSignal_options['promptOptions'] = { };
+oneSignal_options['promptOptions']['actionMessage'] = 'Подпишитесь на наши новости';
+oneSignal_options['promptOptions']['acceptButtonText'] = 'Подписаться';
+oneSignal_options['promptOptions']['cancelButtonText'] = 'Не сейчас';
+oneSignal_options['promptOptions']['siteName'] = 'ug.ru';
+                OneSignal.init(window._oneSignalInitOptions);
+                OneSignal.showSlidedownPrompt();      });
+
+      function documentInitOneSignal() {
+        var oneSignal_elements = document.getElementsByClassName("OneSignal-prompt");
+
+        var oneSignalLinkClickHandler = function(event) { OneSignal.push(['registerForPushNotifications']); event.preventDefault(); };        for(var i = 0; i < oneSignal_elements.length; i++)
+          oneSignal_elements[i].addEventListener('click', oneSignalLinkClickHandler, false);
+      }
+
+      if (document.readyState === 'complete') {
+           documentInitOneSignal();
+      }
+      else {
+           window.addEventListener("load", function(event){
+               documentInitOneSignal();
+          });
+      }
+    </script>
+<!-- There is no amphtml version available for this URL. -->
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-R8EQJBE8VT"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-R8EQJBE8VT');
+    </script>
+    <script async custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script>
+    <script async src="https://jsn.24smi.net/smi.js"></script> <!-- 24СМИ -->
+</head>
+
+<body class="home page-template page-template-templates page-template-page-home page-template-templatespage-home-php page page-id-10 bb theme-bb woocommerce-no-js">
+
+    <!-- Yandex.Metrika counter -->
+    <script type="text/javascript" >
+    (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+    m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+    (window, document, "script", "https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js", "ym");
+
+    ym(18337726, "init", {
+            clickmap:true,
+            trackLinks:true,
+            accurateTrackBounce:true
+    });
+    </script>
+    <noscript><div><img src="https://mc.yandex.ru/watch/18337726" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+    <!-- /Yandex.Metrika counter -->
+    <!-- old Mail.ru count -->
+    <!-- Rating Mail.ru counter -->
+    <script type="text/javascript">
+    var _tmr = window._tmr || (window._tmr = []);
+    _tmr.push({id: "128740", type: "pageView", start: (new Date()).getTime()});
+    (function (d, w, id) {
+    if (d.getElementById(id)) return;
+    var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;
+    ts.src = "https://top-fwz1.mail.ru/js/code.js";
+    var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+    if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+    })(document, window, "topmailru-code");
+    </script><noscript><div>
+    <img src="https://top-fwz1.mail.ru/counter?id=128740;js=na" style="border:0;position:absolute;left:-9999px;" alt="Top.Mail.Ru" />
+    </div></noscript>
+    <!-- //Rating Mail.ru counter -->
+    <!-- new Mail.ru count -->
+    <!-- Rating Mail.ru counter -->
+    <script type="text/javascript">
+    var _tmr = window._tmr || (window._tmr = []);
+    _tmr.push({id: "3201668", type: "pageView", start: (new Date()).getTime()});
+    (function (d, w, id) {
+    if (d.getElementById(id)) return;
+    var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;
+    ts.src = "https://top-fwz1.mail.ru/js/code.js";
+    var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+    if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+    })(document, window, "topmailru-code");
+    </script><noscript><div>
+    <img src="https://top-fwz1.mail.ru/counter?id=3201668;js=na" style="border:0;position:absolute;left:-9999px;" alt="Top.Mail.Ru" />
+    </div></noscript>
+    <!-- //Rating Mail.ru counter -->
+    <!--LiveInternet counter-->
+    <script>
+    new Image().src = "https://counter.yadro.ru/hit?r"+
+    escape(document.referrer)+((typeof(screen)=="undefined")?"":
+    ";s"+screen.width+""+screen.height+""+(screen.colorDepth?
+    screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+    ";h"+escape(document.title.substring(0,150))+
+    ";"+Math.random();</script>
+    <!--/LiveInternet-->
+    <!-- Sputnik -->
+    <script type="text/javascript">
+       (function(d, t, p) {
+           var j = d.createElement(t); j.async = true; j.type = "text/javascript";
+           j.src = ("https:" == p ? "https:" : "http:") + "//stat.sputnik.ru/cnt.js";
+           var s = d.getElementsByTagName(t)[0]; s.parentNode.insertBefore(j, s);
+       })(document, "script", document.location.protocol);
+    </script>
+    <!--/Sputnik-->
+    <!--AMP counter for Yandex Metrika-->
+    <amp-analytics type="metrika">
+        <script type="application/json">
+            {
+                "vars": {
+                    "counterId": "18337726",
+                    "yaParams": "{\"key\":\"value\",\"__ymu\":{\"user_param_key\":\"user_param_value\"}}"
+                }
+            }
+        </script>
+    </amp-analytics>
+    <!--/AMP counter for Yandex Metrika-->
+
+    <!-- panel -->
+    <div class="wrapper panel-wr">
+        <div class="container panel-container">
+            <a href="http://old.ug.ru" class="panel-old_link" target="_blank">Старая версия сайта</a>
+            <div class="socials">
+                                    <a href="https://vk.com/uchitelskaya_gazeta" class="soc vk" target="_blank">
+                        <img src="https://ug.ru/wp-content/themes/bb/assets/img/socials/vk.svg" alt="vk" class="normal">
+                        <img src="https://ug.ru/wp-content/themes/bb/assets/img/socials/hover/vk.svg" alt="vk" class="hover">
+                    </a>
+                                                    <a href="https://www.facebook.com/www.ug.ru" class="soc fb" target="_blank">
+                        <img src="https://ug.ru/wp-content/themes/bb/assets/img/socials/fb.svg" alt="fb" class="normal">
+                        <img src="https://ug.ru/wp-content/themes/bb/assets/img/socials/hover/fb.svg" alt="fb" class="hover">
+                    </a>
+                                                    <a href="https://www.ok.ru/group/54589926211700" class="soc ok" target="_blank">
+                        <img src="https://ug.ru/wp-content/themes/bb/assets/img/socials/ok.svg" alt="ok" class="normal">
+                        <img src="https://ug.ru/wp-content/themes/bb/assets/img/socials/hover/ok.svg" alt="ok" class="hover">
+                    </a>
+                                                    <a href="https://www.instagram.com/uchitelskaya_gazeta/" class="soc in" target="_blank">
+                        <img src="https://ug.ru/wp-content/themes/bb/assets/img/socials/in.svg" alt="in" class="normal">
+                        <img src="https://ug.ru/wp-content/themes/bb/assets/img/socials/hover/in.svg" alt="in" class="hover">
+                    </a>
+                                                    <a href="https://www.youtube.com/channel/UCUhymLRULGwzqD6HwbpUJiA" class="soc yt" target="_blank">
+                        <img src="https://ug.ru/wp-content/themes/bb/assets/img/socials/yt.svg" alt="yt" class="normal">
+                        <img src="https://ug.ru/wp-content/themes/bb/assets/img/socials/hover/yt.svg" alt="yt" class="hover">
+                    </a>
+                                                    <a href="https://twitter.com/ug_tw" class="soc tw" target="_blank">
+                        <img src="https://ug.ru/wp-content/themes/bb/assets/img/socials/tw.svg" alt="tw" class="normal">
+                        <img src="https://ug.ru/wp-content/themes/bb/assets/img/socials/hover/tw.svg" alt="tw" class="hover">
+                    </a>
+                            </div>
+                            <a href="#form-login" class="btn-login" data-fancybox>Войти</a>
+                <div id="form-login" style="display: none;">
+    <div class="modal-window">
+        <div class="title">Вход</div>
+                    <form name="loginform" id="loginform" method="post" class="userform" action="">
+                <div class="form-group">
+                    <input class="form-control" type="text" name="log" id="user_login" placeholder="Логин или email">
+                </div>
+                <div class="form-group">
+                    <input class="form-control" type="password" name="pwd" id="user_pass" placeholder="Пароль">
+                </div>
+                <div class="form-group">
+                    <div class="custom-control custom-checkbox">
+                        <input name="rememberme" type="checkbox" value="forever" class="custom-control-input" id="checkremember">
+                        <label class="custom-control-label" for="checkremember">Запомнить меня</label>
+                    </div>
+                </div>
+                <button class="btn btn-dark btn-block" type="submit">Войти</button>
+                
+<!--
+	wsl_render_auth_widget
+	WordPress Social Login 3.0.3.
+	http://wordpress.org/plugins/wordpress-social-login/
+-->
+
+<style type="text/css">
+.wp-social-login-connect-with{}.wp-social-login-provider-list{}.wp-social-login-provider-list a{}.wp-social-login-provider-list img{}.wsl_connect_with_provider{}</style>
+
+<div class="wp-social-login-widget">
+
+	<div class="wp-social-login-connect-with">Вы можете зарегистрироваться на сайте с помощью социальных сетей ВК и Одноклассники</div>
+
+	<div class="wp-social-login-provider-list">
+
+		<a rel="nofollow" href="https://ug.ru/wp-login.php?action=wordpress_social_authenticate&#038;mode=login&#038;provider=Vkontakte&#038;redirect_to=https%3A%2F%2Fug.ru%2F" title="С помощью ВКонтакте" class="wp-social-login-provider wp-social-login-provider-vkontakte" data-provider="Vkontakte" role="button">
+			<img alt="ВКонтакте" src="https://ug.ru/wp-content/plugins/wordpress-social-login/assets/img/32x32/wpzoom/vkontakte.png" aria-hidden="true" />
+		</a>
+
+		<a rel="nofollow" href="https://ug.ru/wp-login.php?action=wordpress_social_authenticate&#038;mode=login&#038;provider=Odnoklassniki&#038;redirect_to=https%3A%2F%2Fug.ru%2F" title="С помощью Odnoklassniki" class="wp-social-login-provider wp-social-login-provider-odnoklassniki" data-provider="Odnoklassniki" role="button">
+			<img alt="Odnoklassniki" src="https://ug.ru/wp-content/plugins/wordpress-social-login/assets/img/32x32/wpzoom/odnoklassniki.png" aria-hidden="true" />
+		</a>
+
+	</div>
+
+	<div class="wp-social-login-widget-clearing"></div>
+
+</div>
+
+<!-- wsl_render_auth_widget -->
+
+ 
+
+                <input type="hidden" name="redirect_to" value="/"> <!-- куда отправим юзера если все прошло ок -->
+                <input type="hidden" name="nonce" value="844817383b"> <!-- поле со строкой безопасности, проверим её в обработчике чтобы убедиться, что форма отправлена откуда надо, аргумент login_me_nonce, конечно, лучше поменять на свой -->
+                <input type="hidden" name="action" value="login_me"> <!-- обязательное поле, по нему запустится нужная функция -->
+                <div class="response"></div> <!-- ну сюда будет приходить ответ от сервера -->
+            </form>
+            <div class="login-nav">
+                <a href="#form-register" onclick="$.fancybox.close();" data-fancybox>Регистрация</a>
+                <a href="#form-lostpass" onclick="$.fancybox.close();" data-fancybox>Забыли пароль?</a>
+            </div>
+            </div>
+</div>
+                <div id="form-register" style="display: none;">
+    <div class="modal-window">
+        <div class="title">Регистрация</div>
+                    <form name="registrationform" id="registrationform" method="post" class="userform" action=""> <!-- обратите внимание на класс, по этому классу на форму вешается обработка из первой статьи -->
+                <div class="form-group">
+                    <input type="text" name="user_login" id="user_login" placeholder="Логин">
+                </div>
+                <div class="form-group">
+                    <input type="email" name="user_email" id="user_email" placeholder="Email">
+                </div>
+                <div class="form-group">
+                    <input type="password" name="pass1" id="pass1" placeholder="Пароль">
+                </div>
+                <div class="form-group">
+                    <input type="password" name="pass2" id="pass2" placeholder="Повторите пароль">
+                </div>
+                <div class="form-group">
+                    <input type="text" name="first_name" id="first_name" placeholder="Имя">
+                </div>
+                <div class="form-group">
+                    <input type="text" name="last_name" id="last_name" placeholder="Фамилия">
+                </div>
+                <!-- <div class="form-group">
+                    <input type="file" name="avatar" id="avatar">
+                </div> -->
+                <button type="submit" class="btn btn-dark btn-block">Зарегистрироваться</button>
+
+                <input type="hidden" name="redirect_to" value="/"> <!-- куда отправим юзера если все прошло ок, в нашем случае это не понадобиться, а вообще может если форма сквозная -->
+                <input type="hidden" name="nonce" value="692ca88489"> <!-- поле со строкой безопасности, будем проверять её в обработчике чтобы убедиться, что форма отправлена откуда надо -->
+                <input type="hidden" name="action" value="register_me"> <!-- обязательное поле, по нему запустится нужная функция -->
+                <div class="response"></div> <!-- ну сюда будем пихать ответ от сервера -->
+            </form>
+            <div class="login-nav">
+                <a href="#form-login" onclick="$.fancybox.close();" data-fancybox>Вход</a>
+                <a href="#form-lostpass" onclick="$.fancybox.close();" data-fancybox>Забыли пароль</a>
+            </div>
+            </div>
+</div>
+                <div id="form-lostpass" style="display: none;">
+    <div class="modal-window">
+        <div class="title">Восстановление пароля</div>
+                    <form name="lostpasswordform" id="lostpasswordform" method="post" class="userform">
+                <div class="form-group">
+                    <input type="text" name="user_login" placeholder="Ваш логин или email">
+                </div>
+                <button type="submit" class="btn btn-dark btn-block">Сбросить</button>
+                <input type="hidden" name="redirect_to" value="/"> <!-- можно не заполнять если редирект не нужен -->
+                <input type="hidden" name="nonce" value="3d34ac54c7">
+                <input type="hidden" name="action" value="lost_password">
+                <div class="response"></div>
+            </form>
+            <div class="login-nav">
+                <a href="#form-login" onclick="$.fancybox.close();" data-fancybox>Вход</a>
+                <a href="#form-register" onclick="$.fancybox.close();" data-fancybox>Регистрация</a>
+            </div>
+            </div>
+</div>
+                    </div>
+    </div>
+
+    <!-- header -->
+    <div class="wrapper header-wr">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-5 left">
+                    <div class="logo-container">
+                                                                                                                <a href="/">
+                                    <img src="https://ug.ru/wp-content/uploads/2019/04/logo-ug.svg" class="logo" alt="">
+                                </a>
+                                                                            <div class="logo-info">
+                            <div class="logo-info-left">
+                                <div class="circle">12+</div>
+                            </div>
+                            <div class="logo-info-right">
+                                Издаётся с 1924 года<br>
+                                В интернете с 1995 года
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                                    <div class="mobile-display">
+                        <div class='code-block code-block-11' style='margin: 8px 0; clear: both;'>
+<a href="https://kt-print.ru/"><img src="http://ug.ru/wp-content/uploads/2020/09/650h100-1.gif"></a></div>
+                    </div>
+                                                    <div class="col-md-7 right" style="padding-left: 0px;">
+                        <a href="https://kt-print.ru/blanki-dokumentov-ob-osnovnom-obshem-srednem-obshem-obrazova/" target="_blank"><img src="https://ug.ru/wp-content/uploads/2021/01/650h100-2021_2-1.gif"></a>                    </div>
+                            </div>
+        </div>
+    </div>
+
+    
+<div class="container top-news">
+    <div class="top-news-title">Топ 10</div>
+    <div class="top-news-arrows">
+        <div class="top-news-arrows-prev">❮</div>
+        <div class="top-news-arrows-next">❯</div>
+    </div>
+    <div class="top-news-posts">
+                    <div>
+                <a class="top-news-posts-post" href="https://ug.ru/pomozhem-ministru-uchitelya-prodolzhayut-delitsya-fotografiyami-svoih-zarplatnyh-listkov-v-soczsetyah/">
+                    Учителя продолжают делиться фотографиями своих зарплатных листков в соцсетях                </a>
+            </div>
+                    <div>
+                <a class="top-news-posts-post" href="https://ug.ru/osnovanij-dlya-otstraneniya-ot-raboty-uchitelej-ne-sdelavshih-privivku-ot-covid-19-net/">
+                    Оснований для отстранения от работы учителей, не сделавших прививку от COVID-19, нет                </a>
+            </div>
+                    <div>
+                <a class="top-news-posts-post" href="https://ug.ru/izyato-orudie-prestupleniya-v-voronezhe-rassleduyut-ubijstvo-materyu-svoih-detej/">
+                    Изъято орудие преступления: в Воронеже расследуют убийство матерью своих детей                </a>
+            </div>
+                    <div>
+                <a class="top-news-posts-post" href="https://ug.ru/utverzhdeny-uproshhennye-pravila-gia-v-2021-godu/">
+                    Утверждены упрощенные правила ГИА в 2021 году                </a>
+            </div>
+                    <div>
+                <a class="top-news-posts-post" href="https://ug.ru/uchitelskaya-gazeta-ushla-na-vynuzhdennuyu-udalyonku-delo-ne-v-pandemii/">
+                    «Учительская газета» ушла на вынужденную удалёнку. Дело не в пандемии                </a>
+            </div>
+                    <div>
+                <a class="top-news-posts-post" href="https://ug.ru/student-otchislen-iz-universiteta-za-to-chto-uvidel-razniczu-mezhdu-muzhchinoj-i-zhenshhinoj/">
+                    Студент отчислен из университета за то, что увидел разницу между мужчиной и женщиной                </a>
+            </div>
+                    <div>
+                <a class="top-news-posts-post" href="https://ug.ru/stali-izvestny-usloviya-vydachi-vypusknikam-shkol-attestatov-s-otlichiem-i-medalej-v-2021-godu/">
+                    Стали известны условия выдачи выпускникам школ аттестатов с отличием и медалей в 2021 году                </a>
+            </div>
+                    <div>
+                <a class="top-news-posts-post" href="https://ug.ru/zakon-vstupayushhij-v-silu-1-marta-zapreshhaet-ispolzovat-lichnye-dannye-grazhdan-po-umolchaniyu/">
+                    Закон, вступающий в силу 1 марта, запрещает использовать личные данные граждан по умолчанию                </a>
+            </div>
+                    <div>
+                <a class="top-news-posts-post" href="https://ug.ru/prichastnost-shkolnyh-stolovyh-v-massovom-otravlenii-detej-v-krasnoyarske-poka-ne-podtverdilas/">
+                    Причастность школьных столовых к массовому отравлению детей в Красноярске пока не подтвердилась                </a>
+            </div>
+                    <div>
+                <a class="top-news-posts-post" href="https://ug.ru/do-chego-tehnika-doshla-iskusstvennyj-intellekt-pishet-kursovye-za-20-minut/">
+                    До чего техника дошла: искусственный интеллект пишет курсовые за 20 минут                </a>
+            </div>
+            </div>
+    <div class="top-news-marquee">
+        <marquee behavior="scroll" direction="left" scrollamount="4">
+                            <a class="top-news-marquee-post" href="https://ug.ru/pomozhem-ministru-uchitelya-prodolzhayut-delitsya-fotografiyami-svoih-zarplatnyh-listkov-v-soczsetyah/">
+                    Учителя продолжают делиться фотографиями своих зарплатных листков в соцсетях                </a>
+                            <a class="top-news-marquee-post" href="https://ug.ru/osnovanij-dlya-otstraneniya-ot-raboty-uchitelej-ne-sdelavshih-privivku-ot-covid-19-net/">
+                    Оснований для отстранения от работы учителей, не сделавших прививку от COVID-19, нет                </a>
+                            <a class="top-news-marquee-post" href="https://ug.ru/izyato-orudie-prestupleniya-v-voronezhe-rassleduyut-ubijstvo-materyu-svoih-detej/">
+                    Изъято орудие преступления: в Воронеже расследуют убийство матерью своих детей                </a>
+                            <a class="top-news-marquee-post" href="https://ug.ru/utverzhdeny-uproshhennye-pravila-gia-v-2021-godu/">
+                    Утверждены упрощенные правила ГИА в 2021 году                </a>
+                            <a class="top-news-marquee-post" href="https://ug.ru/uchitelskaya-gazeta-ushla-na-vynuzhdennuyu-udalyonku-delo-ne-v-pandemii/">
+                    «Учительская газета» ушла на вынужденную удалёнку. Дело не в пандемии                </a>
+                            <a class="top-news-marquee-post" href="https://ug.ru/student-otchislen-iz-universiteta-za-to-chto-uvidel-razniczu-mezhdu-muzhchinoj-i-zhenshhinoj/">
+                    Студент отчислен из университета за то, что увидел разницу между мужчиной и женщиной                </a>
+                            <a class="top-news-marquee-post" href="https://ug.ru/stali-izvestny-usloviya-vydachi-vypusknikam-shkol-attestatov-s-otlichiem-i-medalej-v-2021-godu/">
+                    Стали известны условия выдачи выпускникам школ аттестатов с отличием и медалей в 2021 году                </a>
+                            <a class="top-news-marquee-post" href="https://ug.ru/zakon-vstupayushhij-v-silu-1-marta-zapreshhaet-ispolzovat-lichnye-dannye-grazhdan-po-umolchaniyu/">
+                    Закон, вступающий в силу 1 марта, запрещает использовать личные данные граждан по умолчанию                </a>
+                            <a class="top-news-marquee-post" href="https://ug.ru/prichastnost-shkolnyh-stolovyh-v-massovom-otravlenii-detej-v-krasnoyarske-poka-ne-podtverdilas/">
+                    Причастность школьных столовых к массовому отравлению детей в Красноярске пока не подтвердилась                </a>
+                            <a class="top-news-marquee-post" href="https://ug.ru/do-chego-tehnika-doshla-iskusstvennyj-intellekt-pishet-kursovye-za-20-minut/">
+                    До чего техника дошла: искусственный интеллект пишет курсовые за 20 минут                </a>
+                    </marquee>
+    </div>
+</div>
+
+
+    
+    <!-- menu -->
+    <div class="wrapper sub-menu-wr">
+        <div class="wrapper menu-wr">
+            <div class="container menu-container">
+                <div class="burger-menu">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </div>
+                <ul id="menu-shapka" class="header-menu"><li id="menu-item-28" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-10 current_page_item menu-item-28"><a href="https://ug.ru/" aria-current="page">Главная</a></li>
+<li id="menu-item-29" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-29"><a>Рубрики</a>
+<ul class="sub-menu">
+	<li id="menu-item-30" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-30"><a href="https://ug.ru/category/all-news/">Новости</a></li>
+	<li id="menu-item-31812" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-31812"><a href="https://ug.ru/category/obrazovatelnoe-pravo/">Образовательное право</a></li>
+	<li id="menu-item-33" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-33"><a href="https://ug.ru/category/intervyu/">Интервью</a></li>
+	<li id="menu-item-19168" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-19168"><a href="https://ug.ru/category/problemy-i-resheniya/">Проблемы и решения</a></li>
+	<li id="menu-item-7717" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7717"><a href="https://ug.ru/category/uchitel-goda/">Учитель года</a></li>
+	<li id="menu-item-30453" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-30453"><a href="https://ug.ru/category/peremena/">Перемена</a></li>
+	<li id="menu-item-37468" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-37468"><a href="https://ug.ru/category/ostraya-tema/">Острая тема</a></li>
+	<li id="menu-item-5604" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5604"><a href="https://ug.ru/category/zarplata/">Зарплата</a></li>
+	<li id="menu-item-37" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-37"><a href="https://ug.ru/category/politika-obrazovaniya/">Политика образования</a></li>
+	<li id="menu-item-7718" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7718"><a href="https://ug.ru/category/uchitelskaya-gazeta/dnevnik/sobytie-nedeli/">Событие недели</a></li>
+	<li id="menu-item-2391" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2391"><a href="https://ug.ru/category/stroki-iz-pisem/">Строки из писем</a></li>
+	<li id="menu-item-4809" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4809"><a href="https://ug.ru/category/uchitelskaya-gazeta/epiczentr/">Эпицентр</a></li>
+	<li id="menu-item-5607" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5607"><a href="https://ug.ru/category/chuzhaya-azbuka/">Чужая азбука</a></li>
+	<li id="menu-item-35" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-35"><a href="https://ug.ru/category/obrazovatelnye-tehnologii/">Образовательные технологии</a></li>
+</ul>
+</li>
+<li id="menu-item-41" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-41"><a>Наши издания</a>
+<ul class="sub-menu">
+	<li id="menu-item-1049" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1049"><a href="/archives/uchitelskaya-gazeta/">Учительская газета</a></li>
+	<li id="menu-item-1050" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1050"><a href="/archives/ug-moskva/">УГ – Москва</a></li>
+	<li id="menu-item-1051" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1051"><a href="/archives/moj-profsoyuz/">Мой профсоюз</a></li>
+	<li id="menu-item-1052" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1052"><a href="/archives/ug-region/">УГ – Регион</a></li>
+</ul>
+</li>
+<li id="menu-item-51588" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-51588"><a href="https://ug.ru/fotoreportazhi/">Фоторепортажи</a></li>
+<li id="menu-item-486" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-486"><a>Конкурсы</a>
+<ul class="sub-menu">
+	<li id="menu-item-487" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-487"><a href="https://ug.ru/ugr/">Учитель года России</a></li>
+	<li id="menu-item-52390" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-52390"><a href="https://ug.ru/uspeshnaya-shkola/">Успешная школа</a></li>
+	<li id="menu-item-523" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-523"><a href="https://ug.ru/obrazovatelnye-tehnologii/">Образовательные технологии</a></li>
+</ul>
+</li>
+<li id="menu-item-534" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-534"><a href="/iccs/">Исследования</a>
+<ul class="sub-menu">
+	<li id="menu-item-535" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-535"><a href="https://ug.ru/iccs/">ICCS</a></li>
+</ul>
+</li>
+<li id="menu-item-272" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-272"><a href="/kontakty/">Контакты</a>
+<ul class="sub-menu">
+	<li id="menu-item-393" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-393"><a href="https://ug.ru/kontakty/">Контакты</a></li>
+	<li id="menu-item-343" class="author-li menu-item menu-item-type-post_type menu-item-object-page menu-item-343"><a href="https://ug.ru/redakcziya/">Редакция</a></li>
+</ul>
+</li>
+<li id="menu-item-419" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-419"><a href="https://ug.ru/reklama/">Реклама</a>
+<ul class="sub-menu">
+	<li id="menu-item-19143" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19143"><a href="https://ug.ru/reklama/">Реклама</a></li>
+	<li id="menu-item-273" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-273"><a href="https://ug.ru/mediakit/">Медиакит</a></li>
+	<li id="menu-item-297" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-297"><a href="https://ug.ru/partnery/">Партнеры</a></li>
+</ul>
+</li>
+<li id="menu-item-451" class="text-red menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-451"><a href="/onlajn-versiya/">Подписка</a>
+<ul class="sub-menu">
+	<li id="menu-item-452" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-452"><a href="https://ug.ru/bumazhnaya-versiya/">Бумажная версия</a></li>
+	<li id="menu-item-499" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-499"><a href="https://ug.ru/onlajn-versiya/">Онлайн-версия</a></li>
+</ul>
+</li>
+</ul>                <!-- <ul class="header-menu">
+                    <li class="current-menu-item"><a href="#">Главная</a></li>
+                    <li class="menu-item-has-children"><a href="#">Рубрики</a>
+                        <ul class="sub-menu">
+                            <li><a href="#">Новости</a></li>
+                            <li><a href="#">Политика образования</a></li>
+                            <li><a href="#">Экономика / Общество</a></li>
+                            <li><a href="#">Интервью</a></li>
+                            <li><a href="#">Острая тема</a></li>
+                            <li><a href="#">Взгляд</a></li>
+                            <li><a href="#">Эпицентр / Студсовет</a></li>
+                            <li><a href="#">АРТ-прогулка</a></li>
+                            <li><a href="#">Образовательные технологии</a></li>
+                            <li><a href="#">Родительская газета</a></li>
+                            <li><a href="#">Образовательное право</a></li>
+                        </ul>
+                    </li>
+                    <li class="menu-item-has-children"><a href="#">Наши издания</a>
+                        <ul class="sub-menu">
+                            <li><a href="#">Учительская газета</a></li>
+                            <li><a href="#">УГ - Москва</a></li>
+                            <li><a href="#">Мой профсоюз</a></li>
+                            <li><a href="#">УГ - Регион</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="#">Фото и Видео</a></li>
+                    <li class="menu-item-has-children"><a href="#">Конкурсы</a>
+                        <ul class="sub-menu">
+                            <li><a href="#">Успешная школа</a></li>
+                            <li><a href="#">Образовательные технологии</a></li>
+                            <li><a href="#">Учитель года России</a></li>
+                            <li><a href="#">Лучший урок письма</a></li>
+                        </ul>
+                    </li>
+                    <li class="menu-item-has-children"><a href="#">Рейтинги и исследования</a>
+                        <ul class="sub-menu">
+                            <li><a href="#">Рейтинг школ</a></li>
+                            <li><a href="#">Рейтинг вузов</a></li>
+                            <li><a href="#">ICCS</a></li>
+                        </ul>
+                    </li>
+                    <li class="menu-item-has-children"><a href="#">Подписка</a>
+                        <ul class="sub-menu">
+                            <li><a href="#">Бумажная версия</a></li>
+                            <li><a href="#">Онлайн-версия</a></li>
+                            <li><a href="#">Редакционная подписка</a></li>
+                        </ul>
+                    </li>
+                    <li class="menu-item-has-children"><a href="#">Контакты</a>
+                        <ul class="sub-menu">
+                            <li><a href="#">Редакция</a></li>
+                            <li><a href="#">Медиакит</a></li>
+                            <li><a href="#">Реклама</a></li>
+                            <li><a href="#">Партнеры</a></li>
+                        </ul>
+                    </li>
+                </ul> -->
+                <div class="search-btn"><img src="https://ug.ru/wp-content/themes/bb/assets/img/icons/search.svg" alt="search"></div>
+                <div class="search-container">
+                    <form method="get" action="/" class="search-form">
+                        <input type="text" name='s' class="input-search" placeholder="">
+                        <input type="submit" name="start_search" class="start_search" value="Поиск"/>
+                    </form>
+                    <div class="btn-search-close"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+
+    <div class="wrapper content-container">
+        <!-- all wrapper -->
+
+<!-- Главные новости -->
+
+<div class="container mt-4">
+    <div class="row">
+                                                                                    <div class="col-md-7">
+                        <div class="news-block-1 news-block-1-main">
+                            <div class="bg"
+                                 style="background-image: url(https://ug.ru/wp-content/uploads/2021/03/luchshij-uchitel-1200x800.jpg);">
+                                
+                            </div>
+                            <a href="https://ug.ru/category/uchitelskaya-gazeta/uspeshnaya-shkola/" class="cat-link">Успешная школа</a>
+                            <a href="https://ug.ru/vserossijskij-konkurs-uspeshnaya-shkola-prodlil-priem-dokumentov-uchastvujte-i-pobezhdajte/" class="content big">
+                                <h2 class="title">Всероссийский конкурс «Успешная школа» продлил прием документов – участвуйте и побеждайте</h2>
+                            </a>
+                        </div>
+                    </div>
+                                                                                                <div class="col-md-5">
+                        <div class="news-block-1">
+                            <div class="bg"
+                                 style="background-image: url(https://ug.ru/wp-content/uploads/2021/02/bb212968cf9f8162b8cc_2000x-600x401.jpg);"></div>
+                            <a href="https://ug.ru/category/all-news/" class="cat-link">Новости</a>
+                            <a href="https://ug.ru/utverzhdeny-uproshhennye-pravila-gia-v-2021-godu/" class="content">
+                                <h2 class="title">Утверждены упрощенные правила ГИА в 2021 году</h2>
+                            </a>
+                        </div>
+                    
+                                                                                                    <div class="desktop-display">
+                    <p><a href="https://www.digis.ru/" target="_blank" rel="noopener"><img src="http://ug.ru/wp-content/uploads/2020/08/smart_207x200-1.gif" />      </a><a href="http://armregistr.ru/"><img class="alignnone wp-image-33406" src="http://ug.ru/wp-content/uploads/2020/11/207h200-2.gif" alt="" width="207" height="200" /></a></p>                    </div>
+                                                        </div>
+</div>
+<!-- Новости, картина дня, текущий номер -->
+<div class="container mt-1 mt-md-5">
+    <div class="row">
+        <div class="col-lg-4 mb-4 mb-lg-0">
+            <!-- Колонка "Новости" -->
+            <div class="news-column">
+                                <h3 class="title"><a href="https://ug.ru/category/all-news/">Новости</a>
+                </h3>
+
+                                                
+                                                                                                <a href="https://ug.ru/shkolnik-shahmatist-sygral-trehchasovuyu-partiyu-s-sergeem-karyakinym/" class="news-block-2">
+                            <span class="date">Сегодня, 19:54</span>
+                            <h2 class="title">Школьник-шахматист сыграл трехчасовую партию с Сергеем Карякиным</h2>
+                        </a>
+                                                                    <a href="https://ug.ru/pervogo-marta-v-mire-otmechaetsya-den-invalidov-kolyasochnikov/" class="news-block-2">
+                            <span class="date">Сегодня, 19:17</span>
+                            <h2 class="title">Первого марта в мире отмечается День инвалидов-колясочников</h2>
+                        </a>
+                        <div><div class="news-block-2"><a href="https://school.moscow/forum?day=Monday" target="_blank"><img src="https://ug.ru/wp-content/uploads/2021/02/first_moscow_forum.jpeg"></a></div></div>                                            <a href="https://ug.ru/v-arteke-nachali-podgotovku-sovetnikov-po-vospitaniyu/" class="news-block-2">
+                            <span class="date">Сегодня, 18:34</span>
+                            <h2 class="title">В &#8220;Артеке&#8221; начали подготовку советников по воспитанию</h2>
+                        </a>
+                                                                    <a href="https://ug.ru/uchitelya-moskovskoj-oblasti-mogut-podat-zayavki-na-soczialnuyu-ipoteku/" class="news-block-2">
+                            <span class="date">Сегодня, 18:02</span>
+                            <h2 class="title">Учителя Московской области могут подать заявки на социальную ипотеку</h2>
+                        </a>
+                                                                    <a href="https://ug.ru/czifrovoj-repetitor-speshit-na-pomoshh/" class="news-block-2">
+                            <span class="date">Сегодня, 17:23</span>
+                            <h2 class="title">&#8220;Цифровой репетитор&#8221; спешит на помощь</h2>
+                        </a>
+                                                                    <a href="https://ug.ru/deti-obnaruzhili-artillerijskie-miny-vo-vremya-progulki-v-lesu-pod-kaliningradom/" class="news-block-2">
+                            <span class="date">Сегодня, 17:15</span>
+                            <h2 class="title">Дети обнаружили артиллерийские мины во время прогулки в лесу под Калининградом</h2>
+                        </a>
+                                                                    <a href="https://ug.ru/rospotrebnadzor-schitaet-chto-shkolniki-v-krasnoyarske-otravilis-salatami/" class="news-block-2">
+                            <span class="date">Сегодня, 16:38</span>
+                            <h2 class="title">Роспотребнадзор считает, что школьники в Красноярске отравились салатами</h2>
+                        </a>
+                                                                    <a href="https://ug.ru/obyavleny-pobediteli-vserossijskogo-chempionata-sochinenij-svoimi-slovami/" class="news-block-2">
+                            <span class="date">Сегодня, 15:42</span>
+                            <h2 class="title">Объявлены победители Всероссийского чемпионата сочинений &#8220;Своими словами&#8221;</h2>
+                        </a>
+                                                                            <a href="https://ug.ru/category/all-news/" class="cat-link">Все новости</a>
+            </div>
+        </div>
+                    <div class="mobile-display">
+                <div class='code-block code-block-12' style='margin: 8px 0; clear: both;'>
+<a href="http://armregistr.ru/" target="_blank"><img src="http://ug.ru/wp-content/uploads/2020/11/470h200-_2.gif"></a></div>
+            </div>
+                <div class="col-lg-8 mt-4">
+            <!-- Картина дня -->
+            
+<div class="news-slider-title">
+    <span><a href="https://ug.ru/kartina-dnya/">Картина дня</a></span>
+    <a href="https://ug.ru/kartina-dnya/">СМОТРЕТЬ ВСЕ</a>
+</div>
+<div class="news-slider">
+                        <div class="slide news-block-3">
+                <div class="img">
+                    <a 
+                        href="https://ug.ru/category/all-news/" 
+                        class="cat-link">
+                        Новости                    </a>
+                    <a href="https://ug.ru/metodiku-osveshheniya-razrabotannuyu-kemerovskoj-shkolniczej-primenili-na-praktike-region-dovolen/">
+                        <div
+                            class="bg"
+                            style="background-image: url(https://ug.ru/wp-content/uploads/2021/03/devushka-500x350.jpg);">
+                        </div>
+                    </a>
+                </div>
+                <a href="https://ug.ru/metodiku-osveshheniya-razrabotannuyu-kemerovskoj-shkolniczej-primenili-na-praktike-region-dovolen/">
+                    <h2 class="title">Методику освещения, разработанную кемеровской школьницей, применили на практике – регион доволен</h2>
+                    <div class="description">
+                        По системе талантливой изобретательницы из Сибири теперь освещают цех на одном из крупнейших предприятий региона....                    </div>
+                </a>
+            </div>
+                    <div class="slide news-block-3">
+                <div class="img">
+                    <a 
+                        href="https://ug.ru/category/all-news/" 
+                        class="cat-link">
+                        Новости                    </a>
+                    <a href="https://ug.ru/stali-izvestny-usloviya-vydachi-vypusknikam-shkol-attestatov-s-otlichiem-i-medalej-v-2021-godu/">
+                        <div
+                            class="bg"
+                            style="background-image: url(https://ug.ru/wp-content/uploads/2021/02/267cfa0ddb4415795587_2000x-500x350.jpg);">
+                        </div>
+                    </a>
+                </div>
+                <a href="https://ug.ru/stali-izvestny-usloviya-vydachi-vypusknikam-shkol-attestatov-s-otlichiem-i-medalej-v-2021-godu/">
+                    <h2 class="title">Стали известны условия выдачи выпускникам школ аттестатов с отличием и медалей в 2021 году</h2>
+                    <div class="description">
+                        Проекты приказов Минпросвещения России об особенностях выдачи аттестатов о среднем общем образовании и медали «За...                    </div>
+                </a>
+            </div>
+                    <div class="slide news-block-3">
+                <div class="img">
+                    <a 
+                        href="https://ug.ru/category/all-news/" 
+                        class="cat-link">
+                        Новости                    </a>
+                    <a href="https://ug.ru/vshe-napravit-na-podderzhku-svoih-studentov-38-mlrd-rublej/">
+                        <div
+                            class="bg"
+                            style="background-image: url(https://ug.ru/wp-content/uploads/2021/02/people-2557399_1920-1-500x350.jpg);">
+                        </div>
+                    </a>
+                </div>
+                <a href="https://ug.ru/vshe-napravit-na-podderzhku-svoih-studentov-38-mlrd-rublej/">
+                    <h2 class="title">ВШЭ направит на поддержку своих студентов 3,8 млрд. рублей</h2>
+                    <div class="description">
+                        Как сообщают в пресс-службе университета, эта сумма – больше четверти всех внебюджетных доходов образовательной организации....                    </div>
+                </a>
+            </div>
+                    <div class="slide news-block-3">
+                <div class="img">
+                    <a 
+                        href="https://ug.ru/category/all-news/" 
+                        class="cat-link">
+                        Новости                    </a>
+                    <a href="https://ug.ru/edinomu-gosudarstvennomu-ekzamenu-dlya-shkolnikov-vypusknyh-klassov-ispolnilos-20-let/">
+                        <div
+                            class="bg"
+                            style="background-image: url(https://ug.ru/wp-content/uploads/2021/02/ege-500x350.jpg);">
+                        </div>
+                    </a>
+                </div>
+                <a href="https://ug.ru/edinomu-gosudarstvennomu-ekzamenu-dlya-shkolnikov-vypusknyh-klassov-ispolnilos-20-let/">
+                    <h2 class="title">ЕГЭ для школьников выпускных классов исполнилось 20 лет</h2>
+                    <div class="description">
+                        16 февраля 2001 года Правительством РФ было принято постановление «Об организации эксперимента единого государственного экзамена»...                    </div>
+                </a>
+            </div>
+                    <div class="slide news-block-3">
+                <div class="img">
+                    <a 
+                        href="https://ug.ru/category/all-news/" 
+                        class="cat-link">
+                        Новости                    </a>
+                    <a href="https://ug.ru/vot-tebe-i-dvazhdy-dva-vlasti-oregona-obvinili-klassicheskuyu-matematiku-v-belom-rasizme/">
+                        <div
+                            class="bg"
+                            style="background-image: url(https://ug.ru/wp-content/uploads/2021/02/formuly-500x350.jpg);">
+                        </div>
+                    </a>
+                </div>
+                <a href="https://ug.ru/vot-tebe-i-dvazhdy-dva-vlasti-oregona-obvinili-klassicheskuyu-matematiku-v-belom-rasizme/">
+                    <h2 class="title">Вот тебе и «дважды два»: власти Орегона обвинили классическую математику в белом расизме</h2>
+                    <div class="description">
+                        В американском штате Орегон «бдительные» сотрудники местного департамента образования обнаружили в традиционной математике признаки идеи...                    </div>
+                </a>
+            </div>
+                    <div class="slide news-block-3">
+                <div class="img">
+                    <a 
+                        href="https://ug.ru/category/problemy-i-resheniya/" 
+                        class="cat-link">
+                        Проблемы и решения                    </a>
+                    <a href="https://ug.ru/pomozhem-ministru-uchitelya-publikuyut-v-soczsetyah-svoi-zarplatnye-listki/">
+                        <div
+                            class="bg"
+                            style="background-image: url(https://ug.ru/wp-content/uploads/2021/02/002-500x350.jpg);">
+                        </div>
+                    </a>
+                </div>
+                <a href="https://ug.ru/pomozhem-ministru-uchitelya-publikuyut-v-soczsetyah-svoi-zarplatnye-listki/">
+                    <h2 class="title">Поможем министру: учителя публикуют в соцсетях свои зарплатные листки</h2>
+                    <div class="description">
+                        Профсоюз работников образования Череповца запустил акцию "Поможем министру". Как сообщила "Учительской газете" председатель Профсоюза работников...                    </div>
+                </a>
+            </div>
+                    <div class="slide news-block-3">
+                <div class="img">
+                    <a 
+                        href="https://ug.ru/category/all-news/" 
+                        class="cat-link">
+                        Новости                    </a>
+                    <a href="https://ug.ru/ushel-iz-zhizni-izvestnyj-akter-andrej-myagkov-posvyativshij-rossijskomu-teatru-i-kino-pochti-50-let/">
+                        <div
+                            class="bg"
+                            style="background-image: url(https://ug.ru/wp-content/uploads/2021/02/myagkov-500x350.jpg);">
+                        </div>
+                    </a>
+                </div>
+                <a href="https://ug.ru/ushel-iz-zhizni-izvestnyj-akter-andrej-myagkov-posvyativshij-rossijskomu-teatru-i-kino-pochti-50-let/">
+                    <h2 class="title">Ушел из жизни известный актер Андрей Мягков, посвятивший российскому театру и кино почти полвека</h2>
+                    <div class="description">
+                        Печальная новость потрясла поклонников известного артиста Андрея Мягкова, коллег по творческому цеху. Всех, кто знал...                    </div>
+                </a>
+            </div>
+                    <div class="slide news-block-3">
+                <div class="img">
+                    <a 
+                        href="https://ug.ru/category/all-news/" 
+                        class="cat-link">
+                        Новости                    </a>
+                    <a href="https://ug.ru/byt-ili-ne-byt-v-ssha-prizyvayut-sbrosit-shekspira-s-korablya-sovremennosti-i-ne-izuchat-ego-v-shkolah/">
+                        <div
+                            class="bg"
+                            style="background-image: url(https://ug.ru/wp-content/uploads/2021/02/shekspir-1-500x350.jpg);">
+                        </div>
+                    </a>
+                </div>
+                <a href="https://ug.ru/byt-ili-ne-byt-v-ssha-prizyvayut-sbrosit-shekspira-s-korablya-sovremennosti-i-ne-izuchat-ego-v-shkolah/">
+                    <h2 class="title">Быть или не быть: в США призывают сбросить Шекспира с корабля современности и не изучать его в школах</h2>
+                    <div class="description">
+                        «А не замахнуться ли нам на Вильяма, понимаете ли, нашего Шекспира?» - эта фраза из...                    </div>
+                </a>
+            </div>
+                    <div class="slide news-block-3">
+                <div class="img">
+                    <a 
+                        href="https://ug.ru/category/all-news/" 
+                        class="cat-link">
+                        Новости                    </a>
+                    <a href="https://ug.ru/v-2020-godu-chislo-uchastnikov-studencheskih-otryadov-sokratilos-v-4-raza/">
+                        <div
+                            class="bg"
+                            style="background-image: url(https://ug.ru/wp-content/uploads/2021/02/people-2557396_1920-1-500x350.jpg);">
+                        </div>
+                    </a>
+                </div>
+                <a href="https://ug.ru/v-2020-godu-chislo-uchastnikov-studencheskih-otryadov-sokratilos-v-4-raza/">
+                    <h2 class="title">В 2020 году число участников студенческих отрядов сократилось в 4 раза</h2>
+                    <div class="description">
+                        В 2020 году в деятельности студенческих отрядов приняли участие более 58 тыс. человек. Это примерно...                    </div>
+                </a>
+            </div>
+                    <div class="slide news-block-3">
+                <div class="img">
+                    <a 
+                        href="https://ug.ru/category/all-news/" 
+                        class="cat-link">
+                        Новости                    </a>
+                    <a href="https://ug.ru/u-docheri-ministra-sergeya-kravczova-net-mobilnogo-telefona/">
+                        <div
+                            class="bg"
+                            style="background-image: url(https://ug.ru/wp-content/uploads/2021/02/kravczov-500x350.jpg);">
+                        </div>
+                    </a>
+                </div>
+                <a href="https://ug.ru/u-docheri-ministra-sergeya-kravczova-net-mobilnogo-telefona/">
+                    <h2 class="title">У дочери министра Сергея Кравцова нет мобильного телефона</h2>
+                    <div class="description">
+                        Министр просвещения РФ рассказал, что у его дочери, которая учится в 6 классе, нет мобильного...                    </div>
+                </a>
+            </div>
+                    <div class="slide news-block-3">
+                <div class="img">
+                    <a 
+                        href="https://ug.ru/category/all-news/" 
+                        class="cat-link">
+                        Новости                    </a>
+                    <a href="https://ug.ru/shkolniki-pokoryayut-kosmos-nanosputnik-sochinskih-liczeistov-vyjdet-na-okolozemnuyu-orbitu-v-2021-godu/">
+                        <div
+                            class="bg"
+                            style="background-image: url(https://ug.ru/wp-content/uploads/2021/02/sochi-500x350.jpg);">
+                        </div>
+                    </a>
+                </div>
+                <a href="https://ug.ru/shkolniki-pokoryayut-kosmos-nanosputnik-sochinskih-liczeistov-vyjdet-na-okolozemnuyu-orbitu-v-2021-godu/">
+                    <h2 class="title">Школьники покоряют космос: наноспутник сочинских лицеистов выйдет на околоземную орбиту в 2021 году</h2>
+                    <div class="description">
+                        Запуск космического аппарата CubeSat-3U состоится до конца нынешнего года. Спутник предназначен для сбора данных о...                    </div>
+                </a>
+            </div>
+                    <div class="slide news-block-3">
+                <div class="img">
+                    <a 
+                        href="https://ug.ru/category/all-news/" 
+                        class="cat-link">
+                        Новости                    </a>
+                    <a href="https://ug.ru/v-minobrnauke-soobshhili-skolko-poluchaet-molodaya-uchenaya-kotoraya-pozhalovalas-prezidentu/">
+                        <div
+                            class="bg"
+                            style="background-image: url(https://ug.ru/wp-content/uploads/2021/02/engineer-4915425_1920-500x350.jpg);">
+                        </div>
+                    </a>
+                </div>
+                <a href="https://ug.ru/v-minobrnauke-soobshhili-skolko-poluchaet-molodaya-uchenaya-kotoraya-pozhalovalas-prezidentu/">
+                    <h2 class="title">В Минобрнауки сообщили, сколько получает молодая ученая, которая пожаловалась президенту</h2>
+                    <div class="description">
+                        Глава Минобрнауки Валерий Фальков в ходе совещания с Владимиром Путиным назвал сумму заработной платы, которую...                    </div>
+                </a>
+            </div>
+                    <div class="slide news-block-3">
+                <div class="img">
+                    <a 
+                        href="https://ug.ru/category/vybor-dnya-ug-ru/" 
+                        class="cat-link">
+                        Выбор дня UG.RU                    </a>
+                    <a href="https://ug.ru/data-v-istorii-10-fevralya-den-pamyati-aleksandra-sergeevicha-pushkina/">
+                        <div
+                            class="bg"
+                            style="background-image: url(https://ug.ru/wp-content/uploads/2021/02/pushkin-500x350.jpg);">
+                        </div>
+                    </a>
+                </div>
+                <a href="https://ug.ru/data-v-istorii-10-fevralya-den-pamyati-aleksandra-sergeevicha-pushkina/">
+                    <h2 class="title">Дата в истории. 10 февраля – День памяти Александра Сергеевича Пушкина</h2>
+                    <div class="description">
+                        10 февраля 1837 года перестало биться сердце великого писателя и гражданина России Александра Сергеевича Пушкина...                    </div>
+                </a>
+            </div>
+                    <div class="slide news-block-3">
+                <div class="img">
+                    <a 
+                        href="https://ug.ru/category/all-news/" 
+                        class="cat-link">
+                        Новости                    </a>
+                    <a href="https://ug.ru/prezident-rao-slozhil-polnomochiya-postanovlenie-podpisano-v-pravitelstve-rf/">
+                        <div
+                            class="bg"
+                            style="background-image: url(https://ug.ru/wp-content/uploads/2021/02/yurij-zinchenko-500x350.jpg);">
+                        </div>
+                    </a>
+                </div>
+                <a href="https://ug.ru/prezident-rao-slozhil-polnomochiya-postanovlenie-podpisano-v-pravitelstve-rf/">
+                    <h2 class="title">Президент РАО сложил полномочия, постановление подписано в правительстве РФ</h2>
+                    <div class="description">
+                        Сегодня, 8 февраля, об этом сообщил глава РАО членам академии. К опубликованному обращению приложены копии...                    </div>
+                </a>
+            </div>
+                    <div class="slide news-block-3">
+                <div class="img">
+                    <a 
+                        href="https://ug.ru/category/all-news/" 
+                        class="cat-link">
+                        Новости                    </a>
+                    <a href="https://ug.ru/data-v-istorii-8-fevralya-rossiyane-otmechayut-den-nauki/">
+                        <div
+                            class="bg"
+                            style="background-image: url(https://ug.ru/wp-content/uploads/2021/02/nauka-500x350.jpg);">
+                        </div>
+                    </a>
+                </div>
+                <a href="https://ug.ru/data-v-istorii-8-fevralya-rossiyane-otmechayut-den-nauki/">
+                    <h2 class="title">Дата в истории: 8 февраля россияне отмечают День науки</h2>
+                    <div class="description">
+                        Праздник, к которому причастны современные ученые и молодежь, планирующая пойти по стопам предшественников, учрежден в...                    </div>
+                </a>
+            </div>
+                    <div class="slide news-block-3">
+                <div class="img">
+                    <a 
+                        href="https://ug.ru/category/problemy-i-resheniya/" 
+                        class="cat-link">
+                        Проблемы и решения                    </a>
+                    <a href="https://ug.ru/u-g-razyasnyaet-kakie-zadaniya-vojdut-v-itogovoe-sobesedovanie-po-russkomu-yazyku/">
+                        <div
+                            class="bg"
+                            style="background-image: url(https://ug.ru/wp-content/uploads/2021/02/2b6406b897036aab0eaa_2000x-500x350.jpg);">
+                        </div>
+                    </a>
+                </div>
+                <a href="https://ug.ru/u-g-razyasnyaet-kakie-zadaniya-vojdut-v-itogovoe-sobesedovanie-po-russkomu-yazyku/">
+                    <h2 class="title">«Учительская газета» разъясняет, какие задания войдут в итоговое собеседование по русскому языку</h2>
+                    <div class="description">
+                        Итоговое собеседование по русскому языку ученикам 9 классов предстоит пройти 10 февраля. От того, насколько...                    </div>
+                </a>
+            </div>
+                    <div class="slide news-block-3">
+                <div class="img">
+                    <a 
+                        href="https://ug.ru/category/all-news/" 
+                        class="cat-link">
+                        Новости                    </a>
+                    <a href="https://ug.ru/uspeshnaya-shkola-daet-vozmozhnost-vyigrat-grant-v-razmere-milliona-rublej/">
+                        <div
+                            class="bg"
+                            style="background-image: url(https://ug.ru/wp-content/uploads/2021/02/20-avgusta-2019-goda-500x350.jpg);">
+                        </div>
+                    </a>
+                </div>
+                <a href="https://ug.ru/uspeshnaya-shkola-daet-vozmozhnost-vyigrat-grant-v-razmere-milliona-rublej/">
+                    <h2 class="title">"Успешная школа" дает возможность выиграть грант на миллион рублей</h2>
+                    <div class="description">
+                        Продолжается прием заявок на V Всероссийский конкурс “Успешная школа”. Принять участие в нем могут общеобразовательные...                    </div>
+                </a>
+            </div>
+                    <div class="slide news-block-3">
+                <div class="img">
+                    <a 
+                        href="https://ug.ru/category/all-news/" 
+                        class="cat-link">
+                        Новости                    </a>
+                    <a href="https://ug.ru/rossijskih-pedagogov-ne-sobirayutsya-prinuzhdat-k-vedeniyu-soczsetej/">
+                        <div
+                            class="bg"
+                            style="background-image: url(https://ug.ru/wp-content/uploads/2021/02/media-998990_1920-500x350.jpg);">
+                        </div>
+                    </a>
+                </div>
+                <a href="https://ug.ru/rossijskih-pedagogov-ne-sobirayutsya-prinuzhdat-k-vedeniyu-soczsetej/">
+                    <h2 class="title">Российских педагогов не собираются принуждать к ведению соцсетей</h2>
+                    <div class="description">
+                        В России не будут принуждать учителей вести социальные сети и требовать отчетности по ним. Об...                    </div>
+                </a>
+            </div>
+                    <div class="slide news-block-3">
+                <div class="img">
+                    <a 
+                        href="https://ug.ru/category/problemy-i-resheniya/" 
+                        class="cat-link">
+                        Проблемы и решения                    </a>
+                    <a href="https://ug.ru/v-rossii-6-studentov-iz-10-planiruyut-nachat-svoj-biznes/">
+                        <div
+                            class="bg"
+                            style="background-image: url(https://ug.ru/wp-content/uploads/2021/01/obrazovanie-2-500x350.jpg);">
+                        </div>
+                    </a>
+                </div>
+                <a href="https://ug.ru/v-rossii-6-studentov-iz-10-planiruyut-nachat-svoj-biznes/">
+                    <h2 class="title">В России 6 студентов из 10 планируют начать свой бизнес</h2>
+                    <div class="description">
+                        Российские студенты связывают свое будущее с предпринимательской деятельностью. Эта актуальная тема находится под пристальным мониторингом...                    </div>
+                </a>
+            </div>
+                    <div class="slide news-block-3">
+                <div class="img">
+                    <a 
+                        href="https://ug.ru/category/all-news/" 
+                        class="cat-link">
+                        Новости                    </a>
+                    <a href="https://ug.ru/uchastniki-konkursa-uchitel-goda-rossii-2020-provodyat-master-klassy/">
+                        <div
+                            class="bg"
+                            style="background-image: url(https://ug.ru/wp-content/uploads/2021/01/img_4902-31-01-21-11-07-1-500x350.jpg);">
+                        </div>
+                    </a>
+                </div>
+                <a href="https://ug.ru/uchastniki-konkursa-uchitel-goda-rossii-2020-provodyat-master-klassy/">
+                    <h2 class="title">Участники конкурса «Учитель года России – 2020» проводят мастер-классы</h2>
+                    <div class="description">
+                        Сегодня, 31 января, в Волгограде проходит девятый день Всероссийского конкурса «Учитель года России» – 2020....                    </div>
+                </a>
+            </div>
+                    <div class="slide news-block-3">
+                <div class="img">
+                    <a 
+                        href="https://ug.ru/category/all-news/" 
+                        class="cat-link">
+                        Новости                    </a>
+                    <a href="https://ug.ru/opredelen-sostav-orgkomiteta-vsemirnogo-kongressa-shkolnyh-uchitelej-istorii/">
+                        <div
+                            class="bg"
+                            style="background-image: url(https://ug.ru/wp-content/uploads/2021/01/33f75b47f9d5e5baa8d2_2000x-500x350.jpg);">
+                        </div>
+                    </a>
+                </div>
+                <a href="https://ug.ru/opredelen-sostav-orgkomiteta-vsemirnogo-kongressa-shkolnyh-uchitelej-istorii/">
+                    <h2 class="title">Определен состав оргкомитета Всемирного конгресса школьных учителей истории</h2>
+                    <div class="description">
+                        Распоряжением Правительства России утвержден состав организационного комитета по подготовке и проведению первого Всемирного конгресса школьных...                    </div>
+                </a>
+            </div>
+                    <div class="slide news-block-3">
+                <div class="img">
+                    <a 
+                        href="https://ug.ru/category/all-news/" 
+                        class="cat-link">
+                        Новости                    </a>
+                    <a href="https://ug.ru/glava-minobrnauki-rasskazal-v-kakom-formate-vuzy-nachnut-novyj-semestr/">
+                        <div
+                            class="bg"
+                            style="background-image: url(https://ug.ru/wp-content/uploads/2021/01/976477aa96281dabb48caeeab602d5ab-500x350.jpg);">
+                        </div>
+                    </a>
+                </div>
+                <a href="https://ug.ru/glava-minobrnauki-rasskazal-v-kakom-formate-vuzy-nachnut-novyj-semestr/">
+                    <h2 class="title">Глава Минобрнауки рассказал, в каком формате вузы начнут новый семестр</h2>
+                    <div class="description">
+                        Глава министерства науки и высшего образования Валерий Фальков предложил начать новый семестр в университетах в...                    </div>
+                </a>
+            </div>
+                    <div class="slide news-block-3">
+                <div class="img">
+                    <a 
+                        href="https://ug.ru/category/all-news/" 
+                        class="cat-link">
+                        Новости                    </a>
+                    <a href="https://ug.ru/perechen-meropriyatij-desyatiletiya-detstva-utverzhden-pravitelstvom-rossii/">
+                        <div
+                            class="bg"
+                            style="background-image: url(https://ug.ru/wp-content/uploads/2021/01/little-girl-running-795505_1280-500x350.jpg);">
+                        </div>
+                    </a>
+                </div>
+                <a href="https://ug.ru/perechen-meropriyatij-desyatiletiya-detstva-utverzhden-pravitelstvom-rossii/">
+                    <h2 class="title">Перечень мероприятий Десятилетия детства утвержден Правительством России</h2>
+                    <div class="description">
+                        Ранее сообщалось, что период с 2018 по 2027 год Владимир Путин объявил Десятилетием детства. По...                    </div>
+                </a>
+            </div>
+                    <div class="slide news-block-3">
+                <div class="img">
+                    <a 
+                        href="https://ug.ru/category/all-news/" 
+                        class="cat-link">
+                        Новости                    </a>
+                    <a href="https://ug.ru/detskij-czentr-orlenok-vyjdet-v-tiktok/">
+                        <div
+                            class="bg"
+                            style="background-image: url(https://ug.ru/wp-content/uploads/2021/01/orlenok-500x350.jpg);">
+                        </div>
+                    </a>
+                </div>
+                <a href="https://ug.ru/detskij-czentr-orlenok-vyjdet-v-tiktok/">
+                    <h2 class="title">Детский центр "Орленок" выйдет в TikTok</h2>
+                    <div class="description">
+                        Образовательный проект «Детский пресс-отряд» реализуется во Всероссийском детском центре «Орленок». За время смены, которая завершится...                    </div>
+                </a>
+            </div>
+                    <div class="slide news-block-3">
+                <div class="img">
+                    <a 
+                        href="https://ug.ru/category/all-news/" 
+                        class="cat-link">
+                        Новости                    </a>
+                    <a href="https://ug.ru/51575-2/">
+                        <div
+                            class="bg"
+                            style="background-image: url(https://ug.ru/wp-content/uploads/2021/01/startup-593324_1920-500x350.jpg);">
+                        </div>
+                    </a>
+                </div>
+                <a href="https://ug.ru/51575-2/">
+                    <h2 class="title">Роспотребнадзор объявил о новых нормах использования гаджетов в школе</h2>
+                    <div class="description">
+                        Новые санитарные правила для школ включили в себя нормы использования компьютеров учениками. Об этом рассказала...                    </div>
+                </a>
+            </div>
+                    <div class="slide news-block-3">
+                <div class="img">
+                    <a 
+                        href="https://ug.ru/category/all-news/" 
+                        class="cat-link">
+                        Новости                    </a>
+                    <a href="https://ug.ru/speczialnaya-podkomissiya-rassmotrit-voprosy-sostavleniya-kachestvennyh-slovarej-i-spravochnikov/">
+                        <div
+                            class="bg"
+                            style="background-image: url(https://ug.ru/wp-content/uploads/2021/01/book-1798_640-500x350.jpg);">
+                        </div>
+                    </a>
+                </div>
+                <a href="https://ug.ru/speczialnaya-podkomissiya-rassmotrit-voprosy-sostavleniya-kachestvennyh-slovarej-i-spravochnikov/">
+                    <h2 class="title">Специальная подкомиссия рассмотрит вопросы составления качественных словарей и справочников</h2>
+                    <div class="description">
+                        Сегодня состоялось первое заседание подкомиссии по определению списка словарей, грамматик и справочников. Она была создана...                    </div>
+                </a>
+            </div>
+                    <div class="slide news-block-3">
+                <div class="img">
+                    <a 
+                        href="https://ug.ru/category/peremena/" 
+                        class="cat-link">
+                        Перемена                    </a>
+                    <a href="https://ug.ru/kovid-prishel-chto-delat-i-kak-sebya-vesti-s-nezvanym-gostem/">
+                        <div
+                            class="bg"
+                            style="background-image: url(https://ug.ru/wp-content/uploads/2021/01/virus-5675422_1920-2-500x350.jpg);">
+                        </div>
+                    </a>
+                </div>
+                <a href="https://ug.ru/kovid-prishel-chto-delat-i-kak-sebya-vesti-s-nezvanym-gostem/">
+                    <h2 class="title">Ковид пришел: что делать и как себя вести с незваным гостем</h2>
+                    <div class="description">
+                        Коронавирус не только заставил человечество нацепить на себя защитную маску, но и сам пришел в...                    </div>
+                </a>
+            </div>
+                    <div class="slide news-block-3">
+                <div class="img">
+                    <a 
+                        href="https://ug.ru/category/problemy-i-resheniya/" 
+                        class="cat-link">
+                        Проблемы и решения                    </a>
+                    <a href="https://ug.ru/skautskoe-dvizhenie-v-rossii-mify-i-realnost/">
+                        <div
+                            class="bg"
+                            style="background-image: url(https://ug.ru/wp-content/uploads/2021/01/dsc3839-500x350.jpg);">
+                        </div>
+                    </a>
+                </div>
+                <a href="https://ug.ru/skautskoe-dvizhenie-v-rossii-mify-i-realnost/">
+                    <h2 class="title">Скаутское движение в России: мифы и реальность</h2>
+                    <div class="description">
+                        Западное движение, вредное для России и пропагандирующее чужие ценности, искаженная версия пионерии, чересчур религиозная организация....                    </div>
+                </a>
+            </div>
+                    <div class="slide news-block-3">
+                <div class="img">
+                    <a 
+                        href="https://ug.ru/category/all-news/" 
+                        class="cat-link">
+                        Новости                    </a>
+                    <a href="https://ug.ru/uchitelskaya-gazetarazvenchivaet-mify-o-distanczionnom-obrazovanii/">
+                        <div
+                            class="bg"
+                            style="background-image: url(https://ug.ru/wp-content/uploads/2021/01/29471297114849c9c0a1f597cb4a06e6-1-500x350.jpg);">
+                        </div>
+                    </a>
+                </div>
+                <a href="https://ug.ru/uchitelskaya-gazetarazvenchivaet-mify-o-distanczionnom-obrazovanii/">
+                    <h2 class="title">«Учительская газета» развенчивает мифы о дистанционном образовании</h2>
+                    <div class="description">
+                        На рассмотрение депутатов Госдумы находится закон о дистанционном образовании. Будущее принятие документа пугает и учителей,...                    </div>
+                </a>
+            </div>
+            </div>
+            <!-- Текущий номер -->
+            <div class="col-lg-12 mb-4 mb-md-0">
+    <h3 class="block-title newspaper-title">Текущий номер</h3>
+    <div class="row">
+        <div class="col-12 col-md-6 mb-1 mb-lg-0">
+            <div class="newspaper-slider">
+                                                                                                                                                        <div class="slide">
+                                <div class="img-container">
+                                    <a class="img" href="https://ug.ru/num/ug_2021_08/">
+                                        <img width="420" height="600" src="https://ug.ru/wp-content/uploads/2021/02/08ug-mini-1-420x600.jpg" class="attachment-medium size-medium wp-post-image" alt="" srcset="https://ug.ru/wp-content/uploads/2021/02/08ug-mini-1-420x600.jpg 420w, https://ug.ru/wp-content/uploads/2021/02/08ug-mini-1-768x1097.jpg 768w, https://ug.ru/wp-content/uploads/2021/02/08ug-mini-1-840x1200.jpg 840w, https://ug.ru/wp-content/uploads/2021/02/08ug-mini-1-600x857.jpg 600w" sizes="(max-width: 420px) 100vw, 420px" />                                    </a>
+                                </div>
+                                <div class="bottom-container">
+                                    <div class="btn-container">
+                                        <a href="https://ug.ru/num/ug_2021_08/" class="btn-read" target="_blank">Читать</a>
+                                        <a href="https://ug.ru/archives/uchitelskaya-gazeta/" class="btn-archive" target="_blank">Архив</a>
+                                    </div>
+                                    <div class="btn-subscribe">
+                                                                                <a href="https://podpiska.pochta.ru/press/П3357" target="_blank">Подписка</a>
+                                    </div>
+                                </div>
+                            </div>
+
+                                                                                                                                                                                    <div class="slide">
+                                <div class="img-container">
+                                    <a class="img" href="https://ug.ru/num/ugm_2021_08/">
+                                        <img width="420" height="600" src="https://ug.ru/wp-content/uploads/2021/02/08ugmv-1-420x600.jpg" class="attachment-medium size-medium wp-post-image" alt="" srcset="https://ug.ru/wp-content/uploads/2021/02/08ugmv-1-420x600.jpg 420w, https://ug.ru/wp-content/uploads/2021/02/08ugmv-1-768x1098.jpg 768w, https://ug.ru/wp-content/uploads/2021/02/08ugmv-1-840x1200.jpg 840w, https://ug.ru/wp-content/uploads/2021/02/08ugmv-1-600x858.jpg 600w, https://ug.ru/wp-content/uploads/2021/02/08ugmv-1.jpg 1102w" sizes="(max-width: 420px) 100vw, 420px" />                                    </a>
+                                </div>
+                                <div class="bottom-container">
+                                    <div class="btn-container">
+                                        <a href="https://ug.ru/num/ugm_2021_08/" class="btn-read" target="_blank">Читать</a>
+                                        <a href="https://ug.ru/archives/ug-moskva/" class="btn-archive" target="_blank">Архив</a>
+                                    </div>
+                                    <div class="btn-subscribe">
+                                                                                <a href="#" target="_blank">Подписка</a>
+                                    </div>
+                                </div>
+                            </div>
+
+                                                                                                                                                                                    <div class="slide">
+                                <div class="img-container">
+                                    <a class="img" href="https://ug.ru/num/mp_2021_08/">
+                                        <img width="401" height="600" src="https://ug.ru/wp-content/uploads/2021/02/08mp_2021-1-401x600.jpg" class="attachment-medium size-medium wp-post-image" alt="" srcset="https://ug.ru/wp-content/uploads/2021/02/08mp_2021-1-401x600.jpg 401w, https://ug.ru/wp-content/uploads/2021/02/08mp_2021-1-768x1148.jpg 768w, https://ug.ru/wp-content/uploads/2021/02/08mp_2021-1-803x1200.jpg 803w, https://ug.ru/wp-content/uploads/2021/02/08mp_2021-1-600x897.jpg 600w" sizes="(max-width: 401px) 100vw, 401px" />                                    </a>
+                                </div>
+                                <div class="bottom-container">
+                                    <div class="btn-container">
+                                        <a href="https://ug.ru/num/mp_2021_08/" class="btn-read" target="_blank">Читать</a>
+                                        <a href="https://ug.ru/archives/moj-profsoyuz/" class="btn-archive" target="_blank">Архив</a>
+                                    </div>
+                                    <div class="btn-subscribe">
+                                                                                <a href="https://podpiska.pochta.ru/press/ПА002" target="_blank">Подписка</a>
+                                    </div>
+                                </div>
+                            </div>
+
+                                                                                                                                </div>
+        </div>
+        
+
+                <div class="col-12 col-md-6">
+            <div class="item pl-md-4 pr-md-4">
+                <div class="news-block-4">
+                    <div 
+                        class="bg" 
+                        style="background-image: url(https://ug.ru/wp-content/uploads/2021/01/ege-600x400.jpg);">
+                    </div>
+                    <a href="https://ug.ru/category/uchitelskaya-gazeta/dnevnik/sobytie-nedeli/" class="cat-link">
+                        Событие недели                    </a>
+                    <a href="https://ug.ru/20-let-ege-chto-bylo-chto-budet/" class="content">
+                        <h2 class="title">20 лет ЕГЭ: что было, что будет</h2>
+                    </a>
+                </div>
+            </div>
+        </div>
+            </div>
+</div>        </div>
+    </div>
+</div>
+
+<!-- Выбор дня, Погодный календарь -->
+<div class="container mt-2 mt-md-4">
+    <div class="row">
+        <div class="col-12 col-md-12 mt-2">
+            
+<h3 class="block-title">
+    <a href="/category/vybor-dnya-ug-ru/">
+        <img src="https://ug.ru/wp-content/themes/bb/assets/img/icons/check.png"/>Выбор дня UG.RU
+    </a>
+</h3>
+<div class="row day-choice-slide mobile-scroll">
+                        <div class="day-choice-block">
+                <div 
+                    class="day-choice-block-bg" 
+                    style="background-image: url(https://ug.ru/wp-content/uploads/2021/03/mashinka-1-500x350.jpg);">
+                </div>
+                <a href="https://ug.ru/pervogo-marta-1873-goda-byla-proizvedena-pervaya-pishushhaya-mashinka/" class="day-choice-block-content">
+                    <h2 class="day-choice-block-title">Первого марта 1873 года была произведена первая пишущая машинка</h2>
+                </a>
+            </div>
+                    <div class="day-choice-block">
+                <div 
+                    class="day-choice-block-bg" 
+                    style="background-image: url(https://ug.ru/wp-content/uploads/2021/02/krupskaya-500x350.jpg);">
+                </div>
+                <a href="https://ug.ru/26-fevralya-den-rozhdeniya-osnovatelniczy-uchitelskoj-gazety/" class="day-choice-block-content">
+                    <h2 class="day-choice-block-title">26 февраля – день рождения основательницы «Учительской газеты»</h2>
+                </a>
+            </div>
+                    <div class="day-choice-block">
+                <div 
+                    class="day-choice-block-bg" 
+                    style="background-image: url(https://ug.ru/wp-content/uploads/2021/02/kapicza-500x350.jpg);">
+                </div>
+                <a href="https://ug.ru/24-fevralya-1973-goda-na-teleekrany-strany-vyshla-programma-ochevidnoe-neveroyatnoe/" class="day-choice-block-content">
+                    <h2 class="day-choice-block-title">24 февраля 1973 года на телеэкраны страны вышла программа «Очевидное – невероятное»</h2>
+                </a>
+            </div>
+                    <div class="day-choice-block">
+                <div 
+                    class="day-choice-block-bg" 
+                    style="background-image: url(https://ug.ru/wp-content/uploads/2021/02/den-zashhitnika-otechestva-500x350.jpg);">
+                </div>
+                <a href="https://ug.ru/23-fevralya-rossiyane-otmechayut-den-zashhitnika-otechestva/" class="day-choice-block-content">
+                    <h2 class="day-choice-block-title">23 февраля россияне отмечают День защитника Отечества</h2>
+                </a>
+            </div>
+                    <div class="day-choice-block">
+                <div 
+                    class="day-choice-block-bg" 
+                    style="background-image: url(https://ug.ru/wp-content/uploads/2021/02/botanicheskij-sad-500x350.jpg);">
+                </div>
+                <a href="https://ug.ru/botanicheskij-sad-petra-velikogo-v-sankt-peterburge-otmechaet-ocherednuyu-godovshhinu/" class="day-choice-block-content">
+                    <h2 class="day-choice-block-title">Ботанический сад Петра Великого в Санкт-Петербурге отмечает очередную годовщину</h2>
+                </a>
+            </div>
+                    <div class="day-choice-block">
+                <div 
+                    class="day-choice-block-bg" 
+                    style="background-image: url(https://ug.ru/wp-content/uploads/2021/02/fonograf-500x350.jpg);">
+                </div>
+                <a href="https://ug.ru/19-fevralya-1878-goda-tomas-edison-zapatentoval-izobretenie-stavshee-nachalom-epohi-audiozapisi/" class="day-choice-block-content">
+                    <h2 class="day-choice-block-title">19 февраля 1878 года Томас Эдисон запатентовал изобретение, ставшее началом эпохи аудиозаписи</h2>
+                </a>
+            </div>
+                    <div class="day-choice-block">
+                <div 
+                    class="day-choice-block-bg" 
+                    style="background-image: url(https://ug.ru/wp-content/uploads/2021/02/kievskij-vokzal-500x350.jpg);">
+                </div>
+                <a href="https://ug.ru/18-fevralya-1918-goda-otkrylsya-kievskij-vokzal-v-moskve/" class="day-choice-block-content">
+                    <h2 class="day-choice-block-title">18 февраля 1918 года открылся Киевский вокзал в Москве</h2>
+                </a>
+            </div>
+                    <div class="day-choice-block">
+                <div 
+                    class="day-choice-block-bg" 
+                    style="background-image: url(https://ug.ru/wp-content/uploads/2021/02/ermitazh-500x350.jpg);">
+                </div>
+                <a href="https://ug.ru/17-fevralya-1852-goda-v-sankt-peterburge-otkryli-dlya-shirokoj-publiki-glavnyj-muzej-rossii-ermitazh/" class="day-choice-block-content">
+                    <h2 class="day-choice-block-title">17 февраля 1852 года в Санкт-Петербурге открыли для широкой публики главный музей России – Эрмитаж</h2>
+                </a>
+            </div>
+                    <div class="day-choice-block">
+                <div 
+                    class="day-choice-block-bg" 
+                    style="background-image: url(https://ug.ru/wp-content/uploads/2021/02/grobnicza-tutanhamona-500x350.jpg);">
+                </div>
+                <a href="https://ug.ru/16-fevralya-1923-goda-proizoshlo-arheologicheskoe-otkrytie-veka-byla-obnaruzhena-grobnicza-tutanhamona/" class="day-choice-block-content">
+                    <h2 class="day-choice-block-title">16 февраля 1923 года произошло археологическое открытие века – была обнаружена гробница Тутанхамона</h2>
+                </a>
+            </div>
+                    <div class="day-choice-block">
+                <div 
+                    class="day-choice-block-bg" 
+                    style="background-image: url(https://ug.ru/wp-content/uploads/2021/02/akademiya-gnesinyh-1-500x350.jpg);">
+                </div>
+                <a href="https://ug.ru/15-fevralya-1895-goda-v-rossii-otkrylas-pervaya-detskaya-muzykalnaya-shkola/" class="day-choice-block-content">
+                    <h2 class="day-choice-block-title">15 февраля 1895 года в России открылась первая детская музыкальная школа</h2>
+                </a>
+            </div>
+                    <div class="day-choice-block">
+                <div 
+                    class="day-choice-block-bg" 
+                    style="background-image: url(https://ug.ru/wp-content/uploads/2021/02/film-589491_1920-500x350.jpg);">
+                </div>
+                <a href="https://ug.ru/14-fevralya-den-rozhdeniya-youtube/" class="day-choice-block-content">
+                    <h2 class="day-choice-block-title">14 февраля – день рождения YouTube</h2>
+                </a>
+            </div>
+                    <div class="day-choice-block">
+                <div 
+                    class="day-choice-block-bg" 
+                    style="background-image: url(https://ug.ru/wp-content/uploads/2021/02/krylov-500x350.jpg);">
+                </div>
+                <a href="https://ug.ru/data-v-istorii-13-fevralya-1769-goda-rodilsya-ivan-andreevich-krylov/" class="day-choice-block-content">
+                    <h2 class="day-choice-block-title">13 февраля 1769 года родился Иван Андреевич Крылов</h2>
+                </a>
+            </div>
+                    <div class="day-choice-block">
+                <div 
+                    class="day-choice-block-bg" 
+                    style="background-image: url(https://ug.ru/wp-content/uploads/2021/02/charlz-darvin-500x350.jpg);">
+                </div>
+                <a href="https://ug.ru/data-v-istorii-12-fevralya-mezhdunarodnyj-den-nauki-i-gumanizma-ili-den-darvina/" class="day-choice-block-content">
+                    <h2 class="day-choice-block-title">12 февраля – Международный день науки и гуманизма, или День Дарвина</h2>
+                </a>
+            </div>
+                    <div class="day-choice-block">
+                <div 
+                    class="day-choice-block-bg" 
+                    style="background-image: url(https://ug.ru/wp-content/uploads/2021/02/nauka-1-500x350.jpg);">
+                </div>
+                <a href="https://ug.ru/data-v-istorii-11-fevralya-mezhdunarodnyj-den-zhenshhin-i-devochek-v-nauke/" class="day-choice-block-content">
+                    <h2 class="day-choice-block-title">Дата в истории. 11 февраля – Международный день женщин и девочек в науке</h2>
+                </a>
+            </div>
+                    <div class="day-choice-block">
+                <div 
+                    class="day-choice-block-bg" 
+                    style="background-image: url(https://ug.ru/wp-content/uploads/2021/02/pushkin-500x350.jpg);">
+                </div>
+                <a href="https://ug.ru/data-v-istorii-10-fevralya-den-pamyati-aleksandra-sergeevicha-pushkina/" class="day-choice-block-content">
+                    <h2 class="day-choice-block-title">Дата в истории. 10 февраля – День памяти Александра Сергеевича Пушкина</h2>
+                </a>
+            </div>
+                    <div class="day-choice-block">
+                <div 
+                    class="day-choice-block-bg" 
+                    style="background-image: url(https://ug.ru/wp-content/uploads/2021/02/nikolaj-karamzin-500x350.jpg);">
+                </div>
+                <a href="https://ug.ru/v-fevrale-1818-goda-vyshla-v-svet-istoriya-gosudarstva-rossijskogo-nikolaya-karamzina/" class="day-choice-block-content">
+                    <h2 class="day-choice-block-title">В феврале 1818 года вышла в свет «История Государства Российского» Николая Карамзина</h2>
+                </a>
+            </div>
+            </div>        </div>
+    </div>
+</div>
+
+<!-- Актуальное -->
+<div class="container mt-1 mb-1 mt-md-5 mb-md-5">
+    <div class="row">
+        
+<div class="col-lg-12">
+    <h3 class="block-title">Актуальное</h3>
+    <div class="row mobile-scroll">
+                                                                <div class="col-lg-3 col-md-6 mb-4 mb-lg-0 item">
+                                            <div class="news-block-4">
+                            <div 
+                                class="bg" 
+                                style="background-image: url(https://ug.ru/wp-content/uploads/2021/03/dusha-500x350.jpg);">
+                            </div>
+                            <a href="https://ug.ru/category/all-news/" class="cat-link">
+                                Новости                            </a>
+                            <a href="https://ug.ru/zolotoj-globus-vruchili-multfilmu-dusha-geroem-kotorogo-stal-uchitel-muzyki/" class="content">
+                                <h2 class="title">Премию «Золотой глобус»-2021 вручили мультфильму «Душа», героем которого стал учитель музыки</h2>
+                            </a>
+                        </div>
+                                    </div>
+                                                            <div class="col-lg-3 col-md-6 mb-4 mb-lg-0 item">
+                                            <div class="news-block-4">
+                            <div 
+                                class="bg" 
+                                style="background-image: url(https://ug.ru/wp-content/uploads/2021/02/inicziativa-profsoyuza-rabotnikov-obrazovaniya-cherepovcza-nahodit-podderzhku-u-pedagogov-strany.-foto-m.golubevoj-500x350.jpg);">
+                            </div>
+                            <a href="https://ug.ru/category/problemy-i-resheniya/" class="cat-link">
+                                Проблемы и решения                            </a>
+                            <a href="https://ug.ru/pomozhem-ministru-uchitelya-prodolzhayut-delitsya-fotografiyami-svoih-zarplatnyh-listkov-v-soczsetyah/" class="content">
+                                <h2 class="title">Учителя продолжают делиться фотографиями своих зарплатных листков в соцсетях</h2>
+                            </a>
+                        </div>
+                                    </div>
+                                                            <div class="col-lg-3 col-md-6 mb-4 mb-lg-0 item">
+                                            <div class="news-block-4">
+                            <div 
+                                class="bg" 
+                                style="background-image: url(https://ug.ru/wp-content/uploads/2021/02/ug-500x350.jpg);">
+                            </div>
+                            <a href="https://ug.ru/category/all-news/" class="cat-link">
+                                Новости                            </a>
+                            <a href="https://ug.ru/uchitelskaya-gazeta-ushla-na-vynuzhdennuyu-udalyonku-delo-ne-v-pandemii/" class="content">
+                                <h2 class="title">«Учительская газета» ушла на вынужденную удалёнку. Дело не в пандемии</h2>
+                            </a>
+                        </div>
+                                    </div>
+                                                            <div class="col-lg-3 col-md-6 mb-4 mb-lg-0 item">
+                                            <div class="desktop-display">
+                            <a href="https://kt-print.ru/" target="_blank"><img src="http://ug.ru/wp-content/uploads/2020/09/255h340.jpg"></a>                        </div>
+                                    </div>
+                                        </div>
+</div>                    <div class="mobile-display">
+                <div class='code-block code-block-13' style='margin: 8px 0; clear: both;'>
+<a href="https://kt-print.ru/"><img src="http://ug.ru/wp-content/uploads/2020/09/470h250.jpg"></a></div>
+            </div>
+            </div>
+</div>
+
+<!-- Фото и видео -->
+
+<div class="wrapper photo-video-wr">
+    <div class="container">
+        <div class="block-title"><a href="https://ug.ru/fotoreportazhi/">Фоторепортажи</a></div>
+        <div class="row">
+                                                                                                            <div class="col-lg-6">
+                            <div class="news-block-1 news-block-photo ">
+                                <div class="bg" style="background-image: url(https://ug.ru/wp-content/uploads/2021/01/16-9-1200x801.jpg);"></div>
+                                <div class="type">
+                                                                                                        </div>
+                                                                                                <a href="https://ug.ru/category/uchitel-goda-photo/" class="cat-link">
+                                    Учитель года - фото                                </a>
+                                                                <a href="https://ug.ru/zavershilsya-vtoroj-ochnyj-tur-konkursa-uchitel-goda-rossii-2020/" class="content big">
+                                    <h2 class="title">Завершился второй очный тур конкурса «Учитель года России» &#8211; 2020</h2>
+                                </a>
+                            </div>
+                        </div>
+                                                                                                                        <div class="col-lg-6">
+                        <div class="row">
+                        <div class="col-md-6">
+                            <div class="news-block-1 news-block-photo ">
+                                <div class="bg" style="background-image: url(https://ug.ru/wp-content/uploads/2021/01/vtoraya-pyaterka-600x400.jpg);"></div>
+                                <div class="type">
+                                                                                                        </div>
+                                                                                                <a href="https://ug.ru/category/uchitel-goda-photo/" class="cat-link">
+                                    Учитель года - фото                                </a>
+                                                                <a href="https://ug.ru/imena-15-laureatov-konkursa-uchitel-goda-rossii-2020-oglashayut-v-volgograde/" class="content">
+                                    <h2 class="title">Имена 15 лауреатов конкурса &#8220;Учитель года России&#8221; &#8211; 2020 огласили в Волгограде</h2>
+                                </a>
+                            </div>
+                        </div>
+                                                                                                                        <div class="col-md-6">
+                            <div class="news-block-1 news-block-photo ">
+                                <div class="bg" style="background-image: url(https://ug.ru/wp-content/uploads/2021/01/kplvwogq5xy-600x400.jpg);"></div>
+                                <div class="type">
+                                                                                                        </div>
+                                                                                                <a href="https://ug.ru/category/uchitel-goda-photo/" class="cat-link">
+                                    Учитель года - фото                                </a>
+                                                                <a href="https://ug.ru/v-volgograde-zavershaetsya-pervyj-tur-finala-konkursa-uchitel-goda-rossii-2020/" class="content">
+                                    <h2 class="title">В Волгограде завершается первый тур финала конкурса &#8220;Учитель года России&#8221;-2020</h2>
+                                </a>
+                            </div>
+                        </div>
+                                                                                                                        <div class="col-md-6">
+                            <div class="news-block-1 news-block-photo ">
+                                <div class="bg" style="background-image: url(https://ug.ru/wp-content/uploads/2021/01/01-6-600x278.jpg);"></div>
+                                <div class="type">
+                                                                                                        </div>
+                                                                                                <a href="https://ug.ru/category/uchitel-goda-photo/" class="cat-link">
+                                    Учитель года - фото                                </a>
+                                                                <a href="https://ug.ru/obshherossijskij-profsoyuz-obrazovaniya-ustroil-finalistam-konkursa-uchitel-goda-rossii-zazhigatelnyj-vecher/" class="content">
+                                    <h2 class="title">Общероссийский Профсоюз образования устроил финалистам конкурса «Учитель года России» зажигательный вечер</h2>
+                                </a>
+                            </div>
+                        </div>
+                                                                                                                        <div class="col-md-6">
+							                                <div class="desktop-display">
+								    <a href="http://ug.ru/bumazhnaya-versiya/" target="_blank"><img src="http://ug.ru/wp-content/uploads/2020/10/banner_podpiska255h200_2020.gif"></a>                                </div>
+                        	                        </div>
+                        </div>
+                        </div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        </div>
+        <div class="photo_bottom_link">
+            <a href="https://ug.ru/fotoreportazhi/">Все фоторепортажи</a>
+        </div>
+    </div>
+</div>
+
+<!-- Арт-прогулка, Конкурсы, Опрос -->
+<div class="container mt-1 mb-4 mt-md-5 mb-md-5">
+    <div class="row">
+        <!-- Арт-прогулка -->
+        <div class="col-xl-4 col-lg-6 mb-3 mb-lg-0">
+            
+<div class="block-title-red">
+    <a href="https://ug.ru/category/art-progulka/">
+        АРТ-прогулка    </a>
+</div>
+                            <a href="https://ug.ru/ya-lish-edva-zametnyj-robkij-shtrih/" class="news-block-5">
+                <div 
+                    class="bg" 
+                    style="background-image: url(https://ug.ru/wp-content/uploads/2021/02/2-3-500x350.jpg);">
+                </div>
+                <h2 class="title">"Я лишь едва заметный робкий штрих..."</h2>
+            </a>
+                                        <div class="news-block-6-container">
+                                    <a href="https://ug.ru/zhizn-prodolzhaetsya-eyo-izobrazit-nado/" class="news-block-6">
+                        <div class="img-container">
+                            <img src="https://ug.ru/wp-content/uploads/2021/02/3-1-500x350.jpg" alt="alt">
+                        </div>
+                        <h2 class="title">"Жизнь продолжается, её изобразить надо..."</h2>
+                    </a>
+                            </div>
+                            </div>
+        <!-- Конкурсы -->
+        <div class="col-xl-4 col-lg-6">
+            <div class="block-title-red">
+    <a href="/ugr">Конкурсы</a>
+</div>
+ 
+                            <a href="https://ug.ru/uspeshnaya-shkola/" class="news-block-5">
+                <div 
+                    class="bg" 
+                    style="background-image: url(https://ug.ru/wp-content/uploads/2019/11/20-avgusta-2019-goda-500x350.jpg);">
+                </div>
+                <h2 class="title">Всероссийский конкурс «Успешная школа»</h2>
+            </a>
+                                        <div class="news-block-6-container">
+                <a href="https://ug.ru/ugr/" class="news-block-6">
+                    <div class="img-container">
+                        <img src="https://ug.ru/wp-content/uploads/2021/01/07-500x350.jpg" alt="alt">
+                    </div>
+                    <h2 class="title">Всероссийский конкурс "Учитель года России" - 2020</h2>
+                </a>
+            </div>
+                                                                         
+        </div>
+        <!-- Опрос -->
+        <div class="col-xl-4 col-lg-12 mt-3 mt-xl-0 poll-wr">
+        		            <div class="block-title-green"><a href="/democracy-archives/">Опрос</a></div>
+	            <div class="poll-container">
+	                <div class="dem-poll-shortcode">
+<!--democracy-->
+<style type="text/css">.democracy:after{content:'';display:table;clear:both}.democracy ul li,.democracy ul{background:none;padding:0;margin:0}.democracy ul li:before{display:none}.democracy input[type='radio'],.democracy input[type='checkbox']{margin:0;vertical-align:middle}.democracy input[type='radio']:focus,.democracy input[type='checkbox']:focus{outline:0}.democracy ul{list-style:none !important;border:0 !important}.democracy ul li{list-style:none !important}input[type="submit"].dem-button,a.dem-button,.dem-button{position:relative;display:inline-block;text-decoration:none;line-height:1;border:0;margin:0;padding:0;cursor:pointer;white-space:nowrap;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}input[type="submit"].dem-button:focus,a.dem-button:focus,.dem-button:focus{outline:0}input[type="submit"].dem-button:disabled,a.dem-button:disabled,.dem-button:disabled{opacity:.6;cursor:not-allowed}a.dem-button:hover{text-decoration:none !important}.democracy{position:relative;margin:0 auto}.democracy input[type='radio'],.democracy input[type='checkbox']{margin-right:.2em}.dem-screen{position:relative;line-height:1.3}.democracy ul.dem-vote{margin-bottom:1em}.democracy ul.dem-vote li{padding-bottom:0;margin-bottom:0}.democracy ul.dem-vote li>*{margin-bottom:.6em}.democracy ul.dem-answers li{padding-bottom:1em}.dem-answers .dem-label{margin-bottom:.2em;line-height:1.2}.dem-graph{position:relative;color:#555;color:rgba(0,0,0,.6);box-sizing:content-box;width:100%;display:table;height:1.2em;line-height:1.2em}.dem-fill{position:absolute;top:0;left:0;height:100%;background-color:#7cb4dd}.dem-voted-this .dem-fill{background-color:#ffc45a}.dem-votes-txt,.dem-percent-txt{position:relative;display:table-cell;padding-left:.3em;vertical-align:middle;font-size:90%}.dem-poll-info{padding-bottom:1em}.dem-poll-info:after{content:'';display:table;clear:both}.dem-poll-info>*{font-size:85%;display:block;float:right;clear:both;text-align:right;opacity:.7;line-height:1.3}.dem-vote label{float:none;display:block}.dem-results-link{display:inline-block;line-height:1;margin:.8em 1em}.dem-vote .dem-disabled{opacity:.5}.democracy .dem-bottom{padding-bottom:1em}.dem-bottom{text-align:center}.dem-bottom:after{content:'';display:table;clear:both}.dem-poll-title{display:block;margin-bottom:1.5em;margin-top:1.2em;font-size:120%}.dem-notice{z-index:10;position:absolute;top:0;border-radius:2px;width:100%;padding:1.5em 2em;text-align:center;background:rgba(247,241,212,.8);color:#6d6214}.dem-notice-close{position:absolute;top:0;right:0;padding:5px;cursor:pointer;line-height:.6;font-size:150%}.dem-notice-close:hover{color:#d26616}.dem-star{font-size:90%;vertical-align:baseline;padding-left:.3em;color:#ff4e00}.dem-poll-note{font-size:90%;padding:.5em;opacity:.8;line-height:1.3}.democracy .dem-copyright{position:absolute;bottom:-1em;right:0;text-decoration:none;border-bottom:0;color:#b2b2b2;opacity:.5;line-height:1}.democracy .dem-copyright:hover{opacity:1}.dem-add-answer{position:relative}.dem-add-answer>*{display:block}.dem-add-answer a{display:inline-block}input.dem-add-answer-txt{width:100%;box-sizing:border-box}.dem-add-answer-close{position:absolute;right:0;padding:0 .7em;cursor:pointer;color:#333}.dem-add-answer-close:hover{color:#ff2700}.dem-edit-link{display:block;position:absolute;top:0;right:0;line-height:1;text-decoration:none !important;border:0 !important}.dem-edit-link svg{width:1.2em !important;fill:#5a5a5a;fill:rgba(0,0,0,.6)}.dem-edit-link:hover svg{fill:#35a91d}.dem-loader{display:none;position:absolute;top:0;left:0;width:100%;height:100%}.dem-loader>*{display:table-cell;vertical-align:middle;text-align:center}.dem-loader svg{width:20%;max-width:100px;min-width:80px;margin-bottom:15%}.dem-loader [class^="dem-"]{margin-bottom:15% !important}.dem__collapser{display:block;cursor:pointer;text-align:center;font-size:150%;line-height:1}.dem__collapser:hover{color:#f31;background:rgba(255,255,255,.3)}.dem__collapser.expanded{position:relative;height:1em}.dem__collapser.collapsed{position:absolute;top:0;bottom:0;right:0;left:0}.dem__collapser .arr{display:block;position:absolute;bottom:0;width:100%}.dem__collapser.collapsed .arr:before{content:"▾"}.dem__collapser.expanded .arr:before{content:"▴"}.dem-poll-shortcode{margin-bottom:1.5em}.dem-archives .dem-elem-wrap{margin-bottom:2em;padding-bottom:20px;border-bottom:1px dashed #ccc}.dem-archives .dem-archive-link{display:none}.dem-paging{text-align:center;margin:1.5em auto}.dem-paging>*{display:inline-block;padding:.3em .8em;border-radius:.2em;background:#e2e2e2;color:#333;text-decoration:none;text-transform:lowercase;user-select:none}.dem-paging>a{color:#333}.dem-paging>a:hover{background:#ccc;color:#333;text-decoration:none}.dem-paging .current{background:#656565;color:#fff}.dem-paging .dots{background:none}.dem-link{font-style:italic;font-size:90%}.dem-vote-link:before{content:'◂ '}.dem-vote label:hover{opacity:.8}.dem-vote-button{float:left}.dem-results-link{float:right}.dem-graph{font-family:Arial,sans-serif;background:#f7f7f7;background:linear-gradient(to bottom,rgba(0,0,0,.05) 50%,rgba(0,0,0,.1) 50%);background:-webkit-linear-gradient(top,rgba(0,0,0,.05) 50%,rgba(0,0,0,.1) 50%)}.dem-fill{background-image:linear-gradient(to right,rgba(255,255,255,.3),transparent);background-image:-webkit-linear-gradient(left,rgba(255,255,255,.3),transparent)}.dem-answers .dem-label{margin-bottom:.1em}.dem-votes-txt,.dem-percent-txt{font-size:80%}.dem-percent-txt{display:none}.dem-answers li:hover .dem-votes-txt{display:none}.dem-answers li:hover .dem-percent-txt{display:table-cell}.dem-voted-this .dem-label:before{content:'✓';display:inline-block;margin-right:.2em}.dem-voted-this .dem-graph{border-color:#969696}.dem-label-percent-txt,.dem-votes-txt-percent,.dem-novoted .dem-votes-txt{display:none}.dem-poll-info{font-style:italic}.dem-archive-link{text-align:right}.dem-bottom{text-align:left}.dem__checkbox,.dem__radio{display:none !important}.dem__checkbox_label,.dem__radio_label{position:relative;box-sizing:content-box}.dem__checkbox_label .dem__spot,.dem__radio_label .dem__spot{position:relative;display:inline-block;vertical-align:baseline;top:.1em;cursor:pointer;width:12px;height:12px;margin-right:.3em;background:#fff;border:1px solid #ccc}.dem__checkbox_label .dem__spot{border-radius:3px}.dem__radio_label .dem__spot{border-radius:50%}.dem__checkbox_label .dem__spot:after,.dem__radio_label .dem__spot:after{content:'';position:absolute;opacity:0}.dem__checkbox_label .dem__spot:after{width:11px;height:4px;top:0;left:2px;border:2px solid #333;border-top:0;border-right:0;background:transparent;-ms-transform:rotate(-45deg);-webkit-transform:rotate(-45deg);transform:rotate(-45deg)}.dem__radio_label .dem__spot:after{width:6px;height:6px;border-radius:50%;top:50%;left:50%;background:#333;-ms-transform:translate(-50%,-50%);-webkit-transform:translate(-50%,-50%);transform:translate(-50%,-50%)}.dem__checkbox_label:hover .dem__spot::after,.dem__radio_label:hover .dem__spot::after{opacity:.2}.dem__checkbox:checked+.dem__spot,.dem__radio:checked+.dem__spot{border-color:#999}.dem__checkbox:checked+.dem__spot:after,.dem__radio:checked+.dem__spot:after{opacity:1}.dem__checkbox:disabled+.dem__spot,.dem__radio:disabled+.dem__spot{opacity:.5}.dem__checkbox:not(:checked):disabled+.dem__spot:after,.dem__radio:not(:checked):disabled+.dem__spot:after{opacity:0}.dem-loader .fill{fill:red !important}.dem-loader .css-fill{background-color:red !important}.dem-loader .stroke{stroke:red !important}.dem-poll-shortcode{margin-bottom:0}.dem-poll-title{color:#4a4a4a;font-size:16px;line-height:20px;font-weight:700;margin:0 0 15px}.dem__checkbox_label,.dem__radio_label{display:flex !important;color:#4a4a4a;font-size:14px;font-weight:400;line-height:20px;margin-bottom:15px !important}.dem__checkbox_label .dem__spot,.dem__radio_label .dem__spot{min-width:12px;margin-top:3px;margin-right:7px;display:block}.dem-vote-button{max-width:50%}.dem-bottom{padding:0 !important}.dem-answers .dem-label{color:#4a4a4a;font-size:14px;font-weight:400;line-height:20px}.dem-poll-info{display:none}.dem-archives .dem-poll-info{display:block;font-style:normal;text-align:left}.dem-archives .dem-poll-info .dem-total-votes{float:none;text-align:left;font-size:18px;font-weight:bold;color:#000}.dem-archives .dem-poll-info .dem-date{display:none}.dem-label-percent-txt{display:block;font-size:12px;font-weight:700;line-height:20px}.dem-graph{background:none;border:0 !important;height:10px;max-height:10px;line-height:10px;display:inline-block}.dem-fill{background:#005e66}.dem-voted-this .dem-fill{background-color:#005e66}.dem-percent-txt,.dem-votes-txt-votes{display:none;opacity:0;visibility:hidden}</style>
+<div id="democracy-30" class="democracy" data-opts='{"ajax_url":"https:\/\/ug.ru\/wp-admin\/admin-ajax.php","pid":30,"max_answs":0,"answs_max_height":"500","anim_speed":"400","line_anim_speed":1500}' ><strong class="dem-poll-title">Поможем министру: учителя публикуют в соцсетях свои зарплатные листки. Как вы относитесь к флешмобу?</strong><div class="dem-screen vote"><form method="POST" action="#democracy-30"><ul class="dem-vote">
+					<li data-aid="125">
+						<label class="dem__radio_label">
+							<input class="dem__radio"  type="radio" value="125" name="answer_ids[]"><span class="dem__spot"></span> Положительно
+						</label>
+					</li>
+					<li data-aid="126">
+						<label class="dem__radio_label">
+							<input class="dem__radio"  type="radio" value="126" name="answer_ids[]"><span class="dem__spot"></span> Отрицательно
+						</label>
+					</li>
+					<li data-aid="128">
+						<label class="dem__radio_label">
+							<input class="dem__radio"  type="radio" value="128" name="answer_ids[]"><span class="dem__spot"></span> Затрудняюсь ответить
+						</label>
+					</li>
+					<li data-aid="127">
+						<label class="dem__radio_label">
+							<input class="dem__radio"  type="radio" value="127" name="answer_ids[]"><span class="dem__spot"></span> Я уже поучаствовал(а)/собираюсь поучаствовать
+						</label>
+					</li></ul><div class="dem-bottom"><input type="hidden" name="dem_act" value="vote"><input type="hidden" name="dem_pid" value="30"><div class="dem-vote-button"><input class="dem-button " type="submit" value="Голосовать" data-dem-act="vote"></div></div></form></div><noscript>Poll Options are limited because JavaScript is disabled in your browser.</noscript><div class="dem-loader"><div><style type="text/css">
+.dem-roller {
+  margin: 0 auto;
+  width: 40px;
+  height: 40px;
+  position: relative;
+}
+
+.con1 > div, .con2 > div, .con3 > div {
+  width: 10px;
+  height: 10px;
+  background-color: #2686cc;
+
+  border-radius: 100%;
+  position: absolute;
+  -webkit-animation: bouncedelay 1.2s infinite ease-in-out;
+  animation: bouncedelay 1.2s infinite ease-in-out;
+  /* Prevent first frame from flickering when animation starts */
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both;
+}
+
+.dem-roller .demrcont {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+
+.con2 {
+  -webkit-transform: rotateZ(45deg);
+  transform: rotateZ(45deg);
+}
+
+.con3 {
+  -webkit-transform: rotateZ(90deg);
+  transform: rotateZ(90deg);
+}
+
+.circle1 { top: 0; left: 0; }
+.circle2 { top: 0; right: 0; }
+.circle3 { right: 0; bottom: 0; }
+.circle4 { left: 0; bottom: 0; }
+
+.con2 .circle1 { -webkit-animation-delay: -1.1s; animation-delay: -1.1s; }
+.con3 .circle1 { -webkit-animation-delay: -1.0s; animation-delay: -1.0s; }
+.con1 .circle2 { -webkit-animation-delay: -0.9s; animation-delay: -0.9s; }
+.con2 .circle2 { -webkit-animation-delay: -0.8s; animation-delay: -0.8s; }
+.con3 .circle2 { -webkit-animation-delay: -0.7s; animation-delay: -0.7s; }
+.con1 .circle3 { -webkit-animation-delay: -0.6s; animation-delay: -0.6s; }
+.con2 .circle3 { -webkit-animation-delay: -0.5s; animation-delay: -0.5s; }
+.con3 .circle3 { -webkit-animation-delay: -0.4s; animation-delay: -0.4s; }
+.con1 .circle4 { -webkit-animation-delay: -0.3s; animation-delay: -0.3s; }
+.con2 .circle4 { -webkit-animation-delay: -0.2s; animation-delay: -0.2s; }
+.con3 .circle4 { -webkit-animation-delay: -0.1s; animation-delay: -0.1s; }
+@-webkit-keyframes bouncedelay {
+  0%, 80%, 100% { -webkit-transform: scale(0.0) }
+  40% { -webkit-transform: scale(1.0) }
+}
+
+@keyframes bouncedelay {
+  0%, 80%, 100% { 
+    transform: scale(0.0);
+    -webkit-transform: scale(0.0);
+  } 40% { 
+    transform: scale(1.0);
+    -webkit-transform: scale(1.0);
+  }
+}
+</style>
+
+<div class="dem-roller">
+  <div class="demrcont con1">
+    <div class="circle1 css-fill"></div>
+    <div class="circle2 css-fill"></div>
+    <div class="circle3 css-fill"></div>
+    <div class="circle4 css-fill"></div>
+  </div>
+  <div class="demrcont con2">
+    <div class="circle1 css-fill"></div>
+    <div class="circle2 css-fill"></div>
+    <div class="circle3 css-fill"></div>
+    <div class="circle4 css-fill"></div>
+  </div>
+  <div class="demrcont con3">
+    <div class="circle1 css-fill"></div>
+    <div class="circle2 css-fill"></div>
+    <div class="circle3 css-fill"></div>
+    <div class="circle4 css-fill"></div>
+  </div>
+</div>
+
+</div></div></div><!--democracy-->
+			<!--noindex-->
+			<div class="dem-cache-screens" style="display:none;" data-opt_logs="1"><div class="dem-screen-cache voted"><ul class="dem-answers" data-voted-class="dem-voted-this" data-voted-txt="Это Ваш голос. "><li class="dem-winner" title=' 82 голоса - 84% из всех голосов' data-aid="125"><div class="dem-label">Положительно <span class="dem-label-percent-txt">84%</span></div><div class="dem-graph"><div class="dem-fill" data-width="84%"></div><div class="dem-votes-txt"> <span class="dem-votes-txt-votes">82 <span class="votxt">голоса</span></span> <span class="dem-votes-txt-percent">84%</span> </div><div class="dem-percent-txt">82 голоса - 84% из всех голосов</div></div></li><li class="" title=' 12 голосов - 12% из всех голосов' data-aid="126"><div class="dem-label">Отрицательно <span class="dem-label-percent-txt">12%</span></div><div class="dem-graph"><div class="dem-fill" data-width="12%"></div><div class="dem-votes-txt"> <span class="dem-votes-txt-votes">12 <span class="votxt">голосов</span></span> <span class="dem-votes-txt-percent">12%</span> </div><div class="dem-percent-txt">12 голосов - 12% из всех голосов</div></div></li><li class="" title=' 3 голоса - 3% из всех голосов' data-aid="128"><div class="dem-label">Затрудняюсь ответить <span class="dem-label-percent-txt">3%</span></div><div class="dem-graph"><div class="dem-fill" data-width="3%"></div><div class="dem-votes-txt"> <span class="dem-votes-txt-votes">3 <span class="votxt">голоса</span></span> <span class="dem-votes-txt-percent">3%</span> </div><div class="dem-percent-txt">3 голоса - 3% из всех голосов</div></div></li><li class="" title=' 1 голос - 1% из всех голосов' data-aid="127"><div class="dem-label">Я уже поучаствовал(а)/собираюсь поучаствовать <span class="dem-label-percent-txt">1%</span></div><div class="dem-graph"><div class="dem-fill" data-width="1%"></div><div class="dem-votes-txt"> <span class="dem-votes-txt-votes">1 <span class="votxt">голос</span></span> <span class="dem-votes-txt-percent">1%</span> </div><div class="dem-percent-txt">1 голос - 1% из всех голосов</div></div></li></ul><div class="dem-bottom"><div class="dem-poll-info"><div class="dem-total-votes">Всего проголосовало: 98</div> <div class="dem-date" title="Начало"> <span class="dem-begin-date">Февраль 26, 2021</span> </div><a class="dem-archive-link dem-link" href="https://ug.ru/democracy-archives/" rel="nofollow">Архив опросов</a></div> <div class="dem-notice dem-youarevote" style="display:none;"> <div class="dem-notice-close" onclick="jQuery(this).parent().fadeOut();">&times;</div> Вы или с вашего IP уже голосовали. </div> <span class="dem-revote-button-wrap"> <form action="#democracy-30" method="POST"> <input type="hidden" name="dem_act" value="delVoted"> <input type="hidden" name="dem_pid" value="30"> <input type="submit" value="Переголосовать" class="dem-revote-link dem-revote-button dem-button " data-dem-act="delVoted" data-confirm-text="Точно отменить голоса?"> </form> </span></div></div><div class="dem-screen-cache vote"><form method="POST" action="#democracy-30"><ul class="dem-vote"> <li data-aid="125"> <label class="dem__radio_label"> <input class="dem__radio" type="radio" value="125" name="answer_ids[]"><span class="dem__spot"></span> Положительно </label> </li> <li data-aid="126"> <label class="dem__radio_label"> <input class="dem__radio" type="radio" value="126" name="answer_ids[]"><span class="dem__spot"></span> Отрицательно </label> </li> <li data-aid="128"> <label class="dem__radio_label"> <input class="dem__radio" type="radio" value="128" name="answer_ids[]"><span class="dem__spot"></span> Затрудняюсь ответить </label> </li> <li data-aid="127"> <label class="dem__radio_label"> <input class="dem__radio" type="radio" value="127" name="answer_ids[]"><span class="dem__spot"></span> Я уже поучаствовал(а)/собираюсь поучаствовать </label> </li></ul><div class="dem-bottom"><input type="hidden" name="dem_act" value="vote"><input type="hidden" name="dem_pid" value="30"> <div class="dem-notice dem-youarevote" style="display:none;"> <div class="dem-notice-close" onclick="jQuery(this).parent().fadeOut();">&times;</div> Вы или с вашего IP уже голосовали. </div> <span class="dem-revote-button-wrap" style="display:none;"> <form action="#democracy-30" method="POST"> <input type="hidden" name="dem_act" value="delVoted"> <input type="hidden" name="dem_pid" value="30"> <input type="submit" value="Переголосовать" class="dem-revote-link dem-revote-button dem-button " data-dem-act="delVoted" data-confirm-text="Точно отменить голоса?"> </form> </span><div class="dem-vote-button"><input class="dem-button " type="submit" value="Голосовать" data-dem-act="vote"></div></div></form></div>
+			</div>
+			<!--/noindex--></div>	                <a href="/democracy-archives/" class="btn-archive">Архив опросов</a>
+	            </div>
+                    </div>
+    </div>
+</div>
+
+
+<!-- Юридическая консультация, Доска объявлений -->
+<div class="container">
+    <div class="row">
+        <div class="col-lg-8 mb-4 mb-lg-0">
+            <div class="block-title"><a href="/category/obrazovatelnoe-pravo/">Юридическая консультация</a></div>
+            <div class="lawyer">
+                <div class="row">
+                    <div class="col-md-4 left">
+                                                <img src="https://ug.ru/wp-content/uploads/2020/08/yuk.png" alt="">
+                                                <p><a href="https://ug.ru/author/neugodova/"><strong>Материалы рубрики <br> "Юрист отвечает"</strong></a></p>
+                        <p></p>
+                    </div>
+                    <div class="col-md-8 right">
+                        <p><strong>Перестали платить 5000 руб за классное руководство</strong></p>
+<p>Президент Российской Федерации В.В. Путин в своем Послании Федеральному Собранию от 15.01.2020 «Послание Президента Федеральному Собранию» сказал, что : «Ближе всего к ученикам &#8211; их классные руководители. Такая постоянная каждодневная работа, связанная с обучением, воспитанием детей, &#8211; это огромная ответственность, и она, конечно, требует особой подготовки наставников и их особой поддержки&#8230;</p>
+                                                    <a href="https://ug.ru/perestali-platit-5000-rub-za-klassnoe-rukovodstvo/" class="read">Читать далее</a>
+                                                <div class="btn-container">
+                                                        <a href="/category/obrazovatelnoe-pravo/" class="btn btn-outline-dark">Все
+                                    вопросы</a>
+                        </div>
+                    </div>
+                </div>
+                <div id="ask-form" class="mt-4">
+                    <div class="modal-window big">
+                        <div role="form" class="wpcf7" id="wpcf7-f252-o1" lang="ru-RU" dir="ltr">
+<div class="screen-reader-response"></div>
+<form action="/#wpcf7-f252-o1" method="post" class="wpcf7-form" novalidate="novalidate">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="252" />
+<input type="hidden" name="_wpcf7_version" value="5.1.4" />
+<input type="hidden" name="_wpcf7_locale" value="ru_RU" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f252-o1" />
+<input type="hidden" name="_wpcf7_container_post" value="0" />
+</div>
+<h4>Задайте свой вопрос юристу</h4>
+<p>Уже знакомая читателям «Учительской газеты» рубрика «Образовательное право» снова принимает вопросы. На самые актуальные и популярные из них даст ответ наш юрист Екатерина Неугодова.</p>
+<div class="form-group">
+    <span class="wpcf7-form-control-wrap textarea-866"><textarea name="textarea-866" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required form-control" aria-required="true" aria-invalid="false"></textarea></span>
+</div>
+<div class="row">
+<div class="col-md-6 d-flex align-items-center">
+        <input type="submit" value="Отправить" class="wpcf7-form-control wpcf7-submit btn btn-primary btn-block" />
+    </div>
+</div>
+<div class="wpcf7-response-output wpcf7-display-none"></div></form></div>                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-4">
+            
+<div class="block-title"><a href="/doska-obyavlenij/">Доска объявлений</a></div>
+<div class="board"
+        style="min-height: 0 !important; background-image: url(https://ug.ru/wp-content/themes/bb/assets/img/content/elka.svg);">
+            <a href="https://ug.ru/vserossijskij-konkurs-uspeshnaya-shkola-prodlil-priem-dokumentov-uchastvujte-i-pobezhdajte/" class="board-item">Всероссийский конкурс «Успешная школа» продлил прием документов – участвуйте и побеждайте</a>
+            <a href="https://ug.ru/zavershaetsya-priem-dokumentov-na-konkurs-navigatory-detstva/" class="board-item">Завершается прием документов на конкурс «Навигаторы детства»</a>
+            <a href="https://ug.ru/uspeshnaya-shkola-daet-vozmozhnost-vyigrat-grant-v-razmere-milliona-rublej/" class="board-item">"Успешная школа" дает возможность выиграть грант на миллион рублей</a>
+            <a href="https://ug.ru/v-rnf-nachalsya-priem-zayavok-na-konkursy-po-podderzhke-issledovanij-molodyh-uchenyh/" class="board-item">В РНФ начался прием заявок на конкурсы по поддержке исследований молодых ученых</a>
+        <a href="/doska-obyavlenij/" class="btn-all">Все объявления</a>
+</div>
+                    </div>
+    </div>
+</div>
+
+        <!-- footer -->
+        <div class="wrapper footer-wr">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xl-3 col-lg-4 mb-4 mb-lg-0">
+                                                                                                            <a href="/"><img src="https://ug.ru/wp-content/uploads/2019/04/logo-ug.svg" class="logo" alt=""></a>
+                                                                            <div class="btn-container">
+                            <div class="img"><img src="https://ug.ru/wp-content/themes/bb/assets/img/icons/subscribe.svg" alt="subscribe"></div>
+                            <a href="/bumazhnaya-versiya/" class="btn btn-dark">Оформить подписку</a>
+                        </div>
+                    </div>
+                    <div class="col-xl-9 col-lg-8 footer-menu-container">
+                        <div class="navigation"><span>НАВИГАЦИЯ</span></div>
+                        <div class="row footer-menu">
+                            <div class="col-lg-3">
+<div class="title">РУБРИКИ</div>
+<ul>
+<li><a href="/category/all-news/">Новости</a></li>
+<li><a href="/category/obrazovatelnoe-pravo/">Образовательное право</a></li>
+<li><a href="/category/intervyu/">Интервью</a></li>
+<li><a href="/category/problemy-i-resheniya/">Проблемы и решения</a></li>
+<li><a href="/category/uchitel-goda/">Учитель года</a></li>
+<li><a href="/category/peremena/">Перемена</a></li>
+<li><a href="/category/ostraya-tema/">Острая тема</a></li>
+<li><a href="/category/zarplata/">Зарплата</a></li>
+<li><a href="/category/politika-obrazovaniya/">Политика образования</a></li>
+<li><a href="/category/uchitelskaya-gazeta/dnevnik/sobytie-nedeli/">Событие недели</a></li>
+<li><a href="/category/stroki-iz-pisem/">Строки из писем</a></li>
+<li><a href="/category/uchitelskaya-gazeta/epiczentr/">Эпицентр</a></li>
+<li><a href="/category/chuzhaya-azbuka/">Чужая азбука</a></li>
+<li><a href="/category/obrazovatelnye-tehnologii/">Образовательные технологии</a></li>
+</ul>
+</div>
+<div class="col-lg-3">
+<div class="title">КОНКУРСЫ</div>
+<ul>
+<li><a href="/uspeshnaya-shkola/">Успешная школа</a></li>
+<li><a href="/obrazovatelnye-tehnologii/">Образовательные технологии</a></li>
+<li><a href="/ugr/">Учитель года России</a></li>
+</ul>
+<div class="title"><a href="/catmedia/vse-foto-i-video/">ФОТО И ВИДЕО</a></div>
+</div>
+<div class="col-lg-3">
+<div class="title">РЕЙТИНГИ И ИССЛЕДОВАНИЯ</div>
+<ul>
+<li><a href="/iccs/">ICCS</a></li>
+</ul>
+<div class="title">НАШИ ИЗДАНИЯ</div>
+<ul>
+<li><a href="/archive/uchitelskaya-gazeta/">Учительская газета</a></li>
+<li><a href="/archive/ug-moskva/">УГ – Москва</a></li>
+<li><a href="/archive/moj-profsoyuz/">Мой профсоюз</a></li>
+</ul>
+</div>
+<div class="col-lg-3">
+<div class="title">ПОДПИСКА</div>
+<ul>
+<li><a href="/bumazhnaya-versiya/">Бумажная версия</a></li>
+<li><a href="/onlajn-versiya/">Онлайн-версия</a></li>
+</ul>
+<div class="title">КОНТАКТЫ</div>
+<ul>
+<li><a href="/redakcziya/">Редакция</a></li>
+<li><a href="/mediakit/">Медиакит</a></li>
+<li><a href="/reklama/">Реклама</a></li>
+<li><a href="/partnery/">Партнеры</a></li>
+</ul>
+</div>
+                        </div>
+                    </div>
+                </div>
+                <hr>
+                <div class="row justify-content-end">	
+                    <div class="col">	
+                        <script type="text/javascript">
+<!--
+var _acic={dataProvider:10,allowCookieMatch:false};(function(){var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="//www.acint.net/aci.js";var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t)})()
+//-->
+</script> <a href="http://www.denar-prof.ru/" target="_blank">Денар реализует учебные стенды</a> .  <a href="https://www.yescenter.ru/" target="_blank">Курсы популярных иностранных языков в https://www.yescenter.ru для детей и взрослых.</a> .  Строим карьеру с <a href="https://www.domkadrov.ru" target="_blank">Дом Кадров</a> 	
+                    </div>	
+                </div>
+            </div>
+        </div>
+
+        <!-- copyright -->
+        <div class="wrapper copyright-wr">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-6 left mb-3 mb-md-0">
+                        <a href="http://old.ug.ru" target="_blank">Старая версия сайта</a>
+                        <div class="desc">
+                            Сетевое издание «Учительская газета» 12+<br />
+Зарегистрировано Роскомнадзором 6 июля 2012 года Эл No. ФС77-50440<br />
+Учредитель: АО «Издательский дом «Учительская газета»<br />
+Главный редактор: ЧУДИН Никита Викторович (nikvik87@mail.ru)<br />
+Адрес электронной почты редакции: ug@ug.ru<br />
+Номер телефона редакции: +7 (495) 628-82-53<br />
+Перепечатка материалов допускается только c письменного разрешения АО «Издательский дом «Учительская газета». Ссылка на www.ug.ru обязательна.<br />
+Key title: Ucitel’skaa^ gazeta (Online) || ISSN 1607-2162. Abbreviated key title: Ucit. gaz (Online)<br />
+© 1995 – 2021 «Учительская газета»                        </div>
+                        <div class="counters">
+                            <noindex><a href="http://www.yandex.ru/cy?base=0&amp;host=www.ug.ru" target="_blank"><img src="http://www.yandex.ru/cycounter?www.ug.ru" width="88" height="31" alt="Яндекс цитирования" border="0"></a></noindex>
+                            <!-- Rating Mail.ru logo -->
+                            <a href="https://top.mail.ru/jump?from=128740">
+                            <img src="https://top-fwz1.mail.ru/counter?id=128740;t=479;l=1" style="border:0;" height="31" width="88" alt="Top.Mail.Ru" /></a>
+                            <!-- //Rating Mail.ru logo -->
+                            <!-- Yandex.Metrika informer -->
+                            <a href="https://metrika.yandex.ru/stat/?id=18337726&amp;from=informer"
+                            target="_blank" rel="nofollow"><img src="https://metrika-informer.com/informer/18337726/2_1_FFFFFFFF_EFEFEFFF_0_pageviews"
+                            style="width:80px; height:31px; border:0;" alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры)" class="ym-advanced-informer" data-cid="18337726" data-lang="ru" /></a>
+                            <!-- /Yandex.Metrika informer -->
+                            <!-- Yandex.Metrika link -->
+                            <a target="_blank" class="yandex-metrika-link" href="https://metrika.yandex.ru/stat/traffic?metric=ym%3As%3Apageviews&sort=-ym%3As%3Apageviews&period=quarter&accuracy=1&id=18337726&stateHash=5f7c7e397a48310034ee2098">
+                                <img src="/wp-content/themes/bb/assets/img/link-ya-metrika.png" />
+                            </a>
+                            <!-- /Yandex.Metrika link -->
+                            <!-- <script type="text/javascript">
+                            document.write("<noindex><a href='http://www.liveinternet.ru/click' "+
+                            "target=_blank><img src='http://counter.yadro.ru/hit?t15.2;r"+
+                            escape(document.referrer)+((typeof(screen)=="undefined")?"":
+                            ";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+                            screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+                            ";h"+escape(document.title.substring(0,80))+";"+Math.random()+
+                            "' alt='' title='LiveInternet: показано число просмотров за 24"+
+                            " часа, посетителей за 24 часа и за сегодня' "+
+                            "border=0 width=88 height=31><\/a></noindex>")</script> -->
+                            <!--LiveInternet logo-->
+                            <!-- <a href="https://www.liveinternet.ru/click"
+                            target="_blank"><img src="https://counter.yadro.ru/logo?22.7"
+                            title="LiveInternet: показано число просмотров за 24 часа, посетителей за 24 часа и за сегодня"
+                            alt="" style="border:0" width="88" height="31"/></a> -->
+                            <!--/LiveInternet-->
+                            <!-- HotLog -->
+                            <div style="display:none">
+                                <span id="hotlog_counter"></span>
+                                <span id="hotlog_dyn"></span>
+                                <script type="text/javascript">
+                                var hot_s = document.createElement('script');
+                                hot_s.type = 'text/javascript'; hot_s.async = true;
+                                hot_s.src = 'http://js.hotlog.ru/dcounter/2592726.js';
+                                hot_d = document.getElementById('hotlog_dyn');
+                                hot_d.appendChild(hot_s);
+                                </script>
+                                <noscript>
+                                <a href="http://click.hotlog.ru/?2592726" target="_blank"><img
+                                src="http://hit5.hotlog.ru/cgi-bin/hotlog/count?s=2592726&amp;im=600" border="0"
+                                width="1" height="1" alt="HotLog"></a>
+                                </noscript>
+                            </div>
+                            <!-- /HotLog -->
+                        </div>
+                    </div>
+                    <div class="col-md-6 right">
+                        <div class="title">СЛЕДИТЕ ЗА НАМИ</div>
+                        <div class="socials">
+                                                            <a href="https://vk.com/uchitelskaya_gazeta" class="soc vk" target="_blank">
+                                    <img src="https://ug.ru/wp-content/themes/bb/assets/img/socials-footer/vk.svg" alt="vk" class="normal">
+                                    <img src="https://ug.ru/wp-content/themes/bb/assets/img/socials-footer/hover/vk.svg" alt="vk" class="hover">
+                                </a>
+                                                                                        <a href="https://www.facebook.com/www.ug.ru" class="soc fb" target="_blank">
+                                    <img src="https://ug.ru/wp-content/themes/bb/assets/img/socials-footer/fb.svg" alt="fb" class="normal">
+                                    <img src="https://ug.ru/wp-content/themes/bb/assets/img/socials-footer/hover/fb.svg" alt="fb" class="hover">
+                                </a>
+                                                                                        <a href="https://www.ok.ru/group/54589926211700" class="soc ok" target="_blank">
+                                    <img src="https://ug.ru/wp-content/themes/bb/assets/img/socials-footer/ok.svg" alt="ok" class="normal">
+                                    <img src="https://ug.ru/wp-content/themes/bb/assets/img/socials-footer/hover/ok.svg" alt="ok" class="hover">
+                                </a>
+                                                                                        <a href="https://www.instagram.com/uchitelskaya_gazeta/" class="soc in" target="_blank">
+                                    <img src="https://ug.ru/wp-content/themes/bb/assets/img/socials-footer/in.svg" alt="in" class="normal">
+                                    <img src="https://ug.ru/wp-content/themes/bb/assets/img/socials-footer/hover/in.svg" alt="in" class="hover">
+                                </a>
+                                                                                        <a href="https://www.youtube.com/channel/UCUhymLRULGwzqD6HwbpUJiA" class="soc yt" target="_blank">
+                                    <img src="https://ug.ru/wp-content/themes/bb/assets/img/socials-footer/yt.svg" alt="yt" class="normal">
+                                    <img src="https://ug.ru/wp-content/themes/bb/assets/img/socials-footer/hover/yt.svg" alt="yt" class="hover">
+                                </a>
+                                                                                        <a href="https://twitter.com/ug_tw" class="soc tw" target="_blank">
+                                    <img src="https://ug.ru/wp-content/themes/bb/assets/img/socials-footer/tw.svg" alt="tw" class="normal">
+                                    <img src="https://ug.ru/wp-content/themes/bb/assets/img/socials-footer/hover/tw.svg" alt="tw" class="hover">
+                                </a>
+                                                    </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        </div> <!-- end wrapper -->
+
+        <!-- scroll to top -->
+        <div class="scroll-to-top"></div>
+
+        
+<!--democracy-->
+<script type="text/javascript">function dem_ready(e){"use strict";var t,n=e(".democracy"),i=".dem-screen",o=".dem-add-answer-txt",a=e(".dem-loader").first(),s={};n.length&&(s.opts=n.first().data("opts"),s.ajaxurl=s.opts.ajax_url,s.answMaxHeight=s.opts.answs_max_height,s.speed=parseInt(s.opts.anim_speed),s.lineAnimSpeed=parseInt(s.opts.line_anim_speed),setTimeout(function(){var t=n.find(i).filter(":visible"),o=function(){t.each(function(){s.setHeight(e(this),1)})};t.demInitActions(1),e(window).on("resize.demsetheight",o),e(window).load(o),s.maxAnswLimit();var a=e(".dem-cache-screens");a.length>0&&a.demCacheInit()},10),e.fn.demInitActions=function(t){return this.each(function(){var n=e(this);n.find("[data-dem-act]").each(function(){var t=e(this);t.attr("href",""),t.click(function(e){e.preventDefault(),t.blur().demDoAction(t.attr("data-dem-act"))})});!!n.find("input[type=radio][data-dem-act=vote]").first().length&&n.find(".dem-vote-button").hide(),s.setAnswsMaxHeight(n),s.lineAnimSpeed&&n.find(".dem-fill").each(function(){var t=e(this);setTimeout(function(){t.animate({width:t.data("width")},s.lineAnimSpeed)},s.speed,"linear")}),s.setHeight(n,t),n.find("form").submit(function(t){t.preventDefault();e(this).find('input[name="dem_act"]').val()&&e(this).demDoAction(e(this).find('input[name="dem_act"]').val())})})},e.fn.demSetLoader=function(){var e=this;return a.length?e.closest(i).append(a.clone().css("display","table")):t=setTimeout(function(){s.demLoadingDots(e)},50),this},e.fn.demUnsetLoader=function(){return a.length?this.closest(i).find(".dem-loader").remove():clearTimeout(t),this},e.fn.demAddAnswer=function(){var t=this.first(),n=t.closest(i),a=n.find("[type=checkbox]").length>0,s=e('<input type="text" class="'+o.replace(/\./,"")+'" value="">');if(n.find(".dem-vote-button").show(),n.find("[type=radio]").each(function(){e(this).click(function(){t.fadeIn(300),e(o).remove()}),"radio"==e(this)[0].type&&(this.checked=!1)}),t.hide().parent("li").append(s),s.hide().fadeIn(300).focus(),a){var d=n.find(o);e('<span class="dem-add-answer-close">×</span>').insertBefore(d).css("line-height",d.outerHeight()+"px").click(function(){var t=e(this).parent("li");t.find("input").remove(),t.find("a").fadeIn(300),e(this).remove()})}return!1},e.fn.demCollectAnsw=function(){var t=this.closest("form"),n=t.find("[type=checkbox],[type=radio],[type=text]"),i=t.find(o).val(),a=[],s=n.filter("[type=checkbox]:checked");if(s.length>0)s.each(function(){a.push(e(this).val())});else{var d=n.filter("[type=radio]:checked");d.length&&a.push(d.val())}return i&&a.push(i),(a=a.join("~"))||""},e.fn.demDoAction=function(t){var n=this.first(),o=n.closest(".democracy"),a={dem_pid:o.data("opts").pid,dem_act:t,action:"dem_ajax"};return void 0===a.dem_pid?(console.log("Poll id is not defined!"),!1):"vote"!==t||(a.answer_ids=n.demCollectAnsw(),a.answer_ids)?!("delVoted"===t&&!confirm(n.data("confirm-text")))&&("newAnswer"===t?(n.demAddAnswer(),!1):(n.demSetLoader(),e.post(s.ajaxurl,a,function(t){n.demUnsetLoader(),n.closest(i).html(t).demInitActions(),setTimeout(function(){e("html:first,body:first").animate({scrollTop:o.offset().top-70},500)},200)}),!1)):(s.demShake(n),!1)},e.fn.demCacheShowNotice=function(e){var t=this.first(),n=t.find(".dem-youarevote").first();return"blockForVisitor"==e&&(t.find(".dem-revote-button").remove(),n=t.find(".dem-only-users").first()),t.prepend(n.show()),setTimeout(function(){n.slideUp("slow")},1e4),this},s.cacheSetAnswrs=function(t,n){var i=n.split(/,/);if(t.hasClass("voted")){var o=t.find(".dem-answers"),a=o.data("voted-class"),s=o.data("voted-txt");e.each(i,function(n,i){t.find('[data-aid="'+i+'"]').addClass(a).attr("title",function(){return s+e(this).attr("title")})}),t.find(".dem-vote-link").remove()}else{var d=t.find("[data-aid]"),r=t.find(".dem-voted-button");e.each(i,function(e,t){d.filter('[data-aid="'+t+'"]').find("input").prop("checked","checked")}),d.find("input").prop("disabled","disabled"),t.find(".dem-vote-button").remove(),r.length?r.show():(t.find('input[value="vote"]').remove(),t.find(".dem-revote-button-wrap").show())}},e.fn.demCacheInit=function(){return this.each(function(){var t=e(this),n=t.prev(".democracy");if(n.length||(n=t.closest(".democracy")),n.length){var o=n.find(i).first(),a=n.data("opts").pid,d=Cookies.get("demPoll_"+a),r="notVote"==d,c=!(void 0===d||r),f=t.find(i+"-cache.vote").html(),l=t.find(i+"-cache.voted").html();if(f){var h=c&&l;if(o.html((h?l:f)+"\x3c!--cache--\x3e").removeClass("vote voted").addClass(h?"voted":"vote"),c&&s.cacheSetAnswrs(o,d),o.demInitActions(1),!r&&!c&&1==t.data("opt_logs")){var u,m=function(){clearTimeout(u)},p=function(){u=setTimeout(function(){if(!n.hasClass("checkAnswDone")){n.addClass("checkAnswDone");var t=n.find(".dem-link").first();t.demSetLoader(),e.post(s.ajaxurl,{dem_pid:n.data("opts").pid,dem_act:"getVotedIds",action:"dem_ajax"},function(e){t.demUnsetLoader(),e&&(o.html(l),s.cacheSetAnswrs(o,e),o.demInitActions(),o.demCacheShowNotice(e))})}},700)};n.hover(p,m),n.click(p)}}}else console.log("Main dem div not found")})},s.detectRealHeight=function(e){var t=e.clone().css({height:"auto"}).insertBefore(e),n="border-box"==t.css("box-sizing")?parseInt(t.css("height")):t.height();return t.remove(),n},s.setHeight=function(t,n){var i=s.detectRealHeight(t);n?t.css({height:i}):t.css({opacity:0}).animate({height:i},s.speed,function(){e(this).animate({opacity:1},1.5*s.speed)})},s.setAnswsMaxHeight=function(t){if("-1"!==s.answMaxHeight&&"0"!==s.answMaxHeight&&s.answMaxHeight){var n=t.find(".dem-vote, .dem-answers").first(),i=parseInt(s.answMaxHeight);n.css({"max-height":"none","overflow-y":"visible"});if(("border-box"==n.css("box-sizing")?parseInt(n.css("height")):n.height())-i>100){n.css("position","relative");var o,a=e('<span class="dem__collapser"><span class="arr"></span></span>').appendTo(n),d=function(){a.addClass("expanded").removeClass("collapsed")},r=function(){a.addClass("collapsed").removeClass("expanded")};t.data("expanded")?d():(r(),n.height(i).css("overflow-y","hidden")),a.hover(function(){t.data("expanded")||(o=setTimeout(function(){a.trigger("click")},1e3))},function(){clearTimeout(o)}),a.click(function(){if(clearTimeout(o),t.data("expanded"))r(),t.data("expanded",!1),t.height("auto"),n.stop().css("overflow-y","hidden").animate({height:i},s.speed,function(){s.setHeight(t,!0)});else{d();var e=s.detectRealHeight(n);e+=7,t.data("expanded",!0),t.height("auto"),n.stop().animate({height:e},s.speed,function(){s.setHeight(t,!0),n.css("overflow-y","visible")})}})}}},s.maxAnswLimit=function(){n.on("change","[type=checkbox]",function(t){var n=e(this).closest(".democracy").data("opts").max_answs,o=e(this).closest(i).find("[type=checkbox]");o.filter(":checked").length>=n?o.filter(":not(:checked)").each(function(){e(this).prop("disabled","disabled").closest("li").addClass("dem-disabled")}):o.each(function(){e(this).removeProp("disabled").closest("li").removeClass("dem-disabled")})})},s.demShake=function(e){var t=e.css("position");for(t&&"static"!==t||e.css("position","relative"),t=1;2>=t;t++)e.animate({left:-10},50).animate({left:10},100).animate({left:0},50)},s.demLoadingDots=function(e){var n=e,i=n.is("input"),o=i?n.val():n.html();"..."===o.substring(o.length-3)?i?n[0].value=o.substring(0,o.length-3):n[0].innerHTML=o.substring(0,o.length-3):i?n[0].value+=".":n[0].innerHTML+=".",t=setTimeout(function(){s.demLoadingDots(n)},200)})}!function(e){var t;if("function"==typeof define&&define.amd&&(define(e),t=!0),"object"==typeof exports&&(module.exports=e(),t=!0),!t){var n=window.Cookies,i=window.Cookies=e();i.noConflict=function(){return window.Cookies=n,i}}}(function(){function e(){for(var e=0,t={};e<arguments.length;e++){var n=arguments[e];for(var i in n)t[i]=n[i]}return t}function t(e){return e.replace(/(%[0-9A-Z]{2})+/g,decodeURIComponent)}function n(i){function o(){}function a(t,n,a){if("undefined"!=typeof document){"number"==typeof(a=e({path:"/"},o.defaults,a)).expires&&(a.expires=new Date(1*new Date+864e5*a.expires)),a.expires=a.expires?a.expires.toUTCString():"";try{var s=JSON.stringify(n);/^[\{\[]/.test(s)&&(n=s)}catch(e){}n=i.write?i.write(n,t):encodeURIComponent(String(n)).replace(/%(23|24|26|2B|3A|3C|3E|3D|2F|3F|40|5B|5D|5E|60|7B|7D|7C)/g,decodeURIComponent),t=encodeURIComponent(String(t)).replace(/%(23|24|26|2B|5E|60|7C)/g,decodeURIComponent).replace(/[\(\)]/g,escape);var d="";for(var r in a)a[r]&&(d+="; "+r,!0!==a[r]&&(d+="="+a[r].split(";")[0]));return document.cookie=t+"="+n+d}}function s(e,n){if("undefined"!=typeof document){for(var o={},a=document.cookie?document.cookie.split("; "):[],s=0;s<a.length;s++){var d=a[s].split("="),r=d.slice(1).join("=");n||'"'!==r.charAt(0)||(r=r.slice(1,-1));try{var c=t(d[0]);if(r=(i.read||i)(r,c)||t(r),n)try{r=JSON.parse(r)}catch(e){}if(o[c]=r,e===c)break}catch(e){}}return e?o[e]:o}}return o.set=a,o.get=function(e){return s(e,!1)},o.getJSON=function(e){return s(e,!0)},o.remove=function(t,n){a(t,"",e(n,{expires:-1}))},o.defaults={},o.withConverter=n,o}return n(function(){})});var demjquerywait=setInterval(function(){"undefined"!=typeof jQuery&&(clearInterval(demjquerywait),jQuery(document).ready(dem_ready))},50);</script>
+
+<div id="um_upload_single" style="display:none"></div>
+<div id="um_view_photo" style="display:none">
+
+	<a href="javascript:void(0);" data-action="um_remove_modal" class="um-modal-close"><i class="um-faicon-times"></i></a>
+
+	<div class="um-modal-body photo">
+		<div class="um-modal-photo"></div>
+	</div>
+
+</div>	<script type="text/javascript">
+		var c = document.body.className;
+		c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+		document.body.className = c;
+	</script>
+	<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/ug.ru\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://ug.ru/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.4'></script>
+<script type='text/javascript' src='https://ug.ru/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"\u041f\u0440\u043e\u0441\u043c\u043e\u0442\u0440 \u043a\u043e\u0440\u0437\u0438\u043d\u044b","cart_url":"https:\/\/ug.ru\/cart\/","is_cart":"","cart_redirect_after_add":"yes"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://ug.ru/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=4.0.0'></script>
+<script type='text/javascript' src='https://ug.ru/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://ug.ru/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=4.0.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_61168f33570ae2b2b99b68b75bd9f34b","fragment_name":"wc_fragments_61168f33570ae2b2b99b68b75bd9f34b","request_timeout":"5000"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://ug.ru/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=4.0.0'></script>
+<script type='text/javascript' src='https://ug.ru/wp-content/themes/bb/assets/js/min/jquery.fancybox-min.js'></script>
+<script type='text/javascript' src='https://ug.ru/wp-content/themes/bb/assets/js/min/sticky-kit-min.js'></script>
+<script type='text/javascript' src='https://ug.ru/wp-content/themes/bb/assets/js/min/slick-min.js'></script>
+<script type='text/javascript' src='https://ug.ru/wp-content/themes/bb/assets/js/min/script-min.js'></script>
+<script type='text/javascript' src='https://ug.ru/wp-content/themes/bb/assets/js/min/loadmore-min.js'></script>
+<script type='text/javascript' src='https://ug.ru/wp-content/themes/bb/assets/js/min/comments-loadmore-min.js'></script>
+<script type='text/javascript' src='https://ug.ru/wp-content/plugins/ultimate-member/assets/js/select2/select2.full.min.js?ver=2.1.6'></script>
+<script type='text/javascript' src='https://ug.ru/wp-includes/js/underscore.min.js?ver=1.8.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpUtilSettings = {"ajax":{"url":"\/wp-admin\/admin-ajax.php"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://ug.ru/wp-includes/js/wp-util.min.js?ver=5.2.7'></script>
+<script type='text/javascript' src='https://ug.ru/wp-content/plugins/ultimate-member/assets/js/um-crop.min.js?ver=2.1.6'></script>
+<script type='text/javascript' src='https://ug.ru/wp-content/plugins/ultimate-member/assets/js/um-modal.min.js?ver=2.1.6'></script>
+<script type='text/javascript' src='https://ug.ru/wp-content/plugins/ultimate-member/assets/js/um-jquery-form.min.js?ver=2.1.6'></script>
+<script type='text/javascript' src='https://ug.ru/wp-content/plugins/ultimate-member/assets/js/um-fileupload.min.js?ver=2.1.6'></script>
+<script type='text/javascript' src='https://ug.ru/wp-content/plugins/ultimate-member/assets/js/pickadate/picker.js?ver=2.1.6'></script>
+<script type='text/javascript' src='https://ug.ru/wp-content/plugins/ultimate-member/assets/js/pickadate/picker.date.js?ver=2.1.6'></script>
+<script type='text/javascript' src='https://ug.ru/wp-content/plugins/ultimate-member/assets/js/pickadate/picker.time.js?ver=2.1.6'></script>
+<script type='text/javascript' src='https://ug.ru/wp-content/plugins/ultimate-member/assets/js/pickadate/legacy.js?ver=2.1.6'></script>
+<script type='text/javascript' src='https://ug.ru/wp-content/plugins/ultimate-member/assets/js/pickadate/translations/ru_RU.js?ver=2.1.6'></script>
+<script type='text/javascript' src='https://ug.ru/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=7.0.0'></script>
+<script type='text/javascript'>
+( 'fetch' in window ) || document.write( '<script src="https://ug.ru/wp-includes/js/dist/vendor/wp-polyfill-fetch.min.js?ver=3.0.0"></scr' + 'ipt>' );( document.contains ) || document.write( '<script src="https://ug.ru/wp-includes/js/dist/vendor/wp-polyfill-node-contains.min.js?ver=3.26.0-0"></scr' + 'ipt>' );( window.FormData && window.FormData.prototype.keys ) || document.write( '<script src="https://ug.ru/wp-includes/js/dist/vendor/wp-polyfill-formdata.min.js?ver=3.0.12"></scr' + 'ipt>' );( Element.prototype.matches && Element.prototype.closest ) || document.write( '<script src="https://ug.ru/wp-includes/js/dist/vendor/wp-polyfill-element-closest.min.js?ver=2.0.2"></scr' + 'ipt>' );
+</script>
+<script type='text/javascript' src='https://ug.ru/wp-includes/js/dist/i18n.min.js?ver=3.3.0'></script>
+<script type='text/javascript' src='https://ug.ru/wp-content/plugins/ultimate-member/assets/js/um-raty.min.js?ver=2.1.6'></script>
+<script type='text/javascript' src='https://ug.ru/wp-content/plugins/ultimate-member/assets/js/um-tipsy.min.js?ver=2.1.6'></script>
+<script type='text/javascript' src='https://ug.ru/wp-includes/js/imagesloaded.min.js?ver=3.2.0'></script>
+<script type='text/javascript' src='https://ug.ru/wp-includes/js/masonry.min.js?ver=3.3.2'></script>
+<script type='text/javascript' src='https://ug.ru/wp-includes/js/jquery/jquery.masonry.min.js?ver=3.1.2b'></script>
+<script type='text/javascript' src='https://ug.ru/wp-content/plugins/ultimate-member/assets/js/simplebar.min.js?ver=2.1.6'></script>
+<script type='text/javascript' src='https://ug.ru/wp-content/plugins/ultimate-member/assets/js/um-functions.min.js?ver=2.1.6'></script>
+<script type='text/javascript' src='https://ug.ru/wp-content/plugins/ultimate-member/assets/js/um-responsive.min.js?ver=2.1.6'></script>
+<script type='text/javascript' src='https://ug.ru/wp-includes/js/dist/hooks.min.js?ver=2.2.0'></script>
+<script type='text/javascript' src='https://ug.ru/wp-content/plugins/ultimate-member/assets/js/um-conditional.min.js?ver=2.1.6'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var um_scripts = {"nonce":"ebaeaf270f"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://ug.ru/wp-content/plugins/ultimate-member/assets/js/um-scripts.min.js?ver=2.1.6'></script>
+<script type='text/javascript' src='https://ug.ru/wp-content/plugins/ultimate-member/assets/js/um-profile.min.js?ver=2.1.6'></script>
+<script type='text/javascript' src='https://ug.ru/wp-content/plugins/ultimate-member/assets/js/um-account.min.js?ver=2.1.6'></script>
+<script type='text/javascript' src='https://cdn.onesignal.com/sdks/OneSignalSDK.js?ver=5.2.7' async='async'></script>
+		<script type="text/javascript">
+			jQuery( window ).on( 'load', function() {
+				jQuery("input[name='um_request']").val('');
+			});
+		</script>
+	        <!-- created by ipmrlx@icloud.com -->
+
+        </body>
+
+        </html>

@@ -1,0 +1,1093 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="format-detection" content="telephone=no">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="Беременность, роды, роддом, календарь прививок, детский сад, Нижний Новгород, материнский капитал, ОМС, пособие по беременности, декретный отпуск, декретные, школы, лагеря" />
+<meta name="description" content="ННМама.ру объединила 10-летний опыт мам в отзывах о роддомах, детских садах и школах, календарях беременности, прививок, развития детей. Форум для мам ждет вас – общаемся с удовольствием и получаем призы!" />
+<link href="/bitrix/cache/css/ru/nnmama/page_cf88ac57f6b967df00a2aadb24e98a91/page_cf88ac57f6b967df00a2aadb24e98a91_c1edcb6c01dbf247f1c6c224af2c77c7.css?1536830615564" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/cache/css/ru/nnmama/kernel_main/kernel_main.css?153555124937586" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/cache/css/ru/nnmama/template_50240bd8b286107740d7219ab8c723da/template_50240bd8b286107740d7219ab8c723da_930460b4cd60defce409b70db7b6c9d4.css?1567069251171774" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<script type="text/javascript">if(!window.BX)window.BX={message:function(mess){if(typeof mess=='object') for(var i in mess) BX.message[i]=mess[i]; return true;}};</script>
+<script type="text/javascript">(window.BX||top.BX).message({'JS_CORE_LOADING':'Загрузка...','JS_CORE_NO_DATA':'- Нет данных -','JS_CORE_WINDOW_CLOSE':'Закрыть','JS_CORE_WINDOW_EXPAND':'Развернуть','JS_CORE_WINDOW_NARROW':'Свернуть в окно','JS_CORE_WINDOW_SAVE':'Сохранить','JS_CORE_WINDOW_CANCEL':'Отменить','JS_CORE_H':'ч','JS_CORE_M':'м','JS_CORE_S':'с','JSADM_AI_HIDE_EXTRA':'Скрыть лишние','JSADM_AI_ALL_NOTIF':'Показать все','JSADM_AUTH_REQ':'Требуется авторизация!','JS_CORE_WINDOW_AUTH':'Войти','JS_CORE_IMAGE_FULL':'Полный размер'});</script>
+<script type="text/javascript">(window.BX||top.BX).message({'LANGUAGE_ID':'ru','FORMAT_DATE':'DD.MM.YYYY','FORMAT_DATETIME':'DD.MM.YYYY HH:MI:SS','COOKIE_PREFIX':'BITRIX_SM','SERVER_TZ_OFFSET':'10800','SITE_ID':'ru','USER_ID':'','SERVER_TIME':'1614627953','USER_TZ_OFFSET':'0','USER_TZ_AUTO':'Y','bitrix_sessid':'6994010553e1032685e981acc0b64b22'});</script>
+
+
+<script type="text/javascript" src="/bitrix/cache/js/ru/nnmama/kernel_main/kernel_main.js?1560678630387834"></script>
+<script type="text/javascript">BX.setCSSList(['/bitrix/components/bitrix/voting.form/templates/main_page/style.css','/bitrix/js/main/core/css/core.css','/bitrix/js/main/core/css/core_popup.css','/bitrix/js/main/core/css/core_date.css','/local/templates/nnmama/markup/build/styles/main.css','/local/templates/nnmama/styles.css']); </script>
+<script type="text/javascript">BX.setJSList(['/bitrix/js/main/core/core.js','/bitrix/js/main/core/core_ajax.js','/bitrix/js/main/session.js','/bitrix/js/main/utils.js','/bitrix/js/main/core/core_fx.js','/bitrix/js/main/json/json2.min.js','/bitrix/js/main/core/core_ls.js','/bitrix/js/main/core/core_popup.js','/bitrix/js/main/core/core_autosave.js','/bitrix/js/main/core/core_window.js','/bitrix/js/main/core/core_date.js','/bitrix/js/main/dd.js']); </script>
+
+<script type="text/javascript">
+bxSession.Expand(1440, '6994010553e1032685e981acc0b64b22', false, '6a99c5f1a28539265c7174019e6e9730');
+</script>
+
+<script type="text/javascript" src="/bitrix/cache/js/ru/nnmama/template_1b6faf9578362ddeb8d5f2ebe7595466/template_1b6faf9578362ddeb8d5f2ebe7595466_8487c65dfa67b58dc6574504b1c1f58f.js?1556281650333402"></script>
+        <script src='https://www.google.com/recaptcha/api.js'></script>
+        <script src="https://api-maps.yandex.ru/2.1/?lang=ru_RU&load=Geolink" type="text/javascript"></script>
+        
+
+        
+
+        <title>ННМама – мамам о беременности, родах и воспитании детей.</title>
+
+                                
+        <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+
+    </head>
+
+
+    <body class="drawer drawer--left">
+        <div class="head-counters" style="display:none">
+           <!-- Yandex.Metrika counter --> <script type="text/javascript" > (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)}; m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)}) (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym"); ym(29672285, "init", { clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true, trackHash:true, ecommerce:"dataLayer" }); </script> <noscript><div><img src="https://mc.yandex.ru/watch/29672285" style="position:absolute; left:-9999px;" alt="" /></div></noscript> <!-- /Yandex.Metrika counter -->
+
+            <!--LiveInternet counter-->
+            <script type="text/javascript">
+                new Image().src = "//counter.yadro.ru/hit?r"+
+                    escape(document.referrer)+((typeof(screen)=="undefined")?"":
+                    ";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+                        screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+                    ";h"+escape(document.title.substring(0,80))+
+                    ";"+Math.random();</script>
+            <!--/LiveInternet-->
+
+            <!--Begin Counter.NN.RU v2.0 code-->
+            <div style="position:absolute; width:1px; height:1px; z-index:1; left: -2px; top: -2px; visibility: hidden; overflow: hidden;">
+            <script type="text/javascript">
+            document.write("<img src=\"//counter.nn.ru/cgi-bin/counter.cgi?14563"+",,"+top.document.referrer+"\" width=\"1\" height=\"1\">");
+            </script>
+            <noscript>
+            <img src="//counter.nn.ru/cgi-bin/counter.cgi?14563" width="1" height="1">
+            </noscript>
+            </div>
+            <!--End Counter.NN.RU code-->
+            
+            <script type="text/javascript">
+                var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+                document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+            </script>
+        </div>
+        <div class="big-banner">
+
+            <a href="/bitrix/rk.php?id=1204&amp;event1=banner&amp;event2=click&amp;event3=274+%2F+%5B1204%5D+%5Bban_1%5D+%D0%A2%D0%9E%D0%9F+%D1%81%D0%B0%D0%B9%D1%82.+%D0%A1%D0%9F&amp;goto=https%3A%2F%2Fnn-sp.ru%2F&amp;af=a8f4d5380b33a1882c3f703115a62d42" target="_blank" ><img alt=""  title="" src="/upload/rk/857/sp.jpg" width="980" height="120" border="0" /></a>
+        </div>
+        <header role="banner" class="header">
+            <div class="header__container">
+                <a class="logo" href="/"></a>
+                <div class="social-networks">
+                    <a class="social-network instagram" href="https://www.instagram.com/nnmama.ru/" target="_blank" rel="nofollow"></a>
+                    <a class="social-network vk" href="https://vk.com/nnmama" target="_blank" rel="nofollow"></a>
+                    <a class="social-network ok" href="https://ok.ru/nnmama.ru" target="_blank" rel="nofollow"></a>
+                    <a class="social-network zy" href="https://zen.yandex.ru/id/5b83e88c08556800aa65f924" target="_blank" rel="nofollow"></a>
+                </div>
+            </div>
+            <div id="mainMenu" class="header__menu">
+    <div class="menu-wrap">
+        <div class="drawer-toggle hamburger">
+            <div class="hamburger__line"></div>
+            <div class="hamburger__line"></div>
+            <div class="hamburger__line"></div>
+        </div>
+        <a class="logo logo_mobile" href="/"></a>
+        <div class="menu">
+            <div class="menu__item menu_catalog">
+    <a class="menu__item-name" href="/guide/">
+        каталог
+        <span class="menu__item-icon"></span>
+    </a>
+    <div class="menu__item-container">
+        <div class="menu__item-content">
+            <div class="menu__item-column">
+                <div class="menu__item-title">
+                    Крупнейший справочник организаций для детей и&nbsp;родителей в&nbsp;<strong>Н.&nbsp;Новгороде</strong>
+                </div>
+            </div>
+                            <div class="menu__item-column medicine">
+                    <div class="menu__item-subtitle">Медицина</div>
+                                            <a class="menu__item-link" href="/guide/medicine/zhenconsul/">Женские консультации</a>
+                                            <a class="menu__item-link" href="/guide/medicine/roddom/">Роддома</a>
+                                            <a class="menu__item-link" href="/guide/medicine/detpolicliniks/">Детские поликлиники</a>
+                                            <a class="menu__item-link" href="/guide/medicine/zhenmedcenters/">Медицинские клиники для взрослых</a>
+                                            <a class="menu__item-link" href="/guide/medicine/kidmedcenters/">Детские клиники</a>
+                                        <a class="menu__item-categories" href="/guide/medicine/">все категории</a>
+                </div>    
+                            <div class="menu__item-column education">
+                    <div class="menu__item-subtitle">Образование</div>
+                                            <a class="menu__item-link" href="/guide/education/sady/">Детские сады</a>
+                                            <a class="menu__item-link" href="/guide/education/privatesady/">Детские сады частные</a>
+                                            <a class="menu__item-link" href="/guide/education/centers/">Детские развивающие центры</a>
+                                            <a class="menu__item-link" href="/guide/education/sport/">Секции и спортивные школы</a>
+                                            <a class="menu__item-link" href="/guide/education/kruzhki/">Кружки</a>
+                                        <a class="menu__item-categories" href="/guide/education/">все категории</a>
+                </div>    
+                            <div class="menu__item-column leisure">
+                    <div class="menu__item-subtitle">Досуг</div>
+                                            <a class="menu__item-link" href="/guide/leisure/vypusknoy-v-nachalnoy-shkole/">Где отметить выпускной? (детский сад, 4 класс, начальная школа)</a>
+                                            <a class="menu__item-link" href="/guide/leisure/gde_otmetit_detsky_den_rozhdenya/">Детский день рождения. Где отметить?</a>
+                                            <a class="menu__item-link" href="/guide/leisure/orgholidays/">Аниматоры</a>
+                                            <a class="menu__item-link" href="/guide/leisure/kafe/">Семейные кафе и реcтораны</a>
+                                            <a class="menu__item-link" href="/guide/leisure/r_tcentry/">Детские развлекательные центры</a>
+                                        <a class="menu__item-categories" href="/guide/leisure/">все категории</a>
+                </div>    
+                    </div>
+        <div class="menu__item-footer">
+            <a class="more-button articles" href="/guide/">
+                <span class="more-button__caption">все организации</span>
+            </a>
+        </div>
+    </div>
+</div>                <div class="menu__item">
+                    <a class="menu__item-name" href="/content/">
+                        Статьи                                                    <span class="menu__item-icon"></span>
+                                            </a>      
+                                            <div class="menu-dropdown">                
+                                                    <a class="menu-dropdown__link" href="/content/berem/">Беременность</a>
+                                                    <a class="menu-dropdown__link" href="/content/rodi/">Роды</a>
+                                                    <a class="menu-dropdown__link" href="/content/malysh-do-goda/">Малыш до года</a>
+                                                    <a class="menu-dropdown__link" href="/content/health">Здоровье</a>
+                                                    <a class="menu-dropdown__link" href="/content/ucheba/">Учеба</a>
+                                                    <a class="menu-dropdown__link" href="/content/ucheba/informacya-dlya-roditeley/raspisanie-kanikul-na-2020-2021-god">Каникулы 2020-2021</a>
+                                                    <a class="menu-dropdown__link" href="/content/evolution/">Развитие</a>
+                                                    <a class="menu-dropdown__link" href="/content/zakoni/">Законы и пособия</a>
+                                                    <a class="menu-dropdown__link" href="/content/family/cook/">Кулинария</a>
+                                                </div>
+                                        </div>  
+                            <div class="menu__item">
+                    <a class="menu__item-name" href="/afisha/">
+                        Афиша                                            </a>      
+                                    </div>  
+                            <div class="menu__item">
+                    <a class="menu__item-name" href="/news/">
+                        Новости                                            </a>      
+                                    </div>  
+                            <div class="menu__item">
+                    <a class="menu__item-name" href="/forum/">
+                        Форум                                            </a>      
+                                    </div>  
+                            <div class="menu__item">
+                    <a class="menu__item-name" href="https://nnmama.ru/afisha/126677/">
+                        Масленица                                            </a>      
+                                    </div>  
+                            <div class="menu__item">
+                    <a class="menu__item-name" href="https://nnmama.ru/afisha/126709/">
+                        Весенние каникулы                                            </a>      
+                                    </div>  
+                            <div class="menu__item">
+                    <a class="menu__item-name" href="https://nn-sp.ru/">
+                        Совместные покупки                                            </a>      
+                                    </div>  
+                    </div>
+        <div class="header__wrap ">
+            <a class="header__search">поиск</a>
+                            <a class="login-button">вход</a>
+                    </div>
+    </div>
+</div>        </header>
+        <nav class="drawer-nav" role="navigation">
+    <div class="drawer-menu">
+        <div class="drawer-toggle close-menu"></div>
+        <a class="logo" href="/"></a>
+        <div class="drawer-menu__items">
+            <div class="main-menu">
+                <div class="menu__item">
+                    <a class="menu__item-name" href="/guide/">Каталог</a>
+                </div>
+                                    <div class="menu__item">
+                        <a class="menu__item-name" href="/content/">Статьи</a>
+                    </div>
+                                    <div class="menu__item">
+                        <a class="menu__item-name" href="/afisha/">Афиша</a>
+                    </div>
+                                    <div class="menu__item">
+                        <a class="menu__item-name" href="/news/">Новости</a>
+                    </div>
+                                    <div class="menu__item">
+                        <a class="menu__item-name" href="/forum/">Форум</a>
+                    </div>
+                                    <div class="menu__item">
+                        <a class="menu__item-name" href="https://nnmama.ru/afisha/126677/">Масленица</a>
+                    </div>
+                                    <div class="menu__item">
+                        <a class="menu__item-name" href="https://nnmama.ru/afisha/126709/">Весенние каникулы</a>
+                    </div>
+                                    <div class="menu__item">
+                        <a class="menu__item-name" href="https://nn-sp.ru/">Совместные покупки</a>
+                    </div>
+                            </div>
+                            <div class="drawer-menu__title">Сферы интересов</div>
+                                    <div class="drawer-menu__item category-1">
+                        <a class="item-name " href="/?AGE_CATEGORY=120567">Беременность</a>
+                        <div class="category-bg"></div>
+                    </div>
+                                    <div class="drawer-menu__item category-2">
+                        <a class="item-name " href="/?AGE_CATEGORY=120561">Дети до года</a>
+                        <div class="category-bg"></div>
+                    </div>
+                                    <div class="drawer-menu__item category-3">
+                        <a class="item-name " href="/?AGE_CATEGORY=120562">Дети 1-3 года</a>
+                        <div class="category-bg"></div>
+                    </div>
+                                    <div class="drawer-menu__item category-4">
+                        <a class="item-name " href="/?AGE_CATEGORY=120563">Дети 3-7 лет</a>
+                        <div class="category-bg"></div>
+                    </div>
+                                    <div class="drawer-menu__item category-5">
+                        <a class="item-name " href="/?AGE_CATEGORY=120564">Дети 7-12 лет</a>
+                        <div class="category-bg"></div>
+                    </div>
+                                    <div class="drawer-menu__item category-6">
+                        <a class="item-name " href="/?AGE_CATEGORY=120565">Дети 12-18 лет</a>
+                        <div class="category-bg"></div>
+                    </div>
+                                    <div class="drawer-menu__item category-7">
+                        <a class="item-name " href="/?AGE_CATEGORY=120566">Другое</a>
+                        <div class="category-bg"></div>
+                    </div>
+                
+                            <div class="drawer-menu__title">категории</div>
+                                    <div class="drawer-menu__item category-8">
+                        <a class="item-name" href="/guide/education/privatesady/">Частные садики</a>
+                        <div class="category-bg"></div>
+                    </div>
+                                    <div class="drawer-menu__item category-9">
+                        <a class="item-name" href="/content/ucheba/informacya-dlya-roditeley/raspisanie-kanikul-na-2020-2021-god">Каникулы</a>
+                        <div class="category-bg"></div>
+                    </div>
+                                    <div class="drawer-menu__item category-10">
+                        <a class="item-name" href="/content/berem/">Беременность</a>
+                        <div class="category-bg"></div>
+                    </div>
+                                    <div class="drawer-menu__item category-11">
+                        <a class="item-name" href="/content/rodi/">Роды</a>
+                        <div class="category-bg"></div>
+                    </div>
+                                    <div class="drawer-menu__item category-12">
+                        <a class="item-name" href="/content/malysh-do-goda/">Малыши до года</a>
+                        <div class="category-bg"></div>
+                    </div>
+                                    <div class="drawer-menu__item category-13">
+                        <a class="item-name" href="/content/evolution/">Дошколята</a>
+                        <div class="category-bg"></div>
+                    </div>
+                                    <div class="drawer-menu__item category-14">
+                        <a class="item-name" href="/content/ucheba/">Школьники</a>
+                        <div class="category-bg"></div>
+                    </div>
+                                    <div class="drawer-menu__item category-15">
+                        <a class="item-name" href="/content/zakoni/">Пособия и выплаты</a>
+                        <div class="category-bg"></div>
+                    </div>
+                                    <div class="drawer-menu__item category-16">
+                        <a class="item-name" href="https://nn-sp.ru/">Союз покупателей - совместные покупки</a>
+                        <div class="category-bg"></div>
+                    </div>
+                                    <div class="drawer-menu__item category-17">
+                        <a class="item-name" href="/news/nn/news_120585/">Помощь с регистрацией</a>
+                        <div class="category-bg"></div>
+                    </div>
+                                    <div class="drawer-menu__item category-18">
+                        <a class="item-name" href="/advertisment/">Рекламодателям</a>
+                        <div class="category-bg"></div>
+                    </div>
+                                    </div>
+    </div>
+</nav>        
+        <div id="admin-panel" style="display:none;"></div>
+        <main class="main home" role="main">
+            <div class="parallax-bg"></div>
+            <style>
+                @media (min-width: 1366px){
+                    div.page{
+                        background-color: #fbfbfb;
+                        margin: auto;
+                        max-width: 1280px;
+                        border-top: 0;
+                        box-shadow: 0 21px 28px 0 rgba(0,0,0,.13);
+                        position: relative;
+                        padding-bottom: 30px;
+                        padding-top: 30px;
+                    }
+                    body {
+                        padding-bottom: 165px;
+                    }
+
+                    footer.footer{
+                        background-color: #fbfbfb;
+                        box-shadow: 0 21px 28px 0 rgba(0,0,0,.13);
+                    }
+                }
+            </style>
+
+                <div class="page" style="">
+<section class="top-articles">
+                <div class="top-article">
+                                    <a class="top-article__img-wrap" style="background-image: url('/upload/iblock/a9d/cirk_burlesk_2021.png')" href="/content/family/otdihh/otdihhdeti/cirk-burlesk-2021"></a>
+                                
+                <a class="top-article__section" href="/content/family/otdihh/otdihhdeti/">Куда сходить с детьми в Нижнем Новгороде</a>
+                <div class="top-article__text">
+                    <a class="top-article__title" href="/content/family/otdihh/otdihhdeti/cirk-burlesk-2021">Нижегородский цирк открывается  обновленной программой  Гии Эрадзе «Бурлеск» </a>
+                    <div class="top-article__date">Статья  /  01.03.2021</div>
+                </div>
+            </div>
+                        <div class="top-article">
+                                    <a class="top-article__img-wrap" style="background-image: url('/upload/iblock/60b/tehicheskiy_muzey_audiogid.jpg')" href="/news/nn/news_126762/"></a>
+                                
+                <a class="top-article__section" href="/news/">Новости</a>
+                <div class="top-article__text">
+                    <a class="top-article__title" href="/news/nn/news_126762/">В Техническом музее готовят аудиогид для слепых и слабовидящих</a>
+                    <div class="top-article__date">Новости  /  01.03.2021</div>
+                </div>
+            </div>
+                        <div class="top-article">
+                                    <a class="top-article__img-wrap" style="background-image: url('/upload/iblock/db4/lyzhnyy_marafon_2021.png')" href="/afisha/126753/"></a>
+                                
+                <a class="top-article__section" href="/afisha/?TYPE=296">Бесплатное</a>
+                <div class="top-article__text">
+                    <a class="top-article__title" href="/afisha/126753/">Нижегородский лыжный марафон 800</a>
+                    <div class="top-article__date">Афиша  /  13.03</div>
+                </div>
+            </div>
+            </section>
+<div class="owl-carousel top-materials">
+                                <div class="top-article" style="background-image: url('/upload/iblock/a9d/cirk_burlesk_2021.png');">
+                            <a class="top-article__section" href="/content/family/otdihh/otdihhdeti/">Куда сходить с детьми в Нижнем Новгороде</a>
+                <div class="top-article__text">
+                    <a class="top-article__title" href="/content/family/otdihh/otdihhdeti/cirk-burlesk-2021">Нижегородский цирк открывается  обновленной программой  Гии Эрадзе «Бурлеск» </a>
+                    <div class="top-article__date">Статья  /  01.03.2021</div>
+                </div>
+            </div>
+                                        <div class="top-article" style="background-image: url('/upload/iblock/60b/tehicheskiy_muzey_audiogid.jpg');">
+                            <a class="top-article__section" href="/news/">Новости</a>
+                <div class="top-article__text">
+                    <a class="top-article__title" href="/news/nn/news_126762/">В Техническом музее готовят аудиогид для слепых и слабовидящих</a>
+                    <div class="top-article__date">Новости  /  01.03.2021</div>
+                </div>
+            </div>
+                                        <div class="top-article" style="background-image: url('/upload/iblock/db4/lyzhnyy_marafon_2021.png');">
+                            <a class="top-article__section" href="/afisha/?TYPE=296">Бесплатное</a>
+                <div class="top-article__text">
+                    <a class="top-article__title" href="/afisha/126753/">Нижегородский лыжный марафон 800</a>
+                    <div class="top-article__date">Афиша  /  13.03</div>
+                </div>
+            </div>
+            </div>
+
+<div class="main-banner">
+    <!-- Yandex.RTB R-A-357925-3 -->
+<div id="yandex_rtb_R-A-357925-3"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Context.AdvManager.render({
+                blockId: "R-A-357925-3",
+                renderTo: "yandex_rtb_R-A-357925-3",
+                async: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//an.yandex.ru/system/context.js";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(this, this.document, "yandexContextAsyncCallbacks");
+</script></div>
+<div class="global-wrapper">
+    <div class="content">
+        <div class="rubric articles">
+            
+<div class="rubric-name">Статьи</div>
+<div class="rubric-menu">
+            <a class="rubric-menu__item" href="/content/berem/">Беременность</a>    
+            <a class="rubric-menu__item" href="/content/rodi/">Роды</a>    
+            <a class="rubric-menu__item" href="/content/malysh-do-goda/">Малыш до года</a>    
+            <a class="rubric-menu__item" href="/content/health/">Здоровье</a>    
+            <a class="rubric-menu__item" href="/content/evolution/">Развитие</a>    
+    </div>
+
+    <div class="top-publication">
+                    <a class="top-publication__img-wrap" style="background-image:url('/upload/iblock/cf7/maslenytca_tyri.jpg');" href="/content/family/celebrat/maslenica/kuda-poehat-na-maslenitsu/"></a>
+                <div class="top-publication__info">
+            <div class="tag-wrap">
+                <a class="tag tag_family" href="/content/family/celebrat/maslenica/">Масленица</a>
+            </div>
+            <a class="top-publication__title" href="/content/family/celebrat/maslenica/kuda-poehat-na-maslenitsu/">Туры на Масленицу в 2021 году: куда поехать?</a>
+            <div class="statistics-publication">
+                <div class="statistics-publication__item views">150</div>
+                <div class="statistics-publication__item comments">0</div>
+            </div>
+            <div class="top-publication__desc">Где-то пьют вкусный чай, где-то кидаются блинами, жгут Масленицу, устраивают театрализированные представления. Суздаль, Калязин, Городец, Ростов, Семенов предлагают гостям удивительные варианты ...</div>
+        </div>
+    </div>
+    
+<div class="article-previews">
+            <div class="article-preview">
+                            <a class="article-preview__img-wrap" style="background-image:url('/upload/iblock/00c/rodi_otziv_elena_egorova.jpg');" href="/content/rodi/estestvennye-rody-otzivy/rodi-otziv-elena-egorova/"></a>
+                        <div class="article-preview__content">
+                <div class="tag-wrap">
+                    <a class="tag tag_parturition" href="/content/rodi/estestvennye-rody-otzivy/">Естественные роды. Отзывы</a>
+                </div>
+                <div class="statistics-publication">
+                    <div class="statistics-publication__item views">170</div>
+                    <div class="statistics-publication__item comments">0</div>
+                </div>
+                <div class="article-preview__title"><a href="/content/rodi/estestvennye-rody-otzivy/rodi-otziv-elena-egorova/">Отзыв о родах в роддоме №4: &quot;В первый раз рожать намного легче, чем во второй&quot;</a></div>
+                <div class="article-preview__text">Привет. Меня зовут Лена и это мои вторые роды. История о вторых родах.</div>
+            </div>
+        </div>
+                <div class="article-preview">
+                            <a class="article-preview__img-wrap" style="background-image:url('/upload/iblock/7ee/analiz_detskogo_risunka.jpg');" href="/content/vospitanie/Baby/analiz-detskogo-risunka/"></a>
+                        <div class="article-preview__content">
+                <div class="tag-wrap">
+                    <a class="tag tag_upbringing" href="/content/vospitanie/Baby/">Психология малышей</a>
+                </div>
+                <div class="statistics-publication">
+                    <div class="statistics-publication__item views">136</div>
+                    <div class="statistics-publication__item comments">0</div>
+                </div>
+                <div class="article-preview__title"><a href="/content/vospitanie/Baby/analiz-detskogo-risunka/">Анализ детского рисунка</a></div>
+                <div class="article-preview__text">Не дай Бог малыш начнет рисовать черными красками или изобразит на холсте какого-то монстра вместо папы.</div>
+            </div>
+        </div>
+        </div>
+
+<a class="more-button articles" href="/content/">
+    <span class="more-button__caption">больше статей</span>
+</a>
+
+        </div>
+        <div class="constriction-banner">
+            <!-- Yandex.RTB R-A-357925-4 -->
+<div id="yandex_rtb_R-A-357925-4"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Context.AdvManager.render({
+                blockId: "R-A-357925-4",
+                renderTo: "yandex_rtb_R-A-357925-4",
+                async: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//an.yandex.ru/system/context.js";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(this, this.document, "yandexContextAsyncCallbacks");
+</script>        </div>
+        <div class="rubric">
+            <div class="forum">
+                <div class="rubric-name">Форум</div>
+                <div class="rubric__subtitle">последние обновления</div>
+                <div class="forum__updates">
+                                                <a class="forum-item" href="/forum/viewtopic.php?f=35&t=58202&start=50000#p1921034" target="_blank" rel="nofollow">
+                                <div class="forum-item__img-wrap">
+                                    <img class="forum-item__img" src="" />
+                                </div>
+                                <div class="forum-item__content">
+                                    <div class="forum-item__title">EfiopKa, с Днем Рождения!</div>
+                                    <div class="forum-item__text"></div>
+                                </div>
+                            </a>
+                                                    <a class="forum-item" href="/forum/viewtopic.php?f=157&t=58056&start=50000#p1921033" target="_blank" rel="nofollow">
+                                <div class="forum-item__img-wrap">
+                                    <img class="forum-item__img" src="" />
+                                </div>
+                                <div class="forum-item__content">
+                                    <div class="forum-item__title">Соцсети, мессенджеры и звуки</div>
+                                    <div class="forum-item__text">Единственный случай, когда уместно отправить аудиосообщение в мессенджер, — это если собеседник первый начал так делать. Голосовые сообщения — дурной тон в деловой ...</div>
+                                </div>
+                            </a>
+                                                    <a class="forum-item" href="/forum/viewtopic.php?f=35&t=58201&start=50000#p1921032" target="_blank" rel="nofollow">
+                                <div class="forum-item__img-wrap">
+                                    <img class="forum-item__img" src="" />
+                                </div>
+                                <div class="forum-item__content">
+                                    <div class="forum-item__title">Jolianna, с Днем Рождения!!!</div>
+                                    <div class="forum-item__text">ПОЗДРАВЛЯЕМ!!!
+</div>
+                                </div>
+                            </a>
+                                                    <a class="forum-item" href="/forum/viewtopic.php?f=157&t=48229&start=50000#p1921030" target="_blank" rel="nofollow">
+                                <div class="forum-item__img-wrap">
+                                    <img class="forum-item__img" src="" />
+                                </div>
+                                <div class="forum-item__content">
+                                    <div class="forum-item__title">Усилитель интернета в деревне</div>
+                                    <div class="forum-item__text">Иметь хороший интернет — это всегда не только необходимо, но и временами просто необходимо.  Да мы без него вообще не представляем жизни и общения. Куда не кинься ...</div>
+                                </div>
+                            </a>
+                                                    <a class="forum-item" href="/forum/viewtopic.php?f=35&t=58200&start=50000#p1921028" target="_blank" rel="nofollow">
+                                <div class="forum-item__img-wrap">
+                                    <img class="forum-item__img" src="" />
+                                </div>
+                                <div class="forum-item__content">
+                                    <div class="forum-item__title">Виктория Комарова, С Днем Рождения!!!</div>
+                                    <div class="forum-item__text">ПОЗДРАВЛЯЕМ! 0-flower 
+</div>
+                                </div>
+                            </a>
+                                        </div>
+            </div><!--
+            --><div class="catalog">
+                <div class="rubric-name">Каталог и Афиша</div>
+                <div class="rubric__subtitle">последние обновления</div>
+                <div class="catalog__updates">
+                                                                                                            <div class="catalog-item added-organization">
+                                        <div class="catalog-item__text">
+                                            Добавлено новое мероприятие <a href="/afisha/126757/">«Весенний КИНОСЕЗОН в библиотеке на пр.Кирова»</a>
+                                        </div>
+                                    </div>  
+                                                                                                                        <div class="catalog-item added-organization">
+                                        <div class="catalog-item__text">
+                                            Добавлена организация <a href="/guide/education/nnschoolsparticles/id126662/">«ВЗЛЕТ, Семейная школа»</a> в раздел <a href="/guide/education/nnschoolsparticles/">«Частные школы»</a>
+                                        </div>
+                                    </div>
+                                                                                                                        <div class="catalog-item">
+                                        <div class="catalog-item__text">
+                                            Добавлен отзыв <a href="/guide/leisure/gde_otmetit_detsky_den_rozhdenya/id123118/">«Космопарк, детский развлекательный центр»</a> в раздел <a href="/guide/leisure/gde_otmetit_detsky_den_rozhdenya/">«Детский день рождения. Где отметить?»</a>
+                                        </div>
+                                    </div>
+                                    
+                                                                                                                    <div class="catalog-item">
+                                        <div class="catalog-item__text">
+                                            Добавлен отзыв <a href="/guide/leisure/gde_otmetit_detsky_den_rozhdenya/id123118/">«Космопарк, детский развлекательный центр»</a> в раздел <a href="/guide/leisure/gde_otmetit_detsky_den_rozhdenya/">«Детский день рождения. Где отметить?»</a>
+                                        </div>
+                                    </div>
+                                    
+                                                                                                                    <div class="catalog-item">
+                                        <div class="catalog-item__text">
+                                            Добавлен отзыв <a href="/guide/instance/socialnn/id61824/">«Управление социальной защиты населения Сормовского района»</a> в раздел <a href="/guide/instance/socialnn/">«Управления социальной защиты населения»</a>
+                                        </div>
+                                    </div>
+                                    
+                                                                                        </div>
+            </div>
+        </div>
+        <div class="rubric news">
+            <div class="rubric-name">Новости</div>
+            <div class="rubric-menu">
+                                    <a class="rubric-menu__item" href="/news/nn/rub_2713/">Здоровье</a>
+                                        <a class="rubric-menu__item" href="/news/nn/rub_2714/">Образование</a>
+                                        <a class="rubric-menu__item" href="/news/nn/rub_2715/">Культура</a>
+                                        <a class="rubric-menu__item" href="/news/nn/rub_2716/">Законодательство</a>
+                                        <a class="rubric-menu__item" href="/news/nn/rub_3357/">Коронавирус COVID-19 в России</a>
+                                </div>
+                        <div class="top-publication">
+                                    <a class="top-publication__img-wrap" style="background-image:url('/upload/iblock/571/ediniy_bilet_na_match_i_proezd.jpg');" href="/news/nn/news_126761/"></a>
+                                <div class="top-publication__info">
+                    <div class="tag-wrap">
+                        <a class="tag tag_growth" href="/news/nn/rub_2718/">Спорт</a>
+                    </div>
+                    <a class="top-publication__title" href="/news/nn/news_126761/">В Нижнем ввели единый билет на проезд в пригородных поездах и на посещение спортивных мероприятий</a>
+                    <div class="statistics-publication">
+                        <div class="statistics-publication__item views">56</div>
+                        <div class="statistics-publication__item comments">0</div>
+                    </div>
+                </div>
+            </div>
+                        <div class="news-previews">
+                                    <div class="news-preview">
+                                                    <a class="news-preview__img-wrap" style="background-image:url('/upload/iblock/2cb/itogi_itogovogo_sochinenia_2021.jpg');" href="/news/nn/news_126760/"></a>
+                                                
+                        <a class="news-preview__rubric" href="/news/nn/rub_2714/">Образование</a>
+                        <a class="news-preview__title" href="/news/nn/news_126760/">99,3% девятиклассников получили «зачет» по итоговому собеседованию по русскому языку</a>
+                    </div>
+                                    <div class="news-preview">
+                                                    <a class="news-preview__img-wrap" style="background-image:url('/upload/iblock/662/pravila_nachislenia_posobiy_s_1_marta.jpg');" href="/news/nn/news_126758/"></a>
+                                                
+                        <a class="news-preview__rubric" href="/news/nn/rub_2716/">Законодательство</a>
+                        <a class="news-preview__title" href="/news/nn/news_126758/">Правила начисления пособий на детей изменились с 1 марта</a>
+                    </div>
+                                    <div class="news-preview">
+                                                    <a class="news-preview__img-wrap" style="background-image:url('/upload/iblock/018/fokot_2021.jpg');" href="/news/nn/news_126752/"></a>
+                                                
+                        <a class="news-preview__rubric" href="/news/nn/rub_2718/">Спорт</a>
+                        <a class="news-preview__title" href="/news/nn/news_126752/">Три новых открытых ФОКа построят в Нижнем Новгороде и области</a>
+                    </div>
+                                    <div class="news-preview">
+                                                    <a class="news-preview__img-wrap" style="background-image:url('/upload/iblock/bfd/poyavilos_pervoe_video_s_mesta_proisshestviya_na_meshcherskom_bulvare_2.jpg');" href="/news/nn/news_126751/"></a>
+                                                
+                        <a class="news-preview__rubric" href="/news/nn/rub_2720/">Новости Нижнего Новгорода</a>
+                        <a class="news-preview__title" href="/news/nn/news_126751/">Первые данные о пострадавших при взрыве газа на Мещерском бульваре</a>
+                    </div>
+                            </div>
+            <a class="more-button news" href="/news/">
+                <span class="more-button__caption">больше новостей</span>
+            </a>
+        </div>
+        <div class="rubric afisha">
+            <div class="constriction-banner">
+                <!-- Yandex.RTB R-A-357925-3 -->
+<div id="yandex_rtb_R-A-357925-3"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Context.AdvManager.render({
+                blockId: "R-A-357925-3",
+                renderTo: "yandex_rtb_R-A-357925-3",
+                async: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//an.yandex.ru/system/context.js";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(this, this.document, "yandexContextAsyncCallbacks");
+</script>            </div>
+            <div class="rubric-name">Афиша</div>
+            <div class="rubric-menu">
+                                    <a class="rubric-menu__item" href="/afisha/?TYPE=27">Спектакли</a>
+                                    <a class="rubric-menu__item" href="/afisha/?TYPE=28">Кинофильмы</a>
+                                    <a class="rubric-menu__item" href="/afisha/?TYPE=41">Мультфильмы</a>
+                                    <a class="rubric-menu__item" href="/afisha/?TYPE=42">Представления</a>
+                                    <a class="rubric-menu__item" href="/afisha/?TYPE=43">Концерты</a>
+                            </div>
+            <div class="rubric__date">
+                <span class="rubric__date today">Сегодня</span>, 01 марта, понедельник            </div>
+
+                        <div class="top-publication">
+                                    <a class="top-publication__img-wrap" style="background-image:url('/upload/iblock/4ea/cirk_burlesk_2020.jpg');" href="/afisha/121412/">
+                        <div class="age-limit">0+</div>
+                    </a>
+                                <div class="top-publication__info">
+                    <div class="tag-wrap">
+                        <a class="tag tag_growth" href="/afisha/?TYPE=42">Представления</a>
+                    </div>
+                    <a class="top-publication__title" href="/afisha/121412/">Цирк Нижнего Новгорода</a>
+                    <div class="statistics-publication">
+                        <!--div class="statistics-publication__item party">0</div-->
+                        <div class="statistics-publication__item views">54540</div>
+						<div class="statistics-publication__item comments">8</div>
+                    </div>
+                    <div class="top-publication__desc">Новое шоу Гии Эрадзе &quot;Бурлеск&quot; в цирке Нижнего Новгорода в марте 2021</div>
+                </div>
+            </div>
+                        <div class="article-previews">
+                                    <div class="article-preview">
+                                                    <a class="article-preview__img-wrap" style="background-image:url('/upload/iblock/9e7/mult_123.jpeg');" href="/afisha/126756/">
+                                <div class="age-limit">0+</div>
+                            </a>
+                                                <div class="article-preview__content">
+                            <div class="tag-wrap">
+                                <a class="tag tag_growth" href="/afisha/?TYPE=41">Мультфильмы</a>
+                            </div>
+                            <div class="statistics-publication">
+                                <!--div class="statistics-publication__item party">0</div-->
+                                <div class="statistics-publication__item views">316</div>
+								<div class="statistics-publication__item comments">0</div>
+                            </div>
+                            <div class="article-preview__title"><a href="/afisha/126756/">Мультфильм &quot;МУЛЬТ в кино. Выпуск № 123: Радости полные мульты&quot;</a></div>
+                            <div class="article-preview__text">Новые серии любимых мультфильмов</div>
+                        </div>
+                    </div>
+                                    <div class="article-preview">
+                                                    <a class="article-preview__img-wrap" style="background-image:url('/upload/iblock/dad/maslenitsa_2021.jpg');" href="/afisha/126677/">
+                                <div class="age-limit">0+</div>
+                            </a>
+                                                <div class="article-preview__content">
+                            <div class="tag-wrap">
+                                <a class="tag tag_growth" href="/afisha/?TYPE=42">Представления</a>
+                            </div>
+                            <div class="statistics-publication">
+                                <!--div class="statistics-publication__item party">0</div-->
+                                <div class="statistics-publication__item views">3941</div>
+								<div class="statistics-publication__item comments">0</div>
+                            </div>
+                            <div class="article-preview__title"><a href="/afisha/126677/">Масленица 2021 в Нижнем Новгороде. Мероприятия в Нижнем Новгороде</a></div>
+                            <div class="article-preview__text">Куда пойти на Масленицу в 2021 году в Нижнем Новгороде. Полная программа праздничных гуляний</div>
+                        </div>
+                    </div>
+                            </div>
+            <a class="more-button event" href="/afisha/">
+                <span class="more-button__caption">больше мероприятий</span>
+            </a>
+        </div>
+        <div class="rubric contest">
+            <div class="rubric-name">Конкурсы, акции, проекты</div>
+            <div class="news-previews">
+                                    <a class="news-preview " href="/konkursi/3360/">
+                                                    <div class="news-preview__img-wrap" style="background-image:url('/upload/iblock/c6e/rasskazhi_o_rodakh_i_poluchi_podarok.jpg');">
+                                <div class="activity-period">До 28.02</div>
+                            </div>
+                                                <div class="news-preview__title">Расскажи о родах и получи подарок</div>
+                    </a>
+                            </div>
+            <a class="more-button contest" href="/konkursi/">
+                <span class="more-button__caption">больше проектов</span>
+            </a>
+        </div>
+
+        <div class="constriction-banner">
+            <!-- Yandex.RTB R-A-357925-2 -->
+<div id="yandex_rtb_R-A-357925-2"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Context.AdvManager.render({
+                blockId: "R-A-357925-2",
+                renderTo: "yandex_rtb_R-A-357925-2",
+                async: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//an.yandex.ru/system/context.js";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(this, this.document, "yandexContextAsyncCallbacks");
+</script>        </div>
+                <div class="rubric help">
+            <div class="rubric-name">Поможем вместе</div>
+            <div class="help-together">
+                                <div class="help-together__all">
+                    <a href="/content/kidhelp/">все материалы ></a>
+                </div>
+            </div>
+        </div>
+        <div class="rubric voting">
+            
+
+
+<div class="rubric-name">Опрос</div>
+
+<form action="" method="post" class="voting-wrap">
+	<input type="hidden" name="vote" value="Y">
+	<input type="hidden" name="PUBLIC_VOTE_ID" value="326">
+	<input type="hidden" name="VOTE_ID" value="326">
+	<input type="hidden" name="sessid" id="sessid" value="6994010553e1032685e981acc0b64b22" />    
+    
+			<div class="voting__theme"><div style="text-align: justify;">Как вы отмечаете Масленицу?</div></div>
+							<div class="radio-button">
+				        <input class="radio__input checkbox__input" name="vote_checkbox_365[]" type="checkbox" id="variant_1" value="1836"/>
+				        <label class="radio__label checkbox__label" for="variant_1">Пеку блины</label>
+				    </div>
+									<div class="radio-button">
+				        <input class="radio__input checkbox__input" name="vote_checkbox_365[]" type="checkbox" id="variant_2" value="1837"/>
+				        <label class="radio__label checkbox__label" for="variant_2">Пойду в гости или приглашу гостей к себе</label>
+				    </div>
+									<div class="radio-button">
+				        <input class="radio__input checkbox__input" name="vote_checkbox_365[]" type="checkbox" id="variant_3" value="1838"/>
+				        <label class="radio__label checkbox__label" for="variant_3">Присоединяюсь к народным гуляньям</label>
+				    </div>
+									<div class="radio-button">
+				        <input class="radio__input checkbox__input" name="vote_checkbox_365[]" type="checkbox" id="variant_4" value="1839"/>
+				        <label class="radio__label checkbox__label" for="variant_4">Прошу прощения у близких</label>
+				    </div>
+									<div class="radio-button">
+				        <input class="radio__input checkbox__input" name="vote_checkbox_365[]" type="checkbox" id="variant_5" value="1840"/>
+				        <label class="radio__label checkbox__label" for="variant_5">Не отмечаю Масленицу</label>
+				    </div>
+				
+			<button class="vote-button" type="button" onclick="showRegister()">Проголосовать</button>
+	</form>
+
+        </div>
+    </div><!--
+    --><div class="sidebar">
+        
+<div class="sidebar__banner">
+     
+<div id="yandex_rtb_R-A-103997-3"></div>
+ 
+<script type="text/javascript">
+(function(w, d, n, s, t) {
+w[n] = w[n] || [];
+w[n].push(function() {
+Ya.Context.AdvManager.render({
+blockId: "R-A-103997-3",
+renderTo: "yandex_rtb_R-A-103997-3",
+async: true
+});
+});
+t = d.getElementsByTagName("script")[0];
+s = d.createElement("script");
+s.type = "text/javascript";
+s.src = "//an.yandex.ru/system/context.js";
+s.async = true;
+t.parentNode.insertBefore(s, t);
+})(this, this.document, "yandexContextAsyncCallbacks");
+</script>
+ </div>
+<div class="sidebar__banner">
+    
+<!-- Yandex.RTB R-A-357925-5 -->
+ 
+<div id="yandex_rtb_R-A-357925-5"></div>
+ 
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Context.AdvManager.render({
+                blockId: "R-A-357925-5",
+                renderTo: "yandex_rtb_R-A-357925-5",
+                async: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//an.yandex.ru/system/context.js";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(this, this.document, "yandexContextAsyncCallbacks");
+</script>
+</div>
+<div class="sidebar__title">Новости компаний</div>
+<div class="top-news">
+            <a class="top-news__item" href="/news/company/news_126688/">
+            <div class="top-news__img-wrap">
+                <img class="top-news__img" src="/upload/iblock/620/maslenitsa_2021.jpg" />
+            </div>
+            <div class="top-news__content">
+                <div class="top-news__title">Масленица 2021</div>
+                <div class="top-news__text">
+                    
+Куда пойти на Масленицу в 2021 году в Нижнем Новгороде
+                 </div>
+            </div>
+        </a>
+                <a class="top-news__item" href="/news/company/news_126581/">
+            <div class="top-news__img-wrap">
+                <img class="top-news__img" src="/upload/iblock/f0c/novie_pravila_podachi_zajavlenia_v_1_klass.jpg" />
+            </div>
+            <div class="top-news__content">
+                <div class="top-news__title">Прием в первый класс: новые правила подачи заявления с 2021 года</div>
+                <div class="top-news__text">
+                    
+Приказ Министерства просвещения РФ от 2 сентября 2020 г. № 458
+                 </div>
+            </div>
+        </a>
+            </div><div class="sidebar__banner">
+    <!-- Yandex.RTB R-A-357925-6 -->
+<div id="yandex_rtb_R-A-357925-6"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Context.AdvManager.render({
+                blockId: "R-A-357925-6",
+                renderTo: "yandex_rtb_R-A-357925-6",
+                async: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//an.yandex.ru/system/context.js";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(this, this.document, "yandexContextAsyncCallbacks");
+</script></div>
+
+<script type="text/javascript" src="//vk.com/js/api/openapi.js?144"></script>
+
+<!-- VK Widget -->
+<div id="vk_groups"></div>
+<script type="text/javascript">
+VK.Widgets.Group("vk_groups", {mode: 0, width: "auto", height: "400"}, 29834840);
+</script>
+<style>
+    #vk_groups,
+    #vk_groups iframe {
+        width: 100% !important;
+    }
+</style>
+
+
+
+    </div>
+</div>
+            </div>
+        </main>
+        <footer class="footer">
+    <div class="footer__content">
+        <a class="logo" href="/"></a>
+        <div class="footer__text">Портал для счастливых родителей</div>
+    </div>
+    <div class="footer__separator">
+        <div class="footer__menu">
+            <a class="footer__menu-item" href="/about_us/">О проекте</a>
+            <a class="footer__menu-item" href="/advertisment/">Рекламодателям</a>
+            <a class="footer__menu-item" href="/contacts/">Контакты</a>
+            <a class="footer__menu-item" href="/content/zakoni/zakonpr/user_agreement/">Пользовательское соглашение</a>
+            <div class="social-networks">
+                <a class="social-network instagram" href="https://www.instagram.com/nnmama.ru/" target="_blank" rel="nofollow"></a>
+                <a class="social-network vk" href="https://vk.com/nnmama" target="_blank" rel="nofollow"></a>
+                <a class="social-network ok" href="https://ok.ru/nnmama.ru" target="_blank" rel="nofollow"></a>
+                <a class="social-network zy" href="https://zen.yandex.ru/id/5b83e88c08556800aa65f924" target="_blank" rel="nofollow"></a>
+            </div>
+            <div class="counters">
+
+                <div style="display: inline-block;">
+                    <!--LiveInternet logo--><a href="//www.liveinternet.ru/click" target="_blank"><img src="//counter.yadro.ru/logo?14.10" title="LiveInternet: показано число просмотров за 24 часа, посетителей за 24 часа и за сегодня" alt="" border="0" width="88" height="31"/></a><!--/LiveInternet-->
+                </div>
+
+                <div style="display: inline-block;">
+                     <!-- Yandex.Metrika informer --> <a href="https://metrika.yandex.ru/stat/?id=29672285&amp;from=informer" target="_blank" rel="nofollow"><img src="https://informer.yandex.ru/informer/29672285/3_1_FFFFFFFF_EFEFEFFF_0_pageviews" style="width:88px; height:31px; border:0;" alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)" class="ym-advanced-informer" data-cid="29672285" data-lang="ru" /></a> <!-- /Yandex.Metrika informer --> 
+
+                </div>
+
+                <div style="display:none;">
+                    <!-- Top100 (Kraken) Widget -->
+                    <span id="top100_widget"></span>
+                    <!-- END Top100 (Kraken) Widget -->
+
+                    <!-- Top100 (Kraken) Counter -->
+                    <script>
+                        (function (w, d, c) {
+                        (w[c] = w[c] || []).push(function() {
+                            var options = {
+                                project: 2676107,
+                                element: 'top100_widget',
+                            };
+                            try {
+                                w.top100Counter = new top100(options);
+                            } catch(e) { }
+                        });
+                        var n = d.getElementsByTagName("script")[0],
+                        s = d.createElement("script"),
+                        f = function () { n.parentNode.insertBefore(s, n); };
+                        s.type = "text/javascript";
+                        s.async = true;
+                        s.src =
+                        (d.location.protocol == "https:" ? "https:" : "http:") +
+                        "//st.top100.ru/top100/top100.js";
+
+                        if (w.opera == "[object Opera]") {
+                        d.addEventListener("DOMContentLoaded", f, false);
+                    } else { f(); }
+                    })(window, document, "_top100q");
+                    </script>
+                    <noscript>
+                      <img src="//counter.rambler.ru/top100.cnt?pid=2676107" alt="Топ-100" />
+                    </noscript>
+                    <!-- END Top100 (Kraken) Counter -->
+                </div>
+
+                <a href="/links.php?go=http://www.yandex.ru/cy?base=0&host=www.nnmama.ru">
+                    <img src="https://www.yandex.ru/cycounter?www.nnmama.ru" width="88" height="31" alt="" border="0">
+                </a>
+
+                <!--Openstat-->
+                <span id="openstat1"></span>
+                <script type="text/javascript">
+                var openstat = { counter: 1, image: 89, color: "458efc", next: openstat };
+                (function(d, t, p) {
+                var j = d.createElement(t); j.async = true; j.type = "text/javascript";
+                j.src = ("https:" == p ? "https:" : "http:") + "//openstat.net/cnt.js";
+                var s = d.getElementsByTagName(t)[0]; s.parentNode.insertBefore(j, s);
+                })(document, "script", document.location.protocol);
+                </script>
+                <!--/Openstat-->
+
+            </div>
+        </div>
+    </div>
+</footer>        <div style="display: none">
+            <template id="login">
+                <div class="popup popup_login">
+                    <div class="loading">Пожалуйста, подождите. <br> Идет загрузка</div> 
+                    <div class="logo"></div>
+                    <div id="tabs" class="popup__container">
+                        
+                        <div class="popup-tabs">
+                            <a class="popup__tab">Регистрация</a>
+                            <a class="popup__tab current">Войти</a>
+                        </div>
+                        <div class="popup__content">
+                            <div class="popup__tab-content popup__content-registration">
+                                <div class="login-input">
+                                    <input class="input register-name" type="text" placeholder="Имя пользователя"/>
+                                    <div class="icon icon-user"></div>
+                                    <div class="notice"></div>
+                                </div>
+                                <div class="login-input">
+                                    <input class="input register-email" type="text" placeholder="Эл. Почта"/>
+                                    <div class="icon icon-email"></div>
+                                    <div class="notice"></div>
+                                </div>
+                                <div class="login-input">
+                                    <input class="input register-password" type="password" placeholder="Пароль"/>
+                                    <div class="icon icon-password"></div>
+                                    <div class="notice"></div>
+                                </div>
+								<div class="login-input">
+                                    <label>
+                                      <input class="register-agreement" type="checkbox" style="-webkit-appearance:checkbox;" checked>&nbsp;Заполняя форму, вы соглашаетесь на обработку персональных данных согласно <a href="/content/zakoni/zakonpr/user_agreement/" target="_blank">Пользовательского соглашения</a>.
+                                    </label>
+									<div class="notice"></div>
+                                </div>
+                                <div class="login-input">
+                                    <div class="recaptcha" id="recaptcha"></div>
+                                    <input class="register-recaptcha" type="hidden"/>
+                                    <div class="notice"></div>
+                                </div>
+                                <div class="notice-muted">Регистрируясь, Вы подтверждаете, что ознакомлены и согласны с <a href="/1otzivrules">правилами сайта</a></div>
+                                <button class="popup-button sendRegister" type="button">Регистрация</button>
+                            </div>
+                            <div class="popup__tab-content popup__content-login">
+                                <div class="login-input">
+                                    <input class="input auth-email" type="text" placeholder="Эл. Почта"/>
+                                    <div class="icon icon-email"></div>
+                                    <div class="notice"></div>
+                                </div>
+                                <div class="login-input">
+                                    <input class="input auth-password" type="password" placeholder="Пароль"/>
+                                    <div class="icon icon-password"></div>
+                                    <div class="notice"></div>
+                                </div>
+                                <div class="login-input">
+                                    <label>
+                                      <input type="checkbox" class="auth-remember" style="-webkit-appearance: checkbox;">&nbspЧужой компьютер
+                                    </label>
+                                </div>
+                                <a class="forgot-password">Забыли пароль?</a>
+                                <button class="popup-button sendAuth" type="button">Войти</button>
+                            </div>
+                        </div>
+
+                        <div class="popup__notice"></div>
+                    </div>
+                </div>
+            </template>
+
+            <template id="restorePassword">
+                <div class="popup popup_restore">
+                    <div class="logo"></div>
+                    <div class="popup__container">
+                        <div class="popup__tab">Восстановить пароль</div>
+                        <div class="popup__content">
+                            <div class="login-input">
+                                <input class="input forget-email" type="text" placeholder="Эл. Почта"/>
+                                <div class="icon icon-email"></div>
+                                <div class="notice"></div>
+                            </div>
+                            <a class="restore-cancel">&lt;&nbsp;Отмена</a>
+                            <button class="popup-button sendForgetPass" type="button">Восстановить</button>
+                        </div>
+                        <div class="popup__notice"></div>
+                    </div>
+                </div>
+            </template>
+
+            <template id="search">
+                <form action="/search/" method="GET" class="search">
+                    <input class="search__input" name="q" type="text" placeholder="Поиск" />
+                    <button class="search__button" type="submit"></button>
+                </form>
+            </template>
+        </div>
+    </body>
+</html>

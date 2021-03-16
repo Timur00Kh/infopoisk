@@ -7,5 +7,15 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "lemmer": "^0.3.0",
+    "minimist": "^1.2.5",
+    "natural": "^4.0.2",
+    "node-wordnet": "^0.1.12",
+    "rimraf": "^3.0.2",
+    "sanitize-html": "^2.3.2",
+    "string-strip-html": "^8.2.5",
+    "wndb-with-exceptions": "^3.0.2"
+  }
 }

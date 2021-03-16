@@ -1,0 +1,572 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+<META HTTP-EQUIV="Content-Type" content="text/html; charset=windows-1251">
+<META HTTP-EQUIV="Content-Language" CONTENT="ru">
+<META NAME="Robots" CONTENT="all">
+<META NAME="author" content="">
+<META http-equiv=Content-Control content=no-cache>
+<META http-equiv=Expires content=0>
+<META HTTP-EQUIV="pragma" CONTENT="no-cache">
+<META NAME="Description" CONTENT="�� ����� ������������ ������������� ���������� � �������� � ����� ��������: ����, ����, ����������, ���������, �������. � ����� ������ ��� ����� ���������, �������� � ����������� ��� ����������. ������� ������� ������ ��� �������� � ��. �������� � ���������� ���������� � �������� ����.">
+<META NAME="Keywords" CONTENT="�������� ������ ����� �������� ������� ���� �������� ������ ����� ������� ��������� ������������ ������� ������ ������� ������ �������� ���� �������������� ������� ������� ������������� ������� ��������� ����� �������� ������">
+<title>���� � �������� �������, ������ ��� �������� � ����� ��������</title>
+
+<link rel='shortcut icon' href='/images/favicon.ico'>
+<link rel="icon" href="/t_tpl/zooclub/img/favicon.svg" sizes="any" type="image/svg">
+<link rel='stylesheet' href='/img/styles_zoo_c3.css' type='text/css'>
+
+<script type='text/javascript' language='JavaScript' src='/skat/inc/JsHttpRequest.js'></script>
+<script type='text/javascript' language='JavaScript' src='/skat/js/my_scripts.js'></script>
+
+<script>
+  var SiteRoot = '/';
+</script>
+
+<script async type="text/javascript" src="//sjsmartcontent.org/static/plugin-site/js/sjplugin.js" site="6gbc"></script>
+<script src="https://yastatic.net/pcode/adfox/loader.js" crossorigin="anonymous"></script>
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script async src="//increaserev.com/ads/tagc/secureads.js"></script>
+
+</head>
+
+<body bgcolor='FFFFFF' text='07284A' link='1261E0' vlink='1261E0' alink='1261E0' marginwidth=0 marginheight=0 topmargin=0 leftmargin=0 rightmargin=0 onload='window.defaultStatus="";'><a name='top'></a>
+<!--LiveInternet counter--><script type="text/javascript">
+new Image().src = "//counter.yadro.ru/hit;Animals?r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";h"+escape(document.title.substring(0,80))+
+";"+Math.random();</script><!--/LiveInternet-->
+
+<!-- Rating@Mail.ru counter -->
+<script type="text/javascript">
+var _tmr = window._tmr || (window._tmr = []);
+_tmr.push({id: "894966", type: "pageView", start: (new Date()).getTime()});
+(function (d, w, id) {
+  if (d.getElementById(id)) return;
+  var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;
+  ts.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//top-fwz1.mail.ru/js/code.js";
+  var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+  if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+})(document, window, "topmailru-code");
+</script><noscript><div>
+<img src="//top-fwz1.mail.ru/counter?id=894966;js=na" style="border:0;position:absolute;left:-9999px;" alt="" />
+</div></noscript>
+<!-- //Rating@Mail.ru counter -->
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-26034016-2', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+
+<!-- top{ -->
+
+<table width='100%' border=0 cellpadding=0 cellspacing=0>
+  <tr valign='bottom'>
+    <td><img src='/images/_0.gif' border=0 width=15 height=1 alt='�������'></td>
+    <td><a href='/'><img src='/images/t_logo.gif' border=0 width=195 height=45 alt='�������' title='�������'></a></td>
+    <td>
+    </td>
+    <td width=270>
+
+<div class="ya-site-form ya-site-form_inited_no" onclick="return {'bg': 'transparent', 'target': '_self', 'language': 'ru', 'suggest': true, 'tld': 'ru', 'site_suggest': true, 'action': '/search/', 'webopt': false, 'fontsize': 12, 'arrow': false, 'fg': '#000000', 'searchid': '2014377', 'logo': 'rb', 'websearch': false, 'type': 3}"><form action="https://yandex.ru/sitesearch" method="get" target="_self"><input type="hidden" name="searchid" value="2014377" /><input type="hidden" name="l10n" value="ru" /><input type="hidden" name="reqenc" value="" /><input type="text" name="text" value="" /><input type="submit" value="�����" /></form></div><style type="text/css">.ya-page_js_yes .ya-site-form_inited_no { display: none; }</style><script type="text/javascript">(function(w,d,c){var s=d.createElement('script'),h=d.getElementsByTagName('script')[0],e=d.documentElement;(' '+e.className+' ').indexOf(' ya-page_js_yes ')===-1&&(e.className+=' ya-page_js_yes');s.type='text/javascript';s.async=true;s.charset='utf-8';s.src=(d.location.protocol==='https:'?'https:':'http:')+'//site.yandex.net/v2.0/js/all.js';h.parentNode.insertBefore(s,h);(w[c]||(w[c]=[])).push(function(){Ya.Site.Form.init()})})(window,document,'yandex_site_callbacks');</script>
+
+    </td>
+    <td><img src='/images/_0.gif' border=0 width=20 height=1></td>
+
+  </tr>
+</table>
+
+
+<!-- top} -->
+
+<!-- content{ -->
+
+<div class='top_adv'></div>
+
+<center><div data-widget="jv9RHHy6tQsoQlSg"></div>
+<script type="text/javascript">(function(b,c){c.id=b.querySelector('div[data-widget="jv9RHHy6tQsoQlSg"]');var a=b.createElement("script");a.src="//tt.ttarget.ru/s/tt3.js?v=2";a.async=!0;a.onload=a.readystatechange=function(){a.readyState&&"loaded"!=a.readyState&&"complete"!=a.readyState||(a.onload=a.readystatechange=null,TT.createBlock(c))};b.getElementsByTagName("head")[0].appendChild(a)})(document,{block: 4306, count: 0});</script></center>
+
+
+
+</noindex>
+
+</div>
+
+
+<table border=0 width='100%' cellspacing=0 cellpadding=0>
+<tr valign='top'>
+<td class='t_map'><img src='/images/s_map.gif' width=16 height=25 border=0></td>
+<td><img src='/images/l_map.gif' width=34 height=25 border=0></td>
+<td class='t_map' width='100%' align='left'><a href='/map.shtml'><img src='/images/t_map.gif' width=110 height=25 border=0 alt='������� �����' title='������� �����'></a></td>
+<td class='t_map'><img src='/images/r_map.gif' width=163 height=25 border=0></td>
+<td><img src='/images/_0.gif' width=20 height=1 border=0></td>
+</tr>
+</table>
+
+<table border=0 width='100%' cellspacing=0 cellpadding=0>
+<tr valign='top'>
+<td><img src='/images/_0.gif' width=50 height=1 border=0></td>
+<td width=100% class='main_section'><table border=0 cellSpacing=0 cellPadding=0 class=ay>
+<tr valign=top>
+<td width=25%><b><a href="/dogs/index.shtml">������</a><br></b>
+<font class=ab><a href="/dogs/porod/index.shtml">������ �����</a>, <a href="/dogs/klich.shtml">������</a>, <a href="/fotogal/oboi/dogs/index.shtml">������ ����</a>, <a href="/dogs/dressirovka-sobak/index.shtml">�����������</a>, <a href="/dogs/vet/index.shtml">������� �����</a>, <a href="/stigma/">������</a>, <a href="/dogs/korm/index.shtml">���������</a>, <a href="/dogs/povedeniye-psikhologiya/index.shtml">��������� ������</a>, <a href="/dogs/shchenki/index.shtml">��� � ������</a>, <a href="/dogs/uhod-za-sobakoi/index.shtml">���� �� �������</a> ..
+</td><td width=3> </td>
+</td><td width=25% ><b><a href="/koshki/index.shtml">�����</a><br></b>
+<font class=ab><a href="/koshki/porody-koshek/index.shtml">������ �����</a>, <a href="/koshki/bolezni-koshek/index.shtml">������� � �������</a>, <a href="/koshki/razvedenie-koshek/">����������</a>, <a href="/fotogal/oboi/cats/">����� ����</a>, <a href="/koshki/imena-klichki-koshek/index.shtml">������</a>,  <a href="/tags/��������_�����/">��������</a>, <a href="/koshki/povedeniye-psikhologiya/">��������� �����</a>, <a href="/koshki/kormlenie-koshki/index.shtml">���������</a>, <a href="/koshki/uhod-za-koshkoi/index.shtml">���� �� �������</a>, <a href="/koshki/kotyata/index.shtml">��� � �������</a> ..
+</td><td width=3> </td>
+<td width=25% ><b><a href="/rybki/index.shtml">����������� �����</a><br></b>
+<font class=ab><a href="/rybki/obustroystvo-akvariuma/index.shtml">��������</a>, <a href="/rybki/akvariumnye-rasteniya/index.shtml">����������� ��������</a>, <a href="/rybki/bolezni-i-lecheniye/index.shtml">�������</a>, <a href="/tags/�����/">�����</a>, <a href="/tags/����/">����</a>, <a href="/tags/������/">������</a>, <a href="/tags/�������_�����/">������� �����</a>, <a href="/tags/�������/">�������</a>, <a href="/rybki/vidy-opisanie-foto/index.shtml">���� �����</a>, <a href="/tags/�����/">�����</a>, <a href="/rybki/morskoy-akvarium/index.shtml">������� ��������</a>, <a href="/rybki/vodoyem-prud-na-uchastke/index.shtml">���� ������ ������</a>, <a href="/fotogal/oboi/aqua/">����� ����</a> ..
+</td><td width=3> </td>
+</td><td width=25% ><b><a href="/birds/index.shtml">�����</a><br></b>
+<font class=ab><a href="/birds/vidy/popug/">�������</a>, <a href="/birds/vidy/">���� ����</a>, <a href="/birds/lech/">������� �������� � ����</a>, <a href="/birds/vidy/popug/volna.shtml">��������� �������</a>, <a href="/birds/klich.shtml">�����</a>, <a href="/birds/korm/">���������</a>, <a href="/birds/vidy/canar.shtml">���������</a>, <a href="/fotogal/oboi/birds/">����� ����</a>, <a href="/birds/1/">���, ������, ������������</a>, <a href="/birds/vidy/golub/">������</a> ..
+</td></td></tr>
+
+<tr valign=top>
+</td><td width=25% ><b><a href="/wild/index.shtml">����� ��������</a><br></b>
+<font class=ab><a href="/mouse/zayc/">�������</a>, <a href="/wild/hobot/">�����</a>, <a href="/wild/hish/medv.shtml">�������</a>, <a href="https://primaty.ru/" target="_blank" rel="noopener noreferrer"><font color=green>�������</font></a>, <a href="/wild/nasek/1/">�����</a>, <a href="/wild/hish/cats.shtml">����</a>, <a href="/wild/kito/">����</a>, <a href="/wild/parno/">������</a>, <a href="/wild/hish/horek.shtml">������</a>, <a href="/wild/hish/dogs.shtml">�����</a>, <a href="/wild/parno/">�������������</a>, <a href="/fotogal/oboi/aqua/">�������� ����</a>, 
+<a href="/wild/parno/mini_pigi.shtml">����-����</a>, 
+<a href="/samye/index.shtml"><font color=red>�����-����� ��������</font></a> ..
+</td><td width=3> </td>
+</td><td width=25% ><b><a href="/loshadi/index.shtml">������</a><br></b>
+<font class=ab><a href="/loshadi/porody-loshadey/index.shtml">������ �������</a>, <a href="/loshadi/klichki/index.shtml">�����</a>, <a href="/loshadi/konnyy-sport/index.shtml">������ �����</a>, <a href="/loshadi/razvedeniye/index.shtml">����������</a>, <a href="/loshadi/soderzhaniye-loshadi/index.shtml">���������� ������</a>, <a href="/fotogal/oboi/birds/">������ ����</a>, <a href="/loshadi/bolezni-loshadey/index.shtml">������� �������</a>, <a href="/loshadi/verkhovaya-yezda/index.shtml">�������� ����</a> ..
+</td><td width=3> </td>
+</td><td width=25% ><b><a href="/mouse/index.shtml">�������</a><br></b>
+<font class=ab><a href="/mouse/mor_s/">������� ������</a>, <a href="/mouse/mous/">����� � ����</a>, <a href="/mouse/homk/">������</a>, <a href="/mouse/shin/">��������</a>, <a href="/mouse/belich/">�����</a>, <a href="/mouse/bobr/">�����</a>, <a href="/mouse/belich/">���������</a>, <a href="/mouse/homk/pecanka.shtml">��������</a>, <a href="/mouse/soni/">����</a>, <a href="/mouse/118359.shtml">����</a>, <a href="/mouse/klich.shtml">�����</a>, <a href="/fotogal/oboi/">���� ����, �����, ������ � ��.</a> ..
+</td><td width=3> </td>
+<td width=25% ><b><a href="/fotogal/index.shtml">����</a><br></b>
+<font class=ab><a href="/fotogal/119694.shtml">��������</a>, <a href="/fotogal/clip/">��������</a>, <a href="/fotogal/oboi/">���� ��������</a>, <a href="/fotogal/anima/">��������</a>, <a href="/fotogal/icon/">������</a>,  <a href="/fotogal/photo/">������� ��������</a>, <a href="/fotogal/humor/index.shtml">���� �������</a>, <a href="/video/index.shtml">�����</a> ..
+</td></td></tr>
+
+<tr valign=top>
+</td><td width=25% ><b><a href="/rept/index.shtml">��������</a><br></b>
+<font class=ab><a href="/rept/vidy/zmei.shtml">����</a>, <a href="/rept/vidy/cherep/">��������</a>, <a href="/rept/vidy/krokod.shtml">���������</a>, <a href="/rept/vidy/ham.shtml">���������</a>, <a href="/rept/vidy/154.shtml">������</a>, <a href="/rept/vidy/varan.shtml">������</a>, <a href="/rept/vidy/asheri.shtml">�������</a>,  <a href="/fotogal/oboi/rept/"> ��������, ���������, ���� ����</a>, <a href="/rept/terr.shtml">����</a> .. 
+</td><td width=3> </td>
+</td><td width=25% ><b><a href="/amfibii/index.shtml">�������</a><br></b>
+<font class=ab><a href="/amfibii/beshvostye/lyagushki-nastojacshie-semejstvo.shtml">�������</a>, <a href="/amfibii/hvostatye/nastojaschie-salamandry-semejstvo.shtml">�������</a>, <a href="/amfibii/beshvostye/zhaby-nastojaschie-semejstvo.shtml">����</a>, <a href="/amfibii/hvostatye/nastojaschie-salamandry-semejstvo.shtml">����������</a>, <a href="/amfibii/hvostatye/aksolotl.shtml">���������</a>, <a href="/amfibii/bolezni-amfibii/index.shtml">������� �������</a>, <a href="/amfibii/hvostatye/index.shtml">��������� �����������</a>, <a href="/amfibii/beshvostye/index.shtml">����������</a>, <a href="/amfibii/imena-dlja-amfibiy/index.shtml">�����</a>, <a href="/fotogal/oboi/amfib/index.shtml">������� ����</a> ..
+</td><td width=3> </td>
+</td><td width=25%><b><a href="/flora/index.shtml">��������</a><br></b>
+<font class=ab><a href="/flora/plane/">��������� ��������</a>, <a href="/flora/orchidea/">�������</a>, <a href="/flora/other/palma/">������</a>, <a href="/flora/plane/fialka/">������</a>, <a href="/flora/plane/fikus/">������</a>, <a href="/flora/kaktus/">�������</a>, <a href="/flora/rouse/">����</a>, <a href="/flora/floxy/">������</a>, <a href="/flora/lilii/">�����</a>, <a href=/fungi/fungi.shtml>�����</a>, <a href="/flora/alphabet.shtml">������ �������� �-�</a> .. 
+</td><td width=3> </td>
+</td><td width=25% ><b><a href="/bezp/index.shtml">��������������</a><br></b>
+<font class=ab><a href="/bezp/21.shtml">������</a>, <a href="/bezp/26.shtml">������</a>, <a href="/bezp/20.shtml">������</a>, <a href="/bezp/22.shtml">���������</a>, <a href="/bezp/25.shtml">��������</a>, <a href="/bezp/23.shtml">���������</a>, <a href="/bezp/27.shtml">�������</a>, <a href="/protostomia/">�������������</a> ..
+</td></td></tr>
+
+<tr valign=top>
+<td width=25%><b><a href="/chlen/index.shtml">�������������</a><br></b>
+<font class=ab><a href="/chlen/rak/index.shtml">�����, ����</a>, <a href="/chlen/nasek/index.shtml">���������</a>, <a href="/chlen/pauk/index.shtml">�����</a>, <a href="/fotogal/oboi/insect/index.shtml">���� �������������</a>, <a href="/chlen/nasek/pchely.shtml">�����</a>, <a href="/chlen/nasek/tarak.shtml">��������</a>, <a href="/chlen/nasek/bab.shtml">�������</a>, <a href="/chlen/nasek/bogo.shtml">��������</a> ..
+</td><td width=3> </td>
+</td><td width=25% ><b><a href="/creative/">����������</a><br></b>
+<font class=ab><a href="/creative/">�����</a>, <a href="/referat/index.shtml">�������� �������� ��������</a>, <a href=/referat/presentation/><font color=blue>����������� ��� �����</font></a>, <a href="/skazki/index.shtml">������ � ��������</a>, <a href="/zakon/index.shtml">������</a>,  <a href="/anekdoty-pro-zhivotnykh/">��������</a>,  <a href="/zhour.shtml">���������</a>, <a href="http://zooznaika.ru/" target="_blank" rel="noopener noreferrer"><font color=green>������������</font></a>,  <a href="/skazki/stihi-o-zhivotnyh-dlja-detei/index.shtml">����� ��� �����</a>, <a href="/faq/?s=209"><font color=red>������? �����? ��� ����?</font></a> ..
+</td><td width=3> </td>
+</td><td width=25% ><b><a href="/zanim/index.shtml">����� ��������</a><br></b>
+<font class=ab><a href="/voice/index.shtml">������</a>, <a href="/name/index.shtml">������ ��������</a>, <a href="/zanim/index.shtml">������������</a>, <a href="/testy-dlya-zhivotnykh/index.shtml"><font color=brown>�����</font></a>, <a href="/putesh/index.shtml">�����������</a>, <a href="/urist/index.shtml">�������� �����</a>, <a href="/veter/index.shtml">�����������</a>, <a href="/tovary/index.shtml">������ ��� ��������</a> ..
+</td><td width=3> </td>
+</td><td width=25% ><b><noindex><a href="https://forums.zooclub.ru/">����� �����</a><br></noindex></b>
+<font class=ab><a href="/faq/">����</a>, <a href="/consult/"><font color=brown>���������� ������������</font></a>, <a href="/subscribe.shtml">��������</a>, <a href="/tusovka/">�������</a>, <a href="/ssylki/">������� ������</a>, <a href="/forum/">������</a>, <a href="/doska/index.shtml">����������</a>, <a href="/memory/">��������</a>, <a href="/fakty/index.shtml"><font color=darkblue>���������� ����� � �������� � ���������</font></a> ..
+</td></td></tr>
+</table>
+
+</center>
+</td><td><img src='/images/_0.gif' border=0 width=15 height=1></td>
+<td class='r_world'>
+
+<table border=0 width='100%' cellspacing=0 cellpadding=0>
+<tr valign='top'>
+<td><a href='/novosti/'><img src='/images/r_world.gif' border=0 width=127 height=30 title='� ���� ��������'></a></td>
+<td><img src='/images/r_world_.gif' border=0 width=163 height=30></td>
+</tr>
+</table>
+
+<div class='main_radv'>
+<noindex>
+
+</div></noindex>
+
+<div class='body'>
+
+
+<div><img src='/images/t_mapitem.gif' border=0 width=11 height=11 align='absmiddle'>
+ <a href='/novosti/ryby-i-lyagushki-mogut-perenastraivat-svoye-zreniye.shtml'>���� � ������� ����� ��������������� ���� ������</a></div>
+
+<div><img src='/images/t_mapitem.gif' border=0 width=11 height=11 align='absmiddle'>
+ <a href='/novosti/sobake-shakhteru-s-16-letnim-stazhem-postavili-pamyatnik.shtml'>������-�������� � 16-������ ������ ��������� ��������</a></div>
+
+<div><img src='/images/t_mapitem.gif' border=0 width=11 height=11 align='absmiddle'>
+ <a href='/novosti/bolnyye-zhivotnyye-pritvoryayutsya-zdorovymi.shtml'>������� �������� ������������ ���������</a></div>
+
+<div><img src='/images/t_mapitem.gif' border=0 width=11 height=11 align='absmiddle'>
+ <a href='/novosti/koshachiy-analog-vich-opasen-dlya-cheloveka.shtml'>������� ������ ��� ������ ��� ��������</a></div>
+
+<div><img src='/images/t_mapitem.gif' border=0 width=11 height=11 align='absmiddle'>
+ <a href='/novosti/uchenyye-zastali-popugayev-za-ispolzovaniyem-orudiy-truda.shtml'>������ ������� ������� �������� �� �������������� ������ �����</a></div>
+
+<div class='news_arch'><img src='/images/t_mapitem.gif' border=0 width=11 height=11 align='absmiddle'><a href='/novosti/'>�����</a></div><p>
+
+
+</div>
+
+</td>
+<td><img src='/images/_0.gif' border=0 width=20 height=1></td>
+</tr>
+</table>
+
+<table border=0 width='100%' cellspacing=0 cellpadding=0>
+<tr valign='top'>
+<td class='t_news'><img src='/images/s_news.gif' width=16 height=25 border=0></td>
+<td><img src='/images/l_news.gif' width=34 height=25 border=0></td>
+<td class='t_news' width='100%' align='left'><a href='/news/'><img src='/images/t_news.gif' width=70 height=25 border=0 alt='�������' title='�������'></a></td>
+<td class='t_news'><img src='/images/r_news.gif' width=95 height=25 border=0></td>
+<td><img src='/images/_0.gif' width=20 height=1 border=0></td>
+</tr>
+</table>
+
+<table border=0 width='100%' cellspacing=0 cellpadding=0>
+<tr valign='top'>
+<td><img src='/images/_0.gif' width=50 height=1 border=0></td>
+<td width=100% class='main_news'>
+
+
+<div><img src='/images/t_mapitem2.gif' border=0 width=11 height=11 align='absmiddle'><small>05.12.2020</small>
+ <p><strong>����� ���������� <a href="/faq/">������� � ������</a> �� ���:</strong> <a href="/faq/show.php?id=4783">��� ����� �����?</a> <a href="/faq/show.php?id=4784">��� ����� ��������?</a> <a href="/faq/show.php?id=4785">������ ������� ������ � ���������?</a> <a href="/faq/show.php?id=4786">������ ������������ ������ � �������?</a> <a href="/faq/show.php?id=4787">������ �������� ��������?</a> <a href="/faq/show.php?id=4788">������ �������� ��������?</a> <a href="/faq/show.php?id=4789">������ �������� ������?</a> <a href="/faq/show.php?id=4790">������ �������� �������?</a> <a href="/faq/show.php?id=4791">������ � �������� ������������ ������?</a> <a href="/faq/show.php?id=4792">������ �������� ����� ��������?</a> <a href="/faq/show.php?id=3965">��� � ��� ����� ������� ���������������� �����?</a> <a href="/faq/show.php?id=3902">����� ���������� �������� ��������� ������ �����?</a> <a href="/faq/show.php?id=4836">����� �� ���������� �������� ������� ������ � �������?</a> <a href="/faq/show.php?id=4830">����� ������� � ���� ������?</a> <a href="/faq/show.php?id=4825">����� ������� ���������</a><br /><strong>����� ������</strong>:&nbsp;<a href="/birds/voprosy-veterinarnomu-vrachu-po-soderzhaniyu-ptits.shtml">������� ������������� ����� � ���������� ���� � ��������</a> (����� 2),&nbsp;<strong><a href="/dogs/pravila-bezopasnoy-perevozki-sobak-v-avtomobile.shtml">������� � �������� ���������� ��������� ������ � ����������</a>,&nbsp;</strong><a href="/name/klichki-dlya-obeziyan.shtml">������ ��� ������� (��������)</a>, <a href="/name/klichki-dlya-korov.shtml">������ ��� �����</a> � <a href="/name/klichki-dlya-bykov.shtml">�����</a></p></div>
+
+<div><img src='/images/t_mapitem2.gif' border=0 width=11 height=11 align='absmiddle'><small>21.11.2020</small>
+ <p><strong>����� <a href="/faq/">�������</a>:</strong> <a href="/koshki/bolezni-koshek/urologicheskiy-sindrom-koshek.shtml">������������� ������� �����</a> <a href="/koshki/bolezni-koshek/rvota-u-koshek.shtml">����� � �����</a> <a href="/koshki/bolezni-koshek/allergii-u-koshek.shtml">�������� � �����</a> <a href="/faq/show.php?id=4798">����� ��������� ����� � ����</a> <a href="/faq/show.php?id=4799">����� ������ �����</a> <a href="/faq/show.php?id=4819">������ ������ ������� ���� ������ ��������?</a> <a href="/faq/show.php?id=4824">����� ������� �����?</a> <a href="/faq/show.php?id=3968">� ����, ����� ��� �������� �������� ������� � ��������. ��������� ����������� ��������?</a> <a href="/faq/show.php?id=4684">��� ����� �����?</a> <a href="/faq/show.php?id=4685">��� ������ ����� �������?</a> <a href="/faq/show.php?id=4687">��� ������� �������� ����?</a> <a href="/faq/show.php?id=4688">��� ������� ������?</a> <a href="/faq/show.php?id=4689">��� ������� ������� ����?</a> <a href="/faq/show.php?id=4690">��� ������� ���� ������������?</a> <a href="/faq/show.php?id=4691">��� ����� ��������?</a></p></div>
+
+<div><img src='/images/t_mapitem2.gif' border=0 width=11 height=11 align='absmiddle'><small>19.10.2020</small>
+ <p><strong>����� <a href="/faq/">�������</a></strong>: <a href="/faq/show.php?id=3775">��������� ������ ���� �� ������� ������?</a> <a href="/faq/show.php?id=4675">��� ����� ��������?</a> <a href="/faq/show.php?id=4676">������ ���� �� ���� �����?</a> <a href="/faq/show.php?id=4677">������ ���� ������� �������� ��������?</a> <a href="/faq/show.php?id=4678">������ ����� ���� ����� ������?</a> <a href="/faq/show.php?id=4679">������ ��������� ���?</a> <a href="/faq/show.php?id=4838">����� �� ������ ���������� ��������?</a> <a href="/faq/show.php?id=4821">��� ����� ����� �����?</a> <a href="/faq/show.php?id=4816">������� ����� �� ����?</a> <a href="/faq/show.php?id=4680">������ ������ �����?</a> <a href="/faq/show.php?id=4681">������ ����� ��������?</a> <a href="/faq/show.php?id=4682">��� ����� �����?</a> <a href="/faq/show.php?id=4683">��� ����� ������?</a> <a href="/faq/show.php?id=4686">��� ������ ���� �������?</a></p></div>
+
+<div><img src='/images/t_mapitem2.gif' border=0 width=11 height=11 align='absmiddle'><small>13.09.2020</small>
+ <p><strong>��������� �������:</strong> <a href="/fakty/interesnyye-fakty-pro-son-zhivotnykh.shtml">���������� ����� ��� ��� ��������</a>, <a href="/fakty/interesnyye-fakty-pro-slukh-zhivotnykh.shtml">����� ��� ���� ��������</a>, <a href="/fakty/interesnyye-fakty-pro-silu-zhivotnykh.shtml">����� ��� ���� ��������</a>, <a href="/fakty/interesnyye-fakty-pro-yad-zhivotnykh.shtml">���������� ����� ��� �� ��������</a>, <a href="/fakty/interesnyye-fakty-pro-moloko-zhivotnykh.shtml">����� ��� ������ ��������</a>, <a href="/fakty/interesnyye-fakty-pro-yaytsa-ptits.shtml">����� ��� ���� ����</a>, <a href="/fakty/interesnyye-fakty-o-prozhorlivosti-zhivotnykh.shtml">����� � ������������� ��������</a>, <a href="/fakty/interesnyye-fakty-o-polze-zhivotnykh.shtml">���������� ����� � ������ ��������</a>, <a href="/fakty/zhivotnyye-v-mirovoy-religii-interesnyye-fakty.shtml">�������� � ������� �������</a></p></div>
+
+<div><img src='/images/t_mapitem2.gif' border=0 width=11 height=11 align='absmiddle'><small>14.08.2020</small>
+ <p>������ <a href="/novosti/"><strong>������� � ��������</strong></a> ��������� � ����� ������.<br /><strong>����� ������</strong>:&nbsp;<a href="/birds/voprosy-veterinarnomu-vrachu-po-soderzhaniyu-ptits.shtml">������� ������������� ����� � ���������� ���� � ��������</a> (����� I)</p></div>
+
+<div class='news_arch'><img src='/images/t_newsitem.gif' border=0 width=11 height=11 align='absmiddle'><a href='/news/'>����� ��������</a>
+<a href='/about/rss.xml'><img src='/images/feed.gif' width=14 height=14 border=0 align='absmiddle' alt='����������� �� RSS-�����' title='����������� �� RSS-�����'> RSS</a>
+</div>
+
+
+</td><td><img src='/images/_0.gif' border=0 width=15 height=1></td>
+<td class='r_forum'>
+
+<table border=0 width='100%' cellspacing=0 cellpadding=0>
+<tr valign='top'>
+<td><noindex><a href='http://forums.zooclub.ru'></noindex><img src='/images/r_forum.gif' border=0 width=195 height=30 title='�����'></a></td>
+<td><img src='/images/r_forum_.gif' border=0 width=95 height=30></td>
+</tr>
+</table>
+
+<div class='main_radv'>
+
+
+
+</div>
+
+<noindex><!--googleoff: index-->
+<div class='body'>
+
+<img src="/images/t_newsitem.gif"><a href="https://forums.zooclub.ru/showthread.php?t=39693" target=_blank rel="noopener noreferrer">��������� � ������. ��� ������?</a><br>
+<img src="/images/t_newsitem.gif"><a href="https://forums.zooclub.ru/showthread.php?t=88126" target=_blank rel="noopener noreferrer">�� ������� � ���������. ����� ������� ���������� ����������</a><br>
+<img src="/images/t_newsitem.gif"><a href="https://forums.zooclub.ru/showthread.php?t=99518" target=_blank rel="noopener noreferrer">�� ������ �������� ����� ������� �����?</a><br>
+<img src="/images/t_newsitem.gif"><a href="https://forums.zooclub.ru/showthread.php?t=53838" target=_blank rel="noopener noreferrer">��������� ����� ������������ ����������</a><br>
+<img src="/images/t_newsitem.gif"><a href="https://forums.zooclub.ru/showthread.php?t=37065" target=_blank rel="noopener noreferrer">������� �� ���������� � ����� �� ���������</a><br>
+<img src="/images/t_newsitem.gif"><a href="https://forums.zooclub.ru/showthread.php?t=99425" target=_blank rel="noopener noreferrer">����� �� ��������� �� �����, ������ � ��������</a><br>
+<img src="/images/t_newsitem.gif"><a href="https://forums.zooclub.ru/showthread.php?t=99291" target=_blank rel="noopener noreferrer">������� �� ������ �����?</a><br>
+<img src="/images/t_newsitem.gif"><a href="https://forums.zooclub.ru/showthread.php?t=6712" target=_blank rel="noopener noreferrer">���� �� ����������� ����������</a><br>
+<img src="/images/t_newsitem.gif"><a href="https://forums.zooclub.ru/showthread.php?t=98512" target=_blank rel="noopener noreferrer">������-������: Ѹ��� �� �����</a><br>
+<img src="/images/t_newsitem.gif"><a href="https://forums.zooclub.ru/showthread.php?t=99353" target=_blank rel="noopener noreferrer">��� � ����� ���������� ����������� �����</a><br>
+
+<img src="/images/t_newsitem.gif"><a href="https://forums.zooclub.ru/forumdisplay.php?f=65" target=_blank rel="noopener noreferrer"><font color=blue>���� ���������� ��������</font></a><br>
+</font></b>
+
+</div>
+<!--googleon: index--></noindex>
+<br>
+
+
+
+</td>
+<td><img src='/images/_0.gif' border=0 width=20 height=1></td>
+
+</tr>
+</table>
+
+<table border=0 width='100%' cellspacing=0 cellpadding=0>
+<tr valign='top'>
+<td class='t_sponsor'><img src='/images/s_sponsor.gif' width=16 height=25 border=0></td>
+<td><img src='/images/l_sponsor.gif' width=34 height=25 border=0></td>
+<td class='t_sponsor' width='100%' align='left'><img src='/images/t_sponsor.gif' width=115 height=25 border=0 alt='���� ��������' title='���� ��������'></td>
+<td class='t_sponsor'><img src='/images/r_sponsor.gif' width=104 height=25 border=0></td>
+<td><img src='/images/_0.gif' width=20 height=1 border=0></td>
+</tr>
+</table>
+
+<table border=0 width='100%' cellspacing=0 cellpadding=0>
+<tr valign='top'>
+<td width=100%>
+
+<table border=0 width='100%' cellspacing=0 cellpadding=0>
+<tr valign='top'>
+<td><img src='/images/_0.gif' width=50 height=1 border=0></td>
+<td width=100% class='main_sponsor'>
+<center><noindex><div data-widget="D6oOU3EWG52qcPrO"></div>
+<script type="text/javascript">(function(b,c){c.id=b.querySelector('div[data-widget="D6oOU3EWG52qcPrO"]');var a=b.createElement("script");a.src="//tt.ttarget.ru/s/tt3.js?v=2";a.async=!0;a.onload=a.readystatechange=function(){a.readyState&&"loaded"!=a.readyState&&"complete"!=a.readyState||(a.onload=a.readystatechange=null,TT.createBlock(c))};b.getElementsByTagName("head")[0].appendChild(a)})(document,{block: 2752, count: 0});</script>
+</noindex>
+</center>
+</td>
+</tr>
+</table>
+
+<table border=0 width='100%' cellspacing=0 cellpadding=0>
+<tr valign='top'>
+<td class='t_sponsor'><img src='/images/s_sponsor.gif' width=16 height=25 border=0></td>
+<td><img src='/images/l_board.gif' width=34 height=25 border=0></td>
+<td class='t_sponsor' width='100%' align='left'><a href='/doska/'><img src='/images/t_board.gif' width=90 height=25 border=0 alt='����������' title='����������'></a></td>
+</tr>
+</table>
+
+<table class='main_advert' border=0 width='100%' cellspacing=0 cellpadding=0>
+<tr valign='top'>
+
+<td><img src='/images/_0.gif' width=50 height=1 border=0></td>
+<td width='50%'>
+
+<div class='mad'><img src='/files/b/73.jpg' align='left' width=100 height=100 border=0 alt='���, ��, ����, ����� - ��� � �����, ����������, ���������, �������� � ���������� � ������. ����� � ����.'>
+
+<a href="/wild/nasek/1/index.shtml"><b>��� � �����</b></a> - ���������� � ����, ��������� � �������, �����������, �������.</div><br clear='all'>
+
+<div class='mad'><img src='/files/b/69.jpg' align='left' width=100 height=100 border=0 alt='�������� ��������: ����� � ������'>
+
+<b>�������� ��������</b>: <a href="/koshki/index.shtml">�����</a>, <a href="/dogs/index.shtml">������</a>, <a href="/birds/index.shtml">�����</a>...<br>
+<b>��� �������� �������</b>: <a href="/aqua/index.shtml">�����</a>, ������</div><br clear='all'>
+<div class='adver_add'><img src='/images/t_boardadd.gif' border=0 width=11 height=11 align='absmiddle'><a href='doska/doska.shtml'>��� ������ ����������</a></div></td>
+<td><img src='/images/_0.gif' width=15 height=1 border=0></td>
+<td width='50%'>
+
+
+<div class='mad'><img src='/files/b/75.jpg' align='left' width=100 height=100 border=0 alt='���� ���� ��������, �������� ��������, ���� �������� ����� ��������'>
+
+<a href="/fotogal/index.shtml"><b>�������� ��������, ����� � �����</b></a>, � ����� ����, �����, �������, ������, �������, �������� � ����� ��������</div><br clear='all'>
+
+<div class='mad'><img src='/files/b/76.jpg' align='left' width=100 height=100 border=0 alt='������ �����, ������ ������ - ����������, �������, ��������� � ����'>
+
+<b><a href="/referat/index.shtml">�������� �� ��������, �������� �� ��������</a></b>. ����� 300 ��������� ����� � ����� ��������, �������������� ������ � ���!</div><br clear='all'>
+
+<div class='mad'><a href=/ssylki/>������� ������</a>
+
+</td>
+</tr>
+</table>
+
+
+</td><td><img src='/images/_0.gif' border=0 width=15 height=1></td>
+<td class='r_wnew'>
+
+<table border=0 width='100%' cellspacing=0 cellpadding=0>
+<tr valign='top'>
+<td><a href='/others/'><img src='/images/r_others.gif' border=0 width=186 height=30 title='��� ���������� � ������'></a></td>
+<td><img src='/images/r_others_.gif' border=0 width=104 height=30></td>
+</tr>
+</table>
+
+<div class='main_radv'>
+<noindex>
+
+</noindex>
+</div>
+
+<div class='body'>
+
+
+<!-- <div>
+<img src='/images/t_boarditem.gif' border=0 width=11 height=11 align='absmiddle'><a href='/others/'>�����</a>
+<img src='/images/t_boarditem.gif' border=0 width=11 height=11 align='absmiddle'><a href='/others/addnews.php'><b>������ �������</b></a>
+</div>-->
+
+</div>
+
+<div class='main_radv'>
+
+
+<div><!-- links --></div>
+
+
+
+<div><!-- slinks --><!--5b0d8--><br><br></div>
+
+
+
+</noindex>
+</div>
+
+<div class='body'>
+</font>
+<a href="/fotogal/oboi/index.shtml" target=_blank>���� ����</a><br>
+<a href="catalog.shtml">������� '������� ������ ������'</a><br>
+<a href="/friend.shtml">���� ������</a><br>
+<a href="/">��������</a><br>
+<a href="/rss/">RSS �������</a>
+
+</div>
+
+
+</td>
+<td><img src='/images/_0.gif' border=0 width=20 height=1>
+
+</center>
+</td>
+</tr>
+</table>
+
+<!-- content} -->
+
+<div class='b_link' align='center'>
+<!--a75902220-->
+</div>
+
+<div class='b_link' align='center'>
+ <a href='/about' title=''>� �����</a>
+ / 
+ <a href='/about?page=policy' title=''>�������� �����</a>
+ / 
+ <a href='/about?page=help' title=''>������</a>
+ / 
+ <a href='/about?page=subscribe' title=''>���������!</a>
+ / 
+ <a href='/about?page=web' title=''>����� ��������</a>
+ /
+ <a href='/about/rss.php' title=''>RSS</a>
+ / 
+ <a href='/map.shtml' title=''>����� �����</a>
+ / 
+ <a href='//forums.zooclub.ru/forumdisplay.php?f=15' title=''>�������� �����</a>
+ / 
+ <a href='/contacts' title=''>���������</a>
+ / 
+ <a href='/usl' title=''>������� �� �����</a>
+</div>
+
+
+<div class='b_line' align='center'>
+
+<!-- Rating@Mail.ru logo -->
+<a href="https://top.mail.ru/jump?from=894966">
+<img src="//top-fwz1.mail.ru/counter?id=894966;t=479;l=1" 
+style="border:0;" height="31" width="88" alt="�������@Mail.ru" /></a>
+<!-- //Rating@Mail.ru logo -->
+
+<!--LiveInternet logo--><a href="https://www.liveinternet.ru/click;Animals"
+target="_blank"><img src="//counter.yadro.ru/logo;Animals?14.15"
+title="LiveInternet: �������� ����� ���������� �� 24 ����, ����������� �� 24 ���� � �� �������"
+alt="" border="0" width="88" height="31"/></a><!--/LiveInternet-->
+
+<!-- Yandex.Metrika counter --> <script type="text/javascript"> (function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter43672759 = new Ya.Metrika({ id:43672759, clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true, ecommerce:"dataLayer" }); } catch(e) { } }); var n = d.getElementsByTagName("script")[0], s = d.createElement("script"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = "text/javascript"; s.async = true; s.src = "https://mc.yandex.ru/metrika/watch.js"; if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); } })(document, window, "yandex_metrika_callbacks"); </script> <noscript><div><img src="https://mc.yandex.ru/watch/43672759" style="position:absolute; left:-9999px;" alt="" /></div></noscript> <!-- /Yandex.Metrika counter -->
+</noindex>
+
+
+<br><br>
+
+&copy; 1998-2021, <b><a href='/'>������� - �������� � ����� ��������</a></b>
+
+<!-- bottom} -->
+
+<style>
+.bot_bar { position: fixed; z-index: 100000; bottom: 0; background: rgba(187,225,166,0.5); padding: 0px; width: 100%; }
+.bot_bar .in { width: 800px; }
+</style>
+
+<div class='bot_bar'>
+ <center>
+ <div class='in'>
+  <div style='overflow: hidden; clear: both; margin: 3px 0;'>
+
+  <div style='width:370px; float: left;'><!--
+   <script type="text/javascript" src="//yastatic.net/share/share.js" charset="utf-8"></script>
+   <div class="yashare-auto-init" data-yashareL10n="ru" data-yashareType="small" data-yashareQuickServices="vkontakte,facebook,twitter,odnoklassniki,moimir,friendfeed,moikrug,gplus,surfingbird" data-yashareTheme="counter"></div> 
+  -->
+      <script src="//yastatic.net/es5-shims/0.0.2/es5-shims.min.js"></script>
+      <script src="//yastatic.net/share2/share.js"></script>
+      <div class="ya-share2" data-services="vkontakte,facebook,odnoklassniki,moimir,gplus,twitter" data-counter=""></div>
+  </div>
+
+ </div>
+ </center>
+</div>
+  <!-- disclaimer -->
+<style>
+  #disclaimer {
+    position: fixed;
+    display: none;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    background: rgba(40, 40, 40, 0.9);
+    text-align: center;
+    z-index: 100001;
+    font: normal 14px/16px sans-serif;
+    color: #fff; }
+  #disclaimer .dwrap {
+    margin: 0 auto;
+    max-width: 1240px;
+    display: -ms-flexbox;
+    display: flex;
+    box-sizing: border-box; }
+  #disclaimer .dtext {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-preferred-size: 88%;
+    flex-basis: 88%;
+    -ms-flex-line-pack: center;
+    align-content: center;
+    -ms-flex-align: center;
+    align-items: center;
+    padding: 15px 15px; }
+  #disclaimer .dbtn {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-preferred-size: 12%;
+    flex-basis: 12%;
+    -ms-flex-line-pack: center;
+    align-content: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -ms-flex-pack: center;
+    justify-content: center; }
+  #disclaimer .btn {
+    margin: 5px 10px;
+    padding: 8px 12px;
+    background: #676767;
+    border: none;
+    cursor: pointer;
+    height: -webkit-min-content;
+    height: -moz-min-content;
+    height: min-content; }
+  #disclaimer .btn:hover {
+    color: #ddd; }
+</style>
+<div id="disclaimer">
+  <div class="dwrap">
+    <div class="dtext">
+      �� ����� ����������� ���� ������.������� � Google Analytics, ���������� ���������� � �����������. ���� ��
+      ������ ��������� ����� ������, �������� ����.
+    </div>
+    <div class="dbtn">
+      <span class="btn" id="close-disclaimer">��, �������</span>
+    </div>
+  </div>
+</div>
+<script>function setCookie(cname,cvalue){document.cookie=cname+"="+cvalue+";";} function getCookie(cname){var name=cname+"=";var ca=document.cookie.split(';');for(var i=0;i<ca.length;i++){var c=ca[i];while(c.charAt(0)==' '){c=c.substring(1);} if(c.indexOf(name)==0){return c.substring(name.length,c.length);}} return false;} function checkCookie(cname){var c=getCookie(cname);return c?true:false;} var disclaimer=document.getElementById("disclaimer");if(!checkCookie("DSCLMR")){disclaimer.style.display="block";} document.getElementById("close-disclaimer").addEventListener("click",function(){setCookie("DSCLMR","true");disclaimer.style.display="none";});</script>
+<!-- / disclaimer -->
+
+</body></html><!-- @ 0.0082461833953857 -->

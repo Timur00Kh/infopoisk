@@ -1,0 +1,193 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="ru">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta name="author" content="Лана Забродская" />
+  <meta name="copyright" content="Забродская Светлана Александровна" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="keywords" content="экономика, экономический, теория, финансы, деньги, кредит, банк, 
+  рынок, управление, труд, развитие, проект, решение, задача" />
+  <meta name="description" content="Отдельные вопросы экономики для студентов и школьников - проект
+  полезен тем, кто изучает экономику, финансы, управление, общеобразовательные дисциплины" />
+  <title>Отдельные вопросы экономики для студентов и школьников. Проект Ланы Забродской</title>
+  <link href="index-files/style.css" rel="stylesheet" type="text/css" />
+  <link rel="canonical" href="http://www.ekonomika-st.ru/"/>
+  <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+</head>
+<body>
+<table align="center" border="0" cellpadding="2" cellspacing="5"
+ width="95%">
+  <tbody>
+    <tr bgcolor="#6633ff">
+      <td colspan="2" class="zag" background="index-files/1.jpg" bgcolor="#6633ff" height="120px">
+      </td>
+    </tr>
+    <tr>
+      <td bgcolor="#6633ff" nowrap="nowrap" valign="top" width="20%" height="80px">
+      <ul class="menu1">
+        <li><a href="index.html" class="menu11"> О проекте</a></li>
+        <li><a href="vizitka.html" class="menu1"> Визитка автора</a></li>
+        <li><a href="soveti.html" class="menu1">&laquo;Вредные&raquo; советы</a></li>
+      </ul>
+      </td>
+      <td rowspan="2" class="otstup" bgcolor="#ffffcc" valign="top" width="90%">
+
+<table align="center" bgcolor="#6633ff" width="100%" border="0" cellpadding="0"
+ cellspacing="10">
+        <tbody>
+          <tr>
+		  <td >
+	<div style="float: right;" >
+      <form action="http://www.ekonomika-st.ru/poisk.html" id="cse-search-box">
+  <div>
+    <input type="hidden" name="cx" value="partner-pub-7354684827820360:3265389620" />
+    <input type="hidden" name="cof" value="FORID:10" />
+    <input type="hidden" name="ie" value="UTF-8" />
+    <input type="text" name="q" size="60" />
+    <input type="submit" name="sa" value="&#x041f;&#x043e;&#x0438;&#x0441;&#x043a;" />
+  </div>
+</form>
+
+<script type="text/javascript" src="http://www.google.ru/coop/cse/brand?form=cse-search-box&amp;lang=ru"></script>
+   </div>
+   </td>
+          </tr>
+        </tbody>
+      </table>
+
+      <h1>О проекте &laquo;Отдельные вопросы экономики <br />для студентов и школьников&raquo;</h1>
+      <p class="style3">Тот,
+кто почуял ветер перемен, должен строить не щит от ветра, а ветряную
+мельницу. <br />
+Майкл Мескон, Майкл Альберт и
+Франклин Хедоури &laquo;Основы менеджмента&raquo; </p>
+      <hr class="rp1" color="#ffd700" />
+
+<div align="right">
+<script src="//yastatic.net/es5-shims/0.0.2/es5-shims.min.js"></script>
+<script src="//yastatic.net/share2/share.js"></script>
+<div class="ya-share2" data-services="collections,vkontakte,facebook,odnoklassniki,moimir,twitter,lj,viber,whatsapp,skype"></div></div>
+
+      <p> Этот проект родился в
+результате нового увлечения автора, увлечения вебдизайном, и уже
+имеющегося опыта и знаний в других областях. А поскольку лучше всего автору удается учить и учиться, 
+то и проект посвящен студентам и школьникам:</p>
+      <ul>
+        <li> студентам
+экономических специальностей колледжей и Вузов (и не только);</li>
+        <li> школьникам старших
+классов, изучающим математику и экономику профильно или на элективах.</li>
+      </ul>
+      <p>В проекте представлены темы и статьи, раскрывающие отдельные вопросы следующих специальных и общеопрофессиональных дисциплин:</p>
+	  <ul>
+        <li><strong><em><a href="ekonomika/ekonomika.html" title="Экономика">Экономика</a></strong></em>:<br />
+		&ndash; <strong><em>Изучение человеческого развития </strong></em>(новые человеческие ценности, соответствующие концепции человеческого развития, ее основные элементы);<br />
+		&ndash; <strong><em>Институциональная экономика </strong></em>(основные понятия и место институциональной экономики в ряду других современных экономических дисциплин);<br />
+		&ndash; <strong><em>Национальная экономика</strong></em> (государственное регулирование национальной экономики, приоритеты государственной экономической
+		политики России в различные периоды, причины агрессивной внешней политики США);<br />
+		&ndash; <strong><em>Региональная экономика</strong></em> (комплексная оценка социально-экономического развития региона: валовой региональный продукт, объем инвестиций, 
+		объем внешнеторгового оборота, финансовая обеспеченность региона и др.);<br />
+		&ndash; <strong><em>Экономика здравоохранения</strong></em> (национальные системы здравоохранения, отличительные черты систем здравоохранения 
+		развитых стран, особенности рыночных механизмов в здравоохранении, основные проблемы и отличия
+		российского здравоохранения от других национальных систем);<br />
+		&ndash; <strong><em>Экономика труда</strong></em> (производительность труда, рынок труда, рабочая сила, трудовые ресурсы, 
+		роль профсоюзов на рынке труда, управление охраной труда, примеры решения задач);<br />
+		&ndash; <strong><em>Экономика фирмы</strong></em> (организация и реализация процесса стратегического управления);<br />
+		&ndash; <strong><em>Экономическая теория</strong></em> (вопросы Экономической теории и Истории экономических учений для подготовки к экзаменам, госам).
+		</li><br />
+        <li><strong><em><a href="f-kredit/f-kredit.html" title="Финансы и кредит">Финансы и кредит</a></strong></em>:<br />
+		&ndash; <strong><em>Бюджет и бюджетная система РФ </strong></em>(бюджетный процесс на федеральном и региональном уровне);<br />
+		&ndash; <strong><em>Деньги. Кредит. Банки </strong></em>(история развития денег, функции денег, деньги как средство обращения и мера стоимости, 
+		денежные реформы; инфляция и способы борьбы с ней; кредит, виды и формы кредита);<br />
+		&ndash; <strong><em>Организация деятельности коммерческого банка</strong></em> (баланс банка и принципы его построения);<br />
+		&ndash; <strong><em>Рынок ценных бумаг</strong></em> (государственное регулирование рынка ценных бумаг в России);<br />
+		&ndash; <strong><em>Теория рисков</strong></em> (кредитные риски в банковском предпринимательстве, возможные пути снижения кредитных рисков);<br />
+		&ndash; <strong><em>Финансы</strong></em> (содержание и функции финансов; бюджет, налоги, страхование как финансовые категории, примеры решения задач).
+		</li><br />
+		<li><strong><em><a href="upravlenie/upravlenie.html" title="Управление">Управление</a></strong></em>:<br />
+		&ndash; <strong><em>Аудит и контроллинг персонала</strong></em> (сущность аудита и контроллинга персонала, примеры решения задач);<br />
+		&ndash; <strong><em>Логистика</strong></em> (теоретические основы сбытовой деятельности в микрологистической системе);<br />
+		&ndash; <strong><em>Маркетинг</strong></em> (история развития, конъюнктура товарного рынка, 
+		товарная политика, ценовая политика в системе маркетинга, классический комплекс маркетинга, виды и способы сбора маркетинговой информации);<br />
+		&ndash; <strong><em>Менеджмент</strong></em> (правовые основы управления персоналом, прогнозирование и моделирование социально-экономических систем, основные показатели 
+		эффективности инвестиционных бизнес-процессов).
+		</li><br />
+		<li><strong><em><a href="drugie/drugie.html" title="Общепрофессиональные дисциплины">Другие дисциплины</a></strong></em> (общепрофессиональные дисциплины):<br />
+		&ndash; <strong><em>Делопроизводство</strong></em> (нормативно-методическая база делопроизводства, особенности составления и оформления резюме и автобиографии, деловых
+		записок, заявлений и др., а специально для студентов - правила написания курсовых и дипломов по ГОСТу );<br />
+		&ndash; <strong><em>Этика и психология делового общения</strong></em> (психосоциальные технологии делового общения);<br />
+		&ndash; <strong><em>Методы исследования (анализа)</strong></em> (основные методы теории вероятностей, 
+		статистики, экономического анализа, прогнозирования, примеры решения задач).
+		</li>
+      </ul>
+      <p> Материалы сайта помогут
+Вам не только при подготовке к семинарам и экзаменам, но и при
+написании рефератов, курсовых, дипломов. Кроме того, в разделе <strong><em><a href="knigi/knigi.html" title="Полезные источники">Полезные источники</a></strong></em> можно
+ найти дополнительный перечень электронных ресурсов для самостоятельной работы и поиска аналитической информации.
+ В разделе <strong><em><a href="soveti.html" title="Вредные советы">&laquo;Вредные&raquo; советы</a></strong></em> действительно даны 
+ советы &laquo;начинающим&raquo; для успешной работы с информационными ресурсами.</p>
+<table style="float: right;" border="0" cellpadding="0"
+ cellspacing="8">
+         <tbody>
+          <tr>
+            <td><a href="karta.html" title="Карта сайта"><img class="b2" src="index-files/3.jpg" alt="карта сайта"
+ height="32" width="165" /></a></td>
+          </tr>
+        </tbody>
+		</table>
+      <p>Сайт (проект) существует с июля 2012 года, активно развивается и регулярно пополняется новыми материалами. Перечень всех имеющихся на данный момент статей можно найти на карте сайта.</p>
+      <p>Ну и по традиции: &laquo;Ни пуха, ни пера!&raquo; </p>
+      <p style="text-align: right">
+Лана Забродская</p>
+
+
+
+      </td>
+    </tr>
+    <tr>
+      <td bgcolor="#9933ff" valign="top">
+      <p class="menu2"><a href="ekonomika/ekonomika.html">ЭКОНОМИКА</a></p>
+      <hr class="rp2" color="#ffffcc" />
+      <p class="menu2"><a href="f-kredit/f-kredit.html">ФИНАНСЫ И КРЕДИТ</a></p>
+      <hr class="rp2" color="#ffffcc" />
+      <p class="menu2"><a href="upravlenie/upravlenie.html">УПРАВЛЕНИЕ</a></p>
+      <hr class="rp2" color="#ffffcc" />
+      <p class="menu2"><a href="drugie/drugie.html">ДРУГИЕ ДИСЦИПЛИНЫ</a></p>
+      <hr class="rp2" color="#ffffcc" />
+      <p class="menu2"><a href="knigi/knigi.html">ПОЛЕЗНЫЕ ИСТОЧНИКИ</a></p>
+      <hr class="rp2" color="#ffffcc" /></td>
+    </tr>
+    <tr>
+      <td colspan="2" bgcolor="#9933ff">
+      <p class="style40">2012
+&copy; Лана Забродская. При копировании материалов сайта ссылка на источник обязательна</p>
+<p class="style40">
+
+<!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t42.6;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";h"+escape(document.title.substring(0,80))+";"+Math.random()+
+"' alt='' title='LiveInternet' "+
+"border='0' width='31' height='31'><\/a>")
+//--></script><!--/LiveInternet-->
+
+<!-- begin of Top100 code -->
+
+<script id="top100Counter" type="text/javascript" src="http://counter.rambler.ru/top100.jcn?2770464"></script>
+<noscript>
+<a href="http://top100.rambler.ru/navi/2770464/">
+<img src="http://counter.rambler.ru/top100.cnt?2770464" alt="Rambler's Top100" border="0" />
+</a>
+
+</noscript>
+<!-- end of Top100 code --></p>
+      
+</td>
+    </tr>
+  </tbody>
+</table>
+</body>
+</html>

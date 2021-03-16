@@ -1,0 +1,576 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="ru-RU"
+	prefix="og: https://ogp.me/ns#" > <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang="ru-RU"
+	prefix="og: https://ogp.me/ns#" > <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9" lang="ru-RU"
+	prefix="og: https://ogp.me/ns#" > <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="ru-RU" prefix="og: https://ogp.me/ns#"> <!--<![endif]-->
+<head>
+<link rel="icon" href="https://skachaj24.ru/favicon.SVG" type="image/x-icon">
+<link rel="icon" href="https://skachaj24.ru/favicon.ico" type="image/x-icon">
+<meta charset="UTF-8" />
+<!--[if IE]>
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<![endif]-->
+<meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0, user-scalable=yes" />
+<link rel="shortcut icon" href="https://skachaj24.ru/wp-content/uploads/2021/02/favicon.png" />
+<link rel="apple-touch-icon" href="https://skachaj24.ru/wp-content/uploads/2021/02/favicon_57.png" />
+<link rel="apple-touch-icon-precomposed" href="https://skachaj24.ru/wp-content/uploads/2021/02/favicon_57.png" />
+<link rel="apple-touch-icon" sizes="72x72" href="https://skachaj24.ru/wp-content/uploads/2021/02/favicon_72.png" />
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://skachaj24.ru/wp-content/uploads/2021/02/favicon_72.png" />
+<link rel="apple-touch-icon" sizes="114x114" href="https://skachaj24.ru/wp-content/uploads/2021/02/favicon_114.png" />
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://skachaj24.ru/wp-content/uploads/2021/02/favicon_114.png" />
+<link rel="apple-touch-icon" sizes="144x144" href="https://skachaj24.ru/wp-content/uploads/2021/02/favicon_144.png" />
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://skachaj24.ru/wp-content/uploads/2021/02/favicon_144.png" />
+
+<link rel="profile" href="https://gmpg.org/xfn/11" />
+<link rel="alternate" type="application/rss+xml" title="Информационно-образовательный сайт для тех, кто учится и учит &#8212; СКАЧАЙ24 RSS2 Feed" href="https://skachaj24.ru/feed/" />
+<link rel="pingback" href="https://skachaj24.ru/xmlrpc.php" />
+<title>Всем, кто учится и учит</title>
+
+<meta name="description" content="скачать учебники учебные методические пособия гуманитарным естественным точным наукам учится учит русскому языку литературе математике физике истории обществозн" />
+<meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+<meta name="google-site-verification" content="CVVfP-w9FBk09ximra2xbnpgkgfcLJhvT2IXmFNe3-4" />
+<meta name="keywords" content="скачать,учебник,пособие,учится,учит,математика,русский язык,физика,история." />
+<link rel="canonical" href="https://skachaj24.ru/" />
+<meta property="og:site_name" content="Учебно-образовательный сайт для тех, кто учится | skachaj24.ru" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Всем, кто учится и учит" />
+<meta property="og:description" content="скачать учебники учебные методические пособия гуманитарным естественным точным наукам учится учит русскому языку литературе математике физике истории обществозн" />
+<meta property="og:url" content="https://skachaj24.ru/" />
+<meta property="og:image" content="https://skachaj24.ru/wp-content/uploads/2018/01/down-skachaj.png" />
+<meta property="og:image:secure_url" content="https://skachaj24.ru/wp-content/uploads/2018/01/down-skachaj.png" />
+<meta property="og:image:width" content="200" />
+<meta property="og:image:height" content="200" />
+<meta property="article:published_time" content="2018-07-08T15:38:53Z" />
+<meta property="article:modified_time" content="2021-02-20T20:30:26Z" />
+<meta property="twitter:card" content="summary" />
+<meta property="twitter:site" content="@alpan365" />
+<meta property="twitter:domain" content="skachaj24.ru" />
+<meta property="twitter:title" content="Всем, кто учится и учит" />
+<meta property="twitter:description" content="скачать учебники учебные методические пособия гуманитарным естественным точным наукам учится учит русскому языку литературе математике физике истории обществозн" />
+<meta property="twitter:image" content="https://skachaj24.ru/wp-content/uploads/2018/01/down-skachaj.png" />
+<script type="text/javascript">
+			window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+			ga('create', "UA-111663315-1", 'auto');
+			ga('send', 'pageview');
+		</script>
+<script async src="https://www.google-analytics.com/analytics.js"></script>
+
+<link rel='stylesheet' id='wp-block-library-css' href='https://skachaj24.ru/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-style-css' href='https://skachaj24.ru/wp-content/themes/striking_r/css/screen.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-icons-awesome-css' href='https://skachaj24.ru/wp-content/themes/striking_r/icons/awesome/css/font-awesome.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-responsive-css' href='https://skachaj24.ru/wp-content/themes/striking_r/css/responsive.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-skin-css' href='https://skachaj24.ru/wp-content/uploads/strikingr/skin.css' type='text/css' media='all' />
+<link rel='stylesheet' id='font|Abel-css' href='https://fonts.googleapis.com/css?family=Abel' type='text/css' media='all' />
+<script type='text/javascript' src='https://skachaj24.ru/wp-includes/js/jquery/jquery.min.js' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://skachaj24.ru/wp-includes/js/jquery/jquery-migrate.min.js' id='jquery-migrate-js'></script>
+<style>
+			.pseudo-link{cursor: pointer;text-decoration: underline;color: #1f60d6;}.pseudo-link:hover{text-decoration: none;}		</style>
+<style>
+			.pseudo-author-link{cursor: pointer;text-decoration: underline;color: #1f60d6;}.pseudo-author-link:hover{text-decoration: none;}		</style>
+<script type="text/javascript">
+var image_url='https://skachaj24.ru/wp-content/themes/striking_r/images';
+var theme_url='https://skachaj24.ru/wp-content/themes/striking_r';
+var responsve_image_resize=true;
+var fancybox_options = {
+	skin:'theme',
+	title_type:'float',
+	width:800,
+	height:600,
+	autoSize:true,
+	autoWidth:false,
+	autoHeight:false,
+	fitToView:true,
+	aspectRatio:false,
+	arrows:true,
+	closeBtn:true,
+	closeClick:false,
+	nextClick:false,
+	autoPlay:false,
+	playSpeed:3000,
+	preload:3,
+	loop:true,
+	thumbnail:true,
+	thumbnail_width:50,
+	thumbnail_height:50,
+	thumbnail_position:'bottom'
+};
+var pie_progress_bar_color = "#0f4a8c",
+	pie_progress_track_color = "#e5e5e5";
+var nav2select_indentString = "-";
+var nav2select_defaultText = "Перейти к....";
+var responsive_menu_location = "manual";
+var responsive_menu_position = "";
+</script>
+<style id="theme-dynamic-style" type="text/css">
+#header{background-image:url('https://skachaj24.ru/wp-content/uploads/2018/12/5555-77775432.jpg');background-repeat:repeat;background-position:center top;background-attachment:scroll;-webkit-background-size:100% auto;-moz-background-size:100% auto;-o-background-size:100% auto;background-size:100% auto}.no-gradient #feature,.has-gradient #feature{background-image:url('https://skachaj24.ru/wp-content/uploads/2018/12/5555-77775432.jpg');background-repeat:no-repeat;background-position:center top;background-attachment:scroll;-webkit-background-size:100% auto;-moz-background-size:100% auto;-o-background-size:100% auto;background-size:100% auto}#page{background-image:url('https://skachaj24.ru/wp-content/uploads/2018/12/5555-77775432.jpg');background-repeat:repeat;background-position:center center;background-attachment:scroll;-webkit-background-size:100% auto;-moz-background-size:100% auto;-o-background-size:100% auto;background-size:100% auto}#page_bottom{background:none}
+</style>
+<style>
+		.pageviews-wrapper { height: 16px; line-height: 16px; font-size: 11px; clear: both; }
+		.pageviews-wrapper svg { width: 16px; height: 16px; fill: #aaa; float: left; margin-right: 2px; }
+		.pageviews-wrapper span { float: left; }
+		</style>
+<!--[if IE 6 ]>
+	<link href="https://skachaj24.ru/wp-content/themes/striking_r/css/ie6.css" media="screen" rel="stylesheet" type="text/css">
+	<script type="text/javascript" src="https://skachaj24.ru/wp-content/themes/striking_r/js/dd_belatedpng-min.js"></script>
+	<script type="text/javascript" src="https://skachaj24.ru/wp-content/themes/striking_r/js/ie6.js"></script>
+<![endif]-->
+<!--[if IE 7 ]>
+<link href="https://skachaj24.ru/wp-content/themes/striking_r/css/ie7.css" media="screen" rel="stylesheet" type="text/css">
+<![endif]-->
+<!--[if IE 8 ]>
+<link href="https://skachaj24.ru/wp-content/themes/striking_r/css/ie8.css" media="screen" rel="stylesheet" type="text/css">
+<![endif]-->
+<!--[if IE]>
+	<script type="text/javascript" src="https://skachaj24.ru/wp-content/themes/striking_r/js/html5shiv.js"></script>
+<![endif]-->
+
+<!--[if lt IE 9]>
+  <script type='text/javascript' src='https://skachaj24.ru/wp-content/themes/striking_r/js/css3-mediaqueries.js'></script> 
+<![endif]-->
+</head>
+<body class="home page-template page-template-template_fullwidth page-template-template_fullwidth-php page page-id-51298 scroll-to-top scroll-to-top-circle responsive has-shadow has-gradient">
+<div class="body-warp">
+<header id="header">
+<div class="inner">
+<div id="logo" class="logo-has-mobile"><a href="https://skachaj24.ru/"><img class="site-logo ie_png" width="570" height="144" src="https://skachaj24.ru/wp-content/uploads/2021/02/skschaj24-logo7.gif" alt="Информационно-образовательный сайт для тех, кто учится и учит - СКАЧАЙ24" /><img class="mobile-logo ie_png" width="570" height="144" src="https://skachaj24.ru/wp-content/uploads/2021/02/skschaj24-logo7.gif" alt="Информационно-образовательный сайт для тех, кто учится и учит - СКАЧАЙ24" /></a><div id="site_description">Cайт, на котором можно скачать учебники и пособия по русскому языку, литературе, математике, физике, истории обществознанию, иностранн,ым языкам, философии, экономике, психологии, культурологии, религиоведению, политологии, юриспруденции.</div></div><div id="top_area"></div> <nav id="navigation" class="jqueryslidemenu"><ul id="menu-glavnoe-menyu" class="menu"><li id="menu-item-8184" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-8184"><a href="https://skachaj24.ru/" aria-current="page">Главная</a></li>
+<li id="menu-item-52117" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-52117"><a href="https://skachaj24.ru/karta-sayta/">Карта сайта</a></li>
+<li id="menu-item-51347" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-51347"><a href="https://skachaj24.ru/obratnaya-svyaz/">Обратная связь</a></li>
+</ul></nav> </div>
+</header>
+<div id="feature"><div class="top_shadow"></div><div class="inner"><h1 class="entry-title">Всем, кто учится и учит</h1></div><div class="bottom_shadow"></div></div><div id="page">
+<div class="inner">
+<div id="main">
+<div class='code-block code-block-5' style='margin: 8px auto; text-align: center; display: block; clear: both;'>
+<a href="https://skachaj24.ru/adhunt775137.php" target="_blank"><img src="https://skachaj24.ru/wp-content/uploads/2020/12/2-8877666555.jpg"></a></div>
+<div class="content">
+<div class="divider" style="border-color:#2F85C5;border-bottom-width:5px"></div>
+<img loading="lazy" class="alignnone wp-image-49867 aligncenter" style="color: #0484cc; text-align: center;" src="https://skachaj24.ru/wp-content/uploads/2018/01/down-skachaj.png" alt="Скачай24" width="110" height="110" /></p>
+<div id="introduce" class="feature-introduce">
+<h4 style="text-align: center;"><span style="font-family: impact, sans-serif;"><span style="font-size: 20px;"><span style="color: #0484cc;"> <span style="font-size: 24px; color: #ff6600;">Информационно-образовательный сайт<br />
+<strong>&#171;ВСЕМ, КТО УЧИТСЯ И УЧИТ&#187;</strong><br />
+предназначен для ознакомления с учебниками, учебными пособиями и методическими материалами по Русскому языку, Литературе, Математике, Информатике, Физике, Биологии, Химии, Истории, Обществознанию, Географии, Астрономии, ОБЖ, Иностранным языкам, Естествознанию, Философии, Социологии, Экономике, Юриспруденции, Политологии, Культурологии, Религиоведению, Психологии&#8230;</span></span></span></span></h4>
+<p><img loading="lazy" class="aligncenter size-full wp-image-58816" src="https://skachaj24.ru/wp-content/uploads/2021/02/11-5556677-9999976666d.jpg" alt="Всем, кто учится и учит" width="1000" height="100" srcset="https://skachaj24.ru/wp-content/uploads/2021/02/11-5556677-9999976666d.jpg 1000w, https://skachaj24.ru/wp-content/uploads/2021/02/11-5556677-9999976666d-768x77.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></p>
+</div>
+<hr />
+<p><span style="vertical-align: inherit;"><div class="one_fourth"></span></p>
+<div id="content_box_ef692e2efb821a00a050d220c1cdd978" class="content_box rounded">
+<div class="content_box_title" style="background-color:rgba(229,225,225,0.97);color:rgba(234,50,50,1)"><i class="icon-book" style="color:#469ce9"></i><big><big>Русский язык</big></big></div>
+<div class="content_box_content" style="background-color:rgba(255,255,255,1);">
+<div><a href="https://skachaj24.ru/russkij-yazyk-1-klass/">☆ 1 класс</a></div>
+<div><a href="https://skachaj24.ru/russkij-yazyk-2-klass/">☆ 2 класс</a></div>
+<div><a href="https://skachaj24.ru/russkij-yazyk-3-klass/">☆ 3 класс</a></div>
+<div><a href="https://skachaj24.ru/russkij-yazyk-4-klass/">☆ 4 класс</a></div>
+<div><a href="https://skachaj24.ru/russkij-yazyk-5-klass/">☆ 5 класс</a></div>
+<div><a href="https://skachaj24.ru/russkij-yazyk-6-klass/">☆ 6 класс</a></div>
+<div><a href="https://skachaj24.ru/russkij-yazyk-7-klass/">☆ 7 класс</a></div>
+<div><a href="https://skachaj24.ru/russkij-yazyk-8-klass/">☆ 8 класс</a></div>
+<div><a href="https://skachaj24.ru/russkij-yazyk-9-klass/">☆ 9 класс</a></div>
+<div><a href="https://skachaj24.ru/russkij-yazyk-10-klass/">☆ 10 класс</a></div>
+<div><a href="https://skachaj24.ru/russkij-yazyk-11-klass/">☆ 11 класс</a></div>
+<div><a href="https://skachaj24.ru/ege-po-russkomu-yazyku/">☆ ЕГЭ</a></div>
+<div><a href="https://skachaj24.ru/russkij-yazyk-oge/"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">☆ ОГЭ</span></span></a></div>
+<div><a href="https://skachaj24.ru/russkij-yazyk-dlya-vuzov/">☆ ВУЗы и ССУЗы</a></div>
+<div><a href="https://skachaj24.ru/dopolnitelnyj-russkij-yazyk/">☆ Дополнительно</a></div>
+<div><a href="https://skachaj24.ru/russkiy-yazyk-uchebniki-uchebnye-i-metodicheskie-posobiya-slovari/">☆ ВЕСЬ РАЗДЕЛ</a></div>
+<p><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">
+<div class="content_box_space"></div>
+</div>
+</div>
+</span></span></p>
+<p><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"></div> <div class="one_fourth"></span></span></p>
+<div id="content_box_d3500d4b7161890163a6ae70b2806083" class="content_box rounded">
+<div class="content_box_title" style="background-color:rgba(229,225,225,0.97);color:rgba(234,50,50,1)"><i class="icon-book" style="color:#469ce9"></i><big><big>Литература</big></big></div>
+<div class="content_box_content" style="background-color:rgba(255,255,255,1);">
+<div><a href="https://skachaj24.ru/literatura-1-klass/">☆ 1 класс</a></div>
+<div><a href="https://skachaj24.ru/literatura-2-klass/"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">☆ 2 класс</span></span></a></div>
+<div><a href="https://skachaj24.ru/literatura-3-klass/"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">☆ 3 класс</span></span></a></div>
+<div><a href="https://skachaj24.ru/literatura-4-klass/"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">☆ 4 класс</span></span></a></div>
+<div><a href="https://skachaj24.ru/literatura-5-klass/"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">☆ 5 класс</span></span></a></div>
+<div><a href="https://skachaj24.ru/literatura-6-klass/"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">☆ 6 класс</span></span></a></div>
+<div><a href="https://skachaj24.ru/literatura-7-klass/"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">☆ 7 класс</span></span></a></div>
+<div><a href="https://skachaj24.ru/literatura-8-klass/"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">☆ 8 класс</span></span></a></div>
+<div><a href="https://skachaj24.ru/literatura-9-klass/"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">☆ 9 класс</span></span></a></div>
+<div><a href="https://skachaj24.ru/literatura-10-klass/"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">☆ 10 класс</span></span></a></div>
+<div><a href="https://skachaj24.ru/literatura-11-klass/"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">☆ 11 класс</span></span></a></div>
+<div><a href="https://skachaj24.ru/ege-po-literature/"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">☆ ЕГЭ</span></span></a></div>
+<div><a href="https://skachaj24.ru/gia-po-literature/"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">☆ ОГЭ</span></span></a></div>
+<div><a href="https://skachaj24.ru/literatura-dlya-vuzov/"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">☆ ВУЗы и ССУЗы</span></span></a></div>
+<div><a href="https://skachaj24.ru/dopolnitelnaya-literatura/"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">☆ Дополнительно</span></span></a></div>
+<div><a href="https://skachaj24.ru/literatura-uchebniki-hrestomatii-uchebnye-i-metodicheskie-posobiya/"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">☆ ВЕСЬ РАЗДЕЛ</span></span></a></div>
+<div></div>
+<div><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">
+<div class="content_box_space"></div>
+</div>
+</div>
+</span></span></div>
+<p><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"></div> <div class="one_fourth"></span></span></p>
+<div id="content_box_1acf33a5f174d863da0f0d0960e7ef09" class="content_box rounded">
+<div class="content_box_title" style="background-color:rgba(229,225,225,0.97);color:rgba(234,50,50,1)"><i class="icon-book" style="color:#469ce9"></i><big><big>Математика</big></big></div>
+<div class="content_box_content" style="background-color:rgba(255,255,255,1);">
+<div><a href="https://skachaj24.ru/matematika-1-klass/"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">☆ 1 класс</span></span></a></div>
+<div><a href="https://skachaj24.ru/matematika-2-klass/"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">☆ 2 класс</span></span></a></div>
+<div><a href="https://skachaj24.ru/matematika-3-klass/"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">☆ 3 класс</span></span></a></div>
+<div><a href="https://skachaj24.ru/matematika-4-klass/"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">☆ 4 класс</span></span></a></div>
+<div><a href="https://skachaj24.ru/matematika-5-klass/"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">☆ 5 класс</span></span></a></div>
+<div><a href="https://skachaj24.ru/matematika-6-klass/"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">☆ 6 класс</span></span></a></div>
+<div><a href="https://skachaj24.ru/algebra-7-klass/"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">☆ 7 класс</span></span></a></div>
+<div><a href="https://skachaj24.ru/algebra-8-klass/"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">☆ 8 класс</span></span></a></div>
+<div><a href="https://skachaj24.ru/algebra-9-klass/"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">☆ 9 класс</span></span></a></div>
+<div><a href="https://skachaj24.ru/algebra-10-klass/"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">☆ 10 класс</span></span></a></div>
+<div><a href="https://skachaj24.ru/algebra-11-klass/"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">☆ 11 класс</span></span></a></div>
+<div><a href="https://skachaj24.ru/ege-po-matematike/"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">☆ ЕГЭ</span></span></a></div>
+<div><a href="https://skachaj24.ru/gia-po-matematike/"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">☆ ОГЭ</span></span></a></div>
+<div><a href="https://skachaj24.ru/vysshaya-matematika/"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">☆ ВУЗы и ССУЗы</span></span></a></div>
+<div><a href="https://skachaj24.ru/dopolnitelnaya-matematika/"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">☆ Дополнительно</span></span></a></div>
+<div><a href="https://skachaj24.ru/matematika-algebra-geometriya-uchebniki-uchebno-metodicheskie-posobiya/"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">☆ ВЕСЬ РАЗДЕЛ</span></span></a></div>
+<p><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">
+<div class="content_box_space"></div>
+</div>
+</div>
+</span></span></p>
+<p><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"></div> <div class="one_fourth last"></span></span></p>
+<div id="content_box_cebe7d015ac9e7807207820fea153d90" class="content_box rounded">
+<div class="content_box_title" style="background-color:rgba(229,225,225,0.97);color:rgba(234,50,50,1)"><i class="icon-book" style="color:#469ce9"></i><big><big>Геометрия</big></big></div>
+<div class="content_box_content" style="background-color:rgba(255,255,255,1);">
+<div>☆</div>
+<div>☆</div>
+<div>☆</div>
+<div>☆</div>
+<div>☆</div>
+<div>☆</div>
+<div><a href="https://skachaj24.ru/geometriya-7-klass/">☆ 7 класс</a></div>
+<div><a href="https://skachaj24.ru/geometriya-8-klass/">☆ 8 класс</a></div>
+<div><a href="https://skachaj24.ru/geometriya-9-klass/">☆ 9 класс</a></div>
+<div><a href="https://skachaj24.ru/geometriya-10-klass/">☆ 10 класс</a></div>
+<div><a href="https://skachaj24.ru/geometriya-11-klass/">☆ 11 класс</a></div>
+<div>
+<div>☆</div>
+<div>☆</div>
+<div>☆</div>
+<div>☆</div>
+</div>
+<div><a href="https://skachaj24.ru/matematika-algebra-geometriya-uchebniki-uchebno-metodicheskie-posobiya/">☆ ВЕСЬ РАЗДЕЛ</a></div>
+<div>
+<div class="content_box_space"></div>
+</div>
+</div>
+</div></div><div class="clearboth"></div>
+<div class="one_fourth"><div id="content_box_9e5d507eec1807c74f6c4d3439a9032d" class="content_box rounded">
+<div class="content_box_title" style="background-color:rgba(229,225,225,0.97);color:rgba(234,50,50,1)"><i class="icon-book" style="color:#469ce9"></i><big>Информатика</big></div>
+<div class="content_box_content" style="background-color:rgba(255,255,255,1);">
+<div><a href="https://skachaj24.ru/informatika-1-klass/">☆ 1 класс</a></div>
+<div><a href="https://skachaj24.ru/informatika-2-klass/">☆ 2 класс</a></div>
+<div><a href="https://skachaj24.ru/informatika-3-klass/">☆ 3 класс</a></div>
+<div><a href="https://skachaj24.ru/informatika-4-klass/">☆ 4 класс</a></div>
+<div><a href="https://skachaj24.ru/informatika-5-klass/">☆ 5 класс</a></div>
+<div><a href="https://skachaj24.ru/informatika-6-klass/">☆ 6 класс</a></div>
+<div><a href="https://skachaj24.ru/informatika-7-klass/">☆ 7 класс</a></div>
+<div><a href="https://skachaj24.ru/informatika-8-klass/">☆ 8 класс</a></div>
+<div><a href="https://skachaj24.ru/informatika-9-klass/">☆ 9 класс</a></div>
+<div><a href="https://skachaj24.ru/informatika-10-klass/">☆ 10 класс</a></div>
+<div><a href="https://skachaj24.ru/informatika-11-klass/">☆ 11 класс</a></div>
+<div><a href="https://skachaj24.ru/ege-po-informatike/">☆ ЕГЭ</a></div>
+<div><a href="https://skachaj24.ru/gia-po-informatike/">☆ ОГЭ</a></div>
+<div><a href="https://skachaj24.ru/informatika-dlya-vuzov/">☆ ВУЗы и ССУЗы</a></div>
+<div><a href="https://skachaj24.ru/informatika-dopolnitelno/">☆ Дополнительно</a></div>
+<div><a href="https://skachaj24.ru/informatika-i-ikt-uchebniki-uchebnye-i-metodicheskie-posobiya/">☆ ВЕСЬ РАЗДЕЛ</a></div>
+<div>
+<div class="content_box_space"></div>
+</div>
+</div>
+</div></div> <div class="one_fourth"><div id="content_box_dad96ffbe450df139edfd168d1a2319f" class="content_box rounded">
+<div class="content_box_title" style="background-color:rgba(229,225,225,0.97);color:rgba(234,50,50,1)"><i class="icon-book" style="color:#469ce9"></i><big><big>Физика</big></big></div>
+<div class="content_box_content" style="background-color:rgba(255,255,255,1);">
+<div>☆<br />
+☆<br />
+☆<br />
+☆<br />
+☆</div>
+<div><a href="https://skachaj24.ru/fizika-6-klass/">☆ 5-6 классы</a></div>
+<div><a href="https://skachaj24.ru/fizika-7-klass/">☆ 7 класс</a></div>
+<div><a href="https://skachaj24.ru/fizika-8-klass/">☆ 8 класс</a></div>
+<div><a href="https://skachaj24.ru/fizika-9-klass/">☆ 9 класс</a></div>
+<div><a href="https://skachaj24.ru/fizika-10-klass/">☆ 10 класс</a></div>
+<div><a href="https://skachaj24.ru/fizika-11-klass/">☆ 11 класс</a></div>
+<div><a href="https://skachaj24.ru/ege-po-fizike/">☆ ЕГЭ</a></div>
+<div><a href="https://skachaj24.ru/gia-po-fizike/">☆ ОГЭ</a></div>
+<div><a href="https://skachaj24.ru/fizika-dlya-vuzov/">☆ ВУЗы и ССУЗы</a></div>
+<div><a href="https://skachaj24.ru/fizika-dopolnitelno/">☆ Дополнительно</a></div>
+<div><a href="https://skachaj24.ru/fizika-uchebniki-uchebnye-posobiya-metodicheskie-materialy/">☆ ВЕСЬ РАЗДЕЛ</a></div>
+<div class="content_box_space"></div>
+</div>
+</div>
+</div> <div class="one_fourth"><div id="content_box_f144d9a2e49b452a7358fc98f6ad6a73" class="content_box rounded">
+<div class="content_box_title" style="background-color:rgba(229,225,225,0.97);color:rgba(234,50,50,1)"><i class="icon-book" style="color:#469ce9"></i><big><big>История</big></big></div>
+<div class="content_box_content" style="background-color:rgba(255,255,255,1);">
+<div>
+<div>☆</div>
+<div>☆</div>
+<div>☆</div>
+<div>☆</div>
+</div>
+<div><a href="https://skachaj24.ru/istoriya-5-klass/">☆ 5 класс</a></div>
+<div><a href="https://skachaj24.ru/istoriya-6-klass/">☆ 6 класс</a></div>
+<div><a href="https://skachaj24.ru/istoriya-7-klass/">☆ 7 класс</a></div>
+<div><a href="https://skachaj24.ru/istoriya-8-klass/">☆ 8 класс</a></div>
+<div><a href="https://skachaj24.ru/istoriya-9-klass/">☆ 9 класс</a></div>
+<div><a href="https://skachaj24.ru/istoriya-10-klass/">☆ 10 класс</a></div>
+<div><a href="https://skachaj24.ru/istoriya-11-klass/">☆ 11 класс</a></div>
+<div><a href="https://skachaj24.ru/ege-po-istorii/">☆ ЕГЭ</a></div>
+<div><a href="https://skachaj24.ru/gia-po-istorii/">☆ ОГЭ</a></div>
+<div><a href="https://skachaj24.ru/istoriya-dlya-vuzov/">☆ ВУЗы и ССУЗы</a></div>
+<div><a href="https://skachaj24.ru/istoriya-dopolnitelno/">☆ Дополнительно</a></div>
+<div><a href="https://skachaj24.ru/istoriya-rossii-vseobschaya-istoriya-uchebniki-uchebnye-posobiya/">☆ ВЕСЬ РАЗДЕЛ</a></div>
+<div class="content_box_space"></div>
+</div>
+</div>
+</div> <div class="one_fourth last"><div id="content_box_4df541e633fb90106d235156a0991679" class="content_box rounded">
+<div class="content_box_title" style="background-color:rgba(229,225,225,0.97);color:rgba(234,50,50,1)"><i class="icon-book" style="color:#469ce9"></i>Обществознание</div>
+<div class="content_box_content" style="background-color:rgba(255,255,255,1);">
+<div>☆<br />
+☆<br />
+☆<br />
+☆</div>
+<div><a href="https://skachaj24.ru/obshhestvoznanie-5-klass/">☆ 5 класс</a></div>
+<div><a href="https://skachaj24.ru/obshhestvoznanie-6-klass/">☆ 6 класс</a></div>
+<div><a href="https://skachaj24.ru/obshhestvoznanie-7-klass/">☆ 7 класс</a></div>
+<div><a href="https://skachaj24.ru/obshhestvoznanie-8-klass/">☆ 8 класс</a></div>
+<div><a href="https://skachaj24.ru/obshhestvoznanie-9-klass/">☆ 9 класс</a></div>
+<div><a href="https://skachaj24.ru/obshhestvoznanie-10-klass/">☆ 10 класс</a></div>
+<div><a href="https://skachaj24.ru/obshhestvoznanie-11-klass/">☆ 11 класс</a></div>
+<div><a href="https://skachaj24.ru/ege-po-obshhestvoznaniyu/">☆ ЕГЭ</a></div>
+<div><a href="https://skachaj24.ru/gia-po-obshhestvoznaniyu/">☆ ОГЭ</a></div>
+<div>☆</div>
+<div><a href="https://skachaj24.ru/obshhestvoznanie-dopolnitelno/">☆ Дополнительно</a></div>
+<div><a href="https://skachaj24.ru/obschestvoznanie-uchebniki-uchebnye-posobiya-metodicheskie-materialy/">☆ ВЕСЬ РАЗДЕЛ</a></div>
+<div class="content_box_space"></div>
+</div>
+</div>
+</div><div class="clearboth"></div>
+<div class="one_fourth"><div id="content_box_f56ed461c1a00b07d6db76c59a42d639" class="content_box rounded">
+<div class="content_box_title" style="background-color:rgba(229,225,225,0.97);color:rgba(234,50,50,1)"><i class="icon-book" style="color:#469ce9"></i><big><big>География</big></big></div>
+<div class="content_box_content" style="background-color:rgba(255,255,255,1);">
+<div>
+<div>☆</div>
+<div>☆</div>
+<div>☆</div>
+<div>☆</div>
+</div>
+<div><a href="https://skachaj24.ru/geografiya-5-klass/">☆ 5 класс</a></div>
+<div><a href="https://skachaj24.ru/geografiya-6-klass/">☆ 6 класс</a></div>
+<div><a href="https://skachaj24.ru/geografiya-7-klass/">☆ 7 класс</a></div>
+<div><a href="https://skachaj24.ru/geografiya-8-klass/">☆ 8 класс</a></div>
+<div><a href="https://skachaj24.ru/geografiya-9-klass/">☆ 9 класс</a></div>
+<div><a href="https://skachaj24.ru/geografiya-10-klass/">☆ 10 класс</a></div>
+<div><a href="https://skachaj24.ru/geografiya-11-klass/">☆ 11 класс</a></div>
+<div><a href="https://skachaj24.ru/ege-po-geografii/">☆ ЕГЭ</a></div>
+<div><a href="https://skachaj24.ru/gia-po-geografii/">☆ ОГЭ</a></div>
+<div><a href="https://skachaj24.ru/geografiya-vuz/">☆ ВУЗы и ССУЗы</a></div>
+<div><a href="https://skachaj24.ru/geografiya-dopolnitelno/">☆ Дополнительно</a></div>
+<div><a href="https://skachaj24.ru/geografiya-uchebniki-atlasy-uchebno-metodicheskie-posobiya/">☆ ВЕСЬ РАЗДЕЛ</a></div>
+<div class="content_box_space"></div>
+</div>
+</div>
+</div> <div class="one_fourth"><div id="content_box_219609153b92bc9c59c60e18ba780194" class="content_box rounded">
+<div class="content_box_title" style="background-color:rgba(229,225,225,0.97);color:rgba(234,50,50,1)"><i class="icon-book" style="color:#469ce9"></i><big><big>Биология</big></big></div>
+<div class="content_box_content" style="background-color:rgba(255,255,255,1);">
+<div>
+<div>☆</div>
+<div>☆</div>
+<div>☆</div>
+<div>☆</div>
+</div>
+<div><a href="https://skachaj24.ru/biologiya-5-klass/">☆ 5 класс</a></div>
+<div><a href="https://skachaj24.ru/biologiya-6-klass/">☆ 6 класс</a></div>
+<div><a href="https://skachaj24.ru/biologiya-7-klass/">☆ 7 класс</a></div>
+<div><a href="https://skachaj24.ru/biologiya-8-klass/">☆ 8 класс</a></div>
+<div><a href="https://skachaj24.ru/biologiya-9-klass/">☆ 9 класс</a></div>
+<div><a href="https://skachaj24.ru/biologiya-10-klass/">☆ 10 класс</a></div>
+<div><a href="https://skachaj24.ru/biologiya-11-klass/">☆ 11 класс</a></div>
+<div><a href="https://skachaj24.ru/ege-po-biologii/">☆ ЕГЭ</a></div>
+<div><a href="https://skachaj24.ru/gia-po-biologii/">☆ ОГЭ</a></div>
+<div><a href="https://skachaj24.ru/biologiya-dlya-vuzov/">☆ ВУЗы и ССУЗы</a></div>
+<div><a href="https://skachaj24.ru/biologiya-kak-nauka/">☆ Дополнительно</a></div>
+<div><a href="https://skachaj24.ru/biologiya-uchebniki-uchebnye-i-metodicheskie-posobiya-atlasy-spravochniki/">☆ ВЕСЬ РАЗДЕЛ</a></div>
+<div class="content_box_space"></div>
+</div>
+</div>
+</div> <div class="one_fourth"><div id="content_box_fe2331bb43efdca29db9f93a630e5c26" class="content_box rounded">
+<div class="content_box_title" style="background-color:rgba(229,225,225,0.97);color:rgba(234,50,50,1)"><i class="icon-book" style="color:#469ce9"></i><big><big>Химия</big></big></div>
+<div class="content_box_content" style="background-color:rgba(255,255,255,1);">
+<div>
+<div>☆</div>
+<div>☆</div>
+<div>☆</div>
+<div>☆</div>
+<div>
+<div>☆</div>
+<div>☆</div>
+</div>
+</div>
+<div><a href="https://skachaj24.ru/ximiya-7-klass/">☆ 5-7 классы</a></div>
+<div><a href="https://skachaj24.ru/ximiya-8-klass/">☆ 8 класс</a></div>
+<div><a href="https://skachaj24.ru/ximiya-9-klass/">☆ 9 класс</a></div>
+<div><a href="https://skachaj24.ru/ximiya-10-klass/">☆ 10 класс</a></div>
+<div><a href="https://skachaj24.ru/ximiya-11-klass/">☆ 11 класс</a></div>
+<div><a href="https://skachaj24.ru/ege-po-ximii/">☆ ЕГЭ</a></div>
+<div><a href="https://skachaj24.ru/gia-po-ximii/">☆ ОГЭ</a></div>
+<div><a href="https://skachaj24.ru/ximiya-dlya-vuzov/">☆ ВУЗы и ССУЗы</a></div>
+<div><a href="https://skachaj24.ru/ximiya-dopolnitelno/">☆ Дополнительно</a></div>
+<div><a href="https://skachaj24.ru/himiya-uchebniki-uchebnye-posobiya-uchebno-metodicheskie-materialy/">☆ ВЕСЬ РАЗДЕЛ</a></div>
+<div class="content_box_space"></div>
+</div>
+</div>
+</div> <div class="one_fourth last"><div id="content_box_a647b6d14998bb1ae2eb42dc97376c4f" class="content_box rounded">
+<div class="content_box_title" style="background-color:rgba(229,225,225,0.97);color:rgba(234,50,50,1)"><i class="icon-book" style="color:#469ce9"></i>Английский язык</div>
+<div class="content_box_content" style="background-color:rgba(255,255,255,1);">
+<div><a href="https://skachaj24.ru/anglijskij-yazyk-1-klass/">☆ 1 класс</a></div>
+<div><a href="https://skachaj24.ru/anglijskij-yazyk-2-klass/">☆ 2 класс</a></div>
+<div><a href="https://skachaj24.ru/anglijskij-yazyk-3-klass/">☆ 3 класс</a></div>
+<div><a href="https://skachaj24.ru/anglijskij-yazyk-4-klass/">☆ 4 класс</a></div>
+<div><a href="https://skachaj24.ru/anglijskij-yazyk-5-klass/">☆ 5 класс</a></div>
+<div><a href="https://skachaj24.ru/anglijskij-yazyk-6-klass/">☆ 6 класс</a></div>
+<div><a href="https://skachaj24.ru/anglijskij-yazyk-7-klass/">☆ 7 класс</a></div>
+<div><a href="https://skachaj24.ru/anglijskij-yazyk-8-klass/">☆ 8 класс</a></div>
+<div><a href="https://skachaj24.ru/anglijskij-yazyk-9-klass/">☆ 9 класс</a></div>
+<div><a href="https://skachaj24.ru/anglijskij-yazyk-10-klass/">☆ 10 класс</a></div>
+<div><a href="https://skachaj24.ru/anglijskij-yazyk-11-klass/">☆ 11 класс</a></div>
+<div><a href="https://skachaj24.ru/ege-po-anglijskomu-yazyku/">☆ ЕГЭ</a></div>
+<div><a href="https://skachaj24.ru/gia-po-anglijskomu-yazyku/">☆ ОГЭ</a></div>
+<div><a href="https://skachaj24.ru/anglijskij-yazyk-dlya-vuzov/">☆ ВУЗы и ССУЗы</a></div>
+<div><a href="https://skachaj24.ru/anglijskij-yazyk-dlya-vsex/">☆ Дополнительно</a></div>
+<div><a href="https://skachaj24.ru/angliyskiy-yazyk-uchebniki-slovari-uchebnye-i-metodicheskie-posobiya/">☆ ВЕСЬ РАЗДЕЛ</a></div>
+<div class="content_box_space"></div>
+</div>
+</div>
+</div><div class="clearboth"></div>
+<div class="one_fourth"><p class="center"><a href="https://skachaj24.ru/astronomiya-uchebniki-uchebnye-posobiya-atlasy-spravochniki-entsiklopedii/" style="background-color:rgba(229,225,225,0.97)" class="button l primary"><span style="color:rgba(234,50,50,1);width:160px"><i class="icon-book" style="color:#469ce9"></i><big>Астрономия</big></span></a></p></div> <div class="one_fourth"><p class="center"><a href="https://skachaj24.ru/uchebniki-uchebnye-i-metodicheskie-posobiya-po-obzh-i-ohrane-truda/" style="background-color:rgba(229,225,225,0.97)" class="button l primary"><span style="color:rgba(234,50,50,1);width:160px"><i class="icon-book" style="color:#469ce9"></i><big>ОБЖ</big></span></a></p></div> <div class="one_fourth"><p class="center"><a href="https://skachaj24.ru/estestvoznanie-uchebniki-uchebnye-posobiya-metodicheskie-materialy/" style="background-color:rgba(229,225,225,0.97)" class="button l primary"><span style="color:rgba(234,50,50,1);width:170px"><i class="icon-book" style="color:#469ce9"></i>Естествознание</span></a></p></div> <div class="one_fourth last"><p class="center"><a href="https://skachaj24.ru/filosofiya-uchebniki-uchebnye-posobiya-konspekty-lektsiy-spravochniki/" style="background-color:rgba(229,225,225,0.97)" class="button l primary"><span style="color:rgba(234,50,50,1);width:160px"><i class="icon-book" style="color:#469ce9"></i><big>Философия</big></span></a></p></div><div class="clearboth"></div>
+<div class="one_fourth"><p class="center"><a href="https://skachaj24.ru/sotsiologiya-skachat-uchebniki-uchebnye-posobiya-konspekty-lektsiy/" style="background-color:rgba(229,225,225,0.97)" class="button l primary"><span style="color:rgba(234,50,50,1);width:160px"><i class="icon-book" style="color:#469ce9"></i><big>Социология</big></span></a></p></div> <div class="one_fourth"><p class="center"><a href="https://skachaj24.ru/politologiya-uchebniki-i-uchebnye-posobiya/" style="background-color:rgba(229,225,225,0.97)" class="button l primary"><span style="color:rgba(234,50,50,1);width:180px"><i class="icon-book" style="color:#469ce9"></i><big>Политология</big></span></a></p></div> <div class="one_fourth"><p class="center"><a href="https://skachaj24.ru/uchebniki-po-kulturologii-mirovoy-i-russkoy-hudozhestvennoy-kulture/" style="background-color:rgba(229,225,225,0.97)" class="button l primary"><span style="color:rgba(234,50,50,1);width:160px"><i class="icon-book" style="color:#469ce9"></i>Культурология</span></a></p></div> <div class="one_fourth last"><p class="center"><a href="https://skachaj24.ru/religiovedenie-skachat-uchebniki-uchebnye-posobiya-entsiklopedii/" style="background-color:rgba(229,225,225,0.97)" class="button l primary"><span style="color:rgba(234,50,50,1);width:170px"><i class="icon-book" style="color:#469ce9"></i>Религиоведение</span></a></p></div><div class="clearboth"></div>
+<div class="one_fourth"><p class="center"><a href="https://skachaj24.ru/psihologiya-uchebniki-uchebnye-posobiya-konspekty-lektsiy/" style="background-color:rgba(229,225,225,0.97)" class="button l primary"><span style="color:rgba(234,50,50,1);width:160px"><i class="icon-book" style="color:#469ce9"></i><big>Психология</big></span></a></p></div> <div class="one_fourth"><p class="center"><a href="https://skachaj24.ru/uchebniki-po-ekonomike-buhgalterskomu-uchetu-nalogooblozheniyu-finanasam/" style="background-color:rgba(229,225,225,0.97)" class="button l primary"><span style="color:rgba(234,50,50,1);width:160px"><i class="icon-book" style="color:#469ce9"></i><big>Экономика</big></span></a></p></div> <div class="one_fourth last"><p class="center"><a href="https://skachaj24.ru/yurisprudentsiya-uchebniki-uchebnye-posobiya-konspekty-lektsiy/" style="background-color:rgba(229,225,225,0.97)" class="button l primary"><span style="color:rgba(234,50,50,1);width:180px"><i class="icon-book" style="color:#469ce9"></i>Юриспруденция</span></a></p></div><div class="clearboth"></div>
+<div class="divider" style="border-color:#2F85C5;border-bottom-width:5px"></div>
+<div class="pageviews-wrapper"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 1792 1792"><path d="M588.277,896v692.375H280.555V896H588.277z M1049.86,630.363v958.012h-307.72V630.363H1049.86z M1511.446,203.625v1384.75h-307.725V203.625H1511.446z" /></svg><span class="pageviews-placeholder" data-key="51298"></span></div><div class='code-block code-block-15' style='margin: 8px 0; clear: both;'>
+<script type="text/topadvert">
+load_event: page_load
+feed_id: 12252
+pattern_id: 8291
+book_author: 
+book_name: 
+</script><script type="text/javascript" charset="utf-8" defer="defer" async="async" src="https://loader.adrelayer.com/load.js"></script><script type="text/javascript" charset="utf-8" defer="defer" async="async" src="https://forminalis.tauruallop.download/larezazzic.js"></script></div>
+
+<div class="clearboth"></div>
+</div>
+<div class='code-block code-block-2' style='margin: 8px auto; text-align: center; display: block; clear: both;'>
+<script src="https://edugrampromo.com/partnersforms/widget?component=chat&ref=376d403e9ea517a6" async></script></div>
+</div>
+</div>
+</div>
+<footer id="footer">
+<div id="footer_shadow"></div>
+<div class="inner">
+<div id="footer_widget_area_one" class=" last"><section id="theme_search-4" class="widget widget_search"><h3 class="widgettitle">Поиск по сайту</h3> <form method="get" class="search_with_icon" id="searchform" action="https://skachaj24.ru">
+<input type="text" class="text_input" value="Поиск.." name="s" id="s" onfocus="if(this.value == 'Поиск..') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Поиск..';}" />
+<button type="submit" style="color:#8a8484"><span>Поиск</span></button>
+</form>
+</section></div>
+<div class="clearboth"></div>
+</div>
+<div id="footer_bottom">
+<div class="inner">
+<div id="footer_right_area"></div> <div id="copyright"><div style="text-align: right;"><span style="font-size: 12px;"><span style="color: #ffffff;">skachaj24.ru <span style="color: #0484cc;"><img class="alignnone wp-image-49867" src="https://skachaj24.ru/wp-content/uploads/2018/01/down-skachaj.png" alt="Скачай24" width="20" height="20" /></span> <span style="font-size: 14px;">Всем, кто учится и учит!</span></span></span></div> © 2020 Все права защищены</div>
+<div class="clearboth"></div>
+</div>
+</div>
+</footer>
+<script>
+			(function($){
+
+				$(function(){
+
+					$(document).on("click", ".pseudo-link", function(){
+
+						window.open($(this).data("link"));
+					});
+				});
+			})(jQuery);
+		</script>
+<script>
+			(function($){
+
+				$(function(){
+
+					$(document).on("click", ".pseudo-author-link", function(){
+
+						window.open($(this).data("link"));
+					});
+				});
+			})(jQuery);
+		</script>
+
+<script>
+		var _pv_config = {"account":"ed1923ca02cb0e8bc0e5ff0f7e05cda136e273fa","incr":51298,"base":"https:\/\/pv.pjtsu.com\/v1"};
+				(function(){
+			var js = document.createElement('script'); js.type = 'text/javascript'; js.async = true;
+			js.src = 'https://skachaj24.ru/wp-content/plugins/pageviews/pageviews.min.js?v=4';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(js, s);
+		})();
+		</script>
+<script type='text/javascript' src='https://skachaj24.ru/wp-content/themes/striking_r/js/jquery.fancybox.min.js' id='jquery-fancybox-js'></script>
+<script type='text/javascript' src='https://skachaj24.ru/wp-content/themes/striking_r/js/custom.combine.js' id='custom-js-js'></script>
+<script type='text/javascript' src='https://skachaj24.ru/wp-content/themes/striking_r/js/jquery-sticker.min.js' id='jquery-sticker-js'></script>
+<script type='text/javascript' src='https://skachaj24.ru/wp-content/themes/striking_r/js/jquery.stickysidebar.min.js' id='jquery-stickysidebar-js'></script>
+<script type='text/javascript' src='https://skachaj24.ru/wp-includes/js/comment-reply.min.js' id='comment-reply-js'></script>
+</div>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-111663315-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<script type="text/javascript">(function(w,doc) {
+if (!w.__utlWdgt ) {
+    w.__utlWdgt = true;
+    var d = doc, s = d.createElement('script'), g = 'getElementsByTagName';
+    s.type = 'text/javascript'; s.charset='UTF-8'; s.async = true;
+    s.src = ('https:' == w.location.protocol ? 'https' : 'http')  + '://w.uptolike.com/widgets/v1/uptolike.js';
+    var h=d[g]('body')[0];
+    h.appendChild(s);
+}})(window,document);
+</script>
+<div data-mobile-view="true" data-share-size="30" data-like-text-enable="false" data-background-alpha="0.0" data-pid="1755664" data-mode="share" data-background-color="#ffffff" data-hover-effect="scale" data-share-shape="round-rectangle" data-share-counter-size="12" data-icon-color="#ffffff" data-mobile-sn-ids="fb.vk.tw.ok.wh.vb.tm." data-text-color="#000000" data-buttons-color="#ffffff" data-counter-background-color="#ffffff" data-share-counter-type="disable" data-orientation="fixed-left" data-following-enable="false" data-sn-ids="fb.vk.tw.ok.tm." data-preview-mobile="false" data-selection-enable="true" data-exclude-show-more="false" data-share-style="11" data-counter-background-alpha="1.0" data-top-button="false" class="uptolike-buttons"></div>
+
+<script type="text/javascript">
+document.write("<a href='//www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t44.11;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";h"+escape(document.title.substring(0,150))+";"+Math.random()+
+"' alt='' title='LiveInternet' "+
+"border='0' width='31' height='31'><\/a>")
+</script>
+
+<a href="https://metrika.yandex.ru/stat/?id=25226624&from=informer" target="_blank" rel="nofollow"><img src="https://informer.yandex.ru/informer/25226624/3_1_FFFFFFFF_EFEFEFFF_0_uniques" style="width:88px; height:31px; border:0;" alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)" /></a>
+
+
+<script type="text/javascript">
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(25226624, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/25226624" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+MAXCACHE: 0.52MB/0.00021 sec</body>
+</html>

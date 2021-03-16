@@ -1,0 +1,1618 @@
+<!DOCTYPE html>
+<html 
+	xmlns="http://www.w3.org/1999/xhtml" 
+	xml:lang="ru-ru" 
+	lang="ru-ru" 
+	dir="ltr"
+>
+<head>
+	
+<!-- use latest ie engine -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<!-- viewport fix for devices -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+<!-- load core head -->
+<meta charset="utf-8" />
+	<base href="https://www.rastut-goda.ru/" />
+	<meta name="keywords" content="воспитание, развитие, обучение детей, ребенок, подросток, новорожденный, грудничок" />
+	<meta name="rights" content="Все права принадлежат сайту rastut-goda.ru" />
+	<meta name="description" content="✅ 1000 советов по воспитанию, развитию обучению детей и подростков. Рекомендуем воспользоваться нашими наработками и методиками совершенно бесплатно! 👍👍👍" />
+	<meta name="generator" content="Joomla! - Open Source Content Management" />
+	<title>У Меня Растут Года... (Сайт № 1 для Педагогов и Родителей)</title>
+	<link href="/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+	<link href="/components/com_jcomments/tpl/default/style.css?v=3002" rel="stylesheet" />
+	<link href="/templates/jm-services/css/bootstrap.25.css" rel="stylesheet" />
+	<link href="/templates/jm-services/css/bootstrap_responsive.25.css" rel="stylesheet" />
+	<link href="/templates/jm-services/css/template.25.css" rel="stylesheet" />
+	<link href="/templates/jm-services/css/template_responsive.25.css" rel="stylesheet" />
+	<link href="//fonts.googleapis.com/css?family=Lato:400,300,300italic,400italic,700,700italic,900,900italic" rel="stylesheet" />
+	<link href="/components/com_flexicontent/librairies/jquery/css/ui-lightness/jquery-ui-1.9.2.css" rel="stylesheet" />
+	<link href="/components/com_flexicontent/librairies/select2/select2.css?3.5.4" rel="stylesheet" />
+	<link href="/modules/mod_flexicontent/tmpl/news/news.css?1b3b22f67c3b3fb4b83593f3467b47d8" rel="stylesheet" />
+	<link href="/modules/mod_flexicontent/tmpl_common/module.css?1b3b22f67c3b3fb4b83593f3467b47d8" rel="stylesheet" />
+	<link href="/components/com_flexicontent/assets/css/flexicontent.css?1b3b22f67c3b3fb4b83593f3467b47d8" rel="stylesheet" />
+	<link href="/modules/mod_flexiadvsearch/tmpl_common/module.css?1b3b22f67c3b3fb4b83593f3467b47d8" rel="stylesheet" />
+	<link href="/components/com_flexicontent/assets/css/flexi_filters.css?1b3b22f67c3b3fb4b83593f3467b47d8" rel="stylesheet" />
+	<link href="/modules/mod_ariextmenu/mod_ariextmenu/js/css/menu.min.css" rel="stylesheet" />
+	<link href="/modules/mod_ariextmenu/mod_ariextmenu/js/css/menu.fix.css" rel="stylesheet" />
+	<link href="/media/mod_jcomments_latest/css/style.css" rel="stylesheet" />
+	<link href="/media/djextensions/css/animate.min.css" rel="stylesheet" />
+	<link href="/modules/mod_djmenu/assets/css/animations.css" rel="stylesheet" />
+	<link href="/templates/jm-services/css/djmenu.25.css" rel="stylesheet" />
+	<link href="/templates/jm-services/css/djmenu_fx.25.css" rel="stylesheet" />
+	<link href="/templates/jm-services/css/custom.css" rel="stylesheet" />
+	<style>
+
+	#mod_fcitems_box_featured_295 {
+	}
+	#mod_fcitems_box_featured_295 div.mod_flexicontent_standard_wrapper {
+	}
+	#mod_fcitems_box_featured_295 div.mod_flexicontent_standard_wrapper_innerbox {
+		
+		padding: 8px 12px !important;
+		border-width: 10px!important;
+		margin: 40px 40px !important;
+		
+	}
+	#mod_fcitems_box_standard_295 {
+	}
+	#mod_fcitems_box_standard_295 div.mod_flexicontent_standard_wrapper {
+	}
+	#mod_fcitems_box_standard_295 div.mod_flexicontent_standard_wrapper_innerbox {
+		
+		padding: 10px 10px !important;
+		border-width: 1px!important;
+		margin: 10px 10px !important;
+		
+	}UL#ariext260 LI A{font-size:12px;font-weight:normal;text-transform:none;text-align:left;}UL#ariext261 LI A{font-size:12px;font-weight:normal;text-transform:none;text-align:left;}UL#ariext264 LI A{font-size:12px;font-weight:normal;text-transform:none;text-align:left;}
+	</style>
+	<script type="application/json" class="joomla-script-options new">{"csrf.token":"24f49b655daa62e3faea42c1c318051b","system.paths":{"root":"","base":""},"joomla.jtext":{"FLEXI_FORM_IS_BEING_SUBMITTED":"Form is being submitted ...","FLEXI_NOT_AN_IMAGE_FILE":"FLEXI_NOT_AN_IMAGE_FILE","FLEXI_LOADING_IMAGES":"FLEXI_LOADING_IMAGES","FLEXI_THUMBNAILS":"FLEXI_THUMBNAILS","FLEXI_NO_ITEMS_SELECTED":"FLEXI_NO_ITEMS_SELECTED","FLEXI_ARE_YOU_SURE":"FLEXI_ARE_YOU_SURE","FLEXI_APPLYING_FILTERING":"\u041f\u0440\u0438\u043c\u0435\u043d\u044f\u0435\u0442\u0441\u044f \u0444\u0438\u043b\u044c\u0442\u0440\u0430\u0446\u0438\u044f","FLEXI_TYPE_TO_LIST":"... \u043d\u0430\u043f\u0435\u0447\u0430\u0442\u0430\u0439\u0442\u0435 \u0447\u0442\u043e\u0431\u044b \u043f\u0435\u0440\u0435\u0447\u0438\u0441\u043b\u0438\u0442\u044c","FLEXI_TYPE_TO_FILTER":"... \u043d\u0430\u043f\u0435\u0447\u0430\u0442\u0430\u0439\u0442\u0435 \u0447\u0442\u043e\u0431\u044b \u043e\u0442\u0444\u0438\u043b\u044c\u0442\u0440\u043e\u0432\u0430\u0442\u044c","FLEXI_UPDATING_CONTENTS":"Updating contents ..."}}</script>
+	<script src="/media/jui/js/jquery.min.js?6a70e6297c89e998d1c0b17e06ef8db4"></script>
+	<script src="/media/jui/js/jquery-noconflict.js?6a70e6297c89e998d1c0b17e06ef8db4"></script>
+	<script src="/media/jui/js/jquery-migrate.min.js?6a70e6297c89e998d1c0b17e06ef8db4"></script>
+	<script src="/media/system/js/caption.js?6a70e6297c89e998d1c0b17e06ef8db4"></script>
+	<script src="/media/jui/js/bootstrap.min.js?6a70e6297c89e998d1c0b17e06ef8db4"></script>
+	<script src="/media/jui/js/jquery.ui.core.min.js?6a70e6297c89e998d1c0b17e06ef8db4"></script>
+	<script src="/media/jui/js/jquery.ui.sortable.min.js?6a70e6297c89e998d1c0b17e06ef8db4"></script>
+	<script src="/plugins/system/ef4_jmframework/includes/assets/template/js/layout.min.js"></script>
+	<script src="/templates/jm-services/js/scripts.js"></script>
+	<script src="/media/system/js/core.js?6a70e6297c89e998d1c0b17e06ef8db4"></script>
+	<script src="/components/com_flexicontent/librairies/jquery/js/jquery-ui/jquery.ui.dialog.min.js"></script>
+	<script src="/components/com_flexicontent/librairies/jquery/js/jquery-ui/jquery.ui.menu.min.js"></script>
+	<script src="/components/com_flexicontent/librairies/jquery/js/jquery-ui/jquery.ui.autocomplete.min.js"></script>
+	<script src="/components/com_flexicontent/librairies/jquery/js/jquery-ui/jquery.ui.progressbar.min.js"></script>
+	<!--[if lte IE 11]><script src="/media/system/js/polyfill.event.js?6a70e6297c89e998d1c0b17e06ef8db4"></script><![endif]-->
+	<!--[if lte IE 11]><script src="/media/system/js/polyfill.classlist.js?6a70e6297c89e998d1c0b17e06ef8db4"></script><![endif]-->
+	<!--[if lte IE 11]><script src="/media/system/js/polyfill.map.js?6a70e6297c89e998d1c0b17e06ef8db4"></script><![endif]-->
+	<script src="/components/com_flexicontent/assets/js/flexi-lib.js?1b3b22f67c3b3fb4b83593f3467b47d8"></script>
+	<script src="/components/com_flexicontent/librairies/mousewheel/jquery.mousewheel.min.js"></script>
+	<script src="/components/com_flexicontent/librairies/select2/select2.min.js?3.5.4"></script>
+	<script src="/components/com_flexicontent/librairies/select2/select2.sortable.js?3.5.4"></script>
+	<script src="/components/com_flexicontent/librairies/select2/select2_locale_ru.js?3.5.4"></script>
+	<script src="/components/com_flexicontent/assets/js/tmpl-common.js?1b3b22f67c3b3fb4b83593f3467b47d8"></script>
+	<script src="/components/com_flexicontent/assets/js/jquery-easing.js?1b3b22f67c3b3fb4b83593f3467b47d8"></script>
+	<script src="/components/com_flexicontent/librairies/masonry/masonry.pkgd.min.js"></script>
+	<script src="/components/com_flexicontent/librairies/imagesLoaded/imagesloaded.pkgd.min.js"></script>
+	<script src="/modules/mod_ariextmenu/mod_ariextmenu/js/ext-core.js"></script>
+	<script src="/modules/mod_ariextmenu/mod_ariextmenu/js/menu.min.js"></script>
+	<script src="/modules/mod_djmenu/assets/js/jquery.djmenu.js"></script>
+	<script>
+
+			function fc_getScreenWidth()
+			{
+				xWidth = null;
+				if(window.screen != null)
+					xWidth = window.screen.availWidth;
+
+				if(window.innerWidth != null)
+					xWidth = window.innerWidth;
+
+				if(document.body != null)
+					xWidth = document.body.clientWidth;
+
+				return xWidth;
+			}
+			function fc_getScreenHeight() {
+				xHeight = null;
+				if(window.screen != null)
+					xHeight = window.screen.availHeight;
+
+				if(window.innerHeight != null)
+					xHeight =   window.innerHeight;
+
+				if(document.body != null)
+					xHeight = document.body.clientHeight;
+
+				return xHeight;
+			}
+
+			function fc_setCookie(cookieName, cookieValue, nDays) {
+				var today = new Date();
+				var expire = new Date();
+				var path = "";
+				if (nDays==null || nDays<0) nDays=0;
+				if (nDays) {
+					expire.setTime(today.getTime() + 3600000*24*nDays);
+					document.cookie = cookieName+"="+escape(cookieValue) + ";path=" + path + ";expires="+expire.toGMTString();
+				} else {
+					document.cookie = cookieName+"="+escape(cookieValue) + ";path=" + path;
+				}
+				//alert(cookieName+"="+escape(cookieValue) + ";path=" + path);
+			}
+
+			fc_screen_width  = fc_getScreenWidth();
+			fc_screen_height = fc_getScreenHeight();
+			var fc_screen_resolution = "" + fc_screen_width + "x" + fc_screen_height;
+			fc_setCookie("fc_screen_resolution", fc_screen_resolution, 0);
+
+			
+			
+		jQuery(window).on('load',  function() {
+				new JCaption('img.caption');
+			});jQuery(function($){ initTooltips(); $("body").on("subform-row-add", initTooltips); function initTooltips (event, container) { container = container || document;$(container).find(".hasTooltip").tooltip({"html": true,"container": "body"});} });
+				var jbase_url_fc = "https:\/\/www.rastut-goda.ru\/";
+				var jroot_url_fc = "https:\/\/www.rastut-goda.ru\/";
+				var jclient_path_fc = "";
+			
+					var fc_sef_lang = '';
+					var fc_root_uri = '';
+					var fc_base_uri = '';
+					var FC_URL_VARS = [];
+
+					// To be removed ... in v3.3.x
+					var _FC_GET = [];
+				
+				if (typeof jQuery.fn.chosen == 'function') {
+					jQuery.fn.chosen_fc = jQuery.fn.chosen;
+					jQuery.fn.chosen = function(){
+						var args = arguments;
+						var result;
+						jQuery(this).each(function() {
+							if (jQuery(this).hasClass('use_select2_lib') || jQuery(this).hasClass('fc_no_js_attach')) return;
+							result = jQuery(this).chosen_fc(args);
+						});
+						return result;
+					};
+				}
+				
+					jQuery(document).ready(function()
+					{
+						window.skip_select2_js = 0;
+						fc_attachSelect2('body');
+					});
+				
+		jQuery(document).ready(function(){
+			var container = document.querySelector('div#mod_fcitems_box_standard_295');
+			var msnry;
+			// initialize Masonry after all images have loaded
+			if (container) {
+				imagesLoaded( container, function() {
+					msnry = new Masonry( container );
+				});
+			}
+		});
+		
+	jQuery(document).ready(function() {
+		jQuery("#default_form_278 input:not(.fc_autosubmit_exclude):not(.select2-input), #default_form_278 select:not(.fc_autosubmit_exclude)").on("change", function() {
+			var form=document.getElementById("default_form_278");
+			adminFormPrepare(form, 1);
+		});
+	});
+;(function() { var _menuInit = function() { new Ext.ux.Menu("ariext260", {"direction":"vertical","autoWidth":false,"transitionType":"slide","transitionDuration":0.2}); Ext.get("ariext260").select(".ux-menu-sub").removeClass("ux-menu-init-hidden"); }; if (!Ext.isIE || typeof(MooTools) == "undefined" || typeof(MooTools.More) == "undefined") Ext.onReady(_menuInit); else window.addEvent("domready", _menuInit); })();;(function() { var _menuInit = function() { new Ext.ux.Menu("ariext261", {"direction":"vertical","transitionType":"slide","transitionDuration":0.2}); Ext.get("ariext261").select(".ux-menu-sub").removeClass("ux-menu-init-hidden"); }; if (!Ext.isIE || typeof(MooTools) == "undefined" || typeof(MooTools.More) == "undefined") Ext.onReady(_menuInit); else window.addEvent("domready", _menuInit); })();jQuery(document).ready( function(){ new DJMenu(jQuery('#dj-main251'), {wrap: '', animIn: 'fadeIn', animOut: 'fadeOut', animSpeed: 'normal', delay: 500 }); } );;(function() { var _menuInit = function() { new Ext.ux.Menu("ariext264", {"transitionType":"slide","transitionDuration":0.2}); Ext.get("ariext264").select(".ux-menu-sub").removeClass("ux-menu-init-hidden"); }; if (!Ext.isIE || typeof(MooTools) == "undefined" || typeof(MooTools.More) == "undefined") Ext.onReady(_menuInit); else window.addEvent("domready", _menuInit); })();
+	</script>
+	<!--[if IE 8]>
+				<link href="/components/com_flexicontent/assets/css/ie8.css?1b3b22f67c3b3fb4b83593f3467b47d8" rel="stylesheet" />
+				<![endif]-->
+	<!--[if IE]><link rel="stylesheet" type="text/css" href="/modules/mod_ariextmenu/mod_ariextmenu/js/css/menu.ie.min.css" /><![endif]-->
+	<!--[if lt IE 8]><script type="text/javascript" src="/modules/mod_ariextmenu/mod_ariextmenu/js/fix.js"></script><![endif]-->
+
+
+	 
+
+	<link href="https://www.rastut-goda.ru/images/favicon.ico" rel="Shortcut Icon" />
+
+</head>
+<body class="  ">
+	<div id="jm-allpage" >
+            		    		<div id="jm-mainpage">
+    			    				    			    				
+    			    				
+<section id="jm-logo-nav" class="">
+	<div class="container-fluid">
+		<div class="row-fluid">
+						<div class="span3">
+		        <div id="jm-logo-sitedesc" class="text-center">
+		        	<div id="jm-logo-sitedesc-in">
+			            			            <div id="jm-logo">
+			                <a href="https://www.rastut-goda.ru/">
+			                    			                    <img src="https://www.rastut-goda.ru/images/logo-3.png" alt="У меня растут года..." border="0" />
+			                    			                </a>
+			            </div>
+			            			            			            <div id="jm-sitedesc">
+			                Портал для педагогов и родителей			            </div>
+			            			    	</div>
+		        </div>
+		    </div>
+	        	        			<nav id="jm-top-menu-nav" class="span9">
+				    <div class="jm-module-raw ">
+        
+<div id="ariext264_container" class="ux-menu-container ux-menu-clearfix">
+
+</div>    </div>
+
+			</nav>
+					</div>
+	</div>
+</section>
+    			    				    			    				
+    			    				
+<section id="jm-header" class="">
+	<div class="container-fluid">
+			<div class="jm-module ">
+		<div  class="jm-module-in">
+					    <div class="jm-module-content clearfix notitle">
+		    	<ul id="dj-main251" class="dj-main"><li class="dj-up itemid102 first active"><a href="/" class="dj-up_a active" ><span >Главная</span></a></li>
+<li class="dj-up itemid83"><a href="/pregnancy-and-childbirth.html" class="dj-up_a" ><span >Беременность и роды</span></a></li>
+<li class="dj-up itemid76"><a href="/newborn.html" class="dj-up_a" ><span >Грудной ребенок</span></a></li>
+<li class="dj-up itemid77"><a href="/preschool-child.html" class="dj-up_a" ><span class="dj-drop" >Дошкольник</span></a>
+<ul class="dj-submenu">
+<li class="submenu_top" style="display: none"> </li>
+<li class="itemid88 first"><a href="/preschool-child/vospitanie-and-development.html" class="" >Дошкольное воспитание и развитие</a></li>
+<li class="itemid91"><a href="/preschool-child/council-of-psychologists.html" class="" >Детская психология</a></li>
+<li class="itemid410"><a href="/preschool-child/podgotovka-k-shkole.html" class="" >Подготовка к школе</a></li>
+<li class="itemid420 last"><a href="/preschool-child/detskoe-tvorchestvo.html" class="" >Детское творчество</a></li>
+<li class="submenu_bot" style="display: none"> </li>
+</ul>
+</li>
+<li class="dj-up itemid78"><a href="/junior-student.html" class="dj-up_a" ><span class="dj-drop" >Мл. школьник</span></a>
+<ul class="dj-submenu">
+<li class="submenu_top" style="display: none"> </li>
+<li class="itemid359 first"><a href="/junior-student/education.html" class="" >Воспитание и развитие</a></li>
+<li class="itemid360 last"><a href="/junior-student/council-of-psychologists.html" class="" >Советы психолога</a></li>
+<li class="submenu_bot" style="display: none"> </li>
+</ul>
+</li>
+<li class="dj-up itemid79"><a href="/teenager.html" class="dj-up_a" ><span class="dj-drop" >Подросток</span></a>
+<ul class="dj-submenu">
+<li class="submenu_top" style="display: none"> </li>
+<li class="itemid361 first"><a href="/teenager/path-mature.html" class="" >Воспитание подростков</a></li>
+<li class="itemid362 last"><a href="/teenager/council-of-psychologists.html" class="" >Психология подростка</a></li>
+<li class="submenu_bot" style="display: none"> </li>
+</ul>
+</li>
+<li class="dj-up itemid363"><a href="/grow-up-healthy.html" class="dj-up_a" ><span class="dj-drop" >Расти здоровым!</span></a>
+<ul class="dj-submenu">
+<li class="submenu_top" style="display: none"> </li>
+<li class="itemid364 first"><a href="/grow-up-healthy/consulting-room.html" class="" >Кабинет врача</a></li>
+<li class="itemid365 last"><a href="/grow-up-healthy/area-health.html" class="" >Уголок здоровья</a></li>
+<li class="submenu_bot" style="display: none"> </li>
+</ul>
+</li>
+<li class="dj-up itemid374"><a href="/family-council.html" class="dj-up_a" ><span >Семейный совет</span></a></li>
+<li class="dj-up itemid373 last"><a href="/questions-of-pedagogy.html" class="dj-up_a" ><span class="dj-drop" >Вопросы педагогики</span></a>
+<ul class="dj-submenu">
+<li class="submenu_top" style="display: none"> </li>
+<li class="itemid409 first"><a href="/questions-of-pedagogy/questions-of-pedagogy.html" class="" >Школа</a></li>
+<li class="itemid413 last"><a href="/questions-of-pedagogy/vospitanie-i-obuchenie-v-detskom-sadu.html" class="" >Детский сад</a></li>
+<li class="submenu_bot" style="display: none"> </li>
+</ul>
+</li>
+</ul>	      
+		    </div>
+		</div>
+	</div>
+	
+	</div>
+</section>
+    			    				
+<section id="jm-top2" class="">
+	<div class="container-fluid">
+		
+<div class="row-fluid jm-flexiblock jm-top2"><div class="span12"  data-default="span12" data-wide="span12" data-normal="span12" data-xtablet="span12" data-tablet="span100" data-mobile="span100">	<div class="jm-module ">
+		<div  class="jm-module-in">
+					    <div class="jm-module-content clearfix notitle">
+		    	
+
+<div class="custom"  >
+	<!-- Yandex.RTB R-A-229701-2 -->
+<div id="yandex_rtb_R-A-229701-2"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Context.AdvManager.render({
+                blockId: "R-A-229701-2",
+                renderTo: "yandex_rtb_R-A-229701-2",
+                horizontalAlign: false,
+                async: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//an.yandex.ru/system/context.js";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(this, this.document, "yandexContextAsyncCallbacks");
+</script></div>
+	      
+		    </div>
+		</div>
+	</div>
+	</div></div>	</div>
+</section>
+    			    				
+    			    				
+<section id="jm-main">
+	<div class="container-fluid">
+		<div class="row-fluid">
+			<div id="jm-content" class="span6 offset3" data-xtablet="span12" data-tablet="span100" data-mobile="span100">
+								<div id="jm-content-top" class="">
+						<header class="jm-module ">
+		<header  class="jm-module-in">
+					   		<h1 class="jm-title "><span>Самое</span> интересное на сайте</h1>
+		   			    <header class="jm-module-content clearfix ">
+		    	
+		
+		
+<div class="news mod_flexicontent_wrapper mod_flexicontent_wrap" id="mod_flexicontent_news295">
+	
+		<div id="order_popular295" class="mod_flexicontent">
+		
+			
+		
+			
+	<div class="modclear"></div>
+	
+		
+		
+		<!-- BOF standard items -->
+				
+		<div class="mod_flexicontent_standard mod_fcitems_box_standard_295" id="mod_fcitems_box_standard_295">
+			
+						
+									
+			<!-- BOF current item -->	
+			<div class="mod_flexicontent_standard_wrapper odd cols_2"
+				onmouseover=""
+				onmouseout=""
+			>
+			<div class="mod_flexicontent_standard_wrapper_innerbox">
+				
+				<!-- BOF current item's title -->	
+								<!-- EOF current item's title -->	
+				
+				<!-- BOF current item's image -->	
+								<!-- BOF current item's image -->	
+				
+												
+				<div class="image_standard fc_stretch">
+											<a href="/junior-student/6849-portfolio-uchenika-1-klassa.html">
+							<img style=" width: 100%; height: auto; display: block !important; border: 0 !important; max-width:200px; max-height:200px;" src="/components/com_flexicontent/librairies/phpthumb/phpThumb.php?src=/images/stories/flexicontent/l_portfolio_uchenika_1_klassa.jpg&amp;w=200&amp;h=200&amp;aoe=1&amp;q=95&amp;zc=1&amp;f=jpg" alt="Портфолио ученика 1 класса (образцы заполнения c пояснениями ..." />
+						</a>
+									</div>
+				
+												
+				<!-- BOF current item's content -->
+								<div class="content_standard fc_overlayed fc_top">
+					
+													<div class="fc_block" >
+					<div class="fc_inline_block fcitem_title">
+													<a href="/junior-student/6849-portfolio-uchenika-1-klassa.html">Портфолио ученика 1 класса (образцы запо...</a>
+											</div>
+				</div>
+													
+										
+										
+										
+										
+										
+										<div class="fc_block fcitem_text">
+						 Содержание Школьное портфолио - что это? Цель составления портфолио для первоклассника Как оформить ...					</div>
+										
+										
+					
+					<div class="clearfix"></div> 
+					
+				</div> <!-- EOF current item's content -->
+								
+								
+			</div>  <!-- EOF wrapper_innerbox -->
+			</div>  <!-- EOF wrapper -->
+			<!-- EOF current item -->
+												
+			<!-- BOF current item -->	
+			<div class="mod_flexicontent_standard_wrapper odd cols_2"
+				onmouseover=""
+				onmouseout=""
+			>
+			<div class="mod_flexicontent_standard_wrapper_innerbox">
+				
+				<!-- BOF current item's title -->	
+								<!-- EOF current item's title -->	
+				
+				<!-- BOF current item's image -->	
+								<!-- BOF current item's image -->	
+				
+												
+				<div class="image_standard fc_stretch">
+											<a href="/family-council/5935-gerb-semi-svoimi-rukami-kak-sozdat-gerb-semi.html">
+							<img style=" width: 100%; height: auto; display: block !important; border: 0 !important; max-width:200px; max-height:200px;" src="/components/com_flexicontent/librairies/phpthumb/phpThumb.php?src=/images/stories/flexicontent/l_gerb_rukami.jpg&amp;w=200&amp;h=200&amp;aoe=1&amp;q=95&amp;zc=1&amp;f=jpg" alt="Как создать герб своей семьи?" />
+						</a>
+									</div>
+				
+												
+				<!-- BOF current item's content -->
+								<div class="content_standard fc_overlayed fc_top">
+					
+													<div class="fc_block" >
+					<div class="fc_inline_block fcitem_title">
+													<a href="/family-council/5935-gerb-semi-svoimi-rukami-kak-sozdat-gerb-semi.html">Как создать герб своей семьи?</a>
+											</div>
+				</div>
+													
+										
+										
+										
+										
+										
+										<div class="fc_block fcitem_text">
+						 Не обязательно быть королевских кровей, чтобы иметь герб семьи - было бы желание! Что это такое? Ка ...					</div>
+										
+										
+					
+					<div class="clearfix"></div> 
+					
+				</div> <!-- EOF current item's content -->
+								
+								
+			</div>  <!-- EOF wrapper_innerbox -->
+			</div>  <!-- EOF wrapper -->
+			<!-- EOF current item -->
+												
+			<!-- BOF current item -->	
+			<div class="mod_flexicontent_standard_wrapper even cols_2"
+				onmouseover=""
+				onmouseout=""
+			>
+			<div class="mod_flexicontent_standard_wrapper_innerbox">
+				
+				<!-- BOF current item's title -->	
+								<!-- EOF current item's title -->	
+				
+				<!-- BOF current item's image -->	
+								<!-- BOF current item's image -->	
+				
+												
+				<div class="image_standard fc_stretch">
+											<a href="/questions-of-pedagogy/8516-igry-dlya-lagerya.html">
+							<img style=" width: 100%; height: auto; display: block !important; border: 0 !important; max-width:200px; max-height:200px;" src="/components/com_flexicontent/librairies/phpthumb/phpThumb.php?src=/images/stories/flexicontent/l_igry_v_lagere.jpg&amp;w=200&amp;h=200&amp;aoe=1&amp;q=95&amp;zc=1&amp;f=jpg" alt="Игры для лагеря" />
+						</a>
+									</div>
+				
+												
+				<!-- BOF current item's content -->
+								<div class="content_standard fc_overlayed fc_top">
+					
+													<div class="fc_block" >
+					<div class="fc_inline_block fcitem_title">
+													<a href="/questions-of-pedagogy/8516-igry-dlya-lagerya.html">Игры для лагеря</a>
+											</div>
+				</div>
+													
+										
+										
+										
+										
+										
+										<div class="fc_block fcitem_text">
+						 Отправляя детей в летний лагерь, родители рассчитывают, что они проведут смену с пользой – будут за ...					</div>
+										
+										
+					
+					<div class="clearfix"></div> 
+					
+				</div> <!-- EOF current item's content -->
+								
+								
+			</div>  <!-- EOF wrapper_innerbox -->
+			</div>  <!-- EOF wrapper -->
+			<!-- EOF current item -->
+												
+			<!-- BOF current item -->	
+			<div class="mod_flexicontent_standard_wrapper even cols_2"
+				onmouseover=""
+				onmouseout=""
+			>
+			<div class="mod_flexicontent_standard_wrapper_innerbox">
+				
+				<!-- BOF current item's title -->	
+								<!-- EOF current item's title -->	
+				
+				<!-- BOF current item's image -->	
+								<!-- BOF current item's image -->	
+				
+												
+				<div class="image_standard fc_stretch">
+											<a href="/teenager/8553-uvlecheniya-i-khobbi-dlya-devushek-kakie-byvayut-khobbi.html">
+							<img style=" width: 100%; height: auto; display: block !important; border: 0 !important; max-width:200px; max-height:200px;" src="/components/com_flexicontent/librairies/phpthumb/phpThumb.php?src=/images/stories/flexicontent/l_hobbies_girls.jpg&amp;w=200&amp;h=200&amp;aoe=1&amp;q=95&amp;zc=1&amp;f=jpg" alt="Интересные хобби и увлечения для девушек" />
+						</a>
+									</div>
+				
+												
+				<!-- BOF current item's content -->
+								<div class="content_standard fc_overlayed fc_top">
+					
+													<div class="fc_block" >
+					<div class="fc_inline_block fcitem_title">
+													<a href="/teenager/8553-uvlecheniya-i-khobbi-dlya-devushek-kakie-byvayut-khobbi.html">Интересные хобби и увлечения для девушек</a>
+											</div>
+				</div>
+													
+										
+										
+										
+										
+										
+										<div class="fc_block fcitem_text">
+						 Хорошее хобби развлекает, развивает и улучшает жизнь. Ниже представлены самые интересные хобби для  ...					</div>
+										
+										
+					
+					<div class="clearfix"></div> 
+					
+				</div> <!-- EOF current item's content -->
+								
+								
+			</div>  <!-- EOF wrapper_innerbox -->
+			</div>  <!-- EOF wrapper -->
+			<!-- EOF current item -->
+												
+			<!-- BOF current item -->	
+			<div class="mod_flexicontent_standard_wrapper odd cols_2"
+				onmouseover=""
+				onmouseout=""
+			>
+			<div class="mod_flexicontent_standard_wrapper_innerbox">
+				
+				<!-- BOF current item's title -->	
+								<!-- EOF current item's title -->	
+				
+				<!-- BOF current item's image -->	
+								<!-- BOF current item's image -->	
+				
+												
+				<div class="image_standard fc_stretch">
+											<a href="/teenager/8579-konkursy-na-den-rozhdeniya-14-let.html">
+							<img style=" width: 100%; height: auto; display: block !important; border: 0 !important; max-width:200px; max-height:200px;" src="/components/com_flexicontent/librairies/phpthumb/phpThumb.php?src=/images/stories/flexicontent/l_contests_birthday_14-years.jpg&amp;w=200&amp;h=200&amp;aoe=1&amp;q=95&amp;zc=1&amp;f=jpg" alt="Конкурсы на день рождения (14 лет)" />
+						</a>
+									</div>
+				
+												
+				<!-- BOF current item's content -->
+								<div class="content_standard fc_overlayed fc_top">
+					
+													<div class="fc_block" >
+					<div class="fc_inline_block fcitem_title">
+													<a href="/teenager/8579-konkursy-na-den-rozhdeniya-14-let.html">Конкурсы на день рождения (14 лет)</a>
+											</div>
+				</div>
+													
+										
+										
+										
+										
+										
+										<div class="fc_block fcitem_text">
+						 Празднование 14-летия лучше всего доверить организовывать профессионалам, но если у вас нет такой в ...					</div>
+										
+										
+					
+					<div class="clearfix"></div> 
+					
+				</div> <!-- EOF current item's content -->
+								
+								
+			</div>  <!-- EOF wrapper_innerbox -->
+			</div>  <!-- EOF wrapper -->
+			<!-- EOF current item -->
+												
+			<!-- BOF current item -->	
+			<div class="mod_flexicontent_standard_wrapper odd cols_2"
+				onmouseover=""
+				onmouseout=""
+			>
+			<div class="mod_flexicontent_standard_wrapper_innerbox">
+				
+				<!-- BOF current item's title -->	
+								<!-- EOF current item's title -->	
+				
+				<!-- BOF current item's image -->	
+								<!-- BOF current item's image -->	
+				
+												
+				<div class="image_standard fc_stretch">
+											<a href="/preschool-child/8520-chto-nuzhno-v-shkolu-pervoklassniku-spisok-dlya-pervoklassnika.html">
+							<img style=" width: 100%; height: auto; display: block !important; border: 0 !important; max-width:200px; max-height:200px;" src="/components/com_flexicontent/librairies/phpthumb/phpThumb.php?src=/images/stories/flexicontent/l_chto_nuzhno_v_shkolu.jpg&amp;w=200&amp;h=200&amp;aoe=1&amp;q=95&amp;zc=1&amp;f=jpg" alt="Список школьных принадлежностей для 1 класса" />
+						</a>
+									</div>
+				
+												
+				<!-- BOF current item's content -->
+								<div class="content_standard fc_overlayed fc_top">
+					
+													<div class="fc_block" >
+					<div class="fc_inline_block fcitem_title">
+													<a href="/preschool-child/8520-chto-nuzhno-v-shkolu-pervoklassniku-spisok-dlya-pervoklassnika.html">Список школьных принадлежностей для 1 кл...</a>
+											</div>
+				</div>
+													
+										
+										
+										
+										
+										
+										<div class="fc_block fcitem_text">
+						 В семье знаменательное событие – с нового учебного года ваш малыш пойдет в 1 класс. Это значит, что ...					</div>
+										
+										
+					
+					<div class="clearfix"></div> 
+					
+				</div> <!-- EOF current item's content -->
+								
+								
+			</div>  <!-- EOF wrapper_innerbox -->
+			</div>  <!-- EOF wrapper -->
+			<!-- EOF current item -->
+												
+			<!-- BOF current item -->	
+			<div class="mod_flexicontent_standard_wrapper even cols_2"
+				onmouseover=""
+				onmouseout=""
+			>
+			<div class="mod_flexicontent_standard_wrapper_innerbox">
+				
+				<!-- BOF current item's title -->	
+								<!-- EOF current item's title -->	
+				
+				<!-- BOF current item's image -->	
+								<!-- BOF current item's image -->	
+				
+												
+				<div class="image_standard fc_stretch">
+											<a href="/questions-of-pedagogy/8494-igry-na-znakomstvo-dlya-detej.html">
+							<img style=" width: 100%; height: auto; display: block !important; border: 0 !important; max-width:200px; max-height:200px;" src="/components/com_flexicontent/librairies/phpthumb/phpThumb.php?src=/images/stories/flexicontent/l_igry_na_znakomstvo.jpg&amp;w=200&amp;h=200&amp;aoe=1&amp;q=95&amp;zc=1&amp;f=jpg" alt="Игры для знакомства детей и подростков" />
+						</a>
+									</div>
+				
+												
+				<!-- BOF current item's content -->
+								<div class="content_standard fc_overlayed fc_top">
+					
+													<div class="fc_block" >
+					<div class="fc_inline_block fcitem_title">
+													<a href="/questions-of-pedagogy/8494-igry-na-znakomstvo-dlya-detej.html">Игры для знакомства детей и подростков</a>
+											</div>
+				</div>
+													
+										
+										
+										
+										
+										
+										<div class="fc_block fcitem_text">
+						 Помочь детям не бояться новых знакомств, воспитать у них стремление обзаводиться новыми друзьями, п ...					</div>
+										
+										
+					
+					<div class="clearfix"></div> 
+					
+				</div> <!-- EOF current item's content -->
+								
+								
+			</div>  <!-- EOF wrapper_innerbox -->
+			</div>  <!-- EOF wrapper -->
+			<!-- EOF current item -->
+												
+			<!-- BOF current item -->	
+			<div class="mod_flexicontent_standard_wrapper even cols_2"
+				onmouseover=""
+				onmouseout=""
+			>
+			<div class="mod_flexicontent_standard_wrapper_innerbox">
+				
+				<!-- BOF current item's title -->	
+								<!-- EOF current item's title -->	
+				
+				<!-- BOF current item's image -->	
+								<!-- BOF current item's image -->	
+				
+												
+				<div class="image_standard fc_stretch">
+											<a href="/preschool-child/6371-razvivajuschie-igry-dlja-detej-1-goda.html">
+							<img style=" width: 100%; height: auto; display: block !important; border: 0 !important; max-width:200px; max-height:200px;" src="/components/com_flexicontent/librairies/phpthumb/phpThumb.php?src=/images/stories/flexicontent/l_games_with_one_year_old_child.jpg&amp;w=200&amp;h=200&amp;aoe=1&amp;q=95&amp;zc=1&amp;f=jpg" alt="Игры для малышей 1 года (играем с годовалым ребенком дома и  ..." />
+						</a>
+									</div>
+				
+												
+				<!-- BOF current item's content -->
+								<div class="content_standard fc_overlayed fc_top">
+					
+													<div class="fc_block" >
+					<div class="fc_inline_block fcitem_title">
+													<a href="/preschool-child/6371-razvivajuschie-igry-dlja-detej-1-goda.html">Игры для малышей 1 года (играем с годова...</a>
+											</div>
+				</div>
+													
+										
+										
+										
+										
+										
+										<div class="fc_block fcitem_text">
+						 Чтобы ребенок правильно развивался и рос физически и психически здоровым, с ним нужно постоянно зан ...					</div>
+										
+										
+					
+					<div class="clearfix"></div> 
+					
+				</div> <!-- EOF current item's content -->
+								
+								
+			</div>  <!-- EOF wrapper_innerbox -->
+			</div>  <!-- EOF wrapper -->
+			<!-- EOF current item -->
+												
+			<!-- BOF current item -->	
+			<div class="mod_flexicontent_standard_wrapper odd cols_2"
+				onmouseover=""
+				onmouseout=""
+			>
+			<div class="mod_flexicontent_standard_wrapper_innerbox">
+				
+				<!-- BOF current item's title -->	
+								<!-- EOF current item's title -->	
+				
+				<!-- BOF current item's image -->	
+								<!-- BOF current item's image -->	
+				
+												
+				<div class="image_standard fc_stretch">
+											<a href="/questions-of-pedagogy/8632-psikhologicheskie-treningi-dlya-detej-i-podrostkov.html">
+							<img style=" width: 100%; height: auto; display: block !important; border: 0 !important; max-width:200px; max-height:200px;" src="/components/com_flexicontent/librairies/phpthumb/phpThumb.php?src=/images/stories/flexicontent/l_treningi_dlya_detej_i_podrostkov.jpg&amp;w=200&amp;h=200&amp;aoe=1&amp;q=95&amp;zc=1&amp;f=jpg" alt="Тренинги по психологии, психологические упражнения и игры дл ..." />
+						</a>
+									</div>
+				
+												
+				<!-- BOF current item's content -->
+								<div class="content_standard fc_overlayed fc_top">
+					
+													<div class="fc_block" >
+					<div class="fc_inline_block fcitem_title">
+													<a href="/questions-of-pedagogy/8632-psikhologicheskie-treningi-dlya-detej-i-podrostkov.html">Тренинги по психологии, психологические ...</a>
+											</div>
+				</div>
+													
+										
+										
+										
+										
+										
+										<div class="fc_block fcitem_text">
+						 У каждого ребенка свой характер. Одни дети раскованные и общительные, другие замкнутые и скрытные.  ...					</div>
+										
+										
+					
+					<div class="clearfix"></div> 
+					
+				</div> <!-- EOF current item's content -->
+								
+								
+			</div>  <!-- EOF wrapper_innerbox -->
+			</div>  <!-- EOF wrapper -->
+			<!-- EOF current item -->
+												
+			<!-- BOF current item -->	
+			<div class="mod_flexicontent_standard_wrapper odd cols_2"
+				onmouseover=""
+				onmouseout=""
+			>
+			<div class="mod_flexicontent_standard_wrapper_innerbox">
+				
+				<!-- BOF current item's title -->	
+								<!-- EOF current item's title -->	
+				
+				<!-- BOF current item's image -->	
+								<!-- BOF current item's image -->	
+				
+												
+				<div class="image_standard fc_stretch">
+											<a href="/preschool-child/8624-rebenok-prosypaetsya-nochyu-s-isterikoj.html">
+							<img style=" width: 100%; height: auto; display: block !important; border: 0 !important; max-width:200px; max-height:200px;" src="/components/com_flexicontent/librairies/phpthumb/phpThumb.php?src=/images/stories/flexicontent/l_night_with_hysterics.jpg&amp;w=200&amp;h=200&amp;aoe=1&amp;q=95&amp;zc=1&amp;f=jpg" alt="Ребенок ночью просыпается и кричит в истерике - что делать?" />
+						</a>
+									</div>
+				
+												
+				<!-- BOF current item's content -->
+								<div class="content_standard fc_overlayed fc_top">
+					
+													<div class="fc_block" >
+					<div class="fc_inline_block fcitem_title">
+													<a href="/preschool-child/8624-rebenok-prosypaetsya-nochyu-s-isterikoj.html">Ребенок ночью просыпается и кричит в ист...</a>
+											</div>
+				</div>
+													
+										
+										
+										
+										
+										
+										<div class="fc_block fcitem_text">
+						 Ночные истерики – нередкий гость в семьях, где есть дошкольники. Каждая четвертая семья знает, что  ...					</div>
+										
+										
+					
+					<div class="clearfix"></div> 
+					
+				</div> <!-- EOF current item's content -->
+								
+								
+			</div>  <!-- EOF wrapper_innerbox -->
+			</div>  <!-- EOF wrapper -->
+			<!-- EOF current item -->
+												
+			<!-- BOF current item -->	
+			<div class="mod_flexicontent_standard_wrapper even cols_2"
+				onmouseover=""
+				onmouseout=""
+			>
+			<div class="mod_flexicontent_standard_wrapper_innerbox">
+				
+				<!-- BOF current item's title -->	
+								<!-- EOF current item's title -->	
+				
+				<!-- BOF current item's image -->	
+								<!-- BOF current item's image -->	
+				
+												
+				<div class="image_standard fc_stretch">
+											<a href="/preschool-child/6824-konkursy-na-den-rozhdenija-rebenka-3-let.html">
+							<img style=" width: 100%; height: auto; display: block !important; border: 0 !important; max-width:200px; max-height:200px;" src="/components/com_flexicontent/librairies/phpthumb/phpThumb.php?src=/images/stories/flexicontent/l_konkursy-detjam-3-let.jpg&amp;w=200&amp;h=200&amp;aoe=1&amp;q=95&amp;zc=1&amp;f=jpg" alt="Конкурсы на день рождения ребенка 3 лет" />
+						</a>
+									</div>
+				
+												
+				<!-- BOF current item's content -->
+								<div class="content_standard fc_overlayed fc_top">
+					
+													<div class="fc_block" >
+					<div class="fc_inline_block fcitem_title">
+													<a href="/preschool-child/6824-konkursy-na-den-rozhdenija-rebenka-3-let.html">Конкурсы на день рождения ребенка 3 лет</a>
+											</div>
+				</div>
+													
+										
+										
+										
+										
+										
+										<div class="fc_block fcitem_text">
+						 Планируя вечеринку или какой-либо другой праздник для детей 3 лет, подумайте о том, чтобы детишки н ...					</div>
+										
+										
+					
+					<div class="clearfix"></div> 
+					
+				</div> <!-- EOF current item's content -->
+								
+								
+			</div>  <!-- EOF wrapper_innerbox -->
+			</div>  <!-- EOF wrapper -->
+			<!-- EOF current item -->
+												
+			<!-- BOF current item -->	
+			<div class="mod_flexicontent_standard_wrapper even cols_2"
+				onmouseover=""
+				onmouseout=""
+			>
+			<div class="mod_flexicontent_standard_wrapper_innerbox">
+				
+				<!-- BOF current item's title -->	
+								<!-- EOF current item's title -->	
+				
+				<!-- BOF current item's image -->	
+								<!-- BOF current item's image -->	
+				
+												
+				<div class="image_standard fc_stretch">
+											<a href="/questions-of-pedagogy/8551-istoriya-olimpijskikh-igr-dlya-detej.html">
+							<img style=" width: 100%; height: auto; display: block !important; border: 0 !important; max-width:200px; max-height:200px;" src="/components/com_flexicontent/librairies/phpthumb/phpThumb.php?src=/images/stories/flexicontent/l_olympics_games.jpg&amp;w=200&amp;h=200&amp;aoe=1&amp;q=95&amp;zc=1&amp;f=jpg" alt="История возникновения Олимпийских игр для детей" />
+						</a>
+									</div>
+				
+												
+				<!-- BOF current item's content -->
+								<div class="content_standard fc_overlayed fc_top">
+					
+													<div class="fc_block" >
+					<div class="fc_inline_block fcitem_title">
+													<a href="/questions-of-pedagogy/8551-istoriya-olimpijskikh-igr-dlya-detej.html">История возникновения Олимпийских игр дл...</a>
+											</div>
+				</div>
+													
+										
+										
+										
+										
+										
+										<div class="fc_block fcitem_text">
+						 Один раз в четыре года проходят Олимпийские игры — так называются спортивные соревнования, в которы ...					</div>
+										
+										
+					
+					<div class="clearfix"></div> 
+					
+				</div> <!-- EOF current item's content -->
+								
+								
+			</div>  <!-- EOF wrapper_innerbox -->
+			</div>  <!-- EOF wrapper -->
+			<!-- EOF current item -->
+												
+			<!-- BOF current item -->	
+			<div class="mod_flexicontent_standard_wrapper odd cols_2"
+				onmouseover=""
+				onmouseout=""
+			>
+			<div class="mod_flexicontent_standard_wrapper_innerbox">
+				
+				<!-- BOF current item's title -->	
+								<!-- EOF current item's title -->	
+				
+				<!-- BOF current item's image -->	
+								<!-- BOF current item's image -->	
+				
+												
+				<div class="image_standard fc_stretch">
+											<a href="/newborn/8626-semena-ukropa-dlya-novorozhdennykh.html">
+							<img style=" width: 100%; height: auto; display: block !important; border: 0 !important; max-width:200px; max-height:200px;" src="/components/com_flexicontent/librairies/phpthumb/phpThumb.php?src=/images/stories/flexicontent/l_semena_ukropa_dlya_novorozhdennyh.jpg&amp;w=200&amp;h=200&amp;aoe=1&amp;q=95&amp;zc=1&amp;f=jpg" alt="Семена укропа для новорожденных" />
+						</a>
+									</div>
+				
+												
+				<!-- BOF current item's content -->
+								<div class="content_standard fc_overlayed fc_top">
+					
+													<div class="fc_block" >
+					<div class="fc_inline_block fcitem_title">
+													<a href="/newborn/8626-semena-ukropa-dlya-novorozhdennykh.html">Семена укропа для новорожденных</a>
+											</div>
+				</div>
+													
+										
+										
+										
+										
+										
+										<div class="fc_block fcitem_text">
+						 Первые месяцы после рождения младенца – это довольно сложная пора, поскольку организм еще не полнос ...					</div>
+										
+										
+					
+					<div class="clearfix"></div> 
+					
+				</div> <!-- EOF current item's content -->
+								
+								
+			</div>  <!-- EOF wrapper_innerbox -->
+			</div>  <!-- EOF wrapper -->
+			<!-- EOF current item -->
+												
+			<!-- BOF current item -->	
+			<div class="mod_flexicontent_standard_wrapper odd cols_2"
+				onmouseover=""
+				onmouseout=""
+			>
+			<div class="mod_flexicontent_standard_wrapper_innerbox">
+				
+				<!-- BOF current item's title -->	
+								<!-- EOF current item's title -->	
+				
+				<!-- BOF current item's image -->	
+								<!-- BOF current item's image -->	
+				
+												
+				<div class="image_standard fc_stretch">
+											<a href="/pregnancy-and-childbirth/8299-mozhet-li-beremennost-protekat-bez-simptomov.html">
+							<img style=" width: 100%; height: auto; display: block !important; border: 0 !important; max-width:200px; max-height:200px;" src="/components/com_flexicontent/librairies/phpthumb/phpThumb.php?src=/images/stories/flexicontent/l_pregnancy_symptoms.jpg&amp;w=200&amp;h=200&amp;aoe=1&amp;q=95&amp;zc=1&amp;f=jpg" alt="Может ли беременность протекать без симптомов" />
+						</a>
+									</div>
+				
+												
+				<!-- BOF current item's content -->
+								<div class="content_standard fc_overlayed fc_top">
+					
+													<div class="fc_block" >
+					<div class="fc_inline_block fcitem_title">
+													<a href="/pregnancy-and-childbirth/8299-mozhet-li-beremennost-protekat-bez-simptomov.html">Может ли беременность протекать без симп...</a>
+											</div>
+				</div>
+													
+										
+										
+										
+										
+										
+										<div class="fc_block fcitem_text">
+						 Вам, вероятно, доводилось слышать истории о том, как женщина не знала, что беременна до самых родов ...					</div>
+										
+										
+					
+					<div class="clearfix"></div> 
+					
+				</div> <!-- EOF current item's content -->
+								
+								
+			</div>  <!-- EOF wrapper_innerbox -->
+			</div>  <!-- EOF wrapper -->
+			<!-- EOF current item -->
+												
+			<!-- BOF current item -->	
+			<div class="mod_flexicontent_standard_wrapper even cols_2"
+				onmouseover=""
+				onmouseout=""
+			>
+			<div class="mod_flexicontent_standard_wrapper_innerbox">
+				
+				<!-- BOF current item's title -->	
+								<!-- EOF current item's title -->	
+				
+				<!-- BOF current item's image -->	
+								<!-- BOF current item's image -->	
+				
+												
+				<div class="image_standard fc_stretch">
+											<a href="/family-council/7881-semejnye-igry-i-konkursy-semejnye-igry-s-detmi.html">
+							<img style=" width: 100%; height: auto; display: block !important; border: 0 !important; max-width:200px; max-height:200px;" src="/components/com_flexicontent/librairies/phpthumb/phpThumb.php?src=/images/stories/flexicontent/l_semejnye_igry.jpg&amp;w=200&amp;h=200&amp;aoe=1&amp;q=95&amp;zc=1&amp;f=jpg" alt="Семейные игры для детей и взрослых (домашние забавы)" />
+						</a>
+									</div>
+				
+												
+				<!-- BOF current item's content -->
+								<div class="content_standard fc_overlayed fc_top">
+					
+													<div class="fc_block" >
+					<div class="fc_inline_block fcitem_title">
+													<a href="/family-council/7881-semejnye-igry-i-konkursy-semejnye-igry-s-detmi.html">Семейные игры для детей и взрослых (дома...</a>
+											</div>
+				</div>
+													
+										
+										
+										
+										
+										
+										<div class="fc_block fcitem_text">
+						 Правильно подобранные игры для всей семьи – один из лучших способов объединить домочадцев. Они могу ...					</div>
+										
+										
+					
+					<div class="clearfix"></div> 
+					
+				</div> <!-- EOF current item's content -->
+								
+								
+			</div>  <!-- EOF wrapper_innerbox -->
+			</div>  <!-- EOF wrapper -->
+			<!-- EOF current item -->
+												
+			<!-- BOF current item -->	
+			<div class="mod_flexicontent_standard_wrapper even cols_2"
+				onmouseover=""
+				onmouseout=""
+			>
+			<div class="mod_flexicontent_standard_wrapper_innerbox">
+				
+				<!-- BOF current item's title -->	
+								<!-- EOF current item's title -->	
+				
+				<!-- BOF current item's image -->	
+								<!-- BOF current item's image -->	
+				
+												
+				<div class="image_standard fc_stretch">
+											<a href="/teenager/8659-khobbi-dlya-vsekh-kak-najti-svoe-khobbi-podrostku.html">
+							<img style=" width: 100%; height: auto; display: block !important; border: 0 !important; max-width:200px; max-height:200px;" src="/components/com_flexicontent/librairies/phpthumb/phpThumb.php?src=/images/stories/flexicontent/l_hobby_for_teens.jpg&amp;w=200&amp;h=200&amp;aoe=1&amp;q=95&amp;zc=1&amp;f=jpg" alt="Чем увлекаешься, или как найти хобби по душе" />
+						</a>
+									</div>
+				
+												
+				<!-- BOF current item's content -->
+								<div class="content_standard fc_overlayed fc_top">
+					
+													<div class="fc_block" >
+					<div class="fc_inline_block fcitem_title">
+													<a href="/teenager/8659-khobbi-dlya-vsekh-kak-najti-svoe-khobbi-podrostku.html">Чем увлекаешься, или как найти хобби по ...</a>
+											</div>
+				</div>
+													
+										
+										
+										
+										
+										
+										<div class="fc_block fcitem_text">
+						 При знакомстве вопрос о том, чем увлекаешься, можно услышать очень часто. Многих людей он вводит в  ...					</div>
+										
+										
+					
+					<div class="clearfix"></div> 
+					
+				</div> <!-- EOF current item's content -->
+								
+								
+			</div>  <!-- EOF wrapper_innerbox -->
+			</div>  <!-- EOF wrapper -->
+			<!-- EOF current item -->
+												
+			<!-- BOF current item -->	
+			<div class="mod_flexicontent_standard_wrapper odd cols_2"
+				onmouseover=""
+				onmouseout=""
+			>
+			<div class="mod_flexicontent_standard_wrapper_innerbox">
+				
+				<!-- BOF current item's title -->	
+								<!-- EOF current item's title -->	
+				
+				<!-- BOF current item's image -->	
+								<!-- BOF current item's image -->	
+				
+												
+				<div class="image_standard fc_stretch">
+											<a href="/family-council/7980-konkursy-na-den-rozhdeniya-dlya-detej-12-let.html">
+							<img style=" width: 100%; height: auto; display: block !important; border: 0 !important; max-width:200px; max-height:200px;" src="/components/com_flexicontent/librairies/phpthumb/phpThumb.php?src=/images/stories/flexicontent/l_konkursy_12_1.jpg&amp;w=200&amp;h=200&amp;aoe=1&amp;q=95&amp;zc=1&amp;f=jpg" alt="18 лучших конкурсов на день рождения для детей 12 лет" />
+						</a>
+									</div>
+				
+												
+				<!-- BOF current item's content -->
+								<div class="content_standard fc_overlayed fc_top">
+					
+													<div class="fc_block" >
+					<div class="fc_inline_block fcitem_title">
+													<a href="/family-council/7980-konkursy-na-den-rozhdeniya-dlya-detej-12-let.html">18 лучших конкурсов на день рождения для...</a>
+											</div>
+				</div>
+													
+										
+										
+										
+										
+										
+										<div class="fc_block fcitem_text">
+						 Время неумолимо бежит вперед, наши дети растут, набираются опыта и меняют свои интересы. Все вокруг ...					</div>
+										
+										
+					
+					<div class="clearfix"></div> 
+					
+				</div> <!-- EOF current item's content -->
+								
+								
+			</div>  <!-- EOF wrapper_innerbox -->
+			</div>  <!-- EOF wrapper -->
+			<!-- EOF current item -->
+												
+			<!-- BOF current item -->	
+			<div class="mod_flexicontent_standard_wrapper odd cols_2"
+				onmouseover=""
+				onmouseout=""
+			>
+			<div class="mod_flexicontent_standard_wrapper_innerbox">
+				
+				<!-- BOF current item's title -->	
+								<!-- EOF current item's title -->	
+				
+				<!-- BOF current item's image -->	
+								<!-- BOF current item's image -->	
+				
+												
+				<div class="image_standard fc_stretch">
+											<a href="/teenager/8628-penni-bord-ili-longbord-kak-vybrat-i-kak-katatsya.html">
+							<img style=" width: 100%; height: auto; display: block !important; border: 0 !important; max-width:200px; max-height:200px;" src="/components/com_flexicontent/librairies/phpthumb/phpThumb.php?src=/images/stories/flexicontent/l_penny_board_ili_longboard.jpg&amp;w=200&amp;h=200&amp;aoe=1&amp;q=95&amp;zc=1&amp;f=jpg" alt="Пенни борд или лонгборд: как выбрать и как кататься?" />
+						</a>
+									</div>
+				
+												
+				<!-- BOF current item's content -->
+								<div class="content_standard fc_overlayed fc_top">
+					
+													<div class="fc_block" >
+					<div class="fc_inline_block fcitem_title">
+													<a href="/teenager/8628-penni-bord-ili-longbord-kak-vybrat-i-kak-katatsya.html">Пенни борд или лонгборд: как выбрать и к...</a>
+											</div>
+				</div>
+													
+										
+										
+										
+										
+										
+										<div class="fc_block fcitem_text">
+						 Классический скейтборд уходит. Да здравствует скейтборд! Так или примерно так мы могли бы описать с ...					</div>
+										
+										
+					
+					<div class="clearfix"></div> 
+					
+				</div> <!-- EOF current item's content -->
+								
+								
+			</div>  <!-- EOF wrapper_innerbox -->
+			</div>  <!-- EOF wrapper -->
+			<!-- EOF current item -->
+									
+		</div>
+		<!-- EOF standard items -->
+	
+			
+	<div class="modclear"></div>
+	
+	</div>
+	
+		
+		
+	
+		
+</div>
+
+		
+		      
+		    </header>
+		</header>
+	</header>
+					</div>
+												<div id="jm-maincontent">
+										<div class="blog-featured" itemscope itemtype="https://schema.org/Blog">
+
+
+
+</div>
+
+				</div>
+											</div>
+						<aside id="jm-left" class="span3 offset-9" data-xtablet="span6 first-span" data-tablet="span50 first-span" data-mobile="span100 first-span">
+			    <div class="">
+                    	<div class="jm-module ">
+		<div  class="jm-module-in">
+					   		<h2 class="jm-title "><span>Поиск</span> по сайту</h2>
+		   			    <div class="jm-module-content clearfix ">
+		    	
+<div class="mod_flexiadvsearch_wrapper mod_flexiadvsearch_wrap" id="mod_flexiadvsearch_default278">
+
+<form class="mod_flexiadvsearch" name="default_form_278" id="default_form_278" action="/component/flexicontent/search.html" method="post" role="search">
+	<div class="search">
+		<input name="option" type="hidden" value="com_flexicontent" />
+		<input name="view" type="hidden" value="search" />
+		<span class="fc_filter_html fc_text_search">
+		
+			<input type="text"
+				data-txt_ac_lang="ru-RU"
+				id="mod_search_searchword-278" class="fc_text_filter fc_index_complete_simple fc_basic_complete "
+				placeholder="Искать ..." name="q"  size="20" maxlength="200" value="" aria-label="Искать ..."  /><input type="submit" value="Пуск" style="position:absolute; left:-9999px;" onclick="this.form.q.focus();" />		</span>
+	</div>
+
+</form>
+</div>
+
+	      
+		    </div>
+		</div>
+	</div>
+		<div class="jm-module ">
+		<div  class="jm-module-in">
+					    <div class="jm-module-content clearfix notitle">
+		    	
+
+<div class="custom"  >
+	<!-- Yandex.RTB R-A-229701-1 -->
+<div id="yandex_rtb_R-A-229701-1"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Context.AdvManager.render({
+                blockId: "R-A-229701-1",
+                renderTo: "yandex_rtb_R-A-229701-1",
+                async: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//an.yandex.ru/system/context.js";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(this, this.document, "yandexContextAsyncCallbacks");
+</script></div>
+	      
+		    </div>
+		</div>
+	</div>
+					</div>
+			</aside>
+									<aside id="jm-right" class="span3" data-xtablet="span6" data-tablet="span50" data-mobile="span100 first-span">
+                <div class="">
+                    	<div class="jm-module ">
+		<div  class="jm-module-in">
+					    <div class="jm-module-content clearfix notitle">
+		    	
+<div id="ariext260_container" class="ux-menu-container ux-menu-clearfix">
+
+	<ul id="ariext260" class="ux-menu ux-menu-vertical">
+					<li class="ux-menu-item-main ux-menu-item-level-0 ux-menu-item400 ux-menu-item-parent-pos0">
+				<a href="/calendar-for-school-year.html" class=" ux-menu-link-level-0 ux-menu-link-first ux-menu-link-last" title="">
+					Календарь на 2020-2021 учебный год									</a>
+						</li>
+			</ul>
+</div>	      
+		    </div>
+		</div>
+	</div>
+		<div class="jm-module ">
+		<div  class="jm-module-in">
+					    <div class="jm-module-content clearfix notitle">
+		    	
+<div id="ariext261_container" class="ux-menu-container ux-menu-clearfix">
+
+	<ul id="ariext261" class="ux-menu ux-menu-vertical">
+					<li class="ux-menu-item-main ux-menu-item-level-0 ux-menu-item75 ux-menu-item-parent-pos0">
+				<a href="/contacts.html" class=" ux-menu-link-level-0 ux-menu-link-first ux-menu-link-last" title="">
+					Контакты									</a>
+						</li>
+			</ul>
+</div>	      
+		    </div>
+		</div>
+	</div>
+		<div class="jm-module ">
+		<div  class="jm-module-in">
+					    <div class="jm-module-content clearfix notitle">
+		    	
+
+<div class="custom"  >
+	<!––noindex––>
+<center>
+<table>
+
+<p>
+
+</p>
+<tr>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- www.rastut-goda.ru-главная -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:160px;height:600px"
+     data-ad-client="ca-pub-6655788639159825"
+     data-ad-slot="3818506532"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</tr>
+</table>
+</center>
+<!––/noindex––></div>
+	      
+		    </div>
+		</div>
+	</div>
+		<div class="jm-module ">
+		<div  class="jm-module-in">
+					   		<h3 class="jm-title "><span>Последние</span> добавленные комментарии</h3>
+		   			    <div class="jm-module-content clearfix ">
+		    	<ul class="jcomments-latest">
+	
+			<li>
+				<h4>
+							<a href="/teenager/8659-khobbi-dlya-vsekh-kak-najti-svoe-khobbi-podrostku.html">Чем увлекаешься, или как найти хобби по душе</a>
+					</h4>
+		
+		
+						<span class="date">06.02.2021 15:30</span>
+		
+		<div class="comment rounded ">
+					<div>
+				 <img src="/components/com_jcomments/images/smilies/lol.gif" alt=":lol:" />  прекрасноо							</div>
+		</div>
+
+				<span class="comment-separator">&#160;</span>
+			</li>
+			<li>
+				<h4>
+							<a href="/newborn/8643-rost-i-ves-rebenka-po-mesyatsam-norma-nabora-vesa-u-grudnichkov.html">Рост и вес ребенка до года (норма роста и веса у детей)</a>
+					</h4>
+		
+		
+						<span class="date">22.01.2021 17:08</span>
+		
+		<div class="comment rounded ">
+					<div>
+				Жирный? Вы о своём родном ребёнке говорите? И 2000 г и 400 г - это нормально. Дети развиваются в ...							</div>
+		</div>
+
+				<span class="comment-separator">&#160;</span>
+			</li>
+			<li>
+				<h4>
+							<a href="/grow-up-healthy/8104-borodavki-u-detej.html">Бородавки у детей</a>
+					</h4>
+		
+		
+						<span class="date">10.01.2021 19:14</span>
+		
+		<div class="comment rounded ">
+					<div>
+				Я своему ребенку удаляла бородавки при помощи Веррукацида. Нужно сначала вокруг бородавки обработать ...							</div>
+		</div>
+
+				<span class="comment-separator">&#160;</span>
+			</li>
+			<li>
+				<h4>
+							<a href="/family-council/8530-spisok-shkolnykh-prinadlezhnostej-dlya-5-klassa.html">Список школьных принадлежностей для 5 класса</a>
+					</h4>
+		
+		
+						<span class="date">07.01.2021 07:35</span>
+		
+		<div class="comment rounded ">
+					<div>
+				Спасибо, Вы мне просто очень помогли, а то у меня ребёнок из коррекционной школы пойдёт в среднюю ...							</div>
+		</div>
+
+				<span class="comment-separator">&#160;</span>
+			</li>
+			<li>
+				<h4>
+							<a href="/teenager/8628-penni-bord-ili-longbord-kak-vybrat-i-kak-katatsya.html">Пенни борд или лонгборд: как выбрать и как кататься?</a>
+					</h4>
+		
+		
+						<span class="date">03.01.2021 15:15</span>
+		
+		<div class="comment rounded ">
+					<div>
+				Пенни позиционируется как круизер. Колеса больше и мягче, поэтому вам не придется беспокоиться о ...							</div>
+		</div>
+
+				<span class="comment-separator">&#160;</span>
+			</li>
+			<li>
+				<h4>
+							<a href="/questions-of-pedagogy/8188-patrioticheskoe-vospitanie-mladshikh-shkolnikov.html">Воспитание патриотизма у младших школьников</a>
+					</h4>
+		
+		
+						<span class="date">29.12.2020 12:50</span>
+		
+		<div class="comment rounded ">
+					<div>
+				Крайний патриотизм, ведущий к враждебности по отношению к другим странам, международной напряженности ...							</div>
+		</div>
+
+				<span class="comment-separator">&#160;</span>
+			</li>
+			<li>
+				<h4>
+							<a href="/questions-of-pedagogy/7884-innovacionnaya-shkola-innovacionnye-metody-obucheniya.html">Инновационная школа и инновационные методы обучения школьников: плюсы и минусы</a>
+					</h4>
+		
+		
+						<span class="date">29.12.2020 12:48</span>
+		
+		<div class="comment rounded ">
+					<div>
+				Благодаря моему опыту онлайн-обучения и взаимодействию с учениками онлайн, я считаю, что это отличный ...							</div>
+		</div>
+
+			</li>
+		</ul>
+
+	      
+		    </div>
+		</div>
+	</div>
+					</div>
+			</aside>
+					</div>
+	</div>
+</section>    			    				
+    			    				
+    			    				
+    			    				
+<footer id="jm-footer" class="">
+	<div class="container-fluid">
+		<div class="row-fluid">
+					<div id="jm-copyrights" class="span6 ">
+				
+
+<div class="custom"  >
+	<center>
+
+<!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t22.2;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число просмотров за 24"+
+" часа, посетителей за 24 часа и за сегодня' "+
+"border='0' width='88' height='31'>")
+//--></script><!--/LiveInternet-->
+
+
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(66089683, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/66089683" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+</p>
+
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-16467925-4']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({
+          google_ad_client: "ca-pub-6655788639159825",
+          enable_page_level_ads: true
+     });
+</script>
+
+
+</p></div>
+
+			</div>
+						<div id="jm-poweredby" class="span6 text-right pull-right">
+				Перепечатка материалов возможна только с письменного разрешения администрации сайта 
+				<p></p>
+				<a href="https://www.rastut-goda.ru/" title="У меня растут года...">У меня растут года...</a>   rastut-goda.ru
+			</div>
+						<div id="jm-back-top">
+				<a href="#top"><span>&nbsp;</span></a>
+			</div>
+					</div>
+	</div>
+</footer>    			    				
+    			    		</div>
+        	</div>
+</body>
+</html>

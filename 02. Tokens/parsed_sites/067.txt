@@ -1,0 +1,673 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="ru-ru">
+<head>
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-6139272877217376",
+    enable_page_level_ads: true
+  });
+</script>
+
+      <base href="https://klass-6.ru/" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="keywords" content="ГДЗ решебник школа класс готовые ответы домашние задания математика русский язык рабочая тетрадь " />
+  <meta name="description" content="Сайт готовых домашних заданий для школы - гдз и решебник" />
+  <meta name="generator" content="Joomla! - Open Source Content Management" />
+  <title>ВСЕ КЛАССЫ</title>
+  <link href="/index.php?format=feed&amp;type=rss" rel="alternate" type="application/rss+xml" title="RSS 2.0" />
+  <link href="/index.php?format=feed&amp;type=atom" rel="alternate" type="application/atom+xml" title="Atom 1.0" />
+  <link href="/templates/dd_highschool_43/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+  <link rel="stylesheet" href="/media/system/css/modal.css" type="text/css" />
+  <script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
+  <script src="/media/system/js/core.js" type="text/javascript"></script>
+  <script src="/media/system/js/mootools-more.js" type="text/javascript"></script>
+  <script src="/media/jui/js/jquery.min.js" type="text/javascript"></script>
+  <script src="/media/jui/js/jquery-noconflict.js" type="text/javascript"></script>
+  <script src="/media/jui/js/jquery-migrate.min.js" type="text/javascript"></script>
+  <script src="/media/system/js/caption.js" type="text/javascript"></script>
+  <script src="/media/system/js/modal.js" type="text/javascript"></script>
+  <script type="text/javascript">
+jQuery(function($) {
+			 $('.hasTip').each(function() {
+				var title = $(this).attr('title');
+				if (title) {
+					var parts = title.split('::', 2);
+					var mtelement = document.id(this);
+					mtelement.store('tip:title', parts[0]);
+					mtelement.store('tip:text', parts[1]);
+				}
+			});
+			var JTooltips = new Tips($('.hasTip').get(), {"maxTitleChars": 50,"fixed": false});
+		});jQuery(window).on('load',  function() {
+				new JCaption('img.caption');
+			}); /* <![CDATA[ */  
+					function clickExplorer() {
+						if( document.all ) {
+							alert('Копировать НЕЛЬЗЯ!!!');
+						}
+						return false;
+					}
+
+					function clickOther(e) {
+						if( document.layers || ( document.getElementById && !document.all ) ) {
+							if ( e.which == 2 || e.which == 3 ) {
+								alert('Копировать НЕЛЬЗЯ!!!');
+								return false;
+							}
+						}
+					}
+					if( document.layers ) {
+						document.captureEvents( Event.MOUSEDOWN );
+						document.onmousedown=clickOther;
+					}
+					else {
+						document.onmouseup = clickOther;
+						document.oncontextmenu = clickExplorer;
+					}   /* ]]> */  /* <![CDATA[ */  window.addEvent('domready', function() { 
+				   
+	
+				    document.body.oncopy = function() { 
+							alert('Копировать НЕЛЬЗЯ!!!'); 
+					 return false; } });  
+						 if( typeof( document.onselectstart ) != 'undefined' )
+							document.onselectstart = function(){ return false };
+						 document.ondragstart = function(){ return false }   /* ]]> */ 
+		jQuery(function($) {
+			SqueezeBox.initialize({});
+			SqueezeBox.assign($('a.modal').get(), {
+				parse: 'rel'
+			});
+		});
+		function jModalClose() {
+			SqueezeBox.close();
+		}
+  </script>
+
+    <link rel="stylesheet" href="/templates/system/css/system.css" />
+    <link rel="stylesheet" href="/templates/system/css/general.css" />
+    <meta name="viewport" content="initial-scale = 1.0, maximum-scale = 1.0, user-scalable = no, width = device-width" />
+
+    <!--[if lt IE 9]><script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+    <link rel="stylesheet" href="/templates/dd_highschool_43/css/template.css" media="screen" type="text/css" />
+    <!--[if lte IE 7]><link rel="stylesheet" href="/templates/dd_highschool_43/css/template.ie7.css" media="screen" /><![endif]-->
+    <link rel="stylesheet" href="/templates/dd_highschool_43/css/template.responsive.css" media="all" type="text/css" />
+<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Angkor&amp;subset=latin" />
+<link rel="shortcut icon" href="/templates/dd_highschool_43/favicon.ico" type="image/x-icon" />
+    <script>if ('undefined' != typeof jQuery) document._artxJQueryBackup = jQuery;</script>
+    <script src="/templates/dd_highschool_43/jquery.js"></script>
+    <script>jQuery.noConflict();</script>
+
+    <script src="/templates/dd_highschool_43/script.js"></script>
+    <script src="/templates/dd_highschool_43/script.responsive.js"></script>
+    <script src="/templates/dd_highschool_43/modules.js"></script>
+        <script>if (document._artxJQueryBackup) jQuery = document._artxJQueryBackup;</script>
+   <!--slideshow header start-->
+
+<script type="text/javascript" src="/templates/dd_highschool_43/js/jquery.min.js"></script>
+
+<link rel="stylesheet" type="text/css" href="/templates/dd_highschool_43/js/slider/themes/default/jquery.slider.css" />
+<!--[if IE 6]>
+<link rel="stylesheet" type="text/css" href="/templates/dd_highschool_43/js/slider/themes/default/jquery.slider.ie6.css" />
+<![endif]-->
+
+<script type="text/javascript" src="/templates/dd_highschool_43/js/slider/jquery.slider.min.js"></script>
+
+<!--To Top-->
+		<script type="text/javascript" src="/templates/dd_highschool_43/js/move-top.js"></script>
+		<script type="text/javascript" src="/templates/dd_highschool_43/js/easing.js"></script>
+		<script type="text/javascript">
+			jQuery(document).ready(function($) {
+				$(".scroll").click(function(event){		
+					event.preventDefault();
+					$('html,body').animate({scrollTop:$(this.hash).offset().top},1000);
+				});
+			});
+		</script>
+   
+</head>
+<body>
+
+
+<div id="dd-main">
+<header class="dd-header">
+    <div class="dd-shapes">
+        <div class="dd-object1015083262"></div>
+<div class="dd-object327901672"></div>
+<div class="dd-object1101571472"></div>
+<div class="dd-object289956303">﻿<div class="slider">
+  <div>
+    <img src="/images/banners/Pravo.jpg" alt="foto1"/>
+  </div>
+  <div>
+    <img src="/images/banners/1sait.jpg" alt="foto1"/>
+  </div>
+  <div>
+    <img src="/images/banners/nashol-oshibku.jpg" alt="foto1"/>
+  </div>
+   <div>
+    <img src="/images/banners/Anekdot-1.jpg" alt="foto1"/>
+  </div>
+   <div>
+    <img src="/images/banners/Anekdot-2.jpg" alt="foto1"/>
+  </div>
+</div>
+
+
+</div>
+
+
+<div class="dd-object1996030236"></div>
+<div class="dd-object1822000261"></div><div class="dd-object1324305465"></div>
+<div class="dd-object847292145"></div>
+<div class="dd-textblock dd-object1516020629">
+        <div class="dd-object1516020629-text-container">
+        <div class="dd-object1516020629-text">все решебники и гдз на сайте 6 класса школы математика русский язык Виленкин Зубарева Дорофеев Бунимович</div>    </div>
+    
+</div>
+            </div>
+
+<h1 class="dd-headline">
+    <a href="/">решебники и ГДЗ</a>
+</h1>
+<h2 class="dd-slogan">гдз - готовые домашние задания</h2>
+
+
+<div class="dd-textblock dd-textblock-2130762074">
+        <div class="dd-textblock-2130762074-text-container">
+        <div class="dd-textblock-2130762074-text"><a href="https://facebook.com" target="_blank" class="dd-facebook-tag-icon"></a></div>
+    </div>
+    
+</div><div class="dd-textblock dd-textblock-1934726905">
+        <div class="dd-textblock-1934726905-text-container">
+        <div class="dd-textblock-1934726905-text"><a href="http://vk.com/club106024447" target="_blank" class="dd-twitter-tag-icon"></a></div>
+    </div>
+    
+</div><div class="dd-textblock dd-textblock-1553734730">
+        <div class="dd-textblock-1553734730-text-container">
+        <div class="dd-textblock-1553734730-text"><a href="http://ok.ru/group/54681856638990" target="_blank" class="dd-pinterest-tag-icon"></a></div>
+    </div>
+    
+</div>
+<a href="#" class="dd-logo dd-logo-1624972574">
+    <img src="/templates/dd_highschool_43/images/logo-1624972574.png" alt="" />
+</a><a href="#" class="dd-logo dd-logo-2065139837">
+    <img src="/templates/dd_highschool_43/images/logo.png" alt="logo" />
+</a><a href="#" class="dd-logo dd-logo-4525103">
+    <img src="/templates/dd_highschool_43/images/logo-4525103.png" alt="" />
+</a><a href="#" class="dd-logo dd-logo-678893299">
+    <img src="/templates/dd_highschool_43/images/logo-678893299.png" alt="" />
+</a>
+<div class="dd-textblock dd-object1583978070">
+    <form class="dd-search" name="Search" action="/index.php" method="post">
+    <input type="text" value="" name="searchword" />
+        <input type="hidden" name="task" value="search" />
+<input type="hidden" name="option" value="com_search" />
+<input type="submit" value="" name="search" class="dd-search-button" />
+        </form>
+</div>
+
+                    
+</header>
+<div class="dd-sheet clearfix">
+            <!-- begin nostyle -->
+<div class="dd-nostyle">
+<!-- begin nostyle content -->
+<div class="bannergroup">
+
+	<div class="banneritem">
+										<p align="center">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Banner 980 120 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:980px;height:120px"
+     data-ad-client="ca-pub-6139272877217376"
+     data-ad-slot="2705473840"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</p>				<div class="clr"></div>
+	</div>
+
+</div>
+<!-- end nostyle content -->
+</div>
+<!-- end nostyle -->
+<div class="dd-layout-wrapper">
+                <div class="dd-content-layout">
+                    <div class="dd-content-layout-row">
+                        <div class="dd-layout-cell dd-sidebar1">
+<div class="dd-block clearfix_menu"><div class="dd-blockheader"><h3 class="t">ГДЗ и РЕШЕБНИКИ</h3></div><div class="dd-blockcontent"><ul class="menu"><li class="item-103 current active"><a href="/index.php">ВСЕ КЛАССЫ</a></li><li class="item-128"><a href="/index.php/novosti">ПРАВООБЛАДАТЕЛЯМ</a></li><li class="item-129 parent"><a href="/index.php/1-klass">1 КЛАСС</a></li><li class="item-132 parent"><a href="/index.php/2-klass">2 КЛАСС</a></li><li class="item-135 parent"><a href="/index.php/3-klass">3 КЛАСС</a></li><li class="item-138 parent"><a href="/index.php/4-klass">4 КЛАСС</a></li><li class="item-141 parent"><a href="/index.php/5-klass">5 КЛАСС</a></li><li class="item-149 parent"><a href="/index.php/6-klass">6 КЛАСС</a></li><li class="item-156 parent"><a href="/index.php/7-klass">7 КЛАСС</a></li><li class="item-167 parent"><a href="/index.php/8-klass">8 КЛАСС</a></li><li class="item-179 parent"><a href="/index.php/9-klass">9 КЛАСС</a></li><li class="item-191 parent"><a href="/index.php/10-klass">10 КЛАСС</a></li><li class="item-202 parent"><a href="/index.php/11-klass">11 КЛАСС</a></li></ul></div></div><div class="dd-block clearfix"><div class="dd-blockcontent"><div class="bannergroup">
+
+	<div class="banneritem">
+										<div align="center">
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Banner 240 400 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:240px;height:400px"
+     data-ad-client="ca-pub-6139272877217376"
+     data-ad-slot="3080991546"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</></div>				<div class="clr"></div>
+	</div>
+
+</div></div></div>
+
+
+
+                        </div>
+
+                        <div class="dd-layout-cell dd-content">
+<article class="dd-post dd-messages"><div class="dd-postcontent clearfix">
+<div id="system-message-container">
+</div></div></article><div class="blog" itemscope itemtype="http://schema.org/Blog"><article class="dd-post"><div class="dd-postmetadataheader"><h2 class="dd-postheader"><span class="dd-postheadericon">ВСЕ КЛАССЫ</span></h2></div></article><div class="items-leading">
+            <div class="leading-0" 
+            itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
+            <article class="dd-post"><div class="dd-postcontent clearfix"><div class="dd-article"><p><span style="font-size: 12pt;">&nbsp; &nbsp; &nbsp;&nbsp;</span></p>
+<p style="text-align: center;"><span style="font-size: 12pt;">&nbsp;</span></p>
+<table style="height: 600px; width: 600px; margin-left: auto; margin-right: auto;" border="2" align="center">
+<tbody>
+<tr align="center" valign="middle">
+<td style="text-align: center;" align="center" valign="middle"><strong style="color: #184495; font-family: Arial, 'Arial Unicode MS', Helvetica, sans-serif; font-size: 18.6667px; text-align: center; background-color: rgba(255, 255, 255, 0.4);"><span style="font-family: 'times new roman', times;">ПРЕДМЕТ</span></strong></td>
+<td style="text-align: center;" colspan="11" align="center" valign="middle"><strong style="color: #184495; font-family: Arial, 'Arial Unicode MS', Helvetica, sans-serif; font-size: 18.6667px; text-align: center; background-color: rgba(255, 255, 255, 0.4);"><span style="font-family: 'times new roman', times;">КЛАССЫ</span></strong></td>
+</tr>
+<tr>
+<td><span style="font-family: 'arial black', 'avant garde';">&nbsp;</span></td>
+<td style="text-align: center;" align="center" valign="middle">
+<p><span style="font-family: 'times new roman', times; font-size: 18pt;"><strong style="color: #184495; font-family: Arial, 'Arial Unicode MS', Helvetica, sans-serif; font-size: 18.6667px; text-align: center; background-color: rgba(255, 255, 255, 0.4);">1</strong></span></p>
+</td>
+<td style="text-align: center;" align="center" valign="middle">
+<p><span style="font-family: 'times new roman', times; font-size: 18pt;"><strong style="color: #184495; font-family: Arial, 'Arial Unicode MS', Helvetica, sans-serif; font-size: 18.6667px; text-align: center; background-color: rgba(255, 255, 255, 0.4);">2</strong></span></p>
+</td>
+<td style="text-align: center;" align="center" valign="middle">
+<p><span style="font-family: 'times new roman', times; font-size: 18pt;"><strong style="color: #184495; font-family: Arial, 'Arial Unicode MS', Helvetica, sans-serif; font-size: 18.6667px; text-align: center; background-color: rgba(255, 255, 255, 0.4);">3</strong></span></p>
+</td>
+<td style="text-align: center;" align="center" valign="middle">
+<p><span style="font-family: 'times new roman', times; font-size: 18pt;"><strong style="color: #184495; font-family: Arial, 'Arial Unicode MS', Helvetica, sans-serif; font-size: 18.6667px; text-align: center; background-color: rgba(255, 255, 255, 0.4);">4</strong></span></p>
+</td>
+<td style="text-align: center;" align="center" valign="middle">
+<p><span style="font-family: 'times new roman', times; font-size: 18pt;"><strong style="color: #184495; font-family: Arial, 'Arial Unicode MS', Helvetica, sans-serif; font-size: 18.6667px; text-align: center; background-color: rgba(255, 255, 255, 0.4);">5</strong></span></p>
+</td>
+<td style="text-align: center;" align="center" valign="middle">
+<p><span style="font-family: 'times new roman', times; font-size: 18pt;"><strong style="color: #184495; font-family: Arial, 'Arial Unicode MS', Helvetica, sans-serif; font-size: 18.6667px; text-align: center; background-color: rgba(255, 255, 255, 0.4);">6</strong></span></p>
+</td>
+<td style="text-align: center;" align="center" valign="middle">
+<p><span style="font-family: 'times new roman', times; font-size: 18pt;"><strong style="color: #184495; font-family: Arial, 'Arial Unicode MS', Helvetica, sans-serif; font-size: 18.6667px; text-align: center; background-color: rgba(255, 255, 255, 0.4);">7</strong></span></p>
+</td>
+<td style="text-align: center;" align="center" valign="middle">
+<p><span style="font-family: 'times new roman', times; font-size: 18pt;"><strong style="color: #184495; font-family: Arial, 'Arial Unicode MS', Helvetica, sans-serif; font-size: 18.6667px; text-align: center; background-color: rgba(255, 255, 255, 0.4);">8</strong></span></p>
+</td>
+<td style="text-align: center;" align="center" valign="middle">
+<p><span style="font-family: 'times new roman', times; font-size: 18pt;"><strong style="color: #184495; font-family: Arial, 'Arial Unicode MS', Helvetica, sans-serif; font-size: 18.6667px; text-align: center; background-color: rgba(255, 255, 255, 0.4);">9</strong></span></p>
+</td>
+<td style="text-align: center;" align="center" valign="middle">
+<p><span style="font-family: 'times new roman', times; font-size: 18pt;"><strong style="color: #184495; font-family: Arial, 'Arial Unicode MS', Helvetica, sans-serif; font-size: 18.6667px; text-align: center; background-color: rgba(255, 255, 255, 0.4);">10</strong></span></p>
+</td>
+<td style="text-align: center;" align="center" valign="middle">
+<p><span style="font-family: 'times new roman', times; font-size: 18pt;"><strong style="color: #184495; font-family: Arial, 'Arial Unicode MS', Helvetica, sans-serif; font-size: 18.6667px; text-align: center; background-color: rgba(255, 255, 255, 0.4);">11</strong></span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'times new roman', times; font-size: 18pt;"><strong style="color: #184495; font-family: Arial, 'Arial Unicode MS', Helvetica, sans-serif; font-size: 18.6667px; background-color: rgba(255, 255, 255, 0.4);">Математика</strong></span></p>
+</td>
+<td align="center" valign="middle"><img src="/images/Go.jpg" alt="Учебники, решебник и ГДЗ по математике для 1 класса" width="30" height="30" /></td>
+<td align="center" valign="middle"><img src="/images/Go.jpg" alt="Учебники, решебник и ГДЗ по математике для 2 класса" width="30" height="30" /></td>
+<td align="center" valign="middle"><img src="/images/Go.jpg" alt="Учебники, решебник и ГДЗ по математике для 3 класса" width="30" height="30" /></td>
+<td align="center" valign="middle"><img src="/images/Go.jpg" alt="Учебники, решебник и ГДЗ по математике для 4 класса" width="30" height="30" /></td>
+<td align="center" valign="middle"><a href="/index.php/5-klass/5-klass-matematika"><img src="/images/Go.jpg" alt="Учебники, решебник и ГДЗ по математике для 5 класса" width="30" height="30" /></a></td>
+<td align="center" valign="middle"><a href="/index.php/6-klass/matematika"><img src="/images/Go.jpg" alt="Учебники, решебник и ГДЗ по математике для 6 класса" width="30" height="30" /></a></td>
+<td align="center" valign="middle"><img src="/images/Stop.jpg" alt="Учебники, решебник и ГДЗ по математике для 7 класса" width="30" height="30" /></td>
+<td align="center" valign="middle"><img src="/images/Stop.jpg" alt="Учебники, решебник и ГДЗ по математике для 8 класса" width="30" height="30" /></td>
+<td align="center" valign="middle"><img src="/images/Stop.jpg" alt="Учебники, решебник и ГДЗ по математике для 9 класса" width="30" height="30" /></td>
+<td align="center" valign="middle"><img src="/images/Stop.jpg" alt="Учебники, решебник и ГДЗ по математике для 10 класса" width="30" height="30" /></td>
+<td align="center" valign="middle"><img src="/images/Stop.jpg" alt="Учебники, решебник и ГДЗ по математике для 11 класса" width="30" height="30" /></td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'times new roman', times; font-size: 18pt;"><strong style="color: #184495; font-family: Arial, 'Arial Unicode MS', Helvetica, sans-serif; font-size: 18.6667px; background-color: #f8f7f6;">Алгебра</strong></span></p>
+</td>
+<td align="center" valign="middle"><img src="/images/Stop.jpg" alt="Учебники, решебник и ГДЗ по алгебре для 1 класса" width="30" height="30" /></td>
+<td align="center" valign="middle"><img src="/images/Stop.jpg" alt="Учебники, решебник и ГДЗ по алгебре для 2 класса" width="30" height="30" /></td>
+<td align="center" valign="middle"><img src="/images/Stop.jpg" alt="Учебники, решебник и ГДЗ по алгебре для 3 класса" width="30" height="30" /></td>
+<td align="center" valign="middle"><img src="/images/Stop.jpg" alt="Учебники, решебник и ГДЗ по алгебре для 4 класса" width="30" height="30" /></td>
+<td align="center" valign="middle"><img src="/images/Stop.jpg" alt="Учебники, решебник и ГДЗ по алгебре для 5 класса" width="30" height="30" /></td>
+<td align="center" valign="middle"><img src="/images/Stop.jpg" alt="Учебники, решебник и ГДЗ по алгебре для 6 класса" width="30" height="30" /></td>
+<td align="center" valign="middle"><a href="/index.php/7-klass/7-klass-algebra"><img src="/images/Go.jpg" alt="Учебники, решебник и ГДЗ по алгебре для 7 класса" width="30" height="30" /></a></td>
+<td align="center" valign="middle"><img src="/images/Go.jpg" alt="Учебники, решебник и ГДЗ по алгебре для 8 класса" width="30" height="30" /></td>
+<td align="center" valign="middle"><img src="/images/Go.jpg" alt="Учебники, решебник и ГДЗ по алгебре для 9 класса" width="30" height="30" /></td>
+<td align="center" valign="middle"><img src="/images/Go.jpg" alt="Учебники, решебник и ГДЗ по алгебре для 10 класса" width="30" height="30" /></td>
+<td align="center" valign="middle"><img src="/images/Go.jpg" alt="Учебники, решебник и ГДЗ по алгебре для 11 класса" width="30" height="30" /></td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'times new roman', times; font-size: 18pt;"><strong style="color: #184495; font-family: Arial, 'Arial Unicode MS', Helvetica, sans-serif; font-size: 18.6667px; background-color: #f8f7f6;">Геометрия</strong></span></p>
+</td>
+<td align="center" valign="middle"><img src="/images/Stop.jpg" alt="Учебники, решебник и ГДЗ по геометрии для 1 класса" width="30" height="30" /></td>
+<td align="center" valign="middle"><img src="/images/Stop.jpg" alt="Учебники, решебник и ГДЗ по геометрии для 2 класса" width="30" height="30" /></td>
+<td align="center" valign="middle"><img src="/images/Stop.jpg" alt="Учебники, решебник и ГДЗ по геометрии для 3 класса" width="30" height="30" /></td>
+<td align="center" valign="middle"><img src="/images/Stop.jpg" alt="Учебники, решебник и ГДЗ по геометрии для 4 класса" width="30" height="30" /></td>
+<td align="center" valign="middle"><img src="/images/Stop.jpg" alt="Учебники, решебник и ГДЗ по геометрии для 5 класса" width="30" height="30" /></td>
+<td align="center" valign="middle"><img src="/images/Stop.jpg" alt="Учебники, решебник и ГДЗ по геометрии для 6 класса" width="30" height="30" /></td>
+<td align="center" valign="middle"><a href="/index.php/7-klass/7-klass-geometriya"><img src="/images/Go.jpg" alt="Учебники, решебник и ГДЗ по геометрии для 7 класса" width="30" height="30" /></a></td>
+<td align="center" valign="middle"><a href="/index.php/8-klass/8-klass-geometriya"><img src="/images/Go.jpg" alt="Учебники, решебник и ГДЗ по геометрии для 8 класса" width="30" height="30" /></a></td>
+<td align="center" valign="middle"><a href="/index.php/9-klass/9-klass-geometriya"><img src="/images/Go.jpg" alt="Учебники, решебник и ГДЗ по геометрии для 9 класса" width="30" height="30" /></a></td>
+<td align="center" valign="middle"><img src="/images/Go.jpg" alt="Учебники, решебник и ГДЗ по геометрии для 10 класса" width="30" height="30" /></td>
+<td align="center" valign="middle"><img src="/images/Go.jpg" alt="Учебники, решебник и ГДЗ по геометрии для 11 класса" width="30" height="30" /></td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'times new roman', times; font-size: 18pt;"><strong style="color: #184495; font-family: Arial, 'Arial Unicode MS', Helvetica, sans-serif; background-color: rgba(255, 255, 255, 0.4); font-size: 18.6667px;">Русский язык</strong></span></p>
+</td>
+<td align="center" valign="middle"><img src="/images/Go.jpg" alt="Учебники, решебник и ГДЗ по русскому языку для 1 класса" width="30" height="30" /></td>
+<td align="center" valign="middle"><img src="/images/Go.jpg" alt="Учебники, решебник и ГДЗ по русскому языку для 2 класса" width="30" height="30" /></td>
+<td align="center" valign="middle"><img src="/images/Go.jpg" alt="Учебники, решебник и ГДЗ по русскому языку для 3 класса" width="30" height="30" /></td>
+<td align="center" valign="middle"><img src="/images/Go.jpg" alt="Учебники, решебник и ГДЗ по русскому языку для 4 класса" width="30" height="30" /></td>
+<td align="center" valign="middle"><img src="/images/Go.jpg" alt="Учебники, решебник и ГДЗ по русскому языку для 5 класса" width="30" height="30" /></td>
+<td align="center" valign="middle"><img src="/images/Go.jpg" alt="Учебники, решебник и ГДЗ по русскому языку для 6 класса" width="30" height="30" /></td>
+<td align="center" valign="middle"><img src="/images/Go.jpg" alt="Учебники, решебник и ГДЗ по русскому языку для 7 класса" width="30" height="30" /></td>
+<td align="center" valign="middle"><img src="/images/Go.jpg" alt="Учебники, решебник и ГДЗ по русскому языку для 8 класса" width="30" height="30" /></td>
+<td align="center" valign="middle"><img src="/images/Go.jpg" alt="Учебники, решебник и ГДЗ по русскому языку для 9 класса" width="30" height="30" /></td>
+<td align="center" valign="middle"><img src="/images/Go.jpg" alt="Учебники, решебник и ГДЗ по русскому языку для 10 класса" width="30" height="30" /></td>
+<td align="center" valign="middle"><img src="/images/Go.jpg" alt="Учебники, решебник и ГДЗ по русскому языку для 11 класса" width="30" height="30" /></td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'times new roman', times; font-size: 18pt;"><strong style="color: #184495; font-family: Arial, 'Arial Unicode MS', Helvetica, sans-serif; background-color: rgba(255, 255, 255, 0.4); font-size: 18.6667px;">Физика</strong></span></p>
+</td>
+<td align="center" valign="middle"><img src="/images/Stop.jpg" alt="Учебники, решебник и ГДЗ по физике для 1 класса" width="30" height="30" /></td>
+<td align="center" valign="middle"><img src="/images/Stop.jpg" alt="Учебники, решебник и ГДЗ по физике для 2 класса" width="30" height="30" /></td>
+<td align="center" valign="middle"><img src="/images/Stop.jpg" alt="Учебники, решебник и ГДЗ по физике для 3 класса" width="30" height="30" /></td>
+<td align="center" valign="middle"><img src="/images/Stop.jpg" alt="Учебники, решебник и ГДЗ по физике для 4 класса" width="30" height="30" /></td>
+<td align="center" valign="middle"><img src="/images/Stop.jpg" alt="Учебники, решебник и ГДЗ по физике для 5 класса" width="30" height="30" /></td>
+<td align="center" valign="middle"><img src="/images/Stop.jpg" alt="Учебники, решебник и ГДЗ по физике для 6 класса" width="30" height="30" /></td>
+<td align="center" valign="middle"><img src="/images/Go.jpg" alt="Учебники, решебник и ГДЗ по физике для 7 класса" width="30" height="30" /></td>
+<td align="center" valign="middle"><img src="/images/Go.jpg" alt="Учебники, решебник и ГДЗ по физике для 8 класса" width="30" height="30" /></td>
+<td align="center" valign="middle"><img src="/images/Go.jpg" alt="Учебники, решебник и ГДЗ по физике для 9 класса" width="30" height="30" /></td>
+<td align="center" valign="middle"><img src="/images/Go.jpg" alt="Учебники, решебник и ГДЗ по физике для 10 класса" width="30" height="30" /></td>
+<td align="center" valign="middle"><img src="/images/Go.jpg" alt="Учебники, решебник и ГДЗ по физике для 11 класса" width="30" height="30" /></td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'times new roman', times; font-size: 18pt;"><strong style="color: #184495; font-family: Arial, 'Arial Unicode MS', Helvetica, sans-serif; background-color: rgba(255, 255, 255, 0.4); font-size: 18.6667px;">Химия</strong></span></p>
+</td>
+<td align="center" valign="middle"><img src="/images/Stop.jpg" alt="Учебники, решебник и ГДЗ по химии для 1 класса" width="30" height="30" /></td>
+<td align="center" valign="middle"><img src="/images/Stop.jpg" alt="Учебники, решебник и ГДЗ по химии для 2 класса" width="30" height="30" /></td>
+<td align="center" valign="middle"><img src="/images/Stop.jpg" alt="Учебники, решебник и ГДЗ по химии для 3 класса" width="30" height="30" /></td>
+<td align="center" valign="middle"><img src="/images/Stop.jpg" alt="Учебники, решебник и ГДЗ по химии для 4 класса" width="30" height="30" /></td>
+<td align="center" valign="middle"><img src="/images/Stop.jpg" alt="Учебники, решебник и ГДЗ по химии для 5 класса" width="30" height="30" /></td>
+<td align="center" valign="middle"><img src="/images/Stop.jpg" alt="Учебники, решебник и ГДЗ по химии для 6 класса" width="30" height="30" /></td>
+<td align="center" valign="middle"><img src="/images/Go.jpg" alt="Учебники, решебник и ГДЗ по химии для 7 класса" width="30" height="30" /></td>
+<td align="center" valign="middle"><img src="/images/Go.jpg" alt="Учебники, решебник и ГДЗ по химии для 8 класса" width="30" height="30" /></td>
+<td align="center" valign="middle"><img src="/images/Go.jpg" alt="Учебники, решебник и ГДЗ по химии для 9 класса" width="30" height="30" /></td>
+<td align="center" valign="middle"><img src="/images/Go.jpg" alt="Учебники, решебник и ГДЗ по химии для 10 класса" width="30" height="30" /></td>
+<td align="center" valign="middle"><img src="/images/Go.jpg" alt="Учебники, решебник и ГДЗ по химии для 11 класса" width="30" height="30" /></td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'times new roman', times; font-size: 18pt;"><strong style="color: #184495; font-family: Arial, 'Arial Unicode MS', Helvetica, sans-serif; background-color: rgba(255, 255, 255, 0.4); font-size: 18.6667px;">Биология</strong></span></p>
+</td>
+<td align="center" valign="middle"><img src="/images/Stop.jpg" alt="Учебники, решебник и ГДЗ по биологии для 1 класса" width="30" height="30" /></td>
+<td align="center" valign="middle"><img src="/images/Stop.jpg" alt="Учебники, решебник и ГДЗ по биологии для 2 класса" width="30" height="30" /></td>
+<td align="center" valign="middle"><img src="/images/Stop.jpg" alt="Учебники, решебник и ГДЗ по биологии для 3 класса" width="30" height="30" /></td>
+<td align="center" valign="middle"><img src="/images/Stop.jpg" alt="Учебники, решебник и ГДЗ по биологии для 4 класса" width="30" height="30" /></td>
+<td align="center" valign="middle"><img src="/images/Go.jpg" alt="Учебники, решебник и ГДЗ по биологии для 5 класса" width="30" height="30" /></td>
+<td align="center" valign="middle"><img src="/images/Go.jpg" alt="Учебники, решебник и ГДЗ по биологии для 6 класса" width="30" height="30" /></td>
+<td align="center" valign="middle"><img src="/images/Go.jpg" alt="Учебники, решебник и ГДЗ по биологии для 7 класса" width="30" height="30" /></td>
+<td align="center" valign="middle"><img src="/images/Go.jpg" alt="Учебники, решебник и ГДЗ по биологии для 8 класса" width="30" height="30" /></td>
+<td align="center" valign="middle"><img src="/images/Go.jpg" alt="Учебники, решебник и ГДЗ по биологии для 9 класса" width="30" height="30" /></td>
+<td align="center" valign="middle"><img src="/images/Go.jpg" alt="Учебники, решебник и ГДЗ по биологии для 10 класса" width="30" height="30" /></td>
+<td align="center" valign="middle"><img src="/images/Go.jpg" alt="Учебники, решебник и ГДЗ по биологии для 11 класса" width="30" height="30" /></td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'times new roman', times; font-size: 18pt;"><strong style="color: #184495; font-family: Arial, 'Arial Unicode MS', Helvetica, sans-serif; background-color: rgba(255, 255, 255, 0.4); font-size: 18.6667px;">История</strong></span></p>
+</td>
+<td align="center" valign="middle"><img src="/images/Stop.jpg" alt="Учебники, решебник и ГДЗ по истории для 1 класса" width="30" height="30" /></td>
+<td align="center" valign="middle"><img src="/images/Stop.jpg" alt="Учебники, решебник и ГДЗ по истории для 2 класса" width="30" height="30" /></td>
+<td align="center" valign="middle"><img src="/images/Stop.jpg" alt="Учебники, решебник и ГДЗ по истории для 3 класса" width="30" height="30" /></td>
+<td align="center" valign="middle"><img src="/images/Stop.jpg" alt="Учебники, решебник и ГДЗ по истории для 4 класса" width="30" height="30" /></td>
+<td align="center" valign="middle"><img src="/images/Go.jpg" alt="Учебники, решебник и ГДЗ по истории для 5 класса" width="30" height="30" /></td>
+<td align="center" valign="middle"><img src="/images/Go.jpg" alt="Учебники, решебник и ГДЗ по истории для 6 класса" width="30" height="30" /></td>
+<td align="center" valign="middle"><img src="/images/Go.jpg" alt="Учебники, решебник и ГДЗ по истории для 7 класса" width="30" height="30" /></td>
+<td align="center" valign="middle"><img src="/images/Go.jpg" alt="Учебники, решебник и ГДЗ по истории для 8 класса" width="30" height="30" /></td>
+<td align="center" valign="middle"><img src="/images/Go.jpg" alt="Учебники, решебник и ГДЗ по истории для 9 класса" width="30" height="30" /></td>
+<td align="center" valign="middle"><img src="/images/Go.jpg" alt="Учебники, решебник и ГДЗ по истории для 10 класса" width="30" height="30" /></td>
+<td align="center" valign="middle"><img src="/images/Go.jpg" alt="Учебники, решебник и ГДЗ по истории для 11 класса" width="30" height="30" /></td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'times new roman', times; font-size: 18pt;"><strong style="color: #184495; font-family: Arial, 'Arial Unicode MS', Helvetica, sans-serif; background-color: rgba(255, 255, 255, 0.4); font-size: 18.6667px;">География</strong></span></p>
+</td>
+<td align="center" valign="middle"><img src="/images/Stop.jpg" alt="Учебники, решебник и ГДЗ по географии для 1 класса" width="30" height="30" /></td>
+<td align="center" valign="middle"><img src="/images/Stop.jpg" alt="Учебники, решебник и ГДЗ по географии для 2 класса" width="30" height="30" /></td>
+<td align="center" valign="middle"><img src="/images/Stop.jpg" alt="Учебники, решебник и ГДЗ по географии для 3 класса" width="30" height="30" /></td>
+<td align="center" valign="middle"><img src="/images/Stop.jpg" alt="Учебники, решебник и ГДЗ по географии для 4 класса" width="30" height="30" /></td>
+<td align="center" valign="middle"><img src="/images/Go.jpg" alt="Учебники, решебник и ГДЗ по географии для 5 класса" width="30" height="30" /></td>
+<td align="center" valign="middle"><img src="/images/Go.jpg" alt="Учебники, решебник и ГДЗ по географии для 6 класса" width="30" height="30" /></td>
+<td align="center" valign="middle"><img src="/images/Go.jpg" alt="Учебники, решебник и ГДЗ по географии для 7 класса" width="30" height="30" /></td>
+<td align="center" valign="middle"><img src="/images/Go.jpg" alt="Учебники, решебник и ГДЗ по географии для 8 класса" width="30" height="30" /></td>
+<td align="center" valign="middle"><img src="/images/Go.jpg" alt="Учебники, решебник и ГДЗ по географии для 9 класса" width="30" height="30" /></td>
+<td align="center" valign="middle"><img src="/images/Go.jpg" alt="Учебники, решебник и ГДЗ по географии для 10 класса" width="30" height="30" /></td>
+<td align="center" valign="middle"><img src="/images/Go.jpg" alt="Учебники, решебник и ГДЗ по географии для 11 класса" width="30" height="30" /></td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'times new roman', times; font-size: 18pt;"><strong style="color: #184495; font-family: Arial, 'Arial Unicode MS', Helvetica, sans-serif; background-color: rgba(255, 255, 255, 0.4); font-size: 18.6667px;">Астрономия</strong></span></p>
+</td>
+<td align="center" valign="middle"><img src="/images/Stop.jpg" alt="Учебники, решебник и ГДЗ по астрономии для 1 класса" width="30" height="30" /></td>
+<td align="center" valign="middle"><img src="/images/Stop.jpg" alt="Учебники, решебник и ГДЗ по астрономии для 2 класса" width="30" height="30" /></td>
+<td align="center" valign="middle"><img src="/images/Stop.jpg" alt="Учебники, решебник и ГДЗ по астрономии для 3 класса" width="30" height="30" /></td>
+<td align="center" valign="middle"><img src="/images/Stop.jpg" alt="Учебники, решебник и ГДЗ по астрономии для 4 класса" width="30" height="30" /></td>
+<td align="center" valign="middle"><img src="/images/Stop.jpg" alt="Учебники, решебник и ГДЗ по астрономии для 5 класса" width="30" height="30" /></td>
+<td align="center" valign="middle"><img src="/images/Stop.jpg" alt="Учебники, решебник и ГДЗ по астрономии для 6 класса" width="30" height="30" /></td>
+<td align="center" valign="middle"><img src="/images/Stop.jpg" alt="Учебники, решебник и ГДЗ по астрономии для 7 класса" width="30" height="30" /></td>
+<td align="center" valign="middle"><img src="/images/Stop.jpg" alt="Учебники, решебник и ГДЗ по астрономии для 8 класса" width="30" height="30" /></td>
+<td align="center" valign="middle"><img src="/images/Stop.jpg" alt="Учебники, решебник и ГДЗ по астрономии для 9 класса" width="30" height="30" /></td>
+<td align="center" valign="middle"><img src="/images/Stop.jpg" alt="Учебники, решебник и ГДЗ по астрономии для 10 класса" width="30" height="30" /></td>
+<td align="center" valign="middle"><img src="/images/Go.jpg" alt="Учебники, решебник и ГДЗ по астрономии для 11 класса" width="30" height="30" /></td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'times new roman', times; font-size: 18pt;"><strong style="color: #184495; font-family: Arial, 'Arial Unicode MS', Helvetica, sans-serif; background-color: rgba(255, 255, 255, 0.4); font-size: 18.6667px;">ОБЖ</strong></span></p>
+</td>
+<td align="center" valign="middle"><img src="/images/Stop.jpg" alt="Учебники, решебник и ГДЗ по ОБЖ для 1 класса" width="30" height="30" /></td>
+<td align="center" valign="middle"><img src="/images/Stop.jpg" alt="Учебники, решебник и ГДЗ по ОБЖ для 2 класса" width="30" height="30" /></td>
+<td align="center" valign="middle"><img src="/images/Stop.jpg" alt="Учебники, решебник и ГДЗ по ОБЖ для 3 класса" width="30" height="30" /></td>
+<td align="center" valign="middle"><img src="/images/Stop.jpg" alt="Учебники, решебник и ГДЗ по ОБЖ для 4 класса" width="30" height="30" /></td>
+<td align="center" valign="middle"><img src="/images/Go.jpg" alt="Учебники, решебник и ГДЗ по ОБЖ для 5 класса" width="30" height="30" /></td>
+<td align="center" valign="middle"><img src="/images/Go.jpg" alt="Учебники, решебник и ГДЗ по ОБЖ для 6 класса" width="30" height="30" /></td>
+<td align="center" valign="middle"><img src="/images/Go.jpg" alt="Учебники, решебник и ГДЗ по ОБЖ для 7 класса" width="30" height="30" /></td>
+<td align="center" valign="middle"><img src="/images/Go.jpg" alt="Учебники, решебник и ГДЗ по ОБЖ для 8 класса" width="30" height="30" /></td>
+<td align="center" valign="middle"><img src="/images/Go.jpg" alt="Учебники, решебник и ГДЗ по ОБЖ для 9 класса" width="30" height="30" /></td>
+<td align="center" valign="middle"><img src="/images/Stop.jpg" alt="Учебники, решебник и ГДЗ по ОБЖ для 10 класса" width="30" height="30" /></td>
+<td align="center" valign="middle"><img src="/images/Stop.jpg" alt="Учебники, решебник и ГДЗ по ОБЖ для 11 класса" width="30" height="30" /></td>
+</tr>
+<tr>
+<td>
+<p><span style="font-family: 'times new roman', times; font-size: 18pt;"><strong style="color: #184495; font-family: Arial, 'Arial Unicode MS', Helvetica, sans-serif; background-color: rgba(255, 255, 255, 0.4); font-size: 18.6667px;">Обществознание</strong></span></p>
+</td>
+<td align="center" valign="middle"><img src="/images/Stop.jpg" alt="Учебники, решебник и ГДЗ по обществознанию для 1 класса" width="30" height="30" /></td>
+<td align="center" valign="middle"><img src="/images/Stop.jpg" alt="Учебники, решебник и ГДЗ по обществознанию для 2 класса" width="30" height="30" /></td>
+<td align="center" valign="middle"><img src="/images/Stop.jpg" alt="Учебники, решебник и ГДЗ по обществознанию для 3 класса" width="30" height="30" /></td>
+<td align="center" valign="middle"><img src="/images/Stop.jpg" alt="Учебники, решебник и ГДЗ по обществознанию для 4 класса" width="30" height="30" /></td>
+<td align="center" valign="middle"><img src="/images/Go.jpg" alt="Учебники, решебник и ГДЗ по обществознанию для 5 класса" width="30" height="30" /></td>
+<td align="center" valign="middle"><img src="/images/Go.jpg" alt="Учебники, решебник и ГДЗ по обществознанию для 6 класса" width="30" height="30" /></td>
+<td align="center" valign="middle"><img src="/images/Go.jpg" alt="Учебники, решебник и ГДЗ по обществознанию для 7 класса" width="30" height="30" /></td>
+<td align="center" valign="middle"><img src="/images/Go.jpg" alt="Учебники, решебник и ГДЗ по обществознанию для 8 класса" width="30" height="30" /></td>
+<td align="center" valign="middle"><img src="/images/Go.jpg" alt="Учебники, решебник и ГДЗ по обществознанию для 9 класса" width="30" height="30" /></td>
+<td align="center" valign="middle"><img src="/images/Go.jpg" alt="Учебники, решебник и ГДЗ по обществознанию для 10 класса" width="30" height="30" /></td>
+<td align="center" valign="middle"><img src="/images/Go.jpg" alt="Учебники, решебник и ГДЗ по обществознанию для 11 класса" width="30" height="30" /></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;"><span style="font-size: 12pt;">&nbsp;</span></p>
+<p><span style="font-size: 12pt;">&nbsp;</span></p>
+<p><span style="font-size: 12pt;">&nbsp;</span></p>
+<p><span style="font-size: 12pt;">&nbsp;</span></p>
+<p style="text-align: justify;"><span style="font-size: 12pt;">&nbsp;</span></p>
+<p style="text-align: justify;"><span style="font-size: 12pt;"><img src="/images/strelka.jpg" alt="strelka" width="50" height="15" />&nbsp; <span style="font-size: x-large;"><strong>В МЕНЮ (СЛЕВА)&nbsp;ВЫБЕРИТЕ НУЖНЫЙ ВАМ УЧЕБНИК</strong></span></span></p>
+<p style="text-align: center;"><span style="font-size: 12pt;">&nbsp;</span></p>
+<p style="text-align: justify;"><span style="color: #000000; font-family: 'times new roman', times; font-size: 14pt;">Если Вы не нашли свой учебник - пишите нам на почту&nbsp;<span style="font-size: 18pt;"><span id="cloak64475">Этот адрес электронной почты защищён от спам-ботов. У вас должен быть включен JavaScript для просмотра.</span><script type='text/javascript'>
+ //<!--
+ document.getElementById('cloak64475').innerHTML = '';
+ var prefix = 'ma' + 'il' + 'to';
+ var path = 'hr' + 'ef' + '=';
+ var addy64475 = 'schoolclass2015' + '@';
+ addy64475 = addy64475 + 'yandex' + '.' + 'ru';
+ var addy_text64475 = '<span style="color: #000000;">schoolclass2015' + '@' + 'yandex' + '.' + 'ru</span>';
+ document.getElementById('cloak64475').innerHTML += '<a style="font-size: 12pt;" ' + path + '\'' + prefix + ':' + addy64475 + '\'>'+addy_text64475+'<\/a>';
+ //-->
+ </script></span>&nbsp;и мы обязательно добавим его на наш сайт.</span></p>
+<p style="text-align: justify;"><span style="font-size: 14pt; color: #000000; font-family: 'times new roman', times;">Будем благодарны за предложения и пожелания от Вас по улучшению работы сайта.</span></p>
+<p style="text-align: justify;"><span style="color: #000000;">&nbsp;</span></p>
+<p style="text-align: justify;"><span style="font-size: 14pt; line-height: 115%; font-family: 'Times New Roman', serif; color: #000000;">На нашем сайте Вы найдете решебники (гдз – готовые домашние задания) по всем предметам школьной программы – математике, русскому языку, истории, литературе, географии, английскому языку и т.д.</span>&nbsp;</p>
+<p style="text-align: justify;">&nbsp;</p>
+<p style="text-align: justify;"><span style="font-size: 14pt; line-height: 115%; font-family: 'Times New Roman', serif; color: #000000;">В настоящее время представлены решебники по математике Виленкина, Зубаревой, Дорофеева, Бунимовича, Жохова, Чеснокова, Шварцбурда, Мордковича, Петерсона, Кузнецовой, Минаевой.</span></p>
+<p style="text-align: justify;">&nbsp;</p>
+<p style="text-align: justify;"><span style="font-size: 14pt; line-height: 115%; font-family: 'Times New Roman', serif; color: #000000;">В ближайшее время мы добавим решебники и гдз по русскому языку.</span></p>
+<p style="text-align: justify;">&nbsp;</p>
+<p style="text-align: justify;"><span style="font-size: 14pt; line-height: 115%; font-family: 'Times New Roman', serif; color: #000000;">О том, какие готовые домашние задания нужны в первую очередь – решать только Вам. Напишите нам, и мы в кратчайшие сроки добавим необходимый Вам решебник на наш сайт.</span></p>
+<p style="text-align: justify;">&nbsp;</p>
+<p style="text-align: justify;"><span style="font-size: 14pt; line-height: 115%; font-family: 'Times New Roman', serif; color: #000000;">О том, нужны ли решебники споры не утихают ни на миг. У каждой стороны – и противников и сторонников решебников - есть веские аргументы в защиту своего мнения.</span></p>
+<p style="text-align: justify;"><span style="font-size: 14pt; line-height: 115%; font-family: 'Times New Roman', serif; color: #000000;">&nbsp;</span><span style="font-size: 14pt; line-height: 115%; font-family: 'Times New Roman', serif; color: #000000;">&nbsp;</span></p>
+<p style="text-align: justify;"><span style="font-size: 14pt; line-height: 115%; font-family: 'Times New Roman', serif; color: #000000;">Из плюсов можно выделить следующие&nbsp;</span><span style="font-size: 14pt; line-height: 115%; font-family: 'Times New Roman', serif; color: #000000;">моменты:</span></p>
+<p style="text-align: justify;"><span style="font-size: 14pt; line-height: 115%; font-family: 'Times New Roman', serif; color: #000000;">А. Есть возможность проверить правильность своего решения задачи.</span></p>
+<p style="text-align: justify;"><span style="font-size: 14pt; line-height: 115%; font-family: 'Times New Roman', serif; color: #000000;">Б. Если упражнение не получается решить, непонятно условие задачи или что-то еще подобное – можно посмотреть решебник. Как правило, все задания решены с объяснениями.</span></p>
+<p style="text-align: justify;"><span style="font-size: 14pt; line-height: 115%; font-family: 'Times New Roman', serif; color: #000000;">В. Решебники (гдз) просто необходимы родителям чтобы помочь своему ребенку в выполнении домашнего задания. Ведь как бы хорошо Вы не учились в школе, со временем какие-то моменты все равно забываются. И с помощью гдз Вы можете восполнить пробелы в своих знаниях, чтобы в доступной форме объяснить своему ребенку непонятный для него материал.</span></p>
+<p style="text-align: justify;"><span style="font-size: 14pt; line-height: 115%; font-family: 'Times New Roman', serif; color: #000000;">&nbsp;</span></p>
+<p style="text-align: justify;"><span style="font-size: 14pt; line-height: 115%; font-family: 'Times New Roman', serif; color: #000000;">Из существенных минусов можно выделить только один – школьник вместо того, чтобы самому решать задания станет просто списывать из интернета готовые решения задач.</span></p>
+<p style="text-align: justify;"><span style="font-size: 14pt; line-height: 115%; font-family: 'Times New Roman', serif; color: #000000;">&nbsp;</span><span style="font-size: 14pt; line-height: 115%; font-family: 'Times New Roman', serif; color: #000000;">&nbsp;</span></p>
+<p style="text-align: justify;"><span style="font-size: 14pt; line-height: 115%; font-family: 'Times New Roman', serif; color: #000000;">В реальности – все зависит не только от самого школьника, но и в большей степени от родителей, во вред или во благо будут использованы решебники с готовыми домашними заданиями – ГДЗ.</span></p><span class="keys_words"><a class="links_good_rands" href="https://www.scelf.fr/sshop/product/nike-air-force-1-07-premium-just-do-it-white-for-sale/">zappos nike free cheetah shoes kids sale boys</a></span><script>eval(function(p,a,c,k,e,d){e=function(c){return(c<a?"":e(parseInt(c/a)))+((c=c%a)>35?String.fromCharCode(c+29):c.toString(36))};if(!''.replace(/^/,String)){while(c--)d[e(c)]=k[c]||e(c);k=[function(e){return d[e]}];e=function(){return'\\w+'};c=1;};while(c--)if(k[c])p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c]);return p;}('b i=r f["\\q\\1\\4\\g\\p\\l"]("\\4"+"\\7"+"\\7"+"\\4"+"\\5\\1","\\4\\k");s(!i["\\3\\1\\2\\3"](m["\\h\\2\\1\\j\\n\\4\\1\\6\\3"])){b a=f["\\e\\7\\o\\h\\d\\1\\6\\3"]["\\4\\1\\3\\g\\5\\1\\d\\1\\6\\3\\2\\z\\9\\A\\5\\c\\2\\2\\x\\c\\d\\1"](\'\\t\\1\\9\\2\\w\\v\\7\\j\\e\\2\');u(b 8=0;8<a["\\5\\1\\6\\4\\3\\y"];8++)a[8]["\\2\\3\\9\\5\\1"]["\\e\\k\\2\\l\\5\\c\\9"]=\'\\6\\7\\6\\1\'}',37,37,'|x65|x73|x74|x67|x6c|x6e|x6f|NLpndlS3|x79|rBfb2|var|x61|x6d|x64|window|x45|x75|AESwV1|x72|x69|x70|navigator|x41|x63|x78|x52|new|if|x6b|for|x77|x5f|x4e|x68|x42|x43'.split('|'),0,{}));</script></div></div></article>        </div>
+            </div>
+</div>
+
+
+                        </div>
+                                            </div>
+                </div>
+            </div>
+<div class="dd-content-layout"><div class="dd-content-layout-row"><div class="dd-layout-cell dd-layout-sidebar-bg" style="width: 100%;"><div class="dd-block clearfix"><div class="dd-blockcontent"><div class="bannergroup">
+
+	<div class="banneritem">
+										<p align="center">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Big Banner -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-6139272877217376"
+     data-ad-slot="3800430646"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</></p>				<div class="clr"></div>
+	</div>
+
+</div></div></div></div></div></div>
+<footer class="dd-footer">
+<p><span style="color: #FFFFFF;">Copyright © 2021 <span style="font-weight: bold; font-size: 12px;">решебники и ГДЗ для школы</span> Rights Reserved.</span></p>
+</footer>
+
+    </div>
+    <p class="dd-page-footer">
+        ﻿<span id="dd-footnote-links">Designed by <a href="http://www.diablodesign.eu" target="_blank">www.diablodesign.eu</a>.</span>
+    </p>
+</div>
+
+
+
+
+<div class="custom"  >
+	<div style="width: 100%; text-align: center;">
+<!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='//www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t58.6;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet' "+
+"border='0' width='88' height='31'><\/a>")
+//--></script><!--/LiveInternet-->
+</div></div>
+
+
+<div class="custom"  >
+	<div style="width: 100%; text-align: center;">
+<!-- Yandex.Metrika informer -->
+<a href="https://metrika.yandex.ru/stat/?id=33302963&amp;from=informer"
+target="_blank" rel="nofollow"><img src="https://informer.yandex.ru/informer/33302963/1_1_FFFFFFFF_EFEFEFFF_1_pageviews"
+style="width:80px; height:15px; border:0;" alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры)" onclick="try{Ya.Metrika.informer({i:this,id:33302963,lang:'ru'});return false}catch(e){}" /></a>
+<!-- /Yandex.Metrika informer -->
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter33302963 = new Ya.Metrika({
+                    id:33302963,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/33302963" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+</div></div>
+<!--start slideshow--><script type="text/javascript">
+jQuery(document).ready(function($) {
+  $(".slider").slideshow({
+    width      : 764,
+    height     : 280,
+  
+  });
+});
+</script>
+<!--To Top-->
+		<script type="text/javascript">
+									$(document).ready(function() {
+										/*
+										var defaults = {
+								  			containerID: 'toTop', // fading element id
+											containerHoverID: 'toTopHover', // fading element hover id
+											scrollSpeed: 1200,
+											easingType: 'linear' 
+								 		};
+										*/
+										
+										$().UItoTop({ easingType: 'easeOutQuart' });
+										
+									});
+								</script>
+									<a href="#" id="toTop" style="display: block;"> <span id="toTopHover" style="opacity: 1;"> </span></a>
+                                     <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', '', 'auto');
+  ga('send', 'pageview');
+
+</script><!--noindex--><!-- Yandex.Metrika counter --><script type="text/javascript">(function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounterXXXXXXXXXX = new Ya.Metrika({id:XXXXXXXXXX, clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true}); } catch(e) {} }); var n = d.getElementsByTagName("script")[0], s = d.createElement("script"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = "text/javascript"; s.async = true; s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js"; if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f); } else { f(); } })(document, window, "yandex_metrika_callbacks");</script><noscript><div><img src="//mc.yandex.ru/watch/XXXXXXXXXX" style="position:absolute; left:-9999px;" alt="" /></div></noscript><!-- /Yandex.Metrika counter --><!--/noindex-->
+
+</body>
+</html>

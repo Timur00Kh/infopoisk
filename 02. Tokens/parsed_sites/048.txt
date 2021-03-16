@@ -1,0 +1,308 @@
+<!DOCTYPE html>
+<html lang="ru-RU">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width">
+<link rel="profile" href="https://gmpg.org/xfn/11">
+<link rel="pingback" href="https://alphacat.ru/xmlrpc.php">
+<link rel="shortcut icon" href="https://alphacat.ru/wp-content/uploads/2019/06/icon.png" />
+<link rel="apple-touch-icon" sizes="144x144" href="https://alphacat.ru/wp-content/uploads/2019/07/icon144.png" />
+<link rel="apple-touch-icon" sizes="114x114" href="https://alphacat.ru/wp-content/uploads/2019/07/icon114.png" />
+<link rel="apple-touch-icon" sizes="72x72" href="https://alphacat.ru/wp-content/uploads/2019/07/icon72.png" />
+<link rel="apple-touch-icon" href="https://alphacat.ru/wp-content/uploads/2019/07/icon57.png" />
+<title>AlphaCat.ru | Готовые школьные сочинения по литературе и русскому языку</title>
+<!-- All in One SEO Pack 3.1.1 от Michael Torbert из Semper Fi Web Designob_start_detected [-1,-1] -->
+<meta name="description"  content="AlphaCat.ru | Готовые школьные сочинения по литературе и русскому языку - на странице представлены несколько вариантов сочинения на выбор" />
+<link rel="next" href="https://alphacat.ru/page/2" />
+<link rel="canonical" href="https://alphacat.ru/" />
+<!-- All in One SEO Pack -->
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//cdnjs.cloudflare.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="AlphaCat.ru &raquo; Лента" href="https://alphacat.ru/feed" />
+<link rel="alternate" type="application/rss+xml" title="AlphaCat.ru &raquo; Лента комментариев" href="https://alphacat.ru/comments/feed" />
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/alphacat.ru\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.2.4"}};
+!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+display: inline !important;
+border: none !important;
+box-shadow: none !important;
+height: 1em !important;
+width: 1em !important;
+margin: 0 .07em !important;
+vertical-align: -0.1em !important;
+background: none !important;
+padding: 0 !important;
+}
+</style>
+<!-- <link rel='stylesheet' id='wp-block-library-css'  href='https://alphacat.ru/wp-includes/css/dist/block-library/style.min.css?ver=5.2.4' type='text/css' media='all' /> -->
+<link rel="stylesheet" type="text/css" href="//alphacat.ru/wp-content/cache/wpfc-minified/7aadjt38/e3soi.css" media="all"/>
+<link rel='stylesheet' id='athemes-headings-fonts-css'  href='//fonts.googleapis.com/css?family=Open+Sans+Condensed%3A700%2C300italic%2C300&#038;ver=5.2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='athemes-body-fonts-css'  href='//fonts.googleapis.com/css?family=PT+Sans+Narrow%3A400%2C700&#038;ver=5.2.4' type='text/css' media='all' />
+<!-- <link rel='stylesheet' id='athemes-glyphs-css'  href='https://alphacat.ru/wp-content/themes/alphacat/css/athemes-glyphs.css?ver=5.2.4' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='athemes-bootstrap-css'  href='https://alphacat.ru/wp-content/themes/alphacat/css/bootstrap.min.css?ver=5.2.4' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='athemes-style-css'  href='https://alphacat.ru/wp-content/themes/alphacat/style.css?ver=5.2.4' type='text/css' media='all' /> -->
+<link rel="stylesheet" type="text/css" href="//alphacat.ru/wp-content/cache/wpfc-minified/qvzi09k4/e3soi.css" media="all"/>
+<style id='athemes-style-inline-css' type='text/css'>
+a, #main-navigation .sf-menu > ul > li:hover:after, #main-navigation .sf-menu > ul > li.sfHover:after, #main-navigation .sf-menu > ul > li.current_page_item:after, #main-navigation .sf-menu > ul > li.current-menu-item:after, .entry-title a:hover, .comment-list li.comment .comment-author .fn a:hover, .comment-list li.comment .reply a, .widget li a:hover, .site-extra .widget li a:hover, .site-extra .widget_athemes_social_icons li a:hover [class^="ico-"]:before, .site-footer a:hover { color: ; }
+button:hover, a.button:hover, input[type="button"]:hover, .widget-title span, input[type="reset"]:hover, input[type="submit"]:hover { border-color: ; }
+button:hover, a.button:hover, .widget_athemes_social_icons li a:hover [class^="ico-"]:before, input[type="button"]:hover, .widget_athemes_tabs .widget-tab-nav li.active a, input[type="reset"]:hover, .comments-link a, .site-content [class*="navigation"] a:hover, input[type="submit"]:hover, #main-navigation li:hover ul, #main-navigation li.sfHover ul, #main-navigation li a:hover, #main-navigation li.sfHover > a, #main-navigation li.current_page_item > a, #main-navigation li.current-menu-item > a, #main-navigation li.current-menu-parent > a, #main-navigation li.current-page-parent > a, #main-navigation li.current-page-ancestor > a, #main-navigation li.current_page_ancestor > a { background: ; }
+.site-title a { color: ; }
+.site-description { color: ; }
+.entry-title, .entry-title a { color: ; }
+body { color: ; }
+a.button, h1, h2, h3, h4, h5, h6, button, input[type="button"], input[type="reset"], input[type="submit"], .site-title, .site-description, #main-navigation li a, .nav-open, .nav-close, .comments-link a, .author-info .author-links a, .site-content [class*="navigation"] a, .comment-list li.comment .comment-author .fn, .comment-list li.comment .reply a, #commentform label, .widget_athemes_tabs .widget-tab-nav li a { font-family: Open Sans Condensed; }
+body { font-family: PT+Sans+Narrow; }
+</style>
+<link rel='stylesheet' id='font-awesome-css'  href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css?ver=5.2.4' type='text/css' media='all' />
+<script src='//alphacat.ru/wp-content/cache/wpfc-minified/d5kghnpn/e3soi.js' type="text/javascript"></script>
+<!-- <script type='text/javascript' src='https://alphacat.ru/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script> -->
+<!-- <script type='text/javascript' src='https://alphacat.ru/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script> -->
+<!-- <script type='text/javascript' src='https://alphacat.ru/wp-content/themes/alphacat/js/bootstrap.min.js?ver=5.2.4'></script> -->
+<!-- <script type='text/javascript' src='https://alphacat.ru/wp-content/themes/alphacat/js/superfish.js?ver=5.2.4'></script> -->
+<!-- <script type='text/javascript' src='https://alphacat.ru/wp-content/themes/alphacat/js/supersubs.js?ver=5.2.4'></script> -->
+<!-- <script type='text/javascript' src='https://alphacat.ru/wp-content/themes/alphacat/js/settings.js?ver=5.2.4'></script> -->
+<link rel='https://api.w.org/' href='https://alphacat.ru/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://alphacat.ru/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://alphacat.ru/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.2.4" />
+<!--[if lt IE 9]>
+<script src="https://alphacat.ru/wp-content/themes/alphacat/js/html5shiv.js"></script>
+<![endif]-->
+<style type="text/css" id="wp-custom-css">
+.adstyle{
+display: inline-block;
+}		</style>
+<script src="https://yastatic.net/pcode/adfox/loader.js" crossorigin="anonymous"></script>
+<script data-ad-client="ca-pub-6485007913245681" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+</head>
+<body data-rsssl=1 class="home blog">
+<!--LiveInternet counter--><script type="text/javascript">
+new Image().src = "//counter.yadro.ru/hit?r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";h"+escape(document.title.substring(0,150))+
+";"+Math.random();</script><!--/LiveInternet-->
+<header id="masthead" class="site-header" role="banner">
+<div class="clearfix container">
+<div class="site-branding">
+<a href="https://alphacat.ru/" title="AlphaCat.ru"><img src="https://alphacat.ru/wp-content/uploads/2019/06/logo.png" alt="AlphaCat.ru" /></a>
+<!-- .site-branding --></div>
+<nav id="main-navigation" class="main-navigation" role="navigation">
+<a href="#main-navigation" class="nav-open">Menu</a>
+<a href="#" class="nav-close">Close</a>
+<div class="clearfix sf-menu"><ul>
+<li class="current_page_item"><a href="https://alphacat.ru/">Главная</a></li></ul></div>
+<!-- #main-navigation --></nav>
+</div>
+<!-- #masthead --></header>
+<div id="main" class="site-main">
+<div class="clearfix container">
+<div id="primary" class="content-area">
+<div id="content" class="site-content" role="main">
+<div class="maintext">
+<h2>Тысячи готовых школьных сочинений по русскому языку и литературе</h2> 
+Добро пожаловать на сайт AlphaCat.ru! Здесь представлены тысячи готовых школьных сочинений по русскому языку и литературе, написанных грамотными авторами в соответствии со всеми основными требованиями школьной программы и учителей.
+<br>
+<h2>Как найти нужное сочинение?</h2>
+Пользуйтесь поиском по нашему сайту, используя соответствующие ключевые слова.
+<br>
+<h2>Что делать, если нужное сочинение не нашлось?</h2>
+Вы можете предложить собственную тему, и в скором времени наши авторы добавят, чаще всего, несколько вариантов сочинения.
+</div>
+<div style="margin-bottom: 70px;"><h3 class="widget-title" style="float:left"><span>Тема</span></h3><h3 class="widget-title" style="float:right"><span>Количество вариантов</span></h3></div>
+<article id="post-75008" class="clearfix post-75008 post type-post status-publish format-standard hentry">
+<header class="clearfix entry-header">
+<span class="comments-link"> <a href="https://alphacat.ru/sochinenie-na-temu-o-chem-dumal-indyuk.html#comments">1</a></span>
+<h2 class="entry-title"><a href="https://alphacat.ru/sochinenie-na-temu-o-chem-dumal-indyuk.html" rel="bookmark"><i class="fa fa-pencil" aria-hidden="true"></i> Сочинение на тему о чем думал индюк</a></h2>
+<!-- .entry-header --></header>
+<div class="entry-summary">
+<!-- .entry-summary --></div>
+<footer class="entry-meta entry-footer">
+<!-- .entry-meta --></footer>
+<!-- #post-75008--></article>
+<article id="post-75174" class="clearfix post-75174 post type-post status-publish format-standard hentry">
+<header class="clearfix entry-header">
+<span class="comments-link"> <a href="https://alphacat.ru/sochinenie-na-temu-rodina-moya-mordoviya.html#comments">12</a></span>
+<h2 class="entry-title"><a href="https://alphacat.ru/sochinenie-na-temu-rodina-moya-mordoviya.html" rel="bookmark"><i class="fa fa-pencil" aria-hidden="true"></i> Сочинение на тему родина моя мордовия</a></h2>
+<!-- .entry-header --></header>
+<div class="entry-summary">
+<!-- .entry-summary --></div>
+<footer class="entry-meta entry-footer">
+<!-- .entry-meta --></footer>
+<!-- #post-75174--></article>
+<article id="post-74672" class="clearfix post-74672 post type-post status-publish format-standard hentry">
+<header class="clearfix entry-header">
+<span class="comments-link"> <a href="https://alphacat.ru/sochinenie-na-temu-druzhba-3-klass.html#comments">16</a></span>
+<h2 class="entry-title"><a href="https://alphacat.ru/sochinenie-na-temu-druzhba-3-klass.html" rel="bookmark"><i class="fa fa-pencil" aria-hidden="true"></i> Сочинение на тему дружба 3 класс</a></h2>
+<!-- .entry-header --></header>
+<div class="entry-summary">
+<!-- .entry-summary --></div>
+<footer class="entry-meta entry-footer">
+<!-- .entry-meta --></footer>
+<!-- #post-74672--></article>
+<article id="post-74513" class="clearfix post-74513 post type-post status-publish format-standard hentry">
+<header class="clearfix entry-header">
+<span class="comments-link"> <a href="https://alphacat.ru/sochinenie-dlya-4-klassa-na-temu-chto-ya-lyublyu-s-planom.html#comments">6</a></span>
+<h2 class="entry-title"><a href="https://alphacat.ru/sochinenie-dlya-4-klassa-na-temu-chto-ya-lyublyu-s-planom.html" rel="bookmark"><i class="fa fa-pencil" aria-hidden="true"></i> Сочинение для 4 класса на тему что я люблю с планом</a></h2>
+<!-- .entry-header --></header>
+<div class="entry-summary">
+<!-- .entry-summary --></div>
+<footer class="entry-meta entry-footer">
+<!-- .entry-meta --></footer>
+<!-- #post-74513--></article>
+<article id="post-74841" class="clearfix post-74841 post type-post status-publish format-standard hentry">
+<header class="clearfix entry-header">
+<span class="comments-link"> <a href="https://alphacat.ru/sochinenie-na-temu-lyubvi-po-proizvedeniyu-bunina-temnye-allei.html#comments">15</a></span>
+<h2 class="entry-title"><a href="https://alphacat.ru/sochinenie-na-temu-lyubvi-po-proizvedeniyu-bunina-temnye-allei.html" rel="bookmark"><i class="fa fa-pencil" aria-hidden="true"></i> Сочинение на тему любви по произведению бунина темные аллеи</a></h2>
+<!-- .entry-header --></header>
+<div class="entry-summary">
+<!-- .entry-summary --></div>
+<footer class="entry-meta entry-footer">
+<!-- .entry-meta --></footer>
+<!-- #post-74841--></article>
+<article id="post-75448" class="clearfix post-75448 post type-post status-publish format-standard hentry">
+<header class="clearfix entry-header">
+<span class="comments-link"> <a href="https://alphacat.ru/sochinenie-po-rasskazu-nedorosl-na-temu-uchitelya-mitrofana.html#comments">9</a></span>
+<h2 class="entry-title"><a href="https://alphacat.ru/sochinenie-po-rasskazu-nedorosl-na-temu-uchitelya-mitrofana.html" rel="bookmark"><i class="fa fa-pencil" aria-hidden="true"></i> Сочинение по рассказу недоросль на тему учителя митрофана</a></h2>
+<!-- .entry-header --></header>
+<div class="entry-summary">
+<!-- .entry-summary --></div>
+<footer class="entry-meta entry-footer">
+<!-- .entry-meta --></footer>
+<!-- #post-75448--></article>
+<article id="post-74723" class="clearfix post-74723 post type-post status-publish format-standard hentry">
+<header class="clearfix entry-header">
+<span class="comments-link"> <a href="https://alphacat.ru/sochinenie-na-temu-hochesh-uznat-cheloveka-vslushajsya-v-ego-rech.html#comments">2</a></span>
+<h2 class="entry-title"><a href="https://alphacat.ru/sochinenie-na-temu-hochesh-uznat-cheloveka-vslushajsya-v-ego-rech.html" rel="bookmark"><i class="fa fa-pencil" aria-hidden="true"></i> Сочинение на тему хочешь узнать человека вслушайся в его речь</a></h2>
+<!-- .entry-header --></header>
+<div class="entry-summary">
+<!-- .entry-summary --></div>
+<footer class="entry-meta entry-footer">
+<!-- .entry-meta --></footer>
+<!-- #post-74723--></article>
+<article id="post-75483" class="clearfix post-75483 post type-post status-publish format-standard hentry">
+<header class="clearfix entry-header">
+<span class="comments-link"> <a href="https://alphacat.ru/sochinenie-rassuzhdenie-na-temu-nuzhna-li-dobrota-lyudyam.html#comments">15</a></span>
+<h2 class="entry-title"><a href="https://alphacat.ru/sochinenie-rassuzhdenie-na-temu-nuzhna-li-dobrota-lyudyam.html" rel="bookmark"><i class="fa fa-pencil" aria-hidden="true"></i> Сочинение рассуждение на тему нужна ли доброта людям</a></h2>
+<!-- .entry-header --></header>
+<div class="entry-summary">
+<!-- .entry-summary --></div>
+<footer class="entry-meta entry-footer">
+<!-- .entry-meta --></footer>
+<!-- #post-75483--></article>
+<article id="post-74438" class="clearfix post-74438 post type-post status-publish format-standard hentry">
+<header class="clearfix entry-header">
+<span class="comments-link"> <a href="https://alphacat.ru/mini-sochinenie-na-temu-ivan-groznyj.html#comments">4</a></span>
+<h2 class="entry-title"><a href="https://alphacat.ru/mini-sochinenie-na-temu-ivan-groznyj.html" rel="bookmark"><i class="fa fa-pencil" aria-hidden="true"></i> Мини сочинение на тему иван грозный</a></h2>
+<!-- .entry-header --></header>
+<div class="entry-summary">
+<!-- .entry-summary --></div>
+<footer class="entry-meta entry-footer">
+<!-- .entry-meta --></footer>
+<!-- #post-74438--></article>
+<article id="post-74612" class="clearfix post-74612 post type-post status-publish format-standard hentry">
+<header class="clearfix entry-header">
+<span class="comments-link"> <a href="https://alphacat.ru/sochinenie-na-temu-chto-sblizhaet-prozu-i-liriku-bunina-sochinenie.html#comments">10</a></span>
+<h2 class="entry-title"><a href="https://alphacat.ru/sochinenie-na-temu-chto-sblizhaet-prozu-i-liriku-bunina-sochinenie.html" rel="bookmark"><i class="fa fa-pencil" aria-hidden="true"></i> Сочинение на тему что сближает прозу и лирику бунина сочинение</a></h2>
+<!-- .entry-header --></header>
+<div class="entry-summary">
+<!-- .entry-summary --></div>
+<footer class="entry-meta entry-footer">
+<!-- .entry-meta --></footer>
+<!-- #post-74612--></article>
+<article id="post-75229" class="clearfix post-75229 post type-post status-publish format-standard hentry">
+<header class="clearfix entry-header">
+<span class="comments-link"> <a href="https://alphacat.ru/sochinenie-na-temu-slovo-o-polku-igoreve-za-9-klass-po-planu.html#comments">4</a></span>
+<h2 class="entry-title"><a href="https://alphacat.ru/sochinenie-na-temu-slovo-o-polku-igoreve-za-9-klass-po-planu.html" rel="bookmark"><i class="fa fa-pencil" aria-hidden="true"></i> Сочинение на тему слово о полку игореве за 9 класс по плану</a></h2>
+<!-- .entry-header --></header>
+<div class="entry-summary">
+<!-- .entry-summary --></div>
+<footer class="entry-meta entry-footer">
+<!-- .entry-meta --></footer>
+<!-- #post-75229--></article>
+<article id="post-74576" class="clearfix post-74576 post type-post status-publish format-standard hentry">
+<header class="clearfix entry-header">
+<span class="comments-link"> <a href="https://alphacat.ru/sochinenie-na-temu-biologiya-v-zhizni-cheloveka.html#comments">6</a></span>
+<h2 class="entry-title"><a href="https://alphacat.ru/sochinenie-na-temu-biologiya-v-zhizni-cheloveka.html" rel="bookmark"><i class="fa fa-pencil" aria-hidden="true"></i> Сочинение на тему биология в жизни человека</a></h2>
+<!-- .entry-header --></header>
+<div class="entry-summary">
+<!-- .entry-summary --></div>
+<footer class="entry-meta entry-footer">
+<!-- .entry-meta --></footer>
+<!-- #post-74576--></article>
+<article id="post-74637" class="clearfix post-74637 post type-post status-publish format-standard hentry">
+<header class="clearfix entry-header">
+<span class="comments-link"> <a href="https://alphacat.ru/sochinenie-na-temu-chuvstvo-tovarishhestva.html#comments">3</a></span>
+<h2 class="entry-title"><a href="https://alphacat.ru/sochinenie-na-temu-chuvstvo-tovarishhestva.html" rel="bookmark"><i class="fa fa-pencil" aria-hidden="true"></i> Сочинение на тему чувство товарищества</a></h2>
+<!-- .entry-header --></header>
+<div class="entry-summary">
+<!-- .entry-summary --></div>
+<footer class="entry-meta entry-footer">
+<!-- .entry-meta --></footer>
+<!-- #post-74637--></article>
+<article id="post-74836" class="clearfix post-74836 post type-post status-publish format-standard hentry">
+<header class="clearfix entry-header">
+<span class="comments-link"> <a href="https://alphacat.ru/sochinenie-na-temu-lyubov-i-nezhnost.html#comments">9</a></span>
+<h2 class="entry-title"><a href="https://alphacat.ru/sochinenie-na-temu-lyubov-i-nezhnost.html" rel="bookmark"><i class="fa fa-pencil" aria-hidden="true"></i> Сочинение на тему любовь и нежность</a></h2>
+<!-- .entry-header --></header>
+<div class="entry-summary">
+<!-- .entry-summary --></div>
+<footer class="entry-meta entry-footer">
+<!-- .entry-meta --></footer>
+<!-- #post-74836--></article>
+<article id="post-74560" class="clearfix post-74560 post type-post status-publish format-standard hentry">
+<header class="clearfix entry-header">
+<span class="comments-link"> <a href="https://alphacat.ru/sochinenie-na-temu-balet-yaroslavna.html#comments">6</a></span>
+<h2 class="entry-title"><a href="https://alphacat.ru/sochinenie-na-temu-balet-yaroslavna.html" rel="bookmark"><i class="fa fa-pencil" aria-hidden="true"></i> Сочинение на тему балет ярославна</a></h2>
+<!-- .entry-header --></header>
+<div class="entry-summary">
+<!-- .entry-summary --></div>
+<footer class="entry-meta entry-footer">
+<!-- .entry-meta --></footer>
+<!-- #post-74560--></article>
+<nav role="navigation" id="nav-below" class="paging-navigation">
+<h1 class="screen-reader-text">Навигация по записям</h1>
+<div class="nav-previous"><a href="https://alphacat.ru/page/2" ><span class="meta-nav"><i class="ico-left-open"></i></span> Назад</a></div>
+</nav><!-- #nav-below -->
+<!-- #content --></div>
+<!-- #primary --></div>
+<div id="widget-area-2" class="site-sidebar widget-area" role="complementary">
+<aside id="search-3" class="widget widget_search"><form role="search" method="get" class="search-form" action="https://alphacat.ru/">
+<label>
+<span class="screen-reader-text">Найти:</span>
+<input type="search" class="search-field" placeholder="Поиск&hellip;" value="" name="s" title="Найти:">
+</label>
+<input type="submit" class="search-submit" value="Поиск">
+</form>
+</aside><!-- #widget-area-2 --></div>		</div>
+<!-- #main --></div>
+<div id="extra" class="site-extra extra-one">
+<div class="container">
+<div class="clearfix pad">
+<div id="widget-area-3" class="widget-area" role="complementary">
+<div id="text-2" class="widget widget_text"><h3 class="widget-title"><span>Наша статистика</span></h3>			<div class="textwidget"><p>Тем: <span class="sbs-count-posts">52 751</span><br />
+Добавлено сочинений: <span class="sbs-count-comments">446 828</span></p>
+</div>
+</div>		<!-- #widget-area-3 --></div>
+</div>
+</div>
+<!-- #extra --></div>
+<footer id="colophon" class="site-footer" role="contentinfo">
+<div class="clearfix container">
+<div class="site-info">
+&copy; 2021 AlphaCat.ru. All rights reserved.
+</div><!-- .site-info -->
+<!-- <div class="site-credit">
+<a href="https://athemes.com/theme/hiero/" rel="nofollow">Hiero</a> by aThemes
+</div> .site-credit -->
+</div>
+<!-- #colophon --></footer>
+<script type='text/javascript' src='https://alphacat.ru/wp-includes/js/wp-embed.min.js?ver=5.2.4'></script>
+</body>
+</html><!-- WP Fastest Cache file was created in 0.35585999488831 seconds, on 08-02-21 14:00:52 -->

@@ -1,0 +1,2874 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<script src="https://code.jquery.com/jquery-2.0.3.min.js"></script>
+	<script src="https://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+	<link href="https://fonts.googleapis.com/css?family=Marck+Script" rel="stylesheet">
+
+	<!--push-notification-->
+	<script charset="UTF-8" src="//cdn.sendpulse.com/9dae6d62c816560a842268bde2cd317d/js/push/6479ddf08f06c62a7927c8d8321ee7a7_1.js" async></script>
+
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="петерсон, математика петерсон, решебник петерсон, петерсон скачать, петерсон 2, петерсон 1 класс, л петерсон, математика петерсон скачать, 4 класс петерсон, л г петерсон, программа петерсона, петерсон 3 класс, петерсон математика 1 класс, математика 4 класс петерсон, учебник петерсон, петерсон планирование, петерсон 5 класс, математика 2 класс петерсон, л г петерсон математика, петерсон бесплатно, петерсон математика 3 класс, петерсон 6 класс, петерсон скачать бесплатно, математика 5 класс петерсон" />
+<meta name="description" content="Рабочая программа Петерсон для начальной школы идеально подходит для обучения детей младших классов. В эту систему входят чёткое календарное планирование и решебник с задачами, для получения ответов на которые детям придётся проявить свою смекалку и фантазию. Следуя рекомендациям программы, проводя по ней контрольные и тематические уроки, вы сможете добиться отличных результатов. Купить методическую часть курса можно у нас в любое удобное для вас время!" />
+<link href="/bitrix/templates/allstyles.css?145975794276" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<link href="/bitrix/templates/index_spring/styles.css?156041541014118" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<link href="/bitrix/templates/index_spring/template_styles.css?1518771394938" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<script type="text/javascript">var _ba = _ba || []; _ba.push(["aid", "ccf0042d5698664e44bad0c90bcd6f6e"]); _ba.push(["host", "www.sch2000.ru"]); (function() {var ba = document.createElement("script"); ba.type = "text/javascript"; ba.async = true;ba.src = (document.location.protocol == "https:" ? "https://" : "http://") + "bitrix.info/ba.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ba, s);})();</script>
+
+
+
+			<!--[if lte IE 7]>
+	<link rel="stylesheet"
+		  type="text/css"
+		  href="/css/styleie6.css"
+		  media="all"/>
+	<![endif]-->
+	<script type="text/javascript"
+			src="/js_new/scripts.js"></script>
+	<!--<script type="text/javascript" src="/js/ie7.js"></script>-->
+	<!--<script type="text/javascript" src="/js/IE8.js"></script>-->
+		<title>«Официальный сайт НОУ "Институт СДП" под научным руководством Петерсон Людмилы Георгиевны»</title>
+</head>
+<body>
+<style>
+	.main_link_orange{
+		font-size:14px;
+		color:#fff;
+		font-weight:bold;
+		background:#FF9C43;
+		text-align:center;
+		height:100%;
+		padding:10px 0;
+		border-radius:5px;
+		text-decoration:none;
+		width:200px;
+		display:block;
+		box-shadow:0px 1px 3px #666;
+		text-shadow:1px 1px 1px #666;
+		font-style: normal;
+
+	}
+	.main_link_orange:hover{
+		color:#ffffff;
+	}
+	.main_link_blue{
+		font-size:14px;
+		color:#fff;
+		font-weight:bold;
+		background:#558ED5;
+		text-align:center;
+		height:100%;
+		padding:10px 0;
+		border-radius:5px;
+		text-decoration:none;
+		width:200px;
+		display:block;
+		box-shadow:0px 1px 3px #666;
+		text-shadow:1px 1px 1px #666;
+		font-style: normal;
+	}
+	.main_link_blue:hover{
+		color:#ffffff;
+	}
+	.main_link_blue_ask{
+		font-size:14px;
+		color:#fff;
+		font-weight:bold;
+		background:#558ED5;
+		text-align:center;
+		height:50%;
+		padding:10px 0;
+		border-radius:5px;
+		text-decoration:none;
+		width:205px;
+		display:block;
+		box-shadow:0px 1px 3px #666;
+		text-shadow:1px 1px 1px #666;
+		position:relative;
+		font-style: normal;
+	}
+	.main_link_blue_ask:hover{
+		color:#ffffff;
+	}
+	.shadow{
+		box-shadow:0px 1px 3px #666;
+		text-shadow:1px 1px 1px #666;
+		border-radius:5px;
+
+	}
+	.relative{
+		position:relative;
+	}
+	.absolute{
+		position:absolute;
+		right:-25px;
+		top:0;
+	}
+	.absolute2{
+		position:absolute;
+		right:-10px;
+		top:10px;
+	}
+</style>
+<div id="wrapper">
+	<div id="header">
+		<div class="header-block">
+			<a href="/"
+			   class="main-ref"> </a>
+			<div class="ico-links">
+				<a href="/"><img src="/images_new/home-ico-with-bg.jpg"
+								 alt=""/></a>
+				<a href="/map.php"><img src="/images_new/sitemap-ico-with-bg.jpg"
+										alt=""/></a>
+				<a href="mailto:info@sch2000.ru"><img src="/images_new/mail-ico-with-bg.jpg"
+													  alt=""/></a>
+				<a href="/faq/"><img src="/images_new/answer-ico-with-bg.jpg"
+									 alt=""/></a>
+			</div>
+			<div class="search-block">
+				<a href="/contacts/"
+				   class="txt"
+				   style="color:#295AB2; font-weight: bold;">Контакты</a>
+				<form action="/search.php" method="get" style="display:inline;" id="s">
+<span>Поиск</span>
+<span class="search-ico"><img src="/images_new/search-ico.png" alt="" /></span>
+<input type="text" class="search-block-input" name="q" id="q" type="text" value="Поиск" onfocus="if(this.value=='Поиск'){this.value='';}"/>
+<a href="javascript:void(0);" onclick="document.forms.s.submit();" class="search-block-button"><img src="/images_new/search-button-trans.png" /></a>
+</form>
+
+				<a href="/personal/profile/"
+				   class="txt"
+				   style="color:#295AB2; font-weight: bold;">Личный кабинет</a>
+			</div>
+			<!--'start_frame_cache_iIjGFB'-->
+
+<div class="log-in-block">
+<h3>Авторизация</h3>
+<form method="post" target="_top" action="/index.php?login=yes">
+			<input type="hidden" name="backurl" value="/index.php" />
+			<input type="hidden" name="AUTH_FORM" value="Y" />
+	<input type="hidden" name="TYPE" value="AUTH" />
+ <span>Логин</span>
+	<input type="text" name="USER_LOGIN" value="" style="width:153px;"/>
+ <span>пароль</span>
+				<input type="password" name="USER_PASSWORD" style="width:153px;"/>
+
+                <input type="submit" name="Login" value="" style="background-image: url('/images_new/log-in-button.png'); width:55px; height:22px; border:0px; vertical-align:top; margin-top:6px;"/>
+		<a href="/registration.php" class="search-block-button"><img class="png" src="/images_new/reg-button.png" /></a>
+                <a href="/auth/index.php?forgot_password=yes" class="txt-blue">Забыли пароль?</a>
+
+</form>
+</div>
+<!--'end_frame_cache_iIjGFB'-->
+			  <!--'start_frame_cache_LkGdQn'--> <div class="main-menu">
+<ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+					<li><a href="/about/">О нас</a>
+				<ul >
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/employees/news/ournews/">Новости Института</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/about/achievement">Наши достижения</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/about/team">Наша команда</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/about/photo">Фотоальбом</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/about/vacancies.php">Вакансии</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/contacts/">Контакты офиса</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/contacts/abris/abris.php">Магазин в Москве («Абрис»)</a></li>
+			
+		
+	
+	
+
+			</ul></li>	
+	
+					<li><a href="/vospitatelyam/">Воспитателям</a>
+				<ul >
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/vospitatelyam/undermenu.php">Технология деятельностного метода</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/vospitatelyam/igralochka.php">Курс математики «Игралочка»</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/vospitatelyam/world-explorer.php">Программа «Мир открытий»</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/konkurs-uchu-uchitsya/">Международный конкурс «Учу учиться»</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/vospitateljam/rabota-s-roditelyami/">Взаимодействие с семьей</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/library/teachers.php">Библиотека для работников образования</a></li>
+			
+		
+	
+	
+
+			</ul></li>	
+	
+					<li><a href="/employees/">Учителям</a>
+				<ul >
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/lessons/tdm/">Технология ДМ</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/lessons/kurs-matematika-1-9-klassy/">Курс «Математика 1-9»</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/lessons/mid/">Курс «Мир деятельности»</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/employees/kalligrafiya/">Каллиграфия цифр</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/konkurs-uchu-uchitsya/">Международный конкурс «Учу учиться»</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/employees/rabota-s-roditeljami/">Взаимодействие с родителями</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/library/teachers.php">Библиотека</a></li>
+			
+		
+	
+	
+
+			</ul></li>	
+	
+					<li><a href="/parents/">Родителям</a>
+				<ul >
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/parents/important/">Важное о программе</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/parents/deti/">Детская Академия Петерсон</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/parents/advantages/">Преимущества программы</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/parents/recommendation/">Детские сады и школы</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/parents/shpargalka/">Шпаргалки для родителей</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/parents/risk/">Основные риски</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/mir-dejatelnosti/">Курс «Мир деятельности»</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/parents/sobranie/">Родительское собрание</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/parents/psychologist/">В кабинете психолога</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/library/parents.php">Библиотека для родителей</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/parents/parable/">Поучительные притчи</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/parents/citation.php">Афоризмы об образовании</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/parents/answer.php">«Решебник» к учебникам</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/parents/dou/">Родителям дошкольников</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/parents/my-v-sotssetyakh/">Мы в соцсетях</a></li>
+			
+		
+	
+	
+
+			</ul></li>	
+	
+		
+							<li><a href="http://petersonbooks.ru">Учебная литература</a></li>
+			
+		
+	
+	
+
+	
+	
+					<li><a href="/education/">Курсы</a>
+				<ul >
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/vebinariy/">Вебинары</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/education/section.php?SECTION_ID=115">Выездные курсы</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/education/section.php?SECTION_ID=56">Для работников дошкольного образования</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/education/section.php?SECTION_ID=57">Учителям начальной школы</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/education/section.php?SECTION_ID=58">Учителям основной школы</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/education/section.php?SECTION_ID=52">Курсы для заведующих, ППС, методистов кафедр математического образования</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/education/section.php?SECTION_ID=2549">Стажировки</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/education/raspisanie.php">Сводное расписание курсов</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/education/register.php">Регистрация на курсы On-line</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/distant/">Дистанционное обучение</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/education/otzivi.php">Отзывы о курсах</a></li>
+			
+		
+	
+	
+
+			</ul></li>	
+	
+					<li><a href="/documents_letters/">Документы</a>
+				<ul >
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/documents_letters/section.php?SECTION_ID=2171"> Правоустанавливающие документы</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/documents_letters/section.php?SECTION_ID=35">Актуальные документы</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/documents_letters/section.php?SECTION_ID=1632">ООП для школы</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/documents_letters/section.php?SECTION_ID=30">Примерные рабочие программы по  математике</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/documents_letters/section.php?SECTION_ID=215">Курс «Мир деятельности» </a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/documents_letters/section.php?SECTION_ID=1808">Государственный стандарт</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/documents_letters/section.php?SECTION_ID=1814">Рекомендованные учебники</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/documents_letters/section.php?SECTION_ID=28">О функционировании Центра</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/documents_letters/section.php?SECTION_ID=31">О присуждении премий</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/documents_letters/section.php?SECTION_ID=32">Благодарственные письма</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/documents_letters/oop-dlya-detskogo-sada/">ООП для детского сада</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/vospitateljam/normativnye-dokumenty-dou/">Дошкольное образование</a></li>
+			
+		
+	
+	
+
+			</ul></li>	
+	
+					<li><a href="/ploshchadki/">Площадки</a>
+				<ul id="menu-last-item" class="menu-last-item">
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/ploshchadki/fip.php">Всероссийский инновационный проект 2019-2024</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/ploshchadki_2018_2023/">Всероссийский инновационный проект 2018-2023</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/ploshchadki/mezhdunarodnyj-issledovatelskiy-proekt/">Международный исследовательский проект 2017-2022</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/ploshchadki/rabota-laboratoriy/">Работа лабораторий</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/vebinariy/">Вебинары</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/ploshchadki/stazhirovochnye-ploshchadki/">Стажировочные площадки</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/fip-calendar/">События</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/ploshchadki/arkhiv">Архив</a></li>
+			
+		
+	
+	
+
+	</ul></li>
+</ul>
+</div>
+<!--'end_frame_cache_LkGdQn'-->		</div>
+	</div><!-- #header-->
+	<div id="middle">
+		<div class="middle-container">
+			<div class="clear"></div>
+			<div class="left-block">
+				<!--<div class="buy-exercise-book">-->
+				<a href="https://petersonbooks.ru" class="main_link_orange">Купить литературу на PETERSONBOOKS.RU</a>
+				<br>
+                <a href="http://www.sch2000.ru/eluch/index.php" class="main_link_blue">Электронная форма учебников по математике</a>
+                <br>
+                <iframe width="200" height="150" src="https://www.youtube.com/embed/WrRvpOemS5U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <br><br>
+				<div style="border: 1px #6898ed solid;">
+                    <p style="text-align:center; font-size:13px;color:#3d63c0; font-weight:900; margin-top: 5px;">«ЗНАК КАЧЕСТВА» – 2020</p>
+                    <p style="text-align:center;"><img src="https://files.sch2000.ru/img/index/tmp/znak_kachestva.png" alt="" style="width:175px; margin-top: -9px;"></p>
+                    <p style="text-align:center;margin: 0 -4px 0px 0px;">
+                        <a href="https://files.sch2000.ru/pdf/index/Институт_СДП_Лауреаты_Знак_качества_2019-2020.pdf" style="border-radius: 10px; padding: 10px 25px 10px 25px; background-color: #558ED5; box-shadow: #333333 0px 1px 2px; text-decoration: none; font-size: 13px;"><span style="color: #ffffff;">ЛАУРЕАТЫ</span></a>&nbsp;<br>
+                    </p>
+				<br>
+			</div>
+                <br>
+                <div style="border: 1px #6898ed solid;">
+                    <p style="text-align:center;"><img src="https://files.sch2000.ru/img/index/tmp/festival.png" alt="" style="width:200px; margin-top: 15px;"></p>
+                    <p style="text-align:center;margin: 0 -4px 0px 0px;">
+                        <a href="https://files.sch2000.ru/pdf/index/Институт_СДП_Фестиваль_Фестивалей__Лауреаты_2019-2020.pdf" style="border-radius: 10px; padding: 10px 25px 10px 25px; background-color: #558ED5; box-shadow: #333333 0px 1px 2px; text-decoration: none; font-size: 13px;"><span style="color: #ffffff;">ЛАУРЕАТЫ – 2020</span></a>&nbsp;<br>
+                    </p>
+                    <br>
+                </div>
+				<br>
+				<div>
+					<!--<p style="text-align:center;"><img src="https://files.sch2000.ru/img/index/tmp/opros.png" alt="" style="width: 205px"></p>-->
+
+					<p style="font-size: 14px;"align="center"><span style="color: #3d63c0;"><b>Уважаемые коллеги</b></span></p>
+					<p style="font-size: 14px;"align="center"><span style="color: #3d63c0;">Педагогам, работающим по учебникам математики<br>Л.Г. Петерсон, предлагаем принять участие <b>во всероссийском  опросе</b></span></p>
+					<p style="text-align:center;"><a href="https://www.sch2000.ru/tmp/page/oprosi.php" class="main_link_blue">Пройти опрос</a></p>
+				</div>
+				<br>
+				<!--<a href="http://www.sch2000.ru/eluch/index.php" class="main_link_blue">Электронная форма учебников по математике
+				</a>
+				<br>
+				<iframe width="200" height="150" src="https://www.youtube.com/embed/9tK87_YeOeI" frameborder="0" allowfullscreen></iframe>
+				<iframe width="200"
+						height="150"
+						src="https://www.youtube.com/embed/4_Rx-BGs4Xc"
+						frameborder="0"
+						allowfullscreen></iframe>-->
+
+								<!--</div>-->
+				<!--<br><br>-->
+				<a href="https://www.sch2000.ru/mir-dejatelnosti/" class="main_link_blue relative">Уроки по курсу «Мир деятельности»<img class="absolute" src="https://files.sch2000.ru/img/mir.png"></a>
+				<br>
+				<!--<a href="/mir-dejatelnosti/"
+				   title="Надпредметный курс &laquo;Мир деятельности&raquo;"><img width="200"
+																				  height="262"
+																				  src="/upload/mid-main.jpg"/></a>-->
+
+				<!--<div class="tac">
+					<a href="https://youtu.be/S9WLI8Jftqk" target="_blank">
+						<iframe width="200" height="150" src="https://www.youtube.com/embed/S9WLI8Jftqk" frameborder="0"
+								allowfullscreen></iframe>
+					</a>
+					<div><a href="https://youtu.be/yoVZxNo1MwY" target="_blank"
+							style="margin: 0px; font-weight: bold; color: rgb(41, 90, 178); font-size: 14px;">М.А. Кубышева_Что такое надпредметный курс "Мир деятельности"?
+						</a></div>
+				</div>
+
+				<div class="blue-border-block-head"
+					 style="border-radius: 12px;margin: 6px 0;">
+					<a href="http://www.sch2000.ru/programs/mir-dejatelnosti/lesson/"
+					   class="ask-link"
+					   style="position: inherit;">Уроки по курсу <br>"Мир деятельности"</a>
+				</div>
+				<div><a href="/vospitateljam/vazhnoe-programme-mir-otkrytij/"
+						title="Представляем примерную основную общеобразовательную программу дошкольного образования «Мир открытий»"><img src="/upload/mo-main.jpg"/></a>
+				</div>
+				<a href="/mid_rev/"
+				   class="orange-head-link hb"
+				   style="font-size: 15px;padding: 2px 0px 8px 0px;">Отзывы о программе<br/> "Мир открытий"</a>-->
+				
+
+								<div class="clear"></div>
+				<div class="ask-block">
+					<div class="blue-border-block-head">
+						<a href="https://www.sch2000.ru/faq/" class="main_link_blue_ask">Ваш вопрос - Наш ответ</a>
+
+					</div>
+					<style>
+						#a_answer ul {
+							margin: 0;
+						}
+
+						#a_answer li {
+							list-style: none;
+						}
+					</style>
+					<div class="blue-border-block" style="border-bottom:1px solid #558ED5; border-radius:0 0 10px 10px;"
+						 id="a_answer">
+						<br>
+						<!--'start_frame_cache_t2SpVw'--><style>
+	#indexfaq li{padding-bottom: 10px;}
+</style>
+<div class="catalog-section-list" id="indexfaq">
+	
+	<ul>
+	<li id="bx_1847241719_1802"><a href="/faq/index.php?SECTION_ID=1802">Актуальные вопросы и ответы  по программе «Учусь учиться» Л.Г. Петерсон&nbsp;(66)</a></li>
+	<li id="bx_1847241719_23"><a href="/faq/index.php?SECTION_ID=23">Образовательная программа &quot;Школа 2000...&quot;&nbsp;(67)</a></li>
+	<li id="bx_1847241719_121"><a href="/faq/index.php?SECTION_ID=121">Методические рекомендации&nbsp;(115)</a></li>
+	<li id="bx_1847241719_1608"><a href="/faq/index.php?SECTION_ID=1608">Учебники математики Л.Г.Петерсон&nbsp;(92)</a></li>
+	<li id="bx_1847241719_2280"><a href="/faq/index.php?SECTION_ID=2280">Электронные учебники математики Л.Г. Петерсон&nbsp;(11)</a></li>
+	<li id="bx_1847241719_1609"><a href="/faq/index.php?SECTION_ID=1609">Дошкольное образование&nbsp;(155)</a></li>
+	<li id="bx_1847241719_124"><a href="/faq/index.php?SECTION_ID=124">Курсы повышения квалификации&nbsp;(30)</a></li>
+	<li id="bx_1847241719_1585"><a href="/faq/index.php?SECTION_ID=1585">«Мир деятельности»&nbsp;(44)</a></li>
+	<li id="bx_1847241719_2158"><a href="/faq/index.php?SECTION_ID=2158">«Мир открытий»&nbsp;(7)</a></li>
+	<li id="bx_1847241719_122"><a href="/faq/index.php?SECTION_ID=122">Учебные пособия&nbsp;(49)</a></li>
+	<li id="bx_1847241719_123"><a href="/faq/index.php?SECTION_ID=123">Общие вопросы&nbsp;(79)</a></li>
+	<li id="bx_1847241719_1610"><a href="/faq/index.php?SECTION_ID=1610">Объяснение заданий из учебников&nbsp;(116)</a></li>
+	</ul>
+</div>
+<!--'end_frame_cache_t2SpVw'-->					</div>
+					<!--<div class="blue-border-block-bottom"></div>
+				</div>
+				<div class="blue-border-block-head"
+					 style="border-radius: 12px;margin: 6px 0;">
+					<a href="/congratulations/"
+					   class="ask-link"
+					   style="font-size: 15px;top: 12px;">ТОП 500</a>
+				</div>
+				<center>
+					<noindex>
+						<nofollow><a href="http://www.цветной-мир.рф/"
+									 target="_blank"
+									 title="Издательский дом &quot;Цветной мир&quot;">
+								<EMBED type="application/x-shockwave-flash"
+									   pluginspage="http://www.macromedia.com/go/getflashplayer"
+									   type="application/x-shockwave-flash"
+									   pluginspage="http://www.macromedia.com/go/getflashplayer"
+									   src="/upload/banner1.swf"
+									   width="137"
+									   height="80"></EMBED>
+							</a>
+					</noindex>
+					</nofollow>
+				</center>-->
+				<br>
+					<div id="banners"
+				 style="text-align: center; width: 200px; padding:10px 0 10px 0;height: 280px;text-align: center;">
+				<a href="/library/detail.php?ID=28993"><img
+							src="https://files.sch2000.ru/img/banners/obl.png"
+							style="width: 200px;">
+					<br>КНИГА ЭКСПЕРИМЕНТА (2011-2016)
+				</a>
+					</div>
+					<br>
+					<center>
+						<noindex>
+							<a href="http://vk.com/matematika_peterson" target="_blank" title="Центр «Школа 2000…» ВКонтакте"><img
+										src="/images/soc/vk.png"></a>
+							<a href="http://ok.ru/group/54433103544335" target="_blank"
+							   title="Центр «Школа 2000…» в Одноклассниках"><img src="/images/soc/ok.png"></a>
+							<a href="https://www.facebook.com/pages/%D0%A6%D0%B5%D0%BD%D1%82%D1%80-%D0%A1%D0%94%D0%9F-%D0%A8%D0%BA%D0%BE%D0%BB%D0%B0-2000-%D0%9B%D0%93-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D1%81%D0%BE%D0%BD/187903938027046"
+							   target="_blank" title="Центр «Школа 2000…» в Facabook"><img src="/images/soc/fb.png"></a>
+							<a href="http://www.youtube.com/user/sch2000peterson/videos" target="_blank"
+							   title="Центр «Школа 2000…» в YouTube"><img src="/images/soc/yt.png"></a>
+							<div>
+								<a href="https://www.instagram.com/peterson.academy/?hl=ru" target="_blank"><img src="https://files.sch2000.ru/img/index/inst.png" style="width: 75px;"></a>
+								<a href="https://vk.com/petersonacademy" target="_blank"><img src="https://files.sch2000.ru/img/index/vk.png" style="width: 75px;"></a>
+							</div>
+						</noindex>
+					</center>
+
+
+
+				</div>
+			</div>
+			<div class="middle-block">
+    <style>
+        .tabas {
+            width: 490px;
+            padding: 25px 0 15px 15px;
+        }
+
+        .tabas > .new-img > img {
+            height: 50px;
+            width: 50px;
+        }
+
+        .tab-new-block > .new-img > img {
+            height: 50px;
+            width: 50px;
+        }
+
+        .tabas > .new-content-block {
+            margin-left: -25px;
+        }
+
+        .tab-new-block > .new-content-block {
+            margin-left: -25px;
+            min-height: 60px;
+        }
+    </style>
+    <script type="text/javascript"
+            src="/js/jquery-2.1.1.min.js"></script> <!--	<script src="//code.jquery.com/jquery-1.11.2.min.js"></script>-->
+    <script src="/js/jquery.easing.1.3.js"></script>
+    <script src="/js/jquery.skitter.min.js"></script>
+    <script type="text/javascript"
+            src="/popup/mp.min.js"></script>
+    <div style="padding: 5px 0; text-align: justify;">
+        <div style="position:relative;">
+            <a href="https://www.olimpiadapeterson2021.info/" target="_blank">
+                <img
+                        src="https://files.sch2000.ru/img/index/Олимпиада_2021.png"
+                        style="width: 515px; border: 1px solid orange;"></a>
+<!--<div>
+<a href="https://forms.yandex.ru/u/5fc1107edfc5ae799ebc9968/" style="font-size: 14px;color: #fff;font-weight: bold;background: #ff9c43;text-align: center;height: 100%;padding: 10px 0;border-radius: 5px;text-decoration: none;width: 518px;display: block;box-shadow: 0px 1px 3px #666;text-shadow: 1px 1px 1px #666;font-style: normal;margin-top: 5px;">Зарегистрироваться на флешмоб</a></div>-->
+
+
+<!--<div>
+<a href="https://files.sch2000.ru/doc/index/Институт_СДП_Л.Г.Петерсон_Флешмоб_Задача_дня_2020_МАТЕРИАЛЫ.zip" style="font-size: 14px;color: #fff;font-weight: bold;background: #558ed5;text-align: center;height: 100%;padding: 10px 0;border-radius: 5px;text-decoration: none;width: 518px;display: block;box-shadow: 0px 1px 3px #666;text-shadow: 1px 1px 1px #666;font-style: normal;margin-top: 5px;" target="_blank">Материалы флешмоба «Задача дня»</a></div>-->
+   
+
+
+       <!--<a href="https://docs.google.com/forms/d/1UDU0iOXdFAl84JTOMhfwSjEsAzB4kiBB3rs3uzp0jz0/viewform?edit_requested=true">         
+                 <img 
+                        src="https://files.sch2000.ru/img/index/Регистрация.png"
+                    style="position:absolute; background:rgb(255, 255, 255,0.0); width:517px; height:39px; right:3px;bottom:12px;"></a>-->
+       <!--<a href="https://www.sch2000.ru/employees/news/actual/58465/">         
+                 <img 
+                        src="https://files.sch2000.ru/img/index/Олимпиада_26_03.png"
+                    style="position:absolute; background:rgb(255, 255, 255,0.0); width:517px; height:153px; right:3px;bottom:8px;"></a>-->
+        </div>
+
+        <!--<a href="http://project1251058.tilda.ws/page5466179.html?bx_sender_conversion_id=1063945"><img src="https://files.sch2000.ru/img/index/header_peterson.jpg" style="width: 515px;border: 1px solid orange;">
+
+                       <a href="https://files.sch2000.ru/ppt/index/Институт_СДП_Л.Г.Петерсон_Презентация.pptx"><img src="https://files.sch2000.ru/img/index/main_slide.jpg" style="width: 515px;border: 1px solid orange;"></a>-->
+        <!--<div style="margin: 10px 0 20px 0;">
+            <a href="https://files.sch2000.ru/pdf/index/График_проведения_онлайн_мероприятий___1деньТДМ2019.pdf"
+               style="font-size: 14px;;font-weight: bold;"
+               class="orange">Смотрите онлайн-занятия на площадках флешмоба <span
+                        style="color: #ff0000;">#1деньТДМ2019</span></a>
+        </div>-->
+        <!--<div style="margin: 10px 0 20px 0;">
+            <i><a href="https://www.sch2000.ru/employees/news/actual/58181/" style="color:#02aa4b;font-size: 14px;;font-weight: bold;"
+               class="" >Подробнее о Всероссийском фестивале</a></i>
+        </div>-->
+        <!--<div style="margin: 10px 0 20px 0;">
+            <a href="https://files.sch2000.ru/pdf/news/2020/Информационное_письмо_Перенос_курсы_март_2020.pdf" style="font-size: 14px;;font-weight: bold;"
+               class="blue">Информационное письмо  № 72 от 18 марта 2020 г. «О переносе очных мероприятий Института СДП»</a>
+        </div>-->
+        <!--<div style="margin: 10px 0 10px 0;">
+            <a href="https://files.sch2000.ru/pdf/index/tdm/new/Расписание_занятий_в_ДС_в_технологии_Ситуация_.pdf"
+               style="font-size: 14px;;font-weight: bold;" class="blue" target="_blank"><i>Расписание занятий в детском саду в технологии «Ситуация»</i></a>
+        </div>
+        <div style="margin: 10px 0 10px 0;">
+            <a href="https://files.sch2000.ru/pdf/index/tdm/new/Расписание_уроков_и_внеурочных_мероприятий_в_ТДМ_.pdf"
+               style="font-size: 14px;;font-weight: bold;" class="blue" target="_blank"><i>Расписание уроков и внеурочных мероприятий в ТДМ</i></a>
+        </div>
+        <div style="margin: 10px 0 10px 0;">
+            <a href="https://files.sch2000.ru/pdf/index/tdm/new/Расписание_мероприятий_по_курсу_Мир_деятельности.pdf"
+               style="font-size: 14px;;font-weight: bold;" class="blue" target="_blank"><i>Расписание занятий по надпредметному курсу «Мир деятельности»</i></a>
+        </div>
+        <div style="margin: 10px 0 10px 0;">
+            <a href="https://files.sch2000.ru/pdf/index/tdm/new/Расписание_мероприятий_Принцип_непрерывности.pdf"
+               style="font-size: 14px;;font-weight: bold;" class="blue" target="_blank"><i>Расписание мероприятий, реализующих принцип непрерывности в образовании</i></a>
+        </div>
+        <div style="margin: 10px 0 10px 0;">
+            <a href="https://files.sch2000.ru/pdf/index/tdm/new/Расписание_мероприятий_для_родителей_и_студентов.pdf"
+               style="font-size: 14px;;font-weight: bold;" class="blue" target="_blank"><i>Расписание мероприятий для родителей и студентов</i></a>
+        </div>-->
+        <!--<div style="margin: 10px 0 10px 0;">
+            <a href="https://youtu.be/r0eBMBsx8QM"
+               style="font-size: 14px;;font-weight: bold;" class="blue" target="_blank"><i>Посмотрите поздравительный ролик. Мы его сделали для вас!</i></a>
+        </div>-->
+        <div style="margin: 10px 0 10px 0;">
+            <a href="https://www.olimpiadapeterson2021.info/"
+               style="font-size: 14px;;font-weight: bold;" class="blue">Перейти на сайт Олимпиады</a>
+        </div>
+        <div style="margin: 10px 0 10px 0;">
+            <a href="https://files.sch2000.ru/pdf/index/1_Просвещение_Письмо_о_вариативности_УМК_14.03.2019.pdf"
+               style="font-size: 14px;;font-weight: bold;" class="orange">Информационное письмо о вариативности
+                учебно-методических комплектов, издаваемых группой компаний «Просвещение» для начальной школы
+                (14.03.2019)</a>
+        </div>
+        <div style="margin: 10px 0 10px 0;">
+            <a href="https://files.sch2000.ru/pdf/tmp/Письмо_Просвещение_об_УМК_Л.Г._Петерсон.pdf"
+               style="font-size: 14px;;font-weight: bold;" class="blue">Информационное письмо издательств «Просвещение»
+                и «БИНОМ. Лаборатория знаний» об использовании учебников УМК по математике Л.Г. Петерсон, включенных в
+                новый федеральный перечень учебников (04.02.2019)</a>
+        </div>
+        <div style="margin: 10px 0 10px 0;">
+            <a href="https://files.sch2000.ru/pdf/index/3_Описание_УМК_системы_Учусь_учиться_Л.Г. Петерсон.pdf"
+               style="font-size: 14px;;font-weight: bold;" class="orange">Описание УМК системы «Учусь учиться» Л.Г.
+                Петерсон</a>
+        </div>
+        <div style="margin: 10px 0 10px 0;">
+            <a href="https://files.sch2000.ru/pdf/index/Письмо_Просвещение.pdf"
+               style="font-size: 14px;;font-weight: bold;" class="blue"><span style="color: red">NEW!</span> Информационное письмо издательства  «Просвещение»: <br>Об использовании учебников «Алгебра» 7 – 9 классы авторов <br>Петерсон Л.Г., Агаханов Н.Х. и др.</a>
+        </div>
+        <div style="margin: 10px 0 10px 0;">
+            <a href="https://mel.fm/slovo_pedagoga/4692073-ludmila_peterson" style="font-size: 14px;font-weight: bold;"
+               class="orange">Интервью с Л.Г. Петерсон: «Я не встречала детей, которых невозможно заинтересовать
+                    математикой»</a>
+        </div>
+        <div style="margin: 10px 0 10px 0;">
+            <a href="https://mel.fm/matematika/3579802-peterson_math" style="font-size: 14px;;font-weight: bold;"
+               class="blue">Интервью Л.Г. Петерсон: «Как увлечь ребёнка математикой. Советует Людмила Петерсон. И что почитать взрослым, которых плохо учили в
+                школе»</a>
+        </div>
+        <b>
+            <div class="blue" style="font-size: 15px;">
+                <div style="display:inline-block; width:250px;">
+                    <b>
+                        <p style="font-family:'Marck Script', cursive; font-size:24px; color:orange; text-align:center;">
+                            <a href=" http://sch2000.ru/parents/deti/" target="_blank" style="color:orange;">Детская</a>
+                        </p>
+                        <p class="tac" style="line-height:0px;">
+                            <a href=" http://sch2000.ru/parents/deti/" target="_blank">АКАДЕМИЯ ПЕТЕРСОН</a>
+                        </p>
+                    </b> <a class="tac" style="display:block;" href="http://dapeterson.ru/" target="_blank"> <img
+                                src="https://files.sch2000.ru/img/index/dap.png" width="200" height="150"> </a>
+                    <!--<a href="https://www.sch2000.ru/employees/news/actual/38719/" target="_blank"><img src="https://files.sch2000.ru/img/banners/parents_banner.png" style="width: 200px;"></a>-->
+                </div>
+                <div style="display:inline-block; width:250px;">
+                    <b>
+                        <p style="font-family:'Marck Script', cursive; font-size:24px; color:orange; text-align:center;">
+                            <a href="https://vk.com/petersonacademy" target="_blank"
+                               style="color:orange;">Родительская</a>
+                        </p>
+                        <p class="tac" style="line-height:0px;">
+                            <a href="https://vk.com/petersonacademy" target="_blank">АКАДЕМИЯ ПЕТЕРСОН</a>
+                        </p>
+                    </b> <a class="tac" style="display:block;" href="https://vk.com/petersonacademy"
+                            target="_blank"><img src="https://files.sch2000.ru/img/Academy.jpg"
+                                                 style="width: 200px; height:150px; border:1px solid #666666;"></a>
+                </div>
+            </div>
+            <br>
+        </b>
+    </div>
+    <b>
+        <div class="section">
+            <ul class="tabs">
+                <li class="current">Актуальное</li>
+                <li>Наши события</li>
+                <li>Новинки</li>
+            </ul>
+            <div class="box visible">
+                
+<!--'start_frame_cache_7DqYyc'-->
+                            <div class="tab-new-block">
+                            	<div class="new-img">
+                                	<img style="border:1px solid #6898ED" src="/upload/iblock/67f/67f6dddf360f16bfec6533964895af5c.png" width="72" height="71" alt="Приглашаем на серию онлайн-консультаций для 1–8 классов &lt;br&gt;по непрерывному курсу математики «Учусь учиться» Л. Г. Петерсон" title="Приглашаем на серию онлайн-консультаций для 1–8 классов &lt;br&gt;по непрерывному курсу математики «Учусь учиться» Л. Г. Петерсон"  />
+                                </div>
+                                <div class="new-content-block">
+									<a href="/employees/news/actual/53790/" >Приглашаем на серию онлайн-консультаций для 1–8 классов <br>по непрерывному курсу математики «Учусь учиться» Л. Г. Петерсон</a>
+                                    <div></div>
+                                </div>
+                            </div>
+
+<div style="display: none;">
+
+</div>
+
+
+
+                            <div class="tab-new-block">
+                            	<div class="new-img">
+                                	<img style="border:1px solid #6898ED" src="/upload/iblock/49b/49b9b4f20a0de1088df9efea4c99bc96.png" width="72" height="71" alt="Приглашаем к участию в Международной обучающей математической «Олимпиаде Петерсон»! Открыта регистрация" title="Приглашаем к участию в Международной обучающей математической «Олимпиаде Петерсон»! Открыта регистрация"  />
+                                </div>
+                                <div class="new-content-block">
+																			<span class="orange-txt">26.02.2021</span>
+										<a href="/employees/news/actual/61524/" >Приглашаем к участию в Международной обучающей математической «Олимпиаде Петерсон»! Открыта регистрация</a>
+                                    <div></div>
+                                </div>
+                            </div>
+
+<div style="display: none;">
+
+</div>
+
+
+
+                            <div class="tab-new-block">
+                            	<div class="new-img">
+                                	<img style="border:1px solid #6898ED" src="/upload/iblock/eeb/eeb2da87cad36d1db94ae680ebfab93c.png" width="72" height="71" alt="Приглашаем 2 марта 2021 года к участию в межрегиональном &lt;br&gt;онлайн-семинаре" title="Приглашаем 2 марта 2021 года к участию в межрегиональном &lt;br&gt;онлайн-семинаре"  />
+                                </div>
+                                <div class="new-content-block">
+																			<span class="orange-txt">26.02.2021</span>
+										<a href="/employees/news/actual/61523/" >Приглашаем 2 марта 2021 года к участию в межрегиональном <br>онлайн-семинаре</a>
+                                    <div></div>
+                                </div>
+                            </div>
+
+<div style="display: none;">
+
+</div>
+
+
+
+                            <div class="tab-new-block">
+                            	<div class="new-img">
+                                	<img style="border:1px solid #6898ED" src="/upload/iblock/46b/46b842f97e6077e71c0a7fc3d655ed1d.png" width="72" height="71" alt="Людмила Петерсон прокомментировала Вестям образования приказ Минпросвещения №863 «О федеральных инновационных площадках»" title="Людмила Петерсон прокомментировала Вестям образования приказ Минпросвещения №863 «О федеральных инновационных площадках»"  />
+                                </div>
+                                <div class="new-content-block">
+																			<span class="orange-txt">25.01.2021</span>
+										<a href="https://vogazeta.ru/articles/2021/1/25/FIP/16274-lyudmila_peterson_pro_fip_rabotaem_na_entuziazme_nikakih_dopolnitelnyh_deneg_ne_vydelyaetsya" target="_blank">Людмила Петерсон прокомментировала Вестям образования приказ Минпросвещения №863 «О федеральных инновационных площадках»</a>
+                                    <div></div>
+                                </div>
+                            </div>
+
+<div style="display: none;">
+
+</div>
+
+
+
+                            <div class="tab-new-block">
+                            	<div class="new-img">
+                                	<img style="border:1px solid #6898ED" src="/upload/iblock/342/3426cc62072d0186354bbe5e59576d56.jpg" width="65" height="72" alt="30 декабря 2020 года подписан Приказ № 863 Министерства просвещения РФ «О федеральных инновационных площадках», прекративший деятельность всех федеральных площадок Минпросвещения РФ" title="30 декабря 2020 года подписан Приказ № 863 Министерства просвещения РФ «О федеральных инновационных площадках», прекративший деятельность всех федеральных площадок Минпросвещения РФ"  />
+                                </div>
+                                <div class="new-content-block">
+																			<span class="orange-txt">20.01.2021</span>
+										<a href="/employees/news/ournews/61227/" >30 декабря 2020 года подписан Приказ № 863 Министерства просвещения РФ «О федеральных инновационных площадках», прекративший деятельность всех федеральных площадок Минпросвещения РФ</a>
+                                    <div></div>
+                                </div>
+                            </div>
+
+<div style="display: none;">
+
+</div>
+
+
+
+                            <div class="tab-new-block">
+                            	<div class="new-img">
+                                	<img style="border:1px solid #6898ED" src="/upload/iblock/91b/91b76d4431aae67d3f238a5e9251272a.png" width="72" height="71" alt="Президент РФ поручил установить приоритет математики &lt;br&gt;и информатики в школьном учебном плане" title="Президент РФ поручил установить приоритет математики &lt;br&gt;и информатики в школьном учебном плане"  />
+                                </div>
+                                <div class="new-content-block">
+																			<span class="orange-txt">07.01.2021</span>
+										<a href="/employees/news/actual/61156/" >Президент РФ поручил установить приоритет математики <br>и информатики в школьном учебном плане</a>
+                                    <div></div>
+                                </div>
+                            </div>
+
+<div style="display: none;">
+
+</div>
+
+
+
+                            <div class="tab-new-block">
+                            	<div class="new-img">
+                                	<img style="border:1px solid #6898ED" src="/upload/iblock/61e/61e4b2e3e58086817b384fe067f2affe.png" width="72" height="71" alt="Флешмоб «Задача дня» 2020 года_Благодарим участников &lt;br&gt;и подводим итоги" title="Флешмоб «Задача дня» 2020 года_Благодарим участников &lt;br&gt;и подводим итоги"  />
+                                </div>
+                                <div class="new-content-block">
+																			<span class="orange-txt">21.12.2020</span>
+										<a href="/employees/news/actual/61125/" >Флешмоб «Задача дня» 2020 года_Благодарим участников <br>и подводим итоги</a>
+                                    <div></div>
+                                </div>
+                            </div>
+
+<div style="display: none;">
+
+</div>
+
+
+
+                            <div class="tab-new-block">
+                            	<div class="new-img">
+                                	<img style="border:1px solid #6898ED" src="/upload/iblock/0bf/0bf6bb821c4045f4d5a26594bbac33d3.png" width="72" height="71" alt="Материалы к подготовке Международного флешмоба &lt;br&gt;«Задача дня»_18 декабря 2020 года" title="Материалы к подготовке Международного флешмоба &lt;br&gt;«Задача дня»_18 декабря 2020 года"  />
+                                </div>
+                                <div class="new-content-block">
+																			<span class="orange-txt">17.12.2020</span>
+										<a href="/employees/news/actual/61122/" >Материалы к подготовке Международного флешмоба <br>«Задача дня»_18 декабря 2020 года</a>
+                                    <div></div>
+                                </div>
+                            </div>
+
+<div style="display: none;">
+
+</div>
+
+
+<div class="tab-new-block">
+<a href="/employees/news/actual/" style="color: #295AB2;">Все актуальное</a>
+</div>
+<!--'end_frame_cache_7DqYyc'-->            </div>
+            <div class="box">
+                
+<!--'start_frame_cache_jmonnO'-->
+                            <div class="tab-new-block">
+                            	<div class="new-img">
+                                	<img style="border:1px solid #6898ED" src="/upload/iblock/342/3426cc62072d0186354bbe5e59576d56.jpg" width="65" height="72" alt="30 декабря 2020 года подписан Приказ № 863 Министерства просвещения РФ «О федеральных инновационных площадках», прекративший деятельность всех федеральных площадок Минпросвещения РФ" title="30 декабря 2020 года подписан Приказ № 863 Министерства просвещения РФ «О федеральных инновационных площадках», прекративший деятельность всех федеральных площадок Минпросвещения РФ"  />
+                                </div>
+                                <div class="new-content-block">
+																			<span class="orange-txt">20.01.2021</span>
+										<a href="/employees/news/ournews/61227/" >30 декабря 2020 года подписан Приказ № 863 Министерства просвещения РФ «О федеральных инновационных площадках», прекративший деятельность всех федеральных площадок Минпросвещения РФ</a>
+                                    <div></div>
+                                </div>
+                            </div>
+
+<div style="display: none;">
+
+</div>
+
+
+
+                            <div class="tab-new-block">
+                            	<div class="new-img">
+                                	<img style="border:1px solid #6898ED" src="/upload/iblock/495/495beda90629d09a8144d7c607192851.png" width="72" height="71" alt="16 декабря команда Института СДП провела образовательный интенсив в Казани" title="16 декабря команда Института СДП провела образовательный интенсив в Казани"  />
+                                </div>
+                                <div class="new-content-block">
+																			<span class="orange-txt">18.12.2019</span>
+										<a href="/employees/news/ournews/57654/" >16 декабря команда Института СДП провела образовательный интенсив в Казани</a>
+                                    <div></div>
+                                </div>
+                            </div>
+
+<div style="display: none;">
+
+</div>
+
+
+
+                            <div class="tab-new-block">
+                            	<div class="new-img">
+                                	<img style="border:1px solid #6898ED" src="/upload/iblock/68b/68b15118f6d89b9e522306a61970227e.png" width="72" height="71" alt="26 ноября состоялась стажировка в МБОУ СОШ № 24 &lt;br&gt; г. Коврова Владимирской области" title="26 ноября состоялась стажировка в МБОУ СОШ № 24 &lt;br&gt; г. Коврова Владимирской области"  />
+                                </div>
+                                <div class="new-content-block">
+																			<span class="orange-txt">28.11.2019</span>
+										<a href="/employees/news/ournews/57598/" >26 ноября состоялась стажировка в МБОУ СОШ № 24 <br> г. Коврова Владимирской области</a>
+                                    <div></div>
+                                </div>
+                            </div>
+
+<div style="display: none;">
+
+</div>
+
+
+
+                            <div class="tab-new-block">
+                            	<div class="new-img">
+                                	<img style="border:1px solid #6898ED" src="/upload/iblock/f9f/f9f8245e14c43424195b5877897e755c.png" width="72" height="71" alt="26 ноября в городе Орле прошел семинар-практикум для слушателей курсов ИРО «Технология &quot;Ситуация&quot; как инструмент &lt;br&gt; реализации ФГОС ДО»" title="26 ноября в городе Орле прошел семинар-практикум для слушателей курсов ИРО «Технология &quot;Ситуация&quot; как инструмент &lt;br&gt; реализации ФГОС ДО»"  />
+                                </div>
+                                <div class="new-content-block">
+																			<span class="orange-txt">27.11.2019</span>
+										<a href="/employees/news/ournews/57569/" >26 ноября в городе Орле прошел семинар-практикум для слушателей курсов ИРО «Технология "Ситуация" как инструмент <br> реализации ФГОС ДО»</a>
+                                    <div></div>
+                                </div>
+                            </div>
+
+<div style="display: none;">
+
+</div>
+
+
+
+                            <div class="tab-new-block">
+                            	<div class="new-img">
+                                	<img style="border:1px solid #6898ED" src="/upload/iblock/142/1428e2010c454e105709df0b1226894c.png" width="72" height="71" alt="Внимание, Всероссийский фестиваль! &lt;br&gt;21 ноября 2019 года стартует Всероссийский фестиваль (флешмоб): «Один день из жизни образовательной организации в технологии деятельностного метода»" title="Внимание, Всероссийский фестиваль! &lt;br&gt;21 ноября 2019 года стартует Всероссийский фестиваль (флешмоб): «Один день из жизни образовательной организации в технологии деятельностного метода»"  />
+                                </div>
+                                <div class="new-content-block">
+																			<span class="orange-txt">18.11.2019</span>
+										<a href="/employees/news/ournews/57479/" >Внимание, Всероссийский фестиваль! <br>21 ноября 2019 года стартует Всероссийский фестиваль (флешмоб): «Один день из жизни образовательной организации в технологии деятельностного метода»</a>
+                                    <div></div>
+                                </div>
+                            </div>
+
+<div style="display: none;">
+
+</div>
+
+
+
+                            <div class="tab-new-block">
+                            	<div class="new-img">
+                                	<img style="border:1px solid #6898ED" src="/upload/iblock/f9a/f9a6c49e525993a27c630218e8ebbbaf.png" width="72" height="71" alt="С 28 октября по 31 октября в МАОУ СОШ №3 г. Новый Уренгой состоялись педагогические мастерские по надпредметному курсу &lt;br&gt;«Мир деятельности»" title="С 28 октября по 31 октября в МАОУ СОШ №3 г. Новый Уренгой состоялись педагогические мастерские по надпредметному курсу &lt;br&gt;«Мир деятельности»"  />
+                                </div>
+                                <div class="new-content-block">
+																			<span class="orange-txt">05.11.2019</span>
+										<a href="/employees/news/ournews/57074/" >С 28 октября по 31 октября в МАОУ СОШ №3 г. Новый Уренгой состоялись педагогические мастерские по надпредметному курсу <br>«Мир деятельности»</a>
+                                    <div></div>
+                                </div>
+                            </div>
+
+<div style="display: none;">
+
+</div>
+
+
+<div class="tab-new-block">
+<a href="/employees/news/ournews/" style="color: #295AB2;">Все наши события</a>
+</div>
+<!--'end_frame_cache_jmonnO'-->            </div>
+            <div class="box">
+                <!-- to del --> 
+<!--'start_frame_cache_iJBuqa'-->
+                            <div class="tab-new-block">
+                            	<div class="new-img">
+                                	<img style="border:1px solid #6898ED" src="/upload/iblock/304/304c3ec91931c1b4c4d5a3434efb8a2f.jpg" width="54" height="72" alt="Вышел альбом наблюдений для детей 5 – 6 лет к программе &lt;br&gt;«Мир открытий»" title="Вышел альбом наблюдений для детей 5 – 6 лет к программе &lt;br&gt;«Мир открытий»"  />
+                                </div>
+                                <div class="new-content-block">
+																			<span class="orange-txt">09.01.2020</span>
+										<a href="/employees/news/novelty/57777/" >Вышел альбом наблюдений для детей 5 – 6 лет к программе <br>«Мир открытий»</a>
+                                    <div></div>
+                                </div>
+                            </div>
+
+<div style="display: none;">
+
+</div>
+
+
+
+                            <div class="tab-new-block">
+                            	<div class="new-img">
+                                	<img style="border:1px solid #6898ED" src="/upload/iblock/054/0546f26782f4dfe5f50d1692e9a1a06f.jpg" width="54" height="72" alt="Вышла новая серия пособий по развитию речи к программе &lt;br&gt;«Мир открытий»" title="Вышла новая серия пособий по развитию речи к программе &lt;br&gt;«Мир открытий»"  />
+                                </div>
+                                <div class="new-content-block">
+																			<span class="orange-txt">27.12.2019</span>
+										<a href="/employees/news/novelty/57769/" >Вышла новая серия пособий по развитию речи к программе <br>«Мир открытий»</a>
+                                    <div></div>
+                                </div>
+                            </div>
+
+<div style="display: none;">
+
+</div>
+
+
+
+                            <div class="tab-new-block">
+                            	<div class="new-img">
+                                	<img style="border:1px solid #6898ED" src="/upload/iblock/a08/a08a8c307b9ea5417ce5f138b102a121.jpg" width="46" height="72" alt="Календарное планирование для старшей группы  по программе «Мир открытий» (Бережнова О.В.):  в августе поступит в продажу" title="Календарное планирование для старшей группы  по программе «Мир открытий» (Бережнова О.В.):  в августе поступит в продажу"  />
+                                </div>
+                                <div class="new-content-block">
+																			<span class="orange-txt">21.08.2019</span>
+										<a href="/employees/news/actual/53789/" >Календарное планирование для старшей группы  по программе «Мир открытий» (Бережнова О.В.):  в августе поступит в продажу</a>
+                                    <div></div>
+                                </div>
+                            </div>
+
+<div style="display: none;">
+
+</div>
+
+
+
+                            <div class="tab-new-block">
+                            	<div class="new-img">
+                                	<img style="border:1px solid #6898ED" src="/upload/iblock/647/647c5bdfd66a160cfeb41910bcb52b98.jpg" width="51" height="72" alt="Парциальная программа математического развития «Игралочка»:  до 1 сентября поступит в продажу" title="Парциальная программа математического развития «Игралочка»:  до 1 сентября поступит в продажу"  />
+                                </div>
+                                <div class="new-content-block">
+																			<span class="orange-txt">21.08.2019</span>
+										<a href="/employees/news/actual/53787/" >Парциальная программа математического развития «Игралочка»:  до 1 сентября поступит в продажу</a>
+                                    <div></div>
+                                </div>
+                            </div>
+
+<div style="display: none;">
+
+</div>
+
+
+
+                            <div class="tab-new-block">
+                            	<div class="new-img">
+                                	<img style="border:1px solid #6898ED" src="/upload/iblock/ac2/ac232e14f2426fe2ab8460d31edf53f8.jpg" width="49" height="72" alt="Комплексная образовательная программа «Мир открытий» размещена в обновленном Навигаторе программ ДО" title="Комплексная образовательная программа «Мир открытий» размещена в обновленном Навигаторе программ ДО"  />
+                                </div>
+                                <div class="new-content-block">
+																			<span class="orange-txt">21.08.2019</span>
+										<a href="/employees/news/actual/53786/" >Комплексная образовательная программа «Мир открытий» размещена в обновленном Навигаторе программ ДО</a>
+                                    <div></div>
+                                </div>
+                            </div>
+
+<div style="display: none;">
+
+</div>
+
+
+
+                            <div class="tab-new-block">
+                            	<div class="new-img">
+                                	<img style="border:1px solid #6898ED" src="/upload/iblock/ac3/ac3aaec70f258981a5816b17796b2714.jpg" width="51" height="72" alt="Парциальная программа «Игралочка» размещена в обновленном Навигаторе программ ДО" title="Парциальная программа «Игралочка» размещена в обновленном Навигаторе программ ДО"  />
+                                </div>
+                                <div class="new-content-block">
+																			<span class="orange-txt">21.08.2019</span>
+										<a href="/employees/news/actual/53785/" >Парциальная программа «Игралочка» размещена в обновленном Навигаторе программ ДО</a>
+                                    <div></div>
+                                </div>
+                            </div>
+
+<div style="display: none;">
+
+</div>
+
+
+<div class="tab-new-block">
+<a href="/employees/news/novelty/" style="color: #295AB2;">Все новинки</a>
+</div>
+<!--'end_frame_cache_iJBuqa'-->            </div>
+            <div class="bottom-tab">
+            </div>
+        </div>
+        <div class="important-info" style="display: none;">
+            <div class="important-container">
+                <div class="znak">
+                </div>
+                <div class="important-content">
+                    <p style="font-size: 27px; font-weight: bold; text-align: center; color: #206aee;">
+                        Важная информация
+                    </p>
+                    <p style="text-align: center;">
+                        <a href="https://www.change.org/ru/петиции/дмитрий-викторович-ливанов-включите-учебники-по-математике-л-г-петерсон-1-4-классы-в-федеральный-перечень-2014-2015-года"
+                           target="_blank" style="color: red; font-size: 19px; font-weight: bold;">Подписать петицию в
+                            поддержку учебников Л.Г.Петерсон</a>
+                    </p>
+                    
+<!--<a id="bxid_863402" href="obrashenie.php" > 
+  <div style="font-size: 15px; padding-top: 12px;"> 
+    <p style="text-align: center; margin-bottom: 5px; font-size: 17px;"><b>Уважаемые коллеги и партнёры!</b></p>
+   
+    <p style="text-align: center; margin-bottom: 9px; font-size: 17px;"><b>Дорогие друзья и единомышленники!</b></p>
+   
+    <p style="text-align: center; margin-bottom: 9px; font-size: 17px;">Обращаемся к вам, поскольку сегодня мы стоим перед беспрецедентным вызовом, который возможно преодолеть только общими усилиями. Впервые за 25 лет нашей совместной работы <b>учебники по математике Л.Г. Петерсон для 1&ndash;4 классов начальной школы</b> могут не войти в федеральный перечень. Причина &ndash; отрицательное экспертное заключение Российской академии образования, несмотря на положительный ответ большинства экспертов (2 из 3 или 3 из 3) по всем критериям педагогической экспертизы.</p>
+   </div>
+ </a> 
+-->
+ 
+<ul style="margin-top: 0px;"> 
+<!--<img id="bxid_812638" class="rightimg" width="25" height="21" src="/mir-dejatelnosti/images/new1.png" style="position: absolute;margin-left: -25px;margin-top: -10px;"  />
+ 
+  <li style="padding-bottom: 10px;"><a id="bxid_943294" href="http://www.sch2000.ru/obrashenie_01_04.php" style="border-bottom: 2px solid;" > <b style="font-size: 17px; padding-bottom: 10px;">Оперативная информация</b></a></li>
+
+<li style="padding-bottom: 10px;"><a id="bxid_852470" href="http://www.sch2000.ru/presidentline.php" > <b style="font-size: 17px; padding-bottom: 10px;">Прямая линия Президента РФ</b></a></li>
+ -->
+ 	 <img id="bxid_263596" class="rightimg" width="25" height="21" src="/mir-dejatelnosti/images/new1.png" style="position: absolute;margin-left: -25px;margin-top: -2px;"  /> 
+  <li style="padding-bottom: 10px; text-decoration: underline;"><a id="bxid_349910" href="http://www.sch2000.ru/tmp/page/26_08_2014_2.php" > <b style="font-size: 17px; padding-bottom: 10px;">Правовая основа использования 
+        <div style="padding-left: 14px;">учебников Л.Г. Петерсон для НШ</div>
+       </b></a></li>
+ 	 	 
+  <li style="padding-bottom: 10px;"><a id="bxid_349910" href="http://www.sch2000.ru/important_information/index.php" > <b style="font-size: 17px; padding-bottom: 10px;">Работа по учебникам Л.Г.Петерсон &quot;Учусь 
+        <div style="padding-left: 14px;">учиться&quot;</div>
+       </b></a></li>
+ 	 
+  <li style="padding-bottom: 10px;"><a id="bxid_349910" href="http://www.sch2000.ru/zakaz.php" > <b style="font-size: 17px; padding-bottom: 10px;">Заказ учебников Л.Г. Петерсон &quot;Учусь 
+        <div style="padding-left: 14px;">учиться&quot;</div>
+       </b></a></li>
+ 
+  <li style="padding-bottom: 10px;"><a id="bxid_349910" href="http://www.sch2000.ru/obrashenie.php" > <b style="font-size: 17px; padding-bottom: 10px;">Информационное письмо коллегам и 
+        <div style="padding-left: 14px;">единомышленникам</div>
+       </b></a></li>
+ 
+  <li style="padding-bottom: 10px;"><a id="bxid_349910" href="/obraschenie/material.php" ><b style="font-size: 17px;">Материалы по включению учебников 
+        <div style="padding-left: 14px;">Л.Г.Петерсон в Федеральный перечень 
+          <div>2014-2015 года</div>
+         </div>
+       </b></a></li>
+ <img id="bxid_263596" class="rightimg" width="25" height="21" src="/mir-dejatelnosti/images/new1.png" style="position: absolute;margin-left: -25px;margin-top: -2px;"  /> 
+  <li style="padding-bottom: 10px;"><a id="bxid_349910" href="/smi.php" ><b style="font-size: 17px;">Публикации в СМИ 
+        <div style="padding-left: 12px;">(<i>раздел постоянно обновляется</i>)</div>
+       </b> </a></li>
+ 
+
+ 
+<!--  <li><a id="bxid_498906" href="http://sch2000.ru/important/fgos2.php" title="Наши предложения по реализации ФГОС II поколения " ><font color="#3366ff">Наши предложения по реализации ФГОС II поколения</font></a> | <font color="#3366FF" style="color: rgb(51, 102, 255);"> </font><b><a id="bxid_586049" href="/feedback.php" title="Анкета обратной связи" ><font color="#800000">Анкета</font></a></b></li>
+ 
+<li style="padding-bottom: 10px;"><a id="bxid_926815" href="/" ><b style="font-size: 17px;">Письма обращения и поддержки</b></a></li>-->
+ </ul>
+ 
+<!--
+<ul> 
+  <li><a id="bxid_645383" href="/important/var-nach-sch.php" ><b><font color="blue">Варианты использования учебника, рабочей тетради и учебника на печатной основе Л.Г. Петерсон.</font></b></a></li>
+ 
+  <br />
+ 
+  <li><img id="bxid_399877" class="rightimg" width="25" height="21" src="/mir-dejatelnosti/images/new1.png"  /><a id="bxid_113251" href="/employees/news/ournews/9135/" ><b>Сертификат Центра СДП &laquo;Школа 2000&hellip;&raquo; за публикацию материалов на сайте</b></a></li>
+ 
+  <li><img id="bxid_977226" class="rightimg" width="25" height="21" src="/mir-dejatelnosti/images/new1.png"  /><a id="bxid_610595" href="/employees/news/ournews/9108/" ><b>Учебник &laquo;Математика&raquo; 3 класс в трех частях (ФГОС) (ПЕРЕПЛЕТ) поступил в продажу</b></a></li>
+ 
+  <li><img id="bxid_827476" class="rightimg" width="25" height="21" src="/mir-dejatelnosti/images/new1.png"  /><a id="bxid_168032" href="/training/otkritnabor.php/" ><b> Открыт набор в группу дистанционного обучения</b></a></li>
+ 
+  <li><img id="bxid_611163" class="rightimg" width="25" height="21" src="/mir-dejatelnosti/images/new1.png"  /><a id="bxid_578509" href="/catalog/detail.php?ELEMENT_ID=8941" ><b>Рабочие тетради &laquo;Игралочка &ndash; ступенька к школе&raquo;, части 4-1 и 4-2 уже в продаже</b></a></li>
+ 
+  <li><img id="bxid_962481" class="rightimg" width="25" height="21" src="/mir-dejatelnosti/images/new1.png"  /><a id="bxid_95576" href="/catalog/detail.php?ELEMENT_ID=8940" ><b>Сценарии уроков к учебнику &quot;Математика&quot; 2 класс, Часть 3</b></a></li>
+ 
+  <li><img id="bxid_542542" class="rightimg" width="25" height="21" src="/mir-dejatelnosti/images/new1.png"  /><b><a id="bxid_435098" href="/employees/news/ournews/8893/" >Вышло методическое пособие &laquo;Интегрированное планирование образовательной деятельности в детском саду&raquo; для второй младшей группы (II-III кварталы)</a></b></li>
+ 
+  <li><img id="bxid_129270" class="rightimg" width="25" height="21" src="/mir-dejatelnosti/images/new1.png"  /><a id="bxid_409976" href="/employees/news/ournews/8529/index.php&SECTION_CODE=ournews&ELEMENT_ID=8529" ><b>Сценарии уроков к учебнику &quot;Математика&quot; 2 класс, Часть 2</b></a></li>
+ 
+  <li><img id="bxid_68136" class="rightimg" width="25" height="21" src="/mir-dejatelnosti/images/new1.png"  /><a id="bxid_560586" href="/employees/news/ournews/8619/" ><b>Учебно-методическое пособие из серии &laquo;Повышение профессиональной компетентности педагога дошкольного образования&raquo; (выпуск 5) в рамках проекта Педагогического общества России.</b></a></li>
+ 
+  <li><img id="bxid_984546" class="rightimg" width="25" height="21" src="/mir-dejatelnosti/images/new1.png"  /><a id="bxid_545012" href="/important/ut2.php" ><b>&laquo;Учебник + рабочая тетрадь&raquo; для 2 класса</b> уже в продаже!</a></li>
+ 
+  <li><img id="bxid_570434" class="rightimg" width="25" height="21" src="/mir-dejatelnosti/images/new1.png"  /><a id="bxid_907840" href="/important/mid-3-anons.php" ><b>Курс &laquo;Мир деятельности&raquo; для 3-его класса</b> <i>уже в продаже!</i></a></li>
+ 
+  <li><img id="bxid_546589" class="rightimg" width="25" height="21" src="/mir-dejatelnosti/images/new1.png"  /><a id="bxid_55891" href="/important/tem-plan-dou.php" ><b>&laquo;Планирование в детском саду&raquo; </b>подробнее &gt;&gt;</a></li>
+ </ul>
+ <b> <img id="bxid_908276" class="bxed-hr" src="/bitrix/images/fileman/htmledit2/break_page.gif"  /> </b> 
+<ul> 
+  <li><a id="bxid_306077" href="/important/tezaurus.php" title="Разработка Словаря-тезауруса системно-деятельностной педагогики" ><font color="#3366ff">Разработка тезауруса системно-деятельностной педагогики</font></a></li>
+ 
+  <li><a id="bxid_943240" href="/important/matematika-5.php" title="Об использовании учебников математики для 5-6 классов основной школы" ><font color="#3366ff">Об использовании учебников математики для 5-6 классов</font></a></li>
+ 
+  <li><a id="bxid_860607" href="/documents_letters/detail.php?ID=4832" ><font color="#3366ff">&laquo;Об использовании учебников Л.Г. Петерсон с другими учебниками из Федерального перечня&raquo;</font></a></li>
+ 
+  
+ </ul>-->
+                </div>
+            </div>
+        </div>
+        <br>
+        <style>
+            .timg {
+                text-align: center;
+                padding-top: 10px;
+            }
+
+            .timg img {
+                width: 130px;
+                height: 100px;
+                border-radius: 15px;
+            }
+
+            .otz .ask-block {
+                width: 522px;
+            }
+
+            .otz .blue-border-block-head {
+                background: rgb(43, 112, 201);
+                width: 522px;
+                border-radius: 5px 5px 0 0;
+            }
+
+            .otz .blue-border-block {
+                width: 500px;
+                padding: 5px 10px;
+                margin: 0;
+                border: 1px solid #6898ed;
+                border-top: none;
+                border-radius: 0 0 10px 10px;
+            }
+
+            .otz .blue-border-block-bottom {
+                display: none;
+            }
+        </style>
+        <div class="otz">
+            <div class="ask-block">
+                <div class="blue-border-block-head shadow" style="background: #ff9c43;">
+                    <a href="#" class="ask-link">БУДЬТЕ В КУРСЕ </a>
+                </div>
+                <br>
+                <a href="https://www.sch2000.ru/employees/news/actual/50495/"
+                   style="font-weight: bold;font-size: 13px;">Минпросвещения России: учебники Л.Г. Петерсон в
+                    Федеральном перечне</a> <br>
+                <br>
+                <!--			<a href="https://files.sch2000.ru/pdf/news/2018/Письмо_об_использовании_УМК_Петерсон-2018_24.05.2018_.pdf" style="font-weight: bold;font-size: 13px;">Письмо об использовании УМК Петерсон-2018</a><br><br>-->
+                <a href="https://files.sch2000.ru/mailing/11.12.2018/Изд.БИНОМ.Лаборатория_знаний_Пресс-релиз_10.12.2018.pdf"
+                   style="font-weight: bold;font-size: 13px;">Пресс-релиз издательства «БИНОМ. Лаборатория знаний».</a>
+                <div style="padding: 5px 0">
+                </div>
+                <!--			<a href="https://files.sch2000.ru/pdf/news/doc00994320170406123308.pdf" style="font-weight: bold;font-size: 13px;">Письмо об использовании учебников Л.Г. Петерсон с УМК "Перспектива" <br> АО "Издательство "Просвещение"</a><br><br>-->
+                <a href="https://www.sch2000.ru/employees/nachinajuwim-uchiteljam/index.php"
+                   style="font-weight: bold;font-size: 13px;">Педагогам, начинающим работать по учебникам математики
+                    Л.Г. Петерсон</a> <br>
+                <br>
+                <a href="https://files.sch2000.ru/pdf/tmp/Письмо_Просвещение_об_УМК_Л.Г._Петерсон.pdf"
+                   style="font-weight: bold;font-size: 13px;">Издательство «Просвещение» Письмо об использовании УМК
+                    Л.Г. Петерсон</a> <br>
+                <br>
+                <div class="blue-border-block-head shadow" style="background: #ff9c43; margin-bottom: 15px;">
+                    <a href="https://petersonbooks.ru/catalog/Новинки" class="ask-link">НАШИ НОВИНКИ </a>
+                </div>
+                <link rel="stylesheet"
+                      type="text/css"
+                      href="/css/jcarousel.style.css"/>
+                <script type="text/javascript"
+                        src="/js/jquery-1.5.min.js"></script>
+                <script type="text/javascript"
+                        src="/js/jquery.jcarousel.js"></script>
+                <script type="text/javascript">
+                    jQuery(document).ready(function () {
+                        // Initialise the first and second carousel by class selector.
+                        // Note that they use both the same configuration options (none in this case).
+                        jQuery('.d-carousel .carousel').jcarousel({
+                            scroll: 1
+                        });
+                    });
+                </script>                 <div class="blue-border-block-head shadow" style="background: #ff9c43;">
+                    <a href="/responses/" class="ask-link">ОТЗЫВЫ</a>
+                </div>
+                <div>
+                    <style>
+                        .carusel-review {
+                            height: 140px !important;
+                        }
+
+                        .carusel-review li {
+                            width: 458px !important;
+                            height: auto !important;
+                            box-shadow: none !important;
+                            margin: 0 !important;
+                            padding: 10px 2px !important;
+                            background: none !important;
+                        }
+
+                        .d-carousel .jcarousel-container-horizontal {
+                            height: auto !important;
+                        }
+
+                        .d-carousel .jcarousel-prev, .d-carousel .jcarousel-next {
+                            top: 50px;
+                        }
+                    </style>
+                    <div class="d-carousel" style="height: 150px">
+                        <ul class="carousel carusel-review">
+                                                            <li>
+                                     <a
+                                            href="/responses/index.php?ELEMENT_ID=10742" style="color:#3D63C0;"><b>
+                                            Отзыв от посетителя </b></a>
+                                    <p class="new-description">
+                                        <b><i>Я познакомилась с учебниками Людмилы Георгиевны Петерсон около 10 лет тому назад. Они попали ко мне в руки случайно. Один из родителей ученика нашей школы привёз их сюда, в Канаду. Это были учебники для 1-х, 2-х и 3-х классов. </i></b>
+                                    </p>
+                                </li>
+                                                                <li>
+                                     <a
+                                            href="/responses/index.php?ELEMENT_ID=58648" style="color:#3D63C0;"><b>
+                                            Отзыв от участника </b></a>
+                                    <p class="new-description">
+                                        <b><i><b>Отзыв о Международной обучающей математической олимпиаде "Учусь учиться"&nbsp;Л.Г. Петерсон:&nbsp;</b>Благодарю Вас за интересные задачи с возможностью их решать не стандартными способами!</i></b>
+                                    </p>
+                                </li>
+                                                                <li>
+                                     <a
+                                            href="/responses/index.php?ELEMENT_ID=12139" style="color:#3D63C0;"><b>
+                                            Отзыв от посетителя </b></a>
+                                    <p class="new-description">
+                                        <b><i>Здравствуйте! С этого учебного года решила ввести ваш курс во внеурочную деятельность в своей школе, предложила и другим учителям, работающим в первых классах. Всем очень нравится. Также на уроках используем работу с эталонами. Спасибо вам большое! Я надеюсь, что этот курс понравится всем учителям, и в дальнейшем мы продолжим работу по нему. Татьяна. </i></b>
+                                    </p>
+                                </li>
+                                                                <li>
+                                     <a
+                                            href="/responses/index.php?ELEMENT_ID=10727" style="color:#3D63C0;"><b>
+                                            Отзыв от посетителя </b></a>
+                                    <p class="new-description">
+                                        <b><i>Я мама двоих сыновей. Старшему 21 год, студент МГТУ им. Баумана. Начальное математическое образование получал по учебникам Л.Г. Петерсон. Второй сын ученик первого класса, учится также по учебникам Людмилы Георгиевны. Считаю эту программу лучшей, живой, интересной, доступной для детей разного уровня подготовки, не требующей заучивания и зубрёжки. Все логично. Я за математику с Л.Г. ПЕТЕРСОН.</i></b>
+                                    </p>
+                                </li>
+                                                                <li>
+                                     <a
+                                            href="/responses/index.php?ELEMENT_ID=58662" style="color:#3D63C0;"><b>
+                                            Отзыв от участника </b></a>
+                                    <p class="new-description">
+                                        <b><i><b>Отзыв о Международной обучающей математической олимпиаде "Учусь учиться"&nbsp;Л.Г. Петерсон:&nbsp;</b>Спасибо огромное авторам за такие нестандартные, непохожие на другие задачи. Мои ребята выполняли их с большим удовольствием и азартом. Действительно, детьми было предложено много решений данных задач. И те, кто принял участие в ТЕСТ-ДРАЙВЕ олимпиады, я думаю, получили большое удовольствие от выполнения работы, от самого процесса размышления над задачами. Время, конечно, потребовалось всем разное, кому-то от 15 до 30 минут, кому-то более 30 минут, а кто-то уложился и менее 15 минут. Участвовали в ТЕСТ-ДРАЙВЕ 22 ребенка</i></b>
+                                    </p>
+                                </li>
+                                                                <li>
+                                     <a
+                                            href="/responses/index.php?ELEMENT_ID=10732" style="color:#3D63C0;"><b>
+                                            Отзыв от посетителя </b></a>
+                                    <p class="new-description">
+                                        <b><i>Изучая математику Л.Г.Петерсон, дети, родители и учитель полюбили науку МАТЕМАТИКУ. Урок математики дает положительный заряд и на другие предметы. Дети с радостью идут на урок. Мудрая программа!</i></b>
+                                    </p>
+                                </li>
+                                                                <li>
+                                     <a
+                                            href="/responses/index.php?ELEMENT_ID=8543" style="color:#3D63C0;"><b>
+                                            Отзыв от посетителя </b></a>
+                                    <p class="new-description">
+                                        <b><i>Дети учатся думать, рассуждать, доказывать свое мнение,развивать логику.</i></b>
+                                    </p>
+                                </li>
+                                                                <li>
+                                     <a
+                                            href="/responses/index.php?ELEMENT_ID=10747" style="color:#3D63C0;"><b>
+                                            Отзыв от посетителя </b></a>
+                                    <p class="new-description">
+                                        <b><i>Я работаю по учебникам Л.Г.Петерсон с 1998 года и могу сказать, что это замечательные учебники. По ним выучилось не одно поколение детей. Учиться очень интересно, задания подобраны так, что учащиеся легко осваивают новый материал. Даже самые слабые дети показывают хорошие результаты, т.к. во все темы включены разноуровневые задания. Набираю в этом году 1 класс и родители уже просят взять именно эти учебники, а не другие, т.к. знают, что результат работы точно будет на высоком уровне.</i></b>
+                                    </p>
+                                </li>
+                                                                <li>
+                                     <a
+                                            href="/responses/index.php?ELEMENT_ID=9382" style="color:#3D63C0;"><b>
+                                            Отзыв от посетителя </b></a>
+                                    <p class="new-description">
+                                        <b><i>&quot;У меня 4 класс.В марте месяце задала детям вопрос: &quot;Ваш любимый предмет?&quot; 70 процентов детей ответили- МАТЕМАТИКА. Спасибо за вашу работу!&quot;</i></b>
+                                    </p>
+                                </li>
+                                                                <li>
+                                     <a
+                                            href="/responses/index.php?ELEMENT_ID=47217" style="color:#3D63C0;"><b>
+                                            Отзыв от Учитель математики ГБОУ Школы 1557  г. Москвы Лотова Н.С. </b></a>
+                                    <p class="new-description">
+                                        <b><i>Уважаемая Людмила Георгиевна!&nbsp; Очень хочется поделиться с Вами хорошей новостью: ученики нашей школы приняли участие в престижном тестировании в рамках проекта Центра педагогического мастерства «Математическая вертикаль» &nbsp;г. Москвы и показали высокий результат. Причину того, что 85 учеников нашей школы успешно прошли тестирование, я вижу в том, что большая часть из них училась по Вашим учебникам (Дорофеев Г.В., Петерсон&nbsp; Л.Г. «Математика 5-6 класс»).</i></b>
+                                    </p>
+                                </li>
+                                                                <li>
+                                     <a
+                                            href="/responses/index.php?ELEMENT_ID=58458" style="color:#3D63C0;"><b>
+                                            Отзыв от Скорова Л.В. </b></a>
+                                    <p class="new-description">
+                                        <b><i><b>Отзыв о Всероссийском Фестивале "Открываем двери школы: система "Учусь учиться" Л.Г. Петерсон":</b> Увидела что работает принцип" не школьник для математики, а математика для школьника". Ребята не только и не столько осваивают школьную программу, сколько развивают мышление. Первоклассники учатся преодолевать трудности, радуются своим открытиям. Желаю учителю и ребята дальнейших успехов.</i></b>
+                                    </p>
+                                </li>
+                                                                <li>
+                                     <a
+                                            href="/responses/index.php?ELEMENT_ID=10744" style="color:#3D63C0;"><b>
+                                            Отзыв от посетителя </b></a>
+                                    <p class="new-description">
+                                        <b><i>Учебники Л.Г. Петерсон - единственные самодостаточные учебные пособия, способные интеллектуально удовлетворить любого учителя, ребенка и родителя. Они уникальны! Не мыслим себе работу по другим учебникам...</i></b>
+                                    </p>
+                                </li>
+                                                                <li>
+                                     <a
+                                            href="/responses/index.php?ELEMENT_ID=8549" style="color:#3D63C0;"><b>
+                                            Отзыв от посетителя </b></a>
+                                    <p class="new-description">
+                                        <b><i>Спасибо за замечательный учебник для детей и родителей! Да! Именно родителей, т.к. обучение детей по данной программе предусматривает в первую очередь обучение родителей.</i></b>
+                                    </p>
+                                </li>
+                                                                <li>
+                                     <a
+                                            href="/responses/index.php?ELEMENT_ID=10728" style="color:#3D63C0;"><b>
+                                            Отзыв от посетителя </b></a>
+                                    <p class="new-description">
+                                        <b><i>Будучи в начальной школе я обучались по этим учебникам. Благодаря им, изучение математики было увлекательным и разнообразным. Этот учебник помогает развивать общий интеллект ребёнка, в том числе используя игровые приёмы, не утомляя его сухими правилами и примерами. Выражаю огромную благодарность автору, что при составлении учебников учитывается не только программа, которую должен освоить ребёнок по предмету, но и надпредметные знания, а также психологические особенности учащихся 1-4 классов. Математика была одним из моих любимых предметов, и я знаю, кому за это сказать спасибо!</i></b>
+                                    </p>
+                                </li>
+                                                                <li>
+                                     <a
+                                            href="/responses/index.php?ELEMENT_ID=58669" style="color:#3D63C0;"><b>
+                                            Отзыв от участника </b></a>
+                                    <p class="new-description">
+                                        <b><i><b>Отзыв о Международной обучающей математической олимпиаде "Учусь учиться"&nbsp;Л.Г. Петерсон:&nbsp;</b>Все понравилось, хоть я набрал только 5 баллов. Проводите еще!</i></b>
+                                    </p>
+                                </li>
+                                                                <li>
+                                     <a
+                                            href="/responses/index.php?ELEMENT_ID=58658" style="color:#3D63C0;"><b>
+                                            Отзыв от участника </b></a>
+                                    <p class="new-description">
+                                        <b><i><b>Отзыв о Международной обучающей математической олимпиаде "Учусь учиться"&nbsp;Л.Г. Петерсон:&nbsp;</b>Очень интересно смотреть как ребенок делает проект из сахарных кубиков и разбирает все поэтапно, по рядам. Обязательно будем участвовать. Спасибо !!!</i></b>
+                                    </p>
+                                </li>
+                                                                <li>
+                                     <a
+                                            href="/responses/index.php?ELEMENT_ID=8551" style="color:#3D63C0;"><b>
+                                            Отзыв от посетителя </b></a>
+                                    <p class="new-description">
+                                        <b><i>Учебник-хорош, профессионально подобран материал,система самостоятельных и контрольных работ продумана, но есть в моем 1 классе проблема с выполнением этих работ: некоторые дети не могут самостоятельно прочитать задания, которые очень объемные. </i></b>
+                                    </p>
+                                </li>
+                                                                <li>
+                                     <a
+                                            href="/responses/index.php?ELEMENT_ID=11436" style="color:#3D63C0;"><b>
+                                            Отзыв от посетителя </b></a>
+                                    <p class="new-description">
+                                        <b><i>Добрый день! Не нашла на сайте формы обращения именно к Людмиле Георгиевне. Если можно передайте ей огромное спасибо от нас, родителей 4-летнего мальчика Лёши: мы начали с самых первых, доступных по возрасту учебных пособий. Сейчас работаем по "Ступенькам" для 5-6 лет. По заключению психолога в детском саду мы уже готовы к школе :)) . Спасибо Людмиле Георгиевне за доступные и понятные пособия. В школе (параллельно программе) будем дома продолжать заниматься по вашим тетрадям и учебникам (другие пособия других авторов или слишком легкие для нас, или написаны "обрывками" по несвязанным друг с другом темам). Еще раз спасибо за труд Людмиле Георгиевне и всему коллективу, выпускающему в свет такие замечательные пособия для детей.
+Ольга. </i></b>
+                                    </p>
+                                </li>
+                                                                <li>
+                                     <a
+                                            href="/responses/index.php?ELEMENT_ID=22728" style="color:#3D63C0;"><b>
+                                            Отзыв от посетителя </b></a>
+                                    <p class="new-description">
+                                        <b><i>Поздравляем всех женщин Вашего Центра с праздником 8 Марта! Желаем здоровья, семейного счастья и творческих успехов в Вашей замечательной работе! Вместе со своими третьеклассниками занимаюсь по учебникам-тетрадям по математике Л.Г. Петерсон. Мы все в восторге! Вот такие строчки поздравления к 8 Марта написали мне мои ученики (отрывок): Вы для нас открыли новый мир, с каждым днём становимся умнее, Л.Г. Петерсон навеки наш кумир, а от уравнений все балдеем! (надеемся Ваша математика останется в нашей школе!). С уважением, Елена</i></b>
+                                    </p>
+                                </li>
+                                                                <li>
+                                     <a
+                                            href="/responses/index.php?ELEMENT_ID=58652" style="color:#3D63C0;"><b>
+                                            Отзыв от участника </b></a>
+                                    <p class="new-description">
+                                        <b><i><b>Отзыв о Международной обучающей математической олимпиаде "Учусь учиться"&nbsp;Л.Г. Петерсон:&nbsp;</b>Спасибо за интересные задачи и возможность принять участие бесплатно!</i></b>
+                                    </p>
+                                </li>
+                                                                <li>
+                                     <a
+                                            href="/responses/index.php?ELEMENT_ID=8934" style="color:#3D63C0;"><b>
+                                            Отзыв от посетителя </b></a>
+                                    <p class="new-description">
+                                        <b><i>«Мир деятельности» - это просто здорово! Великая помощь моему ребенку. Дочь не боится затруднений, учится дружно работать, строить отношения с окружающими, работать в одной команде. Всё это пригодится ей не только в школе, но и в повседневной жизни.</i></b>
+                                    </p>
+                                </li>
+                                                                <li>
+                                     <a
+                                            href="/responses/index.php?ELEMENT_ID=58677" style="color:#3D63C0;"><b>
+                                            Отзыв от участника </b></a>
+                                    <p class="new-description">
+                                        <b><i><b>Отзыв о Международной обучающей математической олимпиаде "Учусь учиться"&nbsp;Л.Г. Петерсон:&nbsp;</b>Очень интересные и необычные задачи, придумайте, пожалуйста, сказочную задачу про шоколадное царство</i></b>
+                                    </p>
+                                </li>
+                                                                <li>
+                                     <a
+                                            href="/responses/index.php?ELEMENT_ID=8541" style="color:#3D63C0;"><b>
+                                            Отзыв от посетителя </b></a>
+                                    <p class="new-description">
+                                        <b><i>Моя дочь учится по данному учебнику. И мне и ей этот учебник очень нравится.</i></b>
+                                    </p>
+                                </li>
+                                                                <li>
+                                     <a
+                                            href="/responses/index.php?ELEMENT_ID=58678" style="color:#3D63C0;"><b>
+                                            Отзыв от участника </b></a>
+                                    <p class="new-description">
+                                        <b><i><b>Отзыв о Международной обучающей математической олимпиаде "Учусь учиться"&nbsp;Л.Г. Петерсон:&nbsp;</b>Хотелось бы больше задач по «развёрткам» фигур и их разборов в дальнейшем</i></b>
+                                    </p>
+                                </li>
+                                                                <li>
+                                     <a
+                                            href="/responses/index.php?ELEMENT_ID=12140" style="color:#3D63C0;"><b>
+                                            Отзыв от посетителя </b></a>
+                                    <p class="new-description">
+                                        <b><i>Прослушала сегодня первый семинар, посвященной &quot;Школе 2000&quot;, который провели в нашей гимназии. Очень многое из того, что узнала на занятии очень заинтересовало &#40;я по натуре консерватор и меня обычно пугает большое количество новой информации, но в этом случае сразу захотелось поближе познакомиться с деятельностным подходом.&#41; А еще хочется опробовать эти идеи на уроке! Елена. </i></b>
+                                    </p>
+                                </li>
+                                                                <li>
+                                     <a
+                                            href="/responses/index.php?ELEMENT_ID=10725" style="color:#3D63C0;"><b>
+                                            Отзыв от посетителя </b></a>
+                                    <p class="new-description">
+                                        <b><i>С 1990 года наша школа &#40;983 г. Москвы&#41; работала рука об руку по руководством Людмилы Георгиевны Петерсон, её профессиональной команды методистов по учебникам математики, затем пошаговое освоение технологии деятельностного метода, система работы наших учителей математики, физики, учителей начальных классов- МЫ выросли профессионально со &quot;Школой 2000...&quot;, мы получили звания &quot;Почётный учитель РФ&quot;, гранты Москвы, гранты округа в инновационной деятельности - всё это неразрывно связано с учебным материалом, введённым Людмилой Георгиевной в уроки начальной школы и средней школы, математика повышенного уровня в старшей школе, возможность выхода нашей школы на математические профили обучения.</i></b>
+                                    </p>
+                                </li>
+                                                                <li>
+                                     <a
+                                            href="/responses/index.php?ELEMENT_ID=10739" style="color:#3D63C0;"><b>
+                                            Отзыв от посетителя </b></a>
+                                    <p class="new-description">
+                                        <b><i>Это лучшие учебники по математике для младшей школы! У меня трое детей и со всеми мы занимались математикой именно по этим учебникам. Учебники Л.Г. Петерсон пробуждают интерес к математике и дают прочные знания &#40;а также основу для дальнейшего занятия математикой&#41;. Я возила этот учебник в Германию, пока младшие там учились, так как ничего подобного &#40;в качестве учебника для младших классов&#41; в Германии не было.</i></b>
+                                    </p>
+                                </li>
+                                                                <li>
+                                     <a
+                                            href="/responses/index.php?ELEMENT_ID=8936" style="color:#3D63C0;"><b>
+                                            Отзыв от посетителя </b></a>
+                                    <p class="new-description">
+                                        <b><i>«МИД» актуальный, современный курс, который позволяет ребенку применять знания в школе и дома. Ребенок учится оценивать свои знания, ставить цели и планировать свою работу, что в дальнейшем пригодится не только в учебной деятельности, но и в жизни. </i></b>
+                                    </p>
+                                </li>
+                                                                <li>
+                                     <a
+                                            href="/responses/index.php?ELEMENT_ID=8553" style="color:#3D63C0;"><b>
+                                            Отзыв от посетителя </b></a>
+                                    <p class="new-description">
+                                        <b><i>Учебники математики Л.Г.Петерсон - лучшие учебники для начальной школы.</i></b>
+                                    </p>
+                                </li>
+                                                                <li>
+                                     <a
+                                            href="/responses/index.php?ELEMENT_ID=10737" style="color:#3D63C0;"><b>
+                                            Отзыв от посетителя </b></a>
+                                    <p class="new-description">
+                                        <b><i>Лучшей подачи материала невозможно придумать. Отличные игровые задачи, закрепляющие сложные математические механизмы. Мы получаем удовольствие, когда решаем такие задачи и примеры.</i></b>
+                                    </p>
+                                </li>
+                                                                <li>
+                                     <a
+                                            href="/responses/index.php?ELEMENT_ID=10359" style="color:#3D63C0;"><b>
+                                            Отзыв от посетителя </b></a>
+                                    <p class="new-description">
+                                        <b><i>17 лет совместной плодотворной работы с детьми от 3 до 10 лет.. Программа просто класс! Спасибо за методику, за эталоны, за надпредметный курс &quot;Мир деятельности&quot;. Дети и родители очень довольны. Продолжаем работать с большим энтузиазмом. Спасибо всему творческому коллективу. Успехов!!! &#40;Прогимназия &quot;Эрудит&quot; г. Владикавказ&#41;</i></b>
+                                    </p>
+                                </li>
+                                                                <li>
+                                     <a
+                                            href="/responses/index.php?ELEMENT_ID=10733" style="color:#3D63C0;"><b>
+                                            Отзыв от посетителя </b></a>
+                                    <p class="new-description">
+                                        <b><i>Мой ребенок второй год в школе занимается по этому учебнику. Считаю систему Л.Г. Петерсон просто гениальной! Она учит ребенка мыслить логически и нестандартно.</i></b>
+                                    </p>
+                                </li>
+                                                                <li>
+                                     <a
+                                            href="/responses/index.php?ELEMENT_ID=58668" style="color:#3D63C0;"><b>
+                                            Отзыв от участника </b></a>
+                                    <p class="new-description">
+                                        <b><i><b>Отзыв о Международной обучающей математической олимпиаде "Учусь учиться"&nbsp;Л.Г. Петерсон:&nbsp;</b>Олимпиада понравилась, заставляет пространственно мыслить и просчитывать разные варианты решений и проверять их жизнеспособность</i></b>
+                                    </p>
+                                </li>
+                                                                <li>
+                                     <a
+                                            href="/responses/index.php?ELEMENT_ID=11983" style="color:#3D63C0;"><b>
+                                            Отзыв от посетителя </b></a>
+                                    <p class="new-description">
+                                        <b><i>Уважаемые коллеги! Очень хочется поделиться с Вами хорошей новостью. Наши учителя старшей школы, наконец-то, увидели и поняли, какое огромное значение имеет работа по деятельностному методу Людмилы Георгиевны. И вывод они этот сделали благодаря моим пятиклашкам. Практически все учителя отмечают, что это живые дети, которые активно включаются в работу, рассуждают, доказывают. Как сказала одна учительница: &quot;Они &quot;на голову выше&quot; учащихся остальных пятых классов. С ними очень приятно работать, т.к. есть отдача&quot;. Для меня самое приятное, что они вслух признали, что деятельностный метод, несомненно, имеет &quot;хорошие плоды&quot;. Так что результат работы Вашего центра и учителей, использующих деятельностную технологию, - неоспорим. Огромное Вам спасибо за помощь, поддержку и спасибо всему Вашему коллективу за такие ценные идеи!</i></b>
+                                    </p>
+                                </li>
+                                                                <li>
+                                     <a
+                                            href="/responses/index.php?ELEMENT_ID=14206" style="color:#3D63C0;"><b>
+                                            Отзыв от слушателей регионального научно-практического семинара </b></a>
+                                    <p class="new-description">
+                                        <b><i>Слушатели регионального научно-практического семинара благодарят за помощь в проведении методического семинара для учителей начальных школ по теме тема:&quot;Непрерывный курс математики &quot;Учусь учиться&quot; Л.Г.Петерсон в контексте реализации концепции развития математического образования &#40;печатная и электронная форма учебника&#41;&quot;. Благодарим Синицыну В.В. за содержательные, интересные, эффективные курсы. Желаем везения, творческих успехов!</i></b>
+                                    </p>
+                                </li>
+                                                                <li>
+                                     <a
+                                            href="/responses/index.php?ELEMENT_ID=58649" style="color:#3D63C0;"><b>
+                                            Отзыв от участника </b></a>
+                                    <p class="new-description">
+                                        <b><i><b>Отзыв о Международной обучающей математической олимпиаде "Учусь учиться"&nbsp;Л.Г. Петерсон:&nbsp;</b>Хочу сказать спасибо!!! Очень понравились задания. Тренировка мозга, логики и внимательности!!!</i></b>
+                                    </p>
+                                </li>
+                                                                <li>
+                                     <a
+                                            href="/responses/index.php?ELEMENT_ID=8555" style="color:#3D63C0;"><b>
+                                            Отзыв от посетителя </b></a>
+                                    <p class="new-description">
+                                        <b><i>Содержание учебника научно, доступно. Носит исследовательский характер.<br />
+</i></b>
+                                    </p>
+                                </li>
+                                                                <li>
+                                     <a
+                                            href="/responses/index.php?ELEMENT_ID=8545" style="color:#3D63C0;"><b>
+                                            Отзыв от посетителя </b></a>
+                                    <p class="new-description">
+                                        <b><i>Замечательный учебник! Работать по нём - одно удовольствие. </i></b>
+                                    </p>
+                                </li>
+                                                                <li>
+                                     <a
+                                            href="/responses/index.php?ELEMENT_ID=10734" style="color:#3D63C0;"><b>
+                                            Отзыв от посетителя </b></a>
+                                    <p class="new-description">
+                                        <b><i>Это самая передовая образовательная программа, лучше других соответствующая запросам современности! Я знаю, какие результаты она даёт, и не готова отказываться от них!</i></b>
+                                    </p>
+                                </li>
+                                                                <li>
+                                     <a
+                                            href="/responses/index.php?ELEMENT_ID=47487" style="color:#3D63C0;"><b>
+                                            Отзыв от Елизавета Гусева </b></a>
+                                    <p class="new-description">
+                                        <b><i>Добрый день! Очень ждём возвращения программы Петерсон Л.Г. в Федеральный перечень учебников. Наши дети достойны учиться по наилучшей программе в стране. Благополучия и процветания Вам!</i></b>
+                                    </p>
+                                </li>
+                                                                <li>
+                                     <a
+                                            href="/responses/index.php?ELEMENT_ID=58655" style="color:#3D63C0;"><b>
+                                            Отзыв от участника </b></a>
+                                    <p class="new-description">
+                                        <b><i><b>Отзыв о Международной обучающей математической олимпиаде "Учусь учиться"&nbsp;Л.Г. Петерсон:&nbsp;</b>Я благодарю автора за подаренный мне увлекательный творческий процесс, за возможность научиться чему-то новому</i></b>
+                                    </p>
+                                </li>
+                                                                <li>
+                                     <a
+                                            href="/responses/index.php?ELEMENT_ID=10726" style="color:#3D63C0;"><b>
+                                            Отзыв от посетителя </b></a>
+                                    <p class="new-description">
+                                        <b><i>С 2007 года работаем по учебникам Л.Г. Петерсон, благодаря ДСДМ &quot;Школа 2000... &quot; и учебникам Л.Г. Петерсон весь педагогический коллектив вырос профессионально, после начальной школы наши учащиеся легко поступали в школы с повышенным уровнем обучения. Мы за данный учебник. Педагогам должны оставить право выбора. Никогда не слышали от родителей отрицательных отзывов об учебнике. Грамотный педагог умело использует материал учебника для учащихся с разными образовательными возможностями.</i></b>
+                                    </p>
+                                </li>
+                                                                <li>
+                                     <a
+                                            href="/responses/index.php?ELEMENT_ID=10729" style="color:#3D63C0;"><b>
+                                            Отзыв от посетителя </b></a>
+                                    <p class="new-description">
+                                        <b><i>По этим учебникам училась моя дочь. Мы с мужем - в восторге!!! Дочь окончила лицей с золотой медалью, победитель всероссийской олимпиады по математике и физике, студентка МГТУ им. Баумана. Работаю в гимназии заместителем директора, поэтому прекрасно понимаю необходимость таких учебников.</i></b>
+                                    </p>
+                                </li>
+                                                                <li>
+                                     <a
+                                            href="/responses/index.php?ELEMENT_ID=58679" style="color:#3D63C0;"><b>
+                                            Отзыв от участника </b></a>
+                                    <p class="new-description">
+                                        <b><i><b>Отзыв о Международной обучающей математической олимпиаде "Учусь учиться"&nbsp;Л.Г. Петерсон:&nbsp;</b>Хоть я сделала ошибку в решении задачи, я все ровно получила удовольствие</i></b>
+                                    </p>
+                                </li>
+                                                                <li>
+                                     <a
+                                            href="/responses/index.php?ELEMENT_ID=58680" style="color:#3D63C0;"><b>
+                                            Отзыв от участника </b></a>
+                                    <p class="new-description">
+                                        <b><i><b>Отзыв о Международной обучающей математической олимпиаде "Учусь учиться"&nbsp;Л.Г. Петерсон:&nbsp;</b>Вы должны занять пустующее место в лидерах олимпиадного математического движения</i></b>
+                                    </p>
+                                </li>
+                                                                <li>
+                                     <a
+                                            href="/responses/index.php?ELEMENT_ID=58673" style="color:#3D63C0;"><b>
+                                            Отзыв от участника </b></a>
+                                    <p class="new-description">
+                                        <b><i><b>Отзыв о Международной обучающей математической олимпиаде "Учусь учиться"&nbsp;Л.Г. Петерсон:&nbsp;</b>Было весело и сладко. Спасибо!</i></b>
+                                    </p>
+                                </li>
+                                                                <li>
+                                     <a
+                                            href="/responses/index.php?ELEMENT_ID=8706" style="color:#3D63C0;"><b>
+                                            Отзыв от посетителя </b></a>
+                                    <p class="new-description">
+                                        <b><i>В конце августа 2013 года, накануне нового учебного года в нашей школе проходила учёба по теме «Система формирования универсальных учебных действий в ДСДМ «Школа 2000…» как средство реализации новых Федеральных государственных образовательных стандартов». </i></b>
+                                    </p>
+                                </li>
+                                                                <li>
+                                     <a
+                                            href="/responses/index.php?ELEMENT_ID=10740" style="color:#3D63C0;"><b>
+                                            Отзыв от посетителя </b></a>
+                                    <p class="new-description">
+                                        <b><i>Для меня, как для учителя, работающего в физико-математическом лицее, нет другого варианта учебника, по которому действительно можно научить детей любить и понимать математику!</i></b>
+                                    </p>
+                                </li>
+                                                                <li>
+                                     <a
+                                            href="/responses/index.php?ELEMENT_ID=58461" style="color:#3D63C0;"><b>
+                                            Отзыв от Богдасарова Е.А. </b></a>
+                                    <p class="new-description">
+                                        <b><i><b>Отзыв о Всероссийском Фестивале "Открываем двери школы: система "Учусь учиться" Л.Г. Петерсон":</b> Спасибо за доброе отношение к детям, за свободу общения, за разнообразие деятельности. Умело сочеталась работа в рабочих тетрадях, игровые моменты, работа на интерактивной доске. В конце занятия дети оценивали свою деятельность - это очень удачный приём. Хотелось бы больше проблемных вопросов детям</i></b>
+                                    </p>
+                                </li>
+                                                                <li>
+                                     <a
+                                            href="/responses/index.php?ELEMENT_ID=10741" style="color:#3D63C0;"><b>
+                                            Отзыв от посетителя </b></a>
+                                    <p class="new-description">
+                                        <b><i>Как учитель математики, как мама, как преподаватель ВУЗа считаю, что это не то что даже лучший, а единственный учебник, по которому можно научить ребенка именно математике, причем не калеча его психики. По-моему, это единственный учебник, в котором корректно и грамотно подан собственно математический материал, причем практически безупречно с точки зрения возрастных особенностей ребенка. Дети занимаются по нему с интересом, удовольствием и учатся не только математике, но и &quot;учатся учиться&quot;. Благодаря этому учебнику у ребенка легко и непринужденно происходит расширение кругозора, появляется интерес к другим областям человеческих знаний, искусству, культуре.</i></b>
+                                    </p>
+                                </li>
+                                                        </ul>
+                    </div>
+                    <a href="/responses/">Смотреть все отзывы</a>
+                </div>
+                <div class="blue-border-block-bottom">
+                </div>
+            </div>
+            <br>
+        </div>
+        <div style="text-align: center;">
+            <br>
+        </div>
+        <br>
+    </b></div>
+<div class="right-block">
+    <div class="tac">
+        <a href="https://www.sch2000.ru/distant/"
+           class="main_link_orange">Дистанционное обучение</a>
+        <!--<br>
+        <a href="https://docs.google.com/forms/d/1UDU0iOXdFAl84JTOMhfwSjEsAzB4kiBB3rs3uzp0jz0/edit" style="text-decoration:none;">
+        <div  style="background:#FFD966; border: 1px #FF9C43 solid; border-radius:30px; padding:15px;">
+        <img style="mix-blend-mode: multiply;" src="https://files.sch2000.ru/img/index/25.02.2020-1.jpg" alt="">
+        <img src="https://files.sch2000.ru/img/index/25.02.2020-2.png" alt="">
+        <br>
+        <p style="text-align:center; font-size:16px; color:#262626; text-decoration:none; font-weight:bold; margin: 5px 0px 0px 0px;">2 – 3 апреля</p> 
+        </div>
+        </a>-->
+        <br>
+        
+        <a href="https://www.sch2000.ru/konkurs-uchu-uchitsya/" class="main_link_blue">
+            <div style="background-size: 37px;font-size: 14px;padding-left: 0px;margin-left: 5px;">
+                Педагогический конкурс
+                «Учу учиться»
+            </div>
+        </a>
+        <br>
+
+        <a href="https://youtu.be/pteoZVchU5o"
+           target="_blank">
+            <iframe width="200"
+                    height="150"
+                    src="https://www.youtube.com/embed/pteoZVchU5o"
+                    frameborder="0"
+                    allowfullscreen></iframe>
+        </a>
+        <!--
+        <div><a href="https://youtu.be/pteoZVchU5o" target="_blank"
+                style="margin: 0px; font-weight: bold; color: rgb(41, 90, 178); font-size: 14px;">Система Петерсон
+            </a></div>-->
+    </div>
+
+    <br>
+    <a href="https://www.sch2000.ru/mid_rev/"
+       class="main_link_blue relative">Отзывы о программе<br>«Мир открытий»<img class="absolute2"
+                                                                                width="36"></a>
+    <br>
+    <!--<a href="https://files.sch2000.ru/pdf/index/Вебинары_по_программе.pdf" class="main_link_orange">Вебинары по программе "Мир открытий"</a>-->
+    <!--<a href="https://files.sch2000.ru/doc/index/Вебинары_по_программе.docx" class="main_link_orange">Вебинары по программе "Мир открытий"</a>-->
+
+    <!--	<div class="buy-exercise-book" style="position: relative; margin: 10px 0px -10px;">
+            <a href="/education/" class="orange-head-link">Регистрация на курсы</a>
+            <div class="buy-books-img">
+            </div>
+        </div>-->
+    <div id="thanks">
+        <!--		<script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>-->
+        <style>
+            .nproject a {
+                text-decoration: none;
+            }
+        </style>
+        <!--
+        <div class="nproject" style="cursor: pointer;">
+            <a href="/tmp/page/26_08_2014.php"><img src="/images/cloud.jpg" style="width: 200px;border: 1px solid rgb(99, 128, 223);">
+            <div style="text-align: center;  color: rgb(252, 84, 5);  font-weight: bold;  font-style: italic;  font-size: 21px;margin-top: -30px;">НОВЫЕ ПРОЕКТЫ</div>
+            </a>
+        </div>
+        <div class="popup-link-1" style="cursor: pointer;"><img src="/indexmail/thanks.jpg" style="width: 200px;border: 2px solid rgb(99, 128, 223);">
+            <div style="text-align: center;  color: rgb(252, 84, 5);  font-weight: bold;  font-style: italic;  font-size: 25px;">СПАСИБО!</div>
+        </div>-->
+        <style>
+            .popup-box {
+                position: absolute;
+                border-radius: 5px;
+                background: #fff;
+                display: none;
+                box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.2);
+                font-family: Arial, sans-serif;
+                z-index: 9999999;
+                font-size: 14px;
+                border: 8px solid #fff;
+            }
+
+            .popup-box .close {
+                position: absolute;
+                top: 0px;
+                right: 0px;
+                font-family: Arial, Helvetica, sans-serif;
+                font-weight: bold;
+                cursor: pointer;
+                color: #434343;
+                padding: 20px;
+                font-size: 20px;
+            }
+
+            .popup-box .close:hover {
+                color: #000;
+            }
+
+            .popup-box h2 {
+                padding: 0;
+                margin: 0;
+                font-size: 18px;
+            }
+
+            .popup-box .top {
+                padding: 20px;
+            }
+
+            .popup-box .bottom {
+                background: #FFF;
+                padding: 20px;
+                border-radius: 8px;
+                overflow-y: auto;
+            }
+
+            #blackout {
+                background: rgba(0, 0, 0, 0.3);
+                position: absolute;
+                top: 0;
+                overflow: hidden;
+                z-index: 999999;
+                left: 0;
+                display: none;
+            }
+
+            .rdd {
+                color: rgb(36, 80, 226);
+                font-size: 20px;
+            }
+        </style>
+        <div class="popup-box"
+             id="popup-box-1">
+            <div class="bottom">
+                <div style="font-style: italic;text-align: center;font-size: 18px;">
+                    <img src="/indexmail/thanks.jpg"
+                         style="width: 595px;border: 4px solid rgb(36, 80, 226);">
+                    <div class="rdd"
+                         style="font-width: bold;padding: 15px;color: red;"><b>Уважаемые коллеги, дорогие
+                            друзья!</b></div>
+                    <div>Коллектив Центра системно-деятельностной педагогики</div>
+                    <div>«Школа 2000…» Л.Г. Петерсон</div>
+                    <div>поздравляет Вас и весь Ваш коллектив</div>
+                    <div>с успешным окончанием 2013-2014 учебного года!</div>
+                    <div>Благодарим вас всех за прекрасную работу,</div>
+                    <div>хорошие, отличные и выдающиеся результаты.</div>
+                    <div>Каждый день мы чувствовали вашу поддержку!</div>
+                    <p></p>
+                    <div>Надеемся на продолжение нашего плодотворного</div>
+                    <div>сотрудничества</div>
+                    <div>и готовим для вас к следующему учебному году</div>
+                    <p>много новых и интересных проектов.</p>
+                    <p></p>
+                    <div style="font-width: bold;"
+                         class="rdd">
+                        <div><b>Желаем вам яркого, теплого, солнечного лета</div>
+                        <div>и прекрасного отдыха!</div>
+                        <p></p>
+                        <div>Мы вместе, а значит, у нас все получится! </br></div>
+                    </div>
+                    <p></p>
+                    <div style="text-align: right;color: red;"
+                         class="rdd">Команда Центра СДП «Школа 2000…» АПК и ППРО
+                    </div>
+                </div>
+            </div>
+        </div>
+        <script>
+            $('body').append('<div id="blackout"></div>');
+
+            var boxWidth = 960;
+
+            function centerBox() {
+
+                /* Preliminary information */
+                var winWidth = $(window).width();
+                var winHeight = $(document).height();
+                var scrollPos = $(window).scrollTop();
+                /* auto scroll bug */
+
+                /* Calculate positions */
+
+                var disWidth = (winWidth - boxWidth) / 2
+                var disHeight = scrollPos - 170;
+
+                /* Move stuff about */
+                $('.popup-box').css({'width': boxWidth + 'px', 'left': disWidth + 'px', 'top': '-170px'});
+                $('#blackout').css({'width': winWidth + 'px', 'height': winHeight + 'px'});
+
+                return false;
+            }
+
+
+            $(window).resize(centerBox);
+            $(window).scroll(centerBox);
+            centerBox();
+
+            $('[class*=popup-link]').click(function (e) {
+
+                /* Prevent default actions */
+                e.preventDefault();
+                e.stopPropagation();
+
+                /* Get the id (the number appended to the end of the classes) */
+                var name = $(this).attr('class');
+                var id = name[name.length - 1];
+                var scrollPos = $(window).scrollTop();
+
+                /* Show the correct popup box, show the blackout and disable scrolling */
+                $('#popup-box-' + id).show();
+                $('#blackout').show();
+
+                /* Fixes a bug in Firefox */
+                $('html').scrollTop(scrollPos);
+                $("html,body").css({"overflow-x": "auto", "overflow-y": "auto"});
+            });
+            $('[class*=popup-box]').click(function (e) {
+                /* Stop the link working normally on click if it's linked to a popup */
+                e.stopPropagation();
+            });
+            $('html').click(function () {
+                var scrollPos = $(window).scrollTop();
+                /* Hide the popup and blackout when clicking outside the popup */
+                $('[id^=popup-box-]').hide();
+                $('#blackout').hide();
+                $("html,body").css("overflow", "auto");
+                $('html').scrollTop(scrollPos);
+            });
+            $('.close').click(function () {
+                var scrollPos = $(window).scrollTop();
+                /* Similarly, hide the popup and blackout when the user clicks close */
+                $('[id^=popup-box-]').hide();
+                $('#blackout').hide();
+                $("html,body").css("overflow", "auto");
+                $('html').scrollTop(scrollPos);
+            });
+        </script>
+    </div>
+    <div class="clear"></div>
+    <div class="ask-block"
+         style="font-style: italic">
+        <div class="blue-border-block-head">
+            <a href="https://www.sch2000.ru/education/"
+               class="main_link_blue_ask">Ближайшие курсы</a>
+        </div>
+        <div>
+
+
+            <!--<div class="blue-border-block">
+
+                    <div class="new-block">
+
+                        <div class="fwb"><i class="red" style="font-weight:700; font-size:14px;">ОЧНОЕ ОБУЧЕНИЕ</i></div>
+                        <br>
+                        <p><b>Курсы для педагогов дошкольного образования</b></p>
+
+                        <div class="orange-txt" style="margin: 10px 0 -10px 0;">18.11.2019 - 27.11.2019</div>
+                        <br>
+                        <a href="https://www.sch2000.ru/distant/group_9.php">
+                            <p class="new-description" style="font-weight:400;"><i>«Реализация системно-деятельностного
+                                    подхода в контексте ФГОС дошкольного образования: на примере курса математического
+                                    развития
+                                    дошкольников "Игралочка" авторов Л.Г. Петерсон и Е.Е. Кочемасовой»</p>
+                        </a>
+                    </div>
+                </div>-->
+
+            <div class="blue-border-block" style="margin-top:-5px;">
+
+                <div class="new-block">
+
+                    <!--<div class="fwb"><i class="red" style="font-weight:700; font-size:14px;">ОЧНОЕ ОБУЧЕНИЕ</i></div>
+                    <br>
+                    <p>Курсы для педагогов начальной и основной школы</p>
+
+                    <div class="orange-txt" style="margin: 10px 0 -10px 0;">19.03.2020 - 28.03.2020</div>
+                    <br>
+                    <a href="/distant/group_10.php">
+                        <p class="new-description" style="font-weight: normal;">
+                            <i>
+                               «Проектирование современного урока в технологии деятельностного метода обучения Л.Г. Петерсон в условиях реализации ФГОС»
+                            </i>
+                        </p>
+                    </a>-->
+                    <!--<br>
+
+                    <p>Курсы для педагогов начальной школы</p>
+
+                    <div class="orange-txt" style="margin: 10px 0 -10px 0;">19.03.2020 - 28.03.2020</div>
+                    <br>
+                    <a href="/distant/group_13.php">
+                        <p class="new-description" style="font-weight: normal;">
+                            <i>«Организация образовательной деятельности учащихся в условиях реализации ФГОС НОО (на примере непрерывного курса математики "Учусь учиться" Л.Г. Петерсон)»</i>
+                        </p>
+                    </a>
+                    <br>
+
+                    <p>Курсы для педагогов основной школы</p>
+
+                    <div class="orange-txt" style="margin: 10px 0 -10px 0;">19.03.2020 - 28.03.2020</div>
+                    <br>
+                    <a href="/distant/group_14.php">
+                        <p class="new-description" style="font-weight: normal;">
+                            <i>«Организация образовательной деятельности учащихся в условиях реализации ФГОС ООО (на примере непрерывного курса математики "Учусь учиться" Л.Г. Петерсон)»</i>
+                        </p>
+                    </a>-->
+
+                    <!--<div class="orange-txt" style="margin: 10px 0 -10px 0;">24.10.2019 - 02.11.2019</div>
+                    <br>
+                    <a href="/distant/group_12.php">
+                        <p class="new-description" style="font-weight: normal;">
+                            <i>«Формирование и мониторинг универсальных учебных действий на основе надпредметного курса
+                                "Мир деятельности" и технологии деятельностного метода Л.Г. Петерсон»</i>
+                        </p>
+                    </a>-->
+                    <!--<br>-->
+                    <div class="fwb"><i class="red" style="font-weight:700; font-size:14px;">ДИСТАНЦИОННОЕ ОБУЧЕНИЕ</i>
+                    </div>
+                    <br>
+                    <p>Курсы для педагогов дошкольного образования</p>
+
+                    <div class="orange-txt" style="margin: 10px 0 -10px 0;">08.02.2021 - 30.04.2021</div>
+                    <br>
+
+                    <a href="/distant/group_6.php">
+                        <p class="new-description" style="font-weight: normal;">
+                            <i>«Особенности математического развития дошкольников в курсе «Игралочка» авторов <br>Л.Г.
+                                Петерсон, <br>Е.Е. Кочемасовой»</i>
+                        </p>
+                    </a>
+
+                    <div class="orange-txt" style="margin: 10px 0 -10px 0;">14.10.2020 - 21.04.2021</div>
+                    <br>
+
+                    <a href="/distant/group_1.php">
+                        <p class="new-description" style="font-weight: normal;">
+                            <i>«Системно-деятельностный подход как условие реализации требований Федерального
+                                государственного образовательного стандарта дошкольного образования (на примере
+                                программы “Мир открытий”)»</i>
+                        </p>
+                    </a>
+                    <br>
+                    <p>Курсы для педагогов начальной школы</p>
+
+                    <div class="orange-txt" style="margin: 10px 0 -10px 0;">08.02.2021 - 30.04.2021</div>
+                    <br>
+
+                    <a href="/distant/group_3.php">
+                        <p class="new-description" style="font-weight: normal;">
+                            <i>«Организация образовательной деятельности учащихся в условиях реализации ФГОС НОО (на
+                                примере непрерывного курса математики "Учусь учиться" Л.Г. Петерсон)»</i>
+                        </p>
+                    </a>
+                    <br>
+                    <p>Курсы для педагогов основной школы</p>
+
+                    <div class="orange-txt" style="margin: 10px 0 -10px 0;">08.02.2021 - 30.04.2021</div>
+                    <br>
+
+                    <a href="/distant/group_4.php">
+                        <p class="new-description" style="font-weight: normal;">
+                            <i>«Организация образовательной деятельности учащихся в условиях реализации ФГОС ООО (на
+                                примере непрерывного курса математики "Учусь учиться" Л.Г. Петерсон)»</i>
+                        </p>
+                    </a>
+ 
+                    <br>
+                    <p>Курсы для педагогов начальной и основной школы</p>
+
+                    <div class="orange-txt" style="margin: 10px 0 -10px 0;">08.02.2021 - 30.04.2021</div>
+                    <br>
+
+                    <a href="/distant/group_2.php">
+                        <p class="new-description" style="font-weight: normal;">
+                            <i>«Проектирование современного урока в технологии деятельностного метода обучения Л.Г.
+                                Петерсон в условиях реализации ФГОС»</i>
+                        </p>
+                    </a>
+
+                    <div class="orange-txt" style="margin: 10px 0 -10px 0;">08.02.2021 - 30.04.2021</div>
+                    <br>
+
+                    <a href="/distant/group_5.php">
+                        <p class="new-description" style="font-weight: normal;">
+                            <i>«Формирование и мониторинг универсальных учебных действий на основе надпредметного курса
+                                "Мир деятельности" и технологии деятельностного метода Л.Г. Петерсон»</i>
+                        </p>
+                    </a>
+
+
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+        <div class="blue-border-block-bottom"></div>
+    <!--		<div class="buy-exercise-book" style="position: relative; margin: 10px 0px -15px;">-->
+    <!--			<a href="/tmp/page/10_03_2016.php"><img-->
+    <!--						src="https://files.sch2000.ru/img/index/i_love_math.png" style="width: 202px;"></a>-->
+    <!--		</div>-->
+    <!--<br>
+    <a href="https://files.sch2000.ru/pdf/education/Расписание_курсов_ПК_Центр_Петерсон_2017-2018.pdf"
+       class="main_link_blue">Полное расписание курсов</a>-->
+    <br>
+    <a href="https://www.sch2000.ru/fip-calendar/"
+       class="main_link_blue">Календарь событий ВИП</a>
+    <br>
+    <a href="https://files.sch2000.ru/pdf/index/Расписание_курсов_ПК_Институт_СДП_2_полугодие__2020-2021.pdf"
+       class="main_link_blue">Расписание курсовой подготовки на 2 полугодие 2020-2021 уч.года</a>
+    <!--<a href="/education/raspisanie.php" title="Расписание курсов повышения квалификации"><img
+                width="200" height="230" src="/upload/raspisanie-main1.jpg"/></a>-->
+    <div>
+        <!--<div id="banners"
+             style="text-align: center; width: 200px; padding:10px 0 10px 0;height: 280px;text-align: center;">
+            <a href="/library/detail.php?ID=28993"><img
+                        src="https://files.sch2000.ru/img/banners/obl.png"
+                        style="width: 200px;">
+                <br>КНИГА ЭКСПЕРИМЕНТА (2011-2016)
+            </a>
+        </div>
+        <!--<div class="blue tac" style="font-size: 14px;">
+            <b><span style="color:orange;">ДЕТСКАЯ</span><br>
+                АКАДЕМИЯ ПЕТЕРСОН</b>
+            <a href="https://youtu.be/ikeghSHfIo4" target="_blank">
+                <iframe width="200" height="150" src="https://www.youtube.com/embed/ikeghSHfIo4" frameborder="0"
+                        allowfullscreen></iframe>
+            </a>
+                <!--<a href="https://www.sch2000.ru/employees/news/actual/38719/" target="_blank"><img src="https://files.sch2000.ru/img/banners/parents_banner.png" style="width: 200px;"></a>-->
+    </div>
+    <br>
+</div>
+</div>
+<div class="clear"></div>
+<div class="brands">
+    </div>
+</div>
+</div><!-- #middle-->
+<div class="incl_area">
+    </div>
+<div id="footer">
+    <div class="foot-container">
+        <div class="bot-txt-fl">
+            <span style="font-size: x-small; ">© 2002 — 2020 Центр «Школа 2000...»</span>&nbsp; <br>
+ <span style="font-size: x-small; ">125040, г. Москва, 5-я улица Ямского поля, дом 9</span>&nbsp; <br>
+<div>
+	 <!--LiveInternet counter--> <script type="text/javascript">document.write("<a href='http://www.liveinternet.ru/click' target=_blank><img src='//counter.yadro.ru/hit?t26.6;r" + escape(document.referrer) + ((typeof(screen)=="undefined")?"":";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?screen.colorDepth:screen.pixelDepth)) + ";u" + escape(document.URL) + ";" + Math.random() + "' border=0 width=88 height=15 alt='' title='LiveInternet: показано число посетителей за сегодня'><\/a>")</script> <!--/LiveInternet-->
+</div>
+ <br>        </div>
+        <div class="bot-txt-fr">
+            <span style="font-size: x-small;"><b>По общим вопросам:</b> info@sch2000.ru</span>   
+<br />
+ <font size="1"><b>Вебмастер:</b> admin@sch2000.ru</font>   
+<!-- Yandex.Metrika counter -->
+ 
+<script type="text/javascript">(function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter5137039 = new Ya.Metrika({id:5137039, enableAll: true, webvisor:true}); } catch(e) {} }); var n = d.getElementsByTagName("script")[0], s = d.createElement("script"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = "text/javascript"; s.async = true; s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js"; if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f); } else { f(); } })(document, window, "yandex_metrika_callbacks");</script>
+ <noscript> 
+  <div><img src="//mc.yandex.ru/watch/5137039" style="position: absolute; left: -9999px; "  /></div>
+ </noscript> 
+<!-- /Yandex.Metrika counter -->
+ 
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-28049091-6']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+        </div>
+    </div>
+</div><!-- #footer -->
+</div>
+<!-- start feedback
+<style>
+#sch_feedback input{width: 100%;}
+#sch_feedback div{width: 100%;}
+#sch_feedback div, #sch_feedback span{color: white;}
+#sch_feedback textarea{width: 100%;}
+#sch_feedback form{display: none;}
+.sch_mail_title{font-size: 14px;}
+</style>
+<div id="sch_feedback" style="border-radius: 5px 5px 0px 0px; width: 260px; background-image: none; background-attachment: scroll; background-color: rgb(81, 107, 163); padding: 10px; background-position: 0% 0%; background-repeat: repeat repeat;position: fixed;right: 10px;bottom: 0;">
+  <div class="sch_mail_title" style="cursor: pointer;"><img src="/send/mail.png" style="margin-bottom: -1px;"  /> Отправьте нам сообщение</div>
+ </div>
+<script>$(document).ready(function(){$('.sch_mail_title').click(function(){$(this).css('display','none');$('#sch_feedback form').show( "slow", function() { });});});</script>
+endfeedback -->
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function () {
+            try {
+                w.yaCounter33813364 = new Ya.Metrika({
+                    id: 33813364,
+                    clickmap: true,
+                    trackLinks: true,
+                    accurateTrackBounce: true,
+                    webvisor: true,
+                    trackHash: true
+                });
+            } catch (e) {
+            }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () {
+                n.parentNode.insertBefore(s, n);
+            };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else {
+            f();
+        }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript>
+    <div><img src="https://mc.yandex.ru/watch/33813364"
+              style="position:absolute; left:-9999px;"
+              alt=""/></div>
+</noscript>
+<!-- /Yandex.Metrika counter -->
+<!-- BEGIN JIVOSITE CODE {literal} -->
+<script type='text/javascript'>
+    (function () {
+        var widget_id = 'LU2oG5S9yZ';
+        var s = document.createElement('script');
+        s.type = 'text/javascript';
+        s.async = true;
+        s.src = '//code.jivosite.com/script/widget/' + widget_id;
+        var ss = document.getElementsByTagName('script')[0];
+        ss.parentNode.insertBefore(s, ss);
+    })();</script>
+<!-- {/literal} END JIVOSITE CODE -->
+<script>
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r;
+        i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date();
+        a = s.createElement(o),
+            m = s.getElementsByTagName(o)[0];
+        a.async = 1;
+        a.src = g;
+        m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-55735523-1', 'auto');
+    ga('send', 'pageview');
+</script>
+</body>
+</html>
+<div class="friends-links">
+<h2 id="friends-links" style="position: fixed;right:-800px; top: -600px; overflow: hidden;;width:150px">
+<a href="https://www.moviespornvideos.com/busty-judy-and-you-fucking-like-two-bunnies-zootopia-xxx-parody/" title="Busty Judy And You Fucking Like Two Bunnies ZOOTOPIA XXX Parody">Busty Judy And You Fucking Like Two Bunnies ZOOTOPIA XXX Parody</a>
+</h2></div>

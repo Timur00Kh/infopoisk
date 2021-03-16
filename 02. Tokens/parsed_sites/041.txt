@@ -1,0 +1,1679 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="ru-RU">
+<head>
+
+		<link rel="profile" href="http://gmpg.org/xfn/11" />
+	<link rel="pingback" href="http://idum.uz/xmlrpc.php" />
+<title>idum.uz &#8212; Портал об образовании и воспитании</title>
+<link rel='dns-prefetch' href='//yastatic.net' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="idum.uz &raquo; Лента" href="http://idum.uz/ru/feed" />
+<link rel="alternate" type="application/rss+xml" title="idum.uz &raquo; Лента комментариев" href="http://idum.uz/ru/comments/feed" />
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/idum.uz\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.6.2"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='http://idum.uz/wp-includes/css/dist/block-library/style.min.css?ver=5.6.2' type='text/css' media='all' />
+<link rel='stylesheet' id='tppviews-css'  href='http://idum.uz/wp-content/plugins/tp-postviews-count-popular-posts-widgets/public/css/tppviews.css?ver=5.6.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wpccp-css'  href='http://idum.uz/wp-content/plugins/wp-content-copy-protection/assets/css/style.min.css?ver=1608698444' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-pagenavi-css'  href='http://idum.uz/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70' type='text/css' media='all' />
+<link rel='stylesheet' id='travelify_style-css'  href='http://idum.uz/wp-content/themes/travelify/style.css?ver=5.6.2' type='text/css' media='all' />
+<link rel='stylesheet' id='google_font_ubuntu-css'  href='//fonts.googleapis.com/css?family=Ubuntu&#038;ver=5.6.2' type='text/css' media='all' />
+<link rel='stylesheet' id='slb_core-css'  href='http://idum.uz/wp-content/plugins/simple-lightbox/client/css/app.css?ver=2.8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='rpt_front_style-css'  href='http://idum.uz/wp-content/plugins/related-posts-thumbnails/assets/css/front.css?ver=1.6.2' type='text/css' media='all' />
+<script type='text/javascript' src='http://idum.uz/wp-includes/js/jquery/jquery.min.js?ver=3.5.1' id='jquery-core-js'></script>
+<script type='text/javascript' src='http://idum.uz/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' src='//yastatic.net/share/share.js?ver=5.6.2' id='ya-share-js'></script>
+<script type='text/javascript' src='http://idum.uz/wp-content/themes/travelify/library/js/functions.min.js?ver=5.6.2' id='theme_functions-js'></script>
+<link rel="https://api.w.org/" href="http://idum.uz/ru/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://idum.uz/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://idum.uz/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.6.2" />
+
+	
+	<link rel="stylesheet" type="text/css" media="print" href="http://idum.uz/wp-content/plugins/bunnys-print-css/print.css" />
+
+<meta name="generator" content="Site Kit by Google 1.25.0" /><link rel="stylesheet" id="testme-style-css"  href="http://idum.uz/wp-content/plugins/wp_testme/testme_style.css" type="text/css" media="all" /> <style type="text/css">
+.qtranxs_flag_ru {background-image: url(http://idum.uz/wp-content/plugins/qtranslate-x/flags/ru.png); background-repeat: no-repeat;}
+.qtranxs_flag_en {background-image: url(http://idum.uz/wp-content/plugins/qtranslate-x/flags/gb.png); background-repeat: no-repeat;}
+</style>
+<link hreflang="ru" href="http://idum.uz/ru/" rel="alternate" />
+<link hreflang="uz" href="http://idum.uz/uz/" rel="alternate" />
+<link hreflang="x-default" href="http://idum.uz/ru/" rel="alternate" />
+<meta name="generator" content="qTranslate-X 3.4.6.8" />
+<!-- idum.uz Custom CSS Styles -->
+<style type="text/css" media="screen">
+#main-nav li.default-menu
+{
+ display:none;
+}
+</style>
+    <style type="text/css">
+        a { color: #0490cc; }
+        #site-title a { color: #05b4ff; }
+        #site-title a:hover { color: #52cbff; }
+        .wrapper { background: #f2f2f2; }
+        .social-icons ul li a { color: #5a6c93; }
+        #main-nav a, #main-nav a:hover,  #main-nav a:focus, #main-nav ul li.current-menu-item a,#main-nav ul li.current_page_ancestor a,#main-nav ul li.current-menu-ancestor a,#main-nav ul li.current_page_item a,#main-nav ul li:hover > a { color: #fff; }
+        .widget, article { background: #fff; }
+        .entry-title, .entry-title a, .entry-title a:focus, h1, h2, h3, h4, h5, h6, .widget-title  { color: #1b1e1f; }
+        a:focus, a:active, a:hover, .tags a:hover, .custom-gallery-title a, .widget-title a, #content ul a:hover,#content ol a:hover, .widget ul li a:hover, .entry-title a:hover, .entry-meta a:hover, #site-generator .copyright a:hover { color: #0490cc; }
+        #main-nav { background: #025a7f; border-color: #025a7f; }
+        #main-nav ul li ul, body { border-color: #025a7f; }
+        #main-nav a:hover,#main-nav ul li.current-menu-item a,#main-nav ul li.current_page_ancestor a,#main-nav ul li.current-menu-ancestor a,#main-nav ul li.current_page_item a,#main-nav ul li:hover > a, #main-nav li:hover > a,#main-nav ul ul :hover > a,#main-nav a:focus { background: #0490cc; }
+        #main-nav ul li ul li a:hover,#main-nav ul li ul li:hover > a,#main-nav ul li.current-menu-item ul li a:hover { color: #0490cc; }
+        .entry-content { color: #0a0a0a; }
+        input[type="reset"], input[type="button"], input[type="submit"], .entry-meta-bar .readmore, #controllers a:hover, #controllers a.active, .pagination span, .pagination a:hover span, .wp-pagenavi .current, .wp-pagenavi a:hover { background: #05b4ff; border-color: #05b4ff !important; }
+        ::selection { background: #05b4ff; }
+        blockquote { border-color: #05b4ff; }
+        #controllers a:hover, #controllers a.active { color: #05b4ff; }
+        input[type="reset"]:hover,input[type="button"]:hover,input[type="submit"]:hover,input[type="reset"]:active,input[type="button"]:active,input[type="submit"]:active, .entry-meta-bar .readmore:hover, .entry-meta-bar .readmore:active, ul.default-wp-page li a:hover, ul.default-wp-page li a:active { background: #05b4ff; border-color: #05b4ff; }
+    </style>
+          <style>
+      #related_posts_thumbnails li{
+          border-right: 1px solid #DDDDDD;
+          background-color: #FFFFFF      }
+      #related_posts_thumbnails li:hover{
+          background-color: #EEEEEF;
+      }
+      .relpost_content{
+          font-size: 15px;
+          color: #020202;
+      }
+      .relpost-block-single{
+          background-color: #FFFFFF;
+          border-right: 1px solid  #DDDDDD;
+          border-left: 1px solid  #DDDDDD;
+          margin-right: -1px;
+      }
+      .relpost-block-single:hover{
+          background-color: #EEEEEF;
+      }
+      </style>
+
+  <style type="text/css" id="custom-background-css">
+body.custom-background { background-image: url("http://idum.uz/wp-content/uploads/2015/10/administrator-menedzher-m83490-300x300.jpg"); background-position: right top; background-size: auto; background-repeat: repeat; background-attachment: fixed; }
+</style>
+	<link rel="icon" href="http://idum.uz/wp-content/uploads/2019/10/idum.uz-favicon-.png" sizes="32x32" />
+<link rel="icon" href="http://idum.uz/wp-content/uploads/2019/10/idum.uz-favicon-.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="http://idum.uz/wp-content/uploads/2019/10/idum.uz-favicon-.png" />
+<meta name="msapplication-TileImage" content="http://idum.uz/wp-content/uploads/2019/10/idum.uz-favicon-.png" />
+
+<div align="center">
+	<noscript>
+		<div style="position:fixed; top:0px; left:0px; z-index:3000; height:100%; width:100%; background-color:#FFFFFF">
+			<br/><br/>
+			<div style="font-family: Tahoma; font-size: 14px; background-color:#FFFFCC; border: 1pt solid Black; padding: 10pt;">
+				Sorry, you have Javascript Disabled! To see this page as it is meant to appear, please enable your Javascript!
+			</div>
+		</div>
+	</noscript>
+</div>
+	 <script data-ad-client="ca-pub-4312389010926434" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-176064208-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-176064208-1');
+</script>
+</head>
+
+<body class="home blog custom-background ">
+	
+	<div class="wrapper">
+				<header id="branding" >
+				
+	<div class="container clearfix">
+		<div class="hgroup-wrap clearfix">
+					<section class="hgroup-right">
+						
+			<div class="social-icons clearfix">
+				<ul><li class="facebook"><a href="https://www.facebook.com/TalimObrazovaniye" title="idum.uz on Facebook" target="_blank"></a></li><li class="twitter"><a href="https://t.me/talim_obrazovaniye" title="idum.uz on Twitter" target="_blank"></a></li><li class="youtube"><a href="https://www.youtube.com/channel/UC4f7SobApjbcXft50vreGww" title="idum.uz on YouTube" target="_blank"></a></li><li class="vimeo"><a href="http://idum.uz/archives/tag/видео" title="idum.uz on Vimeo" target="_blank"></a></li><li class="tumblr"><a href="http://idum.uz/фотоархив-2" title="idum.uz on Tumblr" target="_blank"></a></li>
+			</ul>
+			</div><!-- .social-icons -->					</section><!-- .hgroup-right -->
+				<hgroup id="site-logo" class="clearfix">
+												<h1 id="site-title">
+								<a href="http://idum.uz/ru/" title="idum.uz" rel="home">
+									idum.uz								</a>
+							</h1>
+							<h2 id="site-description">Портал об образовании и воспитании</h2>
+						
+				</hgroup><!-- #site-logo -->
+
+		</div><!-- .hgroup-wrap -->
+	</div><!-- .container -->
+		<nav id="main-nav" class="clearfix">
+					<div class="container clearfix"><ul class="root"><li id="menu-item-7298" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-7298"><a href="http://idum.uz/ru/maktab-faoiliyati">О нашей школе</a>
+<ul class="sub-menu">
+	<li id="menu-item-7299" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7299"><a href="http://idum.uz/ru/maktab-faoiliyati/pedagogik-jamoa">Коллектив</a></li>
+	<li id="menu-item-7300" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7300"><a href="http://idum.uz/ru/archives/category/%d1%8e%d1%82%d1%83%d2%9b%d0%bb%d0%b0%d1%80%d0%b8%d0%bc%d0%b8%d0%b7">Наши достижения</a></li>
+	<li id="menu-item-7301" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7301"><a href="http://idum.uz/ru/maktab-faoiliyati/maktab-tarixi-%d0%b8%d1%81%d1%82%d0%be%d1%80%d0%b8%d1%8f-%d1%88%d0%ba%d0%be%d0%bb%d1%8b">История школы</a></li>
+	<li id="menu-item-7302" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7302"><a href="http://idum.uz/ru/maktab-faoiliyati/%d0%bc%d0%b0%d0%ba%d1%82%d0%b0%d0%b1-%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%81%d0%b8">Школьная форма</a></li>
+	<li id="menu-item-7303" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7303"><a href="http://idum.uz/ru/%d0%bc%d0%b0%d0%ba%d1%82%d0%b0%d0%b1-%d1%85%d0%be%d0%bd%d0%b0%d0%bb%d0%b0%d1%80%d0%b8">Кабинеты школы</a></li>
+	<li id="menu-item-7304" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7304"><a href="http://idum.uz/ru/%d0%bc%d0%b0%d0%ba%d1%82%d0%b0%d0%b1-%d1%88%d0%b8%d1%84%d0%be%d0%ba%d0%be%d1%80%d0%b8">Школьный врач</a></li>
+	<li id="menu-item-7305" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7305"><a href="http://idum.uz/ru/maktab-faoiliyati/%d0%bc%d0%b0%d0%ba%d1%82%d0%b0%d0%b1-%d0%bc%d0%b0%d0%b4%d1%85%d0%b8%d1%8f%d1%81%d0%b8">Школьный гимн</a></li>
+	<li id="menu-item-7306" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7306"><a href="http://idum.uz/ru/%d0%ba%d0%b0%d1%81%d0%b0%d0%b1%d0%b0-%d1%83%d1%8e%d1%88%d0%bc%d0%b0%d1%81%d0%b8">Школьный профсоюз</a></li>
+	<li id="menu-item-7309" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7309"><a href="http://idum.uz/ru/%d0%bc%d0%b0%d0%ba%d1%82%d0%b0%d0%b1-%d1%81%d0%bf%d0%be%d1%80%d1%82%d0%b7%d0%b0%d0%bb%d0%b8">Школьный спортзал</a></li>
+	<li id="menu-item-7312" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7312"><a href="http://idum.uz/ru/%d0%bc%d0%b0%d0%ba%d1%82%d0%b0%d0%b1-%d0%be%d1%88%d1%85%d0%be%d0%bd%d0%b0%d1%81%d0%b8">Школьная столовая</a></li>
+	<li id="menu-item-7315" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7315"><a href="http://idum.uz/ru/%d0%bc%d0%b0%d0%ba%d1%82%d0%b0%d0%b1-%d1%91%d1%82%d0%be%d2%9b%d1%85%d0%be%d0%bd%d0%b0%d1%81%d0%b8">Общежитие школы</a></li>
+</ul>
+</li>
+<li id="menu-item-7316" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-7316"><a href="http://idum.uz/ru/госстандарт/hujjatlar-namunasi/">Учителям</a>
+<ul class="sub-menu">
+	<li id="menu-item-7317" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7317"><a href="http://idum.uz/ru/%d0%b3%d0%be%d1%81%d1%81%d1%82%d0%b0%d0%bd%d0%b4%d0%b0%d1%80%d1%82/hujjatlar-namunasi">Образцы документов</a></li>
+	<li id="menu-item-7318" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7318"><a href="http://idum.uz/ru/archives/category/video-lessons">Видеоурок</a></li>
+	<li id="menu-item-7319" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7319"><a href="http://idum.uz/ru/archives/category/presentation">Презентация</a></li>
+	<li id="menu-item-7322" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7322"><a href="http://idum.uz/ru/%d0%b3%d0%be%d1%81%d1%81%d1%82%d0%b0%d0%bd%d0%b4%d0%b0%d1%80%d1%82/testlar">Тесты</a></li>
+	<li id="menu-item-7325" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7325"><a href="http://idum.uz/ru/%d0%b3%d0%be%d1%81%d1%81%d1%82%d0%b0%d0%bd%d0%b4%d0%b0%d1%80%d1%82/%d0%b4%d0%b0%d1%80%d1%81-%d0%b8%d1%88%d0%bb%d0%b0%d0%bd%d0%bc%d0%b0%d0%bb%d0%b0%d1%80">Разработки уроков</a></li>
+	<li id="menu-item-7334" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7334"><a href="http://idum.uz/ru/%d0%bb%d0%b0%d0%b1%d0%be%d1%80%d0%b0%d1%82%d0%be%d1%80%d0%b8%d1%8f-%d0%b8%d1%88%d0%b8">Лабораторная работа</a></li>
+	<li id="menu-item-7335" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7335"><a href="http://idum.uz/ru/archives/category/methodological">Методическая помощь</a></li>
+	<li id="menu-item-7336" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7336"><a href="http://idum.uz/ru/%d0%be%d0%bb%d0%b8%d0%bc%d0%bf%d0%b8%d0%b0%d0%b4%d0%b0-%d0%b1%d0%b0%d1%85%d0%be%d0%bb%d0%b0%d1%88-%d0%bc%d0%b5%d0%b7%d0%be%d0%bd%d0%bb%d0%b0%d1%80%d0%b8">Критерии оценки олимпиады</a></li>
+	<li id="menu-item-7337" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7337"><a href="http://idum.uz/ru/%d0%b3%d0%be%d1%81%d1%81%d1%82%d0%b0%d0%bd%d0%b4%d0%b0%d1%80%d1%82/oqituvchining-zamonaviy-qiyofasi">Облик современного учителя</a></li>
+	<li id="menu-item-7338" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7338"><a href="http://idum.uz/ru/%d0%b3%d0%be%d1%81%d1%81%d1%82%d0%b0%d0%bd%d0%b4%d0%b0%d1%80%d1%82">Госстандарт</a></li>
+</ul>
+</li>
+<li id="menu-item-7339" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-7339"><a href="http://idum.uz/ru/билимингизни-синаб-кўринг/">Ученикам</a>
+<ul class="sub-menu">
+	<li id="menu-item-7343" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7343"><a href="http://idum.uz/ru/%d0%b1%d0%b8%d0%bb%d0%b8%d0%bc%d0%b8%d0%bd%d0%b3%d0%b8%d0%b7%d0%bd%d0%b8-%d1%81%d0%b8%d0%bd%d0%b0%d0%b1-%d0%ba%d1%9e%d1%80%d0%b8%d0%bd%d0%b3">Проверьте свои знания!</a></li>
+	<li id="menu-item-7344" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7344"><a href="http://idum.uz/ru/oquvchilarga-%d1%83%d1%87%d0%b5%d0%bd%d0%b8%d0%ba%d0%b0%d0%bc/android-dasturlar">Android приложения</a></li>
+	<li id="menu-item-7345" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7345"><a href="http://idum.uz/ru/oquvchilarga-%d1%83%d1%87%d0%b5%d0%bd%d0%b8%d0%ba%d0%b0%d0%bc/%d0%b4%d0%b0%d1%80%d1%81-%d0%b6%d0%b0%d0%b4%d0%b2%d0%b0%d0%bb%d0%b8">Расписание уроков</a></li>
+	<li id="menu-item-7346" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7346"><a href="http://idum.uz/ru/darsliklar">Учебники</a></li>
+	<li id="menu-item-7347" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7347"><a href="http://idum.uz/ru/oquvchilarga-%d1%83%d1%87%d0%b5%d0%bd%d0%b8%d0%ba%d0%b0%d0%bc/bitiruv-imtihon-savollari">Итоговые экзаменационные вопросы</a></li>
+	<li id="menu-item-7348" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7348"><a href="http://idum.uz/ru/archives/category/%d1%83%d0%bc%d0%b8%d0%b4%d0%bb%d0%b8-%d1%91%d1%88%d0%bb%d0%b0%d1%80">Наши надежды</a></li>
+	<li id="menu-item-7349" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7349"><a href="http://idum.uz/ru/archives/category/%d1%82%d0%b2%d0%be%d1%80%d1%87%d0%b5%d1%81%d1%82%d0%b2%d0%be-%d1%83%d1%87%d0%b5%d0%bd%d0%b8%d0%ba%d0%be%d0%b2">Творчество учеников</a></li>
+	<li id="menu-item-7350" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7350"><a href="http://idum.uz/ru/%d0%b6%d0%b8%d0%bb%d0%b4%d0%bb%d0%b0%d1%80-%d2%9b%d0%be%d0%bf%d0%bb%d0%b0%d0%bc%d0%b0%d0%bb%d0%b0%d1%80-%d0%be%d0%b1%d0%bb%d0%be%d0%b6%d0%ba%d0%b8">Титульные листы</a></li>
+	<li id="menu-item-7351" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7351"><a href="http://idum.uz/ru/oquvchilarga-%d1%83%d1%87%d0%b5%d0%bd%d0%b8%d0%ba%d0%b0%d0%bc/%d1%80%d0%b5%d1%84%d0%b5%d1%80%d0%b0%d1%82%d0%bb%d0%b0%d1%80">Рефераты</a></li>
+	<li id="menu-item-8336" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8336"><a href="http://idum.uz/ru/archives/category/answers">Спрашивали &#8212; отвечаем</a></li>
+	<li id="menu-item-8335" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8335"><a href="http://idum.uz/ru/archives/category/tests">Тесты</a></li>
+</ul>
+</li>
+<li id="menu-item-7352" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-7352"><a href="http://idum.uz/ru/category/бола-тарбияси/">Родителям</a>
+<ul class="sub-menu">
+	<li id="menu-item-7353" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7353"><a href="http://idum.uz/ru/%d0%be%d1%82%d0%b0-%d0%be%d0%bd%d0%b0%d0%bb%d0%b0%d1%80%d0%b3%d0%b0">Документы для поступления</a></li>
+	<li id="menu-item-7354" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7354"><a href="http://idum.uz/ru/archives/category/%d0%b1%d0%be%d0%bb%d0%b0-%d1%82%d0%b0%d1%80%d0%b1%d0%b8%d1%8f%d1%81%d0%b8">Воспитание ребёнка</a></li>
+	<li id="menu-item-7475" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7475"><a href="http://idum.uz/ru/archives/category/career_orientation">Профориентация</a></li>
+	<li id="menu-item-7355" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7355"><a href="http://idum.uz/ru/%d1%82%d0%b0%d1%8a%d0%bb%d0%b8%d0%bc-%d1%82%d0%b0%d1%80%d0%b1%d0%b8%d1%8f%d0%b2%d0%b8%d0%b9-%d0%b2%d0%b8%d0%b4%d0%b5%d0%be%d0%bb%d0%b0%d1%80">Обучающее видео</a></li>
+	<li id="menu-item-7420" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7420"><a href="http://idum.uz/ru/%d0%ba%d0%b0%d1%81%d0%b1-%d2%b3%d1%83%d0%bd%d0%b0%d1%80-%d0%ba%d0%be%d0%bb%d0%bb%d0%b5%d0%b6%d0%bb%d0%b0%d1%80%d0%b8-%d1%80%d1%9e%d0%b9%d1%85%d0%b0%d1%82%d0%b8">Колледжи</a></li>
+	<li id="menu-item-7421" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7421"><a href="http://idum.uz/ru/%d0%b0%d0%ba%d0%b0%d0%b4%d0%b5%d0%bc%d0%b8%d0%ba-%d0%bb%d0%b8%d1%86%d0%b5%d0%b9%d0%bb%d0%b0%d1%80-%d1%80%d1%9e%d0%b9%d1%85%d0%b0%d1%82%d0%b8">Академические лицеи</a></li>
+	<li id="menu-item-7422" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7422"><a href="http://idum.uz/ru/%d1%83%d0%b7%d0%b1%d0%b5%d0%ba%d0%b8%d1%81%d1%82%d0%be%d0%bd_%d1%83%d0%bd%d0%b8%d0%b2%d0%b5%d1%80%d1%81%d0%b8%d1%82%d0%b5%d1%82%d0%bb%d0%b0%d1%80%d0%b8">Университеты</a></li>
+	<li id="menu-item-7423" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7423"><a href="http://idum.uz/ru/%d0%b0%d0%ba%d0%b0%d0%b4%d0%b5%d0%bc%d0%b8%d0%ba-%d0%bb%d0%b8%d1%86%d0%b5%d0%b9%d0%bb%d0%b0%d1%80-%d1%80%d1%9e%d0%b9%d1%85%d0%b0%d1%82%d0%b8/darsliklarning-ijara-narxlari">Аренда книг</a></li>
+</ul>
+</li>
+<li id="menu-item-7424" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-7424"><a href="http://idum.uz/ru/archives/category/news">Новости</a>
+<ul class="sub-menu">
+	<li id="menu-item-7451" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7451"><a href="http://idum.uz/ru/archives/category/announcement">Объявления</a></li>
+	<li id="menu-item-7461" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7461"><a href="http://idum.uz/ru/archives/category/events">Мероприятия</a></li>
+	<li id="menu-item-7462" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7462"><a href="http://idum.uz/ru/archives/category/competitions">Конкурсы</a></li>
+	<li id="menu-item-7463" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7463"><a href="http://idum.uz/ru/archives/category/demonstrational_lessons">Открытые уроки</a></li>
+	<li id="menu-item-7467" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7467"><a href="http://idum.uz/ru/video-arxiv">Видеоархив</a></li>
+	<li id="menu-item-7470" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7470"><a href="http://idum.uz/ru/%d1%84%d0%be%d1%82%d0%be%d0%b0%d1%80%d1%85%d0%b8%d0%b2-2">Фотоархив</a></li>
+	<li id="menu-item-7497" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7497"><a href="http://idum.uz/ru/%d0%bc%d0%b5%d1%8a%d1%91%d1%80%d0%b8%d0%b9-%d1%85%d1%83%d0%b6%d0%b6%d0%b0%d1%82%d0%bb%d0%b0%d1%80">Нормативные документы</a></li>
+	<li id="menu-item-7485" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7485"><a href="http://idum.uz/ru/archives/category/etymology">Этимология</a></li>
+</ul>
+</li>
+<li id="menu-item-7471" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-7471"><a href="http://idum.uz/ru/archives/category/%d2%9b%d0%b8%d0%b7%d0%b8%d2%9b%d0%b0%d1%80%d0%bb%d0%b8_%d0%bc%d0%b0%d2%9b%d0%be%d0%bb%d0%b0%d0%bb%d0%b0%d1%80">Полезные статьи</a>
+<ul class="sub-menu">
+	<li id="menu-item-7472" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7472"><a href="http://idum.uz/ru/%d0%b4%d0%b0%d0%b2%d0%bb%d0%b0%d1%82-%d1%80%d0%b0%d0%bc%d0%b7%d0%bb%d0%b0%d1%80%d0%b8">Государственные символы Узбекистана</a></li>
+	<li id="menu-item-7474" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7474"><a href="http://idum.uz/ru/%d1%83%d0%bd%d0%b2%d0%be%d0%bd%d0%bb%d0%b0%d1%80">Национальные награды Узбекистана</a></li>
+	<li id="menu-item-7476" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7476"><a href="http://idum.uz/ru/%d1%9e%d0%b7%d0%b1%d0%b5%d0%ba%d0%b8%d1%81%d1%82%d0%be%d0%bd-%d0%b9%d0%b8%d0%bb-%d0%bd%d0%be%d0%bc%d0%bb%d0%b0%d1%80%d0%b8">Названия по годам</a></li>
+	<li id="menu-item-7478" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7478"><a href="http://idum.uz/ru/maqolalar/%d0%bf%d1%80%d0%b5%d0%b7%d0%b8%d0%b4%d0%b5%d0%bd%d1%82-%d0%b0%d1%81%d0%b0%d1%80%d0%bb%d0%b0%d1%80%d0%b8">Произведения И.А.Каримова</a></li>
+	<li id="menu-item-7479" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7479"><a href="http://idum.uz/ru/archives/category/%d1%81%d0%bf%d0%be%d1%80%d1%82-%d1%82%d1%83%d1%80%d0%bb%d0%b0%d1%80%d0%b8">Спортивные игры</a></li>
+	<li id="menu-item-7480" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7480"><a href="http://idum.uz/ru/archives/category/famous">Жизнь популярных людей</a></li>
+	<li id="menu-item-7481" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7481"><a href="http://idum.uz/ru/archives/category/countries-rubric">Страны</a></li>
+	<li id="menu-item-7482" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7482"><a href="http://idum.uz/ru/archives/category/%d1%82%d0%b0%d1%80%d0%b8%d1%85%d0%b8%d0%b9-%d0%be%d0%b1%d0%b8%d0%b4%d0%b0%d0%bb%d0%b0%d1%80">Исторические памятники</a></li>
+	<li id="menu-item-7484" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7484"><a href="http://idum.uz/ru/archives/category/chemical_elements">Химические элементы</a></li>
+	<li id="menu-item-7483" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7483"><a href="http://idum.uz/ru/archives/category/our_regions">Города Узбекистана</a></li>
+</ul>
+</li>
+<li id="menu-item-7487" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-7487"><a href="http://idum.uz/ru/компьютер-қурилмалари/">ИКТ</a>
+<ul class="sub-menu">
+	<li id="menu-item-7486" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7486"><a href="http://idum.uz/ru/%d0%bc%d0%b0%d0%ba%d1%82%d0%b0%d0%b1%d0%b8%d0%bc%d0%b8%d0%b7%d0%b4%d0%b0-%d0%b0%d0%ba%d1%82">ИКТ в нашей школе</a></li>
+	<li id="menu-item-7488" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7488"><a href="http://idum.uz/ru/%d0%ba%d0%be%d0%bc%d0%bf%d1%8c%d1%8e%d1%82%d0%b5%d1%80-%d2%9b%d1%83%d1%80%d0%b8%d0%bb%d0%bc%d0%b0%d0%bb%d0%b0%d1%80%d0%b8">Части компьютера</a></li>
+	<li id="menu-item-7493" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7493"><a href="http://idum.uz/ru/%d1%84%d0%be%d0%b9%d0%b4%d0%b0%d0%bb%d0%b8-%d0%b2%d0%b5%d0%b1-%d1%81%d0%b0%d0%b9%d1%82%d0%bb%d0%b0%d1%80-%d1%80%d1%9e%d0%b9%d2%b3%d0%b0%d1%82%d0%b8">Полезные веб-сайты</a></li>
+	<li id="menu-item-7491" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7491"><a href="http://idum.uz/ru/%d0%bc%d0%b0%d0%ba%d1%82%d0%b0%d0%b1%d0%b8%d0%bc%d0%b8%d0%b7%d0%b4%d0%b0-%d0%b0%d0%ba%d1%82/test-sinovi">Тестирование по ИКТ</a></li>
+	<li id="menu-item-7494" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7494"><a href="http://idum.uz/ru/archives/category/new_technologies">Мир высоких технологий</a></li>
+	<li id="menu-item-7492" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7492"><a href="http://idum.uz/ru/%d0%bc%d0%b0%d0%ba%d1%82%d0%b0%d0%b1%d0%b8%d0%bc%d0%b8%d0%b7%d0%b4%d0%b0-%d0%b0%d0%ba%d1%82/%d1%82%d0%b5%d1%80%d0%bc%d0%b8%d0%bd%d0%bb%d0%b0%d1%80">Термины</a></li>
+	<li id="menu-item-7489" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7489"><a href="http://idum.uz/ru/%d1%84%d0%be%d0%b9%d0%b4%d0%b0%d0%bb%d0%b8-%d0%b4%d0%b0%d1%81%d1%82%d1%83%d1%80%d0%bb%d0%b0%d1%80">Полезные программы</a></li>
+	<li id="menu-item-7498" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7498"><a href="http://idum.uz/ru/online-photoshop">Уроки Photoshop</a></li>
+</ul>
+</li>
+<li id="menu-item-7530" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-7530"><a href="http://idum.uz/ru/category/online-lessons/">Английский язык</a>
+<ul class="sub-menu">
+	<li id="menu-item-7531" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7531"><a href="http://idum.uz/ru/%d0%b8%d0%bd%d0%b3%d0%bb%d0%b8%d0%b7-%d1%82%d0%b8%d0%bb%d0%b8">Английский язык в нашей школе</a></li>
+	<li id="menu-item-7536" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7536"><a href="http://idum.uz/ru/archives/category/english_news">Новости английского языка</a></li>
+	<li id="menu-item-7537" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7537"><a href="http://idum.uz/ru/archives/category/tipiki_na_angliyskom_tesksty_na_angliyskom">Топики по английскому языку</a></li>
+	<li id="menu-item-7538" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7538"><a href="http://idum.uz/ru/video-lessons">Видеоуроки</a></li>
+	<li id="menu-item-7539" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7539"><a href="http://idum.uz/ru/audiolessons">Аудио уроки</a></li>
+	<li id="menu-item-7540" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7540"><a href="http://idum.uz/ru/books">Книги</a></li>
+	<li id="menu-item-7541" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7541"><a href="http://idum.uz/ru/archives/category/study_english">Изучаем английский язык!</a></li>
+	<li id="menu-item-7542" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7542"><a href="http://idum.uz/ru/english-games">English games</a></li>
+	<li id="menu-item-7543" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7543"><a href="http://idum.uz/ru/lets-go">Телепередача «Let&#8217;s Go!»</a></li>
+</ul>
+</li>
+<li id="menu-item-7544" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-7544"><a href="http://idum.uz/ru/sayt-haqida/">О сайте</a>
+<ul class="sub-menu">
+	<li id="menu-item-7547" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7547"><a href="http://idum.uz/ru/offers">Предложения</a></li>
+	<li id="menu-item-7548" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7548"><a href="http://idum.uz/ru/sayt-haqida">История сайта</a></li>
+	<li id="menu-item-7550" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7550"><a href="http://idum.uz/ru/sitemap">Карта сайта</a></li>
+</ul>
+</li>
+<li id="menu-item-7551" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7551"><a href="http://idum.uz/ru/contact">Контакты</a></li>
+<li class="default-menu"><a href="http://idum.uz/ru/" title="Navigation">Навигация</a></li></ul></div><!-- .container -->
+					</nav><!-- #main-nav -->		
+		<section class="featured-slider"><div class="slider-cycle">
+				<div class="slides displayblock"><figure><a href="http://idum.uz/ru/maktab-faoiliyati" title="О нашей школе"><img width="1018" height="460" src="http://idum.uz/wp-content/uploads/2014/04/umid_maktab_internati-min.jpg" class="pngfix wp-post-image" alt="О нашей школе" loading="lazy" title="О нашей школе" srcset="http://idum.uz/wp-content/uploads/2014/04/umid_maktab_internati-min.jpg 1018w, http://idum.uz/wp-content/uploads/2014/04/umid_maktab_internati-min-300x136.jpg 300w" sizes="(max-width: 1018px) 100vw, 1018px" /></a></figure>
+							<article class="featured-text"><div class="featured-title"><a href="http://idum.uz/ru/maktab-faoiliyati" title="О нашей школе">О нашей школе</a></div><!-- .featured-title --><div class="featured-content">Школа является важнейшим социальным институтом, прямо и непосредственно осуществляющим воспитание детей и педагогическое управление семейным воспитанием.</div><!-- .featured-content -->
+							</article><!-- .featured-text -->
+				</div><!-- .slides -->
+				<div class="slides displaynone"><figure><a href="http://idum.uz/ru/%d0%bc%d0%b0%d0%ba%d1%82%d0%b0%d0%b1-%d1%85%d0%be%d0%bd%d0%b0%d0%bb%d0%b0%d1%80%d0%b8" title="Кабинеты школы"><img width="1018" height="460" src="http://idum.uz/wp-content/uploads/2015/02/DSC_1626-.jpg" class="pngfix wp-post-image" alt="Кабинеты школы" loading="lazy" title="Кабинеты школы" srcset="http://idum.uz/wp-content/uploads/2015/02/DSC_1626-.jpg 1018w, http://idum.uz/wp-content/uploads/2015/02/DSC_1626--300x136.jpg 300w" sizes="(max-width: 1018px) 100vw, 1018px" /></a></figure>
+							<article class="featured-text"><div class="featured-title"><a href="http://idum.uz/ru/%d0%bc%d0%b0%d0%ba%d1%82%d0%b0%d0%b1-%d1%85%d0%be%d0%bd%d0%b0%d0%bb%d0%b0%d1%80%d0%b8" title="Кабинеты школы">Кабинеты школы</a></div><!-- .featured-title --><div class="featured-content">Кабинет английского языка (9 &#171;Б&#187;)</div><!-- .featured-content -->
+							</article><!-- .featured-text -->
+				</div><!-- .slides -->
+				<div class="slides displaynone"><figure><a href="http://idum.uz/ru/%d0%b1%d0%b8%d0%bb%d0%b8%d0%bc%d0%b8%d0%bd%d0%b3%d0%b8%d0%b7%d0%bd%d0%b8-%d1%81%d0%b8%d0%bd%d0%b0%d0%b1-%d0%ba%d1%9e%d1%80%d0%b8%d0%bd%d0%b3" title="Проверьте свои знания!"><img width="1018" height="460" src="http://idum.uz/wp-content/uploads/2015/11/testing-min.jpg" class="pngfix wp-post-image" alt="Проверьте свои знания!" loading="lazy" title="Проверьте свои знания!" srcset="http://idum.uz/wp-content/uploads/2015/11/testing-min.jpg 1018w, http://idum.uz/wp-content/uploads/2015/11/testing-min-300x136.jpg 300w" sizes="(max-width: 1018px) 100vw, 1018px" /></a></figure>
+							<article class="featured-text"><div class="featured-title"><a href="http://idum.uz/ru/%d0%b1%d0%b8%d0%bb%d0%b8%d0%bc%d0%b8%d0%bd%d0%b3%d0%b8%d0%b7%d0%bd%d0%b8-%d1%81%d0%b8%d0%bd%d0%b0%d0%b1-%d0%ba%d1%9e%d1%80%d0%b8%d0%bd%d0%b3" title="Проверьте свои знания!">Проверьте свои знания!</a></div><!-- .featured-title --><div class="featured-content">Проверьте свои знания, пройдя тест по всемирной истории, английскому языку, биологии, ИКТ, тест по географии и  тест по русскому языку.  Тестовые задания составлены на основе школьных материалов. Удачи вам!</div><!-- .featured-content -->
+							</article><!-- .featured-text -->
+				</div><!-- .slides -->
+				<div class="slides displaynone"><figure><a href="http://idum.uz/ru/archives/6564" title="Боты для поиска книг в «Telegram»"><img width="1018" height="460" src="http://idum.uz/wp-content/uploads/2015/07/biblioteka.jpg" class="pngfix wp-post-image" alt="Боты для поиска книг в «Telegram»" loading="lazy" title="Боты для поиска книг в «Telegram»" srcset="http://idum.uz/wp-content/uploads/2015/07/biblioteka.jpg 1018w, http://idum.uz/wp-content/uploads/2015/07/biblioteka-300x136.jpg 300w" sizes="(max-width: 1018px) 100vw, 1018px" /></a></figure>
+							<article class="featured-text"><div class="featured-title"><a href="http://idum.uz/ru/archives/6564" title="Боты для поиска книг в «Telegram»">Боты для поиска книг в «Telegram»</a></div><!-- .featured-title --><div class="featured-content">Чтобы ученики в период каникул не скучали добавляем список телеграм ботов, с помощью которых можете бесплатно скачать книги на компьютер, планшет или на телефон.</div><!-- .featured-content -->
+							</article><!-- .featured-text -->
+				</div><!-- .slides --></div>
+		<nav id="controllers" class="clearfix">
+		</nav><!-- #controllers --></section><!-- .featured-slider -->		</header>
+		
+				<div id="main" class="container clearfix">
+
+<div id="container">
+	
+
+<div id="primary" class="no-margin-left">
+   <div id="content">	<section id="post-13176" class="post-13176 post type-post status-publish format-standard has-post-thumbnail sticky hentry category-direktor_orinbosariga_foydali_maslahatlar category-for_director category-maktab-psixologi-uchun category-ustama_zarplata_oylik_maosh tag-oylik-maosh tag-3628 tag-3459 tag-2502 tag-3626 tag-3625 tag-1425 tag-1874 tag-881 tag-3624 tag-880 tag-2097">
+		<article>
+		<div class="medium-wrap">
+						<header class="entry-header">
+    			<h2 class="entry-title">
+    				<a href="http://idum.uz/ru/archives/13176" title="Какая зарплата будет у учителей в Узбекистане с 1 февраля">Какая зарплата будет у учителей в Узбекистане с 1 февраля</a>
+    			</h2><!-- .entry-title -->
+  			</header>
+
+  			
+  			
+			<figure class="post-featured-image"><a href="http://idum.uz/ru/archives/13176" title="Какая зарплата будет у учителей в Узбекистане с 1 февраля"><img width="230" height="181" src="http://idum.uz/wp-content/uploads/2020/08/dars_taqdimoti_kalkulyator_tetrad-230.jpg" class="attachment-featured-medium size-featured-medium wp-post-image" alt="Какая зарплата будет у учителей в Узбекистане с 1 февраля" loading="lazy" title="Какая зарплата будет у учителей в Узбекистане с 1 февраля" /></a></figure>  			
+    		<p>С 1 февраля 2021 года размер заработной платы и стипендий работников бюджетных организаций будет увеличен в 1,1 раза. Соответствующий указ Президент подписал 30 декабря. Итак, сколько получат сотрудники школ с 1 февраля? Подробно можете ознакомиться ниже:</p>
+<span class="tpacific-pviews-wrap tp_postviews раз просмотрено"  > <span class="tp_fon_st">🔥40.8 K раз просмотрено</span> </span>   			
+
+  			
+  					</div>
+  			<div class="entry-meta-bar clearfix">	        			
+    			<div class="entry-meta">
+	    				<span class="author"><a href="http://idum.uz/ru/archives/author/shahz">admin</a></span>
+	    				<span class="date"><a href="http://idum.uz/ru/archives/13176" title="15:52">08.01.2021</a></span>
+	    					             		<span class="category"><a href="http://idum.uz/ru/archives/category/direktor_orinbosariga_foydali_maslahatlar" rel="category tag">Завучу школы</a>, <a href="http://idum.uz/ru/archives/category/for_director" rel="category tag">Директору школы</a>, <a href="http://idum.uz/ru/archives/category/maktab-psixologi-uchun" rel="category tag">Школьному психологу</a>, <a href="http://idum.uz/ru/archives/category/ustama_zarplata_oylik_maosh" rel="category tag">Надбавка/зарплата</a></span>
+	             	 
+	    					             		<span class="comments"><a href="http://idum.uz/ru/archives/13176#comments">3 комментария</a></span>
+	             			          				
+    			</div><!-- .entry-meta -->
+    			<a class="readmore" href="http://idum.uz/ru/archives/13176" title="Какая зарплата будет у учителей в Узбекистане с 1 февраля">Читать</a>    		</div>
+
+    				</article>
+	</section>
+	<section id="post-5417" class="post-5417 post type-post status-publish format-gallery has-post-thumbnail hentry category-famous category-_ tag-mashhurlar-hayoti tag-mashxurlar-hayoti tag-zulfiya tag-zulfiya-biografiya tag-zulfiya-hayoti-va-ijodi tag-730 tag-543 tag-1747 tag-3770 post_format-post-format-gallery">
+		<article>
+		<div class="medium-wrap">
+						<header class="entry-header">
+    			<h2 class="entry-title">
+    				<a href="http://idum.uz/ru/archives/5417" title="Зульфия &#8212; жизнь и творчество (видео)">Зульфия &#8212; жизнь и творчество (видео)</a>
+    			</h2><!-- .entry-title -->
+  			</header>
+
+  			
+  			
+			<figure class="post-featured-image"><a href="http://idum.uz/ru/archives/5417" title="Зульфия &#8212; жизнь и творчество (видео)"><img width="201" height="230" src="http://idum.uz/wp-content/uploads/2015/03/zulfiya-201x230.jpg" class="attachment-featured-medium size-featured-medium wp-post-image" alt="Зульфия &#8212; жизнь и творчество (видео)" loading="lazy" title="Зульфия &#8212; жизнь и творчество (видео)" /></a></figure>  			
+    		<p>Зульфия Исраилова &#8212; известная и талантливая узбекская поэтесса. Яркая художница, тонкий знаток души простого человека-труженика, смелый борец за равные права женщин Востока в обществе. Авторитет ее поэзии &#8212; в правдивом отражении пафоса нашей сложной эпохи, в самобытном, ярком изображении души&hellip; </p>
+<span class="tpacific-pviews-wrap tp_postviews раз просмотрено"  > <span class="tp_fon_st">🔥8.9 K раз просмотрено</span> </span>   			
+
+  			
+  					</div>
+  			<div class="entry-meta-bar clearfix">	        			
+    			<div class="entry-meta">
+	    				<span class="author"><a href="http://idum.uz/ru/archives/author/shahz">admin</a></span>
+	    				<span class="date"><a href="http://idum.uz/ru/archives/5417" title="11:00">01.03.2021</a></span>
+	    					             		<span class="category"><a href="http://idum.uz/ru/archives/category/famous" rel="category tag">Жизнь популярных людей</a>, <a href="http://idum.uz/ru/archives/category/%d1%82%d0%b0%d0%b4%d0%b1%d0%b8%d1%80_%d1%81%d1%86%d0%b5%d0%bd%d0%b0%d1%80%d0%b8%d0%b9%d1%81%d0%b8" rel="category tag">Сценарии мероприятий и праздников</a></span>
+	             	 
+	    					             		<span class="comments"><a href="http://idum.uz/ru/archives/5417#comments">1 коментарий</a></span>
+	             			          				
+    			</div><!-- .entry-meta -->
+    			<a class="readmore" href="http://idum.uz/ru/archives/5417" title="Зульфия &#8212; жизнь и творчество (видео)">Читать</a>    		</div>
+
+    				</article>
+	</section>
+	<section id="post-13494" class="post-13494 post type-post status-publish format-standard has-post-thumbnail hentry category-news tag-2559 tag-3581 tag-2558 tag-3652">
+		<article>
+		<div class="medium-wrap">
+						<header class="entry-header">
+    			<h2 class="entry-title">
+    				<a href="http://idum.uz/ru/archives/13494" title="Определен список школ, в которых будут проводиться контрольные работы по национальному рейтингу">Определен список школ, в которых будут проводиться контрольные работы по национальному рейтингу</a>
+    			</h2><!-- .entry-title -->
+  			</header>
+
+  			
+  			
+			<figure class="post-featured-image"><a href="http://idum.uz/ru/archives/13494" title="Определен список школ, в которых будут проводиться контрольные работы по национальному рейтингу"><img width="230" height="168" src="http://idum.uz/wp-content/uploads/2019/10/umid_bio-230x168.jpg" class="attachment-featured-medium size-featured-medium wp-post-image" alt="Определен список школ, в которых будут проводиться контрольные работы по национальному рейтингу" loading="lazy" title="Определен список школ, в которых будут проводиться контрольные работы по национальному рейтингу" /></a></figure>  			
+    		<p>Определены школы, в которых апреле-мае 2021 года проводится контрольные работы по национальному рейтингу.</p>
+<span class="tpacific-pviews-wrap tp_postviews раз просмотрено"  > <span class="tp_fon_st">🔥1.1 K раз просмотрено</span> </span>   			
+
+  			
+  					</div>
+  			<div class="entry-meta-bar clearfix">	        			
+    			<div class="entry-meta">
+	    				<span class="author"><a href="http://idum.uz/ru/archives/author/shahz">admin</a></span>
+	    				<span class="date"><a href="http://idum.uz/ru/archives/13494" title="10:48">01.03.2021</a></span>
+	    					             		<span class="category"><a href="http://idum.uz/ru/archives/category/news" rel="category tag">Новости</a></span>
+	             	 
+	    					             		<span class="comments"><a href="http://idum.uz/ru/archives/13494#respond">Комментариев нет</a></span>
+	             			          				
+    			</div><!-- .entry-meta -->
+    			<a class="readmore" href="http://idum.uz/ru/archives/13494" title="Определен список школ, в которых будут проводиться контрольные работы по национальному рейтингу">Читать</a>    		</div>
+
+    				</article>
+	</section>
+	<section id="post-13491" class="post-13491 post type-post status-publish format-standard has-post-thumbnail hentry category-news tag-talim-yangiliklari tag-3581 tag-2558">
+		<article>
+		<div class="medium-wrap">
+						<header class="entry-header">
+    			<h2 class="entry-title">
+    				<a href="http://idum.uz/ru/archives/13491" title="Какие изменения вступят в силу системе образования с 1 марта?">Какие изменения вступят в силу системе образования с 1 марта?</a>
+    			</h2><!-- .entry-title -->
+  			</header>
+
+  			
+  			
+			<figure class="post-featured-image"><a href="http://idum.uz/ru/archives/13491" title="Какие изменения вступят в силу системе образования с 1 марта?"><img width="230" height="177" src="http://idum.uz/wp-content/uploads/2021/02/1_march_1_marta_1_mart_230.jpg" class="attachment-featured-medium size-featured-medium wp-post-image" alt="Какие изменения вступят в силу системе образования с 1 марта?" loading="lazy" title="Какие изменения вступят в силу системе образования с 1 марта?" /></a></figure>  			
+    		<p>Какие изменения произойдут в системе образования Узбекистана с 1 марта 2021 года? Некоторые из них упомянул сайт kun.uz, а мы в свою очередь перевели вам эти данные.</p>
+<span class="tpacific-pviews-wrap tp_postviews раз просмотрено"  > <span class="tp_fon_st">🔥3.4 K раз просмотрено</span> </span>   			
+
+  			
+  					</div>
+  			<div class="entry-meta-bar clearfix">	        			
+    			<div class="entry-meta">
+	    				<span class="author"><a href="http://idum.uz/ru/archives/author/shahz">admin</a></span>
+	    				<span class="date"><a href="http://idum.uz/ru/archives/13491" title="18:47">28.02.2021</a></span>
+	    					             		<span class="category"><a href="http://idum.uz/ru/archives/category/news" rel="category tag">Новости</a></span>
+	             	 
+	    					             		<span class="comments"><a href="http://idum.uz/ru/archives/13491#comments">1 коментарий</a></span>
+	             			          				
+    			</div><!-- .entry-meta -->
+    			<a class="readmore" href="http://idum.uz/ru/archives/13491" title="Какие изменения вступят в силу системе образования с 1 марта?">Читать</a>    		</div>
+
+    				</article>
+	</section>
+	<section id="post-13472" class="post-13472 post type-post status-publish format-standard has-post-thumbnail hentry category-abiturientga-eslatma tag-2019-yil-dtm-namunaviy-test-savollari tag-ona-tili tag-ona-tili-dtm-test tag-ona-tilidan-axborotnoma tag-ona-tilidan-test tag-test tag-623 tag-1405 tag-1406 tag-3763 tag-2920 tag-52 tag-3766 tag-1798 tag-187">
+		<article>
+		<div class="medium-wrap">
+						<header class="entry-header">
+    			<h2 class="entry-title">
+    				<a href="http://idum.uz/ru/archives/13472" title="Типовые вопросы по предмету Русский язык и литература">Типовые вопросы по предмету Русский язык и литература</a>
+    			</h2><!-- .entry-title -->
+  			</header>
+
+  			
+  			
+			<figure class="post-featured-image"><a href="http://idum.uz/ru/archives/13472" title="Типовые вопросы по предмету Русский язык и литература"><img width="230" height="173" src="http://idum.uz/wp-content/uploads/2016/06/ekzamen-230x173.jpg" class="attachment-featured-medium size-featured-medium wp-post-image" alt="Типовые вопросы по предмету Русский язык и литература" loading="lazy" title="Типовые вопросы по предмету Русский язык и литература" /></a></figure>  			
+    		<p>В данной странице выпускники школ и абитуриенты могут скачать образцы тестов по русскому языку Государственного тестового центра в формате pdf.</p>
+<span class="tpacific-pviews-wrap tp_postviews раз просмотрено"  > <span class="tp_fon_st">🔥1.4 K раз просмотрено</span> </span>   			
+
+  			
+  					</div>
+  			<div class="entry-meta-bar clearfix">	        			
+    			<div class="entry-meta">
+	    				<span class="author"><a href="http://idum.uz/ru/archives/author/shahz">admin</a></span>
+	    				<span class="date"><a href="http://idum.uz/ru/archives/13472" title="20:23">27.02.2021</a></span>
+	    					             		<span class="category"><a href="http://idum.uz/ru/archives/category/abiturientga-eslatma" rel="category tag">Помощь абитуриенту</a></span>
+	             	 
+	    					             		<span class="comments"><a href="http://idum.uz/ru/archives/13472#respond">Комментариев нет</a></span>
+	             			          				
+    			</div><!-- .entry-meta -->
+    			<a class="readmore" href="http://idum.uz/ru/archives/13472" title="Типовые вопросы по предмету Русский язык и литература">Читать</a>    		</div>
+
+    				</article>
+	</section>
+	<section id="post-13301" class="post-13301 post type-post status-publish format-standard has-post-thumbnail hentry category-nizom category-news tag-nizom tag-ommalashtirish-nizomi tag-talim-yangilikari tag-572 tag-3581 tag-3676 tag-989 tag-3678">
+		<article>
+		<div class="medium-wrap">
+						<header class="entry-header">
+    			<h2 class="entry-title">
+    				<a href="http://idum.uz/ru/archives/13301" title="Как осуществляется порядок изучения и распространения передового опыта сотрудников народного образования?">Как осуществляется порядок изучения и распространения передового опыта сотрудников народного образования?</a>
+    			</h2><!-- .entry-title -->
+  			</header>
+
+  			
+  			
+			<figure class="post-featured-image"><a href="http://idum.uz/ru/archives/13301" title="Как осуществляется порядок изучения и распространения передового опыта сотрудников народного образования?"><img width="230" height="191" src="http://idum.uz/wp-content/uploads/2015/05/document-2-230x191.jpg" class="attachment-featured-medium size-featured-medium wp-post-image" alt="Как осуществляется порядок изучения и распространения передового опыта сотрудников народного образования?" loading="lazy" title="Как осуществляется порядок изучения и распространения передового опыта сотрудников народного образования?" /></a></figure>  			
+    		<p>Республиканским Центром Образования разработана процедура «Изучения и распространения передового опыта» сотрудников народного образования.</p>
+<span class="tpacific-pviews-wrap tp_postviews раз просмотрено"  > <span class="tp_fon_st">🔥2.1 K раз просмотрено</span> </span>   			
+
+  			
+  					</div>
+  			<div class="entry-meta-bar clearfix">	        			
+    			<div class="entry-meta">
+	    				<span class="author"><a href="http://idum.uz/ru/archives/author/shahz">admin</a></span>
+	    				<span class="date"><a href="http://idum.uz/ru/archives/13301" title="11:00">27.02.2021</a></span>
+	    					             		<span class="category"><a href="http://idum.uz/ru/archives/category/nizom" rel="category tag">Положение</a>, <a href="http://idum.uz/ru/archives/category/news" rel="category tag">Новости</a></span>
+	             	 
+	    					             		<span class="comments"><a href="http://idum.uz/ru/archives/13301#respond">Комментариев нет</a></span>
+	             			          				
+    			</div><!-- .entry-meta -->
+    			<a class="readmore" href="http://idum.uz/ru/archives/13301" title="Как осуществляется порядок изучения и распространения передового опыта сотрудников народного образования?">Читать</a>    		</div>
+
+    				</article>
+	</section>
+	<section id="post-13482" class="post-13482 post type-post status-publish format-standard has-post-thumbnail hentry category-validation tag-attestatsiya tag-attestatsiya-2021 tag-attestatsiya-javoblari tag-attestatsiya-savollari tag-111 tag-3572 tag---2021- tag-3632 tag-1933 tag---2021 tag-3570 tag-3631 tag-3717 tag-3571">
+		<article>
+		<div class="medium-wrap">
+						<header class="entry-header">
+    			<h2 class="entry-title">
+    				<a href="http://idum.uz/ru/archives/13482" title="Ответы на важные вопросы по аттестации педагогов (#5)">Ответы на важные вопросы по аттестации педагогов (#5)</a>
+    			</h2><!-- .entry-title -->
+  			</header>
+
+  			
+  			
+			<figure class="post-featured-image"><a href="http://idum.uz/ru/archives/13482" title="Ответы на важные вопросы по аттестации педагогов (#5)"><img width="230" height="177" src="http://idum.uz/wp-content/uploads/2021/02/attestatsiya-2021-230.jpg" class="attachment-featured-medium size-featured-medium wp-post-image" alt="Ответы на важные вопросы по аттестации педагогов (#5)" loading="lazy" title="Ответы на важные вопросы по аттестации педагогов (#5)" /></a></figure>  			
+    		<p>В данной странице можете получить ответы на важные вопросы по аттестации учителей. Информация переведена на русский язык с телеграм канала Государственной инспекции по контролю качества образования при Кабинете Министров Республики Узбекистан.</p>
+<span class="tpacific-pviews-wrap tp_postviews раз просмотрено"  > <span class="tp_fon_st">🔥2.3 K раз просмотрено</span> </span>   			
+
+  			
+  					</div>
+  			<div class="entry-meta-bar clearfix">	        			
+    			<div class="entry-meta">
+	    				<span class="author"><a href="http://idum.uz/ru/archives/author/shahz">admin</a></span>
+	    				<span class="date"><a href="http://idum.uz/ru/archives/13482" title="18:01">26.02.2021</a></span>
+	    					             		<span class="category"><a href="http://idum.uz/ru/archives/category/validation" rel="category tag">Аттестация</a></span>
+	             	 
+	    					             		<span class="comments"><a href="http://idum.uz/ru/archives/13482#respond">Комментариев нет</a></span>
+	             			          				
+    			</div><!-- .entry-meta -->
+    			<a class="readmore" href="http://idum.uz/ru/archives/13482" title="Ответы на важные вопросы по аттестации педагогов (#5)">Читать</a>    		</div>
+
+    				</article>
+	</section>
+	<section id="post-13479" class="post-13479 post type-post status-publish format-standard has-post-thumbnail hentry category-news tag-talim-yangiliklari tag-3523 tag-2559 tag-3581 tag-2558">
+		<article>
+		<div class="medium-wrap">
+						<header class="entry-header">
+    			<h2 class="entry-title">
+    				<a href="http://idum.uz/ru/archives/13479" title="МНО попросило сообщить о школах, которые плохо отапливаются">МНО попросило сообщить о школах, которые плохо отапливаются</a>
+    			</h2><!-- .entry-title -->
+  			</header>
+
+  			
+  			
+			<figure class="post-featured-image"><a href="http://idum.uz/ru/archives/13479" title="МНО попросило сообщить о школах, которые плохо отапливаются"><img width="230" height="177" src="http://idum.uz/wp-content/uploads/2021/01/xtv-logo-mno-logo.jpg" class="attachment-featured-medium size-featured-medium wp-post-image" alt="МНО попросило сообщить о школах, которые плохо отапливаются" loading="lazy" title="МНО попросило сообщить о школах, которые плохо отапливаются" /></a></figure>  			
+    		<p>Министерство народного образования попросило сообщить о школах, которые плохо отапливаются.</p>
+<span class="tpacific-pviews-wrap tp_postviews раз просмотрено"  > <span class="tp_fon_st">🔥221 раз просмотрено</span> </span>   			
+
+  			
+  					</div>
+  			<div class="entry-meta-bar clearfix">	        			
+    			<div class="entry-meta">
+	    				<span class="author"><a href="http://idum.uz/ru/archives/author/shahz">admin</a></span>
+	    				<span class="date"><a href="http://idum.uz/ru/archives/13479" title="18:34">25.02.2021</a></span>
+	    					             		<span class="category"><a href="http://idum.uz/ru/archives/category/news" rel="category tag">Новости</a></span>
+	             	 
+	    					             		<span class="comments"><a href="http://idum.uz/ru/archives/13479#respond">Комментариев нет</a></span>
+	             			          				
+    			</div><!-- .entry-meta -->
+    			<a class="readmore" href="http://idum.uz/ru/archives/13479" title="МНО попросило сообщить о школах, которые плохо отапливаются">Читать</a>    		</div>
+
+    				</article>
+	</section>
+	<section id="post-13475" class="post-13475 post type-post status-publish format-standard has-post-thumbnail hentry category-olimpiada tag-fan-olimpiadasi tag-fan-olimpiyadasi tag-maktab-fan-olimpiadasi tag-olimpiada tag-qoqon-olimpiadasi tag-166 tag-2081">
+		<article>
+		<div class="medium-wrap">
+						<header class="entry-header">
+    			<h2 class="entry-title">
+    				<a href="http://idum.uz/ru/archives/13475" title="Подведены итоги областного этапа Кокандской Олимпиады">Подведены итоги областного этапа Кокандской Олимпиады</a>
+    			</h2><!-- .entry-title -->
+  			</header>
+
+  			
+  			
+			<figure class="post-featured-image"><a href="http://idum.uz/ru/archives/13475" title="Подведены итоги областного этапа Кокандской Олимпиады"><img width="230" height="177" src="http://idum.uz/wp-content/uploads/2021/02/kokand-olimpiada-230.jpg" class="attachment-featured-medium size-featured-medium wp-post-image" alt="Подведены итоги областного этапа Кокандской Олимпиады" loading="lazy" title="Подведены итоги областного этапа Кокандской Олимпиады" /></a></figure>  			
+    		<p>&#x1f468;&#x1f3fb;&#x200d;&#x1f393; 20-21 февраля 2021 года прошел региональный этап Кокандской олимпиады по математике среди учащихся общеобразовательных школ, Президентских, творческих и специализированных школ и негосударственных образовательных учреждений.</p>
+<span class="tpacific-pviews-wrap tp_postviews раз просмотрено"  > <span class="tp_fon_st">🔥2.0 K раз просмотрено</span> </span>   			
+
+  			
+  					</div>
+  			<div class="entry-meta-bar clearfix">	        			
+    			<div class="entry-meta">
+	    				<span class="author"><a href="http://idum.uz/ru/archives/author/shahz">admin</a></span>
+	    				<span class="date"><a href="http://idum.uz/ru/archives/13475" title="00:01">25.02.2021</a></span>
+	    					             		<span class="category"><a href="http://idum.uz/ru/archives/category/olimpiada" rel="category tag">Олимпиада</a></span>
+	             	 
+	    					             		<span class="comments"><a href="http://idum.uz/ru/archives/13475#respond">Комментариев нет</a></span>
+	             			          				
+    			</div><!-- .entry-meta -->
+    			<a class="readmore" href="http://idum.uz/ru/archives/13475" title="Подведены итоги областного этапа Кокандской Олимпиады">Читать</a>    		</div>
+
+    				</article>
+	</section>
+	<section id="post-13470" class="post-13470 post type-post status-publish format-standard has-post-thumbnail hentry category-sinf_rahbariga tag-sinf-rahbari tag-sinf-rahbari-hujjatlari tag-sinf-rahbariga tag-sinf-raxbari tag-2471 tag-1899 tag-2469 tag-3093">
+		<article>
+		<div class="medium-wrap">
+						<header class="entry-header">
+    			<h2 class="entry-title">
+    				<a href="http://idum.uz/ru/archives/13470" title="Изменились требования к классным руководителям">Изменились требования к классным руководителям</a>
+    			</h2><!-- .entry-title -->
+  			</header>
+
+  			
+  			
+			<figure class="post-featured-image"><a href="http://idum.uz/ru/archives/13470" title="Изменились требования к классным руководителям"><img width="230" height="177" src="http://idum.uz/wp-content/uploads/2017/03/uqituvchi-small-230x177.jpg" class="attachment-featured-medium size-featured-medium wp-post-image" alt="Изменились требования к классным руководителям" loading="lazy" title="Изменились требования к классным руководителям" /></a></figure>  			
+    		<p>С февраля 2021 года в системе народного образования введено Положение о назначении единого классного руководителя с 5 по 11 класс. Согласно новому Положению, в первую очередь были разработаны общие требования к классным руководителям в школах. А именно,</p>
+<span class="tpacific-pviews-wrap tp_postviews раз просмотрено"  > <span class="tp_fon_st">🔥2.4 K раз просмотрено</span> </span>   			
+
+  			
+  					</div>
+  			<div class="entry-meta-bar clearfix">	        			
+    			<div class="entry-meta">
+	    				<span class="author"><a href="http://idum.uz/ru/archives/author/shahz">admin</a></span>
+	    				<span class="date"><a href="http://idum.uz/ru/archives/13470" title="23:30">24.02.2021</a></span>
+	    					             		<span class="category"><a href="http://idum.uz/ru/archives/category/sinf_rahbariga" rel="category tag">Классному руководителю</a></span>
+	             	 
+	    					             		<span class="comments"><a href="http://idum.uz/ru/archives/13470#comments">1 коментарий</a></span>
+	             			          				
+    			</div><!-- .entry-meta -->
+    			<a class="readmore" href="http://idum.uz/ru/archives/13470" title="Изменились требования к классным руководителям">Читать</a>    		</div>
+
+    				</article>
+	</section>
+	<section id="post-13466" class="post-13466 post type-post status-publish format-standard has-post-thumbnail hentry category-news tag-talim-yangilikari tag-2559 tag-3581 tag-2558 tag-3652">
+		<article>
+		<div class="medium-wrap">
+						<header class="entry-header">
+    			<h2 class="entry-title">
+    				<a href="http://idum.uz/ru/archives/13466" title="Если у вас возникли проблемы с выплатой заработной платы из-за безответственности на местах, обратитесь напрямую в финансовый департамент МНО">Если у вас возникли проблемы с выплатой заработной платы из-за безответственности на местах, обратитесь напрямую в финансовый департамент МНО</a>
+    			</h2><!-- .entry-title -->
+  			</header>
+
+  			
+  			
+			<figure class="post-featured-image"><a href="http://idum.uz/ru/archives/13466" title="Если у вас возникли проблемы с выплатой заработной платы из-за безответственности на местах, обратитесь напрямую в финансовый департамент МНО"><img width="230" height="181" src="http://idum.uz/wp-content/uploads/2020/08/dars_taqdimoti_kalkulyator_tetrad-230.jpg" class="attachment-featured-medium size-featured-medium wp-post-image" alt="Если у вас возникли проблемы с выплатой заработной платы из-за безответственности на местах, обратитесь напрямую в финансовый департамент МНО" loading="lazy" title="Если у вас возникли проблемы с выплатой заработной платы из-за безответственности на местах, обратитесь напрямую в финансовый департамент МНО" /></a></figure>  			
+    		<p>Как сообщает официальный канал МНО, заработная плата и приравненные к ней выплаты работникам общеобразовательных школ системы народного образования оформляются и выплачиваются районными (городскими) отделами народного образования.</p>
+<span class="tpacific-pviews-wrap tp_postviews раз просмотрено"  > <span class="tp_fon_st">🔥3.7 K раз просмотрено</span> </span>   			
+
+  			
+  					</div>
+  			<div class="entry-meta-bar clearfix">	        			
+    			<div class="entry-meta">
+	    				<span class="author"><a href="http://idum.uz/ru/archives/author/shahz">admin</a></span>
+	    				<span class="date"><a href="http://idum.uz/ru/archives/13466" title="12:08">23.02.2021</a></span>
+	    					             		<span class="category"><a href="http://idum.uz/ru/archives/category/news" rel="category tag">Новости</a></span>
+	             	 
+	    					             		<span class="comments"><a href="http://idum.uz/ru/archives/13466#respond">Комментариев нет</a></span>
+	             			          				
+    			</div><!-- .entry-meta -->
+    			<a class="readmore" href="http://idum.uz/ru/archives/13466" title="Если у вас возникли проблемы с выплатой заработной платы из-за безответственности на местах, обратитесь напрямую в финансовый департамент МНО">Читать</a>    		</div>
+
+    				</article>
+	</section>
+	<section id="post-13456" class="post-13456 post type-post status-publish format-standard has-post-thumbnail hentry category-abiturientga-eslatma tag-5-- tag-abiturientlarga tag-dtm tag-623 tag-1405 tag-1406 tag-3763 tag-3760">
+		<article>
+		<div class="medium-wrap">
+						<header class="entry-header">
+    			<h2 class="entry-title">
+    				<a href="http://idum.uz/ru/archives/13456" title="Вся информация об тестовых испытаниях в вузы, проводимых 2021 году">Вся информация об тестовых испытаниях в вузы, проводимых 2021 году</a>
+    			</h2><!-- .entry-title -->
+  			</header>
+
+  			
+  			
+			<figure class="post-featured-image"><a href="http://idum.uz/ru/archives/13456" title="Вся информация об тестовых испытаниях в вузы, проводимых 2021 году"><img width="230" height="177" src="http://idum.uz/wp-content/uploads/2021/02/test_abiturient_dtm_230.jpg" class="attachment-featured-medium size-featured-medium wp-post-image" alt="Вся информация об тестовых испытаниях в вузы, проводимых 2021 году" loading="lazy" title="Вся информация об тестовых испытаниях в вузы, проводимых 2021 году" /></a></figure>  			
+    		<p>Известный блогер, юрист Хушнудбек Худойбердиев поделился в своём телеграм-канале о новом порядке тестирования абитуриентов в 2021 году.</p>
+<span class="tpacific-pviews-wrap tp_postviews раз просмотрено"  > <span class="tp_fon_st">🔥1.8 K раз просмотрено</span> </span>   			
+
+  			
+  					</div>
+  			<div class="entry-meta-bar clearfix">	        			
+    			<div class="entry-meta">
+	    				<span class="author"><a href="http://idum.uz/ru/archives/author/shahz">admin</a></span>
+	    				<span class="date"><a href="http://idum.uz/ru/archives/13456" title="17:33">22.02.2021</a></span>
+	    					             		<span class="category"><a href="http://idum.uz/ru/archives/category/abiturientga-eslatma" rel="category tag">Помощь абитуриенту</a></span>
+	             	 
+	    					             		<span class="comments"><a href="http://idum.uz/ru/archives/13456#respond">Комментариев нет</a></span>
+	             			          				
+    			</div><!-- .entry-meta -->
+    			<a class="readmore" href="http://idum.uz/ru/archives/13456" title="Вся информация об тестовых испытаниях в вузы, проводимых 2021 году">Читать</a>    		</div>
+
+    				</article>
+	</section>
+	<section id="post-13453" class="post-13453 post type-post status-publish format-standard has-post-thumbnail hentry category-abiturientga-eslatma tag-623 tag-1406 tag-2920 tag-150 tag-187 tag-3760">
+		<article>
+		<div class="medium-wrap">
+						<header class="entry-header">
+    			<h2 class="entry-title">
+    				<a href="http://idum.uz/ru/archives/13453" title="Сборник тестов ДТМ по математике">Сборник тестов ДТМ по математике</a>
+    			</h2><!-- .entry-title -->
+  			</header>
+
+  			
+  			
+			<figure class="post-featured-image"><a href="http://idum.uz/ru/archives/13453" title="Сборник тестов ДТМ по математике"><img width="230" height="177" src="http://idum.uz/wp-content/uploads/2016/07/matematika-1212-230x177.jpg" class="attachment-featured-medium size-featured-medium wp-post-image" alt="Сборник тестов ДТМ по математике" loading="lazy" title="Сборник тестов ДТМ по математике" /></a></figure>  			
+    		<p>В данной странице выпускники школ и абитуриенты могут скачать образцы тестов Государственного тестового центра в формате pdf.</p>
+<span class="tpacific-pviews-wrap tp_postviews раз просмотрено"  > <span class="tp_fon_st">🔥1.4 K раз просмотрено</span> </span>   			
+
+  			
+  					</div>
+  			<div class="entry-meta-bar clearfix">	        			
+    			<div class="entry-meta">
+	    				<span class="author"><a href="http://idum.uz/ru/archives/author/shahz">admin</a></span>
+	    				<span class="date"><a href="http://idum.uz/ru/archives/13453" title="09:51">22.02.2021</a></span>
+	    					             		<span class="category"><a href="http://idum.uz/ru/archives/category/abiturientga-eslatma" rel="category tag">Помощь абитуриенту</a></span>
+	             	 
+	    					             		<span class="comments"><a href="http://idum.uz/ru/archives/13453#respond">Комментариев нет</a></span>
+	             			          				
+    			</div><!-- .entry-meta -->
+    			<a class="readmore" href="http://idum.uz/ru/archives/13453" title="Сборник тестов ДТМ по математике">Читать</a>    		</div>
+
+    				</article>
+	</section>
+	<section id="post-9238" class="post-9238 post type-post status-publish format-standard has-post-thumbnail hentry category-study_russian_language tag-rus-tili tag-1235 tag-1857 tag-1236 tag-1237 tag-1238 tag-741 tag-1234 tag-1239 tag-351">
+		<article>
+		<div class="medium-wrap">
+						<header class="entry-header">
+    			<h2 class="entry-title">
+    				<a href="http://idum.uz/ru/archives/9238" title="Падежи в русском языке">Падежи в русском языке</a>
+    			</h2><!-- .entry-title -->
+  			</header>
+
+  			
+  			
+			<figure class="post-featured-image"><a href="http://idum.uz/ru/archives/9238" title="Падежи в русском языке"><img width="230" height="175" src="http://idum.uz/wp-content/uploads/2016/05/russkiy-230x175.jpg" class="attachment-featured-medium size-featured-medium wp-post-image" alt="Падежи в русском языке" loading="lazy" title="Падежи в русском языке" /></a></figure>  			
+    		<p>Паде́ж в языках флективного (синтетического) или агглютинирующего строя — категория слова (обычно имени), показывающая его синтаксическую роль в предложении и связывающая отдельные слова предложения.</p>
+<span class="tpacific-pviews-wrap tp_postviews раз просмотрено"  > <span class="tp_fon_st">🔥11.4 K раз просмотрено</span> </span>   			
+
+  			
+  					</div>
+  			<div class="entry-meta-bar clearfix">	        			
+    			<div class="entry-meta">
+	    				<span class="author"><a href="http://idum.uz/ru/archives/author/shahz">admin</a></span>
+	    				<span class="date"><a href="http://idum.uz/ru/archives/9238" title="09:00">20.02.2021</a></span>
+	    					             		<span class="category"><a href="http://idum.uz/ru/archives/category/study_russian_language" rel="category tag">Изучаем русский язык!</a></span>
+	             	 
+	    					             		<span class="comments"><a href="http://idum.uz/ru/archives/9238#comments">1 коментарий</a></span>
+	             			          				
+    			</div><!-- .entry-meta -->
+    			<a class="readmore" href="http://idum.uz/ru/archives/9238" title="Падежи в русском языке">Читать</a>    		</div>
+
+    				</article>
+	</section>
+	<section id="post-13447" class="post-13447 post type-post status-publish format-standard has-post-thumbnail hentry category-olimpiada tag-maktab-olimpiada-savollari tag-maktab-olimpiadasi tag-olimpiada tag-olimpiada-savollari tag-qoqon-olimpiadasi tag-166 tag-2081">
+		<article>
+		<div class="medium-wrap">
+						<header class="entry-header">
+    			<h2 class="entry-title">
+    				<a href="http://idum.uz/ru/archives/13447" title="Областной этап Кокандской олимпиады пройдет 20-21 февраля">Областной этап Кокандской олимпиады пройдет 20-21 февраля</a>
+    			</h2><!-- .entry-title -->
+  			</header>
+
+  			
+  			
+			<figure class="post-featured-image"><a href="http://idum.uz/ru/archives/13447" title="Областной этап Кокандской олимпиады пройдет 20-21 февраля"><img width="230" height="177" src="http://idum.uz/wp-content/uploads/2021/02/kokand-olimpiada-230.jpg" class="attachment-featured-medium size-featured-medium wp-post-image" alt="Областной этап Кокандской олимпиады пройдет 20-21 февраля" loading="lazy" title="Областной этап Кокандской олимпиады пройдет 20-21 февраля" /></a></figure>  			
+    		<p>&#x1f468;&#x1f3fb;&#x200d;&#x1f393;«Кокандская олимпиада» проводится среди общеобразовательных школ, Президентских, творческих и специализированных школ, негосударственных образовательных учреждений и учащихся академических лицеев с целью отбора, поддержки и поощрения образованной и талантливой молодежи в математике. Об этом сообщает Государственный центр тестирования.</p>
+<span class="tpacific-pviews-wrap tp_postviews раз просмотрено"  > <span class="tp_fon_st">🔥822 раз просмотрено</span> </span>   			
+
+  			
+  					</div>
+  			<div class="entry-meta-bar clearfix">	        			
+    			<div class="entry-meta">
+	    				<span class="author"><a href="http://idum.uz/ru/archives/author/shahz">admin</a></span>
+	    				<span class="date"><a href="http://idum.uz/ru/archives/13447" title="19:41">19.02.2021</a></span>
+	    					             		<span class="category"><a href="http://idum.uz/ru/archives/category/olimpiada" rel="category tag">Олимпиада</a></span>
+	             	 
+	    					             		<span class="comments"><a href="http://idum.uz/ru/archives/13447#respond">Комментариев нет</a></span>
+	             			          				
+    			</div><!-- .entry-meta -->
+    			<a class="readmore" href="http://idum.uz/ru/archives/13447" title="Областной этап Кокандской олимпиады пройдет 20-21 февраля">Читать</a>    		</div>
+
+    				</article>
+	</section>
+	<section id="post-12127" class="post-12127 post type-post status-publish format-standard has-post-thumbnail hentry category-validation category-terms tag-attestatsiya tag-attestatsiya-javoblari tag-attestatsiya-terminlari tag-pedagogika-terminlari tag-pedagogikadan-terminlar tag-termin-va-atamalar tag-111 tag-3158 tag-3157 tag-3156 tag-3153 tag-1046 tag-1030 tag-1032 tag-3160">
+		<article>
+		<div class="medium-wrap">
+						<header class="entry-header">
+    			<h2 class="entry-title">
+    				<a href="http://idum.uz/ru/archives/12127" title="Термины которые встречаются в аттестации">Термины которые встречаются в аттестации</a>
+    			</h2><!-- .entry-title -->
+  			</header>
+
+  			
+  			
+			<figure class="post-featured-image"><a href="http://idum.uz/ru/archives/12127" title="Термины которые встречаются в аттестации"><img width="230" height="163" src="http://idum.uz/wp-content/uploads/2016/08/dokumenty-230x163.jpg" class="attachment-featured-medium size-featured-medium wp-post-image" alt="Термины которые встречаются в аттестации" loading="lazy" title="Термины которые встречаются в аттестации" /></a></figure>  			
+    		<p>В данной странице можете ознакомиться с терминами по педагогике и ИКТ, которые встречались во выходных тестах повышения квалификации и аттестации педагогов.</p>
+<span class="tpacific-pviews-wrap tp_postviews раз просмотрено"  > <span class="tp_fon_st">🔥4.2 K раз просмотрено</span> </span>   			
+
+  			
+  					</div>
+  			<div class="entry-meta-bar clearfix">	        			
+    			<div class="entry-meta">
+	    				<span class="author"><a href="http://idum.uz/ru/archives/author/shahz">admin</a></span>
+	    				<span class="date"><a href="http://idum.uz/ru/archives/12127" title="08:00">19.02.2021</a></span>
+	    					             		<span class="category"><a href="http://idum.uz/ru/archives/category/validation" rel="category tag">Аттестация</a>, <a href="http://idum.uz/ru/archives/category/terms" rel="category tag">Термины</a></span>
+	             	 
+	    					             		<span class="comments"><a href="http://idum.uz/ru/archives/12127#comments">1 коментарий</a></span>
+	             			          				
+    			</div><!-- .entry-meta -->
+    			<a class="readmore" href="http://idum.uz/ru/archives/12127" title="Термины которые встречаются в аттестации">Читать</a>    		</div>
+
+    				</article>
+	</section>
+	<section id="post-13440" class="post-13440 post type-post status-publish format-standard has-post-thumbnail hentry category-news tag-talim-yangiliklari tag-talim_yangiliklari tag-2559 tag-3581 tag-3582 tag-2558">
+		<article>
+		<div class="medium-wrap">
+						<header class="entry-header">
+    			<h2 class="entry-title">
+    				<a href="http://idum.uz/ru/archives/13440" title="Будет внедрена система непрерывного повышения квалификации педагогов">Будет внедрена система непрерывного повышения квалификации педагогов</a>
+    			</h2><!-- .entry-title -->
+  			</header>
+
+  			
+  			
+			<figure class="post-featured-image"><a href="http://idum.uz/ru/archives/13440" title="Будет внедрена система непрерывного повышения квалификации педагогов"><img width="230" height="178" src="http://idum.uz/wp-content/uploads/2021/02/regulation.gov_.uz-230.jpg" class="attachment-featured-medium size-featured-medium wp-post-image" alt="Будет внедрена система непрерывного повышения квалификации педагогов" loading="lazy" title="Будет внедрена система непрерывного повышения квалификации педагогов" /></a></figure>  			
+    		<p>Проект постановления Кабинета Министров Республики Узбекистан «О мерах по внедрению системы непрерывного повышения квалификации работников народного образования» был опубликован для обсуждения на портале обсуждения проектов нормативно-правовых актов.</p>
+<span class="tpacific-pviews-wrap tp_postviews раз просмотрено"  > <span class="tp_fon_st">🔥748 раз просмотрено</span> </span>   			
+
+  			
+  					</div>
+  			<div class="entry-meta-bar clearfix">	        			
+    			<div class="entry-meta">
+	    				<span class="author"><a href="http://idum.uz/ru/archives/author/shahz">admin</a></span>
+	    				<span class="date"><a href="http://idum.uz/ru/archives/13440" title="20:59">18.02.2021</a></span>
+	    					             		<span class="category"><a href="http://idum.uz/ru/archives/category/news" rel="category tag">Новости</a></span>
+	             	 
+	    					             		<span class="comments"><a href="http://idum.uz/ru/archives/13440#respond">Комментариев нет</a></span>
+	             			          				
+    			</div><!-- .entry-meta -->
+    			<a class="readmore" href="http://idum.uz/ru/archives/13440" title="Будет внедрена система непрерывного повышения квалификации педагогов">Читать</a>    		</div>
+
+    				</article>
+	</section>
+<div class='wp-pagenavi' role='navigation'>
+<span class='pages'>Саҳифалар 1 из 56</span><span aria-current='page' class='current'>1</span><a class="page larger" title="Страница 2" href="http://idum.uz/ru/page/2">2</a><a class="page larger" title="Страница 3" href="http://idum.uz/ru/page/3">3</a><a class="page larger" title="Страница 4" href="http://idum.uz/ru/page/4">4</a><a class="page larger" title="Страница 5" href="http://idum.uz/ru/page/5">5</a><a class="page larger" title="Страница 6" href="http://idum.uz/ru/page/6">6</a><a class="page larger" title="Страница 7" href="http://idum.uz/ru/page/7">7</a><a class="page larger" title="Страница 8" href="http://idum.uz/ru/page/8">8</a><a class="page larger" title="Страница 9" href="http://idum.uz/ru/page/9">9</a><a class="page larger" title="Страница 10" href="http://idum.uz/ru/page/10">10</a><span class='extend'>...</span><a class="nextpostslink" rel="next" href="http://idum.uz/ru/page/2">»</a><a class="last" href="http://idum.uz/ru/page/56">Сўнгги »</a>
+</div></div><!-- #content --></div><!-- #primary -->
+
+
+<div id="secondary">
+	
+
+<style type="text/css">
+.qtranxs_widget ul { margin: 0; }
+.qtranxs_widget ul li
+{
+display: inline; /* horizontal list, use "list-item" or other appropriate value for vertical list */
+list-style-type: none; /* use "initial" or other to enable bullets */
+margin: 0 5px 0 0; /* adjust spacing between items */
+opacity: 0.5;
+-o-transition: 1s ease opacity;
+-moz-transition: 1s ease opacity;
+-webkit-transition: 1s ease opacity;
+transition: 1s ease opacity;
+}
+/* .qtranxs_widget ul li span { margin: 0 5px 0 0; } */ /* other way to control spacing */
+.qtranxs_widget ul li.active { opacity: 0.8; }
+.qtranxs_widget ul li:hover { opacity: 1; }
+.qtranxs_widget img { box-shadow: none; vertical-align: middle; display: initial; }
+.qtranxs_flag { height:12px; width:18px; display:block; }
+.qtranxs_flag_and_text { padding-left:20px; }
+.qtranxs_flag span { display:none; }
+</style>
+<aside id="qtranslate-2" class="widget qtranxs_widget"><h3 class="widget-title">Выберите язык:</h3>
+<ul class="language-chooser language-chooser-image qtranxs_language_chooser" id="qtranslate-2-chooser">
+<li class="lang-ru active"><a href="http://idum.uz/ru/" hreflang="ru" title="Русский (ru)" class="qtranxs_image qtranxs_image_ru"><img src="http://idum.uz/wp-content/plugins/qtranslate-x/flags/ru.jpg" alt="Русский (ru)" /><span style="display:none">Русский</span></a></li>
+<li class="lang-uz"><a href="http://idum.uz/uz/" hreflang="uz" title="Ўзбекча (uz)" class="qtranxs_image qtranxs_image_uz"><img src="http://idum.uz/wp-content/plugins/qtranslate-x/flags/uz.jpg" alt="Ўзбекча (uz)" /><span style="display:none">Ўзбекча</span></a></li>
+</ul><div class="qtranxs_widget_end"></div>
+</aside><aside id="search-2" class="widget widget_search"><h3 class="widget-title">Что будем искать?</h3>	<form action="http://idum.uz/ru/" class="searchform clearfix" method="get">
+		<label class="assistive-text" for="s">Поиск</label>
+		<input type="text" placeholder="Поиск" class="s field" name="s">
+	</form></aside><aside id="text-14" class="widget widget_text">			<div class="textwidget"><script data-ad-client="pub-4312389010926434" async src="https://pagead2.googlesyndication.com/
+pagead/js/adsbygoogle.js"></script>
+<center><a href="https://t.me/talim_obrazovaniye/" target="_blank" rel="noopener"><p style="text-align:center;"><span lang="UZ-CYR" style="font-size: 14pt; font-family: 'Times New Roman', 'Times', serif;">Наш канал в телеграм<img alt="Образовательный канал" title="Образовательный канал"
+style="border: 0px solid ; width: 250px;"
+src="http://idum.uz/wp-content/uploads/2018/05/telegram-.jpg"></a></center></div>
+		</aside><aside id="text-11" class="widget widget_text"><h3 class="widget-title">Проекторы для школ и учебных центров</h3>			<div class="textwidget"><center><a href='http://idum.uz/ru/veb_sayt_tasix' target='_blank' rel="nofollow noopener">  <img src="http://idum.uz/wp-content/uploads/2020/12/projektor.jpg" width="245" title="открыть сайт в tasix" border="1" /></center>
+<center><a href='http://idum.uz/ru/veb_sayt_tasix' target='_blank' rel="nofollow noopener">Заказать </a> </center></div>
+		</aside><aside id="categories-2" class="widget widget_categories"><h3 class="widget-title">Рубрики</h3>
+			<ul>
+					<li class="cat-item cat-item-3266"><a href="http://idum.uz/ru/archives/category/pisa-test">PISA, PIRLS, TIMMS, TALIS</a> (1)
+</li>
+	<li class="cat-item cat-item-1401"><a href="http://idum.uz/ru/archives/category/abiturientga-eslatma">Помощь абитуриенту</a> (15)
+</li>
+	<li class="cat-item cat-item-1085"><a href="http://idum.uz/ru/archives/category/astronomiya">Астрономия</a> (3)
+</li>
+	<li class="cat-item cat-item-1731"><a href="http://idum.uz/ru/archives/category/validation">Аттестация</a> (29)
+</li>
+	<li class="cat-item cat-item-1907"><a href="http://idum.uz/ru/archives/category/bilimlar_sinovi">Состязания знаний</a> (4)
+</li>
+	<li class="cat-item cat-item-302"><a href="http://idum.uz/ru/archives/category/%d0%b1%d0%be%d0%bb%d0%b0-%d1%82%d0%b0%d1%80%d0%b1%d0%b8%d1%8f%d1%81%d0%b8">Воспитание ребёнка</a> (17)
+</li>
+	<li class="cat-item cat-item-2992"><a href="http://idum.uz/ru/archives/category/boshlangich_talim__nachalnaya_shkola">Начальная школа</a> (3)
+</li>
+	<li class="cat-item cat-item-12"><a href="http://idum.uz/ru/archives/category/video-lessons">Видеоурок</a> (47)
+</li>
+	<li class="cat-item cat-item-2539"><a href="http://idum.uz/ru/archives/category/%d0%b2%d0%b8%d0%ba%d1%82%d0%be%d1%80%d0%b8%d0%bd%d0%b0">Викторина</a> (3)
+</li>
+	<li class="cat-item cat-item-411"><a href="http://idum.uz/ru/archives/category/countries-rubric">Страны (рубрика)</a> (13)
+</li>
+	<li class="cat-item cat-item-871"><a href="http://idum.uz/ru/archives/category/dars_ishlanmalari">Разработки уроков</a> (23)
+</li>
+	<li class="cat-item cat-item-934"><a href="http://idum.uz/ru/archives/category/darsliklar">Учебники</a> (12)
+</li>
+	<li class="cat-item cat-item-1695"><a href="http://idum.uz/ru/archives/category/programs">Программы / приложения</a> (7)
+</li>
+	<li class="cat-item cat-item-2383"><a href="http://idum.uz/ru/archives/category/direktor_orinbosariga_foydali_maslahatlar">Завучу школы</a> (16)
+</li>
+	<li class="cat-item cat-item-3005"><a href="http://idum.uz/ru/archives/category/yoshlar_ittifoqi_soyuz_molodyoji">Союз молодёжи</a> (1)
+</li>
+	<li class="cat-item cat-item-1107"><a href="http://idum.uz/ru/archives/category/ibratli_hikoya">Трогательная история</a> (9)
+</li>
+	<li class="cat-item cat-item-2578"><a href="http://idum.uz/ru/archives/category/imtihon_javoblari">Подготовка к экзамену</a> (9)
+</li>
+	<li class="cat-item cat-item-46"><a href="http://idum.uz/ru/archives/category/english_news">Новости английского языка</a> (20)
+</li>
+	<li class="cat-item cat-item-22"><a href="http://idum.uz/ru/archives/category/tipiki_na_angliyskom_tesksty_na_angliyskom">Топики по английскому языку</a> (10)
+</li>
+	<li class="cat-item cat-item-39"><a href="http://idum.uz/ru/archives/category/study_english">Изучаем английский язык!</a> (42)
+</li>
+	<li class="cat-item cat-item-3544"><a href="http://idum.uz/ru/archives/category/instruksiya_yoriqnoma">Инструкция</a> (5)
+</li>
+	<li class="cat-item cat-item-2476"><a href="http://idum.uz/ru/archives/category/best_teacher">Конкурс &quot;Учитель года&quot;</a> (7)
+</li>
+	<li class="cat-item cat-item-513"><a href="http://idum.uz/ru/archives/category/career_orientation">Профориентация</a> (13)
+</li>
+	<li class="cat-item cat-item-16"><a href="http://idum.uz/ru/archives/category/chemical_elements">Химические элементы</a> (5)
+</li>
+	<li class="cat-item cat-item-1901"><a href="http://idum.uz/ru/archives/category/books">Книги</a> (6)
+</li>
+	<li class="cat-item cat-item-2121"><a href="http://idum.uz/ru/archives/category/learn_korean_language">Изучаем корейский язык!</a> (5)
+</li>
+	<li class="cat-item cat-item-3103"><a href="http://idum.uz/ru/archives/category/laboratory">Лабораторная работа</a> (1)
+</li>
+	<li class="cat-item cat-item-2593"><a href="http://idum.uz/ru/archives/category/for_director">Директору школы</a> (5)
+</li>
+	<li class="cat-item cat-item-1402"><a href="http://idum.uz/ru/archives/category/maktab-psixologi-uchun">Школьному психологу</a> (8)
+</li>
+	<li class="cat-item cat-item-2906"><a href="http://idum.uz/ru/archives/category/school_room">Кабинет школы</a> (3)
+</li>
+	<li class="cat-item cat-item-2723"><a href="http://idum.uz/ru/archives/category/malaka_oshirish">Повышение квалификации</a> (4)
+</li>
+	<li class="cat-item cat-item-423"><a href="http://idum.uz/ru/archives/category/famous">Жизнь популярных людей</a> (19)
+</li>
+	<li class="cat-item cat-item-1199"><a href="http://idum.uz/ru/archives/category/article_of_our_teachers/doklady_uchiteley">Доклады</a> (1)
+</li>
+	<li class="cat-item cat-item-32"><a href="http://idum.uz/ru/archives/category/%d2%9b%d0%b8%d0%b7%d0%b8%d2%9b%d0%b0%d1%80%d0%bb%d0%b8_%d0%bc%d0%b0%d2%9b%d0%be%d0%bb%d0%b0%d0%bb%d0%b0%d1%80">Полезные статьи</a> (40)
+</li>
+	<li class="cat-item cat-item-1403"><a href="http://idum.uz/ru/archives/category/mahorat-maktabi">Школа мастерства</a> (10)
+</li>
+	<li class="cat-item cat-item-135"><a href="http://idum.uz/ru/archives/category/methodological">Методическая помощь</a> (42)
+</li>
+	<li class="cat-item cat-item-2289"><a href="http://idum.uz/ru/archives/category/monitoring">Мониторинг</a> (1)
+</li>
+	<li class="cat-item cat-item-2328"><a href="http://idum.uz/ru/archives/category/ustama_zarplata_oylik_maosh">Надбавка/зарплата</a> (10)
+</li>
+	<li class="cat-item cat-item-2153"><a href="http://idum.uz/ru/archives/category/control_works">Контрольные работы</a> (1)
+</li>
+	<li class="cat-item cat-item-1045"><a href="http://idum.uz/ru/archives/category/nizom">Положение</a> (20)
+</li>
+	<li class="cat-item cat-item-2074"><a href="http://idum.uz/ru/archives/category/olimpiada">Олимпиада</a> (8)
+</li>
+	<li class="cat-item cat-item-34"><a href="http://idum.uz/ru/archives/category/demonstrational_lessons">Открытые уроки</a> (10)
+</li>
+	<li class="cat-item cat-item-37"><a href="http://idum.uz/ru/archives/category/presentation">Презентация / слайд</a> (8)
+</li>
+	<li class="cat-item cat-item-3235"><a href="http://idum.uz/ru/archives/category/president_maktablari">Президентские школы</a> (3)
+</li>
+	<li class="cat-item cat-item-1058"><a href="http://idum.uz/ru/archives/category/study_russian_language">Изучаем русский язык!</a> (11)
+</li>
+	<li class="cat-item cat-item-1324"><a href="http://idum.uz/ru/archives/category/helth_mother_and_baby">Здоровье</a> (5)
+</li>
+	<li class="cat-item cat-item-2464"><a href="http://idum.uz/ru/archives/category/sinf_rahbariga">Классному руководителю</a> (12)
+</li>
+	<li class="cat-item cat-item-168"><a href="http://idum.uz/ru/archives/category/%d1%81%d0%bf%d0%be%d1%80%d1%82-%d1%82%d1%83%d1%80%d0%bb%d0%b0%d1%80%d0%b8">Спортивные игры</a> (9)
+</li>
+	<li class="cat-item cat-item-760"><a href="http://idum.uz/ru/archives/category/answers">Спрашивали &#8212; отвечаем</a> (24)
+</li>
+	<li class="cat-item cat-item-2885"><a href="http://idum.uz/ru/archives/category/polls">Опрос</a> (1)
+</li>
+	<li class="cat-item cat-item-1130"><a href="http://idum.uz/ru/archives/category/%d1%82%d0%b0%d0%b4%d0%b1%d0%b8%d1%80_%d1%81%d1%86%d0%b5%d0%bd%d0%b0%d1%80%d0%b8%d0%b9%d1%81%d0%b8">Сценарии мероприятий и праздников</a> (11)
+</li>
+	<li class="cat-item cat-item-38"><a href="http://idum.uz/ru/archives/category/events">Мероприятия</a> (47)
+</li>
+	<li class="cat-item cat-item-58"><a href="http://idum.uz/ru/archives/category/competitions">Конкурсы</a> (28)
+</li>
+	<li class="cat-item cat-item-35"><a href="http://idum.uz/ru/archives/category/%d1%82%d0%b0%d1%80%d0%b8%d1%85%d0%b8%d0%b9-%d0%be%d0%b1%d0%b8%d0%b4%d0%b0%d0%bb%d0%b0%d1%80">Исторические монументы</a> (8)
+</li>
+	<li class="cat-item cat-item-999"><a href="http://idum.uz/ru/archives/category/tarqatma_materiallar">Раздаточные материалы</a> (7)
+</li>
+	<li class="cat-item cat-item-1185"><a href="http://idum.uz/ru/archives/category/organization">Организация</a> (3)
+</li>
+	<li class="cat-item cat-item-1006"><a href="http://idum.uz/ru/archives/category/talim_oid_qonunlar">Законы об образовании</a> (4)
+</li>
+	<li class="cat-item cat-item-1029"><a href="http://idum.uz/ru/archives/category/terms">Термины</a> (18)
+</li>
+	<li class="cat-item cat-item-886"><a href="http://idum.uz/ru/archives/category/tests">Тесты</a> (38)
+</li>
+	<li class="cat-item cat-item-1808"><a href="http://idum.uz/ru/archives/category/units">Единицы измерения</a> (5)
+</li>
+	<li class="cat-item cat-item-114"><a href="http://idum.uz/ru/archives/category/%d1%83%d0%bc%d0%b8%d0%b4%d0%bb%d0%b8-%d1%91%d1%88%d0%bb%d0%b0%d1%80">Наша надежда</a> (10)
+</li>
+	<li class="cat-item cat-item-906"><a href="http://idum.uz/ru/archives/category/universitets">Университеты</a> (6)
+</li>
+	<li class="cat-item cat-item-941"><a href="http://idum.uz/ru/archives/category/methods">Методы преподавания</a> (10)
+</li>
+	<li class="cat-item cat-item-1129"><a href="http://idum.uz/ru/archives/category/article_of_our_teachers">Статьи наших учителей</a> (6)
+</li>
+	<li class="cat-item cat-item-29"><a href="http://idum.uz/ru/archives/category/%d1%82%d0%b2%d0%be%d1%80%d1%87%d0%b5%d1%81%d1%82%d0%b2%d0%be-%d1%83%d1%87%d0%b5%d0%bd%d0%b8%d0%ba%d0%be%d0%b2">Творчество учеников</a> (6)
+</li>
+	<li class="cat-item cat-item-3218"><a href="http://idum.uz/ru/archives/category/facts">Факты</a> (5)
+</li>
+	<li class="cat-item cat-item-2364"><a href="http://idum.uz/ru/archives/category/fan_oyligi">Месячники предметов</a> (4)
+</li>
+	<li class="cat-item cat-item-2188"><a href="http://idum.uz/ru/archives/category/tugarak">Кружковая работа</a> (5)
+</li>
+	<li class="cat-item cat-item-2945"><a href="http://idum.uz/ru/archives/category/competence">Компетенция по предметам</a> (6)
+</li>
+	<li class="cat-item cat-item-2451"><a href="http://idum.uz/ru/archives/category/filologiya">Филология</a> (2)
+</li>
+	<li class="cat-item cat-item-2407"><a href="http://idum.uz/ru/archives/category/web_sites">Полезные веб сайты</a> (2)
+</li>
+	<li class="cat-item cat-item-921"><a href="http://idum.uz/ru/archives/category/safety">Безопасность</a> (11)
+</li>
+	<li class="cat-item cat-item-935"><a href="http://idum.uz/ru/archives/category/foreign_education">Образование за рубежом</a> (10)
+</li>
+	<li class="cat-item cat-item-946"><a href="http://idum.uz/ru/archives/category/foreign_universites">Зарубежные ВУЗы</a> (3)
+</li>
+	<li class="cat-item cat-item-2189"><a href="http://idum.uz/ru/archives/category/sherlar">Стихи</a> (10)
+</li>
+	<li class="cat-item cat-item-1298"><a href="http://idum.uz/ru/archives/category/tejamkorlik">Энергоэкономичность</a> (4)
+</li>
+	<li class="cat-item cat-item-2738"><a href="http://idum.uz/ru/archives/category/ertaklar">Сказки</a> (2)
+</li>
+	<li class="cat-item cat-item-27"><a href="http://idum.uz/ru/archives/category/etymology">Этимология</a> (14)
+</li>
+	<li class="cat-item cat-item-59"><a href="http://idum.uz/ru/archives/category/announcement">Объявления</a> (30)
+</li>
+	<li class="cat-item cat-item-33"><a href="http://idum.uz/ru/archives/category/our_regions">Города Узбекистана</a> (2)
+</li>
+	<li class="cat-item cat-item-65"><a href="http://idum.uz/ru/archives/category/%d1%8e%d1%82%d1%83%d2%9b%d0%bb%d0%b0%d1%80%d0%b8%d0%bc%d0%b8%d0%b7">Наши достижения</a> (18)
+</li>
+	<li class="cat-item cat-item-312"><a href="http://idum.uz/ru/archives/category/new_technologies">Мир высоких технологий</a> (13)
+</li>
+	<li class="cat-item cat-item-4"><a href="http://idum.uz/ru/archives/category/news">Новости</a> (103)
+</li>
+	<li class="cat-item cat-item-2780"><a href="http://idum.uz/ru/archives/category/mp3">Песни</a> (1)
+</li>
+	<li class="cat-item cat-item-3096"><a href="http://idum.uz/ru/archives/category/strategy">Стратегия действий</a> (3)
+</li>
+			</ul>
+
+			</aside><aside id="text-8" class="widget widget_text">			<div class="textwidget"><center><a href="http://idum.uz/ru/archives/category/study_english" target="_blank" rel="noopener"><p style="text-align:center;"><span lang="UZ-CYR" style="font-size: 14pt; font-family: 'Times New Roman', 'Times', serif;">Изучаем английский язык!<img alt="английский онлайн изучать"
+title="Изучаем английский язык!"
+style="border: 0px solid ; width: 250px;"
+src="http://idum.uz/wp-content/uploads/2016/07/english_85.jpg"></a></center>
+<br>
+<center><a href="http://sadikov.uz/" target="_blank" rel="noopener"><p style="text-align:center;"><img alt="английский онлайн изучать"
+style="border: 0px solid ; width: 250px;"
+src="http://idum.uz/wp-content/uploads/max%20file/russian.jpg"></a></center></div>
+		</aside>
+</div><!-- #secondary --></div><!-- #container -->
+
+
+	   </div><!-- #main -->
+
+	   
+	   
+	   <footer id="footerarea" class="clearfix">
+			
+
+
+<div id="site-generator">
+				<div class="container"><div class="footer-right"></div><div style="clear:both;"></div>
+			</div><!-- .container -->
+			</div><!-- #site-generator --><div class="back-to-top"><a href="#branding"></a></div>		  <div class="clearfix"></div>
+		   
+		   <style>#schetchiki>*{padding: 5px 5px;border:0;} #reklama1 img, #reklama2 img{width: 10% !important;}</style>
+		   	   
+		   <div style="display: flex; align-items: flex-start; padding: 0 25px; justify-content:space-between;">
+			   <div class="col-9" style="background: #fff;padding: 15px;padding-right: 15px;    padding-left: 15px;-webkit-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);border-radius: 2px;margin-bottom: 30px;">
+				    
+				   &copy; Copyright <b>«Умид» ИДУМИ.</b> 2012 - 2021.<br>Сайтдаги маълумотлардан тўлиқ ёки қисман фойдаланилганда веб-сайт манзили кўрсатилиши шарт.
+			   </div>
+			   
+			   <div class="col-3" id="schetchiki" style="background: #fff;padding: 15px;padding-right: 15px;    padding-left: 15px;-webkit-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);border-radius: 2px;margin-bottom: 30px;display: flex; flex-wrap:wrap; justify-content: center; align-items: center;">
+				   
+				   <!-- SCHETCHIKLAR -->
+<!-- REKLAMA -->
+				   <!-- SCHETCHIKLAR -->
+				   <!-- SCHETCHIKLAR -->
+				   <!-- SCHETCHIKLAR -->
+				   <!-- SCHETCHIKLAR -->
+				   <!-- SCHETCHIKLAR -->
+<!-- Top100 (Kraken) Counter -->
+<script>
+    (function (w, d, c) {
+    (w[c] = w[c] || []).push(function() {
+        var options = {
+            project: 4463495,
+            attributes_dataset: [ "your-attribute" ],
+        };
+        try {
+            w.top100Counter = new top100(options);
+        } catch(e) { }
+    });
+    var n = d.getElementsByTagName("script")[0],
+    s = d.createElement("script"),
+    f = function () { n.parentNode.insertBefore(s, n); };
+    s.type = "text/javascript";
+    s.async = true;
+    s.src =
+    (d.location.protocol == "https:" ? "https:" : "http:") +
+    "//st.top100.ru/top100/top100.js";
+
+    if (w.opera == "[object Opera]") {
+    d.addEventListener("DOMContentLoaded", f, false);
+} else { f(); }
+})(window, document, "_top100q");
+</script>
+<noscript>
+  <img src="//counter.rambler.ru/top100.cnt?pid=4463495" alt="Топ-100" />
+</noscript>
+<!-- END Top100 (Kraken) Counter -->
+				   <!-- SCHETCHIKLAR -->
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(62452477, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/62452477" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+				   <!-- SCHETCHIKLAR -->
+				   
+				   <!-- REKLAMA -->
+				
+				   
+				   <!--LiveInternet counter-->
+				   <script type="text/javascript">document.write('<a href="//www.liveinternet.ru/click" '+ 'target="_blank"><img src="//counter.yadro.ru/hit?t12.6;r'+ escape(document.referrer)+((typeof(screen)=='undefined')?'': ';s'+screen.width+'*'+screen.height+'*'+(screen.colorDepth? screen.colorDepth:screen.pixelDepth))+';u'+escape(document.URL)+ ';h'+escape(document.title.substring(0,150))+';'+Math.random()+ '" alt="" title="LiveInternet: показано число просмотров за 24'+ ' часа, посетителей за 24 часа и за сегодня" '+ 'border="0" width="88" height="31"><\/a>')</script>
+				   <!--/LiveInternet-->
+				   
+				   <!-- Rating Mail.ru counter -->
+				   <script type="text/javascript">var _tmr = window._tmr || (window._tmr = []);_tmr.push({id: "2795819", type: "pageView", start: (new Date()).getTime()});(function (d, w, id) {  if (d.getElementById(id)) return;  var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;  ts.src = "https://top-fwz1.mail.ru/js/code.js";  var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};  if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }})(document, window, "topmailru-code");</script><noscript><div><img src="https://top-fwz1.mail.ru/counter?id=2795819;js=na" style="border:0;position:absolute;left:-9999px;" alt="Top.Mail.Ru" /></div></noscript>
+				   <!-- //Rating Mail.ru counter -->
+				   <!-- Rating Mail.ru logo -->
+				   <a href="https://top.mail.ru/jump?from=2795819"><img style="border: 0;" src="https://top-fwz1.mail.ru/counter?id=2795819;t=479;l=1" alt="Top.Mail.Ru" width="88" height="31" /></a>
+				   <!-- //Rating Mail.ru logo -->
+				   
+				   
+				   <a href="http://www.uz/ru/res/visitor/index?id=32784" style="display: inline-flex;">
+					   <img  style="border: 0px solid ; width: 88px; height: 31px;"  alt="www.uz сайтидаги урни"  src="http://www.uz/plugins/top_rating/count/cnt.png?id=32784&amp;r=http%3A//idum.uz/wp-admin/&amp;pg=http%3A//idum.uz/&amp;c=Y&amp;j=N&amp;wh=1440x900&amp;px=32&amp;js=1.3&amp;col=00A4FF&amp;t=ffffff&amp;p=000000" align="right">
+				   </a>
+				   
+				   
+				   <img src="http://get.mycounter.ua/counter.php?id=151286"  title="MyCounter - счётчик и статистика"  alt="MyCounter - счётчик и статистика" border="1" height="61"  width="88" align="right"><br>
+				   
+			   </div>
+		   </div>
+		   
+		</footer>
+
+		
+	</div><!-- .wrapper -->
+
+	
+55863853<script type='text/javascript' id='wpccp-js-before'>
+const wpccpMessage = '',wpccpPaste = '',wpccpUrl = 'http://idum.uz/wp-content/plugins/wp-content-copy-protection/';
+</script>
+<script type='text/javascript' src='http://idum.uz/wp-content/plugins/wp-content-copy-protection/assets/js/script.min.js?ver=1608698444' id='wpccp-js'></script>
+<script type='text/javascript' id='testme-js-extra'>
+/* <![CDATA[ */
+var testme_aj = {"ajax_url":"http:\/\/idum.uz\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://idum.uz/wp-content/plugins/wp_testme/js/testme.js?ver=1.1' id='testme-js'></script>
+<script type='text/javascript' src='http://idum.uz/wp-content/themes/travelify/library/js/jquery.cycle.all.min.js?ver=2.9999.5' id='jquery_cycle-js'></script>
+<script type='text/javascript' id='travelify_slider-js-extra'>
+/* <![CDATA[ */
+var travelify_slider_value = {"transition_effect":"scrollLeft","transition_delay":"3000","transition_duration":"600"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://idum.uz/wp-content/themes/travelify/library/js/slider-settings.min.js?ver=5.6.2' id='travelify_slider-js'></script>
+<script type='text/javascript' src='http://idum.uz/wp-includes/js/wp-embed.min.js?ver=5.6.2' id='wp-embed-js'></script>
+<script type="text/javascript" id="slb_context">/* <![CDATA[ */if ( !!window.jQuery ) {(function($){$(document).ready(function(){if ( !!window.SLB ) { {$.extend(SLB, {"context":["public","user_guest"]});} }})})(jQuery);}/* ]]> */</script>
+
+</body>
+</html>

@@ -1,0 +1,333 @@
+<!DOCTYPE html>
+<html xmlns='http://www.w3.org/1999/xhtml' lang='ru'>
+	<head>
+	<meta charset='utf-8'/>
+	<meta name='viewport' content='width=device-width, initial-scale=1.0'/>
+	<title>Электронная библиотека обучающих материалов детям с играми, викторинами и кроссвордами к занятиям с ИКТ.</title>
+	<meta name='description' content='Викторины, образовательные интеллектуальные игры, интерактивные кроссворды для проведения открытых уроков, школьных олимпиад, факультативов и занятий с детьми в детском саду, школе и дома с интерактивной доской и ИКТ бесплатно от Vneuroka (Вне урока).' />
+	<link rel='alternate' type='application/rss+xml' title='RSS' href='http://feeds.feedburner.com/vneuroka' />
+	<link rel='shortcut icon' href='/favicon.ico'>
+
+	<link href='https://fonts.googleapis.com/css?family=IBM+Plex+Sans:300,400,500,600,700&subset=latin,cyrillic&display=swap' rel='stylesheet'>
+	<link rel='stylesheet' href='/___css/styles.css'>
+		
+		
+	<meta name="google-site-verification" content="Qu4pJtU4gZ7jgRdhhkpQ4wK0BTyBPITp8rR71zGlfuY" />
+	<meta name="yandex-verification" content="77cf94c89c6d8970" />
+	</head>
+	
+	<body class="docs ">
+		<header>
+			<nav id="head-nav" class="navbar navbar-fixed-top">
+				<div class="navbar-inner clearfix">
+					<a href="/" class="brand opac" title="Vneuroka вне урока: электронная библиотека образовательных материалов для занятий и игр с детьми">
+						<img src="/___img/logo.png" alt="Vneuroka.ru - образовательный портал, библиотека пособий для занятий школьникам">
+					</a>
+					<div id="mainmenu-toggle-overlay">
+					</div>
+					<input id="mainmenu-toggle" type="checkbox">
+					<ul class="nav">
+					<li ><a title='Интеллектуальные викторины' href='/viktoriny/'>викторины</a></li>
+					<li ><a title='Кроссворды для урока' href='/krossvordy/'>кроссворды</a></li>
+					<li ><a title='Интерактивные презентации' href='/prezentacii/'>презентации</a></li>
+					<li ><a title='Математические задачи' href='/matematika/'>задачи</a></li>
+					<li ><a title='Наглядные материалы SVG' href='/kartinki/'>картинки</a></li>
+					<li ><a title='Связаться, оставить предложение' href='/kontakt/'>контакты</a></li>
+					</ul>
+					<!-- minus id="cse-search-box" vmesto "topsearch" logo -->
+					<form action="http://www.google.ru" id="cse-search-box" target="_blank" class="navbar-search">
+						<div>
+							<input type='hidden' name='cx' value='partner-pub-2790897706903399:2926928568' />
+							<input type='hidden' name='ie' value='UTF-8' />
+							<input type='text' name='q' id='ggl_srch' size='22' class='g_search' />
+							<input type='submit' name='sa' value='Поиск' class='sbutton b_normal btn1' />
+						</div>
+					</form>
+
+					<script src="http://www.google.ru/coop/cse/brand?form=cse-search-box&amp;lang=ru"></script>				
+				</div>
+				<!-- minus <div id="flash-message"> -->
+			</nav>
+			
+			<div class="headsup">
+				<!-- Рекламка -->
+
+			</div>
+			<!-- minus <nav id="trick"> -->
+			<!-- minus <div id="goto">+ -->
+			
+			<!-- minus <div id="breadcrumbs" class="clearfix"> <div id="breadcrumbs-inner"> <div class="next"> <div class="prev"> -->
+			<div class="cntr">
+				<!-- adaptiv_1 -->
+				<ins class="adsbygoogle adaptiv_1"
+					style="display:inline-block"
+					data-ad-client="ca-pub-2790897706903399"
+					data-ad-slot="4331439760">
+				</ins>
+				<script>
+				(adsbygoogle=window.adsbygoogle||[]).push({});
+				</script>
+			</div>
+
+			<div id="breadcrumbs" class="clearfix">
+				<div id="breadcrumbs-inner">
+					<ul>
+						<li><a title="" href="./"></a></li>
+						<li>Vneuroka - качественный материал дошкольникам и школьникам для проведения занятий в детском саду, школе и дома.</li>
+					</ul>
+				</div>
+			</div>
+		</header>
+
+
+
+		<main id="layout" class="clearfix">
+			<section id="layout-content">
+				<div class="content">
+					<div class="block">
+						<div class="block-title">
+							<span><a href="/">Главная</a> » О проекте </span>
+						</div>
+						<div class="m_content">
+							<h1 class="title">Электронная библиотека обучающих материалов детям с играми, викторинами и кроссвордами к занятиям с ИКТ.</h1>
+							<div class="ya-share2" data-curtain data-size="l" data-limit="0" data-more-button-type="short" data-services="vkontakte,facebook,odnoklassniki,telegram"></div>
+							<p>Добро пожаловать в нашу электронную библиотеку методических материалов. На Vneuroka.ru размещены авторские образовательные игры-викторины, интерактивные кроссворды, PowerPoint презентации и приложения, которые Вы можете использовать в своей повседневной педагогической практике при проведении открытых уроков, факультативов и занятий в детском саду, школе и дома.</p>
+<p>Ряд PowerPoint презентаций стали победителями и лауреатами престижных международных, региональных и муниципальных конкурсов.</p>
+<p>В своих интеллектуальных играх мы часто используем вопросы для эрудитов из школьных олимпиад, что позволяет тестировать, получать и запоминать материал в игровой форме. Это не только весьма интересно, но и полезно! Отвечая на занимательные задания можно подготовиться к уроку или предметной олимпиаде.</p>
+<p>Каждый день посетители создают десятки качественных интерактивных игр. Web-программисты Vneuroka разработали конструкторы (генераторы), при помощи которых любой желающий в несколько кликов может создать кроссворд, викторину или образовательную игру по собственным заданиям.</p>
+<ul>
+<li><a href="/krossvord_sozdat_online_iz_svoih_slov/">Конструктор (генератор) кроссвордов с ключевым словом</a></li>
+<li><a href="/millioner-sozdat-igru-victorinu-onlain/">Конструктор (генератор) викторины по принципу игры "Кто хочет стать миллионером"</a></li>
+<li><a href="/games/igra-deshifrovschik-samyj-umnyj-sozdat-svoyu-igru-onlajn-1/">Конструктор игры "Дешифровщик</a></li>
+</ul>
+<p>Vneuroka.ru в лице его авторов готов к любому продуктивному сотрудничеству с образовательными учреждениями или отдельными педагогами в области создания новых образовательных материалов (в том числе методических комплектов). Если Вам есть что предложить, если хотите покритиковать, разместить рекламу (в том числе рекламу в играх) или о чем-то нас спросить - пишите нам на официальный почтовый адрес vneuroka@yandex.ru. Мы умеем слушать и любим аргументированно отвечать на конструктивные письма. :)</p>
+<p>Рады предложить методические комплекты, созданные командой авторов Vneuroka.ru:</p>
+<ul>
+<li>ПДД детям - pdd-deti.ru</li>
+<li>Английский язык детям - english.vneuroka.ru</li>
+<li>Габдулла Тукай детям - tukay.ru</li>
+<li>Шахматы детям - chess.vneuroka.ru (сайт в разработке)</li>
+</ul>
+								<h2>Авторские права и политика проекта.</h2>
+									<p>Все права на на материалы принадлежат авторам проекта Vneuroka.ru.</p>
+<p>Учителя, узкие специалисты учебных заведений, воспитатели детских садов, дети и их родители имеют право свободно использовать материалы проекта (кроссворды, викторины, тесты, презентации, игры) в своей педагогической практике. Пользуйтесь на здоровье! При этом достаточно сослаться на нашу авторскую электронную библиотеку методических материалов: VNEUROKA.RU (http://vneuroka.ru).</p>
+<p>Важно! Запрещается распространять изображения и информацию сайта в печатных и электронных СМИ, личных блогах и сайтах и т.д. Просим уважать права разработчиков. При возникающих вопросах по поводу использования просим незамедлительно связаться с нами во избежание нарушения авторских прав. Если Вы заметили использование наших материалов на других интернет-проектах, сообщите нам об этом. Спасибо за понимание.</p>
+<h3>Об авторах</h3>
+<p>Авторский коллектив состоит из четырёх человек, разрабатывающих в своё свободное время детские учебные пособия и образовательные игры. Мы всегда открыты к конструктивному диалогу и продуктивному взаимовыгодному сотрудничеству.</p>
+<p>Спасибо за интерес к нашим разработкам и проектам. <br>Всего самого доброго!</p>
+															</div>
+					</div>
+				</div>
+				<div id="rcl_2">
+					<div class="block">
+						<div class="block-title">Рекламный блок
+						</div>
+						<!-- реклама от гугла -->
+						<div class="cntr">
+
+							<!-- adaptiv_2 -->
+							<ins class="adsbygoogle adaptiv_2"
+								style="display:inline-block"
+								data-ad-client="ca-pub-2790897706903399"
+								data-ad-slot="1657174969">
+							</ins>
+							<script>
+							(adsbygoogle=window.adsbygoogle||[]).push({});
+							</script>
+						</div>
+					</div>
+				</div>
+
+					<!-- Forma block -->
+					<!-- Forma block end-->
+
+
+			</section>
+			<!-- layout-content -->
+			<aside class="layout-menu">
+				<div id="sicial">
+					<div class="block">
+						<div class="block-title">Социальные сети и рассылка новостей
+						</div>
+							<div class="opac sozblock">
+								<ul class="noli">
+									<li><a href='http://vk.com/vneuroka' target='_blank' rel='nofollow noopener' title='Наша группа Вконтакте'><img src='/img/vn_vkn.svg' alt='Vneuroka Vkontakte'></a></li>
+									<li><a href='http://ok.ru/vneuroka' target='_blank' rel='nofollow noopener' title='Наша группа на Одноклассниках'><img src='/img/vn_okl.svg' alt='Vneuroka Odnoklassniki'></a></li>
+									<li><a href='https://www.facebook.com/pages/Vneuroka/416360928392818' target='_blank' rel='nofollow noopener' title='Наша группа на Faceboock'><img src='/img/vn_fbk.svg' alt='Vneuroka Faceboock'></a></li>
+									<li><a href='https://www.youtube.com/channel/UC9BR6ieHr-j_Ou_BNc46Qeg' target='_blank' rel='nofollow noopener' title='Наш канал на YouTube'><img src='/img/vn_ytb.svg' alt='Vneuroka YouTube'></a></li>
+									<li><a href='http://feeds.feedburner.com/vneuroka' target='_blank' rel='nofollow noopener' title='Наша RSS рассылка'><img src='/img/vn_rss.svg' alt='Vneuroka RSS News'></a></li>
+									<li><a href='https://t.me/vneuroka_ru' target='_blank' rel='nofollow noopener' title='Наш Telegram канал'><img src='/img/vn_tlg.svg' alt='Vneuroka Telegram'></a></li>
+									<li><a href='https://www.instagram.com/vneuroka.ru/' target='_blank' rel='nofollow noopener' title='Наш Instgram'><img src='/img/vn_ins.svg' alt='Vneuroka Instagram'></a></li>
+								</ul>
+							</div>
+					</div>
+				</div>
+
+				<div id="more">
+					<div class="block">
+						<div class="block-title">Поддержать разработку образовательных игр
+						</div>
+						<ul>
+							<li>YM 410012049528502</li>
+							<li>рассказать о проекте</li>
+							<li>прислать материалы</li>
+						</ul>
+					</div>
+				</div>
+				
+						
+				<div id="rcl_3">
+					<div class="block">
+						<div class="block-title">Рекламный блок
+						</div>
+						<div class="cntr">
+							<!-- adaptiv_3 -->
+							<ins class="adsbygoogle adaptiv_3"
+								style="display:inline-block"
+								data-ad-client="ca-pub-2790897706903399"
+								data-ad-slot="6226975367">
+							</ins>
+							<script>
+							(adsbygoogle=window.adsbygoogle||[]).push({});
+							</script>
+						</div>
+					</div>
+				</div>
+				
+				<div id="projects">
+					<div class="block">
+						<div class="block-title">Наши образовательные проекты
+						</div>
+						<ul class="nolli tags_">
+							<li class="sbutton b_small btn1">pdd-deti.ru</li>
+							<li class="sbutton b_small btn1">tukay.ru</li>
+						</ul>
+					</div>
+				</div>
+				
+				<div id="recomend">
+					<div class="block">
+						<div class="block-title">Рекомендуем
+						</div>
+						Полезные онлайн конструкторы<br>
+							<a href='/krossvord_sozdat_online_iz_svoih_slov/' class='sbutton b_normal btn1'>Создать кроссворд из своих слов</a> <a href='/games/igra-deshifrovschik-samyj-umnyj-sozdat-svoyu-igru-onlajn-1/' class='sbutton b_normal btn1'>Создать игру «Дешифровщик»</a> <a href='/millioner-sozdat-igru-victorinu-onlain/' class='sbutton b_normal btn1'>Создать игру «Миллионер»</a>
+					</div>
+				</div>
+				<div id="partners">
+					<div class="block">
+						<div class="block-title">Партнёрская программа
+						</div>
+						Ищем партнёров!
+					</div>
+				</div>
+
+				<!--<div class="metka_350">
+					<p>350 пикселей</p>
+				</div> -->
+			</aside>
+		</main>
+		<!-- layout -->
+				 
+		<footer>
+			<p>© 2010-2021 Vneuroka.ru</p><p>Материалы электронной библиотеки Vneuroka.ru разрешается публиковать в печатных и электронных СМИ только с разрешения авторов!<br>Уважайте право на интеллектуальную собственность!</p>
+			<label for='ggl_srch'>Google search</label>
+			<label for='mainmenu-toggle'>Menu</label>
+
+<!--COUNTER-->			
+<!--LiveInternet counter--><script><!--
+document.write("<a href='//www.liveinternet.ru/click' "+
+"target='_blank' rel='nofollow noopener'><img src='//counter.yadro.ru/hit?t44.10;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";h"+escape(document.title.substring(0,80))+";"+Math.random()+
+"' alt='' title='LiveInternet' "+
+"border='0' width='31' height='31'><\/a>")
+//--></script><!--/LiveInternet-->
+
+ &nbsp;&nbsp; 
+
+<!--Google Analytics-->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-101934058-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<!--// Google Analytics-->
+
+&nbsp;&nbsp; 
+ 
+ <!-- Yandex.Metrika counter -->
+<script>
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter31907421 = new Ya.Metrika({
+                    id:31907421,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName('script')[0],
+            s = d.createElement('script'),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = 'text/javascript';
+        s.async = true;
+        s.src = 'https://mc.yandex.ru/metrika/watch.js';
+
+        if (w.opera == '[object Opera]') {
+            d.addEventListener('DOMContentLoaded', f, false);
+        } else { f(); }
+    })(document, window, 'yandex_metrika_callbacks');
+</script>
+<noscript><div><img src='https://mc.yandex.ru/watch/31907421' style='position:absolute; left:-9999px;' alt='Yandex metrika' /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+<!--END COUNTER-->	
+		</footer>
+
+				<!-- ggl mbl -->
+
+		<script>
+		  (adsbygoogle = window.adsbygoogle || []).push({
+			google_ad_client: 'ca-pub-2790897706903399',
+			enable_page_level_ads: true
+		  });
+		</script>
+		<!-- ggl mbl end -->
+
+		<script>
+			let a=0;
+			function downloadJSAtOnload(src) {
+				let el = document.createElement('script');
+				el.src = src;
+				el.async = true;
+				document.body.appendChild(el);
+			}
+			// if (window.addEventListener)
+				// window.addEventListener('load', downloadJSAtOnload, false);
+			// else if (window.attachEvent)
+				// window.attachEvent('onload', downloadJSAtOnload);
+			// else window.onload = downloadJSAtOnload;
+			
+			document.addEventListener('DOMContentLoaded', () => {
+				console.log('TIME');
+				setTimeout(function(){
+					downloadJSAtOnload('https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js');
+					downloadJSAtOnload('https://yastatic.net/share2/share.js');
+					console.log('START');
+				}, 1700);
+			});
+
+		</script>
+	</body>
+</html>

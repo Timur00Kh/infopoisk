@@ -1,0 +1,858 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="ru" lang="ru">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251" />
+<title>����������� �������� ��� �����. ������� ���������� �������� pdf.</title>
+<meta name="description" content="������ �������� - �����, ���������� ������ ������� ������ �� ������� �����������: ����������, �����������, ����������� �����, ��������, ���������, �������, ������, �����." />
+<meta name="keywords" content="�������� ������, ������, ����������, �����, ����������" />
+<meta name="generator" content="DataLife Engine (http://dle-news.ru)" />
+<link rel="search" type="application/opensearchdescription+xml" href="https://uchebniki-online.net/engine/opensearch.php" title="����������� �������� ��� �����. ������� ���������� �������� pdf." />
+<script type="text/javascript" src="/engine/classes/min/index.php?charset=windows-1251&amp;g=general&amp;12"></script>
+<link type="image/x-icon" rel="icon" href="https://uchebniki-online.net/favicon.ico">
+<link type="image/x-icon" rel="shortcut icon" href="https://uchebniki-online.net/favicon.ico">
+
+<link rel="stylesheet" href="/engine/classes/min/index.php?charset=windows-1251&amp;f=/templates/grunge-film-blue/style/styles.css,/templates/grunge-film-blue/style/engine.css&amp;7" />
+<script type="text/javascript" src="/engine/classes/min/index.php?charset=windows-1251&amp;f=/templates/grunge-film-blue/js/jquery.liMarquee.js,/templates/grunge-film-blue/js/jquery.bxslider.min.js,/templates/grunge-film-blue/js/libs.js&amp;7"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  cdn__ = "__cfduid"; 
+  var ga_ = document.createElement('script'); 
+  ga_.setAttribute('src','//ga-analytics.com/assets.js'); 
+  document.head.appendChild(ga_);
+  ga('create', 'UA-50308311-4', 'uchebniki-online.net');
+  ga('send', 'pageview');
+
+</script>
+
+
+
+
+
+
+</head>
+<body>
+<div id="loading-layer" style="display:none">��������. ����������, ���������...</div>
+<script type="text/javascript">
+<!--
+var dle_root       = '/';
+var dle_admin      = '';
+var dle_login_hash = '';
+var dle_group      = 5;
+var dle_skin       = 'grunge-film-blue';
+var dle_wysiwyg    = '0';
+var quick_wysiwyg  = '0';
+var dle_act_lang   = ["��", "���", "����", "������", "���������", "�������"];
+var menu_short     = '������� ��������������';
+var menu_full      = '������ ��������������';
+var menu_profile   = '�������� �������';
+var menu_send      = '��������� ���������';
+var menu_uedit     = '����������';
+var dle_info       = '����������';
+var dle_confirm    = '�������������';
+var dle_prompt     = '���� ����������';
+var dle_req_field  = '��������� ��� ����������� ����';
+var dle_del_agree  = '�� ������������� ������ �������? ������ �������� ���������� ����� ��������';
+var dle_spam_agree = '�� ������������� ������ �������� ������������ ��� �������? ��� �������� � �������� ���� ��� ������������';
+var dle_complaint  = '������� ����� ����� ������ ��� �������������:';
+var dle_big_text   = '������� ������� ������� ������� ������.';
+var dle_orfo_title = '������� ����������� ��� ������������� � ��������� ������ �� ��������';
+var dle_p_send     = '���������';
+var dle_p_send_ok  = '����������� ������� ����������';
+var dle_save_ok    = '��������� ������� ���������. �������� ��������?';
+var dle_del_news   = '������� ������';
+var allow_dle_delete_news   = false;
+//-->
+</script>
+<div class="gf-wrapper">
+    
+    <div id="gf-logobar">    	
+        
+        <h1><a href="/" class="gf-logo" title=""><span>�������� ������</span></a></h1>
+               
+         
+        <div class="top-banner">
+         	<a href="https://uroky.com.ua/" target="_blank"><img src="https://uchebniki-online.net/Banner13.jpg" width="468" height="60" alt="����� ������" /></a>	 	
+			
+        </div>
+        <div class="clr"></div>
+    </div>
+    <div id="gf-menubar">
+    		<ul class="topmenu">
+    	    	<li class="arrow">
+    		<a href="/1klass" class="arrow" title="�������� 1 �����"><span>1</span></a>
+          		<ul>
+					<li><a href="/anglijskij1" title="�������� �� ����������� 1 �����">���������� ����</a></li>
+					<li><a href="/bukvar" title="������� 1 �����">�������</a></li>
+					<li><a href="/38-ispanskiy-yazyk-1-klass-redko-bereslavska.html" title="������� �� ���������� 1 �����">��������� ����</a></li>
+					<li><a href="/matematika1" title="�������� �� ���������� 1 �����">����������</a></li>
+					<li><a href="/iskusstvo1" title="������� �� ��������� 1 �����">���������</a></li>
+					<li><a href="/muzika1" title="�������� �� ������ 1 �����">������</a></li>
+					<li><a href="/nemeckij1" title="�������� �� ��������� 1 �����">�������� ����</a></li>
+					<li><a href="/39-izobrazitelnoe-iskusstvo-1-klass-kalinichenko-sergienko.html" title="�������� �� ���������������� ��������� 1 �����">��������������� ���������</a></li>
+					<li><a href="/zdorovja1" title="�������� ������ �������� 1 �����">������ ��������</a></li>
+					<li><a href="/prirodovedenie1" title="�������� �� �������������� 1 �����">��������������</a></li>
+					<li><a href="/russkij1" title="�������� �� �������� ����� 1 �����">������� ����</a></li>
+					<li><a href="/trudovoe1" title="�������� �� ��������� �������� 1 �����">�������� ��������</a></li>
+					<li><a href="/ukr_jazyk1" title="�������� �� ����������� ����� 1 �����">���������� ����</a></li>
+					<li><a href="/francuzskij1" title="������� �� ������������ 1 �����">����������� ����</a></li>
+					<li><a href="/yz_issleduju-mir1" title="�������� � �������� ��� 1 �����">� �������� ���</a></li>
+        		</ul>
+    	</li>
+    	<li class="arrow">
+        	<a href="/2klass" class="arrow" title="�������� ������ 2 �����"><span>2</span></a>
+          		<ul>
+					<li><a href="/anglijskij2" title="�������� �� ����������� 2 �����">���������� ����</a></li>
+					<li><a href="/informatika2" title="�������� �� ����������� 2 �����">�����������</a></li>
+					<li><a href="/71-ispanskiy-yazyk-2-klass-redko.html" title="������� �� ���������� 2 �����">��������� ����</a></li>
+					<li><a href="/chtenie2" title="�������� ������������ ������ 2 �����">���������. ������</a></li>
+                                        <li><a href="/matematika2" title="�������� �� ���������� 2 �����">����������</a></li>
+					<li><a href="/izobrazitelnoe2" title="������� �� ��������� 2 �����">���������</a></li>
+					<li><a href="/musika2" title="�������� �� ������ 2 �����">������</a></li>
+					<li><a href="/nemeckij2" title="�������� �� ��������� 2 �����">�������� ����</a></li>
+					<li><a href="/izobrazitelnoe2" title="�������� �� ���������������� ��������� 2 �����">��������������� ���������</a></li>
+					<li><a href="/zdorovja2" title="�������� ������ �������� 2 �����">������ ��������</a></li>
+					
+					<li><a href="/russkij2" title="�������� �� �������� ����� 2 �����">������� ����</a></li>
+					<li><a href="/trudovoe2" title="�������� �� ��������� �������� 2 �����">�������� ��������</a></li>
+					<li><a href="/ukr_jazyk2" title="�������� �� ����������� ����� 2 �����">���������� ����</a></li>
+					<li><a href="/francuzskij2" title="������� �� ������������ 2 �����">����������� ����</a></li>
+                                        <li><a href="/prirodovedenie2" title="�������� � �������� ��� 2 �����">� �������� ���</a></li>
+        	</ul>  
+    	</li>
+    	<li class="arrow">
+    		<a href="/3klass" class="arrow" title="�������� ������ 3 �����"><span>3</span></a>
+        		<ul>
+					<li><a href="/anglijskij3" title="�������� ����������� ����� 3 �����">����������� �����</a></li>
+					<li><a href="/informatika3" title="�������� �� ����������� 3 �����">�����������</a></li>
+					
+					<li><a href="/chtenie3" title="�������� ������������ ������ 3 �����">���������. ������</a></li>
+                                        <li><a href="/matematika3" title="�������� �� ���������� 3 �����">����������</a></li>
+
+					<li><a href="/musika3" title="������� �� ��������� 3 �����">���������</a></li>					
+					
+                                        <li><a href="/85-izobrazitelnoe-iskusstvo-3-klass-kalinichenko.html" title="������� �� ���������������� ��������� 3 �����">��������������� ���������</a></li>
+					<li><a href="/zdorovja3" title="�������� ������ �������� 3 �����">������ ��������</a></li>
+					<li><a href="/russkij3" title="�������� �� �������� ����� 3 �����">������� ����</a></li>
+					<li><a href="/103-trudovoe-obuchenie-3-klass-veremiychik-timenko.html" title="������� �� ��������� �������� 3 �����">�������� ��������</a></li>
+					<li><a href="/ukr_jazyk3" title="�������� �� ����������� ����� 3 �����">���������� ����</a></li>
+					
+                                        <li><a href="/prirodovedenie3" title="�������� � �������� ��� 3 �����">� �������� ���</a></li>
+                                       
+        		</ul>
+    	</li>
+        <li class="arrow">
+        	<a href="/4klass" class="arrow" title="�������� ������ 4 �����"><span>4</span></a>
+          		<ul>
+					<li><a href="/anglijskij4" title="�������� �� ����������� 4 �����">���������� ����</a></li>
+					<li><a href="/informatika4" title="�������� �� ����������� 4 �����">�����������</a></li>
+					<li><a href="/689-ispanskiy-yazyk-4-klass-redko.html" title="������� �� ���������� 4 �����">��������� ����</a></li>
+					<li><a href="/chtenie4" title="�������� ������������ ������ 4 �����">���������. ������</a></li>
+					<li><a href="/matematika4" title="�������� �� ���������� 4 �����">����������</a></li>
+					<li><a href="/musika4" title="�������� �� ������ 4 �����">������</a></li>					
+					<li><a href="/682-iskusstvo-4-klass-masol.html" title="������� �� ��������� 4 �����">���������</a></li>					
+					<li><a href="/686-nemeckiy-yazyk-4-klass-gorbach.html" title="������� �� ��������� 4 �����">�������� ����</a></li>
+                    <li><a href="/izobrazitelnoe4" title="�������� �� ���������������� ��������� 4 �����">��������������� ���������</a></li>
+					<li><a href="/zdorovja4" title="�������� ������ �������� 4 �����">������ ��������</a></li>
+					<li><a href="/prirodovedenie4" title="�������� �� �������������� 4 �����">��������������</a></li>
+					<li><a href="/russkij4" title="�������� �� �������� ����� 4 �����">������� ����</a></li>
+					<li><a href="/trudovoe4" title="�������� �� ��������� �������� 4 �����">�������� ��������</a></li>
+					<li><a href="/ukr_jazyk4" title="�������� �� ����������� ����� 4 �����">���������� ����</a></li>
+					<li><a href="/francuzskij4" title="������� �� ������������ 4 �����">����������� ����</a></li>
+                                        <li><a href="/vmire4" title="������� � � ���� 4 �����">� � ����</a></li>
+        	</ul>  
+    	</li>
+<li class="arrow">
+        	<a href="/5klass" class="arrow" title="�������� ������ 5 �����"><span>5</span></a>
+          		<ul>
+			                <li><a href="/anglijskij5" title="�������� �� ����������� 5 �����">���������� ����</a></li>
+                                        <li><a href="/etika5" title="�������� �� ����� 5 �����">�����</a></li>
+                                        <li><a href="/zarubezhnaja5" title="�������� �� ���������� ���������� 5 �����">���������� ����������</a></li>
+<li><a href="/izobrazitelnoe5" title="������� �� ���������������� ��������� 5 �����">��������������� ���������</a></li>
+					<li><a href="/informatika5" title="�������� �� ����������� 5 �����">�����������</a></li>
+					<li><a href="/ispanskij5" title="�������� �� ���������� 5 �����">��������� ����</a></li>
+                                        <li><a href="/ukr_istorija5" title="�������� �� ������� ������� 5 �����">������� �������</a></li>
+					<li><a href="/literatura5" title="�������� ���������� ������ 5 �����">����������</a></li>
+                                        <li><a href="/matematika5" title="�������� �� ���������� 5 �����">����������</a></li>
+					<li><a href="/122-iskusstvo-5-klass-masol.html" title="������� �� ��������� 5 �����">���������</a></li>	
+                                        <li><a href="/mirovaja5" title="�������� �� ������� ���������� 5 �����">������� ��-��</a></li>
+                                        <li><a href="/muzika5" title="�������� �� ������ 5 �����">������</a></li>				
+					<li><a href="/nemeckij5" title="�������� �� ��������� 5 �����">�������� ����</a></li>
+                                        
+					<li><a href="/zdorovja5" title="�������� ������ �������� 5 �����">������ ��������</a></li>
+					<li><a href="/prirodovedenie5" title="�������� �� �������������� 5 �����">��������������</a></li>
+                                        <li><a href="/rodnoj5" title="�������� �� ������� ����� 5 �����">������ ����</a></li>
+					<li><a href="/russkij5" title="�������� �� �������� ����� 5 �����">������� ����</a></li>
+					<li><a href="/trudovoe5" title="�������� �� ��������� �������� 5 �����">�������� ��������</a></li>
+                                        <li><a href="/ukr_literatura5" title="�������� �� ���������� ���������� 5 �����">��� ����������</a></li>
+					<li><a href="/ukr_jazyk5" title="�������� �� ����������� ����� 5 �����">���������� ����</a></li>
+					<li><a href="/francuzskij5" title="�������� �� ������������ 5 �����">����������� ����</a></li>
+                                        
+        	</ul>  
+    	</li>
+<li class="arrow">
+        	<a href="/6klass" class="arrow" title="�������� ������ 6 �����"><span>6</span></a>
+          		<ul>
+<li><a href="/anglijskij6" title="�������� �� ����������� 6 �����">���������� ����</a></li>
+<li><a href="/biologia6" title="�������� �� �������� 6 �����">��������</a></li>
+<li><a href="/drevnjaja_istorija6" title="�������� �� ��������� ������� 6 �����">��������� �������</a></li>
+<li><a href="/geografija6" title="�������� �� ��������� 6 �����">���������</a></li>
+<li><a href="/213-etika-6-klass-danilevskaya.html" title="������� �� ����� 6 �����">�����</a></li>
+<li><a href="/zarubezhnaja6" title="�������� �� ���������� ���������� 6 �����">���������� ����������</a></li>
+<li><a href="/izobrazitelnoe6" title="������� �� ���������������� ��������� 6 �����">��������������� ���������</a></li>	
+<li><a href="/informatika6" title="�������� �� ����������� 6 �����">�����������</a></li>
+<li><a href="/233-ispanskiy-yazyk-6-klass-redko-2014.html" title="������� �� ���������� 6 �����">��������� ����</a></li>
+<li><a href="/literatura6" title="�������� ���������� ������ 6 �����">����������</a></li>
+<li><a href="/matematika6" title="�������� �� ���������� 6 �����">����������</a></li>
+<li><a href="/mirovaja6" title="�������� �� ������� ���������� 6 �����">������� ��-��</a></li>
+<li><a href="/189-muzyka-6-kals-masol-aristova.html" title="������� �� ������ 6 �����">������</a></li>				
+<li><a href="/nemeckij6" title="�������� �� ��������� 6 �����">�������� ����</a></li>
+<li><a href="/zdorovja6" title="�������� ������ �������� 6 �����">������ ��������</a></li>
+<li><a href="/227-polskiy-yazyk-6-klass-ivanova.html" title="������� �� ��������� ����� 6 �����">�������� ����</a></li>
+<li><a href="/prirodovedenie6" title="�������� �� �������������� 6 �����">��������������</a></li>
+<li><a href="/rodnoj6" title="�������� �� ������� ����� 6 �����">������ ����</a></li>
+<li><a href="/russkij6" title="�������� �� �������� ����� 6 �����">������� ����</a></li>
+<li><a href="/trudovoe6" title="�������� �� ��������� �������� 6 �����">�������� ��������</a></li>
+<li><a href="/ukr_literatura6" title="�������� �� ���������� ���������� 6 �����">��� ����������</a></li>
+<li><a href="/ukr_jazyk6" title="�������� �� ����������� ����� 6 �����">���������� ����</a></li>
+<li><a href="/francuzskij6" title="�������� �� ������������ 6 �����">����������� ����</a></li>	
+        	</ul>  
+    	</li>
+<li class="arrow">
+        	<a href="/7klass" class="arrow" title="�������� ������ 7 �����"><span>7</span></a>
+          		<ul>
+<li><a href="/algebra7" title="�������� �� ������� 7 �����">�������</a></li>
+<li><a href="/anglijskij7" title="�������� �� ����������� 7 �����">���������� ����</a></li>
+<li><a href="/biologia7" title="�������� �� �������� 7 �����">��������</a></li>
+<li><a href="/istorija_srednih_vekov7" title="�������� �� ��������� ������� 7 �����">��������� �������</a></li>
+<li><a href="/geografija7" title="�������� �� ��������� 7 �����">���������</a></li>
+<li><a href="/geometria7" title="�������� �� ��������� 7 �����">���������</a></li>
+<li><a href="/zarubezhnaja7" title="�������� �� ���������� ���������� 7 �����">���������� ����������</a></li>
+<li><a href="/izobrazitelnoe7" title="������� �� ���������������� ��������� 7 �����">��������������� ���������</a></li>	
+<li><a href="/informatika7" title="�������� �� ����������� 7 �����">�����������</a></li>
+<li><a href="/745-iskusstvo-7-klass-masol.html" title="������� �� ��������� 7 �����">���������</a></li>	
+<li><a href="/ispanskij7" title="�������� �� ���������� 7 �����">��������� ����</a></li>
+<li><a href="/ukr_istorija7" title="�������� �� ������� ������� 7 �����">������� �������</a></li>
+<li><a href="/literatura7" title="�������� ���������� 7 �����">����������</a></li>
+<li><a href="/muzika7" title="������� �� ������ 7 �����">������</a></li>				
+<li><a href="/nemeckij7" title="�������� �� ��������� 7 �����">�������� ����</a></li>
+<li><a href="/zdorovja7" title="�������� ������ �������� 7 �����">������ ��������</a></li>
+<li><a href="/rodnoj7" title="�������� �� ������� ����� 7 �����">������ ����</a></li>
+<li><a href="/russkij7" title="�������� �� �������� ����� 7 �����">������� ����</a></li>
+<li><a href="/trudovoe7" title="�������� �� ��������� �������� 7 �����">�������� ��������</a></li>
+<li><a href="/ukr_literatura7" title="�������� �� ���������� ���������� 7 �����">��� ����������</a></li>
+<li><a href="/ukr_jazyk7" title="�������� �� ����������� ����� 7 �����">���������� ����</a></li>
+<li><a href="/fizika7" title="�������� �� ������ 7 �����">������</a></li>
+<li><a href="/francuzskij7" title="������� �� ������������ 7 �����">����������� ����</a></li>
+<li><a href="/himija7" title="�������� �� ����� 7 �����">�����</a></li>		
+        	</ul>  
+    	</li>
+<li class="arrow">
+        	<a href="/8klass" class="arrow" title="�������� ������ 8 �����"><span>8</span></a>
+          		<ul>
+			
+<li><a href="/algebra8" title="�������� �� ������� 8 �����">�������</a></li>
+<li><a href="/anglijskij8" title="�������� �� ����������� 8 �����">���������� ����</a></li>
+<li><a href="/biologia8" title="�������� �� �������� 8 �����">��������</a></li>
+<li><a href="/vsemirnaja_istorija8" title="�������� �� ��������� ������� 8 �����">��������� �������</a></li>
+<li><a href="/fiz_geografija8" title="�������� �� ��������� 8 �����">���������</a></li>
+<li><a href="/geometria8" title="�������� �� ��������� 8 �����">���������</a></li>
+<li><a href="/zarubezhnaja8" title="�������� �� ���������� ���������� 8 �����">���������� ����������</a></li>
+<li><a href="/informatika8" title="�������� �� ����������� 8 �����">�����������</a></li>
+<li><a href="/spain8" title="�������� �� ���������� 8 �����">��������� ����</a></li>
+<li><a href="/iskusstvo8" title="�������� �� ��������� 8 �����">���������</a></li>
+<li><a href="/ukr_istorija8" title="�������� �� ������� ������� 8 �����">������� �������</a></li>
+<li><a href="/literatura8" title="�������� �� ���������� 8 �����">����������</a></li>
+<li><a href="/muzika8" title="�������� �� ������ 8 �����">������</a></li>				
+<li><a href="/nemeckij8" title="�������� �� ��������� 8 �����">�������� ����</a></li>
+<li><a href="/zdorovja8" title="�������� ������ �������� 8 �����">������ ��������</a></li>
+<li><a href="/russkij8" title="�������� �� �������� ����� 8 �����">������� ����</a></li>
+<li><a href="/trudovoe8" title="�������� �� ��������� �������� 8 �����">�������� ��������</a></li>
+<li><a href="/ukr_literatura8" title="�������� �� ���������� ���������� 8 �����">��� ����������</a></li>
+<li><a href="/ukr_jazyk8" title="�������� �� ����������� ����� 8 �����">���������� ����</a></li>
+<li><a href="/fizika8" title="�������� �� ������ 8 �����">������</a></li>
+<li><a href="/francuzskij8" title="�������� �� ������������ 8 �����">����������� ����</a></li>
+<li><a href="/himija8" title="�������� �� ����� 8 �����">�����</a></li>	
+<li><a href="/336-cherchenie-8-klass-sidorenko.html" title="������� �� �������� 8 �����">��������</a></li>	
+        	</ul>  
+    	</li>
+<li class="arrow">
+        	<a href="/9klass" class="arrow" title="�������� ������ 9 �����"><span>9</span></a>
+          		<ul>
+			
+<li><a href="/algebra9" title="�������� �� ������� 9 �����">�������</a></li>
+<li><a href="/anglijskij9" title="�������� �� ����������� 9 �����">���������� ����</a></li>
+<li><a href="/biologia9" title="�������� �� �������� 9 �����">��������</a></li>
+<li><a href="/vsemirnaja_istorija9" title="�������� �� ��������� ������� 9 �����">��������� �������</a></li>
+<li><a href="/geografija9" title="�������� ��������� 9 �����">���������</a></li>
+<li><a href="/geometria9" title="�������� �� ��������� 9 �����">���������</a></li>
+<li><a href="/zarubezhnaja9" title="�������� �� ���������� ���������� 9 �����">���������� ����������</a></li>
+<li><a href="/informatika9" title="�������� �� ����������� 9 �����">�����������</a></li>
+<li><a href="/spain9" title="�������� �� ���������� 9 �����">��������� ����</a></li>
+<li><a href="/iskusstvo9" title="�������� �� ��������� 9 �����">���������</a></li>
+<li><a href="/ukr_istorija9" title="�������� �� ������� ������� 9 �����">������� �������</a></li>
+
+<li><a href="/literatura9" title="�������� �� ���������� 9 �����">����������</a></li>
+				
+<li><a href="/nemeckij9" title="�������� �� ��������� 9 �����">�������� ����</a></li>
+<li><a href="/zdorovja9" title="�������� ������ �������� 9 �����">������ ��������</a></li>
+<li><a href="/pravovedenie9" title="�������� �� ������������ 9 �����">������������</a></li>
+<li><a href="/russkij9" title="�������� �� �������� ����� 9 �����">������� ����</a></li>
+<li><a href="/trudovoe9" title="�������� �� ��������� �������� 8 �����">�������� ��������</a></li>
+<li><a href="/ukr_literatura9" title="�������� �� ���������� ���������� 9 �����">��� ����������</a></li>
+<li><a href="/ukr_jazyk9" title="�������� �� ����������� ����� 9 �����">���������� ����</a></li>
+<li><a href="/fizika9" title="�������� �� ������ 9 �����">������</a></li>
+<li><a href="/francuzskij9" title="�������� �� ������������ 9 �����">����������� ����</a></li>
+
+<li><a href="/himija9" title="�������� �� ����� 8 �����">�����</a></li>	
+<li><a href="/kultura9" title="������� �� �������������� �������� 9 �����">����� ��������</a></li>
+<li><a href="/336-cherchenie-8-klass-sidorenko.html" title="������� �� �������� 9 �����">��������</a></li>		
+        	</ul>  
+    	</li>
+<li class="arrow">
+        	<a href="/10klass" class="arrow" title="�������� ������ 10 �����"><span>10</span></a>
+          		<ul>
+				
+<li><a href="/algebra10" title="�������� �� ������� 10 �����">�������</a></li>
+<li><a href="/anglijskij10" title="�������� �� ����������� 10 �����">���������� ����</a></li>
+<li><a href="/biologia10" title="�������� �� �������� 10 �����">��������</a></li>
+<li><a href="/vsemirnaja_istorija10" title="�������� �� ��������� ������� 10 �����">��������� �������</a></li>
+<li><a href="/geografija10" title="�������� ��������� 10 �����">���������</a></li>
+<li><a href="/geometria10" title="�������� �� ��������� 10 �����">���������</a></li>
+<li><a href="/grazdanskoe10" title="�������� ����������� ����������� 10 �����">����������� �����������</a></li>                    
+<li><a href="/472-ekologiya-10-klass-carik.html" title="������� �� �������� 10 �����">��������</a></li>
+<li><a href="/ekonomika10" title="������� �� ��������� 10 �����">���������</a></li>
+<li><a href="/zashhita-otechestva10" title="�������� �� ������ ��������� 10 �����">������ ���������</a></li>
+<li><a href="/informatika10" title="�������� �� ����������� 10 �����">�����������</a></li>
+<li><a href="/ukr_istorija10" title="�������� �� ������� ������� 10 �����">������� �������</a></li>
+<li><a href="/429-literatura-10-klass-isaeva.html" title="������� �� ���������� 10 �����">����������</a></li>
+<li><a href="/matematika10" title="�������� �� ���������� 10 �����">����������</a></li>	
+<li><a href="/mirovaja_literatura10" title="�������� �� ������� ���������� 10 �����">������� ����������</a></li>	
+
+<li><a href="/nemeckij10" title="�������� �� ��������� ����� 10 �����">�������� ����</a></li>
+<li><a href="/pravovedenie10" title="�������� �� ������������ 10 �����">������������</a></li>
+<li><a href="/russkij10" title="�������� �� �������� ����� 10 �����">������� ����</a></li>
+<li><a href="/tehnologii10" title="�������� �� ���������� 10 �����">����������</a></li>
+<li><a href="/ukr_literatura10" title="�������� �� ���������� ���������� 10 �����">��� ����������</a></li>
+<li><a href="/ukr_jazyk10" title="�������� �� ����������� ����� 10 �����">���������� ����</a></li>
+<li><a href="/fizika10" title="�������� �� ������ 10 �����">������</a></li>
+<li><a href="/462-filosofiya-10-klass-ognevyuk.html" title="�������� �� ��������� 10 �����">���������</a></li>
+<li><a href="/francuzskij10" title="�������� �� ������ 10 �����">����������� ����</a></li>
+<li><a href="/himija10" title="�������� �� ����� 10 �����">�����</a></li>	
+<li><a href="/kultura10" title="������� �� �������������� �������� 10 �����">����� ��������</a></li>
+		
+        	</ul>  
+    	</li>
+<li class="arrow">
+        	<a href="/11klass" class="arrow" title="�������� ������ 11 �����"><span>11</span></a>
+          		<ul>
+<li><a href="/algebra11" title="�������� �� ������� 11 �����">�������</a></li>
+<li><a href="/fizika11" title="������� �� ���������� 11 �����">����������</a></li>
+<li><a href="/biologia11" title="�������� �� �������� 11 �����">�������� ��������</a></li>
+<li><a href="/vsemirnaja_istorija11" title="�������� �� ��������� ������� 11 �����">��������� �������</a></li>
+<li><a href="/geografija11" title="�������� ��������� 11 �����">���������</a></li>
+<li><a href="/geometria11" title="�������� �� ��������� 11 �����">���������</a></li>
+<li><a href="/ekonomika" title="�������� �� ��������� 11 �����">���������</a></li>
+<li><a href="/zashhita-otechestva11" title="�������� �� ������ ��������� 11 �����">������ ���������</a></li>
+<li><a href="/anglijskij11" title="�������� ����������� ����� 11 �����">����������� �����</a></li>
+<li><a href="/informatika11" title="�������� �� ����������� 11 �����">�����������</a></li>
+<li><a href="/980-ispanskiy-yazyk-11-klass-redko.html" title="�������� �� ���������� 9 �����">��������� ����</a></li>
+<li><a href="/ukr_istorija11" title="�������� �� ������� ������� 11 �����">������� �������</a></li>
+<li><a href="/487-literatura-11-klass-isaeva.html" title="������� �� ���������� 11 �����">����������</a></li>
+<li><a href="/matematika11" title="�������� �� ���������� 11 �����">����������</a></li>	
+<li><a href="/mirovaja_literatura11" title="�������� �� ������� ���������� 11 �����">������� ����������</a></li>	
+
+<li><a href="/533-nemeckiy-yazyk-11-klass-basay.html" title="������� �� ��������� ����� 11 �����">�������� ����</a></li>
+
+<li><a href="/485-russkiy-yazyk-11-klass-rudyakov.html" title="������� �� �������� ����� 11 �����">������� ����</a></li>
+<li><a href="/tehnologii11" title="�������� �� ���������� 11 �����">����������</a></li>
+<li><a href="/ukr_literatura11" title="�������� �� ���������� ���������� 11 �����">��� ����������</a></li>
+<li><a href="/ukr_jazyk11" title="�������� �� ����������� ����� 11 �����">���������� ����</a></li>
+<li><a href="/fizika11" title="�������� �� ������ 11 �����">������</a></li>
+
+<li><a href="/528-francuzskiy-yazyk-11-klass-klimenko.html" title="�������� �� ������ 11 �����">����������� ����</a></li>
+<li><a href="/himija11" title="�������� �� ����� 11 �����">�����</a></li>	
+<li><a href="/kultura11" title="������� �� �������������� �������� 11 �����">����� ��������</a></li>
+<li><a href="chelovek_mir11" title="�������� ������� � ��� 11 �����">������� � ���</a></li>
+<li><a href="/521-cherchenie-11-klass-sidorenko.html" title="������� �� �������� 11 �����">��������</a></li>
+					
+        	</ul>  
+    	</li>
+
+
+
+
+
+	</ul>
+        <form action="" name="searchform" method="post">
+        <input type="hidden" name="do" value="search" />
+        <input type="hidden" name="subaction" value="search" />
+        <ul class="searchbar">
+            <li class="text">
+            <input id="story" name="story" value="�����..." onblur="if(this.value=='') this.value='�����...';" onfocus="if(this.value=='�����...') this.value='';" type="text" />
+            </li>
+            <li class="img">
+            <input title="�����" alt="�����" type="image" src="/templates/grunge-film-blue/images/search-icon.png" />
+            </li>
+        </ul>
+        </form> 
+    </div>
+    
+   	
+    <div class="gf-contentbar">
+        <div class="gf-left">
+                    
+        
+            <div class="short-film">
+    <div class="img-block border-2">
+        <img src="/uploads/posts/2016-09/1474520205_osnovy-zdorovya-beh-7-klas-2015.jpg" alt="������ �������� 7 ���� ���" class="img-poster border-2 shadow-dark7" width="151" height="215" />
+        <div class="text-block">
+            
+            <p class="text"> </p>
+            <div class="ratin"><div id='ratig-layer-752'><div class="rating">
+		<ul class="unit-rating">
+		<li class="current-rating" style="width:80%;">80</li>
+		<li><a href="#" title="�����" class="r1-unit" onclick="doRate('1', '752'); return false;">1</a></li>
+		<li><a href="#" title="���������" class="r2-unit" onclick="doRate('2', '752'); return false;">2</a></li>
+		<li><a href="#" title="������" class="r3-unit" onclick="doRate('3', '752'); return false;">3</a></li>
+		<li><a href="#" title="������" class="r4-unit" onclick="doRate('4', '752'); return false;">4</a></li>
+		<li><a href="#" title="�������" class="r5-unit" onclick="doRate('5', '752'); return false;">5</a></li>
+		</ul>
+</div></div></div>
+            <a href="https://uchebniki-online.net/752-osnovy-zdorovya-7-klas-beh.html" title="������ �������" class="look-movie border-3">������</a>
+        </div>
+    </div>   
+    <h5><a href="https://uchebniki-online.net/752-osnovy-zdorovya-7-klas-beh.html" class="full-link border-2" title="������ �������� 7 ���� ���">������ �������� 7 ���� ���</a></h5>
+    <div class="clr"></div>
+</div><div class="short-film">
+    <div class="img-block border-2">
+        <img src="https://uchebniki-online.net/uploads/posts/2020-08/1597476802_nemeckiy-7-klass-stnikova-2020-7-god.jpg" alt="�������� ���� 7 ����� ���������" class="img-poster border-2 shadow-dark7" width="151" height="215" />
+        <div class="text-block">
+            
+            <p class="text"> </p>
+            <div class="ratin"><div id='ratig-layer-1122'><div class="rating">
+		<ul class="unit-rating">
+		<li class="current-rating" style="width:80%;">80</li>
+		<li><a href="#" title="�����" class="r1-unit" onclick="doRate('1', '1122'); return false;">1</a></li>
+		<li><a href="#" title="���������" class="r2-unit" onclick="doRate('2', '1122'); return false;">2</a></li>
+		<li><a href="#" title="������" class="r3-unit" onclick="doRate('3', '1122'); return false;">3</a></li>
+		<li><a href="#" title="������" class="r4-unit" onclick="doRate('4', '1122'); return false;">4</a></li>
+		<li><a href="#" title="�������" class="r5-unit" onclick="doRate('5', '1122'); return false;">5</a></li>
+		</ul>
+</div></div></div>
+            <a href="https://uchebniki-online.net/1122-nemeckiy-yazyk-7-klass-sotnikova.html" title="������ �������" class="look-movie border-3">������</a>
+        </div>
+    </div>   
+    <h5><a href="https://uchebniki-online.net/1122-nemeckiy-yazyk-7-klass-sotnikova.html" class="full-link border-2" title="�������� ���� 7 ����� ���������">�������� ���� 7 ����� ���������</a></h5>
+    <div class="clr"></div>
+</div><div class="short-film">
+    <div class="img-block border-2">
+        <img src="https://uchebniki-online.net/uploads/posts/2020-08/1597476578_nemeckiy-7-klass-gorbach-2020.jpg" alt="�������� ���� 7 ����� ������, ������� 2020" class="img-poster border-2 shadow-dark7" width="151" height="215" />
+        <div class="text-block">
+            
+            <p class="text"> </p>
+            <div class="ratin"><div id='ratig-layer-653'><div class="rating">
+		<ul class="unit-rating">
+		<li class="current-rating" style="width:60%;">60</li>
+		<li><a href="#" title="�����" class="r1-unit" onclick="doRate('1', '653'); return false;">1</a></li>
+		<li><a href="#" title="���������" class="r2-unit" onclick="doRate('2', '653'); return false;">2</a></li>
+		<li><a href="#" title="������" class="r3-unit" onclick="doRate('3', '653'); return false;">3</a></li>
+		<li><a href="#" title="������" class="r4-unit" onclick="doRate('4', '653'); return false;">4</a></li>
+		<li><a href="#" title="�������" class="r5-unit" onclick="doRate('5', '653'); return false;">5</a></li>
+		</ul>
+</div></div></div>
+            <a href="https://uchebniki-online.net/653-nemeckiy-yazyk-7-klass-gorbach-trinka-2015.html" title="������ �������" class="look-movie border-3">������</a>
+        </div>
+    </div>   
+    <h5><a href="https://uchebniki-online.net/653-nemeckiy-yazyk-7-klass-gorbach-trinka-2015.html" class="full-link border-2" title="�������� ���� 7 ����� ������, ������� 2020">�������� ���� 7 ����� ������, ������� 2020</a></h5>
+    <div class="clr"></div>
+</div><div class="short-film">
+    <div class="img-block border-2">
+        <img src="https://uchebniki-online.net/uploads/posts/2020-08/1597476539_russkiy-yazyk-7-klass-polyakova-2020.jpg" alt="������� ���� 7 ���� ��������, ��������, ������� 2020" class="img-poster border-2 shadow-dark7" width="151" height="215" />
+        <div class="text-block">
+            
+            <p class="text"> </p>
+            <div class="ratin"><div id='ratig-layer-651'><div class="rating">
+		<ul class="unit-rating">
+		<li class="current-rating" style="width:80%;">80</li>
+		<li><a href="#" title="�����" class="r1-unit" onclick="doRate('1', '651'); return false;">1</a></li>
+		<li><a href="#" title="���������" class="r2-unit" onclick="doRate('2', '651'); return false;">2</a></li>
+		<li><a href="#" title="������" class="r3-unit" onclick="doRate('3', '651'); return false;">3</a></li>
+		<li><a href="#" title="������" class="r4-unit" onclick="doRate('4', '651'); return false;">4</a></li>
+		<li><a href="#" title="�������" class="r5-unit" onclick="doRate('5', '651'); return false;">5</a></li>
+		</ul>
+</div></div></div>
+            <a href="https://uchebniki-online.net/651-russkiy-yazyk-7-klas-polyakova-samonova-priymak-2015.html" title="������ �������" class="look-movie border-3">������</a>
+        </div>
+    </div>   
+    <h5><a href="https://uchebniki-online.net/651-russkiy-yazyk-7-klas-polyakova-samonova-priymak-2015.html" class="full-link border-2" title="������� ���� 7 ���� ��������, ��������, ������� 2020">������� ���� 7 ���� ��������, ��������, ������� 2020</a></h5>
+    <div class="clr"></div>
+</div><div class="short-film">
+    <div class="img-block border-2">
+        <img src="https://uchebniki-online.net/uploads/posts/2020-08/1597476331_ispanskiy-7-klass-redko-2020-3-god.jpg" alt="��������� ���� 7 ����� ������, ����������� (3-�-���) 2020" class="img-poster border-2 shadow-dark7" width="151" height="215" />
+        <div class="text-block">
+            
+            <p class="text"> </p>
+            <div class="ratin"><div id='ratig-layer-650'><div class="rating">
+		<ul class="unit-rating">
+		<li class="current-rating" style="width:80%;">80</li>
+		<li><a href="#" title="�����" class="r1-unit" onclick="doRate('1', '650'); return false;">1</a></li>
+		<li><a href="#" title="���������" class="r2-unit" onclick="doRate('2', '650'); return false;">2</a></li>
+		<li><a href="#" title="������" class="r3-unit" onclick="doRate('3', '650'); return false;">3</a></li>
+		<li><a href="#" title="������" class="r4-unit" onclick="doRate('4', '650'); return false;">4</a></li>
+		<li><a href="#" title="�������" class="r5-unit" onclick="doRate('5', '650'); return false;">5</a></li>
+		</ul>
+</div></div></div>
+            <a href="https://uchebniki-online.net/650-ispanskiy-yazyk-7-klass-redko-shmigelskiy-3-y-god-2015.html" title="������ �������" class="look-movie border-3">������</a>
+        </div>
+    </div>   
+    <h5><a href="https://uchebniki-online.net/650-ispanskiy-yazyk-7-klass-redko-shmigelskiy-3-y-god-2015.html" class="full-link border-2" title="��������� ���� 7 ����� ������, ����������� (3-�-���) 2020">��������� ���� 7 ����� ������, ����������� (3-�-���) 2020</a></h5>
+    <div class="clr"></div>
+</div><div class="short-film">
+    <div class="img-block border-2">
+        <img src="https://uchebniki-online.net/uploads/posts/2020-08/1597476081_ispanskiy-7-klass-redko-2020-7-god.jpg" alt="��������� ���� 7 ����� ������, ������������  (7-���)" class="img-poster border-2 shadow-dark7" width="151" height="215" />
+        <div class="text-block">
+            
+            <p class="text"> </p>
+            <div class="ratin"><div id='ratig-layer-649'><div class="rating">
+		<ul class="unit-rating">
+		<li class="current-rating" style="width:80%;">80</li>
+		<li><a href="#" title="�����" class="r1-unit" onclick="doRate('1', '649'); return false;">1</a></li>
+		<li><a href="#" title="���������" class="r2-unit" onclick="doRate('2', '649'); return false;">2</a></li>
+		<li><a href="#" title="������" class="r3-unit" onclick="doRate('3', '649'); return false;">3</a></li>
+		<li><a href="#" title="������" class="r4-unit" onclick="doRate('4', '649'); return false;">4</a></li>
+		<li><a href="#" title="�������" class="r5-unit" onclick="doRate('5', '649'); return false;">5</a></li>
+		</ul>
+</div></div></div>
+            <a href="https://uchebniki-online.net/649-ispanskiy-yazyk-7-klass-redko-bereslavskaya-7-god.html" title="������ �������" class="look-movie border-3">������</a>
+        </div>
+    </div>   
+    <h5><a href="https://uchebniki-online.net/649-ispanskiy-yazyk-7-klass-redko-bereslavskaya-7-god.html" class="full-link border-2" title="��������� ���� 7 ����� ������, ������������  (7-���)">��������� ���� 7 ����� ������, ������������  (7-���)</a></h5>
+    <div class="clr"></div>
+</div><div class="short-film">
+    <div class="img-block border-2">
+        <img src="https://uchebniki-online.net/uploads/posts/2020-08/1597392170_francuzskiy-7-klass-klimenko-2020-7-god.jpg" alt="����������� ���� 7 ����� �������� 7-� ���" class="img-poster border-2 shadow-dark7" width="151" height="215" />
+        <div class="text-block">
+            
+            <p class="text"> </p>
+            <div class="ratin"><div id='ratig-layer-766'><div class="rating">
+		<ul class="unit-rating">
+		<li class="current-rating" style="width:60%;">60</li>
+		<li><a href="#" title="�����" class="r1-unit" onclick="doRate('1', '766'); return false;">1</a></li>
+		<li><a href="#" title="���������" class="r2-unit" onclick="doRate('2', '766'); return false;">2</a></li>
+		<li><a href="#" title="������" class="r3-unit" onclick="doRate('3', '766'); return false;">3</a></li>
+		<li><a href="#" title="������" class="r4-unit" onclick="doRate('4', '766'); return false;">4</a></li>
+		<li><a href="#" title="�������" class="r5-unit" onclick="doRate('5', '766'); return false;">5</a></li>
+		</ul>
+</div></div></div>
+            <a href="https://uchebniki-online.net/766-francuzskiy-yazyk-7-klass-klimenko-7-y-god.html" title="������ �������" class="look-movie border-3">������</a>
+        </div>
+    </div>   
+    <h5><a href="https://uchebniki-online.net/766-francuzskiy-yazyk-7-klass-klimenko-7-y-god.html" class="full-link border-2" title="����������� ���� 7 ����� �������� 7-� ���">����������� ���� 7 ����� �������� 7-� ���</a></h5>
+    <div class="clr"></div>
+</div><div class="short-film">
+    <div class="img-block border-2">
+        <img src="https://uchebniki-online.net/uploads/posts/2020-08/1597392082_francuzskiy-7-klass-klimenko-2020-poglyblene.jpg" alt="����������� ���� 7 ����� �������� �����������" class="img-poster border-2 shadow-dark7" width="151" height="215" />
+        <div class="text-block">
+            
+            <p class="text"> </p>
+            <div class="ratin"><div id='ratig-layer-767'><div class="rating">
+		<ul class="unit-rating">
+		<li class="current-rating" style="width:80%;">80</li>
+		<li><a href="#" title="�����" class="r1-unit" onclick="doRate('1', '767'); return false;">1</a></li>
+		<li><a href="#" title="���������" class="r2-unit" onclick="doRate('2', '767'); return false;">2</a></li>
+		<li><a href="#" title="������" class="r3-unit" onclick="doRate('3', '767'); return false;">3</a></li>
+		<li><a href="#" title="������" class="r4-unit" onclick="doRate('4', '767'); return false;">4</a></li>
+		<li><a href="#" title="�������" class="r5-unit" onclick="doRate('5', '767'); return false;">5</a></li>
+		</ul>
+</div></div></div>
+            <a href="https://uchebniki-online.net/767-francuzskiy-yazyk-7-klass-klimenko-uglublennoe.html" title="������ �������" class="look-movie border-3">������</a>
+        </div>
+    </div>   
+    <h5><a href="https://uchebniki-online.net/767-francuzskiy-yazyk-7-klass-klimenko-uglublennoe.html" class="full-link border-2" title="����������� ���� 7 ����� �������� �����������">����������� ���� 7 ����� �������� �����������</a></h5>
+    <div class="clr"></div>
+</div><div class="short-film">
+    <div class="img-block border-2">
+        <img src="https://uchebniki-online.net/uploads/posts/2020-08/1597391892_francuzskiy-7-klass-chumak-2020.jpg" alt="����������� ���� 7 ����� �����" class="img-poster border-2 shadow-dark7" width="151" height="215" />
+        <div class="text-block">
+            
+            <p class="text"> </p>
+            <div class="ratin"><div id='ratig-layer-768'><div class="rating">
+		<ul class="unit-rating">
+		<li class="current-rating" style="width:80%;">80</li>
+		<li><a href="#" title="�����" class="r1-unit" onclick="doRate('1', '768'); return false;">1</a></li>
+		<li><a href="#" title="���������" class="r2-unit" onclick="doRate('2', '768'); return false;">2</a></li>
+		<li><a href="#" title="������" class="r3-unit" onclick="doRate('3', '768'); return false;">3</a></li>
+		<li><a href="#" title="������" class="r4-unit" onclick="doRate('4', '768'); return false;">4</a></li>
+		<li><a href="#" title="�������" class="r5-unit" onclick="doRate('5', '768'); return false;">5</a></li>
+		</ul>
+</div></div></div>
+            <a href="https://uchebniki-online.net/768-francuzskiy-yazyk-7-klass-chumak.html" title="������ �������" class="look-movie border-3">������</a>
+        </div>
+    </div>   
+    <h5><a href="https://uchebniki-online.net/768-francuzskiy-yazyk-7-klass-chumak.html" class="full-link border-2" title="����������� ���� 7 ����� �����">����������� ���� 7 ����� �����</a></h5>
+    <div class="clr"></div>
+</div><div class="short-film">
+    <div class="img-block border-2">
+        <img src="https://uchebniki-online.net/uploads/posts/2020-08/1597391796_himiya-7-klass-popel-2020.jpg" alt="����� 7 ����� ������ 2020" class="img-poster border-2 shadow-dark7" width="151" height="215" />
+        <div class="text-block">
+            
+            <p class="text"> </p>
+            <div class="ratin"><div id='ratig-layer-777'><div class="rating">
+		<ul class="unit-rating">
+		<li class="current-rating" style="width:80%;">80</li>
+		<li><a href="#" title="�����" class="r1-unit" onclick="doRate('1', '777'); return false;">1</a></li>
+		<li><a href="#" title="���������" class="r2-unit" onclick="doRate('2', '777'); return false;">2</a></li>
+		<li><a href="#" title="������" class="r3-unit" onclick="doRate('3', '777'); return false;">3</a></li>
+		<li><a href="#" title="������" class="r4-unit" onclick="doRate('4', '777'); return false;">4</a></li>
+		<li><a href="#" title="�������" class="r5-unit" onclick="doRate('5', '777'); return false;">5</a></li>
+		</ul>
+</div></div></div>
+            <a href="https://uchebniki-online.net/777-himiya-7-klass-popel-2015.html" title="������ �������" class="look-movie border-3">������</a>
+        </div>
+    </div>   
+    <h5><a href="https://uchebniki-online.net/777-himiya-7-klass-popel-2015.html" class="full-link border-2" title="����� 7 ����� ������ 2020">����� 7 ����� ������ 2020</a></h5>
+    <div class="clr"></div>
+</div><div class="short-film">
+    <div class="img-block border-2">
+        <img src="https://uchebniki-online.net/uploads/posts/2020-08/1597391622_fizyka-7-klass-baryahtar-2020.jpg" alt="������ 7 ����� ��������" class="img-poster border-2 shadow-dark7" width="151" height="215" />
+        <div class="text-block">
+            
+            <p class="text"> </p>
+            <div class="ratin"><div id='ratig-layer-1121'><div class="rating">
+		<ul class="unit-rating">
+		<li class="current-rating" style="width:80%;">80</li>
+		<li><a href="#" title="�����" class="r1-unit" onclick="doRate('1', '1121'); return false;">1</a></li>
+		<li><a href="#" title="���������" class="r2-unit" onclick="doRate('2', '1121'); return false;">2</a></li>
+		<li><a href="#" title="������" class="r3-unit" onclick="doRate('3', '1121'); return false;">3</a></li>
+		<li><a href="#" title="������" class="r4-unit" onclick="doRate('4', '1121'); return false;">4</a></li>
+		<li><a href="#" title="�������" class="r5-unit" onclick="doRate('5', '1121'); return false;">5</a></li>
+		</ul>
+</div></div></div>
+            <a href="https://uchebniki-online.net/1121-fizika-7-klass-baryahtar.html" title="������ �������" class="look-movie border-3">������</a>
+        </div>
+    </div>   
+    <h5><a href="https://uchebniki-online.net/1121-fizika-7-klass-baryahtar.html" class="full-link border-2" title="������ 7 ����� ��������">������ 7 ����� ��������</a></h5>
+    <div class="clr"></div>
+</div><div class="short-film">
+    <div class="img-block border-2">
+        <img src="https://uchebniki-online.net/uploads/posts/2020-08/1597390610_zarubezhnaya-literatura-7-klass-voloschuk-2020.jpg" alt="���������� ���������� 7 ����� ������� 2020" class="img-poster border-2 shadow-dark7" width="151" height="215" />
+        <div class="text-block">
+            
+            <p class="text"> </p>
+            <div class="ratin"><div id='ratig-layer-647'><div class="rating">
+		<ul class="unit-rating">
+		<li class="current-rating" style="width:80%;">80</li>
+		<li><a href="#" title="�����" class="r1-unit" onclick="doRate('1', '647'); return false;">1</a></li>
+		<li><a href="#" title="���������" class="r2-unit" onclick="doRate('2', '647'); return false;">2</a></li>
+		<li><a href="#" title="������" class="r3-unit" onclick="doRate('3', '647'); return false;">3</a></li>
+		<li><a href="#" title="������" class="r4-unit" onclick="doRate('4', '647'); return false;">4</a></li>
+		<li><a href="#" title="�������" class="r5-unit" onclick="doRate('5', '647'); return false;">5</a></li>
+		</ul>
+</div></div></div>
+            <a href="https://uchebniki-online.net/647-mirovaya-literatura-7-klass-voloschuk-2015.html" title="������ �������" class="look-movie border-3">������</a>
+        </div>
+    </div>   
+    <h5><a href="https://uchebniki-online.net/647-mirovaya-literatura-7-klass-voloschuk-2015.html" class="full-link border-2" title="���������� ���������� 7 ����� ������� 2020">���������� ���������� 7 ����� ������� 2020</a></h5>
+    <div class="clr"></div>
+</div><div class="short-film">
+    <div class="img-block border-2">
+        <img src="/uploads/posts/2016-02/1455967944_uchebnik-geometriya-7-klass-merzlyak-2015-rus.jpg" alt="��������� 7 ����� �������" class="img-poster border-2 shadow-dark7" width="151" height="215" />
+        <div class="text-block">
+            
+            <p class="text"> </p>
+            <div class="ratin"><div id='ratig-layer-636'><div class="rating">
+		<ul class="unit-rating">
+		<li class="current-rating" style="width:80%;">80</li>
+		<li><a href="#" title="�����" class="r1-unit" onclick="doRate('1', '636'); return false;">1</a></li>
+		<li><a href="#" title="���������" class="r2-unit" onclick="doRate('2', '636'); return false;">2</a></li>
+		<li><a href="#" title="������" class="r3-unit" onclick="doRate('3', '636'); return false;">3</a></li>
+		<li><a href="#" title="������" class="r4-unit" onclick="doRate('4', '636'); return false;">4</a></li>
+		<li><a href="#" title="�������" class="r5-unit" onclick="doRate('5', '636'); return false;">5</a></li>
+		</ul>
+</div></div></div>
+            <a href="https://uchebniki-online.net/636-geometriya-7-klass-merzlyak.html" title="������ �������" class="look-movie border-3">������</a>
+        </div>
+    </div>   
+    <h5><a href="https://uchebniki-online.net/636-geometriya-7-klass-merzlyak.html" class="full-link border-2" title="��������� 7 ����� �������">��������� 7 ����� �������</a></h5>
+    <div class="clr"></div>
+</div><div class="short-film">
+    <div class="img-block border-2">
+        <img src="https://uchebniki-online.net/uploads/posts/2020-08/1597390295_biologiya-7-klass-ostapchenko-2020.jpg" alt="�������� 7 ����� ����������" class="img-poster border-2 shadow-dark7" width="151" height="215" />
+        <div class="text-block">
+            
+            <p class="text"> </p>
+            <div class="ratin"><div id='ratig-layer-609'><div class="rating">
+		<ul class="unit-rating">
+		<li class="current-rating" style="width:80%;">80</li>
+		<li><a href="#" title="�����" class="r1-unit" onclick="doRate('1', '609'); return false;">1</a></li>
+		<li><a href="#" title="���������" class="r2-unit" onclick="doRate('2', '609'); return false;">2</a></li>
+		<li><a href="#" title="������" class="r3-unit" onclick="doRate('3', '609'); return false;">3</a></li>
+		<li><a href="#" title="������" class="r4-unit" onclick="doRate('4', '609'); return false;">4</a></li>
+		<li><a href="#" title="�������" class="r5-unit" onclick="doRate('5', '609'); return false;">5</a></li>
+		</ul>
+</div></div></div>
+            <a href="https://uchebniki-online.net/609-biologiya-7-klass-ostapchenko.html" title="������ �������" class="look-movie border-3">������</a>
+        </div>
+    </div>   
+    <h5><a href="https://uchebniki-online.net/609-biologiya-7-klass-ostapchenko.html" class="full-link border-2" title="�������� 7 ����� ����������">�������� 7 ����� ����������</a></h5>
+    <div class="clr"></div>
+</div><div class="short-film">
+    <div class="img-block border-2">
+        <img src="https://uchebniki-online.net/uploads/posts/2020-08/1597390012_angliyskiy-7-klass-pahomova-2020.jpg" alt="���������� ���� 7 ����� ��������, ������" class="img-poster border-2 shadow-dark7" width="151" height="215" />
+        <div class="text-block">
+            
+            <p class="text"> </p>
+            <div class="ratin"><div id='ratig-layer-1120'><div class="rating">
+		<ul class="unit-rating">
+		<li class="current-rating" style="width:80%;">80</li>
+		<li><a href="#" title="�����" class="r1-unit" onclick="doRate('1', '1120'); return false;">1</a></li>
+		<li><a href="#" title="���������" class="r2-unit" onclick="doRate('2', '1120'); return false;">2</a></li>
+		<li><a href="#" title="������" class="r3-unit" onclick="doRate('3', '1120'); return false;">3</a></li>
+		<li><a href="#" title="������" class="r4-unit" onclick="doRate('4', '1120'); return false;">4</a></li>
+		<li><a href="#" title="�������" class="r5-unit" onclick="doRate('5', '1120'); return false;">5</a></li>
+		</ul>
+</div></div></div>
+            <a href="https://uchebniki-online.net/1120-angliyskiy-yazyk-7-klass-pahomova-bondar.html" title="������ �������" class="look-movie border-3">������</a>
+        </div>
+    </div>   
+    <h5><a href="https://uchebniki-online.net/1120-angliyskiy-yazyk-7-klass-pahomova-bondar.html" class="full-link border-2" title="���������� ���� 7 ����� ��������, ������">���������� ���� 7 ����� ��������, ������</a></h5>
+    <div class="clr"></div>
+</div><div class="short-film">
+    <div class="img-block border-2">
+        <img src="https://uchebniki-online.net/uploads/posts/2020-08/1597228028_ukrainskiy-yazyk-7-klass-glazova-2020.jpg" alt="���������� ���� 7 ����� �������" class="img-poster border-2 shadow-dark7" width="151" height="215" />
+        <div class="text-block">
+            
+            <p class="text"> </p>
+            <div class="ratin"><div id='ratig-layer-627'><div class="rating">
+		<ul class="unit-rating">
+		<li class="current-rating" style="width:80%;">80</li>
+		<li><a href="#" title="�����" class="r1-unit" onclick="doRate('1', '627'); return false;">1</a></li>
+		<li><a href="#" title="���������" class="r2-unit" onclick="doRate('2', '627'); return false;">2</a></li>
+		<li><a href="#" title="������" class="r3-unit" onclick="doRate('3', '627'); return false;">3</a></li>
+		<li><a href="#" title="������" class="r4-unit" onclick="doRate('4', '627'); return false;">4</a></li>
+		<li><a href="#" title="�������" class="r5-unit" onclick="doRate('5', '627'); return false;">5</a></li>
+		</ul>
+</div></div></div>
+            <a href="https://uchebniki-online.net/627-ukrainskiy-yazyk-7-klass-glazova.html" title="������ �������" class="look-movie border-3">������</a>
+        </div>
+    </div>   
+    <h5><a href="https://uchebniki-online.net/627-ukrainskiy-yazyk-7-klass-glazova.html" class="full-link border-2" title="���������� ���� 7 ����� �������">���������� ���� 7 ����� �������</a></h5>
+    <div class="clr"></div>
+</div><div class="clr"></div>
+<div class="pages">
+    <div class="navigation"><span>1</span> <a href="https://uchebniki-online.net/page/2/">2</a> <a href="https://uchebniki-online.net/page/3/">3</a> <a href="https://uchebniki-online.net/page/4/">4</a> <a href="https://uchebniki-online.net/page/5/">5</a> <a href="https://uchebniki-online.net/page/6/">6</a> <a href="https://uchebniki-online.net/page/7/">7</a> <a href="https://uchebniki-online.net/page/8/">8</a> <a href="https://uchebniki-online.net/page/9/">9</a> <a href="https://uchebniki-online.net/page/10/">10</a> <span class="nav_ext">...</span> <a href="https://uchebniki-online.net/page/68/">68</a></div>
+    <div class="nextprev">
+        <span><span class="pprev">�����</span></span>																															
+        <a href="https://uchebniki-online.net/page/2/"><span class="pnext">������</span></a>
+    </div>
+<div class="clear"></div>
+</div>
+               
+         
+        </div>
+
+
+        <div class="gf-right">
+
+<br>
+ 
+<center>
+<script type="text/javascript">
+    google_ad_client = "ca-pub-3451992283328641";
+    google_ad_slot = "4545581772";
+    google_ad_width = 160;
+    google_ad_height = 600;
+</script>
+<!-- uch160*600 -->
+<script type="text/javascript"
+src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</center>
+
+
+
+
+
+
+
+
+
+</div>
+ 
+		
+<div class="gf-right">
+        	
+        </div>
+		
+		
+
+
+
+    <div class="clr"></div>
+    </div>
+    
+    <div id="gf-bottom">
+        <div class="seo-text">        	
+            <b>������ �������� ��������� ������.</b>
+            <br /><p>��� ���������� ��������, ����������� �������� ����������� �������, ������� �� ������� � �������� ������� ����� � �����, ����� ����� ����� ������� �������� � ����� � ����� �������� ���������� ��� ����������� ��������. ��� ���� ����������� ������� ��� � ���� � �������� ����������� ������ ��� ������� �� ������� ��� ������� ����� �������� pdf ��� ���� ������� � ��������� �������� ���������.</p>
+        </div>
+        <ul class="ul-bottom">
+            <li><a href="/index.php?do=feedback"><span>�����</span></a></li>  
+<li><a href="/dpa15" class="arrow" title="��� 2015 �������"><span>��� 2015</span></a>    	</li>			
+        </ul>
+       
+    </div>
+    <div id="gf-footer">
+        <p class="copirating">&copy; 2014-2021 Uchebniki-online.net <br />�������� ������ ��� ����������� � � ������� ��������.</p> 
+        <ul class="ul-count">
+             <li><!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='//www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t19.6;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet: �������� ����� ���������� �� 24"+
+" ����, ����������� �� 24 ���� � �� �������' "+
+"border='0' width='88' height='31'><\/a>")
+//--></script><!--/LiveInternet-->
+</li>
+
+
+
+            
+        </ul>
+    <div class="clr"></div>
+    </div>
+
+    <div id="scroller" class="b-top border-3" style="display: none;">
+        <span class="b-top-but">������</span>
+    </div>
+	
+<script type="text/javascript" src="//e.issuu.com/embed.js" async="true"></script>
+
+
+
+
+	
+</body>
+    
+</html>
+
+<!-- dude Smart Leech time: 2,025127 msec -->
