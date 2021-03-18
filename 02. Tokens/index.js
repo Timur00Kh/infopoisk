@@ -36,18 +36,18 @@ for (let i = 0; i < filesPaths.length; i++) {
 }
 
 fs.writeFileSync(path.join(OUT_DIR, 'tokens.txt'), Tokens.join('\n'));
-
+let Lemmas = '';
 Tokens.forEach((token) => {
     wordnet.lookup(token, function(results) {
+        Lemmas += token
+
         results.forEach(function(result) {
-            console.log('------------------------------------');
-            console.log(result?.synsetOffset);
-            console.log(result?.pos);
-            console.log(result?.lemma);
-            console.log(result?.synonyms);
-            console.log(result?.pos);
-            console.log(result?.gloss);
+            if (result) {
+                Lemmas += ' ' + result.lemma
+            }
         });
+        Lemmas += ' \n';
+
     });
 })
 
