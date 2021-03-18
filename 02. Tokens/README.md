@@ -1,7 +1,5 @@
 ## How to run
 
-Технические шоколадки
-
 1. [Install NodeJs on computer](https://nodejs.org/en/)
 1. Open project directory `cd <RepoRoot>/02. Tokens`
 1. Install dependencies `npm i`
