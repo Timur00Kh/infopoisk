@@ -11,7 +11,6 @@ const WordNet = require('node-wordnet');
 const wordnet = new WordNet({ dataDir: path.join(__dirname, 'rwn3')})
 // const wordnet = new WordNet();
 
-console.log(path.join(__dirname, 'rwn3'))
 
 
 
@@ -35,7 +34,12 @@ for (let i = 0; i < filesPaths.length; i++) {
     }
 }
 
-fs.writeFileSync(path.join(OUT_DIR, 'tokens.txt'), Tokens.join('\n'));
+Tokens = Tokens
+    .map(e => e.toLowerCase())
+    .filter(w => /^[а-я]*$/.test(w))
+
+fs.writeFileSync(path.join(OUT_DIR, 'tokens.txt'), Array.from(new Set(Tokens)).join('\n'));
+
 let Lemmas = '';
 Tokens.forEach((token) => {
     wordnet.lookup(token, function(results) {
@@ -53,10 +57,10 @@ Tokens.forEach((token) => {
 
 
 function getText(html) {
-    return sanitizeHtml(html, {
+    return sanitizeHtml(String(html).replace(/>/g, '> '), {
         allowedTags: []
     })
-        .replace(/[\n\t]/g, '')
+        .replace(/[\n\t]/g, ' ')
         .replace(/ +/g, ' ')
 }
 
