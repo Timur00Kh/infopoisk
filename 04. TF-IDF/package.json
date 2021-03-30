@@ -1,0 +1,17 @@
+{
+  "name": "04.-tf-idf",
+  "version": "1.0.0",
+  "description": "Технические шоколадки",
+  "main": "index.js",
+  "dependencies": {
+    "minimist": "^1.2.5",
+    "rimraf": "^3.0.2",
+    "tf-idf": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
