@@ -8,4 +8,4 @@
 1. Delete file `tfidf.txt` if exists 
 1. Execute command in terminal `node index.js`
 
-Скачать [архив с выкачанными страницами](https://github.com/Timur00Kh/infopoisk/releases/tag/4)
+Скачать [Txt файл по списком терминов](https://github.com/Timur00Kh/infopoisk/releases/tag/4)
