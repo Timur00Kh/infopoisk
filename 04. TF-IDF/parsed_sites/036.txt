@@ -1,0 +1,5593 @@
+<!DOCTYPE html>
+<html lang="ru-RU" dir="ltr">
+	<head>
+		<meta charset="utf-8">
+		<title>Портал о ремонте и строительстве | Школа ремонта. Ремонт своими руками. Советы профессионалов</title>
+		
+			<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-2738683-1', 'auto');
+  ga('send', 'pageview');
+
+  setTimeout("ga('send', 'event', '15 seconds', 'read')",15000);
+</script>
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter47957021 = new Ya.Metrika({
+                    id:47957021,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/47957021" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+		
+		
+
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+	
+	
+		<meta property="og:image" content="https://homemasters.ru/theme_resources/monthly_2020_02/hm.png.484b4ccd8b5bd06d59aa0b6a0e957cda.png">
+	
+
+
+	<meta property="yandex_recommendations_kill" content="1"/>
+
+
+	<meta name="twitter:card" content="summary_large_image" />
+	
+
+
+	
+		<meta name="twitter:site" content="@HomeMastersRu" />
+		<meta name="twitter:creator" content="@HomeMastersRu" />
+	
+	
+	
+	
+		<meta name="twitter:description" content="Портал о ремонте и строительстве, советы по ремонту и благоустройству квартир и домов, информация о ремонте квартир своими руками, технологиях ремонта и строительных материалах" />
+	
+	
+
+
+	
+		
+			
+				<meta property="og:site_name" content="Школа ремонта. Ремонт своими руками. Советы профессионалов">
+			
+		
+	
+
+	
+		
+			
+				<meta property="og:locale" content="ru_RU">
+			
+		
+	
+
+	
+		
+			
+				<meta property="og:type" content="website">
+			
+		
+	
+
+	
+		
+			
+				<meta property="og:url" content="https://homemasters.ru/">
+			
+		
+	
+
+	
+		
+			
+				<meta name="description" content="Портал о ремонте и строительстве, советы по ремонту и благоустройству квартир и домов, информация о ремонте квартир своими руками, технологиях ремонта и строительных материалах">
+			
+		
+	
+
+	
+		
+			
+				<meta property="og:description" content="Портал о ремонте и строительстве, советы по ремонту и благоустройству квартир и домов, информация о ремонте квартир своими руками, технологиях ремонта и строительных материалах">
+			
+		
+	
+
+
+	
+		<link rel="canonical" href="https://homemasters.ru" />
+	
+
+<link rel="alternate" type="application/rss+xml" title="Школа ремонта. Советы профессионалов - Новости" href="https://homemasters.ru/rss/1-shkola-remonta-sovety-professionalov-novosti.xml/" />
+
+
+<link rel="manifest" href="https://homemasters.ru/manifest.webmanifest/">
+<meta name="msapplication-config" content="https://homemasters.ru/browserconfig.xml/">
+<meta name="msapplication-starturl" content="/?from=pwa/">
+<meta name="application-name" content="Строительный портал - Все о ремонте и строительстве">
+
+<meta name="apple-mobile-web-app-title" content="Строительный портал - Все о ремонте и строительстве">
+
+	<meta name="theme-color" content="#f3f6f4">
+
+
+	<meta name="msapplication-TileColor" content="#ffffff">
+
+
+
+
+
+	
+
+	
+		
+			<link rel="icon" sizes="36x36" href="https://homemasters.ru/theme_resources/monthly_2021_02/android-chrome-36x36.png">
+		
+	
+
+	
+		
+			<link rel="icon" sizes="48x48" href="https://homemasters.ru/theme_resources/monthly_2021_02/android-chrome-48x48.png">
+		
+	
+
+	
+		
+			<link rel="icon" sizes="72x72" href="https://homemasters.ru/theme_resources/monthly_2021_02/android-chrome-72x72.png">
+		
+	
+
+	
+		
+			<link rel="icon" sizes="96x96" href="https://homemasters.ru/theme_resources/monthly_2021_02/android-chrome-96x96.png">
+		
+	
+
+	
+		
+			<link rel="icon" sizes="144x144" href="https://homemasters.ru/theme_resources/monthly_2021_02/android-chrome-144x144.png">
+		
+	
+
+	
+		
+			<link rel="icon" sizes="192x192" href="https://homemasters.ru/theme_resources/monthly_2021_02/android-chrome-192x192.png">
+		
+	
+
+	
+		
+			<link rel="icon" sizes="256x256" href="https://homemasters.ru/theme_resources/monthly_2021_02/android-chrome-256x256.png">
+		
+	
+
+	
+		
+			<link rel="icon" sizes="384x384" href="https://homemasters.ru/theme_resources/monthly_2021_02/android-chrome-384x384.png">
+		
+	
+
+	
+		
+			<link rel="icon" sizes="512x512" href="https://homemasters.ru/theme_resources/monthly_2021_02/android-chrome-512x512.png">
+		
+	
+
+	
+		
+			<meta name="msapplication-square70x70logo" content="https://homemasters.ru/theme_resources/monthly_2021_02/msapplication-square70x70logo.png"/>
+		
+	
+
+	
+		
+			<meta name="msapplication-TileImage" content="https://homemasters.ru/theme_resources/monthly_2021_02/msapplication-TileImage.png"/>
+		
+	
+
+	
+		
+			<meta name="msapplication-square150x150logo" content="https://homemasters.ru/theme_resources/monthly_2021_02/msapplication-square150x150logo.png"/>
+		
+	
+
+	
+		
+			<meta name="msapplication-wide310x150logo" content="https://homemasters.ru/theme_resources/monthly_2021_02/msapplication-wide310x150logo.png"/>
+		
+	
+
+	
+		
+			<meta name="msapplication-square310x310logo" content="https://homemasters.ru/theme_resources/monthly_2021_02/msapplication-square310x310logo.png"/>
+		
+	
+
+	
+		
+			
+				<link rel="apple-touch-icon" href="https://homemasters.ru/theme_resources/monthly_2021_02/apple-touch-icon-57x57.png">
+			
+		
+	
+
+	
+		
+			
+				<link rel="apple-touch-icon" sizes="60x60" href="https://homemasters.ru/theme_resources/monthly_2021_02/apple-touch-icon-60x60.png">
+			
+		
+	
+
+	
+		
+			
+				<link rel="apple-touch-icon" sizes="72x72" href="https://homemasters.ru/theme_resources/monthly_2021_02/apple-touch-icon-72x72.png">
+			
+		
+	
+
+	
+		
+			
+				<link rel="apple-touch-icon" sizes="76x76" href="https://homemasters.ru/theme_resources/monthly_2021_02/apple-touch-icon-76x76.png">
+			
+		
+	
+
+	
+		
+			
+				<link rel="apple-touch-icon" sizes="114x114" href="https://homemasters.ru/theme_resources/monthly_2021_02/apple-touch-icon-114x114.png">
+			
+		
+	
+
+	
+		
+			
+				<link rel="apple-touch-icon" sizes="120x120" href="https://homemasters.ru/theme_resources/monthly_2021_02/apple-touch-icon-120x120.png">
+			
+		
+	
+
+	
+		
+			
+				<link rel="apple-touch-icon" sizes="144x144" href="https://homemasters.ru/theme_resources/monthly_2021_02/apple-touch-icon-144x144.png">
+			
+		
+	
+
+	
+		
+			
+				<link rel="apple-touch-icon" sizes="152x152" href="https://homemasters.ru/theme_resources/monthly_2021_02/apple-touch-icon-152x152.png">
+			
+		
+	
+
+	
+		
+			
+				<link rel="apple-touch-icon" sizes="180x180" href="https://homemasters.ru/theme_resources/monthly_2021_02/apple-touch-icon-180x180.png">
+			
+		
+	
+
+		
+
+
+
+
+	<link rel='stylesheet' href='https://homemasters.ru/theme_resources/css_built_2/341e4a57816af3ba440d891ca87450ff_framework.css?v=80d8767edd1614244598' media='all'>
+
+	<link rel='stylesheet' href='https://homemasters.ru/theme_resources/css_built_2/05e81b71abe4f22d6eb8d1a929494829_responsive.css?v=80d8767edd1614244598' media='all'>
+
+	<link rel='stylesheet' href='https://homemasters.ru/theme_resources/css_built_2/20446cf2d164adcc029377cb04d43d17_flags.css?v=80d8767edd1614244598' media='all'>
+
+	<link rel='stylesheet' href='https://homemasters.ru/theme_resources/css_built_2/90eb5adf50a8c640f633d47fd7eb1778_core.css?v=80d8767edd1614244598' media='all'>
+
+	<link rel='stylesheet' href='https://homemasters.ru/theme_resources/css_built_2/5a0da001ccc2200dc5625c3f3934497d_core_responsive.css?v=80d8767edd1614244598' media='all'>
+
+	<link rel='stylesheet' href='https://homemasters.ru/theme_resources/css_built_2/f2ef08fd7eaff94a9763df0d2e2aaa1f_streams.css?v=80d8767edd1614244598' media='all'>
+
+	<link rel='stylesheet' href='https://homemasters.ru/theme_resources/css_built_2/b1f9d24f7b4118c81f3224fc37ea5714_streams_responsive.css?v=80d8767edd1614244598' media='all'>
+
+	<link rel='stylesheet' href='https://homemasters.ru/theme_resources/css_built_2/8a32dcbf06236254181d222455063219_global.css?v=80d8767edd1614244598' media='all'>
+
+	<link rel='stylesheet' href='https://homemasters.ru/theme_resources/css_built_2/37c6452ea623de41c991284837957128_gallery.css?v=80d8767edd1614244598' media='all'>
+
+	<link rel='stylesheet' href='https://homemasters.ru/theme_resources/css_built_2/22e9af7d7c6ac7ddc7db0f1b0d471efc_gallery_responsive.css?v=80d8767edd1614244598' media='all'>
+
+
+
+
+
+<link rel='stylesheet' href='https://homemasters.ru/theme_resources/css_built_2/258adbb6e4f3e83cd3b355f84e3fa002_custom.css?v=80d8767edd1614244598' media='all'>
+
+
+
+
+		
+		
+		 <script type="text/javascript">
+			/*var rtbW = $(window).width() || window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth;*/
+			var rtbW = window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth;
+			 function getRTBpageNumber(key) {
+				 window[key] = window[key] || 0;
+				 //console.log(window[key]);
+				 return window[key]++;
+			 }
+		 </script>
+		
+		
+
+	
+	<link rel='shortcut icon' href='https://homemasters.ru/theme_resources/monthly_2020_11/favicon.ico' type="image/x-icon">
+
+	</head>
+	<body class='ipsApp ipsApp_front ipsJS_none ipsClearfix' data-controller='core.front.core.app,plugins.minimizequote' data-message="" data-pageApp='core' data-pageLocation='front' data-pageModule='discover' data-pageController='streams'  >
+		<a href='#ipsLayout_mainArea' class='ipsHide' title='Перейти к основному содержанию на этой странице' accesskey='m'>Перейти к содержанию</a>
+		
+			<div id='ipsLayout_header' class='ipsClearfix'>
+				
+
+
+
+
+
+				<header>
+					<div class='ipsLayout_container'>
+						
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+
+	
+
+
+
+
+<div id='elSiteTitle' class="ipsResponsive_showDesktop">Строительный портал - Все о ремонте и строительстве</div>
+
+						
+
+	<ul id="elUserNav" class="ipsList_inline cSignedOut ipsResponsive_showDesktop">
+		
+
+		
+		
+		
+		
+			<li><a href="https://homemasters.ru/guidelines/">Правила</a></li>
+		
+		
+			<li><a href="https://homemasters.ru/contact/" data-ipsdialog data-ipsdialog-remotesubmit data-ipsdialog-flashmessage="Спасибо, ваше сообщение было отправлено администраторам." data-ipsdialog-title="Обратная связь" >Обратная связь</a></li>
+		
+		<li class="elUserNav_sep">
+		
+
+		<li id="elSignInLink">
+			<a href="https://homemasters.ru/login/" data-ipsmenu-closeonclick="false" data-ipsmenu id="elUserSignIn">
+				Войти  <i class="fa fa-caret-down"></i>
+			</a>
+			
+<div id='elUserSignIn_menu' class='ipsMenu ipsMenu_auto ipsHide'>
+	<form accept-charset='utf-8' method='post' action='https://homemasters.ru/login/' data-controller="core.global.core.login">
+		<input type="hidden" name="csrfKey" value="453b28cb52e78097a3fe861f2d10833b">
+		<input type="hidden" name="ref" value="aHR0cHM6Ly9ob21lbWFzdGVycy5ydQ==">
+		<div data-role="loginForm">
+			
+			
+			
+				<div class='ipsColumns ipsColumns_noSpacing'>
+					<div class='ipsColumn ipsColumn_wide' id='elUserSignIn_internal'>
+						
+<div class="ipsPad ipsForm ipsForm_vertical">
+	<h4 class="ipsType_sectionHead">Войти</h4>
+	<br><br>
+	<ul class='ipsList_reset'>
+		<li class="ipsFieldRow ipsFieldRow_noLabel ipsFieldRow_fullWidth">
+			
+			
+				<input type="text" placeholder="Отображаемое имя или  email адрес" name="auth" autocomplete="email">
+			
+		</li>
+		<li class="ipsFieldRow ipsFieldRow_noLabel ipsFieldRow_fullWidth">
+			<input type="password" placeholder="Пароль" name="password" autocomplete="current-password">
+		</li>
+		<li class="ipsFieldRow ipsFieldRow_checkbox ipsClearfix">
+			<span class="ipsCustomInput">
+				<input type="checkbox" name="remember_me" id="remember_me_checkbox" value="1" checked aria-checked="true">
+				<span></span>
+			</span>
+			<div class="ipsFieldRow_content">
+				<label class="ipsFieldRow_label" for="remember_me_checkbox">Запомнить</label>
+				<span class="ipsFieldRow_desc">Не рекомендуется для компьютеров с общим доступом</span>
+			</div>
+		</li>
+		<li class="ipsFieldRow ipsFieldRow_fullWidth">
+			<button type="submit" name="_processLogin" value="usernamepassword" class="ipsButton ipsButton_primary ipsButton_small" id="elSignIn_submit">Войти</button>
+			
+				<p class="ipsType_right ipsType_small">
+					
+						<a href='https://homemasters.ru/lostpassword/' data-ipsDialog data-ipsDialog-title='Забыли пароль?'>
+					
+					Забыли пароль?</a>
+				</p>
+			
+		</li>
+	</ul>
+</div>
+					</div>
+					<div class='ipsColumn ipsColumn_wide'>
+						<div class='ipsPadding' id='elUserSignIn_external'>
+							<div class='ipsAreaBackground_light ipsPadding:half'>
+								
+									<p class='ipsType_reset ipsType_small ipsType_center'><strong>Или войти с помощью одного из этих сервисов</strong></p>
+								
+								
+									<div class='ipsType_center ipsMargin_top:half'>
+										
+<button type="submit" name="_processLogin" value="15" class="ipsButton ipsButton_verySmall ipsButton_fullWidth ipsSocial ipsSocial_vkcom" style="background-color: #4a76a8">
+	
+		<span class="ipsSocial_icon">
+			
+				<i class="fa fa-vk"></i>
+			
+		</span>
+		<span class="ipsSocial_text">Войти через Вконтакте</span>
+	
+</button>
+									</div>
+								
+									<div class='ipsType_center ipsMargin_top:half'>
+										
+<button type="submit" name="_processLogin" value="2" class="ipsButton ipsButton_verySmall ipsButton_fullWidth ipsSocial ipsSocial_facebook" style="background-color: #3a579a">
+	
+		<span class="ipsSocial_icon">
+			
+				<i class="fa fa-facebook-official"></i>
+			
+		</span>
+		<span class="ipsSocial_text">Войти через Facebook</span>
+	
+</button>
+									</div>
+								
+									<div class='ipsType_center ipsMargin_top:half'>
+										
+<button type="submit" name="_processLogin" value="3" class="ipsButton ipsButton_verySmall ipsButton_fullWidth ipsSocial ipsSocial_google" style="background-color: #4285F4">
+	
+		<span class="ipsSocial_icon">
+			
+				<i class="fa fa-google"></i>
+			
+		</span>
+		<span class="ipsSocial_text">Войти с помощью Google</span>
+	
+</button>
+									</div>
+								
+									<div class='ipsType_center ipsMargin_top:half'>
+										
+<button type="submit" name="_processLogin" value="18" class="ipsButton ipsButton_verySmall ipsButton_fullWidth ipsSocial ipsSocial_yandex" style="background-color: #e61400">
+	
+		<span class="ipsSocial_icon">
+			
+				<i class="fa fa-yahoo"></i>
+			
+		</span>
+		<span class="ipsSocial_text">Login with Yandex</span>
+	
+</button>
+									</div>
+								
+									<div class='ipsType_center ipsMargin_top:half'>
+										
+<button type="submit" name="_processLogin" value="11" class="ipsButton ipsButton_verySmall ipsButton_fullWidth ipsSocial ipsSocial_twitter" style="background-color: #00abf0">
+	
+		<span class="ipsSocial_icon">
+			
+				<i class="fa fa-twitter"></i>
+			
+		</span>
+		<span class="ipsSocial_text">Войти через Twitter</span>
+	
+</button>
+									</div>
+								
+									<div class='ipsType_center ipsMargin_top:half'>
+										
+<button type="submit" name="_processLogin" value="16" class="ipsButton ipsButton_verySmall ipsButton_fullWidth ipsSocial ipsSocial_okru" style="background-color: #ee8208">
+	
+		<span class="ipsSocial_icon">
+			
+				<i class="fa fa-odnoklassniki"></i>
+			
+		</span>
+		<span class="ipsSocial_text">Войти через OK.ru</span>
+	
+</button>
+									</div>
+								
+									<div class='ipsType_center ipsMargin_top:half'>
+										
+<button type="submit" name="_processLogin" value="17" class="ipsButton ipsButton_verySmall ipsButton_fullWidth ipsSocial ipsSocial_mailru" style="background-color: #168de2">
+	
+		<span class="ipsSocial_icon">
+			
+				<i class="fa fa-at"></i>
+			
+		</span>
+		<span class="ipsSocial_text">Войти через Mail.ru</span>
+	
+</button>
+									</div>
+								
+							</div>
+						</div>
+					</div>
+				</div>
+			
+		</div>
+	</form>
+</div>
+		</li>
+		
+			<li>
+				
+					<a href="https://homemasters.ru/register/" data-ipsdialog data-ipsdialog-size="narrow" data-ipsdialog-title="Регистрация"  id="elRegisterButton" class="ipsButton ipsButton_normal ipsButton_primary">Регистрация</a>
+				
+			</li>
+		
+	</ul>
+
+						
+					</div>
+				</header>
+				
+
+	<nav data-controller='core.front.core.navBar' class='ipsNavBar_noSubBars ipsResponsive_showDesktop'>
+		<div class='ipsNavBar_primary ipsLayout_container ipsNavBar_noSubBars'>
+			<ul data-role="primaryNavBar" class='ipsClearfix'>
+				
+
+
+	
+		
+		
+		
+	
+<li  id="elNavSecondary_2" data-role="navBarItem" data-navapp="core" data-navext="YourActivityStreams">
+			
+			
+				<a href="#" id="elNavigation_2" data-ipsmenu data-ipsmenu-appendto="#elNavSecondary_2" data-ipsmenu-activeclass="ipsNavActive_menu" data-navitem-id="2"  title="Ленты активности">
+					Ленты <i class="fa fa-caret-down"></i><span class="ipsNavBar_active__identifier"></span>
+				</a>
+				<ul id="elNavigation_2_menu" class="ipsMenu ipsMenu_auto ipsHide">
+					
+
+	
+		
+			
+	
+<li class="ipsMenu_item" >
+				<a href="https://homemasters.ru"  title="Вся активность">
+					Вся активность
+				</a>
+			</li>
+		
+	
+
+	
+		
+			
+	
+<li class="ipsMenu_item" data-streamid='6'>
+				<a href="https://homemasters.ru/discover/forums/"  title="Форумы">
+					Форумы
+				</a>
+			</li>
+		
+	
+
+	
+		
+			
+	
+<li class="ipsMenu_item" data-streamid='7'>
+				<a href="https://homemasters.ru/discover/blogs/"  title="Блоги">
+					Блоги
+				</a>
+			</li>
+		
+	
+
+	
+		
+			
+	
+<li class="ipsMenu_item" data-streamid='8'>
+				<a href="https://homemasters.ru/discover/articles/"  title="Статьи">
+					Статьи
+				</a>
+			</li>
+		
+	
+
+	
+		
+			
+	
+<li class="ipsMenu_item" data-streamid='9'>
+				<a href="https://homemasters.ru/discover/gallery/"  title="Галерея">
+					Галерея
+				</a>
+			</li>
+		
+	
+
+	
+		
+			
+	
+<li class="ipsMenu_item" data-streamid='10'>
+				<a href="https://homemasters.ru/discover/companies/"  title="Компании">
+					Компании
+				</a>
+			</li>
+		
+	
+
+	
+		
+			
+	
+<li class="ipsMenu_item" data-streamid='11'>
+				<a href="https://homemasters.ru/discover/classifieds/"  title="Объявления">
+					Объявления
+				</a>
+			</li>
+		
+	
+
+				</ul>
+			
+			
+		</li>
+	
+	
+
+	
+		
+		
+		
+	
+<li  id="elNavSecondary_1" data-role="navBarItem" data-navapp="core" data-navext="CustomItem">
+			
+			
+				<a href="https://homemasters.ru"  data-navitem-id="1"  title="Строительный портал - ремонт и строительство">
+					Главная<span class="ipsNavBar_active__identifier"></span>
+				</a>
+			
+			
+		</li>
+	
+	
+
+	
+		
+		
+		
+	
+<li  id="elNavSecondary_8" data-role="navBarItem" data-navapp="forums" data-navext="Forums">
+			
+			
+				<a href="https://homemasters.ru/forums/"  data-navitem-id="8"  title="Форумы о ремонте и строительстве">
+					Форумы<span class="ipsNavBar_active__identifier"></span>
+				</a>
+			
+			
+		</li>
+	
+	
+
+	
+		
+		
+		
+	
+<li  id="elNavSecondary_9" data-role="navBarItem" data-navapp="blog" data-navext="Blogs">
+			
+			
+				<a href="https://homemasters.ru/blogs/"  data-navitem-id="9"  title="Блоги о ремонте и строительстве">
+					Блоги<span class="ipsNavBar_active__identifier"></span>
+				</a>
+			
+			
+		</li>
+	
+	
+
+	
+	
+
+	
+		
+		
+		
+	
+<li  id="elNavSecondary_10" data-role="navBarItem" data-navapp="cms" data-navext="Pages">
+			
+			
+				<a href="https://homemasters.ru/articles/"  data-navitem-id="10"  title="Статьи о ремонте и строительстве">
+					Статьи<span class="ipsNavBar_active__identifier"></span>
+				</a>
+			
+			
+		</li>
+	
+	
+
+	
+		
+		
+		
+	
+<li  id="elNavSecondary_11" data-role="navBarItem" data-navapp="gallery" data-navext="Gallery">
+			
+			
+				<a href="https://homemasters.ru/gallery/"  data-navitem-id="11"  title="Галерея ремонта и дизайна">
+					Галерея<span class="ipsNavBar_active__identifier"></span>
+				</a>
+			
+			
+		</li>
+	
+	
+
+	
+		
+		
+		
+	
+<li  id="elNavSecondary_13" data-role="navBarItem" data-navapp="cms" data-navext="Pages">
+			
+			
+				<a href="https://homemasters.ru/companies/"  data-navitem-id="13"  title="Строительные компании">
+					Стройфирмы<span class="ipsNavBar_active__identifier"></span>
+				</a>
+			
+			
+		</li>
+	
+	
+
+	
+		
+		
+		
+	
+<li  id="elNavSecondary_14" data-role="navBarItem" data-navapp="core" data-navext="CustomItem">
+			
+			
+				<a href="https://homemasters.ru/search/?type=core_members&amp;core_pfield_22=%D0%94%D0%B0"  data-navitem-id="14"  title="Найти мастера">
+					Мастера<span class="ipsNavBar_active__identifier"></span>
+				</a>
+			
+			
+		</li>
+	
+	
+
+	
+		
+		
+		
+	
+<li  id="elNavSecondary_4" data-role="navBarItem" data-navapp="cms" data-navext="Pages">
+			
+			
+				<a href="https://homemasters.ru/classifieds/"  data-navitem-id="4"  title="Объявления о ремонте и строительстве">
+					Объявления<span class="ipsNavBar_active__identifier"></span>
+				</a>
+			
+			
+		</li>
+	
+	
+
+	
+		
+		
+		
+	
+<li  id="elNavSecondary_15" data-role="navBarItem" data-navapp="cms" data-navext="Pages">
+			
+			
+				<a href="https://homemasters.ru/docs/"  data-navitem-id="15"  title="Ремонтно-строительная документация">
+					Документы<span class="ipsNavBar_active__identifier"></span>
+				</a>
+			
+			
+		</li>
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+				<li class='ipsHide' id='elNavigationMore' data-role='navMore'>
+					<a href='#' data-ipsMenu data-ipsMenu-appendTo='#elNavigationMore' id='elNavigationMore_dropdown'>Еще</a>
+					<ul class='ipsNavBar_secondary ipsHide' data-role='secondaryNavBar'>
+						<li class='ipsHide' id='elNavigationMore_more' data-role='navMore'>
+							<a href='#' data-ipsMenu data-ipsMenu-appendTo='#elNavigationMore_more' id='elNavigationMore_more_dropdown'>Еще <i class='fa fa-caret-down'></i></a>
+							<ul class='ipsHide ipsMenu ipsMenu_auto' id='elNavigationMore_more_dropdown_menu' data-role='moreDropdown'></ul>
+						</li>
+					</ul>
+				</li>
+			</ul>
+			
+
+	<div id="elSearchWrapper">
+		<div id='elSearch' class='' data-controller='core.front.core.quickSearch'>
+			<form accept-charset='utf-8' action='//homemasters.ru/search/?do=quicksearch' method='post'>
+				<input type='search' id='elSearchField' placeholder='Поиск...' name='q' autocomplete='off' aria-label='Поиск'>
+				<button class='cSearchSubmit' type="submit" aria-label='Поиск'><i class="fa fa-search"></i></button>
+				<div id="elSearchExpanded">
+					<div class="ipsMenu_title">
+						Искать в
+					</div>
+					<ul class="ipsSideMenu_list ipsSideMenu_withRadios ipsSideMenu_small" data-ipsSideMenu data-ipsSideMenu-type="radio" data-ipsSideMenu-responsive="false" data-role="searchContexts">
+						<li>
+							<span class='ipsSideMenu_item ipsSideMenu_itemActive' data-ipsMenuValue='all'>
+								<input type="radio" name="type" value="all" checked id="elQuickSearchRadio_type_all">
+								<label for='elQuickSearchRadio_type_all' id='elQuickSearchRadio_type_all_label'>Везде</label>
+							</span>
+						</li>
+						
+						
+						
+						<li data-role="showMoreSearchContexts">
+							<span class='ipsSideMenu_item' data-action="showMoreSearchContexts" data-exclude="all">
+								Еще опции...
+							</span>
+						</li>
+					</ul>
+					<div class="ipsMenu_title">
+						Поиск результатов, которые содержат...
+					</div>
+					<ul class='ipsSideMenu_list ipsSideMenu_withRadios ipsSideMenu_small ipsType_normal' role="radiogroup" data-ipsSideMenu data-ipsSideMenu-type="radio" data-ipsSideMenu-responsive="false" data-filterType='andOr'>
+						
+							<li>
+								<span class='ipsSideMenu_item ipsSideMenu_itemActive' data-ipsMenuValue='and'>
+									<input type="radio" name="search_and_or" value="and" checked id="elRadio_andOr_and">
+									<label for='elRadio_andOr_and' id='elField_andOr_label_and'><em>Все</em> мои слова из поискового запроса</label>
+								</span>
+							</li>
+						
+							<li>
+								<span class='ipsSideMenu_item ' data-ipsMenuValue='or'>
+									<input type="radio" name="search_and_or" value="or"  id="elRadio_andOr_or">
+									<label for='elRadio_andOr_or' id='elField_andOr_label_or'><em>Любое</em> из моих слов поискового запроса</label>
+								</span>
+							</li>
+						
+					</ul>
+					<div class="ipsMenu_title">
+						Поиск результатов в...
+					</div>
+					<ul class='ipsSideMenu_list ipsSideMenu_withRadios ipsSideMenu_small ipsType_normal' role="radiogroup" data-ipsSideMenu data-ipsSideMenu-type="radio" data-ipsSideMenu-responsive="false" data-filterType='searchIn'>
+						<li>
+							<span class='ipsSideMenu_item ipsSideMenu_itemActive' data-ipsMenuValue='all'>
+								<input type="radio" name="search_in" value="all" checked id="elRadio_searchIn_and">
+								<label for='elRadio_searchIn_and' id='elField_searchIn_label_all'>Заголовки и содержание контента</label>
+							</span>
+						</li>
+						<li>
+							<span class='ipsSideMenu_item' data-ipsMenuValue='titles'>
+								<input type="radio" name="search_in" value="titles" id="elRadio_searchIn_titles">
+								<label for='elRadio_searchIn_titles' id='elField_searchIn_label_titles'>Только заголовки контента</label>
+							</span>
+						</li>
+					</ul>
+				</div>
+			</form>
+		</div>
+	</div>
+
+		</div>
+	</nav>
+
+				
+					
+					
+				
+				
+<ul id='elMobileNav' class='ipsResponsive_hideDesktop' data-controller='core.front.core.mobileNav'>
+	 
+		
+			
+			
+		
+	
+
+	
+	<li >
+		<a data-action="defaultStream" href='https://homemasters.ru'><i class="fa fa-newspaper-o" aria-hidden="true"></i></a>
+	</li>
+
+	
+
+	
+		<li>
+			<a href='https://homemasters.ru/login/' id="hmsMobileSignInLink"><i class='fa fa-user-o'></i></a>
+		</li>
+	
+
+	
+		<li class='ipsJS_show'>
+			<a href='https://homemasters.ru/search/'><i class='fa fa-search'></i></a>
+		</li>
+	
+	
+<ul class='ipsMobileHamburger ipsList_reset ipsResponsive_hideDesktop'>
+	<li data-ipsDrawer data-ipsDrawer-drawerElem='#elMobileDrawer'>
+		<a href='#'>
+			
+			
+				
+			
+			
+			
+			<i class='fa fa-navicon'></i>
+		</a>
+	</li>
+</ul> 
+</ul>
+
+
+
+
+
+
+<div id='elKgbMobileNav' class='ipsCarousel ipsClearfix ipsResponsive_hideDesktop ipsResponsive_block' data-ipsCarousel data-ipsCarousel-showDots>
+	<div class='ipsCarousel_inner'>
+		<ul class="ipsList_inline ipsList_leftAlign" data-role="carouselItems">
+		
+		
+			<li class='ipsCarousel_item'  id='elNavSecondary_8'>
+				<a href="https://homemasters.ru/forums/"  data-navItem-id="8">
+					Форумы
+				</a>
+			</li>
+		
+		
+		
+			<li class='ipsCarousel_item'  id='elNavSecondary_9'>
+				<a href="https://homemasters.ru/blogs/"  data-navItem-id="9">
+					Блоги
+				</a>
+			</li>
+		
+		
+		
+		
+		
+			<li class='ipsCarousel_item'  id='elNavSecondary_10'>
+				<a href="https://homemasters.ru/articles/"  data-navItem-id="10">
+					Статьи
+				</a>
+			</li>
+		
+		
+		
+			<li class='ipsCarousel_item'  id='elNavSecondary_11'>
+				<a href="https://homemasters.ru/gallery/"  data-navItem-id="11">
+					Галерея
+				</a>
+			</li>
+		
+		
+		
+			<li class='ipsCarousel_item'  id='elNavSecondary_13'>
+				<a href="https://homemasters.ru/companies/"  data-navItem-id="13">
+					Стройфирмы
+				</a>
+			</li>
+		
+		
+		
+			<li class='ipsCarousel_item'  id='elNavSecondary_14'>
+				<a href="https://homemasters.ru/search/?type=core_members&amp;core_pfield_22=%D0%94%D0%B0"  data-navItem-id="14">
+					Мастера
+				</a>
+			</li>
+		
+		
+		
+			<li class='ipsCarousel_item'  id='elNavSecondary_4'>
+				<a href="https://homemasters.ru/classifieds/"  data-navItem-id="4">
+					Объявления
+				</a>
+			</li>
+		
+		
+		
+			<li class='ipsCarousel_item'  id='elNavSecondary_15'>
+				<a href="https://homemasters.ru/docs/"  data-navItem-id="15">
+					Документы
+				</a>
+			</li>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		</ul>
+	</div>
+</div>
+			</div>
+		
+		<main id='ipsLayout_body' class='ipsLayout_container'>
+			<div id='ipsLayout_contentArea'>
+				<div id='ipsLayout_contentWrapper'>
+					
+
+	<span class='ipsBreadcrumb ipsBreadcrumb_top'></span>
+
+					<ul class="ipsList_reset">
+						<li>
+
+
+	<div class='cWidgetContainer '  data-role='widgetReceiver' data-orientation='horizontal' data-widgetArea='top'>
+		<ul class='ipsList_reset'>
+			
+				
+					
+					<li class='ipsWidget ipsWidget_horizontal ipsBox  ipsWidgetHide ipsHide ipsResponsive_block' data-blockID='app_birthdaygreeter_membersBirthday_34rkstyqf' data-blockConfig="true" data-blockTitle="Members Birthday" data-blockErrorMessage="Этот блок не может быть показан. Причиной этому может необходимость его настройки, либо будет отображён после перезагрузки этой страницы."  data-controller='core.front.widgets.block'></li>
+				
+			
+		</ul>
+	</div>
+</li>
+					</ul>
+					
+					
+					<div id='ipsLayout_mainArea'>
+						
+						
+						
+						
+
+	
+
+
+
+
+	<div class='cWidgetContainer '  data-role='widgetReceiver' data-orientation='horizontal' data-widgetArea='header'>
+		<ul class='ipsList_reset'>
+			
+				
+					
+					<li class='ipsWidget ipsWidget_horizontal ipsBox  ' data-blockID='app_core_recentStatusUpdates_l93g13uaz' data-blockConfig="true" data-blockTitle="Новые статусы" data-blockErrorMessage="Этот блок не может быть показан. Причиной этому может необходимость его настройки, либо будет отображён после перезагрузки этой страницы."  data-controller='core.front.widgets.block'>
+
+<div class='ipsWidget_inner cStatusUpdateWidget' data-controller="core.front.core.statusFeedWidget">
+	
+
+</div></li>
+				
+					
+					<li class='ipsWidget ipsWidget_horizontal ipsBox  ipsResponsive_block ipsResponsive_hideDesktop' data-blockID='app_cms_Blocks_w8g6x7zlu' data-blockConfig="true" data-blockTitle="Пользовательские блоки" data-blockErrorMessage="Этот блок не может быть показан. Причиной этому может необходимость его настройки, либо будет отображён после перезагрузки этой страницы."  data-controller='core.front.widgets.block'>
+<div id="hmsStreamsMenuHorizontal_block">
+	<div class="ipsSideMenu ipsAreaBackground_reset" data-ipssidemenu="">
+		<h3 class="ipsSideMenu_mainTitle">
+				<a href="#cms_menu" data-action="openSideMenu"><i class="fa fa-bars"></i> &nbsp;Ленты&nbsp;<i class="fa fa-caret-down"></i></a>
+		</h3>
+		<div>
+			<ul class="ipsSideMenu_list">
+				<li><a href="https://homemasters.ru/" class="ipsSideMenu_item ipsTruncate ipsTruncate_line"><strong class="ipsType_normal">Вся активность</strong></a></li>
+				
+				<li><a href="https://homemasters.ru/discover/forums/" class="ipsSideMenu_item ipsTruncate ipsTruncate_line"><strong class="ipsType_normal">Форумы</strong></a></li>
+				<li><a href="https://homemasters.ru/discover/blogs/" class="ipsSideMenu_item ipsTruncate ipsTruncate_line"><strong class="ipsType_normal">Блоги</strong></a></li>
+				<li><a href="https://homemasters.ru/discover/articles/" class="ipsSideMenu_item ipsTruncate ipsTruncate_line"><strong class="ipsType_normal">Статьи</strong></a></li>
+				<li><a href="https://homemasters.ru/discover/gallery/" class="ipsSideMenu_item ipsTruncate ipsTruncate_line"><strong class="ipsType_normal">Галерея</strong></a></li>
+				<li><a href="https://homemasters.ru/discover/companies/" class="ipsSideMenu_item ipsTruncate ipsTruncate_line"><strong class="ipsType_normal">Стройфирмы</strong></a></li>
+				<li><a href="https://homemasters.ru/discover/classifieds/" class="ipsSideMenu_item ipsTruncate ipsTruncate_line"><strong class="ipsType_normal">Объявления</strong></a></li>
+			</ul>
+		</div>
+	</div>
+</div></li>
+				
+			
+		</ul>
+	</div>
+
+						
+<section data-controller='core.front.streams.main, core.front.core.ignoredComments' data-streamID='all'>
+
+	
+	<div class="ipsPageHeader ipsBox ipsResponsive_pull ipsClearfix ipsMargin_bottom md:ipsMargin_bottom:half">
+		<div class='ipsPadding_top ipsPadding_horizontal'>
+			<div class='ipsFlex sm:ipsFlex-fd:column ipsFlex-jc:between ipsFlex-ai:start ipsFlex-fw:wrap ipsGap:3 ipsPadding_bottom'>
+				<div class='ipsFlex-flex:11 sm:ipsMargin_bottom:half'>
+					<h1 class='ipsType_pageTitle'>
+						<span data-role='streamTitle'>Портал о ремонте и строительстве</span>
+						
+						
+						
+					</h1>
+					
+				</div>
+				
+					<ul class="ipsList_reset ipsFlex-flex:01 ipsFlex ipsResponsive_hidePhone">
+						<li><a href="https://homemasters.ru/discover/all.xml/"><i class="fa fa-rss"></i> RSS</a></li>
+					</ul>
+				
+			</div>
+
+			
+		</div>
+		
+	</div>
+	<div data-role='streamBody'>
+		
+
+	
+		
+		
+	
+	
+		
+	
+
+
+	
+<div data-role="streamResults" data-controller="core.front.streams.results" data-streamreadtype="" data-view="expanded"   data-streamurl="https://homemasters.ru" >
+	<div class="ipsBox_alt">
+		<div class="ipsFlex ipsFlex-ai:center ipsFlex-jc:end sm:ipsMargin_bottom:half ipsHide">
+			<p id="elStreamUpdateMsg" class="ipsMargin_right ipsHide ipsType_light ipsType_small ipsType_reset ipsJS_show ipsResponsive_hidePhone" data-role="updateMessage"><i class="fa fa-refresh"></i> Лента обновляется автоматически</p>
+			<ul class="ipsButton_split ipsClearfix">
+<li>
+					<a href="https://homemasters.ru/?&amp;view=condensed&amp;csrfKey=453b28cb52e78097a3fe861f2d10833b" data-action="switchView" data-view="condensed" data-ipstooltip title="Компактное отображение результатов" class="ipsButton ipsButton_verySmall ipsButton_veryLight" rel="nofollow"><i class="fa fa-list"></i></a>
+				</li>
+				<li>
+					<a href="https://homemasters.ru/?&amp;view=expanded&amp;csrfKey=453b28cb52e78097a3fe861f2d10833b" data-action="switchView" data-view="expanded" data-ipstooltip title="Подробное отображение результатов, включая предпросмотр контента" class="ipsButton ipsButton_verySmall ipsButton_primary" rel="nofollow"><i class="fa fa-bars"></i></a>
+				</li>
+			</ul>
+</div>
+		<ol class="ipsStream  ipsList_reset" data-role="streamContent">
+
+			
+
+
+
+	
+		
+			
+			
+			
+
+
+
+
+
+
+<li class='ipsStreamItem ipsStreamItem_contentBlock ipsStreamItem_expanded ipsAreaBackground_reset ipsPad   hmsStreamItem_forumsTopicPost' data-role='activityItem' data-timestamp='1614625243'>
+	<div class='ipsStreamItem_container ipsClearfix'>
+		
+			
+			<div class='ipsStreamItem_header ipsPhotoPanel ipsPhotoPanel_mini'>
+				
+					<span class='ipsStreamItem_contentType' data-ipsTooltip title='Сообщение'><i class='fa fa-comment'></i></span>
+				
+				
+
+	<a href="https://homemasters.ru/profile/38964-dmitrii-78/" data-ipsHover data-ipsHover-target="https://homemasters.ru/profile/38964-dmitrii-78/?do=hovercard" class="ipsUserPhoto ipsUserPhoto_mini" title="Перейти в профиль Дмитрий 78">
+		<img src='https://homemasters.ru/uploads/profiles/profile/photo-thumb-38964.jpg' alt='Дмитрий 78'>
+	</a>
+
+				<div class='ipsStreamItem_unread'>
+					
+					<h2 class='ipsType_reset ipsStreamItem_title ipsContained_container ipsStreamItem_titleSmall'>
+						
+							<span>
+								<a href='https://homemasters.ru/forums/topic/35582-teplovizory-opyt-ispolzovanija-vpechatlenija-ot-devajsov/?do=getNewComment' data-linkType="star"  title='Перейти к первому непрочитанному сообщению' data-ipsTooltip>
+									<span class='ipsItemStatus '><i class="fa fa-circle"></i></span>
+								</a>
+							</span>
+						
+						
+						<span class='ipsType_break ipsContained'>
+							<a href='https://homemasters.ru/forums/topic/35582-teplovizory-opyt-ispolzovanija-vpechatlenija-ot-devajsov/?do=getNewComment' data-linkType="link" data-searchable> Тепловизоры, опыт использования, впечатления от девайсов.</a>
+						</span>
+						
+					</h2>
+					
+						<p class='ipsType_reset ipsStreamItem_status ipsType_blendLinks'>
+							
+<a href='https://homemasters.ru/profile/38964-dmitrii-78/' data-ipsHover data-ipsHover-target='https://homemasters.ru/profile/38964-dmitrii-78/?do=hovercard' title="Перейти в профиль Дмитрий 78" class="ipsType_break"><span style='color:#33399e'>Дмитрий 78</span></a> ответил(а) в теме раздела <a href='https://homemasters.ru/forums/forum-13-instrument-i-oborudovanie/'>Инструмент и оборудование</a>
+						</p>
+					
+					
+
+					
+				</div>
+			</div>
+			
+				<div class='ipsStreamItem_snippet ipsType_break'>
+					
+					 	
+
+	<div class="ipsType_richText ipsContained ipsType_medium">
+		<div data-ipstruncate data-ipstruncate-type="remove" data-ipstruncate-size="3 lines" data-ipstruncate-watch="false" >
+			В момент съемки оргалит лежал часа 2-3, а подложка только положена. К слову сказать, оргалит просвечивал сразу.
+		</div>
+	</div>
+
+					
+				</div>
+				<ul class='ipsList_inline ipsStreamItem_meta ipsGap:1'>
+					<li class='ipsType_light ipsType_medium'>
+						<a href='https://homemasters.ru/forums/topic/35582-teplovizory-opyt-ispolzovanija-vpechatlenija-ot-devajsov/?do=findComment&amp;comment=416116' class='ipsType_blendLinks'><i class='fa fa-clock-o'></i> <time datetime='2021-03-01T19:00:43Z' title='01.03.2021 19:00 ' data-short='44 мин'>44 минуты назад</time></a>
+					</li>
+					
+						<li class='ipsType_light ipsType_medium'>
+							<a href='https://homemasters.ru/forums/topic/35582-teplovizory-opyt-ispolzovanija-vpechatlenija-ot-devajsov/?do=findComment&amp;comment=416116' class='ipsType_blendLinks'>
+								
+									<i class='fa fa-comment'></i> 40 ответов
+								
+							</a>
+						</li>
+					
+					
+					
+						<li>
+
+
+	
+		<ul class='ipsTags ipsTags_inline ipsList_inline  ipsGap:1 ipsGap_row:0'>
+			
+				
+					
+						
+
+<li >
+	
+	<a href="https://homemasters.ru/tags/%D1%83%D1%82%D0%B5%D0%BF%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B4%D0%BE%D0%BC%D0%B0/" class='ipsTag' title="Найти другой контент с тегом 'утепление дома'" rel="tag"><span style="color:#26B460">утепление дома</span></a>
+	
+</li>
+					
+				
+					
+						
+
+<li >
+	
+	<a href="https://homemasters.ru/tags/%D1%82%D0%B5%D0%BF%D0%BB%D0%BE%D0%B2%D0%B8%D0%B7%D0%B8%D0%BE%D0%BD%D0%BD%D0%BE%D0%B5%20%D0%BE%D0%B1%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/" class='ipsTag' title="Найти другой контент с тегом 'тепловизионное обследование'" rel="tag"><span style="color:#01B509">тепловизионное обследование</span></a>
+	
+</li>
+					
+				
+					
+				
+					
+				
+					
+				
+			
+			
+				<li class='ipsType_small'>
+					<span class='ipsType_light ipsCursor_pointer' data-ipsMenu id='elTags_64437116'>( и ещё 3 ) <i class='fa fa-caret-down ipsJS_show'></i></span>
+					<div class='ipsHide ipsMenu ipsMenu_normal ipsPad_half cTagPopup' id='elTags_64437116_menu'>
+						<p class='ipsType_medium ipsType_reset ipsType_light'>C тегом:</p>
+						<ul class='ipsTags ipsList_inline ipsGap:1'>
+							
+								
+
+<li >
+	
+	<a href="https://homemasters.ru/tags/%D1%83%D1%82%D0%B5%D0%BF%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B4%D0%BE%D0%BC%D0%B0/" class='ipsTag' title="Найти другой контент с тегом 'утепление дома'" rel="tag"><span style="color:#5230BB">утепление дома</span></a>
+	
+</li>
+							
+								
+
+<li >
+	
+	<a href="https://homemasters.ru/tags/%D1%82%D0%B5%D0%BF%D0%BB%D0%BE%D0%B2%D0%B8%D0%B7%D0%B8%D0%BE%D0%BD%D0%BD%D0%BE%D0%B5%20%D0%BE%D0%B1%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/" class='ipsTag' title="Найти другой контент с тегом 'тепловизионное обследование'" rel="tag"><span style="color:#B02E83">тепловизионное обследование</span></a>
+	
+</li>
+							
+								
+
+<li >
+	
+	<a href="https://homemasters.ru/tags/%D1%85%D0%BE%D0%BB%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9%20%D0%B4%D0%BE%D0%BC/" class='ipsTag' title="Найти другой контент с тегом 'холодный дом'" rel="tag"><span style="color:#639162">холодный дом</span></a>
+	
+</li>
+							
+								
+
+<li >
+	
+	<a href="https://homemasters.ru/tags/%D1%82%D0%B5%D0%BF%D0%BB%D1%8B%D0%B9%20%D0%B4%D0%BE%D0%BC/" class='ipsTag' title="Найти другой контент с тегом 'теплый дом'" rel="tag"><span style="color:#850850">теплый дом</span></a>
+	
+</li>
+							
+								
+
+<li >
+	
+	<a href="https://homemasters.ru/tags/%D1%82%D0%B5%D0%BF%D0%BB%D0%BE%D0%B2%D0%B8%D0%B7%D0%BE%D1%80/" class='ipsTag' title="Найти другой контент с тегом 'тепловизор'" rel="tag"><span style="color:#4D472D">тепловизор</span></a>
+	
+</li>
+							
+						</ul>
+					</div>
+				</li>
+			
+		</ul>
+	
+</li>
+					
+				</ul>
+			
+		
+	</div>
+</li>
+				
+					
+
+
+<!--noindex-->
+<div id="hmsAdvertInStream_603d445d59dc5" class="ipsType_center ipsSpacer_both">
+	<div id="yandexRtbInStream_603d445d59dc5" class="yandex-adaptive"></div>
+	
+
+	
+		<script type="text/javascript">
+			/*<!-- Google Adsense In Article -->*/
+			document.getElementById("yandexRtbInStream_603d445d59dc5").style.display = "block";
+			document.getElementById("yandexRtbInStream_603d445d59dc5").style.boxShadow = "var(--box--boxShadow)";
+			var g = document.createElement("ins");
+			g.className = "adsbygoogle";
+			g.style.display = "block";
+			g.style.textAlign = "center";
+			g.setAttribute("data-ad-format", "fluid");
+			g.setAttribute("data-ad-layout", "in-article");
+			g.setAttribute("data-ad-client", "ca-pub-3696910648049715");
+			g.setAttribute("data-ad-slot", "7789981300");
+			document.getElementById("yandexRtbInStream_603d445d59dc5").appendChild(g);
+			(adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+	
+</div>
+<!--/noindex-->
+				
+				
+		
+	
+		
+			
+			
+			
+
+
+
+
+
+
+<li class='ipsStreamItem ipsStreamItem_contentBlock ipsStreamItem_expanded ipsAreaBackground_reset ipsPad   hmsStreamItem_forumsTopicPost' data-role='activityItem' data-timestamp='1614623082'>
+	<div class='ipsStreamItem_container ipsClearfix'>
+		
+			
+			<div class='ipsStreamItem_header ipsPhotoPanel ipsPhotoPanel_mini'>
+				
+					<span class='ipsStreamItem_contentType' data-ipsTooltip title='Сообщение'><i class='fa fa-comment'></i></span>
+				
+				
+
+	<a href="https://homemasters.ru/profile/38964-dmitrii-78/" data-ipsHover data-ipsHover-target="https://homemasters.ru/profile/38964-dmitrii-78/?do=hovercard" class="ipsUserPhoto ipsUserPhoto_mini" title="Перейти в профиль Дмитрий 78">
+		<img src='https://homemasters.ru/uploads/profiles/profile/photo-thumb-38964.jpg' alt='Дмитрий 78'>
+	</a>
+
+				<div class='ipsStreamItem_unread'>
+					
+					<h2 class='ipsType_reset ipsStreamItem_title ipsContained_container ipsStreamItem_titleSmall'>
+						
+							<span>
+								<a href='https://homemasters.ru/forums/topic/35705-periodicheski-padaet-davlenija-v-otopitelnoj-sisteme-s-dvuhkonturnym-kotlom/?do=getNewComment' data-linkType="star"  title='Перейти к первому непрочитанному сообщению' data-ipsTooltip>
+									<span class='ipsItemStatus '><i class="fa fa-circle"></i></span>
+								</a>
+							</span>
+						
+						
+						<span class='ipsType_break ipsContained'>
+							<a href='https://homemasters.ru/forums/topic/35705-periodicheski-padaet-davlenija-v-otopitelnoj-sisteme-s-dvuhkonturnym-kotlom/?do=getNewComment' data-linkType="link" data-searchable> Периодически падает давления в отопительной  системе с двухконтурным котлом</a>
+						</span>
+						
+					</h2>
+					
+						<p class='ipsType_reset ipsStreamItem_status ipsType_blendLinks'>
+							
+<a href='https://homemasters.ru/profile/38964-dmitrii-78/' data-ipsHover data-ipsHover-target='https://homemasters.ru/profile/38964-dmitrii-78/?do=hovercard' title="Перейти в профиль Дмитрий 78" class="ipsType_break"><span style='color:#33399e'>Дмитрий 78</span></a> ответил(а)  в теме 
+<a href='https://homemasters.ru/profile/81157-tx70me/' data-ipsHover data-ipsHover-target='https://homemasters.ru/profile/81157-tx70me/?do=hovercard' title="Перейти в профиль TX70me" class="ipsType_break"><span style='color:#0c849f'>TX70me</span></a> в разделе <a href='https://homemasters.ru/forums/forum-7-santehnika-vodoprovod-otoplenie-kanalizatciya/'>Сантехника, водопровод, отопление, канализация</a>
+						</p>
+					
+					
+
+					
+				</div>
+			</div>
+			
+				<div class='ipsStreamItem_snippet ipsType_break'>
+					
+					 	
+
+	<div class="ipsType_richText ipsContained ipsType_medium">
+		<div data-ipstruncate data-ipstruncate-type="remove" data-ipstruncate-size="3 lines" data-ipstruncate-watch="false" >
+			Утечка. Надо искать где. Следы всегда есть. Для начала внимательно и хорошим освещением осмотрите все резьбовые соединения . Везде.
+		</div>
+	</div>
+
+					
+				</div>
+				<ul class='ipsList_inline ipsStreamItem_meta ipsGap:1'>
+					<li class='ipsType_light ipsType_medium'>
+						<a href='https://homemasters.ru/forums/topic/35705-periodicheski-padaet-davlenija-v-otopitelnoj-sisteme-s-dvuhkonturnym-kotlom/?do=findComment&amp;comment=416114' class='ipsType_blendLinks'><i class='fa fa-clock-o'></i> <time datetime='2021-03-01T18:24:42Z' title='01.03.2021 18:24 ' data-short='1 чс'>1 час назад</time></a>
+					</li>
+					
+						<li class='ipsType_light ipsType_medium'>
+							<a href='https://homemasters.ru/forums/topic/35705-periodicheski-padaet-davlenija-v-otopitelnoj-sisteme-s-dvuhkonturnym-kotlom/?do=findComment&amp;comment=416114' class='ipsType_blendLinks'>
+								
+									<i class='fa fa-comment'></i> 1 ответ
+								
+							</a>
+						</li>
+					
+					
+					
+				</ul>
+			
+		
+	</div>
+</li>
+				
+				
+		
+	
+		
+			
+			
+			
+
+
+
+
+
+
+<li class='ipsStreamItem ipsStreamItem_contentBlock ipsStreamItem_expanded ipsAreaBackground_reset ipsPad   hmsStreamItem_forumsTopicPost' data-role='activityItem' data-timestamp='1614621715'>
+	<div class='ipsStreamItem_container ipsClearfix'>
+		
+			
+			<div class='ipsStreamItem_header ipsPhotoPanel ipsPhotoPanel_mini'>
+				
+					<span class='ipsStreamItem_contentType' data-ipsTooltip title='Сообщение'><i class='fa fa-comment'></i></span>
+				
+				
+
+	<a href="https://homemasters.ru/profile/38964-dmitrii-78/" data-ipsHover data-ipsHover-target="https://homemasters.ru/profile/38964-dmitrii-78/?do=hovercard" class="ipsUserPhoto ipsUserPhoto_mini" title="Перейти в профиль Дмитрий 78">
+		<img src='https://homemasters.ru/uploads/profiles/profile/photo-thumb-38964.jpg' alt='Дмитрий 78'>
+	</a>
+
+				<div class='ipsStreamItem_unread'>
+					
+					<h2 class='ipsType_reset ipsStreamItem_title ipsContained_container ipsStreamItem_titleSmall'>
+						
+							<span>
+								<a href='https://homemasters.ru/forums/topic/35682-uteplenie-balkona/?do=getNewComment' data-linkType="star"  title='Перейти к первому непрочитанному сообщению' data-ipsTooltip>
+									<span class='ipsItemStatus '><i class="fa fa-circle"></i></span>
+								</a>
+							</span>
+						
+						
+						<span class='ipsType_break ipsContained'>
+							<a href='https://homemasters.ru/forums/topic/35682-uteplenie-balkona/?do=getNewComment' data-linkType="link" data-searchable> Утепление балкона</a>
+						</span>
+						
+					</h2>
+					
+						<p class='ipsType_reset ipsStreamItem_status ipsType_blendLinks'>
+							
+<a href='https://homemasters.ru/profile/38964-dmitrii-78/' data-ipsHover data-ipsHover-target='https://homemasters.ru/profile/38964-dmitrii-78/?do=hovercard' title="Перейти в профиль Дмитрий 78" class="ipsType_break"><span style='color:#33399e'>Дмитрий 78</span></a> ответил(а)  в теме 
+<a href='https://homemasters.ru/profile/118838-igor-staroverkin/' data-ipsHover data-ipsHover-target='https://homemasters.ru/profile/118838-igor-staroverkin/?do=hovercard' title="Перейти в профиль Игорь Староверкин" class="ipsType_break"><span style='color:#86aecc'>Игорь Староверкин</span></a> в разделе <a href='https://homemasters.ru/forums/forum-33-teploizolyatciya-gidroizolyatciya-i-zvukoizolyatciya/'>Теплоизоляция, гидроизоляция и звукоизоляция</a>
+						</p>
+					
+					
+
+					
+				</div>
+			</div>
+			
+				<div class='ipsStreamItem_snippet ipsType_break'>
+					
+					 	
+
+	<div class="ipsType_richText ipsContained ipsType_medium">
+		<div data-ipstruncate data-ipstruncate-type="remove" data-ipstruncate-size="3 lines" data-ipstruncate-watch="false" >
+			Оргалит лежит часа 2-3, а эппс только положен, но уже просвечивает
+		</div>
+	</div>
+
+					
+				</div>
+				<ul class='ipsList_inline ipsStreamItem_meta ipsGap:1'>
+					<li class='ipsType_light ipsType_medium'>
+						<a href='https://homemasters.ru/forums/topic/35682-uteplenie-balkona/?do=findComment&amp;comment=416113' class='ipsType_blendLinks'><i class='fa fa-clock-o'></i> <time datetime='2021-03-01T18:01:55Z' title='01.03.2021 18:01 ' data-short='1 чс'>1 час назад</time></a>
+					</li>
+					
+						<li class='ipsType_light ipsType_medium'>
+							<a href='https://homemasters.ru/forums/topic/35682-uteplenie-balkona/?do=findComment&amp;comment=416113' class='ipsType_blendLinks'>
+								
+									<i class='fa fa-comment'></i> 32 ответа
+								
+							</a>
+						</li>
+					
+					
+					
+						<li>
+
+
+	
+		<ul class='ipsTags ipsTags_inline ipsList_inline  ipsGap:1 ipsGap_row:0'>
+			
+				
+					
+						
+
+<li >
+	
+	<a href="https://homemasters.ru/tags/%D1%83%D1%82%D0%B5%D0%BF%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B1%D0%B0%D0%BB%D0%BA%D0%BE%D0%BD%D0%B0/" class='ipsTag' title="Найти другой контент с тегом 'утепление балкона'" rel="tag"><span style="color:#538A02">утепление балкона</span></a>
+	
+</li>
+					
+				
+			
+			
+		</ul>
+	
+</li>
+					
+				</ul>
+			
+		
+	</div>
+</li>
+				
+				
+		
+	
+		
+			
+			
+			
+
+
+
+
+
+
+<li class='ipsStreamItem ipsStreamItem_contentBlock ipsStreamItem_expanded ipsAreaBackground_reset ipsPad   hmsStreamItem_forumsTopicPost' data-role='activityItem' data-timestamp='1614614805'>
+	<div class='ipsStreamItem_container ipsClearfix'>
+		
+			
+			<div class='ipsStreamItem_header ipsPhotoPanel ipsPhotoPanel_mini'>
+				
+					<span class='ipsStreamItem_contentType' data-ipsTooltip title='Сообщение'><i class='fa fa-comment'></i></span>
+				
+				
+
+	<a href="https://homemasters.ru/profile/38964-dmitrii-78/" data-ipsHover data-ipsHover-target="https://homemasters.ru/profile/38964-dmitrii-78/?do=hovercard" class="ipsUserPhoto ipsUserPhoto_mini" title="Перейти в профиль Дмитрий 78">
+		<img src='https://homemasters.ru/uploads/profiles/profile/photo-thumb-38964.jpg' alt='Дмитрий 78'>
+	</a>
+
+				<div class='ipsStreamItem_unread'>
+					
+					<h2 class='ipsType_reset ipsStreamItem_title ipsContained_container ipsStreamItem_titleSmall'>
+						
+							<span>
+								<a href='https://homemasters.ru/forums/topic/35704-skladnoj-stol-k-ventiljacionnoj-stene/?do=getNewComment' data-linkType="star"  title='Перейти к первому непрочитанному сообщению' data-ipsTooltip>
+									<span class='ipsItemStatus '><i class="fa fa-circle"></i></span>
+								</a>
+							</span>
+						
+						
+						<span class='ipsType_break ipsContained'>
+							<a href='https://homemasters.ru/forums/topic/35704-skladnoj-stol-k-ventiljacionnoj-stene/?do=getNewComment' data-linkType="link" data-searchable> Складной стол к вентиляционной стене</a>
+						</span>
+						
+					</h2>
+					
+						<p class='ipsType_reset ipsStreamItem_status ipsType_blendLinks'>
+							
+<a href='https://homemasters.ru/profile/38964-dmitrii-78/' data-ipsHover data-ipsHover-target='https://homemasters.ru/profile/38964-dmitrii-78/?do=hovercard' title="Перейти в профиль Дмитрий 78" class="ipsType_break"><span style='color:#33399e'>Дмитрий 78</span></a> ответил(а)  в теме 
+<a href='https://homemasters.ru/profile/118811-mususu/' data-ipsHover data-ipsHover-target='https://homemasters.ru/profile/118811-mususu/?do=hovercard' title="Перейти в профиль Mususu" class="ipsType_break"><span style='color:#86aecc'>Mususu</span></a> в разделе <a href='https://homemasters.ru/forums/forum-24-ventilyatciya-i-konditcionirovanie/'>Вентиляция и кондиционирование</a>
+						</p>
+					
+					
+
+					
+				</div>
+			</div>
+			
+				<div class='ipsStreamItem_snippet ipsType_break'>
+					
+					 	
+
+	<div class="ipsType_richText ipsContained ipsType_medium">
+		<div data-ipstruncate data-ipstruncate-type="remove" data-ipstruncate-size="3 lines" data-ipstruncate-watch="false" >
+			Тогда вариантов много. Самый правильный поставить стойки от пола до потолка, прикрепить их именно к полу и потолку, и к ним крепить стол.
+		</div>
+	</div>
+
+					
+				</div>
+				<ul class='ipsList_inline ipsStreamItem_meta ipsGap:1'>
+					<li class='ipsType_light ipsType_medium'>
+						<a href='https://homemasters.ru/forums/topic/35704-skladnoj-stol-k-ventiljacionnoj-stene/?do=findComment&amp;comment=416111' class='ipsType_blendLinks'><i class='fa fa-clock-o'></i> <time datetime='2021-03-01T16:06:45Z' title='01.03.2021 16:06 ' data-short='3 чс'>3 часа назад</time></a>
+					</li>
+					
+						<li class='ipsType_light ipsType_medium'>
+							<a href='https://homemasters.ru/forums/topic/35704-skladnoj-stol-k-ventiljacionnoj-stene/?do=findComment&amp;comment=416111' class='ipsType_blendLinks'>
+								
+									<i class='fa fa-comment'></i> 3 ответа
+								
+							</a>
+						</li>
+					
+					
+					
+						<li>
+
+
+	
+		<ul class='ipsTags ipsTags_inline ipsList_inline  ipsGap:1 ipsGap_row:0'>
+			
+				
+					
+						
+
+<li >
+	
+	<a href="https://homemasters.ru/tags/%D0%BA%D1%80%D0%B5%D0%BF%D1%91%D0%B6/" class='ipsTag' title="Найти другой контент с тегом 'крепёж'" rel="tag"><span style="color:#4C346C">крепёж</span></a>
+	
+</li>
+					
+				
+			
+			
+		</ul>
+	
+</li>
+					
+				</ul>
+			
+		
+	</div>
+</li>
+				
+				
+		
+	
+		
+			
+			
+			
+
+
+
+
+
+
+<li class='ipsStreamItem ipsStreamItem_contentBlock ipsStreamItem_expanded ipsAreaBackground_reset ipsPad   hmsStreamItem_forumsTopicPost' data-role='activityItem' data-timestamp='1614605786'>
+	<div class='ipsStreamItem_container ipsClearfix'>
+		
+			
+			<div class='ipsStreamItem_header ipsPhotoPanel ipsPhotoPanel_mini'>
+				
+					<span class='ipsStreamItem_contentType' data-ipsTooltip title='Сообщение'><i class='fa fa-comment'></i></span>
+				
+				
+
+	<a href="https://homemasters.ru/profile/118869-irina-rumjanceva/" data-ipsHover data-ipsHover-target="https://homemasters.ru/profile/118869-irina-rumjanceva/?do=hovercard" class="ipsUserPhoto ipsUserPhoto_mini" title="Перейти в профиль Ирина Румянцева">
+		<img src='https://homemasters.ru/uploads/profiles/monthly_2021_02/Lq2MvLdXfN0.thumb.jpg.2e7c51d47d3543b4d34ff016cccd445a.jpg' alt='Ирина Румянцева'>
+	</a>
+
+				<div class='ipsStreamItem_unread'>
+					
+					<h2 class='ipsType_reset ipsStreamItem_title ipsContained_container ipsStreamItem_titleSmall'>
+						
+							<span>
+								<a href='https://homemasters.ru/forums/topic/32889-nuzhna-pomoshh-v-dizajne-dvora-chastnogo-doma/?do=getNewComment' data-linkType="star"  title='Перейти к первому непрочитанному сообщению' data-ipsTooltip>
+									<span class='ipsItemStatus '><i class="fa fa-circle"></i></span>
+								</a>
+							</span>
+						
+						
+						<span class='ipsType_break ipsContained'>
+							<a href='https://homemasters.ru/forums/topic/32889-nuzhna-pomoshh-v-dizajne-dvora-chastnogo-doma/?do=getNewComment' data-linkType="link" data-searchable> Нужна помощь в дизайне двора частного дома</a>
+						</span>
+						
+					</h2>
+					
+						<p class='ipsType_reset ipsStreamItem_status ipsType_blendLinks'>
+							
+<a href='https://homemasters.ru/profile/118869-irina-rumjanceva/' data-ipsHover data-ipsHover-target='https://homemasters.ru/profile/118869-irina-rumjanceva/?do=hovercard' title="Перейти в профиль Ирина Румянцева" class="ipsType_break"><span style='color:#86aecc'>Ирина Румянцева</span></a> ответил(а)  в теме 
+<a href='https://homemasters.ru/profile/102754-pobin79/' data-ipsHover data-ipsHover-target='https://homemasters.ru/profile/102754-pobin79/?do=hovercard' title="Перейти в профиль pobin79" class="ipsType_break"><span style='color:#0c849f'>pobin79</span></a> в разделе <a href='https://homemasters.ru/forums/forum-23-sad-i-ogorod/'>Сад и огород</a>
+						</p>
+					
+					
+
+					
+				</div>
+			</div>
+			
+				<div class='ipsStreamItem_snippet ipsType_break'>
+					
+					 	
+
+	<div class="ipsType_richText ipsContained ipsType_medium">
+		<div data-ipstruncate data-ipstruncate-type="remove" data-ipstruncate-size="3 lines" data-ipstruncate-watch="false" >
+			согласна, можно было бы и натуральные фотографии прикрепить)))
+		</div>
+	</div>
+
+					
+				</div>
+				<ul class='ipsList_inline ipsStreamItem_meta ipsGap:1'>
+					<li class='ipsType_light ipsType_medium'>
+						<a href='https://homemasters.ru/forums/topic/32889-nuzhna-pomoshh-v-dizajne-dvora-chastnogo-doma/?do=findComment&amp;comment=416101' class='ipsType_blendLinks'><i class='fa fa-clock-o'></i> <time datetime='2021-03-01T13:36:26Z' title='01.03.2021 13:36 ' data-short='6 чс'>6 часов назад</time></a>
+					</li>
+					
+						<li class='ipsType_light ipsType_medium'>
+							<a href='https://homemasters.ru/forums/topic/32889-nuzhna-pomoshh-v-dizajne-dvora-chastnogo-doma/?do=findComment&amp;comment=416101' class='ipsType_blendLinks'>
+								
+									<i class='fa fa-comment'></i> 3 ответа
+								
+							</a>
+						</li>
+					
+					
+					
+				</ul>
+			
+		
+	</div>
+</li>
+				
+				
+		
+	
+		
+			
+			
+			
+
+
+
+
+
+
+<li class='ipsStreamItem ipsStreamItem_contentBlock ipsStreamItem_expanded ipsAreaBackground_reset ipsPad   hmsStreamItem_forumsTopicPost' data-role='activityItem' data-timestamp='1614605633'>
+	<div class='ipsStreamItem_container ipsClearfix'>
+		
+			
+			<div class='ipsStreamItem_header ipsPhotoPanel ipsPhotoPanel_mini'>
+				
+					<span class='ipsStreamItem_contentType' data-ipsTooltip title='Сообщение'><i class='fa fa-comment'></i></span>
+				
+				
+
+	<a href="https://homemasters.ru/profile/118869-irina-rumjanceva/" data-ipsHover data-ipsHover-target="https://homemasters.ru/profile/118869-irina-rumjanceva/?do=hovercard" class="ipsUserPhoto ipsUserPhoto_mini" title="Перейти в профиль Ирина Румянцева">
+		<img src='https://homemasters.ru/uploads/profiles/monthly_2021_02/Lq2MvLdXfN0.thumb.jpg.2e7c51d47d3543b4d34ff016cccd445a.jpg' alt='Ирина Румянцева'>
+	</a>
+
+				<div class='ipsStreamItem_unread'>
+					
+					<h2 class='ipsType_reset ipsStreamItem_title ipsContained_container ipsStreamItem_titleSmall'>
+						
+							<span>
+								<a href='https://homemasters.ru/forums/topic/35655-raspolozhenie-rozetok-na-kuhonnoj-stene/?do=getNewComment' data-linkType="star"  title='Перейти к первому непрочитанному сообщению' data-ipsTooltip>
+									<span class='ipsItemStatus '><i class="fa fa-circle"></i></span>
+								</a>
+							</span>
+						
+						
+						<span class='ipsType_break ipsContained'>
+							<a href='https://homemasters.ru/forums/topic/35655-raspolozhenie-rozetok-na-kuhonnoj-stene/?do=getNewComment' data-linkType="link" data-searchable> Расположение розеток на кухонной стене</a>
+						</span>
+						
+					</h2>
+					
+						<p class='ipsType_reset ipsStreamItem_status ipsType_blendLinks'>
+							
+<a href='https://homemasters.ru/profile/118869-irina-rumjanceva/' data-ipsHover data-ipsHover-target='https://homemasters.ru/profile/118869-irina-rumjanceva/?do=hovercard' title="Перейти в профиль Ирина Румянцева" class="ipsType_break"><span style='color:#86aecc'>Ирина Румянцева</span></a> ответил(а)  в теме 
+<a href='https://homemasters.ru/profile/40983-timur1974/' data-ipsHover data-ipsHover-target='https://homemasters.ru/profile/40983-timur1974/?do=hovercard' title="Перейти в профиль timur1974" class="ipsType_break"><span style='color:#33399e'>timur1974</span></a> в разделе <a href='https://homemasters.ru/forums/forum-8-elektrika-slabotochka/'>Электрика, слаботочка</a>
+						</p>
+					
+					
+
+					
+				</div>
+			</div>
+			
+				<div class='ipsStreamItem_snippet ipsType_break'>
+					
+					 	
+
+	<div class="ipsType_richText ipsContained ipsType_medium">
+		<div data-ipstruncate data-ipstruncate-type="remove" data-ipstruncate-size="3 lines" data-ipstruncate-watch="false" >
+			не надо всех женщин под одну логику сравнивать)))
+		</div>
+	</div>
+
+					
+				</div>
+				<ul class='ipsList_inline ipsStreamItem_meta ipsGap:1'>
+					<li class='ipsType_light ipsType_medium'>
+						<a href='https://homemasters.ru/forums/topic/35655-raspolozhenie-rozetok-na-kuhonnoj-stene/?do=findComment&amp;comment=416100' class='ipsType_blendLinks'><i class='fa fa-clock-o'></i> <time datetime='2021-03-01T13:33:53Z' title='01.03.2021 13:33 ' data-short='6 чс'>6 часов назад</time></a>
+					</li>
+					
+						<li class='ipsType_light ipsType_medium'>
+							<a href='https://homemasters.ru/forums/topic/35655-raspolozhenie-rozetok-na-kuhonnoj-stene/?do=findComment&amp;comment=416100' class='ipsType_blendLinks'>
+								
+									<i class='fa fa-comment'></i> 28 ответов
+								
+							</a>
+						</li>
+					
+					
+					
+						<li>
+
+
+	
+		<ul class='ipsTags ipsTags_inline ipsList_inline  ipsGap:1 ipsGap_row:0'>
+			
+				
+					
+						
+
+<li >
+	
+	<a href="https://homemasters.ru/tags/%D1%80%D0%BE%D0%B7%D0%B5%D1%82%D0%BA%D0%B8%20%D0%BD%D0%B0%20%D0%BA%D1%83%D1%85%D0%BD%D0%B5/" class='ipsTag' title="Найти другой контент с тегом 'розетки на кухне'" rel="tag"><span style="color:#138957">розетки на кухне</span></a>
+	
+</li>
+					
+				
+			
+			
+		</ul>
+	
+</li>
+					
+				</ul>
+			
+		
+	</div>
+</li>
+				
+				
+		
+	
+		
+			
+			
+			
+
+
+
+
+
+
+<li class='ipsStreamItem ipsStreamItem_contentBlock ipsStreamItem_expanded ipsAreaBackground_reset ipsPad   hmsStreamItem_forumsTopicPost' data-role='activityItem' data-timestamp='1614605497'>
+	<div class='ipsStreamItem_container ipsClearfix'>
+		
+			
+			<div class='ipsStreamItem_header ipsPhotoPanel ipsPhotoPanel_mini'>
+				
+					<span class='ipsStreamItem_contentType' data-ipsTooltip title='Сообщение'><i class='fa fa-comment'></i></span>
+				
+				
+
+	<a href="https://homemasters.ru/profile/118869-irina-rumjanceva/" data-ipsHover data-ipsHover-target="https://homemasters.ru/profile/118869-irina-rumjanceva/?do=hovercard" class="ipsUserPhoto ipsUserPhoto_mini" title="Перейти в профиль Ирина Румянцева">
+		<img src='https://homemasters.ru/uploads/profiles/monthly_2021_02/Lq2MvLdXfN0.thumb.jpg.2e7c51d47d3543b4d34ff016cccd445a.jpg' alt='Ирина Румянцева'>
+	</a>
+
+				<div class='ipsStreamItem_unread'>
+					
+					<h2 class='ipsType_reset ipsStreamItem_title ipsContained_container ipsStreamItem_titleSmall'>
+						
+							<span>
+								<a href='https://homemasters.ru/forums/topic/35680-problemy-pri-pokraske-oboev/?do=getNewComment' data-linkType="star"  title='Перейти к первому непрочитанному сообщению' data-ipsTooltip>
+									<span class='ipsItemStatus '><i class="fa fa-circle"></i></span>
+								</a>
+							</span>
+						
+						
+						<span class='ipsType_break ipsContained'>
+							<a href='https://homemasters.ru/forums/topic/35680-problemy-pri-pokraske-oboev/?do=getNewComment' data-linkType="link" data-searchable> Проблемы при покраске обоев</a>
+						</span>
+						
+					</h2>
+					
+						<p class='ipsType_reset ipsStreamItem_status ipsType_blendLinks'>
+							
+<a href='https://homemasters.ru/profile/118869-irina-rumjanceva/' data-ipsHover data-ipsHover-target='https://homemasters.ru/profile/118869-irina-rumjanceva/?do=hovercard' title="Перейти в профиль Ирина Румянцева" class="ipsType_break"><span style='color:#86aecc'>Ирина Румянцева</span></a> ответил(а)  в теме 
+<a href='https://homemasters.ru/profile/118837-last/' data-ipsHover data-ipsHover-target='https://homemasters.ru/profile/118837-last/?do=hovercard' title="Перейти в профиль Last" class="ipsType_break"><span style='color:#86aecc'>Last</span></a> в разделе <a href='https://homemasters.ru/forums/forum-5-remont-i-stroitelstvo/'>Ремонт и строительство</a>
+						</p>
+					
+					
+
+					
+				</div>
+			</div>
+			
+				<div class='ipsStreamItem_snippet ipsType_break'>
+					
+					 	
+
+	<div class="ipsType_richText ipsContained ipsType_medium">
+		<div data-ipstruncate data-ipstruncate-type="remove" data-ipstruncate-size="3 lines" data-ipstruncate-watch="false" >
+			У нас такое было, это дело не в краске и обоях, а в самих стенах. Вам плохо их подготовили, поэтому такие полосы из-за неровностей
+		</div>
+	</div>
+
+					
+				</div>
+				<ul class='ipsList_inline ipsStreamItem_meta ipsGap:1'>
+					<li class='ipsType_light ipsType_medium'>
+						<a href='https://homemasters.ru/forums/topic/35680-problemy-pri-pokraske-oboev/?do=findComment&amp;comment=416099' class='ipsType_blendLinks'><i class='fa fa-clock-o'></i> <time datetime='2021-03-01T13:31:37Z' title='01.03.2021 13:31 ' data-short='6 чс'>6 часов назад</time></a>
+					</li>
+					
+						<li class='ipsType_light ipsType_medium'>
+							<a href='https://homemasters.ru/forums/topic/35680-problemy-pri-pokraske-oboev/?do=findComment&amp;comment=416099' class='ipsType_blendLinks'>
+								
+									<i class='fa fa-comment'></i> 7 ответов
+								
+							</a>
+						</li>
+					
+					
+					
+						<li>
+
+
+	
+		<ul class='ipsTags ipsTags_inline ipsList_inline  ipsGap:1 ipsGap_row:0'>
+			
+				
+					
+						
+
+<li >
+	
+	<a href="https://homemasters.ru/tags/%D0%BF%D0%BE%D0%BA%D1%80%D0%B0%D1%81%D0%BA%D0%B0%20%D0%BE%D0%B1%D0%BE%D0%B5%D0%B2/" class='ipsTag' title="Найти другой контент с тегом 'покраска обоев'" rel="tag"><span style="color:#38A29D">покраска обоев</span></a>
+	
+</li>
+					
+				
+					
+						
+
+<li >
+	
+	<a href="https://homemasters.ru/tags/%D0%B2%D0%B8%D0%BD%D0%B8%D0%BB%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%BE%D0%B1%D0%BE%D0%B8/" class='ipsTag' title="Найти другой контент с тегом 'виниловые обои'" rel="tag"><span style="color:#484631">виниловые обои</span></a>
+	
+</li>
+					
+				
+					
+				
+			
+			
+				<li class='ipsType_small'>
+					<span class='ipsType_light ipsCursor_pointer' data-ipsMenu id='elTags_405742900'>( и ещё 1 ) <i class='fa fa-caret-down ipsJS_show'></i></span>
+					<div class='ipsHide ipsMenu ipsMenu_normal ipsPad_half cTagPopup' id='elTags_405742900_menu'>
+						<p class='ipsType_medium ipsType_reset ipsType_light'>C тегом:</p>
+						<ul class='ipsTags ipsList_inline ipsGap:1'>
+							
+								
+
+<li >
+	
+	<a href="https://homemasters.ru/tags/%D0%BF%D0%BE%D0%BA%D1%80%D0%B0%D1%81%D0%BA%D0%B0%20%D0%BE%D0%B1%D0%BE%D0%B5%D0%B2/" class='ipsTag' title="Найти другой контент с тегом 'покраска обоев'" rel="tag"><span style="color:#991A00">покраска обоев</span></a>
+	
+</li>
+							
+								
+
+<li >
+	
+	<a href="https://homemasters.ru/tags/%D0%B2%D0%B8%D0%BD%D0%B8%D0%BB%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%BE%D0%B1%D0%BE%D0%B8/" class='ipsTag' title="Найти другой контент с тегом 'виниловые обои'" rel="tag"><span style="color:#70B5BE">виниловые обои</span></a>
+	
+</li>
+							
+								
+
+<li >
+	
+	<a href="https://homemasters.ru/tags/%D0%BE%D0%B1%D0%BE%D0%B8/" class='ipsTag' title="Найти другой контент с тегом 'обои'" rel="tag"><span style="color:#415B05">обои</span></a>
+	
+</li>
+							
+						</ul>
+					</div>
+				</li>
+			
+		</ul>
+	
+</li>
+					
+				</ul>
+			
+		
+	</div>
+</li>
+				
+				
+		
+	
+		
+			
+			
+			
+
+
+
+
+
+
+<li class='ipsStreamItem ipsStreamItem_contentBlock ipsStreamItem_expanded ipsAreaBackground_reset ipsPad   hmsStreamItem_forumsTopicPost' data-role='activityItem' data-timestamp='1614579227'>
+	<div class='ipsStreamItem_container ipsClearfix'>
+		
+			
+			<div class='ipsStreamItem_header ipsPhotoPanel ipsPhotoPanel_mini'>
+				
+					<span class='ipsStreamItem_contentType' data-ipsTooltip title='Сообщение'><i class='fa fa-comment'></i></span>
+				
+				
+
+	<a href="https://homemasters.ru/profile/2-sano/" data-ipsHover data-ipsHover-target="https://homemasters.ru/profile/2-sano/?do=hovercard" class="ipsUserPhoto ipsUserPhoto_mini" title="Перейти в профиль Sano">
+		<img src='https://homemasters.ru/uploads/profiles/profile/photo-thumb-2.jpg' alt='Sano'>
+	</a>
+
+				<div class='ipsStreamItem_unread'>
+					
+					<h2 class='ipsType_reset ipsStreamItem_title ipsContained_container ipsStreamItem_titleSmall'>
+						
+							<span>
+								<a href='https://homemasters.ru/forums/topic/31631-kraskopult/?do=getNewComment' data-linkType="star"  title='Перейти к первому непрочитанному сообщению' data-ipsTooltip>
+									<span class='ipsItemStatus '><i class="fa fa-circle"></i></span>
+								</a>
+							</span>
+						
+						
+						<span class='ipsType_break ipsContained'>
+							<a href='https://homemasters.ru/forums/topic/31631-kraskopult/?do=getNewComment' data-linkType="link" data-searchable> Краскопульт</a>
+						</span>
+						
+					</h2>
+					
+						<p class='ipsType_reset ipsStreamItem_status ipsType_blendLinks'>
+							
+<a href='https://homemasters.ru/profile/2-sano/' data-ipsHover data-ipsHover-target='https://homemasters.ru/profile/2-sano/?do=hovercard' title="Перейти в профиль Sano" class="ipsType_break"><span style='color:#0e445c'>Sano</span></a> ответил(а)  в теме 
+<a href='https://homemasters.ru/profile/109851-nikitenko84/' data-ipsHover data-ipsHover-target='https://homemasters.ru/profile/109851-nikitenko84/?do=hovercard' title="Перейти в профиль nikitenko84" class="ipsType_break"><span style='color:#86aecc'>nikitenko84</span></a> в разделе <a href='https://homemasters.ru/forums/forum-4-shtukaturim-kleim-krasim/'>Штукатурим, клеим, красим</a>
+						</p>
+					
+					
+
+					
+				</div>
+			</div>
+			
+				<div class='ipsStreamItem_snippet ipsType_break'>
+					
+					 	
+
+	<div class="ipsType_richText ipsContained ipsType_medium">
+		<div data-ipstruncate data-ipstruncate-type="remove" data-ipstruncate-size="3 lines" data-ipstruncate-watch="false" >
+			Так же не покупаю,  нечего красить. Мода на покраску пока ещё не вернулась
+		</div>
+	</div>
+
+					
+				</div>
+				<ul class='ipsList_inline ipsStreamItem_meta ipsGap:1'>
+					<li class='ipsType_light ipsType_medium'>
+						<a href='https://homemasters.ru/forums/topic/31631-kraskopult/?do=findComment&amp;comment=416086' class='ipsType_blendLinks'><i class='fa fa-clock-o'></i> <time datetime='2021-03-01T06:13:47Z' title='01.03.2021 06:13 ' data-short='13 чс'>13 часов назад</time></a>
+					</li>
+					
+						<li class='ipsType_light ipsType_medium'>
+							<a href='https://homemasters.ru/forums/topic/31631-kraskopult/?do=findComment&amp;comment=416086' class='ipsType_blendLinks'>
+								
+									<i class='fa fa-comment'></i> 9 ответов
+								
+							</a>
+						</li>
+					
+					
+					
+						<li>
+
+
+	
+		<ul class='ipsTags ipsTags_inline ipsList_inline  ipsGap:1 ipsGap_row:0'>
+			
+				
+					
+						
+
+<li >
+	
+	<a href="https://homemasters.ru/tags/%D0%BA%D1%80%D0%B0%D1%81%D0%BA%D0%BE%D0%BF%D1%83%D0%BB%D1%8C%D1%82/" class='ipsTag' title="Найти другой контент с тегом 'краскопульт'" rel="tag"><span style="color:#2A381E">краскопульт</span></a>
+	
+</li>
+					
+				
+			
+			
+		</ul>
+	
+</li>
+					
+				</ul>
+			
+		
+	</div>
+</li>
+				
+				
+		
+	
+		
+			
+			
+			
+
+
+
+
+
+
+<li class='ipsStreamItem ipsStreamItem_contentBlock ipsStreamItem_expanded ipsAreaBackground_reset ipsPad   hmsStreamItem_forumsTopicPost' data-role='activityItem' data-timestamp='1614536327'>
+	<div class='ipsStreamItem_container ipsClearfix'>
+		
+			
+			<div class='ipsStreamItem_header ipsPhotoPanel ipsPhotoPanel_mini'>
+				
+					<span class='ipsStreamItem_contentType' data-ipsTooltip title='Сообщение'><i class='fa fa-comment'></i></span>
+				
+				
+
+	<a href="https://homemasters.ru/profile/3509-bagayama/" data-ipsHover data-ipsHover-target="https://homemasters.ru/profile/3509-bagayama/?do=hovercard" class="ipsUserPhoto ipsUserPhoto_mini" title="Перейти в профиль bagayama">
+		<img src='https://homemasters.ru/uploads/profiles/profile/photo-3509.jpg' alt='bagayama'>
+	</a>
+
+				<div class='ipsStreamItem_unread'>
+					
+					<h2 class='ipsType_reset ipsStreamItem_title ipsContained_container ipsStreamItem_titleSmall'>
+						
+							<span>
+								<a href='https://homemasters.ru/forums/topic/9278-nam-pesnja-stroit-i-zhit-pomogaet/?do=getNewComment' data-linkType="star"  title='Перейти к первому непрочитанному сообщению' data-ipsTooltip>
+									<span class='ipsItemStatus '><i class="fa fa-circle"></i></span>
+								</a>
+							</span>
+						
+						
+								<span>
+
+	<a href="https://homemasters.ru/tags/%D1%85%D0%BE%D1%80%D0%BE%D1%88%D0%B0%D1%8F%20%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0/" title="Найти другой контент с тегом 'хорошая музыка'" class='ipsTag_prefix' rel="tag"><span>хорошая музыка</span></a>
+</span>
+						
+						<span class='ipsType_break ipsContained'>
+							<a href='https://homemasters.ru/forums/topic/9278-nam-pesnja-stroit-i-zhit-pomogaet/?do=getNewComment' data-linkType="link" data-searchable> Нам песня строить и жить помогает</a>
+						</span>
+						
+					</h2>
+					
+						<p class='ipsType_reset ipsStreamItem_status ipsType_blendLinks'>
+							
+<a href='https://homemasters.ru/profile/3509-bagayama/' data-ipsHover data-ipsHover-target='https://homemasters.ru/profile/3509-bagayama/?do=hovercard' title="Перейти в профиль bagayama" class="ipsType_break"><span style='color:#33399e'>bagayama</span></a> ответил(а) в теме раздела <a href='https://homemasters.ru/forums/forum-3-kurilka/'>Курилка</a>
+						</p>
+					
+					
+
+					
+				</div>
+			</div>
+			
+				<div class='ipsStreamItem_snippet ipsType_break'>
+					
+					 	
+
+					
+				</div>
+				<ul class='ipsList_inline ipsStreamItem_meta ipsGap:1'>
+					<li class='ipsType_light ipsType_medium'>
+						<a href='https://homemasters.ru/forums/topic/9278-nam-pesnja-stroit-i-zhit-pomogaet/?do=findComment&amp;comment=416082' class='ipsType_blendLinks'><i class='fa fa-clock-o'></i> <time datetime='2021-02-28T18:18:47Z' title='28.02.2021 18:18 ' data-short='1 дн'>Вчера в 18:18</time></a>
+					</li>
+					
+						<li class='ipsType_light ipsType_medium'>
+							<a href='https://homemasters.ru/forums/topic/9278-nam-pesnja-stroit-i-zhit-pomogaet/?do=findComment&amp;comment=416082' class='ipsType_blendLinks'>
+								
+									<i class='fa fa-comment'></i> 1 705 ответов
+								
+							</a>
+						</li>
+					
+					
+					
+						<li>
+
+
+	
+		<ul class='ipsTags ipsTags_inline ipsList_inline  ipsGap:1 ipsGap_row:0'>
+			
+				
+					
+						
+
+<li >
+	
+	<a href="https://homemasters.ru/tags/%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0/" class='ipsTag' title="Найти другой контент с тегом 'музыка'" rel="tag"><span style="color:#5D349E">музыка</span></a>
+	
+</li>
+					
+				
+			
+			
+		</ul>
+	
+</li>
+					
+				</ul>
+			
+		
+	</div>
+</li>
+				
+				
+		
+	
+		
+			
+			
+			
+
+
+
+
+
+
+<li class='ipsStreamItem ipsStreamItem_contentBlock ipsStreamItem_expanded ipsAreaBackground_reset ipsPad   hmsStreamItem_forumsTopicPost' data-role='activityItem' data-timestamp='1614534161'>
+	<div class='ipsStreamItem_container ipsClearfix'>
+		
+			
+			<div class='ipsStreamItem_header ipsPhotoPanel ipsPhotoPanel_mini'>
+				
+					<span class='ipsStreamItem_contentType' data-ipsTooltip title='Сообщение'><i class='fa fa-comment'></i></span>
+				
+				
+
+	<a href="https://homemasters.ru/profile/38964-dmitrii-78/" data-ipsHover data-ipsHover-target="https://homemasters.ru/profile/38964-dmitrii-78/?do=hovercard" class="ipsUserPhoto ipsUserPhoto_mini" title="Перейти в профиль Дмитрий 78">
+		<img src='https://homemasters.ru/uploads/profiles/profile/photo-thumb-38964.jpg' alt='Дмитрий 78'>
+	</a>
+
+				<div class='ipsStreamItem_unread'>
+					
+					<h2 class='ipsType_reset ipsStreamItem_title ipsContained_container ipsStreamItem_titleSmall'>
+						
+							<span>
+								<a href='https://homemasters.ru/forums/topic/35702-chto-mozhno-sdelat-chtoby-ne-tresnula-shpatlevka-po-raspajkam-i-shtrobe/?do=getNewComment' data-linkType="star"  title='Перейти к первому непрочитанному сообщению' data-ipsTooltip>
+									<span class='ipsItemStatus '><i class="fa fa-circle"></i></span>
+								</a>
+							</span>
+						
+						
+						<span class='ipsType_break ipsContained'>
+							<a href='https://homemasters.ru/forums/topic/35702-chto-mozhno-sdelat-chtoby-ne-tresnula-shpatlevka-po-raspajkam-i-shtrobe/?do=getNewComment' data-linkType="link" data-searchable> Что можно сделать чтобы не треснула шпатлевка по распайкам и штробе?</a>
+						</span>
+						
+					</h2>
+					
+						<p class='ipsType_reset ipsStreamItem_status ipsType_blendLinks'>
+							
+<a href='https://homemasters.ru/profile/38964-dmitrii-78/' data-ipsHover data-ipsHover-target='https://homemasters.ru/profile/38964-dmitrii-78/?do=hovercard' title="Перейти в профиль Дмитрий 78" class="ipsType_break"><span style='color:#33399e'>Дмитрий 78</span></a> ответил(а)  в теме 
+<a href='https://homemasters.ru/profile/118795-alexey_282_/' data-ipsHover data-ipsHover-target='https://homemasters.ru/profile/118795-alexey_282_/?do=hovercard' title="Перейти в профиль Alexey_282_" class="ipsType_break"><span style='color:#0c849f'>Alexey_282_</span></a> в разделе <a href='https://homemasters.ru/forums/forum-1-rabota-s-gipsokartonom/'>Работа с гипсокартоном</a>
+						</p>
+					
+					
+
+					
+				</div>
+			</div>
+			
+				<div class='ipsStreamItem_snippet ipsType_break'>
+					
+					 	
+
+	<div class="ipsType_richText ipsContained ipsType_medium">
+		<div data-ipstruncate data-ipstruncate-type="remove" data-ipstruncate-size="3 lines" data-ipstruncate-watch="false" >
+			Три варианта. 1.Крышку вообще не надевать. Под обоями видно не будет, если конечно не белые обои. 2. Выравнивать как вы хотели, шпатлевкой вровень с крышкой, только крышку не замазывать. 3. Крышку ставить после поклейки обоев (В этом случае подварианты:1.крышку оставить...
+		</div>
+	</div>
+
+					
+				</div>
+				<ul class='ipsList_inline ipsStreamItem_meta ipsGap:1'>
+					<li class='ipsType_light ipsType_medium'>
+						<a href='https://homemasters.ru/forums/topic/35702-chto-mozhno-sdelat-chtoby-ne-tresnula-shpatlevka-po-raspajkam-i-shtrobe/?do=findComment&amp;comment=416081' class='ipsType_blendLinks'><i class='fa fa-clock-o'></i> <time datetime='2021-02-28T17:42:41Z' title='28.02.2021 17:42 ' data-short='1 дн'>Вчера в 17:42</time></a>
+					</li>
+					
+						<li class='ipsType_light ipsType_medium'>
+							<a href='https://homemasters.ru/forums/topic/35702-chto-mozhno-sdelat-chtoby-ne-tresnula-shpatlevka-po-raspajkam-i-shtrobe/?do=findComment&amp;comment=416081' class='ipsType_blendLinks'>
+								
+									<i class='fa fa-comment'></i> 7 ответов
+								
+							</a>
+						</li>
+					
+					
+						
+							<li>
+
+
+	<div class='ipsReactOverview ipsReactOverview_small ipsType_light'>
+		<ul>
+			<li class='ipsReactOverview_repCount'>
+				2
+			</li>
+			
+				
+				<li>
+					
+						<span data-ipsTooltip title="Нравится">
+					
+							<img src='https://homemasters.ru/uploads/reactions/react_like.png' alt="Нравится">
+					
+						</span>
+					
+				</li>
+			
+		</ul>
+	</div>
+</li>
+						
+					
+					
+						<li>
+
+
+	
+		<ul class='ipsTags ipsTags_inline ipsList_inline  ipsGap:1 ipsGap_row:0'>
+			
+				
+					
+						
+
+<li >
+	
+	<a href="https://homemasters.ru/tags/c%D1%82%D0%B5%D0%BD%D1%8B%20%D0%B8%D0%B7%20%D0%B3%D0%B8%D0%BF%D1%81%D0%BE%D0%BA%D0%B0%D1%80%D1%82%D0%BE%D0%BD%D0%B0/" class='ipsTag' title="Найти другой контент с тегом 'cтены из гипсокартона'" rel="tag"><span style="color:#4DC109">cтены из гипсокартона</span></a>
+	
+</li>
+					
+				
+					
+						
+
+<li >
+	
+	<a href="https://homemasters.ru/tags/%D1%88%D0%BF%D0%B0%D1%82%D0%BB%D0%B5%D0%B2%D0%BA%D0%B0%20%D1%81%D1%82%D0%B5%D0%BD/" class='ipsTag' title="Найти другой контент с тегом 'шпатлевка стен'" rel="tag"><span style="color:#068F95">шпатлевка стен</span></a>
+	
+</li>
+					
+				
+			
+			
+		</ul>
+	
+</li>
+					
+				</ul>
+			
+		
+	</div>
+</li>
+				
+				
+		
+	
+		
+			
+			
+			
+
+
+
+
+
+
+<li class='ipsStreamItem ipsStreamItem_contentBlock ipsStreamItem_expanded ipsAreaBackground_reset ipsPad   hmsStreamItem_forumsTopicPost' data-role='activityItem' data-timestamp='1614530127'>
+	<div class='ipsStreamItem_container ipsClearfix'>
+		
+			
+			<div class='ipsStreamItem_header ipsPhotoPanel ipsPhotoPanel_mini'>
+				
+					<span class='ipsStreamItem_contentType' data-ipsTooltip title='Сообщение'><i class='fa fa-comment'></i></span>
+				
+				
+
+	<a href="https://homemasters.ru/profile/118869-irina-rumjanceva/" data-ipsHover data-ipsHover-target="https://homemasters.ru/profile/118869-irina-rumjanceva/?do=hovercard" class="ipsUserPhoto ipsUserPhoto_mini" title="Перейти в профиль Ирина Румянцева">
+		<img src='https://homemasters.ru/uploads/profiles/monthly_2021_02/Lq2MvLdXfN0.thumb.jpg.2e7c51d47d3543b4d34ff016cccd445a.jpg' alt='Ирина Румянцева'>
+	</a>
+
+				<div class='ipsStreamItem_unread'>
+					
+					<h2 class='ipsType_reset ipsStreamItem_title ipsContained_container ipsStreamItem_titleSmall'>
+						
+							<span>
+								<a href='https://homemasters.ru/forums/topic/30450-vybor-jelektricheskogo-duhovogo-shkafa/?do=getNewComment' data-linkType="star"  title='Перейти к первому непрочитанному сообщению' data-ipsTooltip>
+									<span class='ipsItemStatus '><i class="fa fa-circle"></i></span>
+								</a>
+							</span>
+						
+						
+						<span class='ipsType_break ipsContained'>
+							<a href='https://homemasters.ru/forums/topic/30450-vybor-jelektricheskogo-duhovogo-shkafa/?do=getNewComment' data-linkType="link" data-searchable> Выбор электрического духового шкафа</a>
+						</span>
+						
+					</h2>
+					
+						<p class='ipsType_reset ipsStreamItem_status ipsType_blendLinks'>
+							
+<a href='https://homemasters.ru/profile/118869-irina-rumjanceva/' data-ipsHover data-ipsHover-target='https://homemasters.ru/profile/118869-irina-rumjanceva/?do=hovercard' title="Перейти в профиль Ирина Румянцева" class="ipsType_break"><span style='color:#86aecc'>Ирина Румянцева</span></a> ответил(а)  в теме 
+<a href='https://homemasters.ru/profile/87012-andyxab/' data-ipsHover data-ipsHover-target='https://homemasters.ru/profile/87012-andyxab/?do=hovercard' title="Перейти в профиль andyxab" class="ipsType_break"><span style='color:#0c849f'>andyxab</span></a> в разделе <a href='https://homemasters.ru/forums/forum-18-bytovaya-tehnika-i-elektronika/'>Бытовая техника и электроника</a>
+						</p>
+					
+					
+
+					
+				</div>
+			</div>
+			
+				<div class='ipsStreamItem_snippet ipsType_break'>
+					
+					 	
+
+	<div class="ipsType_richText ipsContained ipsType_medium">
+		<div data-ipstruncate data-ipstruncate-type="remove" data-ipstruncate-size="3 lines" data-ipstruncate-watch="false" >
+			у меня стоит горенье и я довольна работой дш и так же варочной поверхности, духовка прекрасно работает и имеет полный функционал, тут наверно дело уже в денежном вашем решении
+		</div>
+	</div>
+
+					
+				</div>
+				<ul class='ipsList_inline ipsStreamItem_meta ipsGap:1'>
+					<li class='ipsType_light ipsType_medium'>
+						<a href='https://homemasters.ru/forums/topic/30450-vybor-jelektricheskogo-duhovogo-shkafa/?do=findComment&amp;comment=416076' class='ipsType_blendLinks'><i class='fa fa-clock-o'></i> <time datetime='2021-02-28T16:35:27Z' title='28.02.2021 16:35 ' data-short='1 дн'>Вчера в 16:35</time></a>
+					</li>
+					
+						<li class='ipsType_light ipsType_medium'>
+							<a href='https://homemasters.ru/forums/topic/30450-vybor-jelektricheskogo-duhovogo-shkafa/?do=findComment&amp;comment=416076' class='ipsType_blendLinks'>
+								
+									<i class='fa fa-comment'></i> 9 ответов
+								
+							</a>
+						</li>
+					
+					
+					
+						<li>
+
+
+	
+		<ul class='ipsTags ipsTags_inline ipsList_inline  ipsGap:1 ipsGap_row:0'>
+			
+				
+					
+						
+
+<li >
+	
+	<a href="https://homemasters.ru/tags/%D0%B4%D1%83%D1%85%D0%BE%D0%B2%D0%BA%D0%B0/" class='ipsTag' title="Найти другой контент с тегом 'духовка'" rel="tag"><span style="color:#2B7F73">духовка</span></a>
+	
+</li>
+					
+				
+					
+						
+
+<li >
+	
+	<a href="https://homemasters.ru/tags/%D0%B2%D1%8B%D0%B1%D0%BE%D1%80%20%D0%B4%D1%83%D1%85%D0%BE%D0%B2%D0%BA%D0%B8/" class='ipsTag' title="Найти другой контент с тегом 'выбор духовки'" rel="tag"><span style="color:#2E634C">выбор духовки</span></a>
+	
+</li>
+					
+				
+					
+				
+					
+				
+			
+			
+				<li class='ipsType_small'>
+					<span class='ipsType_light ipsCursor_pointer' data-ipsMenu id='elTags_85878296'>( и ещё 2 ) <i class='fa fa-caret-down ipsJS_show'></i></span>
+					<div class='ipsHide ipsMenu ipsMenu_normal ipsPad_half cTagPopup' id='elTags_85878296_menu'>
+						<p class='ipsType_medium ipsType_reset ipsType_light'>C тегом:</p>
+						<ul class='ipsTags ipsList_inline ipsGap:1'>
+							
+								
+
+<li >
+	
+	<a href="https://homemasters.ru/tags/%D0%B4%D1%83%D1%85%D0%BE%D0%B2%D0%BA%D0%B0/" class='ipsTag' title="Найти другой контент с тегом 'духовка'" rel="tag"><span style="color:#845882">духовка</span></a>
+	
+</li>
+							
+								
+
+<li >
+	
+	<a href="https://homemasters.ru/tags/%D0%B2%D1%8B%D0%B1%D0%BE%D1%80%20%D0%B4%D1%83%D1%85%D0%BE%D0%B2%D0%BA%D0%B8/" class='ipsTag' title="Найти другой контент с тегом 'выбор духовки'" rel="tag"><span style="color:#2910A4">выбор духовки</span></a>
+	
+</li>
+							
+								
+
+<li >
+	
+	<a href="https://homemasters.ru/tags/%D0%B4%D1%83%D1%85%D0%BE%D0%B2%D0%BE%D0%B9%20%D1%88%D0%BA%D0%B0%D1%84/" class='ipsTag' title="Найти другой контент с тегом 'духовой шкаф'" rel="tag"><span style="color:#384E49">духовой шкаф</span></a>
+	
+</li>
+							
+								
+
+<li >
+	
+	<a href="https://homemasters.ru/tags/%D0%B2%D1%8B%D0%B1%D0%BE%D1%80%20%D0%B4%D1%83%D1%85%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE%20%D1%88%D0%BA%D0%B0%D1%84%D0%B0/" class='ipsTag' title="Найти другой контент с тегом 'выбор духового шкафа'" rel="tag"><span style="color:#7D780E">выбор духового шкафа</span></a>
+	
+</li>
+							
+						</ul>
+					</div>
+				</li>
+			
+		</ul>
+	
+</li>
+					
+				</ul>
+			
+		
+	</div>
+</li>
+				
+				
+		
+	
+		
+			
+			
+			
+
+
+
+
+
+
+<li class='ipsStreamItem ipsStreamItem_contentBlock ipsStreamItem_expanded ipsAreaBackground_reset ipsPad   hmsStreamItem_forumsTopicPost' data-role='activityItem' data-timestamp='1614530028'>
+	<div class='ipsStreamItem_container ipsClearfix'>
+		
+			
+			<div class='ipsStreamItem_header ipsPhotoPanel ipsPhotoPanel_mini'>
+				
+					<span class='ipsStreamItem_contentType' data-ipsTooltip title='Сообщение'><i class='fa fa-comment'></i></span>
+				
+				
+
+	<a href="https://homemasters.ru/profile/118869-irina-rumjanceva/" data-ipsHover data-ipsHover-target="https://homemasters.ru/profile/118869-irina-rumjanceva/?do=hovercard" class="ipsUserPhoto ipsUserPhoto_mini" title="Перейти в профиль Ирина Румянцева">
+		<img src='https://homemasters.ru/uploads/profiles/monthly_2021_02/Lq2MvLdXfN0.thumb.jpg.2e7c51d47d3543b4d34ff016cccd445a.jpg' alt='Ирина Румянцева'>
+	</a>
+
+				<div class='ipsStreamItem_unread'>
+					
+					<h2 class='ipsType_reset ipsStreamItem_title ipsContained_container ipsStreamItem_titleSmall'>
+						
+							<span>
+								<a href='https://homemasters.ru/forums/topic/18844-vybor-pylesosa/?do=getNewComment' data-linkType="star"  title='Перейти к первому непрочитанному сообщению' data-ipsTooltip>
+									<span class='ipsItemStatus '><i class="fa fa-circle"></i></span>
+								</a>
+							</span>
+						
+						
+						<span class='ipsType_break ipsContained'>
+							<a href='https://homemasters.ru/forums/topic/18844-vybor-pylesosa/?do=getNewComment' data-linkType="link" data-searchable> Выбор пылесоса</a>
+						</span>
+						
+					</h2>
+					
+						<p class='ipsType_reset ipsStreamItem_status ipsType_blendLinks'>
+							
+<a href='https://homemasters.ru/profile/118869-irina-rumjanceva/' data-ipsHover data-ipsHover-target='https://homemasters.ru/profile/118869-irina-rumjanceva/?do=hovercard' title="Перейти в профиль Ирина Румянцева" class="ipsType_break"><span style='color:#86aecc'>Ирина Румянцева</span></a> ответил(а)  в теме 
+<a href='https://homemasters.ru/profile/34154-max_fox/' data-ipsHover data-ipsHover-target='https://homemasters.ru/profile/34154-max_fox/?do=hovercard' title="Перейти в профиль max_fox" class="ipsType_break"><span style='color:#33399e'>max_fox</span></a> в разделе <a href='https://homemasters.ru/forums/forum-18-bytovaya-tehnika-i-elektronika/'>Бытовая техника и электроника</a>
+						</p>
+					
+					
+
+					
+				</div>
+			</div>
+			
+				<div class='ipsStreamItem_snippet ipsType_break'>
+					
+					 	
+
+	<div class="ipsType_richText ipsContained ipsType_medium">
+		<div data-ipstruncate data-ipstruncate-type="remove" data-ipstruncate-size="3 lines" data-ipstruncate-watch="false" >
+			пол года назад купила пылесос,  тоже очень довольна результатом, так еще он от аккумулятора работает и не нужно таскать за собой шнур, муж даже сам стал пылесосить салон в машине
+		</div>
+	</div>
+
+					
+				</div>
+				<ul class='ipsList_inline ipsStreamItem_meta ipsGap:1'>
+					<li class='ipsType_light ipsType_medium'>
+						<a href='https://homemasters.ru/forums/topic/18844-vybor-pylesosa/?do=findComment&amp;comment=416075' class='ipsType_blendLinks'><i class='fa fa-clock-o'></i> <time datetime='2021-02-28T16:33:48Z' title='28.02.2021 16:33 ' data-short='1 дн'>Вчера в 16:33</time></a>
+					</li>
+					
+						<li class='ipsType_light ipsType_medium'>
+							<a href='https://homemasters.ru/forums/topic/18844-vybor-pylesosa/?do=findComment&amp;comment=416075' class='ipsType_blendLinks'>
+								
+									<i class='fa fa-comment'></i> 157 ответов
+								
+							</a>
+						</li>
+					
+					
+					
+						<li>
+
+
+	
+		<ul class='ipsTags ipsTags_inline ipsList_inline  ipsGap:1 ipsGap_row:0'>
+			
+				
+					
+						
+
+<li >
+	
+	<a href="https://homemasters.ru/tags/%D0%B2%D1%8B%D0%B1%D0%BE%D1%80%20%D0%BF%D1%8B%D0%BB%D0%B5%D1%81%D0%BE%D1%81%D0%B0/" class='ipsTag' title="Найти другой контент с тегом 'выбор пылесоса'" rel="tag"><span style="color:#B8988A">выбор пылесоса</span></a>
+	
+</li>
+					
+				
+					
+						
+
+<li >
+	
+	<a href="https://homemasters.ru/tags/%D0%BF%D1%8B%D0%BB%D0%B5%D1%81%D0%BE%D1%81/" class='ipsTag' title="Найти другой контент с тегом 'пылесос'" rel="tag"><span style="color:#1C1A69">пылесос</span></a>
+	
+</li>
+					
+				
+			
+			
+		</ul>
+	
+</li>
+					
+				</ul>
+			
+		
+	</div>
+</li>
+				
+				
+					
+
+<!--noindex-->
+<div id="advertYandexContent4x2">
+	<!-- Рекомендательный виджет Яндекс -->
+	<script>
+		if ( rtbW >= 768 ){ var blockId = "2031-21"; }
+		if ( rtbW >= 481 && rtbW <= 767 ){ var blockId = "2031-22"; }
+		if ( rtbW <= 480 ){ var blockId = "2031-23"; }
+		(yaads = window.yaads || []).push({
+			id: blockId,
+			render: "#yandexContent_603d445d67775"
+		});
+	</script>
+	<div id="yandexContent_603d445d67775"></div>
+</div>
+<!--/noindex-->
+				
+		
+	
+		
+			
+			
+			
+
+
+
+
+
+
+<li class='ipsStreamItem ipsStreamItem_contentBlock ipsStreamItem_expanded ipsAreaBackground_reset ipsPad   hmsStreamItem_forumsTopicPost' data-role='activityItem' data-timestamp='1614529874'>
+	<div class='ipsStreamItem_container ipsClearfix'>
+		
+			
+			<div class='ipsStreamItem_header ipsPhotoPanel ipsPhotoPanel_mini'>
+				
+					<span class='ipsStreamItem_contentType' data-ipsTooltip title='Сообщение'><i class='fa fa-comment'></i></span>
+				
+				
+
+	<a href="https://homemasters.ru/profile/118869-irina-rumjanceva/" data-ipsHover data-ipsHover-target="https://homemasters.ru/profile/118869-irina-rumjanceva/?do=hovercard" class="ipsUserPhoto ipsUserPhoto_mini" title="Перейти в профиль Ирина Румянцева">
+		<img src='https://homemasters.ru/uploads/profiles/monthly_2021_02/Lq2MvLdXfN0.thumb.jpg.2e7c51d47d3543b4d34ff016cccd445a.jpg' alt='Ирина Румянцева'>
+	</a>
+
+				<div class='ipsStreamItem_unread'>
+					
+					<h2 class='ipsType_reset ipsStreamItem_title ipsContained_container ipsStreamItem_titleSmall'>
+						
+							<span>
+								<a href='https://homemasters.ru/forums/topic/35692-chem-zashhitit-nalichnik-dveri-ot-kota/?do=getNewComment' data-linkType="star"  title='Перейти к первому непрочитанному сообщению' data-ipsTooltip>
+									<span class='ipsItemStatus '><i class="fa fa-circle"></i></span>
+								</a>
+							</span>
+						
+						
+						<span class='ipsType_break ipsContained'>
+							<a href='https://homemasters.ru/forums/topic/35692-chem-zashhitit-nalichnik-dveri-ot-kota/?do=getNewComment' data-linkType="link" data-searchable> Чем защитить наличник двери от кота ?</a>
+						</span>
+						
+					</h2>
+					
+						<p class='ipsType_reset ipsStreamItem_status ipsType_blendLinks'>
+							
+<a href='https://homemasters.ru/profile/118869-irina-rumjanceva/' data-ipsHover data-ipsHover-target='https://homemasters.ru/profile/118869-irina-rumjanceva/?do=hovercard' title="Перейти в профиль Ирина Румянцева" class="ipsType_break"><span style='color:#86aecc'>Ирина Румянцева</span></a> ответил(а)  в теме 
+<a href='https://homemasters.ru/profile/118776-sergei_bk/' data-ipsHover data-ipsHover-target='https://homemasters.ru/profile/118776-sergei_bk/?do=hovercard' title="Перейти в профиль Sergei_bk" class="ipsType_break"><span style='color:#86aecc'>Sergei_bk</span></a> в разделе <a href='https://homemasters.ru/forums/forum-16-dveri-okna-zamki/'>Двери, окна, замки</a>
+						</p>
+					
+					
+
+					
+				</div>
+			</div>
+			
+				<div class='ipsStreamItem_snippet ipsType_break'>
+					
+					 	
+
+	<div class="ipsType_richText ipsContained ipsType_medium">
+		<div data-ipstruncate data-ipstruncate-type="remove" data-ipstruncate-size="3 lines" data-ipstruncate-watch="false" >
+			у кого данные спреи работают? я сколько не покупала разных фирм, ни одна не справлялась, а насчет " драть мебель",это лучше к когтеточки приучать с самого детства и потом не страдать
+		</div>
+	</div>
+
+					
+				</div>
+				<ul class='ipsList_inline ipsStreamItem_meta ipsGap:1'>
+					<li class='ipsType_light ipsType_medium'>
+						<a href='https://homemasters.ru/forums/topic/35692-chem-zashhitit-nalichnik-dveri-ot-kota/?do=findComment&amp;comment=416074' class='ipsType_blendLinks'><i class='fa fa-clock-o'></i> <time datetime='2021-02-28T16:31:14Z' title='28.02.2021 16:31 ' data-short='1 дн'>Вчера в 16:31</time></a>
+					</li>
+					
+						<li class='ipsType_light ipsType_medium'>
+							<a href='https://homemasters.ru/forums/topic/35692-chem-zashhitit-nalichnik-dveri-ot-kota/?do=findComment&amp;comment=416074' class='ipsType_blendLinks'>
+								
+									<i class='fa fa-comment'></i> 10 ответов
+								
+							</a>
+						</li>
+					
+					
+					
+						<li>
+
+
+	
+		<ul class='ipsTags ipsTags_inline ipsList_inline  ipsGap:1 ipsGap_row:0'>
+			
+				
+					
+						
+
+<li >
+	
+	<a href="https://homemasters.ru/tags/%D0%BA%D0%BE%D0%B3%D1%82%D0%B5%D1%82%D0%BE%D1%87%D0%BA%D0%B0/" class='ipsTag' title="Найти другой контент с тегом 'когтеточка'" rel="tag"><span style="color:#B06AC0">когтеточка</span></a>
+	
+</li>
+					
+				
+					
+						
+
+<li >
+	
+	<a href="https://homemasters.ru/tags/%D0%BD%D0%B0%D0%BB%D0%B8%D1%87%D0%BD%D0%B8%D0%BA%D0%B8%20%D0%B4%D0%B2%D0%B5%D1%80%D0%B5%D0%B9/" class='ipsTag' title="Найти другой контент с тегом 'наличники дверей'" rel="tag"><span style="color:#9E3350">наличники дверей</span></a>
+	
+</li>
+					
+				
+			
+			
+		</ul>
+	
+</li>
+					
+				</ul>
+			
+		
+	</div>
+</li>
+				
+				
+		
+	
+		
+			
+			
+			
+
+
+
+
+
+
+<li class='ipsStreamItem ipsStreamItem_contentBlock ipsStreamItem_expanded ipsAreaBackground_reset ipsPad   hmsStreamItem_forumsTopicPost' data-role='activityItem' data-timestamp='1614529754'>
+	<div class='ipsStreamItem_container ipsClearfix'>
+		
+			
+			<div class='ipsStreamItem_header ipsPhotoPanel ipsPhotoPanel_mini'>
+				
+					<span class='ipsStreamItem_contentType' data-ipsTooltip title='Сообщение'><i class='fa fa-comment'></i></span>
+				
+				
+
+	<a href="https://homemasters.ru/profile/118869-irina-rumjanceva/" data-ipsHover data-ipsHover-target="https://homemasters.ru/profile/118869-irina-rumjanceva/?do=hovercard" class="ipsUserPhoto ipsUserPhoto_mini" title="Перейти в профиль Ирина Румянцева">
+		<img src='https://homemasters.ru/uploads/profiles/monthly_2021_02/Lq2MvLdXfN0.thumb.jpg.2e7c51d47d3543b4d34ff016cccd445a.jpg' alt='Ирина Румянцева'>
+	</a>
+
+				<div class='ipsStreamItem_unread'>
+					
+					<h2 class='ipsType_reset ipsStreamItem_title ipsContained_container ipsStreamItem_titleSmall'>
+						
+							<span>
+								<a href='https://homemasters.ru/forums/topic/17215-mezhkomnatnye-dveri-otzyvy/?do=getNewComment' data-linkType="star"  title='Перейти к первому непрочитанному сообщению' data-ipsTooltip>
+									<span class='ipsItemStatus '><i class="fa fa-circle"></i></span>
+								</a>
+							</span>
+						
+						
+						<span class='ipsType_break ipsContained'>
+							<a href='https://homemasters.ru/forums/topic/17215-mezhkomnatnye-dveri-otzyvy/?do=getNewComment' data-linkType="link" data-searchable> Межкомнатные двери, отзывы</a>
+						</span>
+						
+					</h2>
+					
+						<p class='ipsType_reset ipsStreamItem_status ipsType_blendLinks'>
+							
+<a href='https://homemasters.ru/profile/118869-irina-rumjanceva/' data-ipsHover data-ipsHover-target='https://homemasters.ru/profile/118869-irina-rumjanceva/?do=hovercard' title="Перейти в профиль Ирина Румянцева" class="ipsType_break"><span style='color:#86aecc'>Ирина Румянцева</span></a> ответил(а)  в теме 
+<a href='https://homemasters.ru/profile/72736-bulldober/' data-ipsHover data-ipsHover-target='https://homemasters.ru/profile/72736-bulldober/?do=hovercard' title="Перейти в профиль Bulldober" class="ipsType_break"><span style='color:#0c849f'>Bulldober</span></a> в разделе <a href='https://homemasters.ru/forums/forum-16-dveri-okna-zamki/'>Двери, окна, замки</a>
+						</p>
+					
+					
+
+					
+				</div>
+			</div>
+			
+				<div class='ipsStreamItem_snippet ipsType_break'>
+					
+					 	
+
+	<div class="ipsType_richText ipsContained ipsType_medium">
+		<div data-ipstruncate data-ipstruncate-type="remove" data-ipstruncate-size="3 lines" data-ipstruncate-watch="false" >
+			какие лучше брать дверные ручки, прошлый быстро затираются, хотя каждая стоила в районе 3тр, хотя может это и не дорого, но может порекомендуете фирму
+		</div>
+	</div>
+
+					
+				</div>
+				<ul class='ipsList_inline ipsStreamItem_meta ipsGap:1'>
+					<li class='ipsType_light ipsType_medium'>
+						<a href='https://homemasters.ru/forums/topic/17215-mezhkomnatnye-dveri-otzyvy/?do=findComment&amp;comment=416073' class='ipsType_blendLinks'><i class='fa fa-clock-o'></i> <time datetime='2021-02-28T16:29:14Z' title='28.02.2021 16:29 ' data-short='1 дн'>Вчера в 16:29</time></a>
+					</li>
+					
+						<li class='ipsType_light ipsType_medium'>
+							<a href='https://homemasters.ru/forums/topic/17215-mezhkomnatnye-dveri-otzyvy/?do=findComment&amp;comment=416073' class='ipsType_blendLinks'>
+								
+									<i class='fa fa-comment'></i> 29 ответов
+								
+							</a>
+						</li>
+					
+					
+					
+						<li>
+
+
+	
+		<ul class='ipsTags ipsTags_inline ipsList_inline  ipsGap:1 ipsGap_row:0'>
+			
+				
+					
+						
+
+<li >
+	
+	<a href="https://homemasters.ru/tags/%D0%BC%D0%B5%D0%B6%D0%BA%D0%BE%D0%BC%D0%BD%D0%B0%D1%82%D0%BD%D1%8B%D0%B5%20%D0%B4%D0%B2%D0%B5%D1%80%D0%B8/" class='ipsTag' title="Найти другой контент с тегом 'межкомнатные двери'" rel="tag"><span style="color:#83B333">межкомнатные двери</span></a>
+	
+</li>
+					
+				
+			
+			
+		</ul>
+	
+</li>
+					
+				</ul>
+			
+		
+	</div>
+</li>
+				
+				
+		
+	
+		
+			
+			
+			
+
+
+
+
+
+
+<li class='ipsStreamItem ipsStreamItem_contentBlock ipsStreamItem_expanded ipsAreaBackground_reset ipsPad   hmsStreamItem_forumsTopicPost' data-role='activityItem' data-timestamp='1614528721'>
+	<div class='ipsStreamItem_container ipsClearfix'>
+		
+			
+			<div class='ipsStreamItem_header ipsPhotoPanel ipsPhotoPanel_mini'>
+				
+					<span class='ipsStreamItem_contentType' data-ipsTooltip title='Сообщение'><i class='fa fa-comment'></i></span>
+				
+				
+
+	<a href="https://homemasters.ru/profile/118869-irina-rumjanceva/" data-ipsHover data-ipsHover-target="https://homemasters.ru/profile/118869-irina-rumjanceva/?do=hovercard" class="ipsUserPhoto ipsUserPhoto_mini" title="Перейти в профиль Ирина Румянцева">
+		<img src='https://homemasters.ru/uploads/profiles/monthly_2021_02/Lq2MvLdXfN0.thumb.jpg.2e7c51d47d3543b4d34ff016cccd445a.jpg' alt='Ирина Румянцева'>
+	</a>
+
+				<div class='ipsStreamItem_unread'>
+					
+					<h2 class='ipsType_reset ipsStreamItem_title ipsContained_container ipsStreamItem_titleSmall'>
+						
+							<span>
+								<a href='https://homemasters.ru/forums/topic/35636-divan-na-kuhnju-na-kotorom-udobno-sidet-za-stolom/?do=getNewComment' data-linkType="star"  title='Перейти к первому непрочитанному сообщению' data-ipsTooltip>
+									<span class='ipsItemStatus '><i class="fa fa-circle"></i></span>
+								</a>
+							</span>
+						
+						
+						<span class='ipsType_break ipsContained'>
+							<a href='https://homemasters.ru/forums/topic/35636-divan-na-kuhnju-na-kotorom-udobno-sidet-za-stolom/?do=getNewComment' data-linkType="link" data-searchable> Диван на кухню, на котором удобно сидеть за столом</a>
+						</span>
+						
+					</h2>
+					
+						<p class='ipsType_reset ipsStreamItem_status ipsType_blendLinks'>
+							
+<a href='https://homemasters.ru/profile/118869-irina-rumjanceva/' data-ipsHover data-ipsHover-target='https://homemasters.ru/profile/118869-irina-rumjanceva/?do=hovercard' title="Перейти в профиль Ирина Румянцева" class="ipsType_break"><span style='color:#86aecc'>Ирина Румянцева</span></a> ответил(а)  в теме 
+<a href='https://homemasters.ru/profile/118743-natalja-morozova/' data-ipsHover data-ipsHover-target='https://homemasters.ru/profile/118743-natalja-morozova/?do=hovercard' title="Перейти в профиль Наталья Морозова" class="ipsType_break"><span style='color:#0c849f'>Наталья Морозова</span></a> в разделе <a href='https://homemasters.ru/forums/forum-9-mebel-i-dizain-interera/'>Мебель и дизайн интерьера</a>
+						</p>
+					
+					
+
+					
+				</div>
+			</div>
+			
+				<div class='ipsStreamItem_snippet ipsType_break'>
+					
+					 	
+
+	<div class="ipsType_richText ipsContained ipsType_medium">
+		<div data-ipstruncate data-ipstruncate-type="remove" data-ipstruncate-size="3 lines" data-ipstruncate-watch="false" >
+			Мне казалось диванчики или кухонные уголки уже отошли от моды и мало функциональны, только много площади занимают. Конечно,это мое мнение, у меня на кухне был опыт с небольшим диванчиком и это совсем не удобно даже для уборки.
+		</div>
+	</div>
+
+					
+				</div>
+				<ul class='ipsList_inline ipsStreamItem_meta ipsGap:1'>
+					<li class='ipsType_light ipsType_medium'>
+						<a href='https://homemasters.ru/forums/topic/35636-divan-na-kuhnju-na-kotorom-udobno-sidet-za-stolom/?do=findComment&amp;comment=416072' class='ipsType_blendLinks'><i class='fa fa-clock-o'></i> <time datetime='2021-02-28T16:12:01Z' title='28.02.2021 16:12 ' data-short='1 дн'>Вчера в 16:12</time></a>
+					</li>
+					
+						<li class='ipsType_light ipsType_medium'>
+							<a href='https://homemasters.ru/forums/topic/35636-divan-na-kuhnju-na-kotorom-udobno-sidet-za-stolom/?do=findComment&amp;comment=416072' class='ipsType_blendLinks'>
+								
+									<i class='fa fa-comment'></i> 15 ответов
+								
+							</a>
+						</li>
+					
+					
+					
+						<li>
+
+
+	
+		<ul class='ipsTags ipsTags_inline ipsList_inline  ipsGap:1 ipsGap_row:0'>
+			
+				
+					
+						
+
+<li >
+	
+	<a href="https://homemasters.ru/tags/%D0%B4%D0%B8%D0%B2%D0%B0%D0%BD%20%D0%BD%D0%B0%20%D0%BA%D1%83%D1%85%D0%BD%D1%8E/" class='ipsTag' title="Найти другой контент с тегом 'диван на кухню'" rel="tag"><span style="color:#BC001D">диван на кухню</span></a>
+	
+</li>
+					
+				
+			
+			
+		</ul>
+	
+</li>
+					
+				</ul>
+			
+		
+	</div>
+</li>
+				
+				
+		
+	
+		
+			
+			
+			
+
+
+
+
+
+
+<li class='ipsStreamItem ipsStreamItem_contentBlock ipsStreamItem_expanded ipsAreaBackground_reset ipsPad   hmsStreamItem_forumsTopicPost' data-role='activityItem' data-timestamp='1614528595'>
+	<div class='ipsStreamItem_container ipsClearfix'>
+		
+			
+			<div class='ipsStreamItem_header ipsPhotoPanel ipsPhotoPanel_mini'>
+				
+					<span class='ipsStreamItem_contentType' data-ipsTooltip title='Сообщение'><i class='fa fa-comment'></i></span>
+				
+				
+
+	<a href="https://homemasters.ru/profile/118869-irina-rumjanceva/" data-ipsHover data-ipsHover-target="https://homemasters.ru/profile/118869-irina-rumjanceva/?do=hovercard" class="ipsUserPhoto ipsUserPhoto_mini" title="Перейти в профиль Ирина Румянцева">
+		<img src='https://homemasters.ru/uploads/profiles/monthly_2021_02/Lq2MvLdXfN0.thumb.jpg.2e7c51d47d3543b4d34ff016cccd445a.jpg' alt='Ирина Румянцева'>
+	</a>
+
+				<div class='ipsStreamItem_unread'>
+					
+					<h2 class='ipsType_reset ipsStreamItem_title ipsContained_container ipsStreamItem_titleSmall'>
+						
+							<span>
+								<a href='https://homemasters.ru/forums/topic/31402-malenkaja-kvartira-obustroit-kuhnju/?do=getNewComment' data-linkType="star"  title='Перейти к первому непрочитанному сообщению' data-ipsTooltip>
+									<span class='ipsItemStatus '><i class="fa fa-circle"></i></span>
+								</a>
+							</span>
+						
+						
+						<span class='ipsType_break ipsContained'>
+							<a href='https://homemasters.ru/forums/topic/31402-malenkaja-kvartira-obustroit-kuhnju/?do=getNewComment' data-linkType="link" data-searchable> Маленькая квартира, обустроить кухню</a>
+						</span>
+						
+					</h2>
+					
+						<p class='ipsType_reset ipsStreamItem_status ipsType_blendLinks'>
+							
+<a href='https://homemasters.ru/profile/118869-irina-rumjanceva/' data-ipsHover data-ipsHover-target='https://homemasters.ru/profile/118869-irina-rumjanceva/?do=hovercard' title="Перейти в профиль Ирина Румянцева" class="ipsType_break"><span style='color:#86aecc'>Ирина Румянцева</span></a> ответил(а)  в теме 
+<a href='https://homemasters.ru/profile/116811-anastasiya2005/' data-ipsHover data-ipsHover-target='https://homemasters.ru/profile/116811-anastasiya2005/?do=hovercard' title="Перейти в профиль Анастасия2005" class="ipsType_break"><span style='color:#0c849f'>Анастасия2005</span></a> в разделе <a href='https://homemasters.ru/forums/forum-9-mebel-i-dizain-interera/'>Мебель и дизайн интерьера</a>
+						</p>
+					
+					
+
+					
+				</div>
+			</div>
+			
+				<div class='ipsStreamItem_snippet ipsType_break'>
+					
+					 	
+
+	<div class="ipsType_richText ipsContained ipsType_medium">
+		<div data-ipstruncate data-ipstruncate-type="remove" data-ipstruncate-size="3 lines" data-ipstruncate-watch="false" >
+			Мне понравилось, что стиральная машина встроена в шкаф,это выглядит аккуратно и многообещающи по сохранению пространства
+		</div>
+	</div>
+
+					
+				</div>
+				<ul class='ipsList_inline ipsStreamItem_meta ipsGap:1'>
+					<li class='ipsType_light ipsType_medium'>
+						<a href='https://homemasters.ru/forums/topic/31402-malenkaja-kvartira-obustroit-kuhnju/?do=findComment&amp;comment=416071' class='ipsType_blendLinks'><i class='fa fa-clock-o'></i> <time datetime='2021-02-28T16:09:55Z' title='28.02.2021 16:09 ' data-short='1 дн'>Вчера в 16:09</time></a>
+					</li>
+					
+						<li class='ipsType_light ipsType_medium'>
+							<a href='https://homemasters.ru/forums/topic/31402-malenkaja-kvartira-obustroit-kuhnju/?do=findComment&amp;comment=416071' class='ipsType_blendLinks'>
+								
+									<i class='fa fa-comment'></i> 104 ответа
+								
+							</a>
+						</li>
+					
+					
+					
+						<li>
+
+
+	
+		<ul class='ipsTags ipsTags_inline ipsList_inline  ipsGap:1 ipsGap_row:0'>
+			
+				
+					
+						
+
+<li >
+	
+	<a href="https://homemasters.ru/tags/%D0%BC%D0%B0%D0%BB%D0%B5%D0%BD%D1%8C%D0%BA%D0%B0%D1%8F%20%D0%BA%D0%B2%D0%B0%D1%80%D0%B8%D1%80%D0%B0/" class='ipsTag' title="Найти другой контент с тегом 'маленькая кварира'" rel="tag"><span style="color:#C35747">маленькая кварира</span></a>
+	
+</li>
+					
+				
+					
+						
+
+<li >
+	
+	<a href="https://homemasters.ru/tags/%D0%BC%D0%B0%D0%BB%D0%B5%D0%BD%D1%8C%D0%BA%D0%B0%D1%8F%20%D0%BA%D1%83%D1%85%D0%BD%D1%8F/" class='ipsTag' title="Найти другой контент с тегом 'маленькая кухня'" rel="tag"><span style="color:#B98924">маленькая кухня</span></a>
+	
+</li>
+					
+				
+					
+				
+			
+			
+				<li class='ipsType_small'>
+					<span class='ipsType_light ipsCursor_pointer' data-ipsMenu id='elTags_929902954'>( и ещё 1 ) <i class='fa fa-caret-down ipsJS_show'></i></span>
+					<div class='ipsHide ipsMenu ipsMenu_normal ipsPad_half cTagPopup' id='elTags_929902954_menu'>
+						<p class='ipsType_medium ipsType_reset ipsType_light'>C тегом:</p>
+						<ul class='ipsTags ipsList_inline ipsGap:1'>
+							
+								
+
+<li >
+	
+	<a href="https://homemasters.ru/tags/%D0%BC%D0%B0%D0%BB%D0%B5%D0%BD%D1%8C%D0%BA%D0%B0%D1%8F%20%D0%BA%D0%B2%D0%B0%D1%80%D0%B8%D1%80%D0%B0/" class='ipsTag' title="Найти другой контент с тегом 'маленькая кварира'" rel="tag"><span style="color:#214A46">маленькая кварира</span></a>
+	
+</li>
+							
+								
+
+<li >
+	
+	<a href="https://homemasters.ru/tags/%D0%BC%D0%B0%D0%BB%D0%B5%D0%BD%D1%8C%D0%BA%D0%B0%D1%8F%20%D0%BA%D1%83%D1%85%D0%BD%D1%8F/" class='ipsTag' title="Найти другой контент с тегом 'маленькая кухня'" rel="tag"><span style="color:#A81750">маленькая кухня</span></a>
+	
+</li>
+							
+								
+
+<li >
+	
+	<a href="https://homemasters.ru/tags/%D0%BE%D0%B1%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE%20%D0%BA%D1%83%D1%85%D0%BD%D0%B8/" class='ipsTag' title="Найти другой контент с тегом 'обустройство кухни'" rel="tag"><span style="color:#51C033">обустройство кухни</span></a>
+	
+</li>
+							
+						</ul>
+					</div>
+				</li>
+			
+		</ul>
+	
+</li>
+					
+				</ul>
+			
+		
+	</div>
+</li>
+				
+					
+
+
+<!--noindex-->
+<div id="hmsAdvertInStream_603d445d6c223" class="ipsType_center ipsSpacer_both">
+	<div id="yandexRtbInStream_603d445d6c223" class="yandex-adaptive"></div>
+	
+
+	
+		<script type="text/javascript">
+			/*<!-- Google Adsense In Article -->*/
+			document.getElementById("yandexRtbInStream_603d445d6c223").style.display = "block";
+			document.getElementById("yandexRtbInStream_603d445d6c223").style.boxShadow = "var(--box--boxShadow)";
+			var g = document.createElement("ins");
+			g.className = "adsbygoogle";
+			g.style.display = "block";
+			g.style.textAlign = "center";
+			g.setAttribute("data-ad-format", "fluid");
+			g.setAttribute("data-ad-layout", "in-article");
+			g.setAttribute("data-ad-client", "ca-pub-3696910648049715");
+			g.setAttribute("data-ad-slot", "7789981300");
+			document.getElementById("yandexRtbInStream_603d445d6c223").appendChild(g);
+			(adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+	
+</div>
+<!--/noindex-->
+				
+				
+		
+	
+		
+			
+			
+			
+
+
+
+
+
+
+<li class='ipsStreamItem ipsStreamItem_contentBlock ipsStreamItem_expanded ipsAreaBackground_reset ipsPad   hmsStreamItem_forumsTopicPost' data-role='activityItem' data-timestamp='1614527202'>
+	<div class='ipsStreamItem_container ipsClearfix'>
+		
+			
+			<div class='ipsStreamItem_header ipsPhotoPanel ipsPhotoPanel_mini'>
+				
+					<span class='ipsStreamItem_contentType' data-ipsTooltip title='Сообщение'><i class='fa fa-comment'></i></span>
+				
+				
+
+	<a href="https://homemasters.ru/profile/118869-irina-rumjanceva/" data-ipsHover data-ipsHover-target="https://homemasters.ru/profile/118869-irina-rumjanceva/?do=hovercard" class="ipsUserPhoto ipsUserPhoto_mini" title="Перейти в профиль Ирина Румянцева">
+		<img src='https://homemasters.ru/uploads/profiles/monthly_2021_02/Lq2MvLdXfN0.thumb.jpg.2e7c51d47d3543b4d34ff016cccd445a.jpg' alt='Ирина Румянцева'>
+	</a>
+
+				<div class='ipsStreamItem_unread'>
+					
+					<h2 class='ipsType_reset ipsStreamItem_title ipsContained_container ipsStreamItem_titleSmall'>
+						
+							<span>
+								<a href='https://homemasters.ru/forums/topic/35632-neobychnyj-karkas-shkafa-bokovye-stenki-iz-reek-i-dveri-iz-japonskih-shtorok/?do=getNewComment' data-linkType="star"  title='Перейти к первому непрочитанному сообщению' data-ipsTooltip>
+									<span class='ipsItemStatus '><i class="fa fa-circle"></i></span>
+								</a>
+							</span>
+						
+						
+						<span class='ipsType_break ipsContained'>
+							<a href='https://homemasters.ru/forums/topic/35632-neobychnyj-karkas-shkafa-bokovye-stenki-iz-reek-i-dveri-iz-japonskih-shtorok/?do=getNewComment' data-linkType="link" data-searchable> Необычный каркас шкафа (боковые стенки из реек) и двери из японских шторок</a>
+						</span>
+						
+					</h2>
+					
+						<p class='ipsType_reset ipsStreamItem_status ipsType_blendLinks'>
+							
+<a href='https://homemasters.ru/profile/118869-irina-rumjanceva/' data-ipsHover data-ipsHover-target='https://homemasters.ru/profile/118869-irina-rumjanceva/?do=hovercard' title="Перейти в профиль Ирина Румянцева" class="ipsType_break"><span style='color:#86aecc'>Ирина Румянцева</span></a> ответил(а)  в теме 
+<a href='https://homemasters.ru/profile/118743-natalja-morozova/' data-ipsHover data-ipsHover-target='https://homemasters.ru/profile/118743-natalja-morozova/?do=hovercard' title="Перейти в профиль Наталья Морозова" class="ipsType_break"><span style='color:#0c849f'>Наталья Морозова</span></a> в разделе <a href='https://homemasters.ru/forums/forum-9-mebel-i-dizain-interera/'>Мебель и дизайн интерьера</a>
+						</p>
+					
+					
+
+					
+				</div>
+			</div>
+			
+				<div class='ipsStreamItem_snippet ipsType_break'>
+					
+					 	
+
+	<div class="ipsType_richText ipsContained ipsType_medium">
+		<div data-ipstruncate data-ipstruncate-type="remove" data-ipstruncate-size="3 lines" data-ipstruncate-watch="false" >
+			а насколько это вообще прочная конструкция? и вопрос к японским шторкам, удобно?
+		</div>
+	</div>
+
+					
+				</div>
+				<ul class='ipsList_inline ipsStreamItem_meta ipsGap:1'>
+					<li class='ipsType_light ipsType_medium'>
+						<a href='https://homemasters.ru/forums/topic/35632-neobychnyj-karkas-shkafa-bokovye-stenki-iz-reek-i-dveri-iz-japonskih-shtorok/?do=findComment&amp;comment=416070' class='ipsType_blendLinks'><i class='fa fa-clock-o'></i> <time datetime='2021-02-28T15:46:42Z' title='28.02.2021 15:46 ' data-short='1 дн'>Вчера в 15:46</time></a>
+					</li>
+					
+						<li class='ipsType_light ipsType_medium'>
+							<a href='https://homemasters.ru/forums/topic/35632-neobychnyj-karkas-shkafa-bokovye-stenki-iz-reek-i-dveri-iz-japonskih-shtorok/?do=findComment&amp;comment=416070' class='ipsType_blendLinks'>
+								
+									<i class='fa fa-comment'></i> 4 ответа
+								
+							</a>
+						</li>
+					
+					
+					
+						<li>
+
+
+	
+		<ul class='ipsTags ipsTags_inline ipsList_inline  ipsGap:1 ipsGap_row:0'>
+			
+				
+					
+						
+
+<li >
+	
+	<a href="https://homemasters.ru/tags/%D1%88%D0%BA%D0%B0%D1%84%20%D1%80%D0%B5%D0%B9%D0%BA%D0%B8/" class='ipsTag' title="Найти другой контент с тегом 'шкаф рейки'" rel="tag"><span style="color:#554178">шкаф рейки</span></a>
+	
+</li>
+					
+				
+			
+			
+		</ul>
+	
+</li>
+					
+				</ul>
+			
+		
+	</div>
+</li>
+				
+				
+		
+	
+		
+			
+			
+			
+
+
+
+
+
+
+<li class='ipsStreamItem ipsStreamItem_contentBlock ipsStreamItem_expanded ipsAreaBackground_reset ipsPad   hmsStreamItem_forumsTopicPost' data-role='activityItem' data-timestamp='1614527006'>
+	<div class='ipsStreamItem_container ipsClearfix'>
+		
+			
+			<div class='ipsStreamItem_header ipsPhotoPanel ipsPhotoPanel_mini'>
+				
+					<span class='ipsStreamItem_contentType' data-ipsTooltip title='Сообщение'><i class='fa fa-comment'></i></span>
+				
+				
+
+	<a href="https://homemasters.ru/profile/118869-irina-rumjanceva/" data-ipsHover data-ipsHover-target="https://homemasters.ru/profile/118869-irina-rumjanceva/?do=hovercard" class="ipsUserPhoto ipsUserPhoto_mini" title="Перейти в профиль Ирина Румянцева">
+		<img src='https://homemasters.ru/uploads/profiles/monthly_2021_02/Lq2MvLdXfN0.thumb.jpg.2e7c51d47d3543b4d34ff016cccd445a.jpg' alt='Ирина Румянцева'>
+	</a>
+
+				<div class='ipsStreamItem_unread'>
+					
+					<h2 class='ipsType_reset ipsStreamItem_title ipsContained_container ipsStreamItem_titleSmall'>
+						
+							<span>
+								<a href='https://homemasters.ru/forums/topic/33831-dizajn-sten-spalnja-gostinaja/?do=getNewComment' data-linkType="star"  title='Перейти к первому непрочитанному сообщению' data-ipsTooltip>
+									<span class='ipsItemStatus '><i class="fa fa-circle"></i></span>
+								</a>
+							</span>
+						
+						
+						<span class='ipsType_break ipsContained'>
+							<a href='https://homemasters.ru/forums/topic/33831-dizajn-sten-spalnja-gostinaja/?do=getNewComment' data-linkType="link" data-searchable> Дизайн стен спальня-гостиная</a>
+						</span>
+						
+					</h2>
+					
+						<p class='ipsType_reset ipsStreamItem_status ipsType_blendLinks'>
+							
+<a href='https://homemasters.ru/profile/118869-irina-rumjanceva/' data-ipsHover data-ipsHover-target='https://homemasters.ru/profile/118869-irina-rumjanceva/?do=hovercard' title="Перейти в профиль Ирина Румянцева" class="ipsType_break"><span style='color:#86aecc'>Ирина Румянцева</span></a> ответил(а)  в теме 
+<a href='https://homemasters.ru/profile/114521-lbvfcz5000/' data-ipsHover data-ipsHover-target='https://homemasters.ru/profile/114521-lbvfcz5000/?do=hovercard' title="Перейти в профиль lbvfcz5000" class="ipsType_break"><span style='color:#86aecc'>lbvfcz5000</span></a> в разделе <a href='https://homemasters.ru/forums/forum-9-mebel-i-dizain-interera/'>Мебель и дизайн интерьера</a>
+						</p>
+					
+					
+
+					
+				</div>
+			</div>
+			
+				<div class='ipsStreamItem_snippet ipsType_break'>
+					
+					 	
+
+	<div class="ipsType_richText ipsContained ipsType_medium">
+		<div data-ipstruncate data-ipstruncate-type="remove" data-ipstruncate-size="3 lines" data-ipstruncate-watch="false" >
+			у меня вопрос, у меня в комнате поклеины обои и я хотела бы покрасить стены, но стены были сделаны под подклейку до..... после того, как обои будут сняты, как подготовить стены под покраску и стоит ли оно того
+ 
+
+
+	или лучше...
+		</div>
+	</div>
+
+					
+				</div>
+				<ul class='ipsList_inline ipsStreamItem_meta ipsGap:1'>
+					<li class='ipsType_light ipsType_medium'>
+						<a href='https://homemasters.ru/forums/topic/33831-dizajn-sten-spalnja-gostinaja/?do=findComment&amp;comment=416069' class='ipsType_blendLinks'><i class='fa fa-clock-o'></i> <time datetime='2021-02-28T15:43:26Z' title='28.02.2021 15:43 ' data-short='1 дн'>Вчера в 15:43</time></a>
+					</li>
+					
+						<li class='ipsType_light ipsType_medium'>
+							<a href='https://homemasters.ru/forums/topic/33831-dizajn-sten-spalnja-gostinaja/?do=findComment&amp;comment=416069' class='ipsType_blendLinks'>
+								
+									<i class='fa fa-comment'></i> 9 ответов
+								
+							</a>
+						</li>
+					
+					
+					
+						<li>
+
+
+	
+		<ul class='ipsTags ipsTags_inline ipsList_inline  ipsGap:1 ipsGap_row:0'>
+			
+				
+					
+						
+
+<li >
+	
+	<a href="https://homemasters.ru/tags/%D0%B4%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%8C%D0%B5%D1%80%D0%B0/" class='ipsTag' title="Найти другой контент с тегом 'дизайн интерьера'" rel="tag"><span style="color:#2A0CB0">дизайн интерьера</span></a>
+	
+</li>
+					
+				
+			
+			
+		</ul>
+	
+</li>
+					
+				</ul>
+			
+		
+	</div>
+</li>
+				
+				
+		
+	
+		
+			
+			
+			
+
+
+
+
+
+
+<li class='ipsStreamItem ipsStreamItem_contentBlock ipsStreamItem_expanded ipsAreaBackground_reset ipsPad   hmsStreamItem_forumsTopicPost' data-role='activityItem' data-timestamp='1614526853'>
+	<div class='ipsStreamItem_container ipsClearfix'>
+		
+			
+			<div class='ipsStreamItem_header ipsPhotoPanel ipsPhotoPanel_mini'>
+				
+					<span class='ipsStreamItem_contentType' data-ipsTooltip title='Сообщение'><i class='fa fa-comment'></i></span>
+				
+				
+
+	<a href="https://homemasters.ru/profile/118869-irina-rumjanceva/" data-ipsHover data-ipsHover-target="https://homemasters.ru/profile/118869-irina-rumjanceva/?do=hovercard" class="ipsUserPhoto ipsUserPhoto_mini" title="Перейти в профиль Ирина Румянцева">
+		<img src='https://homemasters.ru/uploads/profiles/monthly_2021_02/Lq2MvLdXfN0.thumb.jpg.2e7c51d47d3543b4d34ff016cccd445a.jpg' alt='Ирина Румянцева'>
+	</a>
+
+				<div class='ipsStreamItem_unread'>
+					
+					<h2 class='ipsType_reset ipsStreamItem_title ipsContained_container ipsStreamItem_titleSmall'>
+						
+							<span>
+								<a href='https://homemasters.ru/forums/topic/35551-interer-v-hrushhevke/?do=getNewComment' data-linkType="star"  title='Перейти к первому непрочитанному сообщению' data-ipsTooltip>
+									<span class='ipsItemStatus '><i class="fa fa-circle"></i></span>
+								</a>
+							</span>
+						
+						
+						<span class='ipsType_break ipsContained'>
+							<a href='https://homemasters.ru/forums/topic/35551-interer-v-hrushhevke/?do=getNewComment' data-linkType="link" data-searchable> Интерьер в хрущевке</a>
+						</span>
+						
+					</h2>
+					
+						<p class='ipsType_reset ipsStreamItem_status ipsType_blendLinks'>
+							
+<a href='https://homemasters.ru/profile/118869-irina-rumjanceva/' data-ipsHover data-ipsHover-target='https://homemasters.ru/profile/118869-irina-rumjanceva/?do=hovercard' title="Перейти в профиль Ирина Румянцева" class="ipsType_break"><span style='color:#86aecc'>Ирина Румянцева</span></a> ответил(а)  в теме 
+<a href='https://homemasters.ru/profile/118558-maksim-illarionov/' data-ipsHover data-ipsHover-target='https://homemasters.ru/profile/118558-maksim-illarionov/?do=hovercard' title="Перейти в профиль Максим Илларионов" class="ipsType_break"><span style='color:#86aecc'>Максим Илларионов</span></a> в разделе <a href='https://homemasters.ru/forums/forum-9-mebel-i-dizain-interera/'>Мебель и дизайн интерьера</a>
+						</p>
+					
+					
+
+					
+				</div>
+			</div>
+			
+				<div class='ipsStreamItem_snippet ipsType_break'>
+					
+					 	
+
+	<div class="ipsType_richText ipsContained ipsType_medium">
+		<div data-ipstruncate data-ipstruncate-type="remove" data-ipstruncate-size="3 lines" data-ipstruncate-watch="false" >
+			большая у Вас квартира)) простор для воображения) я думаю, самый лучший способ это обратиться к дизайнеру, так как индивидуально из Ваших предпочтений, специалист распорядиться площадью куда более рационально чем советчики)) так как для каждого-свое
+		</div>
+	</div>
+
+					
+				</div>
+				<ul class='ipsList_inline ipsStreamItem_meta ipsGap:1'>
+					<li class='ipsType_light ipsType_medium'>
+						<a href='https://homemasters.ru/forums/topic/35551-interer-v-hrushhevke/?do=findComment&amp;comment=416068' class='ipsType_blendLinks'><i class='fa fa-clock-o'></i> <time datetime='2021-02-28T15:40:53Z' title='28.02.2021 15:40 ' data-short='1 дн'>Вчера в 15:40</time></a>
+					</li>
+					
+						<li class='ipsType_light ipsType_medium'>
+							<a href='https://homemasters.ru/forums/topic/35551-interer-v-hrushhevke/?do=findComment&amp;comment=416068' class='ipsType_blendLinks'>
+								
+									<i class='fa fa-comment'></i> 5 ответов
+								
+							</a>
+						</li>
+					
+					
+					
+						<li>
+
+
+	
+		<ul class='ipsTags ipsTags_inline ipsList_inline  ipsGap:1 ipsGap_row:0'>
+			
+				
+					
+						
+
+<li >
+	
+	<a href="https://homemasters.ru/tags/%D0%B4%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD%20%D0%B2%20%D1%85%D1%80%D1%83%D1%89%D0%B5%D0%B2%D0%BA%D0%B5/" class='ipsTag' title="Найти другой контент с тегом 'дизайн в хрущевке'" rel="tag"><span style="color:#69210C">дизайн в хрущевке</span></a>
+	
+</li>
+					
+				
+			
+			
+		</ul>
+	
+</li>
+					
+				</ul>
+			
+		
+	</div>
+</li>
+				
+				
+		
+	
+		
+			
+			
+			
+
+
+
+
+
+
+<li class='ipsStreamItem ipsStreamItem_contentBlock ipsStreamItem_expanded ipsAreaBackground_reset ipsPad   hmsStreamItem_forumsTopicPost' data-role='activityItem' data-timestamp='1614526651'>
+	<div class='ipsStreamItem_container ipsClearfix'>
+		
+			
+			<div class='ipsStreamItem_header ipsPhotoPanel ipsPhotoPanel_mini'>
+				
+					<span class='ipsStreamItem_contentType' data-ipsTooltip title='Сообщение'><i class='fa fa-comment'></i></span>
+				
+				
+
+	<a href="https://homemasters.ru/profile/118869-irina-rumjanceva/" data-ipsHover data-ipsHover-target="https://homemasters.ru/profile/118869-irina-rumjanceva/?do=hovercard" class="ipsUserPhoto ipsUserPhoto_mini" title="Перейти в профиль Ирина Румянцева">
+		<img src='https://homemasters.ru/uploads/profiles/monthly_2021_02/Lq2MvLdXfN0.thumb.jpg.2e7c51d47d3543b4d34ff016cccd445a.jpg' alt='Ирина Румянцева'>
+	</a>
+
+				<div class='ipsStreamItem_unread'>
+					
+					<h2 class='ipsType_reset ipsStreamItem_title ipsContained_container ipsStreamItem_titleSmall'>
+						
+							<span>
+								<a href='https://homemasters.ru/forums/topic/13335-mebelnye-fishki-ili-a-chto-vnutri/?do=getNewComment' data-linkType="star"  title='Перейти к первому непрочитанному сообщению' data-ipsTooltip>
+									<span class='ipsItemStatus '><i class="fa fa-circle"></i></span>
+								</a>
+							</span>
+						
+						
+						<span class='ipsType_break ipsContained'>
+							<a href='https://homemasters.ru/forums/topic/13335-mebelnye-fishki-ili-a-chto-vnutri/?do=getNewComment' data-linkType="link" data-searchable> Мебельные &quot;фишки&quot; или &quot;А что внутри?&quot;</a>
+						</span>
+						
+					</h2>
+					
+						<p class='ipsType_reset ipsStreamItem_status ipsType_blendLinks'>
+							
+<a href='https://homemasters.ru/profile/118869-irina-rumjanceva/' data-ipsHover data-ipsHover-target='https://homemasters.ru/profile/118869-irina-rumjanceva/?do=hovercard' title="Перейти в профиль Ирина Румянцева" class="ipsType_break"><span style='color:#86aecc'>Ирина Румянцева</span></a> ответил(а)  в теме 
+<a href='https://homemasters.ru/profile/50200-gluka/' data-ipsHover data-ipsHover-target='https://homemasters.ru/profile/50200-gluka/?do=hovercard' title="Перейти в профиль Gluka" class="ipsType_break"><span style='color:#33399e'>Gluka</span></a> в разделе <a href='https://homemasters.ru/forums/forum-9-mebel-i-dizain-interera/'>Мебель и дизайн интерьера</a>
+						</p>
+					
+					
+
+					
+				</div>
+			</div>
+			
+				<div class='ipsStreamItem_snippet ipsType_break'>
+					
+					 	
+
+	<div class="ipsType_richText ipsContained ipsType_medium">
+		<div data-ipstruncate data-ipstruncate-type="remove" data-ipstruncate-size="3 lines" data-ipstruncate-watch="false" >
+			я смотрю бетонные стены сейчас можно сказать тренд?!? но на мой взгляд это выглядит холодно и не уютно
+		</div>
+	</div>
+
+					
+				</div>
+				<ul class='ipsList_inline ipsStreamItem_meta ipsGap:1'>
+					<li class='ipsType_light ipsType_medium'>
+						<a href='https://homemasters.ru/forums/topic/13335-mebelnye-fishki-ili-a-chto-vnutri/?do=findComment&amp;comment=416067' class='ipsType_blendLinks'><i class='fa fa-clock-o'></i> <time datetime='2021-02-28T15:37:31Z' title='28.02.2021 15:37 ' data-short='1 дн'>Вчера в 15:37</time></a>
+					</li>
+					
+						<li class='ipsType_light ipsType_medium'>
+							<a href='https://homemasters.ru/forums/topic/13335-mebelnye-fishki-ili-a-chto-vnutri/?do=findComment&amp;comment=416067' class='ipsType_blendLinks'>
+								
+									<i class='fa fa-comment'></i> 449 ответов
+								
+							</a>
+						</li>
+					
+					
+					
+						<li>
+
+
+	
+		<ul class='ipsTags ipsTags_inline ipsList_inline  ipsGap:1 ipsGap_row:0'>
+			
+				
+					
+						
+
+<li >
+	
+	<a href="https://homemasters.ru/tags/%D0%BC%D0%B5%D0%B1%D0%B5%D0%BB%D1%8C/" class='ipsTag' title="Найти другой контент с тегом 'мебель'" rel="tag"><span style="color:#1249AC">мебель</span></a>
+	
+</li>
+					
+				
+			
+			
+		</ul>
+	
+</li>
+					
+				</ul>
+			
+		
+	</div>
+</li>
+				
+				
+		
+	
+		
+			
+			
+			
+
+
+
+
+
+
+<li class='ipsStreamItem ipsStreamItem_contentBlock ipsStreamItem_expanded ipsAreaBackground_reset ipsPad   hmsStreamItem_forumsTopicPost' data-role='activityItem' data-timestamp='1614526524'>
+	<div class='ipsStreamItem_container ipsClearfix'>
+		
+			
+			<div class='ipsStreamItem_header ipsPhotoPanel ipsPhotoPanel_mini'>
+				
+					<span class='ipsStreamItem_contentType' data-ipsTooltip title='Сообщение'><i class='fa fa-comment'></i></span>
+				
+				
+
+	<a href="https://homemasters.ru/profile/118869-irina-rumjanceva/" data-ipsHover data-ipsHover-target="https://homemasters.ru/profile/118869-irina-rumjanceva/?do=hovercard" class="ipsUserPhoto ipsUserPhoto_mini" title="Перейти в профиль Ирина Румянцева">
+		<img src='https://homemasters.ru/uploads/profiles/monthly_2021_02/Lq2MvLdXfN0.thumb.jpg.2e7c51d47d3543b4d34ff016cccd445a.jpg' alt='Ирина Румянцева'>
+	</a>
+
+				<div class='ipsStreamItem_unread'>
+					
+					<h2 class='ipsType_reset ipsStreamItem_title ipsContained_container ipsStreamItem_titleSmall'>
+						
+							<span>
+								<a href='https://homemasters.ru/forums/topic/672-mebel/?do=getNewComment' data-linkType="star"  title='Перейти к первому непрочитанному сообщению' data-ipsTooltip>
+									<span class='ipsItemStatus '><i class="fa fa-circle"></i></span>
+								</a>
+							</span>
+						
+						
+						<span class='ipsType_break ipsContained'>
+							<a href='https://homemasters.ru/forums/topic/672-mebel/?do=getNewComment' data-linkType="link" data-searchable> Мебель</a>
+						</span>
+						
+					</h2>
+					
+						<p class='ipsType_reset ipsStreamItem_status ipsType_blendLinks'>
+							
+<a href='https://homemasters.ru/profile/118869-irina-rumjanceva/' data-ipsHover data-ipsHover-target='https://homemasters.ru/profile/118869-irina-rumjanceva/?do=hovercard' title="Перейти в профиль Ирина Румянцева" class="ipsType_break"><span style='color:#86aecc'>Ирина Румянцева</span></a> ответил(а) в теме раздела <a href='https://homemasters.ru/forums/forum-9-mebel-i-dizain-interera/'>Мебель и дизайн интерьера</a>
+						</p>
+					
+					
+
+					
+				</div>
+			</div>
+			
+				<div class='ipsStreamItem_snippet ipsType_break'>
+					
+					 	
+
+	<div class="ipsType_richText ipsContained ipsType_medium">
+		<div data-ipstruncate data-ipstruncate-type="remove" data-ipstruncate-size="3 lines" data-ipstruncate-watch="false" >
+			мне было лениво заказывать и я сама делала войлочные насадки для ножек стула, собственно разницы никакой,это если по быстрому
+		</div>
+	</div>
+
+					
+				</div>
+				<ul class='ipsList_inline ipsStreamItem_meta ipsGap:1'>
+					<li class='ipsType_light ipsType_medium'>
+						<a href='https://homemasters.ru/forums/topic/672-mebel/?do=findComment&amp;comment=416066' class='ipsType_blendLinks'><i class='fa fa-clock-o'></i> <time datetime='2021-02-28T15:35:24Z' title='28.02.2021 15:35 ' data-short='1 дн'>Вчера в 15:35</time></a>
+					</li>
+					
+						<li class='ipsType_light ipsType_medium'>
+							<a href='https://homemasters.ru/forums/topic/672-mebel/?do=findComment&amp;comment=416066' class='ipsType_blendLinks'>
+								
+									<i class='fa fa-comment'></i> 300 ответов
+								
+							</a>
+						</li>
+					
+					
+					
+						<li>
+
+
+	
+		<ul class='ipsTags ipsTags_inline ipsList_inline  ipsGap:1 ipsGap_row:0'>
+			
+				
+					
+						
+
+<li >
+	
+	<a href="https://homemasters.ru/tags/%D0%BC%D0%B5%D0%B1%D0%B5%D0%BB%D1%8C/" class='ipsTag' title="Найти другой контент с тегом 'мебель'" rel="tag"><span style="color:#747F41">мебель</span></a>
+	
+</li>
+					
+				
+					
+						
+
+<li >
+	
+	<a href="https://homemasters.ru/tags/%D0%BA%D1%83%D1%85%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F%20%D0%BC%D0%B5%D0%B1%D0%B5%D0%BB%D1%8C/" class='ipsTag' title="Найти другой контент с тегом 'кухонная мебель'" rel="tag"><span style="color:#0B0974">кухонная мебель</span></a>
+	
+</li>
+					
+				
+					
+				
+					
+				
+			
+			
+				<li class='ipsType_small'>
+					<span class='ipsType_light ipsCursor_pointer' data-ipsMenu id='elTags_2037701411'>( и ещё 2 ) <i class='fa fa-caret-down ipsJS_show'></i></span>
+					<div class='ipsHide ipsMenu ipsMenu_normal ipsPad_half cTagPopup' id='elTags_2037701411_menu'>
+						<p class='ipsType_medium ipsType_reset ipsType_light'>C тегом:</p>
+						<ul class='ipsTags ipsList_inline ipsGap:1'>
+							
+								
+
+<li >
+	
+	<a href="https://homemasters.ru/tags/%D0%BC%D0%B5%D0%B1%D0%B5%D0%BB%D1%8C/" class='ipsTag' title="Найти другой контент с тегом 'мебель'" rel="tag"><span style="color:#BF8376">мебель</span></a>
+	
+</li>
+							
+								
+
+<li >
+	
+	<a href="https://homemasters.ru/tags/%D0%BA%D1%83%D1%85%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F%20%D0%BC%D0%B5%D0%B1%D0%B5%D0%BB%D1%8C/" class='ipsTag' title="Найти другой контент с тегом 'кухонная мебель'" rel="tag"><span style="color:#06086D">кухонная мебель</span></a>
+	
+</li>
+							
+								
+
+<li >
+	
+	<a href="https://homemasters.ru/tags/%D0%BC%D0%B5%D0%B1%D0%B5%D0%BB%D1%8C%20%D0%B4%D0%BB%D1%8F%20%D0%BA%D1%83%D1%85%D0%BD%D0%B8/" class='ipsTag' title="Найти другой контент с тегом 'мебель для кухни'" rel="tag"><span style="color:#07C46B">мебель для кухни</span></a>
+	
+</li>
+							
+								
+
+<li >
+	
+	<a href="https://homemasters.ru/tags/%D0%B4%D0%B8%D0%B7%D0%B0%D0%BD%20%D0%BA%D1%83%D1%85%D0%BD%D0%B8/" class='ipsTag' title="Найти другой контент с тегом 'дизан кухни'" rel="tag"><span style="color:#AF3175">дизан кухни</span></a>
+	
+</li>
+							
+						</ul>
+					</div>
+				</li>
+			
+		</ul>
+	
+</li>
+					
+				</ul>
+			
+		
+	</div>
+</li>
+				
+				
+		
+	
+		
+			
+			
+			
+
+
+
+
+
+
+<li class='ipsStreamItem ipsStreamItem_contentBlock ipsStreamItem_expanded ipsAreaBackground_reset ipsPad   hmsStreamItem_forumsTopicPost' data-role='activityItem' data-timestamp='1614525423'>
+	<div class='ipsStreamItem_container ipsClearfix'>
+		
+			
+			<div class='ipsStreamItem_header ipsPhotoPanel ipsPhotoPanel_mini'>
+				
+					<span class='ipsStreamItem_contentType' data-ipsTooltip title='Сообщение'><i class='fa fa-comment'></i></span>
+				
+				
+
+	<a href="https://homemasters.ru/profile/76761-steamroller/" data-ipsHover data-ipsHover-target="https://homemasters.ru/profile/76761-steamroller/?do=hovercard" class="ipsUserPhoto ipsUserPhoto_mini" title="Перейти в профиль steamroller">
+		<img src='https://homemasters.ru/uploads/profiles/monthly_2017_06/stellanin.thumb.gif.bdc4dbb2291055687ea31e7b873daf74.gif' alt='steamroller'>
+	</a>
+
+				<div class='ipsStreamItem_unread'>
+					
+					<h2 class='ipsType_reset ipsStreamItem_title ipsContained_container ipsStreamItem_titleSmall'>
+						
+							<span>
+								<a href='https://homemasters.ru/forums/topic/35703-pomogite-s-remontom/?do=getNewComment' data-linkType="star"  title='Перейти к первому непрочитанному сообщению' data-ipsTooltip>
+									<span class='ipsItemStatus '><i class="fa fa-circle"></i></span>
+								</a>
+							</span>
+						
+						
+						<span class='ipsType_break ipsContained'>
+							<a href='https://homemasters.ru/forums/topic/35703-pomogite-s-remontom/?do=getNewComment' data-linkType="link" data-searchable> Помогите с ремонтом!!</a>
+						</span>
+						
+					</h2>
+					
+						<p class='ipsType_reset ipsStreamItem_status ipsType_blendLinks'>
+							
+<a href='https://homemasters.ru/profile/76761-steamroller/' data-ipsHover data-ipsHover-target='https://homemasters.ru/profile/76761-steamroller/?do=hovercard' title="Перейти в профиль steamroller" class="ipsType_break"><span style='color:blue'>steamroller</span></a> ответил(а)  в теме 
+<a href='https://homemasters.ru/profile/118870-olesja567/' data-ipsHover data-ipsHover-target='https://homemasters.ru/profile/118870-olesja567/?do=hovercard' title="Перейти в профиль Олеся567" class="ipsType_break"><span style='color:#86aecc'>Олеся567</span></a> в разделе <a href='https://homemasters.ru/forums/forum-4-shtukaturim-kleim-krasim/'>Штукатурим, клеим, красим</a>
+						</p>
+					
+					
+
+					
+				</div>
+			</div>
+			
+				<div class='ipsStreamItem_snippet ipsType_break'>
+					
+					 	
+
+	<div class="ipsType_richText ipsContained ipsType_medium">
+		<div data-ipstruncate data-ipstruncate-type="remove" data-ipstruncate-size="3 lines" data-ipstruncate-watch="false" >
+			Посмотрел я на картинки, ужаснулся, крик души услышал и... формулирую конкретней некуда, наипредельнейше конкретно: что надо сделать гражданам Молдавии для возвращения её в состав России?
+ 
+
+
+	Я на полном серьёзе, ни единой шутливой буквы.
+		</div>
+	</div>
+
+					
+				</div>
+				<ul class='ipsList_inline ipsStreamItem_meta ipsGap:1'>
+					<li class='ipsType_light ipsType_medium'>
+						<a href='https://homemasters.ru/forums/topic/35703-pomogite-s-remontom/?do=findComment&amp;comment=416065' class='ipsType_blendLinks'><i class='fa fa-clock-o'></i> <time datetime='2021-02-28T15:17:03Z' title='28.02.2021 15:17 ' data-short='1 дн'>Вчера в 15:17</time></a>
+					</li>
+					
+						<li class='ipsType_light ipsType_medium'>
+							<a href='https://homemasters.ru/forums/topic/35703-pomogite-s-remontom/?do=findComment&amp;comment=416065' class='ipsType_blendLinks'>
+								
+									<i class='fa fa-comment'></i> 2 ответа
+								
+							</a>
+						</li>
+					
+					
+					
+						<li>
+
+
+	
+		<ul class='ipsTags ipsTags_inline ipsList_inline  ipsGap:1 ipsGap_row:0'>
+			
+				
+					
+						
+
+<li >
+	
+	<a href="https://homemasters.ru/tags/%D0%B1%D1%8E%D0%B4%D0%B6%D0%B5%D1%82%D0%BD%D1%8B%D0%B9%20%D1%80%D0%B5%D0%BC%D0%BE%D0%BD%D1%82/" class='ipsTag' title="Найти другой контент с тегом 'бюджетный ремонт'" rel="tag"><span style="color:#AE9391">бюджетный ремонт</span></a>
+	
+</li>
+					
+				
+			
+			
+		</ul>
+	
+</li>
+					
+				</ul>
+			
+		
+	</div>
+</li>
+				
+				
+		
+	
+		
+			
+			
+			
+
+
+
+
+
+
+<li class='ipsStreamItem ipsStreamItem_contentBlock ipsStreamItem_expanded ipsAreaBackground_reset ipsPad   hmsStreamItem_forumsTopicPost' data-role='activityItem' data-timestamp='1614494478'>
+	<div class='ipsStreamItem_container ipsClearfix'>
+		
+			
+			<div class='ipsStreamItem_header ipsPhotoPanel ipsPhotoPanel_mini'>
+				
+					<span class='ipsStreamItem_contentType' data-ipsTooltip title='Сообщение'><i class='fa fa-comment'></i></span>
+				
+				
+
+	<a href="https://homemasters.ru/profile/48929-ilun/" data-ipsHover data-ipsHover-target="https://homemasters.ru/profile/48929-ilun/?do=hovercard" class="ipsUserPhoto ipsUserPhoto_mini" title="Перейти в профиль Ilun">
+		<img src='https://homemasters.ru/uploads/profiles/profile/photo-thumb-48929.gif' alt='Ilun'>
+	</a>
+
+				<div class='ipsStreamItem_unread'>
+					
+					<h2 class='ipsType_reset ipsStreamItem_title ipsContained_container ipsStreamItem_titleSmall'>
+						
+							<span>
+								<a href='https://homemasters.ru/forums/topic/35689-zvukoizoljacija-teplyj-pol-ili-kak-ne-rasplavit-plenochnuju-gidroizoljaciju-nagrevajushhim-kabelem/?do=getNewComment' data-linkType="star"  title='Перейти к первому непрочитанному сообщению' data-ipsTooltip>
+									<span class='ipsItemStatus '><i class="fa fa-circle"></i></span>
+								</a>
+							</span>
+						
+						
+						<span class='ipsType_break ipsContained'>
+							<a href='https://homemasters.ru/forums/topic/35689-zvukoizoljacija-teplyj-pol-ili-kak-ne-rasplavit-plenochnuju-gidroizoljaciju-nagrevajushhim-kabelem/?do=getNewComment' data-linkType="link" data-searchable> Звукоизоляция + теплый пол. Или как не расплавить пленочную гидроизоляцию нагревающим кабелем?</a>
+						</span>
+						
+					</h2>
+					
+						<p class='ipsType_reset ipsStreamItem_status ipsType_blendLinks'>
+							
+<a href='https://homemasters.ru/profile/48929-ilun/' data-ipsHover data-ipsHover-target='https://homemasters.ru/profile/48929-ilun/?do=hovercard' title="Перейти в профиль Ilun" class="ipsType_break"><span style='color:#33399e'>Ilun</span></a> ответил(а)  в теме 
+<a href='https://homemasters.ru/profile/118729-djai/' data-ipsHover data-ipsHover-target='https://homemasters.ru/profile/118729-djai/?do=hovercard' title="Перейти в профиль Djai" class="ipsType_break"><span style='color:#0c849f'>Djai</span></a> в разделе <a href='https://homemasters.ru/forums/forum-45-teplyi-pol-elektricheskii/'>Теплый пол (электрический)</a>
+						</p>
+					
+					
+
+					
+				</div>
+			</div>
+			
+				<div class='ipsStreamItem_snippet ipsType_break'>
+					
+					 	
+
+	<div class="ipsType_richText ipsContained ipsType_medium">
+		<div data-ipstruncate data-ipstruncate-type="remove" data-ipstruncate-size="3 lines" data-ipstruncate-watch="false" >
+			По моей статистике случаев ремонта кабеля под стяжкой в разы меньше, чем под плиткой. Да и повредить кабель М2, рассчитанный на установку на армирующей сетке в бетонной стяжке с гравием, это только суметь постараться, чем тонкий кабель или мат класса...
+		</div>
+	</div>
+
+					
+				</div>
+				<ul class='ipsList_inline ipsStreamItem_meta ipsGap:1'>
+					<li class='ipsType_light ipsType_medium'>
+						<a href='https://homemasters.ru/forums/topic/35689-zvukoizoljacija-teplyj-pol-ili-kak-ne-rasplavit-plenochnuju-gidroizoljaciju-nagrevajushhim-kabelem/?do=findComment&amp;comment=416058' class='ipsType_blendLinks'><i class='fa fa-clock-o'></i> <time datetime='2021-02-28T06:41:18Z' title='28.02.2021 06:41 ' data-short='1 дн'>Вчера в 06:41</time></a>
+					</li>
+					
+						<li class='ipsType_light ipsType_medium'>
+							<a href='https://homemasters.ru/forums/topic/35689-zvukoizoljacija-teplyj-pol-ili-kak-ne-rasplavit-plenochnuju-gidroizoljaciju-nagrevajushhim-kabelem/?do=findComment&amp;comment=416058' class='ipsType_blendLinks'>
+								
+									<i class='fa fa-comment'></i> 22 ответа
+								
+							</a>
+						</li>
+					
+					
+						
+							<li>
+
+
+	<div class='ipsReactOverview ipsReactOverview_small ipsType_light'>
+		<ul>
+			<li class='ipsReactOverview_repCount'>
+				2
+			</li>
+			
+				
+				<li>
+					
+						<span data-ipsTooltip title="Нравится">
+					
+							<img src='https://homemasters.ru/uploads/reactions/react_like.png' alt="Нравится">
+					
+						</span>
+					
+				</li>
+			
+		</ul>
+	</div>
+</li>
+						
+					
+					
+						<li>
+
+
+	
+		<ul class='ipsTags ipsTags_inline ipsList_inline  ipsGap:1 ipsGap_row:0'>
+			
+				
+					
+						
+
+<li >
+	
+	<a href="https://homemasters.ru/tags/%D1%81%D1%82%D1%8F%D0%B6%D0%BA%D0%B0%20%D0%BF%D0%BE%D0%B4%20%D1%82%D0%B5%D0%BF%D0%BB%D1%8B%D0%B9%20%D0%BF%D0%BE%D0%BB/" class='ipsTag' title="Найти другой контент с тегом 'стяжка под теплый пол'" rel="tag"><span style="color:#080B0F">стяжка под теплый пол</span></a>
+	
+</li>
+					
+				
+					
+						
+
+<li >
+	
+	<a href="https://homemasters.ru/tags/%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D1%82%D0%B5%D0%BF%D0%BB%D1%8B%D0%B9%20%D0%BF%D0%BE%D0%BB/" class='ipsTag' title="Найти другой контент с тегом 'электрический теплый пол'" rel="tag"><span style="color:#035274">электрический теплый пол</span></a>
+	
+</li>
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+			
+			
+				<li class='ipsType_small'>
+					<span class='ipsType_light ipsCursor_pointer' data-ipsMenu id='elTags_1090922520'>( и ещё 5 ) <i class='fa fa-caret-down ipsJS_show'></i></span>
+					<div class='ipsHide ipsMenu ipsMenu_normal ipsPad_half cTagPopup' id='elTags_1090922520_menu'>
+						<p class='ipsType_medium ipsType_reset ipsType_light'>C тегом:</p>
+						<ul class='ipsTags ipsList_inline ipsGap:1'>
+							
+								
+
+<li >
+	
+	<a href="https://homemasters.ru/tags/%D1%81%D1%82%D1%8F%D0%B6%D0%BA%D0%B0%20%D0%BF%D0%BE%D0%B4%20%D1%82%D0%B5%D0%BF%D0%BB%D1%8B%D0%B9%20%D0%BF%D0%BE%D0%BB/" class='ipsTag' title="Найти другой контент с тегом 'стяжка под теплый пол'" rel="tag"><span style="color:#1E8E1E">стяжка под теплый пол</span></a>
+	
+</li>
+							
+								
+
+<li >
+	
+	<a href="https://homemasters.ru/tags/%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D1%82%D0%B5%D0%BF%D0%BB%D1%8B%D0%B9%20%D0%BF%D0%BE%D0%BB/" class='ipsTag' title="Найти другой контент с тегом 'электрический теплый пол'" rel="tag"><span style="color:#7C3629">электрический теплый пол</span></a>
+	
+</li>
+							
+								
+
+<li >
+	
+	<a href="https://homemasters.ru/tags/%D1%81%D1%82%D1%8F%D0%B6%D0%BA%D0%B0%20%D1%82%D1%91%D0%BF%D0%BB%D1%8B%D0%B9%20%D0%BF%D0%BE%D0%BB/" class='ipsTag' title="Найти другой контент с тегом 'стяжка тёплый пол'" rel="tag"><span style="color:#15700B">стяжка тёплый пол</span></a>
+	
+</li>
+							
+								
+
+<li >
+	
+	<a href="https://homemasters.ru/tags/%D1%82%D0%B5%D0%BF%D0%BB%D1%8B%D0%B9%20%D0%BF%D0%BE%D0%BB%20%D0%B2%20%D1%81%D1%82%D1%8F%D0%B6%D0%BA%D1%83/" class='ipsTag' title="Найти другой контент с тегом 'теплый пол в стяжку'" rel="tag"><span style="color:#A18052">теплый пол в стяжку</span></a>
+	
+</li>
+							
+								
+
+<li >
+	
+	<a href="https://homemasters.ru/tags/%D0%BD%D0%B0%D0%B3%D1%80%D0%B5%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D0%BA%D0%B0%D0%B1%D0%B5%D0%BB%D1%8C/" class='ipsTag' title="Найти другой контент с тегом 'нагревательный кабель'" rel="tag"><span style="color:#9F3D77">нагревательный кабель</span></a>
+	
+</li>
+							
+								
+
+<li >
+	
+	<a href="https://homemasters.ru/tags/%D0%B7%D0%B2%D1%83%D0%BA%D0%BE%D0%B8%D0%B7%D0%BE%D0%BB%D1%8F%D1%86%D0%B8%D1%8F%20%D0%BF%D0%BE%D0%BB%D0%B0/" class='ipsTag' title="Найти другой контент с тегом 'звукоизоляция пола'" rel="tag"><span style="color:#043478">звукоизоляция пола</span></a>
+	
+</li>
+							
+								
+
+<li >
+	
+	<a href="https://homemasters.ru/tags/%D0%B7%D0%B2%D1%83%D0%BA%D0%BE%D0%B8%D0%B7%D0%BE%D0%BB%D1%8F%D1%86%D0%B8%D1%8F%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80%D1%8B/" class='ipsTag' title="Найти другой контент с тегом 'звукоизоляция квартиры'" rel="tag"><span style="color:#9E86B5">звукоизоляция квартиры</span></a>
+	
+</li>
+							
+						</ul>
+					</div>
+				</li>
+			
+		</ul>
+	
+</li>
+					
+				</ul>
+			
+		
+	</div>
+</li>
+				
+				
+		
+	
+		
+			
+			
+			
+
+
+
+
+
+
+<li class='ipsStreamItem ipsStreamItem_contentBlock ipsStreamItem_expanded ipsAreaBackground_reset ipsPad   hmsStreamItem_forumsTopicPost' data-role='activityItem' data-timestamp='1614489534'>
+	<div class='ipsStreamItem_container ipsClearfix'>
+		
+			
+			<div class='ipsStreamItem_header ipsPhotoPanel ipsPhotoPanel_mini'>
+				
+					<span class='ipsStreamItem_contentType' data-ipsTooltip title='Сообщение'><i class='fa fa-comment'></i></span>
+				
+				
+
+	<a href="https://homemasters.ru/profile/117052-zmeygordynich/" data-ipsHover data-ipsHover-target="https://homemasters.ru/profile/117052-zmeygordynich/?do=hovercard" class="ipsUserPhoto ipsUserPhoto_mini" title="Перейти в профиль zmeygordynich">
+		<img src='https://homemasters.ru/uploads/profiles/monthly_2020_04/IMG_20200426_095057.thumb.jpg.89aec83404cc28db7f8e702ca9232f6c.jpg' alt='zmeygordynich'>
+	</a>
+
+				<div class='ipsStreamItem_unread'>
+					
+					<h2 class='ipsType_reset ipsStreamItem_title ipsContained_container ipsStreamItem_titleSmall'>
+						
+							<span>
+								<a href='https://homemasters.ru/forums/topic/35699-spravitsja-li-jetot-stojak-s-nagruzkoj/?do=getNewComment' data-linkType="star"  title='Перейти к первому непрочитанному сообщению' data-ipsTooltip>
+									<span class='ipsItemStatus '><i class="fa fa-circle"></i></span>
+								</a>
+							</span>
+						
+						
+						<span class='ipsType_break ipsContained'>
+							<a href='https://homemasters.ru/forums/topic/35699-spravitsja-li-jetot-stojak-s-nagruzkoj/?do=getNewComment' data-linkType="link" data-searchable> Справится ли этот стояк с нагрузкой</a>
+						</span>
+						
+					</h2>
+					
+						<p class='ipsType_reset ipsStreamItem_status ipsType_blendLinks'>
+							
+<a href='https://homemasters.ru/profile/117052-zmeygordynich/' data-ipsHover data-ipsHover-target='https://homemasters.ru/profile/117052-zmeygordynich/?do=hovercard' title="Перейти в профиль zmeygordynich" class="ipsType_break"><span style='color:#33399e'>zmeygordynich</span></a> ответил(а)  в теме 
+<a href='https://homemasters.ru/profile/118866-mihail-sagan/' data-ipsHover data-ipsHover-target='https://homemasters.ru/profile/118866-mihail-sagan/?do=hovercard' title="Перейти в профиль Михаил Саган" class="ipsType_break"><span style='color:#86aecc'>Михаил Саган</span></a> в разделе <a href='https://homemasters.ru/forums/forum-5-remont-i-stroitelstvo/'>Ремонт и строительство</a>
+						</p>
+					
+					
+
+					
+				</div>
+			</div>
+			
+				<div class='ipsStreamItem_snippet ipsType_break'>
+					
+					 	
+
+	<div class="ipsType_richText ipsContained ipsType_medium">
+		<div data-ipstruncate data-ipstruncate-type="remove" data-ipstruncate-size="3 lines" data-ipstruncate-watch="false" >
+			Справится.
+		</div>
+	</div>
+
+					
+				</div>
+				<ul class='ipsList_inline ipsStreamItem_meta ipsGap:1'>
+					<li class='ipsType_light ipsType_medium'>
+						<a href='https://homemasters.ru/forums/topic/35699-spravitsja-li-jetot-stojak-s-nagruzkoj/?do=findComment&amp;comment=416057' class='ipsType_blendLinks'><i class='fa fa-clock-o'></i> <time datetime='2021-02-28T05:18:54Z' title='28.02.2021 05:18 ' data-short='1 дн'>Вчера в 05:18</time></a>
+					</li>
+					
+						<li class='ipsType_light ipsType_medium'>
+							<a href='https://homemasters.ru/forums/topic/35699-spravitsja-li-jetot-stojak-s-nagruzkoj/?do=findComment&amp;comment=416057' class='ipsType_blendLinks'>
+								
+									<i class='fa fa-comment'></i> 9 ответов
+								
+							</a>
+						</li>
+					
+					
+					
+						<li>
+
+
+	
+		<ul class='ipsTags ipsTags_inline ipsList_inline  ipsGap:1 ipsGap_row:0'>
+			
+				
+					
+						
+
+<li >
+	
+	<a href="https://homemasters.ru/tags/%D1%81%D1%82%D0%BE%D1%8F%D0%BA%20%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8/" class='ipsTag' title="Найти другой контент с тегом 'стояк канализации'" rel="tag"><span style="color:#A323B2">стояк канализации</span></a>
+	
+</li>
+					
+				
+			
+			
+		</ul>
+	
+</li>
+					
+				</ul>
+			
+		
+	</div>
+</li>
+				
+				
+		
+	
+		
+			
+			
+			
+
+
+
+
+
+
+<li class='ipsStreamItem ipsStreamItem_contentBlock ipsStreamItem_expanded ipsAreaBackground_reset ipsPad   hmsStreamItem_forumsTopicPost' data-role='activityItem' data-timestamp='1614433454'>
+	<div class='ipsStreamItem_container ipsClearfix'>
+		
+			
+			<div class='ipsStreamItem_header ipsPhotoPanel ipsPhotoPanel_mini'>
+				
+					<span class='ipsStreamItem_contentType' data-ipsTooltip title='Сообщение'><i class='fa fa-comment'></i></span>
+				
+				
+
+	<a href="https://homemasters.ru/profile/19584-jurij/" data-ipsHover data-ipsHover-target="https://homemasters.ru/profile/19584-jurij/?do=hovercard" class="ipsUserPhoto ipsUserPhoto_mini" title="Перейти в профиль Jurij">
+		<img src='https://homemasters.ru/uploads/profiles/profile/photo-thumb-19584.jpg' alt='Jurij'>
+	</a>
+
+				<div class='ipsStreamItem_unread'>
+					
+					<h2 class='ipsType_reset ipsStreamItem_title ipsContained_container ipsStreamItem_titleSmall'>
+						
+							<span>
+								<a href='https://homemasters.ru/forums/topic/31825-kapitalnyj-remont-s-nulja-2/?do=getNewComment' data-linkType="star"  title='Перейти к первому непрочитанному сообщению' data-ipsTooltip>
+									<span class='ipsItemStatus '><i class="fa fa-circle"></i></span>
+								</a>
+							</span>
+						
+						
+						<span class='ipsType_break ipsContained'>
+							<a href='https://homemasters.ru/forums/topic/31825-kapitalnyj-remont-s-nulja-2/?do=getNewComment' data-linkType="link" data-searchable> Капитальный ремонт с нуля 2</a>
+						</span>
+						
+					</h2>
+					
+						<p class='ipsType_reset ipsStreamItem_status ipsType_blendLinks'>
+							
+<a href='https://homemasters.ru/profile/19584-jurij/' data-ipsHover data-ipsHover-target='https://homemasters.ru/profile/19584-jurij/?do=hovercard' title="Перейти в профиль Jurij" class="ipsType_break"><span style='color:#33399e'>Jurij</span></a> ответил(а)  в теме 
+<a href='https://homemasters.ru/profile/82505-windsor/' data-ipsHover data-ipsHover-target='https://homemasters.ru/profile/82505-windsor/?do=hovercard' title="Перейти в профиль windsor" class="ipsType_break"><span style='color:#33399e'>windsor</span></a> в разделе <a href='https://homemasters.ru/forums/forum-19-nashi-raboty/'>Наши работы</a>
+						</p>
+					
+					
+
+					
+				</div>
+			</div>
+			
+				<div class='ipsStreamItem_snippet ipsType_break'>
+					
+					 	
+
+	<div class="ipsType_richText ipsContained ipsType_medium">
+		<div data-ipstruncate data-ipstruncate-type="remove" data-ipstruncate-size="3 lines" data-ipstruncate-watch="false" >
+			Обратный клапан надо бы к каналье подключить через петлю , бывает фыркают они , и потом лужа на полу ..
+		</div>
+	</div>
+
+					
+				</div>
+				<ul class='ipsList_inline ipsStreamItem_meta ipsGap:1'>
+					<li class='ipsType_light ipsType_medium'>
+						<a href='https://homemasters.ru/forums/topic/31825-kapitalnyj-remont-s-nulja-2/?do=findComment&amp;comment=416053' class='ipsType_blendLinks'><i class='fa fa-clock-o'></i> <time datetime='2021-02-27T13:44:14Z' title='27.02.2021 13:44 ' data-short='2 дн'>Суббота в 13:44</time></a>
+					</li>
+					
+						<li class='ipsType_light ipsType_medium'>
+							<a href='https://homemasters.ru/forums/topic/31825-kapitalnyj-remont-s-nulja-2/?do=findComment&amp;comment=416053' class='ipsType_blendLinks'>
+								
+									<i class='fa fa-comment'></i> 559 ответов
+								
+							</a>
+						</li>
+					
+					
+					
+						<li>
+
+
+	
+		<ul class='ipsTags ipsTags_inline ipsList_inline  ipsGap:1 ipsGap_row:0'>
+			
+				
+					
+						
+
+<li >
+	
+	<a href="https://homemasters.ru/tags/%D1%80%D0%B5%D0%BC%D0%BE%D0%BD%D1%82%20%D1%81%D0%B2%D0%BE%D0%B8%D0%BC%D0%B8%20%D1%80%D1%83%D0%BA%D0%B0%D0%BC%D0%B8/" class='ipsTag' title="Найти другой контент с тегом 'ремонт своими руками'" rel="tag"><span style="color:#C08F19">ремонт своими руками</span></a>
+	
+</li>
+					
+				
+					
+						
+
+<li >
+	
+	<a href="https://homemasters.ru/tags/%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%B8%D0%BA%D0%B0/" class='ipsTag' title="Найти другой контент с тегом 'электрика'" rel="tag"><span style="color:#572FA4">электрика</span></a>
+	
+</li>
+					
+				
+			
+			
+		</ul>
+	
+</li>
+					
+				</ul>
+			
+		
+	</div>
+</li>
+				
+				
+		
+	
+
+		</ol>
+<ol class="ipsList_reset">
+<li class="ipsType_center ipsJS_show " data-role="loadMoreContainer">
+				<a href="#" class="ipsButton ipsButton_veryLight ipsButton_small" data-action="loadMore">Загрузить ещё</a>
+			</li>
+		</ol>
+</div>
+</div>
+
+	</div>
+
+	
+		<ul class="ipsList_inline ipsType_blendLinks ipsSpacer_both ipsType_center ipsResponsive_showPhone ipsResponsive_block">
+			
+				<li><a href="https://homemasters.ru/discover/all.xml/"><i class="fa fa-rss"></i> RSS</a></li>
+			
+			
+		</ul>
+	
+</section>
+						
+
+
+	<div class='cWidgetContainer '  data-role='widgetReceiver' data-orientation='horizontal' data-widgetArea='footer'>
+		<ul class='ipsList_reset'>
+			
+				
+					
+					<li class='ipsWidget ipsWidget_horizontal ipsBox  ' data-blockID='app_cms_Blocks_qg6q1rbr4' data-blockConfig="true" data-blockTitle="Пользовательские блоки" data-blockErrorMessage="Этот блок не может быть показан. Причиной этому может необходимость его настройки, либо будет отображён после перезагрузки этой страницы."  data-controller='core.front.widgets.block'>
+
+<div id="hmsHomePageAbout_block">
+<a href="//homemasters.ru/">HomeMasters.RU</a> - <strong>школа ремонта</strong>, удобная информация о <b>ремонте квартир своими руками</b>, дизайне квартир, технологиях ремонта и строительных материалах. В нашей <a href="//homemasters.ru/articles/school-remont/" title="Школа ремонта">школе ремонта</a> вы найдете ответы на любой квартирный вопрос, связанный с ремонтом,  сможете ознакомится со <a href="//homemasters.ru/articles/" title="Статьи по ремонту квартир">статьями по ремонту квартир</a>, задать вопрос на <a href="//homemasters.ru/forums/" title="Форум о ремонте и строительстве">форуме о ремонте и строительстве</a>, посмотреть <a href="//homemasters.ru/gallery/" title="Дизайн квартир">дизайн квартир в фотогалерее</a>, найти <a href="//homemasters.ru/firms/" title="Каталог строительных компаний" class="bbc_url">строительную фирму</a>, разместить информацию на <a href="//homemasters.ru/classifieds/" title="Доске строительных объявлений">доске строительных объявлений</a>, <a href="//homemasters.ru/blogs/" title="создать свой блог">создать свой блог</a>, найти нужные <a href="//homemasters.ru/standarts/" title="ГОСТы, СНИПы, СанПиНы">ГОСТы и СНИПы</a> и другую полезную информацию, которая поможет вам при ремонте и обустройстве квартиры
+</div>
+</li>
+				
+			
+		</ul>
+	</div>
+
+					</div>
+					
+
+
+
+
+
+	<div id='ipsLayout_sidebar' class='ipsLayout_sidebarright ' data-controller='core.front.widgets.sidebar'>
+		
+		
+		
+		
+
+
+	<div class='cWidgetContainer '  data-role='widgetReceiver' data-orientation='vertical' data-widgetArea='sidebar'>
+		<ul class='ipsList_reset'>
+			
+				
+					
+					<li class='ipsWidget ipsWidget_vertical ipsBox  ipsResponsive_block ipsResponsive_hidePhone ipsResponsive_hideTablet' data-blockID='app_cms_Blocks_bsi3w10kg' data-blockConfig="true" data-blockTitle="Пользовательские блоки" data-blockErrorMessage="Этот блок не может быть показан. Причиной этому может необходимость его настройки, либо будет отображён после перезагрузки этой страницы."  data-controller='core.front.widgets.block'>
+<div id="hmsStreamsMenuVertical_block">
+<h3 class="ipsWidget_title ipsType_reset">Ленты</h3>
+	<div class="ipsSideMenu ipsAreaBackground_reset ipsPad_half">
+		<ul class="ipsSideMenu_list">
+			<li><a href="https://homemasters.ru/" class="ipsSideMenu_item ipsTruncate ipsTruncate_line"><strong class="ipsType_normal">Вся активность</strong></a></li>
+			
+			<li><a href="https://homemasters.ru/discover/forums/" class="ipsSideMenu_item ipsTruncate ipsTruncate_line"><strong class="ipsType_normal">Форумы</strong></a></li>
+			<li><a href="https://homemasters.ru/discover/blogs/" class="ipsSideMenu_item ipsTruncate ipsTruncate_line"><strong class="ipsType_normal">Блоги</strong></a></li>
+			<li><a href="https://homemasters.ru/discover/articles/" class="ipsSideMenu_item ipsTruncate ipsTruncate_line"><strong class="ipsType_normal">Статьи</strong></a></li>
+			<li><a href="https://homemasters.ru/discover/gallery/" class="ipsSideMenu_item ipsTruncate ipsTruncate_line"><strong class="ipsType_normal">Галерея</strong></a></li>
+		</ul>
+	</div>
+</div></li>
+				
+					
+					<li class='ipsWidget ipsWidget_vertical ipsBox  ' data-blockID='app_cms_Blocks_am4mn1rax' data-blockConfig="true" data-blockTitle="Пользовательские блоки" data-blockErrorMessage="Этот блок не может быть показан. Причиной этому может необходимость его настройки, либо будет отображён после перезагрузки этой страницы."  data-controller='core.front.widgets.block'>
+
+
+<!--noindex-->
+<div id="hmsAdvertMotion_603d43afe2046" class="ipsType_center ipsSpacer_both">
+	<div id="yandexRtbMotion_603d43afe2046" class="yandex-adaptive"></div>
+	
+		<script type="text/javascript">
+			(function(w, d, n, s, t) {
+				if ( rtbW >= 980 ){	var rtbBlockID = "R-A-2031-5"; }
+				if ( rtbW <= 979 ){ var rtbBlockID = "R-A-2031-3"; }
+				if ( rtbW <= 767 ){ var rtbBlockID = "R-A-2031-5"; }
+				w[n] = w[n] || [];
+				w[n].push(function() {
+					Ya.Context.AdvManager.render({
+					blockId: rtbBlockID,
+					renderTo: "yandexRtbMotion_603d43afe2046",
+					horizontalAlign: true,
+					async: true,
+					pageNumber: getRTBpageNumber( rtbBlockID ),
+						directSettings: {
+							titleColor: '#3C6994',
+							urlColor: '#ccc',
+							hoverColor: '#cc0000',
+							textColor: '#1c1c1c',
+							borderColor: '#ffffff'
+						},
+						onRender: function(data) {
+							//console.log(data.product);
+
+							//var yRtbH = $("#yandexRtbMotion_603d43afe2046").height(); // jquery
+							//$("#hmsAdvertMotion_603d43afe2046").css("height", yRtbH); // jquery
+
+							var yRtbH = document.getElementById("yandexRtbMotion_603d43afe2046").offsetHeight;
+							document.getElementById("hmsAdvertMotion_603d43afe2046").style.height = yRtbH + "px";
+
+							/*if (data.product == "direct"){
+								document.getElementById("botbanner").style.background = "red";
+							}*/
+						}
+					}, function() {
+							/*<!-- HM Adsense Responsive In RTB -->*/
+							var g = document.createElement("ins");
+							g.className = "adsbygoogle";
+							g.style.display = "block";
+							if ( rtbW >= 980 ){
+								document.getElementById("yandexRtbMotion_603d43afe2046").style.display = "block";
+								document.getElementById("hmsAdvertMotion_603d43afe2046").style.height = "250px";
+								g.style.width = "320px";
+								g.style.height = "250px";
+							}
+							if ( rtbW <= 979 && rtbW >= 768 ){
+								document.getElementById("yandexRtbMotion_603d43afe2046").style.display = "block";
+								g.setAttribute("data-ad-format", "horizontal");
+							}
+							if ( rtbW <= 767 ){
+								document.getElementById("yandexRtbMotion_603d43afe2046").style.display = "inline-block";
+								g.style.width = "300px";
+								g.style.height = "250px";
+							}
+							g.setAttribute("data-ad-client", "ca-pub-3696910648049715");
+							g.setAttribute("data-ad-slot", "4027257701");
+							document.getElementById("yandexRtbMotion_603d43afe2046").appendChild(g);
+							(adsbygoogle = window.adsbygoogle || []).push({});
+					});
+				});
+				t = d.getElementsByTagName("script")[0];
+				s = d.createElement("script");
+				s.type = "text/javascript";
+				s.src = "//an.yandex.ru/system/context.js";
+				s.async = true;
+				t.parentNode.insertBefore(s, t);
+			})(this, this.document, "yandexContextAsyncCallbacks");
+		</script>
+	
+
+	
+</div>
+<!--/noindex--></li>
+				
+					
+					<li class='ipsWidget ipsWidget_vertical ipsBox  ' data-blockID='app_cms_Blocks_1xeopxsrp' data-blockConfig="true" data-blockTitle="Пользовательские блоки" data-blockErrorMessage="Этот блок не может быть показан. Причиной этому может необходимость его настройки, либо будет отображён после перезагрузки этой страницы."  data-controller='core.front.widgets.block'>
+<div id="hmsAdditionalMenu_block">
+<h3 class="ipsWidget_title ipsType_reset">Еще</h3>
+	<div class="ipsSideMenu ipsAreaBackground_reset ipsPad_half">
+		<ul class="ipsSideMenu_list">
+			<li><a href="https://homemasters.ru/artrules/" class="ipsSideMenu_item ipsTruncate ipsTruncate_line"><strong class="ipsType_normal">Разместить статью</strong></a></li>
+			<!-- <li><a href="https://homemasters.ru/companies/" class="ipsSideMenu_item ipsTruncate ipsTruncate_line"><strong class="ipsType_normal">Добавить компанию</strong></a></li> -->
+			<li><a href="https://homemasters.ru/classifieds/" class="ipsSideMenu_item ipsTruncate ipsTruncate_line"><strong class="ipsType_normal">Дать объявление</strong></a></li>
+			<li><a href="https://homemasters.ru/blogs/" class="ipsSideMenu_item ipsTruncate ipsTruncate_line"><strong class="ipsType_normal">Создать свой блог</strong></a></li>
+			<!-- <li><a href="https://homemasters.ru/gallery/" class="ipsSideMenu_item ipsTruncate ipsTruncate_line"><strong class="ipsType_normal">Разместить портфолио</strong></a></li> -->
+			<li><a href="https://homemasters.ru/blogs/1/54-avtoram/" class="ipsSideMenu_item ipsTruncate ipsTruncate_line"><strong class="ipsType_normal">Заработать</strong></a></li>
+			<li><a href="https://homemasters.ru/adv/" class="ipsSideMenu_item ipsTruncate ipsTruncate_line"><strong class="ipsType_normal">Реклама на сайте</strong></a></li>
+			<li><a href="https://homemasters.ru/contact/" class="ipsSideMenu_item ipsTruncate ipsTruncate_line"><strong class="ipsType_normal">Связь с нами</strong></a></li>
+		</ul>
+	</div>
+</div></li>
+				
+					
+					<li class='ipsWidget ipsWidget_vertical ipsBox  ipsResponsive_block' data-blockID='app_forums_topicFeed_k3pnjewa9' data-blockConfig="true" data-blockTitle="Topic Feed" data-blockErrorMessage="Этот блок не может быть показан. Причиной этому может необходимость его настройки, либо будет отображён после перезагрузки этой страницы."  data-controller='core.front.widgets.block'>
+
+	<h3 class='ipsWidget_title ipsType_reset'>Обновления на форумах</h3>
+
+	
+		<div class='ipsPad_half ipsWidget_inner'>
+			<ul class='ipsDataList ipsDataList_reducedSpacing'>
+				
+					<li class='ipsDataItem'>
+						<div class='ipsDataItem_icon ipsPos_top'>
+							
+
+
+	<a href="https://homemasters.ru/profile/38964-dmitrii-78/" data-ipsHover data-ipsHover-target="https://homemasters.ru/profile/38964-dmitrii-78/?do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Перейти в профиль Дмитрий 78">
+		<img src='https://homemasters.ru/uploads/profiles/profile/photo-thumb-38964.jpg' alt='Дмитрий 78'>
+	</a>
+
+						</div>
+						<div class='ipsDataItem_main cWidgetComments'>
+							<div class="ipsCommentCount ipsPos_right " data-ipsTooltip title='40 ответов'>40</div>
+							
+							<div class='ipsType_break ipsContained'>
+															
+								<a href="https://homemasters.ru/forums/topic/35582-teplovizory-opyt-ispolzovanija-vpechatlenija-ot-devajsov/?do=getNewComment" title='Просмотр темы Тепловизоры, опыт использования, впечатления от девайсов.' class='ipsDataItem_title'>Тепловизоры, опыт использования, впечатления от девайсов.</a>
+							</div>
+							<p class='ipsType_reset ipsType_medium ipsType_blendLinks ipsContained'>
+								<span>
+
+<a href='https://homemasters.ru/profile/38964-dmitrii-78/' data-ipsHover data-ipsHover-target='https://homemasters.ru/profile/38964-dmitrii-78/?do=hovercard&amp;referrer=https%253A%252F%252Fhomemasters.ru' title="Перейти в профиль Дмитрий 78" class="ipsType_break"><span style='color:#33399e'>Дмитрий 78</span></a></span>
+							</p>
+						</div>
+					</li>
+				
+					<li class='ipsDataItem'>
+						<div class='ipsDataItem_icon ipsPos_top'>
+							
+
+
+	<a href="https://homemasters.ru/profile/81157-tx70me/" data-ipsHover data-ipsHover-target="https://homemasters.ru/profile/81157-tx70me/?do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Перейти в профиль TX70me">
+		<img src='https://homemasters.ru/uploads/profiles/profile/photo-thumb-81157.jpg' alt='TX70me'>
+	</a>
+
+						</div>
+						<div class='ipsDataItem_main cWidgetComments'>
+							<div class="ipsCommentCount ipsPos_right " data-ipsTooltip title='1 ответ'>1</div>
+							
+							<div class='ipsType_break ipsContained'>
+															
+								<a href="https://homemasters.ru/forums/topic/35705-periodicheski-padaet-davlenija-v-otopitelnoj-sisteme-s-dvuhkonturnym-kotlom/?do=getNewComment" title='Просмотр темы Периодически падает давления в отопительной  системе с двухконтурным котлом' class='ipsDataItem_title'>Периодически падает давления в отопительной  системе с двухконтурным котлом</a>
+							</div>
+							<p class='ipsType_reset ipsType_medium ipsType_blendLinks ipsContained'>
+								<span>
+
+<a href='https://homemasters.ru/profile/81157-tx70me/' data-ipsHover data-ipsHover-target='https://homemasters.ru/profile/81157-tx70me/?do=hovercard&amp;referrer=https%253A%252F%252Fhomemasters.ru' title="Перейти в профиль TX70me" class="ipsType_break"><span style='color:#0c849f'>TX70me</span></a></span>
+							</p>
+						</div>
+					</li>
+				
+					<li class='ipsDataItem'>
+						<div class='ipsDataItem_icon ipsPos_top'>
+							
+
+
+	<a href="https://homemasters.ru/profile/118838-igor-staroverkin/" data-ipsHover data-ipsHover-target="https://homemasters.ru/profile/118838-igor-staroverkin/?do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Перейти в профиль Игорь Староверкин">
+		<img src='https://homemasters.ru/uploads/profiles/monthly_2021_02/imported-photo-118838.thumb.jpeg.41951b139eed23579371be3a4a4e775f.jpeg' alt='Игорь Староверкин'>
+	</a>
+
+						</div>
+						<div class='ipsDataItem_main cWidgetComments'>
+							<div class="ipsCommentCount ipsPos_right " data-ipsTooltip title='32 ответа'>32</div>
+							
+							<div class='ipsType_break ipsContained'>
+															
+								<a href="https://homemasters.ru/forums/topic/35682-uteplenie-balkona/?do=getNewComment" title='Просмотр темы Утепление балкона' class='ipsDataItem_title'>Утепление балкона</a>
+							</div>
+							<p class='ipsType_reset ipsType_medium ipsType_blendLinks ipsContained'>
+								<span>
+
+<a href='https://homemasters.ru/profile/118838-igor-staroverkin/' data-ipsHover data-ipsHover-target='https://homemasters.ru/profile/118838-igor-staroverkin/?do=hovercard&amp;referrer=https%253A%252F%252Fhomemasters.ru' title="Перейти в профиль Игорь Староверкин" class="ipsType_break"><span style='color:#86aecc'>Игорь Староверкин</span></a></span>
+							</p>
+						</div>
+					</li>
+				
+					<li class='ipsDataItem'>
+						<div class='ipsDataItem_icon ipsPos_top'>
+							
+
+
+	<a href="https://homemasters.ru/profile/118811-mususu/" data-ipsHover data-ipsHover-target="https://homemasters.ru/profile/118811-mususu/?do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Перейти в профиль Mususu">
+		<img src='data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%239ac462%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EM%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E' alt='Mususu'>
+	</a>
+
+						</div>
+						<div class='ipsDataItem_main cWidgetComments'>
+							<div class="ipsCommentCount ipsPos_right " data-ipsTooltip title='3 ответа'>3</div>
+							
+							<div class='ipsType_break ipsContained'>
+															
+								<a href="https://homemasters.ru/forums/topic/35704-skladnoj-stol-k-ventiljacionnoj-stene/?do=getNewComment" title='Просмотр темы Складной стол к вентиляционной стене' class='ipsDataItem_title'>Складной стол к вентиляционной стене</a>
+							</div>
+							<p class='ipsType_reset ipsType_medium ipsType_blendLinks ipsContained'>
+								<span>
+
+<a href='https://homemasters.ru/profile/118811-mususu/' data-ipsHover data-ipsHover-target='https://homemasters.ru/profile/118811-mususu/?do=hovercard&amp;referrer=https%253A%252F%252Fhomemasters.ru' title="Перейти в профиль Mususu" class="ipsType_break"><span style='color:#86aecc'>Mususu</span></a></span>
+							</p>
+						</div>
+					</li>
+				
+					<li class='ipsDataItem'>
+						<div class='ipsDataItem_icon ipsPos_top'>
+							
+
+
+	<a href="https://homemasters.ru/profile/102754-pobin79/" data-ipsHover data-ipsHover-target="https://homemasters.ru/profile/102754-pobin79/?do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Перейти в профиль pobin79">
+		<img src='data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c4a762%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EP%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E' alt='pobin79'>
+	</a>
+
+						</div>
+						<div class='ipsDataItem_main cWidgetComments'>
+							<div class="ipsCommentCount ipsPos_right " data-ipsTooltip title='3 ответа'>3</div>
+							
+							<div class='ipsType_break ipsContained'>
+															
+								<a href="https://homemasters.ru/forums/topic/32889-nuzhna-pomosh-v-dizaine-dvora-chastnogo-doma/?do=getNewComment" title='Просмотр темы Нужна помощь в дизайне двора частного дома' class='ipsDataItem_title'>Нужна помощь в дизайне двора частного дома</a>
+							</div>
+							<p class='ipsType_reset ipsType_medium ipsType_blendLinks ipsContained'>
+								<span>
+
+<a href='https://homemasters.ru/profile/102754-pobin79/' data-ipsHover data-ipsHover-target='https://homemasters.ru/profile/102754-pobin79/?do=hovercard&amp;referrer=https%253A%252F%252Fhomemasters.ru' title="Перейти в профиль pobin79" class="ipsType_break"><span style='color:#0c849f'>pobin79</span></a></span>
+							</p>
+						</div>
+					</li>
+				
+			</ul>
+		</div>
+	
+</li>
+				
+					
+					<li class='ipsWidget ipsWidget_vertical ipsBox  ' data-blockID='app_cms_Blocks_07wt6xq75' data-blockConfig="true" data-blockTitle="Пользовательские блоки" data-blockErrorMessage="Этот блок не может быть показан. Причиной этому может необходимость его настройки, либо будет отображён после перезагрузки этой страницы."  data-controller='core.front.widgets.block'>
+
+
+<div id="hmsHomePageShareLinks_block">
+	<ul class='ipsList_inline ipsList_noSpacing ipsClearfix' data-controller="core.front.core.sharelink">
+		
+			<li>
+<style>
+	.cShareLink_vkcom {background:#4a76a8;}
+</style>
+<a href="https://vk.com/share.php?url=https%3A%2F%2Fhomemasters.ru&amp;title=%D0%A8%D0%BA%D0%BE%D0%BB%D0%B0+%D1%80%D0%B5%D0%BC%D0%BE%D0%BD%D1%82%D0%B0.+%D0%A0%D0%B5%D0%BC%D0%BE%D0%BD%D1%82+%D1%81%D0%B2%D0%BE%D0%B8%D0%BC%D0%B8+%D1%80%D1%83%D0%BA%D0%B0%D0%BC%D0%B8.+%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%8B+%D0%BF%D1%80%D0%BE%D1%84%D0%B5%D1%81%D1%81%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D0%BE%D0%B2" class="cShareLink cShareLink_vkcom" target="_blank" data-role="shareLink" title='Поделиться в Вконтакте' data-ipsTooltip rel='noopener'>
+	<i class="fa fa-vk"></i>
+</a></li>
+		
+			<li>
+<a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fhomemasters.ru" class="cShareLink cShareLink_facebook" target="_blank" data-role="shareLink" title='Поделиться в Facebook' data-ipsTooltip rel='noopener'>
+	<i class="fa fa-facebook"></i>
+</a></li>
+		
+			<li>
+<a href="http://twitter.com/share?url=https%3A%2F%2Fhomemasters.ru" class="cShareLink cShareLink_twitter" target="_blank" data-role="shareLink" title='Поделиться в Twitter' data-ipsTooltip rel='noopener'>
+	<i class="fa fa-twitter"></i>
+</a></li>
+		
+			<li>
+<style>
+	.cShareLink_mailru {background:#168de2;}
+</style>
+
+<a href="http://connect.mail.ru/share?url=https%3A%2F%2Fhomemasters.ru&amp;title=%D0%A8%D0%BA%D0%BE%D0%BB%D0%B0+%D1%80%D0%B5%D0%BC%D0%BE%D0%BD%D1%82%D0%B0.+%D0%A0%D0%B5%D0%BC%D0%BE%D0%BD%D1%82+%D1%81%D0%B2%D0%BE%D0%B8%D0%BC%D0%B8+%D1%80%D1%83%D0%BA%D0%B0%D0%BC%D0%B8.+%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%8B+%D0%BF%D1%80%D0%BE%D1%84%D0%B5%D1%81%D1%81%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D0%BE%D0%B2" class="cShareLink cShareLink_mailru" target="_blank" data-role="shareLink" title='Поделиться на Mail.ru' data-ipsTooltip rel='noopener'>
+	<img src='https://homemasters.ru/theme_resources/set_resources_2/dabac984e5408bad11b8dd9b12408c52_mailru_share.png' style='max-width: 15px;'>
+</a></li>
+		
+			<li>
+<style>
+	.cShareLink_okru {background:#ee8208;}
+</style>
+<a href="https://connect.ok.ru/offer?url=https%3A%2F%2Fhomemasters.ru&amp;title=%D0%A8%D0%BA%D0%BE%D0%BB%D0%B0+%D1%80%D0%B5%D0%BC%D0%BE%D0%BD%D1%82%D0%B0.+%D0%A0%D0%B5%D0%BC%D0%BE%D0%BD%D1%82+%D1%81%D0%B2%D0%BE%D0%B8%D0%BC%D0%B8+%D1%80%D1%83%D0%BA%D0%B0%D0%BC%D0%B8.+%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%8B+%D0%BF%D1%80%D0%BE%D1%84%D0%B5%D1%81%D1%81%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D0%BE%D0%B2" class="cShareLink cShareLink_okru" target="_blank" data-role="shareLink" title='Поделится в Одноклассники' data-ipsTooltip rel='noopener'>
+	<i class="fa fa-odnoklassniki"></i>
+</a></li>
+		
+			<li></li>
+		
+	</ul>
+</div>
+</li>
+				
+					
+					<li class='ipsWidget ipsWidget_vertical ipsBox  ipsResponsive_block ipsResponsive_hidePhone ipsResponsive_hideTablet' data-blockID='app_cms_Blocks_jv3j1g20f' data-blockConfig="true" data-blockTitle="Пользовательские блоки" data-blockErrorMessage="Этот блок не может быть показан. Причиной этому может необходимость его настройки, либо будет отображён после перезагрузки этой страницы."  data-controller='core.front.widgets.block'>
+
+<!--noindex-->
+<div id="hmsAdvertSideBarSticky">
+	<div id="advertSideBarSticky" class="ipsType_center ipsSpacer_both" __data-ipsSticky__ data-ipsSticky-relativeTo='#ipsLayout_sidebar' data-ipsSticky-disableIn='tablet,phone' data-ipsSticky-stickyClass='hmsAdvertSideBarSticky' data-ipsSticky-spacing='5' data-ipsSticky-width='320px'>
+		<div id="yandexRtbSideBarStickyPoster1" class="yandex-adaptive"></div>
+		<br />
+		<div id="yandexRtbSideBarStickyPoster2" class="yandex-adaptive"></div>
+		
+
+		
+			<script type="text/javascript">
+
+				if ( rtbW >= 980 ){ /*only descktop*/
+					//$("#hmsAdvertSideBarSticky").attr("style", "min-height:300px"); // jquery
+					document.getElementById("hmsAdvertSideBarSticky").setAttribute("style", "min-height:300px");
+					/*<!-- HM Adsense Responsive In RTB -->*/
+					document.getElementById("yandexRtbSideBarStickyPoster1").style.display = "block";
+					var g = document.createElement("ins");
+					g.className = "adsbygoogle";
+					g.style.display = "block";
+					g.style.width = "320px";
+					g.style.height = "250px";
+					g.setAttribute("data-ad-client", "ca-pub-3696910648049715");
+					g.setAttribute("data-ad-slot", "4027257701");
+					document.getElementById("yandexRtbSideBarStickyPoster1").appendChild(g);
+					(adsbygoogle = window.adsbygoogle || []).push({});
+				}
+
+			</script>
+			<script type="text/javascript">
+
+				if ( rtbW >= 980 ){ /*only descktop*/
+
+					//var ipsMAH = $("#ipsLayout_mainArea").height();// jquery
+					var ipsMAH = document.getElementById('ipsLayout_mainArea').offsetHeight;
+
+					
+
+						var maxH = '1500';
+
+						//$("#hmsAdvertSideBarSticky").attr("style", "min-height:600px");//jquery
+						document.getElementById("hmsAdvertSideBarSticky").setAttribute("style", "min-height:600px");
+
+					
+
+					if ( ipsMAH > maxH){
+						//$("#advertSideBarSticky").attr("data-ipsSticky", "");//jquery
+						document.getElementById("advertSideBarSticky").setAttribute("data-ipsSticky", "");
+					}
+
+					/*<!-- HM Adsense Responsive In RTB -->*/
+					document.getElementById("yandexRtbSideBarStickyPoster2").style.display = "block";
+					var g = document.createElement("ins");
+					g.className = "adsbygoogle";
+					g.style.display = "block";
+					g.style.width = "320px";
+					g.style.height = "250px";
+					g.setAttribute("data-ad-client", "ca-pub-3696910648049715");
+					g.setAttribute("data-ad-slot", "4027257701");
+					document.getElementById("yandexRtbSideBarStickyPoster2").appendChild(g);
+					(adsbygoogle = window.adsbygoogle || []).push({});
+				}
+
+			</script>
+		
+	</div>
+</div>
+<!--/noindex--></li>
+				
+			
+		</ul>
+	</div>
+
+	</div>
+
+					<ul class="ipsList_reset">
+						<li>
+
+</li>
+					</ul>
+					
+
+	<span class='ipsBreadcrumb ipsBreadcrumb_bottom'></span>
+
+						
+						
+							
+
+
+<!--noindex-->
+<ul id="hmsAdvertFooter" class="ipsList_reset ipsType_center ipsSpacer_both">
+	<li class="ipsType_center">
+		<div id="yandexRtbFooter" class="yandex-adaptive"></div>
+		
+
+		
+			<script type="text/javascript">
+				/*<!-- HM Adsense Responsive In RTB -->*/
+				document.getElementById("yandexRtbFooter").style.display = "block";
+				var g = document.createElement("ins");
+				g.className = "adsbygoogle";
+				g.style.display = "block";
+				g.setAttribute("data-ad-format", "horizontal");
+				g.setAttribute("data-ad-client", "ca-pub-3696910648049715");
+				g.setAttribute("data-ad-slot", "4027257701");
+				document.getElementById("yandexRtbFooter").appendChild(g);
+				(adsbygoogle = window.adsbygoogle || []).push({});
+			</script>
+		
+	<li>
+</ul>
+<!--/noindex-->
+						
+						
+				</div>
+			</div>
+			
+		</main>
+		
+			<footer id='ipsLayout_footer' class='ipsClearfix'>
+				<div class='ipsLayout_container'>
+					
+					
+
+
+<ul class="ipsList_inline ipsType_center ipsSpacer_top" id="elFooterLinks">
+	
+	
+		<li>
+			<a href="#elNavLang_menu" id="elNavLang" data-ipsmenu data-ipsmenu-above><i class="ipsFlag ipsFlag-ru"></i> Язык <i class="fa fa-caret-down"></i></a>
+			<ul id="elNavLang_menu" class="ipsMenu ipsMenu_selectable ipsHide">
+			
+				<li class="ipsMenu_item">
+					<form action="//homemasters.ru/language/?csrfKey=453b28cb52e78097a3fe861f2d10833b" method="post">
+					<input type="hidden" name="ref" value="aHR0cHM6Ly9ob21lbWFzdGVycy5ydQ=="><button type="submit" name="id" value="1" class="ipsButton ipsButton_link ipsButton_link_secondary"><i class="ipsFlag ipsFlag-us"></i> English (USA) </button>
+					</form>
+				</li>
+			
+				<li class="ipsMenu_item ipsMenu_itemChecked">
+					<form action="//homemasters.ru/language/?csrfKey=453b28cb52e78097a3fe861f2d10833b" method="post">
+					<input type="hidden" name="ref" value="aHR0cHM6Ly9ob21lbWFzdGVycy5ydQ=="><button type="submit" name="id" value="2" class="ipsButton ipsButton_link ipsButton_link_secondary"><i class="ipsFlag ipsFlag-ru"></i> Русский (RU) (По умолчанию)</button>
+					</form>
+				</li>
+			
+			</ul>
+</li>
+	
+	
+	
+	
+		<li><a href="https://homemasters.ru/privacy/">Конфиденциальность</a></li>
+	
+	
+		<li><a rel="nofollow" href="https://homemasters.ru/contact/" data-ipsdialog data-ipsdialog-remotesubmit data-ipsdialog-flashmessage="Спасибо, ваше сообщение было отправлено администраторам." data-ipsdialog-title="Обратная связь" >Обратная связь</a></li>
+	
+	
+	
+		<li><a href="https://homemasters.ru/guidelines/">Правила</a></li>
+	
+	
+		
+			<li><a href="https://homemasters.ru/leaderboard/">Таблица лидеров</a></li>
+		
+		
+		
+	
+		<li><a href="https://homemasters.ru/staff/">Администрация</a></li>
+	
+</ul>
+<a href="#" class="scrollTop fa fa-sort-asc ipsHide"></a>
+
+
+<p id='elCopyright'>
+	<span id='elCopyright_userLine'>HomeMasters.RU</span>
+	<a rel='nofollow' title='Invision Community' href='https://www.invisioncommunity.com/'>Powered by Invision Community</a>
+</p>
+				</div>
+				
+
+<!--noindex-->
+<div id="hmsFooter">
+	<div class="ipsLayout_container">
+		<div class="ipsType_center">
+			<!-- counters kgb -->
+			<!--LiveInternet counter--><script type="text/javascript"><!--
+			document.write("<a href='//www.liveinternet.ru/click' "+
+			"target=_blank><img src='//counter.yadro.ru/hit?t21.2;r"+
+			escape(document.referrer)+((typeof(screen)=="undefined")?"":
+			";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+			screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+			";"+Math.random()+
+			"' alt='' title='LiveInternet: показано число просмотров за 24"+
+			" часа, посетителей за 24 часа и за сегодня' "+
+			"border=0 width=88 height=31></a>")//--></script><!--LiveInternet-->
+			<!-- Rating@Mail.ru counter -->
+			<script type="text/javascript">
+			var _tmr = window._tmr || (window._tmr = []);
+			_tmr.push({id: "2815118", type: "pageView", start: (new Date()).getTime()});
+			(function (d, w, id) {
+			  if (d.getElementById(id)) return;
+			  var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;
+			  ts.src = (d.location.protocol == "https:" ? "https:" : "https:") + "//top-fwz1.mail.ru/js/code.js";
+			  var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+			  if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+			})(document, window, "topmailru-code");
+			</script><noscript><div style="position:absolute;left:-10000px;">
+			<img src="https://top-fwz1.mail.ru/counter?id=2815118;js=na" style="border:0;" height="1" width="1" alt="Рейтинг@Mail.ru" />
+			</div></noscript>
+			<!-- //Rating@Mail.ru counter -->
+			<!-- Rating@Mail.ru logo -->
+			<a href="https://top.mail.ru/jump?from=2815118">
+			<img src="https://top-fwz1.mail.ru/counter?id=2815118;t=418;l=1"
+			style="border:0;" height="31" width="88" alt="Рейтинг@Mail.ru" /></a>
+			<!-- //Rating@Mail.ru logo -->
+			<!-- Top100 (Kraken) Counter -->
+			<script>
+				(function (w, d, c) {
+				(w[c] = w[c] || []).push(function() {
+					var options = {
+						project: 4500617
+					};
+					try {
+						w.top100Counter = new top100(options);
+					} catch(e) { }
+				});
+				var n = d.getElementsByTagName("script")[0],
+				s = d.createElement("script"),
+				f = function () { n.parentNode.insertBefore(s, n); };
+				s.type = "text/javascript";
+				s.async = true;
+				s.src =
+				(d.location.protocol == "https:" ? "https:" : "http:") +
+				"//st.top100.ru/top100/top100.js";
+
+				if (w.opera == "[object Opera]") {
+				d.addEventListener("DOMContentLoaded", f, false);
+			} else { f(); }
+			})(window, document, "_top100q");
+			</script>
+			<noscript>
+			  <img src="//counter.rambler.ru/top100.cnt?pid=4500617" alt="Топ-100" />
+			</noscript>
+			<!-- END Top100 (Kraken) Counter -->
+		</div>
+	</div>
+</div>
+<!--/noindex-->
+			</footer>
+			
+
+<div id="elMobileDrawer" class="ipsDrawer ipsHide">
+	<div class="ipsDrawer_menu">
+		<a href="#" class="ipsDrawer_close" data-action="close"><span>×</span></a>
+		<div class="ipsDrawer_content">
+			
+				<div class="ipsPadding">
+					<ul class="ipsToolList ipsToolList_vertical">
+<li>
+							<a href="https://homemasters.ru/login/" id="elSigninButton_mobile" class="ipsButton ipsButton_light ipsButton_small ipsButton_fullWidth">Войти</a>
+						</li>
+						
+							<li>
+								
+									<a href="https://homemasters.ru/register/" data-ipsdialog data-ipsdialog-size="narrow" data-ipsdialog-title="Регистрация" data-ipsdialog-fixed="true"  id="elRegisterButton_mobile" class="ipsButton ipsButton_small ipsButton_fullWidth ipsButton_important">Регистрация</a>
+								
+							</li>
+						
+					</ul>
+</div>
+			
+
+			<ul class="ipsDrawer_list">
+				
+
+				
+				
+
+				
+					
+						
+						
+							<li class="ipsDrawer_itemParent">
+								<h4 class="ipsDrawer_title"><a href="#">Ленты</a></h4>
+								<ul class="ipsDrawer_list">
+<li data-action="back"><a href="#">Назад</a></li>
+
+									
+										
+
+
+	
+		
+			<li>
+				<a href='https://homemasters.ru' >
+					Вся активность
+				</a>
+			</li>
+		
+	
+
+	
+		
+			<li>
+				<a href='https://homemasters.ru/discover/forums/' >
+					Форумы
+				</a>
+			</li>
+		
+	
+
+	
+		
+			<li>
+				<a href='https://homemasters.ru/discover/blogs/' >
+					Блоги
+				</a>
+			</li>
+		
+	
+
+	
+		
+			<li>
+				<a href='https://homemasters.ru/discover/articles/' >
+					Статьи
+				</a>
+			</li>
+		
+	
+
+	
+		
+			<li>
+				<a href='https://homemasters.ru/discover/gallery/' >
+					Галерея
+				</a>
+			</li>
+		
+	
+
+	
+		
+			<li>
+				<a href='https://homemasters.ru/discover/companies/' >
+					Компании
+				</a>
+			</li>
+		
+	
+
+	
+		
+			<li>
+				<a href='https://homemasters.ru/discover/classifieds/' >
+					Объявления
+				</a>
+			</li>
+		
+	
+
+									
+									
+								</ul>
+</li>
+						
+					
+				
+					
+						
+						
+							<li><a href="https://homemasters.ru" >Главная</a></li>
+						
+					
+				
+					
+						
+						
+							<li><a href="https://homemasters.ru/forums/" >Форумы</a></li>
+						
+					
+				
+					
+						
+						
+							<li><a href="https://homemasters.ru/blogs/" >Блоги</a></li>
+						
+					
+				
+					
+				
+					
+						
+						
+							<li><a href="https://homemasters.ru/articles/" >Статьи</a></li>
+						
+					
+				
+					
+						
+						
+							<li><a href="https://homemasters.ru/gallery/" >Галерея</a></li>
+						
+					
+				
+					
+						
+						
+							<li><a href="https://homemasters.ru/companies/" >Стройфирмы</a></li>
+						
+					
+				
+					
+						
+						
+							<li><a href="https://homemasters.ru/search/?type=core_members&amp;core_pfield_22=%D0%94%D0%B0" >Мастера</a></li>
+						
+					
+				
+					
+						
+						
+							<li><a href="https://homemasters.ru/classifieds/" >Объявления</a></li>
+						
+					
+				
+					
+						
+						
+							<li><a href="https://homemasters.ru/docs/" >Документы</a></li>
+						
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+				
+			</ul>
+</div>
+	</div>
+</div>
+
+<div id="elMobileCreateMenuDrawer" class="ipsDrawer ipsHide">
+	<div class="ipsDrawer_menu">
+		<a href="#" class="ipsDrawer_close" data-action="close"><span>×</span></a>
+		<div class="ipsDrawer_content ipsSpacer_bottom ipsPad">
+			<ul class="ipsDrawer_list">
+<li class="ipsDrawer_listTitle ipsType_reset">Создать...</li>
+				
+			</ul>
+</div>
+	</div>
+</div>
+
+			
+			
+
+	
+	<script type='text/javascript'>
+		var ipsDebug = false;
+	
+		var CKEDITOR_BASEPATH = '//homemasters.ru/applications/core/interface/ckeditor/ckeditor/';
+	
+		var ipsSettings = {
+			
+			
+			cookie_path: "/",
+			
+			cookie_prefix: "ips4_",
+			
+			
+			cookie_ssl: true,
+			
+			upload_imgURL: "https://homemasters.ru/theme_resources/set_resources_2/0cb563f8144768654a2205065d13abd6_upload.png",
+			message_imgURL: "https://homemasters.ru/theme_resources/set_resources_2/0cb563f8144768654a2205065d13abd6_message.png",
+			notification_imgURL: "https://homemasters.ru/theme_resources/set_resources_2/0cb563f8144768654a2205065d13abd6_notification.png",
+			baseURL: "//homemasters.ru/",
+			jsURL: "//homemasters.ru/applications/core/interface/js/js.php",
+			csrfKey: "453b28cb52e78097a3fe861f2d10833b",
+			antiCache: "80d8767edd1614244598",
+			jsAntiCache: "80d8767edd1614604702",
+			disableNotificationSounds: false,
+			useCompiledFiles: true,
+			links_external: true,
+			memberID: 0,
+			lazyLoadEnabled: true,
+			blankImg: "//homemasters.ru/applications/core/interface/js/spacer.png",
+			analyticsProvider: "ga",
+			viewProfiles: true,
+			mapProvider: 'google',
+			mapApiKey: "AIzaSyCNaG4wEC718duqBzJ-jxf0ZBxZR6S25XY"
+		};
+
+		
+
+		
+			ipsSettings['maxImageDimensions'] = {
+				width: 855,
+				height: 855
+			};
+		
+
+	</script>
+
+
+
+
+
+<script type='text/javascript' src='https://homemasters.ru/theme_resources/javascript_global/root_library.js?v=80d8767edd1614604702' data-ips></script>
+
+
+<script type='text/javascript' src='https://homemasters.ru/theme_resources/javascript_global/root_js_lang_2.js?v=80d8767edd1614604702' data-ips></script>
+
+
+<script type='text/javascript' src='https://homemasters.ru/theme_resources/javascript_global/root_framework.js?v=80d8767edd1614604702' data-ips></script>
+
+
+<script type='text/javascript' src='https://homemasters.ru/theme_resources/javascript_core/global_global_core.js?v=80d8767edd1614604702' data-ips></script>
+
+
+<script type='text/javascript' src='https://homemasters.ru/theme_resources/javascript_core/plugins_plugins.js?v=80d8767edd1614604702' data-ips></script>
+
+
+<script type='text/javascript' src='https://homemasters.ru/theme_resources/javascript_global/root_front.js?v=80d8767edd1614604702' data-ips></script>
+
+
+<script type='text/javascript' src='https://homemasters.ru/theme_resources/javascript_core/front_front_core.js?v=80d8767edd1614604702' data-ips></script>
+
+
+<script type='text/javascript' src='https://homemasters.ru/theme_resources/javascript_core/front_front_streams.js?v=80d8767edd1614604702' data-ips></script>
+
+
+<script type='text/javascript' src='https://homemasters.ru/theme_resources/javascript_core/front_front_statuses.js?v=80d8767edd1614604702' data-ips></script>
+
+
+<script type='text/javascript' src='https://homemasters.ru/theme_resources/javascript_core/front_app.js?v=80d8767edd1614604702' data-ips></script>
+
+
+<script type='text/javascript' src='https://homemasters.ru/theme_resources/javascript_global/root_map.js?v=80d8767edd1614604702' data-ips></script>
+
+
+
+	<script type='text/javascript'>
+		
+			ips.setSetting( 'date_format', jQuery.parseJSON('"dd.mm.yy"') );
+		
+			ips.setSetting( 'date_first_day', jQuery.parseJSON('0') );
+		
+			ips.setSetting( 'ipb_url_filter_option', jQuery.parseJSON('"none"') );
+		
+			ips.setSetting( 'url_filter_any_action', jQuery.parseJSON('"moderate"') );
+		
+			ips.setSetting( 'bypass_profanity', jQuery.parseJSON('0') );
+		
+			ips.setSetting( 'emoji_style', jQuery.parseJSON('"native"') );
+		
+			ips.setSetting( 'emoji_shortcodes', jQuery.parseJSON('true') );
+		
+			ips.setSetting( 'emoji_ascii', jQuery.parseJSON('true') );
+		
+			ips.setSetting( 'emoji_cache', jQuery.parseJSON('1611834749') );
+		
+			ips.setSetting( 'image_jpg_quality', jQuery.parseJSON('85') );
+		
+			ips.setSetting( 'cloud2', jQuery.parseJSON('false') );
+		
+			ips.setSetting( 'minimizeQuote_size', jQuery.parseJSON('4') );
+		
+			ips.setSetting( 'minimizeQuote_showFirstAppear', jQuery.parseJSON('0') );
+		
+			ips.setSetting( 'stream_config', {"id":0,"url":"https:\/\/homemasters.ru","owner":null,"stream_include_comments":false,"stream_read":null,"stream_follow":null,"stream_default_view":"expanded","stream_sort":null,"stream_ownership":null,"stream_date_type":"relative","stream_classes":null,"containers":[],"stream_club_select":"all","stream_club_filter":"","stream_followed_types":[],"stream_classes_type":0,"stream_date_relative_days":365} );
+		
+		
+	</script>
+
+
+
+<script type='application/ld+json'>
+{
+    "@context": "http://www.schema.org",
+    "publisher": "https://homemasters.ru/#organization",
+    "@type": "WebSite",
+    "@id": "https://homemasters.ru/#website",
+    "mainEntityOfPage": "https://homemasters.ru/",
+    "name": "Школа ремонта. Ремонт своими руками. Советы профессионалов",
+    "url": "https://homemasters.ru/",
+    "potentialAction": {
+        "type": "SearchAction",
+        "query-input": "required name=query",
+        "target": "https://homemasters.ru/search/?q={query}"
+    },
+    "inLanguage": [
+        {
+            "@type": "Language",
+            "name": "English (USA)",
+            "alternateName": "en-US"
+        },
+        {
+            "@type": "Language",
+            "name": "Русский (RU)",
+            "alternateName": "ru-RU"
+        }
+    ]
+} 
+</script>
+
+<script type='application/ld+json'>
+{
+    "@context": "http://www.schema.org",
+    "@type": "Organization",
+    "@id": "https://homemasters.ru/#organization",
+    "mainEntityOfPage": "https://homemasters.ru/",
+    "name": "Школа ремонта. Ремонт своими руками. Советы профессионалов",
+    "url": "https://homemasters.ru/",
+    "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Смоленская",
+        "addressLocality": "Санкт-Петербург",
+        "addressRegion": "Санкт-Петербург",
+        "postalCode": "196000",
+        "addressCountry": "RU"
+    }
+} 
+</script>
+
+<script type='application/ld+json'>
+{
+    "@context": "http://schema.org",
+    "@type": "ContactPage",
+    "url": "https://homemasters.ru/contact/"
+} 
+</script>
+
+
+			
+			
+		
+		<!--ipsQueryLog-->
+		<!--ipsCachingLog-->
+		
+		
+			
+		
+		
+<script async src="https://an.yandex.ru/system/widget.js"></script>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!--
+
+	
+		
+		
+		
+
+		<script type="text/javascript">
+			//if ( rtbW >= 979 ){
+			//    $("#MyBannerSideBar").html("");
+			//}
+		   // else{
+			//    $("#MyBannerTop").html("");
+			//}
+		</script>
+	
+
+-->
+
+
+	<script type="text/javascript">
+		$('[data-mentionid]').removeAttr("href data-ipshover data-ipshover-target");
+		$('[data-ipsquote]').removeAttr("data-ipsquote-userid");
+	</script>
+
+
+
+	
+
+
+
+
+
+
+<!--
+<script type="text/javascript">
+	//$(function(){
+	  //$('a[href^="#"]').on('click', function(event) {
+	    //event.preventDefault();
+	    //var sc = $(this).attr("href"), dn = $(sc).offset().top;
+	    //$('html, body').animate({scrollTop: dn}, 500);
+	  //});
+	//});
+</script>
+-->
+
+
+	<script type="text/javascript">
+		/*show pass*/
+		$(function(){
+			$('[name="password"]').after('<div id="toggle-password" class="fa fa-eye fa-lg"></div');
+			$('#toggle-password').click(function() {
+				var type = $('[name="password"]').attr('type') == "text" ? "password" : 'text';
+				$('#toggle-password').toggleClass("fa-eye fa-eye-slash");
+				$('[name="password"]').prop('type', type);
+			});
+		});
+	</script>
+
+	</body>
+</html>

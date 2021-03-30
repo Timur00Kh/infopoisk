@@ -1,0 +1,770 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="ru">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+<meta name="language" content="ru-RU">
+<meta name="keywords" content="����������, ��������, �����������, �����������, �����������, ����������� ��������, ����������, ����������, �����������, ���������, ���������������� ��������������, ������ �����������, �����">
+<meta name="description" content="ChildPsy.ru � ��������-������ �������� ����������� ��� ������������ �� ������� ����������, ���������� � ������� �����������. ������, �����, ������������ �������, ����������� � ������������ �� �������� ���������� � ������� ����������. ��������� �����������, ��������������� ���������.">
+<meta name="og:image" content="http://childpsy.ru/images/childpsy.gif">
+<title>������� ���������� ��� ������������</title>
+<link href="/bitrix/js/main/core/css/core.css?1356635397" type="text/css" rel="stylesheet">
+<link href="/assets/fontawesome/css/all.min.css?1584967560" type="text/css" rel="stylesheet">
+<link href="/js/fancybox/jquery.fancybox-1.3.4.css?1292888644" type="text/css" rel="stylesheet">
+<link href="/js/jqcloud/jqcloud.css?1370800280" type="text/css" rel="stylesheet">
+<link href="/bitrix/templates/.default/components/psy_k/super.component/top_menu/style.css?1338907008" type="text/css" rel="stylesheet">
+<link href="/bitrix/components/propodhod/main.login_field/templates/.default/style.css?1208518320" type="text/css" rel="stylesheet">
+<link href="/bitrix/templates/.default/components/bitrix/menu/general_blue_left_menu/style.css?1589713637" type="text/css" rel="stylesheet">
+<link href="/bitrix/templates/.default/components/bitrix/breadcrumb/navchain_childpsy/style.css?1206202004" type="text/css" rel="stylesheet">
+<link href="/bitrix/templates/.default/components/psy_k/super.component/slider_box_main/style.css?1438990421" type="text/css" rel="stylesheet">
+<link href="/bitrix/templates/.default/components/psy_k/super.component/calendar_one/style.css?1438802365" type="text/css" rel="stylesheet">
+<link href="/bitrix/templates/.default/components/psy_k/super.component/localphoto_v2/js/jsor-jcarousel/skins/tango/skin.css?1353924828" type="text/css" rel="stylesheet">
+<link href="/bitrix/templates/.default/components/psy_k/super.component/localphoto_v2/style.css?1353924494" type="text/css" rel="stylesheet">
+<link href="/bitrix/templates/childpsy/styles.css?1590914467" type="text/css" rel="stylesheet">
+<link href="/bitrix/templates/childpsy/template_styles.css?1586682252" type="text/css" rel="stylesheet">
+<script type="text/javascript" src="/bitrix/js/main/core/core.js?1356635397"></script>
+<script type="text/javascript">BX.message({'LANGUAGE_ID':'ru','FORMAT_DATE':'DD.MM.YYYY','FORMAT_DATETIME':'DD.MM.YYYY HH:MI:SS','COOKIE_PREFIX':'BITRIX_SM','USER_ID':'','SERVER_TIME':'1614628047','SERVER_TZ_OFFSET':'10800','USER_TZ_OFFSET':'0','USER_TZ_AUTO':'Y','bitrix_sessid':'9d7cd48d41a53c6ae28976d09b5a12e1','SITE_ID':'ru','JS_CORE_LOADING':'��������...','JS_CORE_NO_DATA':'- ��� ������ -','JS_CORE_WINDOW_CLOSE':'�������','JS_CORE_WINDOW_EXPAND':'����������','JS_CORE_WINDOW_NARROW':'�������� � ����','JS_CORE_WINDOW_SAVE':'���������','JS_CORE_WINDOW_CANCEL':'��������','JS_CORE_H':'�','JS_CORE_M':'�','JS_CORE_S':'�','JSADM_AI_HIDE_EXTRA':'������ ������','JSADM_AI_ALL_NOTIF':'�������� ���','JSADM_AUTH_REQ':'��������� �����������!','JS_CORE_WINDOW_AUTH':'�����'})</script>
+<script type="text/javascript" src="/bitrix/js/main/core/core_ajax.js?1356635397"></script>
+<script type="text/javascript" src="/bitrix/js/main/session.js?1306880597"></script>
+<script type="text/javascript">
+bxSession.Expand(1440, '9d7cd48d41a53c6ae28976d09b5a12e1', false, '972fe1f50c400bc9ffd3c5985cadb9dc');
+</script>
+<link rel="icon" type="image/vnd.microsoft.icon" href="/favicon.ico">
+<link rel="canonical" href="http://childpsy.ru/">
+<script type="text/javascript" src="/js/jquery-1.4.2.min.js?1586699139"></script>
+<script type="text/javascript" src="/js/jqcloud/jqcloud-1.0.3.js?1370801914"></script>
+<script type="text/javascript" src="/js/fancybox/jquery.fancybox-1.3.4.pack.js?1292888645"></script>
+<script type="text/javascript" src="/bitrix/templates/childpsy/script.js?1586683129"></script>
+<script type="text/javascript" src="/bitrix/templates/.default/components/psy_k/super.component/localphoto_v2/js/jsor-jcarousel/lib/jquery.jcarousel.min.js?1353417356"></script>
+</head>
+<body>
+<table class="main" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+        <td class="main_top">
+            <table class="main_top_inn" border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                    <td class="main_top_inn_left">
+                        <div class="_ml79"><a href="/"><img src="/images/childpsy_logo_ru_white_full.svg" alt="������� ����������"></a>
+</div>
+                    </td>
+                    <td>&nbsp;</td>
+                    <td class="main_top_inn_right">
+                        <table border="0" cellspacing="0" cellpadding="0">
+                            <tr>
+                                <td class="links_top">
+                                    <a href="/about/" >� �������</a><img src="/images/top_links_sep.gif" alt=""><a href="/about/contacts.php">��������</a><img src="/images/top_links_sep.gif" alt=""><a href="/about/partners.php" >����������� ���������</a>
+<div class="topsocialbox" style="padding-top: 15px;"><a title="�������� Childpsy �� facebook" href="https://www.facebook.com/childpsy.ru/" ><img style="margin-right:8px" height="30" border="0" src="/images/soc/fb.png" alt=""></a><a href="https://twitter.com/childpsyru" title="Twitter Childpsy" ><img height="30" border="0" src="/images/soc/tw.png" alt=""></a></div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="search">
+                                    <form action="/search/">
+	<input class="search_input" type="text" name="q" value="" size="15" maxlength="50"><input class="search_submit" style="cursor: hand;" type="submit" value="">
+</form>
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <table class="main_menu" border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                    <td class="main_menu_left">
+                        <img src="/bitrix/templates/childpsy/images/1.gif" alt="" width="31" height="1">
+                    </td>
+                    <td>
+                        <table class="menu" border="0" cellspacing="0" cellpadding="0">
+                            <tr>
+                                <td class="menu_padd">
+                                    <img src="/bitrix/templates/childpsy/images/1.gif" alt="" width="192" height="1">
+                                </td>
+                                <td>
+                                    <table style="height: 37px;" border="0" cellpadding="0" cellspacing="0" width="1%">
+<tbody><tr><td class="menu_item"><a href="/news/">�������</a></td><td class="menu_item"><a href="/edu/">�����������</a></td><td class="menu_item"><a href="/conf/">�����������</a></td><td class="menu_item"><a href="/lib/">����������</a></td><td class="menu_item"><a href="/dissertations/">�����������</a></td></tr></tbody></table>                                </td>
+                                <td>&nbsp;</td>
+                                <td class="menu_right_auth">
+                                    <div style="margin-left: 49px; white-space: nowrap;">
+                                        
+<img src="/images/auth_login.gif" class="img_login" alt=""><a href="/auth.php">����</a><img src="/images/auth_sep.gif" class="img_sep" alt=""><img src="/images/auth_reg.gif" class="img_reg" alt=""><a href="/personal/index.php?register=yes">�����������</a>
+
+                                    </div>
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                    <td class="main_menu_right">
+                        <img src="/bitrix/templates/childpsy/images/1.gif" alt="" width="29" height="1">
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+    <tr>
+        <td class="middle">
+            <table class="middle_main"  border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                    <td class="middle_left">
+                        <div class="mleft_main">
+                                                        <div class="mleft_rubrics">
+                                 <h4>������� &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;����������</h4><ul id="left_menu_ul"><li><a class="left_menu_item" href="/rubricator/branch.php?oid=21717">���������� ��������  </a></li><li><a class="left_menu_item" href="/rubricator/branch.php?oid=21718">��������������  </a></li><li><a class="left_menu_item" href="/rubricator/branch.php?oid=21720">�����������  </a></li><li><a class="left_menu_item" href="/rubricator/branch.php?oid=21719">���������������  </a></li><li><a class="left_menu_item" href="/rubricator/branch.php?oid=21759">����������������  </a></li><li><a class="left_menu_item" href="/rubricator/branch.php?oid=21764">����������  </a></li></ul>                            </div>
+                            <div class="mleft_rss">
+                                <span class="ribbon">
+  <a href="/rss_streams/">RSS</a>
+</span>
+<span class="rss_edit">
+  <a href="/rss_streams/">���������</a>
+</span>
+                            </div>
+                            <div class="mleft_other">
+                                <ul id="ul">
+    <li><a class="ul_item" href="/organizations/">��������������� �����������</a></li>
+</ul>
+                            </div>
+
+                            <!-- LEFT ADV -->
+                            <div style="margin-top: 2em;">
+                                                                                            </div>
+                            <div style="margin-top: 1em;">
+                                                            </div>
+                            <div style="margin: 1em 0 2em;">
+                                                            </div>
+                        </div>
+                    </td>
+                    <td class="middle_left_sep">
+                        <img src="/bitrix/templates/childpsy/images/1.gif" alt="" width="7" height="1">
+                    </td>
+                    <td class="middle_center main_text">
+                        <div style="padding-bottom: 15px;">
+                                                    </div>
+                        
+<div>
+	<script src="/bitrix/templates/.default/components/psy_k/super.component/slider_box_main/script.js?1438979654" type="text/javascript"></script><table class="slider_tbl" style="width: 100%;">
+    <tr>
+        <td style="width: 414px;">
+            <div id="slider-viewport">
+                <div class="slideitem">
+                    <div class="slide_box_caption"></div>
+                                            <img id='i1' class="slider-big-img" src="/upload/iblock/9f7/pexels-photo-1212809.jpeg" alt="">
+                        <div class="slide_box_caption_text" rel="1">
+                            <a href="/news/36861/">
+                                <h3>������ ������� ������� ���������-�-�. ����� �������: ������� ���������� ������</h3>
+                            </a><span class="cts"></span>
+                        </div>
+                                            <img id='i2' class="slider-big-img" src="/upload/iblock/9b5/pexels-photo-3768127.jpeg" alt="">
+                        <div class="slide_box_caption_text" rel="2" style="display: none;">
+                            <a href="/edu/36807/">
+                                <h3>��������������� ������ &quot;�������� �� �������&quot;</h3>
+                            </a><span class="cts"></span>
+                        </div>
+                                            <img id='i3' class="slider-big-img" src="/upload/iblock/4e7/pexels-photo-3807571.jpeg" alt="">
+                        <div class="slide_box_caption_text" rel="3" style="display: none;">
+                            <a href="/conf/36862/">
+                                <h3>������ �������� �������</h3>
+                            </a><span class="cts"></span>
+                        </div>
+                                            <img id='i4' class="slider-big-img" src="/upload/iblock/a16/pexels-photo-5634667.jpeg" alt="">
+                        <div class="slide_box_caption_text" rel="4" style="display: none;">
+                            <a href="/lib/books/id/36825.php">
+                                <h3>������ �������. ��� ���� - ������ ���������</h3>
+                            </a><span class="cts"></span>
+                        </div>
+                                    </div>
+            </div>
+        </td>
+        <td>
+            <table class="slider_tbl_preview" style="width: 100%;">
+                                    <tr id="r1" rel="1" class="sel brd">
+                        <td><img class="slider-small-img" src="/upload/iblock/9f7/pexels-photo-1212809.jpeg" alt=""></td>
+                        <td class="t2"><div><b><a href="/news/">�������</a></b><br>������ ������� ������� ���������-�-�. ����� �������: ������� ���������� ������</div></td>
+                    </tr>
+                                    <tr id="r2" rel="2" class="brd btg">
+                        <td><img class="slider-small-img" src="/upload/iblock/9b5/pexels-photo-3768127.jpeg" alt=""></td>
+                        <td class="t2"><div><b><a href="/edu/">�����������</a></b><br>��������������� ������ &quot;�������� �� �������&quot;</div></td>
+                    </tr>
+                                    <tr id="r3" rel="3" class="brd btg">
+                        <td><img class="slider-small-img" src="/upload/iblock/4e7/pexels-photo-3807571.jpeg" alt=""></td>
+                        <td class="t2"><div><b><a href="/conf/">�����������</a></b><br>������ �������� �������</div></td>
+                    </tr>
+                                    <tr id="r4" rel="4" class="brd btg">
+                        <td><img class="slider-small-img" src="/upload/iblock/a16/pexels-photo-5634667.jpeg" alt=""></td>
+                        <td class="t2"><div><b><a href="/lib/">����������</a></b><br>������ �������. ��� ���� - ������ ���������</div></td>
+                    </tr>
+                            </table>
+        </td>
+    </tr>
+</table>
+</div>
+
+<div style="margin-top: 3em;">
+		<table border="0" cellspacing="0" cellpadding="0">
+        <tr>
+            <td class="center_pubs" style="width: 50%">
+                <h2>������� ���������� <font class="small_text"><a href="/news/">1326</a></font></h2>
+            </td>
+            <td></td>
+        </tr>
+        <tr>
+            <td class="center_pubs">
+                <font class="small_text">19.02.2021</font><br><a class="grey_hover" href="/news/36861/">������ ������� ������� ���������-�-�. ����� �������: ������� ���������� ������</a><div style="height:6px"></div><span style="font-size: 11px; color: #666;"></span>            </td>
+            <td class="center_pubs">
+                <font class="small_text">30.12.2020</font><br><a class="grey_hover" href="/news/36852/">���������� �����: ��� ������-��������� ������ ����� ����� ��������� �����</a><div style="height:6px"></div><span style="font-size: 11px; color: #666;"></span>            </td>
+        </tr>
+        <tr>
+            <td class="center_pubs">
+                <font class="small_text">29.01.2021</font><br><a class="grey_hover" href="/news/36856/">��� ��������?</a><div style="height:6px"></div><span style="font-size: 11px; color: #666;"></span>            </td>
+            <td class="center_pubs">
+                <font class="small_text">25.12.2020</font><br><a class="grey_hover" href="/news/36850/">������ ����� ����������� �����������</a><div style="height:6px"></div><span style="font-size: 11px; color: #666;"></span>            </td>
+        </tr>
+        <tr>
+            <td class="center_pubs">
+                <font class="small_text">22.01.2021</font><br><a class="grey_hover" href="/news/36854/">������ ������������� ��������� ���������� ���������� �������� ����� �� ����������� ����������� ��������������� ��������</a><div style="height:6px"></div><span style="font-size: 11px; color: #666;"></span>            </td>
+            <td class="center_pubs">
+                <font class="small_text">24.12.2020</font><br><a class="grey_hover" href="/news/36849/">MGPPU - LIB - ����� �����������</a><div style="height:6px"></div><span style="font-size: 11px; color: #666;"></span>            </td>
+        </tr>
+    </table>
+</div>
+
+<div style="padding: 1px; margin: 0 1px 15px 1px; text-align: center;">
+	</div>
+
+<div>
+	    <table class="center_pubs_main" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+            <td class="center_pubs" colspan="2">
+            <h2>��������������� ��������� <font class="small_text"><a href="/edu/index.php">327</a></font></h2>
+            </td>
+        </tr>
+                    <tr>
+                <td class="center_pubs" style="width: 50%">
+                    <p class="pubs">
+                        <a class="grey_hover" href="/edu/36807/">��������������� ������ &quot;�������� �� �������&quot;</a>
+                        <br>
+                        <font class="small_text"></font>
+                    </p>
+                </td>
+                <td class="center_pubs" style="width: 50%">
+                    <p class="pubs">
+                        <a class="grey_hover" href="/edu/36741/">��������� ��������� ������������ &quot;��������������� ����������� ����� � ����������&quot;</a>
+                        <br>
+                        <font class="small_text"></font>
+                    </p>
+                </td>
+            </tr>
+                    <tr>
+                <td class="center_pubs" style="width: 50%">
+                    <p class="pubs">
+                        <a class="grey_hover" href="/edu/36795/">��������� ��������� ������������ ������� ������� ������������. ������������ ���������������� ������������ �������� ��������������</a>
+                        <br>
+                        <font class="small_text">
+<p align="justify" style="color: rgb(68, 68, 68);">
+  <br />
+</p>
+ </font>
+                    </p>
+                </td>
+                <td class="center_pubs" style="width: 50%">
+                    <p class="pubs">
+                        <a class="grey_hover" href="/edu/36726/">��������� ��������� ������������ ����� �������������� ��� �������������� � ���������</a>
+                        <br>
+                        <font class="small_text"></font>
+                    </p>
+                </td>
+            </tr>
+                    <tr>
+                <td class="center_pubs" style="width: 50%">
+                    <p class="pubs">
+                        <a class="grey_hover" href="/edu/36774/">������� � �����: ����� ��������� ��� ��������� ������</a>
+                        <br>
+                        <font class="small_text"></font>
+                    </p>
+                </td>
+                <td class="center_pubs" style="width: 50%">
+                    <p class="pubs">
+                        <a class="grey_hover" href="/edu/36588/">��������� ��������� ������������ �������������� ������ � ������� ������������ ���������</a>
+                        <br>
+                        <font class="small_text"></font>
+                    </p>
+                </td>
+            </tr>
+            </table>
+</div>
+
+<div>
+		<table border="0" cellspacing="0" cellpadding="0">
+        <tr>
+            <td class="center_pubs" style="width: 50%">
+                <h2>����������� <font class="small_text"><a href="/conf/">0</a></font></h2>
+            </td>
+            <td></td>
+        </tr>
+	    <tr>
+            <td class="center_pubs">
+           <p class="pubs">
+				<font class="small_text">
+				25.02.2021
+				</font>
+                <br>
+				<font class="small_text">
+				������
+				</font>
+                <br>
+				<a class="grey_hover" href="/conf/36862/">������ �������� �������</a>        </td>
+        <td class="center_pubs">
+            <p class="pubs">
+				<font class="small_text">
+				05.02.2021
+				</font>
+                <br>
+				<font class="small_text">
+				������
+				</font>
+                <br>
+				<a class="grey_hover" href="/conf/36858/">������� &quot;���-������� � ������ � ������, ��������� � ������� ��������� ��������&quot;</a>        </td>
+    </tr>
+    <tr>
+        <td class="center_pubs">
+                <p class="pubs">
+				<font class="small_text">
+				18.02.2021
+				</font>
+                <br>
+				<font class="small_text">
+				������
+				</font>
+                <br>
+				<a class="grey_hover" href="/conf/36860/">������� &quot;���� � ��������: �����, �����, �����������&quot;</a>            </td>
+            <td class="center_pubs">
+                <p class="pubs">
+				<font class="small_text">
+				30.01.2021
+				</font>
+                <br>
+				<font class="small_text">
+				������
+				</font>
+                <br>
+				<a class="grey_hover" href="/conf/36857/">���� ���������: ���������������� ������������� ����� � ���������� � ����������������� ����������: ������, �������� � ���� ��������</a>            </td>
+        </tr>
+        <tr>
+            <td class="center_pubs">
+                    <p class="pubs">
+				<font class="small_text">
+				16.02.2021
+				</font>
+                <br>
+				<font class="small_text">
+				������
+				</font>
+                <br>
+				<a class="grey_hover" href="/conf/36859/">������� ���������������� ���������</a>            </td>
+            <td class="center_pubs">
+                <p class="pubs">
+				<font class="small_text">
+				28.01.2021
+				</font>
+                <br>
+				<font class="small_text">
+				
+				</font>
+                <br>
+				<a class="grey_hover" href="/conf/36855/">������������� ����������� �� ������� � ���������� ��������</a>            </td>
+        </tr>
+    </table>
+
+	<script type="text/javascript">
+    var word_list_book = [
+        {text: '<a href="/rubricator/index.php?rid=15198">����������� ����������<\/a> <small class="red">[75]<\/small>', weight: 75}, {text: '<a href="/rubricator/index.php?rid=20691">������� ���������<\/a> <small class="red">[192]<\/small>', weight: 192}, {text: '<a href="/rubricator/index.php?rid=15194">������������<\/a> <small class="red">[188]<\/small>', weight: 188}, {text: '<a href="/rubricator/index.php?rid=20690">�����������<\/a> <small class="red">[245]<\/small>', weight: 245}, {text: '<a href="/rubricator/index.php?rid=20692">���������<\/a> <small class="red">[147]<\/small>', weight: 147}, {text: '<a href="/rubricator/index.php?rid=15195">�������������� ����������<\/a> <small class="red">[322]<\/small>', weight: 322}, {text: '<a href="/rubricator/index.php?rid=15197">��������� ��������<\/a> <small class="red">[81]<\/small>', weight: 81}, {text: '<a href="/rubricator/index.php?rid=21761">�������������� ��������<\/a> <small class="red">[111]<\/small>', weight: 111}, {text: '<a href="/rubricator/index.php?rid=15199">����������� ����������<\/a> <small class="red">[84]<\/small>', weight: 84}, {text: '<a href="/rubricator/index.php?rid=20307">������ �������<\/a> <small class="red">[64]<\/small>', weight: 64}, {text: '<a href="/rubricator/index.php?rid=21754">��������������� ����������� �������� <\/a> <small class="red">[25]<\/small>', weight: 25}, {text: '<a href="/rubricator/index.php?rid=21756">������������� ����������<\/a> <small class="red">[13]<\/small>', weight: 13}, {text: '<a href="/rubricator/index.php?rid=21760">��������� �������� <\/a> <small class="red">[28]<\/small>', weight: 28}, {text: '<a href="/rubricator/index.php?rid=21762">������� ������<\/a> <small class="red">[58]<\/small>', weight: 58}, {text: '<a href="/rubricator/index.php?rid=21763">������������ �����������<\/a> <small class="red">[20]<\/small>', weight: 20}, {text: '<a href="/rubricator/index.php?rid=34870">������������<\/a> <small class="red">[3]<\/small>', weight: 3}, {text: '<a href="/rubricator/index.php?rid=35050">��������������� ����������������<\/a> <small class="red">[9]<\/small>', weight: 9}    ];
+</script>
+	<table class="center_books_main" border="0" cellspacing="0" cellpadding="0">
+		<tr>
+			<td>
+				<h2>����� ����� <font class="small_text"> <a href="/lib/books/">1577</a> | <a class='chart' title='����� �� ��������' href='/interface/chart/chart_book.php'>����� �� ��������</a></font></h2>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<table class="books_main" border="0" cellspacing="0" cellpadding="0">
+					<tr>
+						<td style="padding-right: 20px; width: 30%;">
+                            <table cellpadding="0" cellspacing="0" border="0" class="books">
+                                <tr>
+                                    <td>
+                                        <div class="book"><a href="/lib/books/id/36825.php" ><img src="/images/no_book_preview.jpg" border=0 alt="" width="78" height="116" /></a></div>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <a href="/lib/books/id/36825.php" class="grey_hover">������ �������. ��� ���� - ������ ���������</a>
+                                    </td>
+                                </tr>
+                            </table>
+						</td>
+						<td style="padding-right: 20px; width: 30%;">
+                            <table cellpadding="0" cellspacing="0" border="0" class="books">
+                                <tr>
+                                    <td>
+                                        <div class="book"><a href="/lib/books/id/36593.php" ><img src="/upload/iblock/450/22691555-fransuaza-dolto-na-storone-rebenka.jpg" border=0 alt="" width="75" height="116" /></a></div>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <a href="/lib/books/id/36593.php" class="grey_hover">�� ������� �������</a>
+                                    </td>
+                                </tr>
+                            </table>
+						</td>
+						<td style="padding-right: 20px; width: 30%;">
+                            <table cellpadding="0" cellspacing="0" border="0" class="books">
+                                <tr>
+                                    <td>
+                                        <div class="book"><a href="/lib/books/id/36559.php" ><img src="/upload/iblock/58f/Yanush_Korchak__Kak_lyubit_rebenka.jpg" border=0 alt="" width="75" height="116" /></a></div>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <a href="/lib/books/id/36559.php" class="grey_hover">��� ������ �������</a>
+                                    </td>
+                                </tr>
+                            </table>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	</table>
+</div>
+
+<div>
+	</div>
+
+<div>
+		<table border="0" cellspacing="0" cellpadding="0">
+        <tr>
+            <td class="center_pubs" style="width: 50%">
+                <h2>����� ���������� <font class="small_text"><a href="/lib/articles/">819</a> | <a class='chart' href='/interface/chart/chart_art.php'>������ �� ��������</a></font></h2>
+            </td>
+            <td></td>
+        </tr>
+        <tr>
+            <td class="center_pubs">
+           <p class="pubs">
+                    <font class="small_text">������ �.</font>
+                    <br>
+                    <a class="grey_hover" href="/lib/articles/id/36273.php">��������� ����� ������ �� ������������� �����, ��� �� �������������</a>        </td>
+        <td class="center_pubs">
+            <p class="pubs">
+                    <font class="small_text"></font>
+                    <br>
+                    <a class="grey_hover" href="/lib/articles/id/36320.php">Children of today are better at delaying gratification than previous generations</a>        </td>
+    </tr>
+    <tr>
+        <td class="center_pubs">
+                <p class="pubs">
+                    <font class="small_text"></font>
+                    <br>
+                    <a class="grey_hover" href="/lib/articles/id/36275.php">������-�����. ��� ������ ������� ��������� � ����� ����� �������?</a>            </td>
+            <td class="center_pubs">
+                <p class="pubs">
+                    <font class="small_text">���������� �.�., ����������� �.�.</font>
+                    <br>
+                    <a class="grey_hover" href="/lib/articles/id/36245.php">����������� ������� ����������� ���������� ����������� �� ���������� ������������ �������</a>            </td>
+        </tr>
+        <tr>
+            <td class="center_pubs">
+                <p class="pubs">
+                    <font class="small_text"></font>
+                    <br>
+                    <a class="grey_hover" href="/lib/articles/id/36342.php">���������� � �������������� ���������� ��� ���������� �� �����������</a>            </td>
+            <td class="center_pubs">
+                <p class="pubs">
+                    <font class="small_text">������ �.�.</font>
+                    <br>
+                    <a class="grey_hover" href="/lib/articles/id/36241.php">������ � ���������������� ���������� � ��������� ���������: �������� ���� ������</a>            </td>
+        </tr>
+    </table>
+
+	</div>
+
+<div style="padding-left: 15px; color: #666;">
+	</div>
+
+                    </td>
+                    <td class="middle_right_sep">
+                        <img src="/bitrix/templates/childpsy/images/1.gif" alt="" width="13" height="1">
+                    </td>
+                                            <td class="middle_right text">
+                                                                                                <script type="text/javascript">
+ var mn, mp, yn, yp;
+ function UpCal(m, y, date_org) {
+  $.getJSON('/bitrix/templates/.default/components/psy_k/super.component/calendar_one/calendar.php', {m:m, y:y, date_org:date_org}, function(json) {
+		if (json.calendar == 'Y') {
+		    mn = json.mn;
+		    yn = json.yn;
+		    mp = json.mp;
+		    yp = json.yp;
+		    $('#calendarplaceholder_one').html(json.content);
+		    $('#calendartitle_one').html('��������� �� ' + json.title);
+		} else {
+		  alert ('��������� ���');
+		}
+	});
+ }
+
+ UpCal(0, 0, '');
+</script>
+<table class="calentablenavi_one" cellspacing="1" cellpadding="0">
+    <tr class="navitr_one">
+        <td class="larr" style="width: 15px;">
+            <a class="navilink_one" href="#" onclick="UpCal(mp, yp, ''); return false">&nbsp;</a>
+        </td>
+        <td style="text-align: center;">
+            <span id="calendartitle_one"></span>
+        </td>
+        <td class="rarr" style="text-align: right; width: 15px;">
+            <a class="navilink_one" href="#" onclick="UpCal(mn, yn, ''); return false">&nbsp;</a>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="3">
+            <div id="calendarplaceholder_one">CALENDAR</div>
+        </td>
+    </tr>
+</table>
+<br>
+                                
+                                <!-- EVENT BANNER RIGHT -->
+                                <div style="text-align: center; padding: 20px 1px 5px 1px;">
+                                                                    </div>
+                                <!-- //EVENT BANNER RIGHT-->
+
+                                
+                                <div style="margin-bottom: 3em;">
+    <h3>���������</h3>
+     <script type="text/javascript">
+function mycarousel_itemLoadCallbackC6167998 (carousel, state) {
+    // Check if the requested items already exist
+    if (carousel.has(carousel.first, carousel.last)) {
+        return;
+    }
+
+  $.getJSON('/bitrix/templates/.default/components/psy_k/super.component/localphoto_v2/dynamic_data.php', {first: carousel.first, last: carousel.last, s:0, i: 19}, function(json) {
+		if (json.DONE == 'Y') {
+       	 	carousel.size(json.TOTAL);
+       	 	var first = carousel.first;
+       	 	var i = 0;
+       	 	for (var key in json.ARR) {
+             	carousel.add(first + i, '<div class="mcdv"><a title="' + json.ARR[key].FULLNAME + '" href="/media/detail.php?mediaid=' + json.ARR[key].ID + '"><img class="pr" align="left" src="' + json.ARR[key].IMG + '" alt=""><\/a>' + '<a title="' + json.ARR[key].FULLNAME + '" href="/media/detail.php?mediaid=' + json.ARR[key].ID+'">' + json.ARR[key].NAME + '<\/a><\/div>');
+                i++;
+           }
+		}
+    });
+}
+
+jQuery(document).ready(function() {
+    jQuery('#mycarouselC6167998').jcarousel({
+        vertical: true,
+        visible: 3,
+        scroll: 3,
+        animation: 'slow',
+        auto: 0,
+        itemLoadCallback: mycarousel_itemLoadCallbackC6167998        //wrap:"circular"
+    });
+});
+</script>
+<div class="carousel">
+    <ul class="jcarousel-skin-tango" id="mycarouselC6167998"></ul>
+</div>
+    <a style="color: #d82c11" href="/media/">��� ������</a>
+</div>
+
+                                
+<!-- 
+<h3>������</h3>
+<ul id="ul"> 
+  <li><a class="ul_item" href="/vacancies/" >��������</a></li>
+  <li><a class="ul_item" href="/resume/" >������</a></li>
+</ul>
+-->
+
+                                
+                                
+
+                                <h3>��������</h3>
+                                <div style="margin: 25px 0px;">
+	<div style="border: 1px solid #487FD3; border-radius: 10px; padding: 10px;">
+		<div style="color: #EF2937; font-family: Tahoma, Arial, Helvetica, sans-serif; font-size: 110%; margin: 0 0 8px 0;"><a href="http://psytoys.ru/" target="_blank"><img style="float: right; border: 0; margin: 3px 0 0 3px; width: 60px;" alt="����� ���� � �������" src="/i/banners/psytoys_logo.png"></a>����� ���� �&nbsp;�������</div>
+		<a style="color: #438d00; font-size: 11px;" href="http://psytoys.ru/" target="_blank">psytoys.ru</a>
+		<div style="clear: right;"></div>
+	</div>
+</div>
+ 
+<div style="margin: 25px 0px;"> 
+<div style="border: 1px solid #959595; border-radius: 10px; padding: 10px;">
+<a href="http://psypress.ru"><img width=180 src="/i/banners/psypress.jpg" alt="������ ��������������� ��������" title="������ ��������������� ��������"> </a>
+</div>
+</div>
+
+<div style="margin: 25px 0;"> 
+    <h3 style="font-size: 15px; ">�������������� ��������</h3>
+    <div class="bottom_hr"></div><br>
+    <p><a href="http://www.mental-health-russia.ru" target="_blank" rel="noopener"><img style="width: 240px;" src="/i/banners/sopz.png" alt="���� ������ ������������ ��������"></a></p>
+</div>
+ 
+                               
+                            <img src="/bitrix/templates/childpsy/images/1.gif" alt="" width="208" height="1">
+                        </td>
+                                        </tr>
+            </table>
+        </td>
+    </tr>
+	<tr>
+		<td class="bottom">
+			<table class="bottom_title" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td class="bottom_title_left1"><img src="/bitrix/templates/childpsy/images/1.gif" alt="" width="15" height="1"></td>
+					<td class="bottom_title_left2">
+						����������� ���������� �� ���������� &ndash; psychlib.ru					</td>
+					<td class="bottom_title_middle"><img src="/bitrix/templates/childpsy/images/1.gif" alt="" width="1" height="1"></td>
+					<td class="bottom_title_right1">
+						������ ��������������� ������� PsyJournals.ru					</td>
+					<td class="bottom_title_right2"><img src="/bitrix/templates/childpsy/images/1.gif" alt="" width="18" height="1"></td>
+				</tr>
+			</table>
+			<table class="bottom_news" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td width="50%">
+						
+<table class="bottom_news" border="0" cellspacing="0" cellpadding="0">
+  <tbody>
+    <tr><td style="padding: 10px 1px 1px 20px;" valign="top">
+        <p align="center"><a href="http://www.psychlib.ru/" target="_blank" ><img src="http://psyjournals.ru/img/psychlib_logo.png" align="middle" height="50" width="60" alt="����������� ���������� �� ����������" border="0"></a></p>
+       </td><td style="padding: 15px 30px 20px 15px; font-size: 11px;" valign="top">
+        <p>����������� ���������� �� ���������� &ndash; <a href="http://www.psychlib.ru/index.php" target="_blank" ><font color="#d82c11">psychlib.ru</font></a>
+          <br>
+         ����������� ���������� ����������� ���������������� ���������-��������������� ������������ � ����������� ��������� � ������� � ������� ���������� � ������� ���������.
+          <br>
+         <a href="http://www.psychlib.ru/index.php?s=register" target="_blank" ><font color="#d82c11">�����������</font></a> | <a href="http://www.psychlib.ru/index.php?s=search" target="_blank" ><font color="#d82c11">����������� �����</font></a> | <a href="http://www.psychlib.ru/index.php?s=about" target="_blank" ><font color="#d82c11">� �������</font></a> </p>
+
+        <p></p>
+       </td></tr>
+   </tbody>
+ </table>
+					</td>
+					<td class="bottom_news_center"><img src="/bitrix/templates/childpsy/images/1.gif" alt="" width="1" height="1"></td>
+					<td width="50%">
+						<table cellspacing="0" cellpadding="0" border="0" class="bottom_news">
+  <tbody>
+    <tr>
+      <td valign="top" style="padding: 10px 1px 1px 20px;">
+        <a target="_blank" href="https://psyjournals.ru/"><img src="/i/logo_pj.png" alt="������� PsyJournals.ru" width="77"></a>
+      </td>
+      <td valign="top" style="padding: 15px 30px 20px 15px; font-size: 11px;">
+        <b> ����� ������� ������� � ������-������������ ������������� ������� �� ���������� � ����������</b>:
+        <br>
+        <a href="https://psyjournals.ru/" >���������� ������</a>,
+        <a href="https://psyjournals.ru/journal_catalog/index.shtml" >������� �������</a>,
+        <a href="https://psyjournals.ru/authors/index.shtml" >���������� ������</a>,
+        <a href="https://psyjournals.ru/keywords/index.shtml" >������� ������ �������� ����</a>.
+        <br>
+        ��� ������� ������������� <a href="https://elibrary.ru/publisher_titles.asp?publishid=1508">����</a>
+      </td>
+    </tr>
+   </tbody>
+</table>
+					</td>
+				</tr>
+                <tr>
+                    <td width="50%">
+                        <div class='sb'></div>
+                    </td>
+                    <td class="bottom_news_center"><img src="/bitrix/templates/childpsy/images/1.gif" alt="" width="1" height="1"></td>
+                    <td width="50%">
+                        <div class='sb' style='font-size: 10px; padding-left: 15px;'></div>
+                    </td>
+                </tr>
+			</table>
+            <table border="0" cellspacing="0" cellpadding="0" width="100%">
+                <tr>
+                    <td class="bottom_hr">&nbsp;</td>
+                </tr>
+            </table>
+            <table class="bottom_copy" border="0" cellspacing="0" cellpadding="0" width="100%">
+                <tr>
+                    <td class="bottom_copy_left" style="padding-top: 5px; width: 80%;">
+                        <div style="color: #999; font-size: 11px; line-height: 17px; padding: 1px; margin: 1px;">
+                            <table width="100%">
+    <tbody>
+        <tr>
+            <td style="border-image: none 100% / 1 / 0 stretch;">
+                <p>
+                    <font class="copy_large"><span style="font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; font-size: 11px; line-height: normal; font-family: arial; color: rgb(102, 102, 102);"><span style="font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; font-size: 11px; line-height: normal; font-family: arial; color: rgb(102, 102, 102);">&copy; 2005&ndash;2021 <font color="#d82c11">������� ����������</font><font class="copy_large"> &mdash; www.Childspy.ru, <a href="/about/smi.php">������������� � ����������� ��� �� � �� 77-68288</a>
+                    <br>
+                </font></span></span></font><font class="copy_large"><span style="line-height: normal; font-weight: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-style: normal; font-size: 11px; font-family: arial; color: rgb(102, 102, 102);">� 1997�2021 <a target="_blank" href="https://mgppu.ru/">���������� ��������������� ���������-�������������� �����������</a></span>
+                    <br>
+                    <span style="font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; font-size: 11px; line-height: normal; font-family: arial; color: rgb(102, 102, 102);">����� �������������, ���������������, ����������� ���������� ������� ������������ � ���������� <a href="/about/contacts.php">��������</a></span></font>
+                </p>
+            </td>
+            <td style="padding-top: 12px; border-image: none; text-align: right; white-space: nowrap;">
+                <a href="https://www.facebook.com/childpsy.ru/"><img style="margin-right:8px" height="30" border="0" src="/images/soc/fb_b.png" alt="Facebook"></a><a href="https://twitter.com/childpsyru"><img height="30" border="0" src="/images/soc/tw_b.png" alt="Twitter"></a>
+            </td>
+        </tr>
+    </tbody>
+</table>
+                        </div>
+                    </td>
+                    <td>&nbsp;</td>
+                    <td style="text-align: center; vertical-align: middle; padding: 1px 5px;">
+                        <!--LiveInternet counter-->
+                        <script type="text/javascript">
+                            document.write("<a rel='nofollow' href='http://www.liveinternet.ru/click' "+
+                            "target=_blank><img src='//counter.yadro.ru/hit?t18.15;r"+
+                            escape(document.referrer)+((typeof(screen)=="undefined")?"":
+                            ";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+                            screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+                            ";h"+escape(document.title.substring(0,80))+";"+Math.random()+
+                            "' alt='' title='LiveInternet: �������� ����� ���������� �� 24"+
+                            " ����, ����������� �� 24 ���� � �� �������' "+
+                            "border='0' vspace=2 width='88' height='31'><\/a>")
+                        </script>
+                        <!--/LiveInternet-->
+                    </td>
+                    <td style="text-align: center; vertical-align: middle; padding: 1px 5px;">
+                        <!-- Yandex.Metrika informer -->
+                        <a href="https://metrika.yandex.ru/stat/?id=55020700&amp;from=informer"
+                        target="_blank" rel="nofollow"><img src="https://informer.yandex.ru/informer/55020700/3_0_F0FFE0FF_D0F0C0FF_0_pageviews"
+                        style="width:88px; height:31px; border:0;" alt="������.�������" title="������.�������: ������ �� ������� (���������, ������ � ���������� ����������)" class="ym-advanced-informer" data-cid="55020700" data-lang="ru"></a>
+                        <!-- /Yandex.Metrika informer -->
+
+                        <!-- Yandex.Metrika counter -->
+                        <script type="text/javascript" >
+                           (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+                           m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+                           (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+                           ym(55020700, "init", {
+                                clickmap:true,
+                                trackLinks:true,
+                                accurateTrackBounce:true,
+                                webvisor:true
+                           });
+                        </script>
+                        <noscript><div><img src="https://mc.yandex.ru/watch/55020700" style="position:absolute; left:-9999px;" alt=""></div></noscript>
+                        <!-- /Yandex.Metrika counter -->
+                    </td>
+                    <td style="text-align: center; vertical-align: middle;">
+                        <div style="height: 50px; border-right: 1px solid #ccc; padding: 7px 10px; margin: 7px 10px;"></div>
+                    </td>
+					<td class="bottom_copy_right" style="padding-top: 5px; white-space: nowrap;">
+						
+                    </td>
+				</tr>
+			</table>
+            <br style="line-height:7px;">
+		</td>
+	</tr>
+</table>
+</body>
+</html>

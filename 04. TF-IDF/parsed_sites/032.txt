@@ -1,0 +1,552 @@
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="description" content="Детские радости - сайт веселых и увлекательных онлайн развлечений для детей, а также полезных материалов для детского сада и начальной школы">
+<meta name="keywords" content="все для детей сайт, сайт для детей, детский сайт, детский портал, сайт все для детей, для детского сада скачать, начальным классам скачать">
+<meta name="google-site-verification" content="ETeX3Fcbd00ewDYI-hu88jqttoqftsjqI2Whz5CuNr0">
+<meta name="turbobit" content="waganowagalina@mail.ru">
+<meta name="verify-admitad" content="c2c607b09e">
+<meta name="yandex-verification" content="7128e93cc9dabea8" />
+<meta property="yandex_recommendations_kill" content="1"/>
+<title>Детские радости - для детского сада и начальных классов пособия для скачивания, онлайн игры</title>
+<link rel="canonical" href="https://detskieradosti.ru/" />
+<link type="text/css" rel="stylesheet" href="/_st/my.css" />
+
+
+<style type="text/css">
+ TABLE {table-layout: fixed; /* Ячейки фиксированной ширины */}
+ TD.kolonka {width: 300px; overflow: hidden;}
+ </style>
+
+
+
+	<link rel="stylesheet" href="/.s/src/base.min.css" />
+	<link rel="stylesheet" href="/.s/src/layer2.min.css" />
+
+	<script src="/.s/src/jquery-1.12.4.min.js"></script>
+	
+	<script src="/.s/src/uwnd.min.js"></script>
+	<script type="text/javascript" src="//s78.ucoz.net/cgi/uutils.fcg?a=uSD&ca=2&ug=999&isp=2&r=0.0129430756728155"></script>
+<script type="text/javascript">/* --- UCOZ-JS-INIT_CODE --- */
+	window.ulb = {photoPage:"Перейти на страницу с фотографией.", closeBtn:"Закрыть", error:"Запрошенный контент не может быть загружен. Пожалуйста, попробуйте позже.", next:"Следующий", prev:"Предыдущий", btnPlay:"Начать слайдшоу", btnToggle:"Изменить размер", };
+/* --- UCOZ-JS-END --- */</script>
+
+	<link rel="stylesheet" href="/.s/src/ulightbox/ulightbox.min.css" />
+	<script src="/.s/src/ulightbox/ulightbox.min.js"></script>
+	<script type="text/javascript">
+/* --- UCOZ-JS-DATA --- */
+window.uCoz = {"ssid":"444245330145545511614","language":"ru"};
+</script>
+
+	<style type="text/css">.UhideBlock{display:none; }
+</style>
+	<script type="text/javascript">new Image().src = "//counter.yadro.ru/hit;noadsru0?r"+escape(document.referrer)+(screen&&";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth||screen.pixelDepth))+";u"+escape(document.URL)+";"+Date.now();</script>
+<script type="text/javascript">//<!--
+	function uSocialLogin(t) {
+		var params = { 'vkontakte':{ 'width':790, 'height':400 }, 'facebook':{ 'width':950, 'height':520 }, 'yandex':{ 'width':870, 'height':515 }, 'google':{ 'width':700, 'height':600 }, 'ok':{ 'width':710, 'height':390 } };
+		var ref = escape(location.protocol + '//' + ('detskieradosti.ru' || location.hostname) + location.pathname + ((location.hash ? ( location.search ? location.search + '&' : '?' ) + 'rnd=' + Date.now() + location.hash : ( location.search || '' ))));
+		// var ref = escape(location.href);
+		window.open('/'+t+'?ref='+ref,'conwin','width='+params[t].width+',height='+params[t].height+',status=1,resizable=1,left='+parseInt((screen.availWidth/2)-(params[t].width/2))+',top='+parseInt((screen.availHeight/2)-(params[t].height/2)-20)+'screenX='+parseInt((screen.availWidth/2)-(params[t].width/2))+',screenY='+parseInt((screen.availHeight/2)-(params[t].height/2)-20));
+		return false;
+	}
+//--></script>
+
+<link type="text/css" rel="stylesheet" href="/.s/src/social.css" />
+</head>
+
+<body style="background-color:#CCE42C; margin:0px; padding:0px;">
+<div id="utbr8214" rel="s78"></div>
+
+<!--U1AHEADER1Z--><noindex><table border="0" cellpadding="0" cellspacing="0" width="100%" style="background: #CCE42C">
+<tr><td style="background:url('/von/kartinki_kateg/fon.png');"><center>
+<table border="0" cellpadding="0" cellspacing="0" width="100%";">
+<tr>
+<td align="center"><img border="0" align="absmiddle" src="/von/kartinki_kateg/dity_sad.png"></td>
+<td valign="top"><center><!-- <logo> -->
+<span style="font: 30pt Comic Sans MS;"><b><font color="#dc3700">Д</font><font color="#008d00">е</font><font color="#ffa500">т</font><font color="#dc3700">с</font><font color="#008d00">к</font><font color="#ffa500">и</font><font color="#dc3700">е</font> <font color="#008d00">р</font><font color="#ffa500">а</font><font color="#dc3700">д</font><font color="#008d00">о</font><font color="#ffa500">с</font><font color="#dc3700">т</font><font color="#008d00">и</font></b></span><!-- </logo> -->
+<br><font color="#0059CE"><b>для детского сада и начальных классов<br>пособия для скачивания, онлайн игры</b></font>
+</center></td>
+<td align="center"><img border="0" align="absmiddle" src="/von/kartinki_kateg/dity_schkola.png"></td>
+</tr></table>
+</center></td></tr></table></noindex><!--/U1AHEADER1Z-->
+
+<!--U1VMENJU1Z--><div align="center">
+<table><tbody><tr><td><center>
+<!-- Yandex.RTB R-A-266162-84 -->
+<div id="yandex_rtb_R-A-266162-84"></div>
+<script type="text/javascript">
+ (function(w, d, n, s, t) {
+ w[n] = w[n] || [];
+ w[n].push(function() {
+ Ya.Context.AdvManager.render({
+ blockId: "R-A-266162-84",
+ renderTo: "yandex_rtb_R-A-266162-84",
+ async: true
+ });
+ });
+ t = d.getElementsByTagName("script")[0];
+ s = d.createElement("script");
+ s.type = "text/javascript";
+ s.src = "//an.yandex.ru/system/context.js";
+ s.async = true;
+ t.parentNode.insertBefore(s, t);
+ })(this, this.document, "yandexContextAsyncCallbacks");
+</script>
+<a href="/"><img src="/von/glavnaja.gif" border="0" width="70"></a>
+<a href="/stuff/"><img src="/von/igri.png" border="0" width="70"></a>
+<a href="/tests"><img src="/von/testi.gif" border="0" width="70"></a>
+<a href="/dir/"><img src="/von/muzika.png" border="0" width="70"></a>
+<a href="/index/0-13"><img src="/von/skanwordi.gif" border="0" width="70"></a>
+<a href="/load"><img src="/von/skachat.gif" border="0" width="70"></a>
+<a href="/index/0-16"><img src="/von/goroskop.gif" border="0" width="70"></a>
+<a href="/load/382"><img src="/von/forum.gif" border="0" width="70"></a>
+
+
+
+</center>
+</td></tr></tbody></table>
+</div><!--/U1VMENJU1Z-->
+
+
+<table cellpadding="0" cellspacing="0" border="0" width="100%" style="padding: 10px;"><tr><td width="100%" align="center">
+
+<!-- <middle> -->
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td valign="top" width="300" class="kolonka">
+
+
+<div id="ugolkrug">
+<center><div class="searchForm"><form onsubmit="this.sfSbm.disabled=true" method="get" style="margin:0" action="/search/"><input value="" type="text" name="q" maxlength="30" size="28" class="queryField" /> <br><center><input type="submit" class="searchSbmFl" name="sfSbm" value="Найти" /></center></form></div>
+</center></div><br>
+
+
+<!-- <block1> -->
+<div id="ugolkrug">
+<center>
+
+<div id="uidLogForm" align="center"><div id="uidLogButton">
+	<p><button class="loginButton" onclick="window.open('https://login.uid.me/?site=0hranenie&amp;ref='+escape(location.protocol + '//' + ('detskieradosti.ru' || location.hostname) + location.pathname + ((location.hash ? (location.search ? location.search + '&' : '?') + 'rnd=' + Date.now() + location.hash : (location.search || '' )))),'uidLoginWnd','width=580,height=450,resizable=yes,titlebar=yes')">Войти через uID</button></p>
+	<a href="javascript:;" onclick="return uSocialLogin('vkontakte');" data-social="vkontakte" class="login-with vkontakte" title="Войти через ВКонтакте" rel="nofollow"><i></i></a><a href="javascript:;" onclick="return uSocialLogin('facebook');" data-social="facebook" class="login-with facebook" title="Войти через Facebook" rel="nofollow"><i></i></a><a href="javascript:;" onclick="return uSocialLogin('yandex');" data-social="yandex" class="login-with yandex" title="Войти через Яндекс" rel="nofollow"><i></i></a><a href="javascript:;" onclick="return uSocialLogin('google');" data-social="google" class="login-with google" title="Войти через Google" rel="nofollow"><i></i></a><a href="javascript:;" onclick="return uSocialLogin('ok');" data-social="ok" class="login-with ok" title="Войти через Одноклассники" rel="nofollow"><i></i></a>
+<div>
+<a href="javascript://" class="noun" onclick="document.getElementById('uidLogButton').style.display='none';document.getElementById('baseLogForm').style.display='';" title="Используйте, если окно авторизации через uID не открывается">Старая форма входа</a></div></div>
+<div id="baseLogForm" style="display:none"><script type="text/javascript">
+sendFrm549920 = function() {
+	var o   = $('#frmLg549920')[0];
+	var pos = _uGetOffset(o);
+	var o2  = $('#blk549920')[0];
+	document.body.insertBefore(o2, document.body.firstChild);
+	$(o2).css({top:(pos['top'])+'px',left:(pos['left'])+'px',width:o.offsetWidth+'px',height:o.offsetHeight+'px',display:''}).html('<div align="left" style="padding:5px;"><div class="myWinLoad"></div></div>');
+	_uPostForm('frmLg549920', {type:'POST', url:'/index/sub/', error:function() {
+		$('#blk549920').html('<div align="left" style="padding:10px;"><div class="myWinLoadSF" title="Невозможно выполнить запрос, попробуйте позже"></div></div>');
+		_uWnd.alert('<div class="myWinError">Невозможно выполнить запрос, попробуйте позже</div>', '', {w:250, h:90, tm:3000, pad:'15px'} );
+		setTimeout("$('#blk549920').css('display', 'none');", '1500');
+	}});
+}
+</script>
+<div id="blk549920" style="border:1px solid #CCCCCC;position:absolute;z-index:82;background:url('/.s/img/fr/g.gif');display:none;"></div>
+<form id="frmLg549920" action="/index/sub/" method="post" style="margin:0" onsubmit="sendFrm549920(); return false;">
+	
+<table border="0" cellspacing="1" cellpadding="0" width="100%">
+
+<tr><td width="20%" nowrap="nowrap">E-mail:[<a href="javascript:;" rel="nofollow" onclick="new _uWnd('HelpWd', 'Помощник', 360, 150, {align:'justify', closeonesc:1, }, {url:'/index/90-7'}); return false;" class="noun "><img alt="" title="uID поддержка" src="/.s/img/ma/uid.gif" style="border:0;vertical-align:-4px;"></a>]</td><td><input class="loginField" type="text" name="user" value="" size="20" style="width:100%;" maxlength="50"/></td></tr>
+<tr><td>Пароль:</td><td><input class="loginField" type="password" name="password" size="20" style="width:100%" maxlength="15"/></td></tr>
+</table>
+<table border="0" cellspacing="1" cellpadding="0" width="100%">
+<tr><td nowrap><input id="remsitePage1" type="checkbox" name="rem" value="1" checked="checked"/><label for="remsitePage1">запомнить</label> </td><td align="right" valign="top"><input class="loginButton" name="sbm" type="submit" value="Вход"/></td></tr>
+<tr><td colspan="2"><div style="font-size:7pt;text-align:center;"><a href="javascript://" rel="nofollow" onclick="new _uWnd('Prm','Напоминание пароля',300,130,{autosize:1,closeonesc:1},{url:'/index/5'});return false;">Забыл пароль</a> | <a href="/register">Регистрация</a></div></td></tr>
+</table>
+
+	<input type="hidden" name="a"    value="2" />
+	<input type="hidden" name="ajax" value="1" />
+	<input type="hidden" name="rnd"  value="920" />
+	
+</form></div></div>
+<br>Мы в <a href="https://vk.com/detskiestranichki" target="_blank">ВК</a> Мы в <a href="https://ok.ru/detskieradosti" target="_blank">ОК</a> Мы в <a href="https://www.facebook.com/groups/detskiestranichki/?ref=bookmarks" target="_blank">Facebook</a>
+
+</center>
+</div>
+<!-- </block1> -->
+
+<br>
+<!-- <block2> -->
+<div id="ugolkrug">
+<center><span style="color:#008000;"><span style="font-family: Comic Sans MS; font-size: 14pt;"><b>Детский сад</b></span></span></center><br>
+<span style="color:#008000;"><span style="font-size:16px;">Педагогическая литература</span></span><br />
+<span style="font-size:14px;">
+<a href="/load/335">- Детская психология</a><br />
+<a href="/load/336">- Детская логопедия</a><br />
+<a href="/load/107">- Литература для воспитателя</a><br />
+</span>
+<br />
+<span style="font-size:14px;"><a href="/load/58" style="color:#008000;">Здоровье детей</a></span><br />
+<span style="font-size:14px;"><a href="/load/334" style="color:#008000;">Воспитание детей</a></span><br />
+<span style="font-size:14px;"><a href="/load/362" style="color:#008000;">Безопасность детей</a></span><br />
+<span style="font-size:14px;"><a href="/load/333" style="color:#008000;">Адаптация детей в детском саду</a></span><br />
+<br />
+<span style="font-size:14px;"><a href="/load/47" style="color:#008000;">Оформление детского сада</a> </span><br />
+<span style="font-size:14px;"><a href="/load/327" style="color:#008000;">Папки-передвижки</a></span><br />
+<span style="font-size:14px;"><a href="/load/328" style="color:#008000;">Наглядные пособия</a></span><br />
+<br />
+<span style="color:#008000;"><span style="font-size:16px;">Обучающие занятия в детском саду</span></span><br />
+<span style="font-size:14px;">
+<a href="/load/359">- Математические занятия</a><br />
+<a href="/load/46">- Обучение письму</a><br />
+<a href="/load/338">- Развитие речи</a><br />
+<a href="/load/374">- Обучение чтению</a><br />
+<a href="/load/43">- Детская библиотека</a><br />
+<a href="/load/50">- Аудиокниги для детей</a><br />
+<a href="/load/371">- Обучение иностранным языкам</a><br />
+<a href="/load/111">- Природоведение</a><br />
+<a href="/load/340">- Тема &quot;Весна&quot;</a><br />
+<a href="/load/363">- Тема &quot;Лето&quot;</a><br />
+<a href="/load/364">- Тема &quot;Осень&quot;</a><br />
+<a href="/load/348">- Тема &quot;Зима&quot;</a><br />
+<a href="/load/376">- Расширение кругозора</a><br />
+<a href="/load/354">- Рисование, раскраски</a><br />
+<a href="/load/353">- Лепка</a><br />
+<a href="/load/350">- Аппликация, оригами</a><br />
+<a href="/load/56">- Рукоделие</a><br />
+<a href="/load/369">- Поделки</a><br />
+<a href="/load/370">- Конструирование</a><br />
+<a href="/load/342">- Развивающие игры</a><br />
+<a href="/load/329">- Подвижные игры</a><br />
+<a href="/load/361">- Музыкальные занятия</a><br />
+<a href="/load/51">- Музыкальные произведения</a><br />
+<a href="/load/49">- Клипы для детей</a><br />
+<a href="/load/98">- Фильмы и мультфильмы</a><br /><br />
+</span>
+<span style="color:#008000;"><span style="font-size:16px;">Праздники для детей в детском саду</span></span><br />
+<span style="font-size:14px;">
+<a href="/load/347">- Новый год</a><br />
+<a href="/load/373">- Народные праздники</a><br />
+<a href="/load/346">- 23 февраля</a><br />
+<a href="/load/345">- 8 марта, День матери</a><br />
+<a href="/load/367">- День семьи</a><br />
+<a href="/load/360">- 9 мая День победы</a><br />
+<a href="/load/377">- День космонавтики</a><br />
+<a href="/load/331">- Другие праздники</a><br />
+<a href="/load/372">- Конкурсы</a><br />
+<a href="/load/330">- Награждение, поздравление</a><br /><br />
+</span>
+</div>
+<!-- </block2> -->
+
+<br>
+
+<!-- <block23> -->
+<div id="ugolkrug">
+<center><span style="font-family: Comic Sans MS; font-size: 14pt;"><b><span style="color: rgb(0, 128, 28);">Начальная школа</span></b></span></center><br>
+<span style="font-size:11pt"><div id="uMenuDiv11" class="uMenuV" style="position:relative;"><ul class="uMenuRoot">
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/load/131"><span>Учебники, тетради 1 класс</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/load/132"><span>Учебники, тетради 2 класс</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/load/133"><span>Учебники, тетради 3 класс</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/load/134"><span>Учебники, тетради 4 класс</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/load/10"><span>Компьютерные обучающие программы для школьников</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/load/115"><span>Компьютерные игры для школьников</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/load/109"><span>Школьные мероприятия (плакаты, дипломы, расписание) </span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/load/112"><span>Библиотека школьника</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/load/113"><span>Аудиокниги для школьника</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li></ul></div><script type="text/javascript">$(function(){_uBuildMenu('#uMenuDiv11',0,document.location.href+'/','uMenuItemA','uMenuArrow',2500);})</script></span>
+</div>
+<!-- </block23> -->
+<br>
+
+<!-- <block21> -->
+<div id="ugolkrug">
+<center><span style="color:#008000;"><span style="font-family: Comic Sans MS; font-size: 13pt;"><b>Занятия и досуг дома с детьми</b></span></span></center><br>
+<span style="font-size:14px;">
+<a href="/load/337">- Родителям на заметку</a><br />
+<a href="/load/44">- Вяжем, шьём, мастерим для детей</a><br />
+<a href="/load/57">- Готовим дома</a><br />
+<a href="/load/51">- Музыкальные произведения</a><br />
+<a href="/load/49">- Клипы для детей</a><br />
+<a href="/load/98">- Фильмы и мультфильмы</a><br />
+<a href="/load/43">- Библиотека дошкольника</a><br />
+<a href="/load/112">- Библиотека школьника</a><br />
+<a href="/load/50">- Аудиокниги для дошкольника</a><br />
+<a href="/load/113">- Аудиокниги для школьника</a><br />
+<a href="/load/27">- Компьютерные игры для дошкольников</a><br />
+<a href="/load/115">- Компьютерные игры для школьников</a><br />
+<a href="/load/25">- Компьютерные обучающие программы для дошкольников</a><br />
+<a href="/load/10">- Компьютерные обучающие программы для школьников</a><br />
+</span>
+</div>
+<!-- </block21> -->
+
+<br>
+
+<!-- <block22> -->
+<div id="ugolkrug">
+<center><span style="color:#008000;"><span style="font-family: Comic Sans MS; font-size: 14pt;"><b>Фото- и видео- монтаж</b></span></span></center><br>
+<span style="font-size:14px;">
+<a href="/load/61">- Детские рамки для фотошопа</a><br />
+<a href="/load/59">- Детские шаблоны для фотошопа</a><br />
+<a href="/load/128">- Семейные фото-книги</a><br />
+<a href="/load/18">- Кисти для фотошопа</a><br />
+<a href="/load/17">- Клипарт и фоны для фотошопа</a><br />
+<a href="/load/22">- Футажи для монтажа детского видео</a><br />
+<a href="/load/23">- Обложки для дисков с видео</a><br />
+<a href="/load/62">- Календари, дипломы, приглашения для фотошопа</a><br /><br />
+</span>
+</div>
+<!-- </block22> -->
+
+</td>
+
+<td valign="top" style="padding:0px 10px 0px 10px;">
+<table border="0" cellpadding="5" cellspacing="0" width="100%" style="border:1px solid #6DA104;"><tr><td style="background:#FFFFFF;">
+
+<!-- <body> -->
+<center>
+<span style="color:#006400;"><h1>Сайт &quot;Детские радости&quot;</h1></span>
+<span style="color:#006400;"><h3>ориентирован на дошкольный и младший школьный возраст детей,<br />
+для родителей, воспитателей, педагогов</h3></span></center>
+
+<br>
+
+<h2><a href="/load/332" style="color: green" target="_blank"><b>Для дошкольного возраста</b></a></h2>
+
+<p><span style="font-size:15px;">Для детей дошкольного возраста будут интересны разделы: 
+<a href="/dir/1" style="color: green" target="_blank">детские песни</a> и <a href="/dir/3" style="color: green" target="_blank">детское караоке</a>.
+
+</span></p>
+
+
+<center>
+<table width="100%">
+ <tbody>
+ <tr>
+ <td>
+ <center><img alt="" border="0" src="/_dr/0/27910272.png" style="margin: 5px;" width="100" /><br />
+ <a href="/dir/1-1-0-67" style="text-decoration: none;">Песни про маму</a></center>
+ </td>
+ <td>
+ <center><img alt="" border="0" src="/_dr/0/90935226.png" style="margin: 5px;" width="100" /><br />
+ <a href="/dir/1-1-0-63" style="text-decoration: none;">Песни про детский сад</a></center>
+ </td>
+ <td>
+ <center><img alt="" border="0" src="/_dr/0/36795746.gif" style="margin: 5px;" width="100" /><br />
+ <a href="/dir/1-1-0-5" style="text-decoration: none;">Песни из советских мультиков</a></center>
+ </td>
+<td>
+ <center><img alt="" border="0" src="/von/glavnaja/1279.jpg" style="margin: 5px;" width="100" /><br />
+ <a href="/stuff/47-1-0-1279" style="text-decoration: none;">Интерактивные сказки</a></center>
+ </td>
+ <td>
+ <center><img alt="" border="0" src="/_sf/8/830.jpg" style="margin: 5px;" width="100" /><br />
+ <a href="/stuff/18-1-0-830" style="text-decoration: none;">Изучаем геометрические формы</a></center>
+ </td>
+ </tr>
+ </tbody>
+</table>
+</center>
+
+
+<p><span style="font-size:15px;">Кроме того, родители могут скачать для малышей:</span></p>
+
+<p><span style="font-size:15px;">- <a href="/load/46" style="color: green" target="_blank">раскраски и прописи</a> для распечатки на принтере;</span></p>
+
+<p><span style="font-size:15px;">- <a href="/load/43" style="color: green" target="_blank">электронные издания</a> и <a href="/load/50" style="color: green" target="_blank">аудиокниги</a> со сказками, стихами, рассказами, <a href="/load/56" style="color: green" target="_blank">уроками детского творчества</a>;</span></p>
+
+<p><span style="font-size:15px;">- <a href="/load/51" style="color: green" target="_blank">детские песни, мелодии</a>, <a href="/load/49" style="color: green" target="_blank">клипы</a>, <a href="/load/98" style="color: green" target="_blank">мультфильмы</a> для проигрывания на медиа устройствах;</span></p>
+
+<p><span style="font-size:15px;">- <a href="/load/27" style="color: green" target="_blank">компьютерные игры</a> и <a href="/load/25" style="color: green" target="_blank">программы</a> для установки на компьютер;</span></p>
+
+<p><span style="font-size:15px;">- информацию о <a href="/load/334" style="color: green" target="_blank">воспитании</a> и <a href="/load/58" style="color: green" target="_blank">здоровье</a> ребенка, а также <a href="/load/362" style="color: green" target="_blank">безопасности</a> дома и на улице;</span></p>
+
+<p><span style="font-size:15px;">- работники ДОУ найдут вспомогательный материал для обучения детей математике, письму, чтению, <a href="/load/328" style="color: green" target="_blank">наглядные пособия</a> для обучения и развития восприятия окружающего мира, а также материал для <a href="/load/47" style="color: green" target="_blank">оформления групп</a> в детском саду.</span></p>
+<script type="text/javascript" src="//detskieradosti.ru/rtr/7"></script>
+
+<p>&nbsp;</p>
+
+<h2><a href="/load/105" style="color: green" target="_blank"><b>Для младшего школьного возраста</b></a></h2>
+
+<p><span style="font-size:15px;">Ребятишек постарше привлекут разделы: <a href="/tests" style="color: green" target="_blank">онлайн тесты</a>, <a href="/index/0-13" style="color: green" target="_blank">онлайн сканворды</a>.</span></p>
+
+
+<center>
+<table width="100%">
+ <tbody>
+ <tr>
+ <td>
+ <center><img alt="Какая вы мама?" border="0" src="/von/glavnaja/kakaja-vy-mama.jpg" style="margin: 5px;" width="100" /><br />
+ <a href="/tests/4-99-0" style="text-decoration: none;">Какая вы мама?</a></center>
+ </td>
+ <td>
+ <center><img alt="Насколько ты общителен?" border="0" src="/von/glavnaja/naskolko-ty-obshhitelen.jpg" style="margin: 5px;" width="100" /><br />
+ <a href="/tests/0-78-0" style="text-decoration: none;">Насколько<br />
+ ты общителен?</a></center>
+ </td>
+ <td>
+ <center><img alt="Хочу ли я в школу?" border="0" src="/von/glavnaja/hochu-li-v-schkolu.jpg" style="margin: 5px;" width="100" /><br />
+ <a href="/tests/8-92-0" style="text-decoration: none;">Хочу ли я в школу?</a></center>
+ </td>
+ <td>
+ <center><img alt="Влюбчива ли ты?" border="0" src="/von/glavnaja/vljubchiva-li-ty.jpg" style="margin: 5px;" width="100" /><br />
+ <a href="/tests/6-80-0" style="text-decoration: none;">Влюбчива ли ты?</a></center>
+ </td>
+ <td>
+ <center><img alt="Скандинавские кроссворды с картинками" border="0" src="/von/glavnaja/36.jpg" style="margin: 5px;" width="100" /><br />
+ <a href="/index/0-13" style="text-decoration: none;">Кроссворды<br />
+ с картинками</a></center>
+ </td>
+ </tr>
+ </tbody>
+</table>
+</center>
+
+
+<p><span style="font-size:15px;">Для школы предлагается скачать:</span></p>
+
+<p><span style="font-size:15px;">- <a href="/load/131" style="color: green" target="_blank">учебники, рабочие тетради, вспомогательные учебные пособия</a>;</span></p>
+
+<p><span style="font-size:15px;">- <a href="/load/112" style="color: green" target="_blank">электронные издания</a> и <a href="/load/113" style="color: green" target="_blank">аудиокниги</a> по школьной программе и для внеклассного чтения;</span></p>
+
+<p><span style="font-size:15px;">- <a href="/load/10" style="color: green" target="_blank">обучающие программы</a> для установки на компьютер;</span></p>
+
+<p><span style="font-size:15px;">- вспомогательный материал (<a href="/load/51" style="color: green" target="_blank">музыкальный</a>, <a href="/load/109" style="color: green" target="_blank">для распечатки на принтере</a>) для оформления классов и проведения мероприятий;</span></p>
+
+<p><span style="font-size:15px;">- <a href="/load/109" style="color: green" target="_blank">бланки</a> дипломов, вкладышей, грамот, расписания уроков.</span></p>
+
+<p>&nbsp;</p>
+
+<h2><a href="/load/32" style="color: green" target="_blank"><b>Родителям для домашнего досуга</b></a></h2>
+
+<p><span style="font-size:15px;">Непосредственно родителям посвящен раздел &quot;Занятия и досуг дома с детьми&quot;:</span></p>
+
+<p><span style="font-size:15px;">- <a href="/load/44" style="color: green" target="_blank">Вяжем и шьём для детей</a></span></p>
+
+<p><span style="font-size:15px;">- <a href="/load/57" style="color: green" target="_blank">Готовим дома</a></span></p>
+
+<p><span style="font-size:15px;">Увлекающимся работой в программе Photoshop и редактированием видеоматериалов пригодится вспомогательный материал для работы:</span></p>
+
+<p><span style="font-size:15px;">- <a href="/load/12" style="color: green" target="_blank">Фото- и видео- монтаж </a></span></p>
+
+<p><span style="font-size:15px;">Здесь вы найдёте детские фоторамки и фотошаблоны, макеты для оформления портфолио и фотокниг, дополните своё памятное видео красивой заставкой футажом, которое оформите в красивую обложку.</span></p>
+
+
+
+
+<br><center><b>Подборка материалов</b></center><br><br>
+<table width="100%"><tr><td width="80%"><table align="center" border="0" cellspacing="0" cellpadding="0" width="100%" class="infTable"><tr><td class="infTd" width="20%"><center><img src="/_ld/1/94437028.jpg" alt="Обучающие игры для малышей" style="margin: 5px;" width="100" border="0"> <br><a href="https://detskieradosti.ru/load/27-1-0-174" style="text-decoration: none;">Обучающие игры для малышей</a><br></center></td><td class="infTd" width="20%"><center><img src="/_ld/3/45712758.jpg" alt="Играем и учимся" style="margin: 5px;" width="100" border="0"> <br><a href="https://detskieradosti.ru/load/27-1-0-358" style="text-decoration: none;">Играем и учимся</a><br></center></td><td class="infTd" width="20%"><center><img src="/_ld/15/23441791.jpg" alt="Грамоты, дипломы и медали для детского сада" style="margin: 5px;" width="100" border="0"> <br><a href="https://detskieradosti.ru/load/347-1-0-1571" style="text-decoration: none;">Грамоты, дипломы и медали для детского сада</a><br></center></td><td class="infTd" width="20%"><center><img src="/_ld/593/39956441.png" alt="Классный час играючи" style="margin: 5px;" width="100" border="0"> <br><a href="https://detskieradosti.ru/load/107-1-0-59345" style="text-decoration: none;">Классный час играючи</a><br></center></td><td class="infTd" width="20%"><center><img src="/_ld/547/75711232.jpg" alt="Папки-передвижки на зимнюю тему" style="margin: 5px;" width="100" border="0"> <br><a href="https://detskieradosti.ru/load/327-1-0-54708" style="text-decoration: none;">Папки-передвижки на зимнюю тему</a><br></center></td></tr><tr><td class="infTd" width="20%"><center><img src="/_ld/125/82639653.jpg" alt="Картотеки прогулок - декабрь, январь, февраль" style="margin: 5px;" width="100" border="0"> <br><a href="https://detskieradosti.ru/load/348-1-0-12534" style="text-decoration: none;">Картотеки прогулок - декабрь, январь, февраль</a><br></center></td><td class="infTd" width="20%"><center><img src="/_ld/452/18167448.jpg" alt="Цветочные праздничные рамки для фотографий" style="margin: 5px;" width="100" border="0"> <br><a href="https://detskieradosti.ru/load/61-1-0-45226" style="text-decoration: none;">Цветочные праздничные рамки для фотографий</a><br></center></td><td class="infTd" width="20%"><center><img src="/_ld/319/86977210.jpg" alt="Клипарт с армейской, военной и государственной символикой" style="margin: 5px;" width="100" border="0"> <br><a href="https://detskieradosti.ru/load/346-1-0-31984" style="text-decoration: none;">Клипарт с армейской, военной и государственной символикой</a><br></center></td><td class="infTd" width="20%"><center><img src="/_ld/186/95590679.jpg" alt="Папки-передвижки и плакаты к 23 февраля" style="margin: 5px;" width="100" border="0"> <br><a href="https://detskieradosti.ru/load/327-1-0-18653" style="text-decoration: none;">Папки-передвижки и плакаты к 23 февраля</a><br></center></td><td class="infTd" width="20%"><center><img src="/_ld/329/44168362.jpg" alt="Папки-передвижки и плакаты к 8 марта" style="margin: 5px;" width="100" border="0"> <br><a href="https://detskieradosti.ru/load/327-1-0-32960" style="text-decoration: none;">Папки-передвижки и плакаты к 8 марта</a><br></center></td></tr></table></td><td width="20%"><center><img src="/_dr/0/27910272.png" alt="Песни про маму" style="margin: 5px;" width="100" border="0"> <br><a href="https://detskieradosti.ru/dir/1-1-0-67" style="text-decoration: none;">Песни про маму</a><br></center><center><img src="/_dr/0/42519109.png" alt="Песни о папе" style="margin: 5px;" width="100" border="0"> <br><a href="https://detskieradosti.ru/dir/1-1-0-69" style="text-decoration: none;">Песни о папе</a><br></center><center><img src="/_dr/0/27181527.png" alt="Песни на 23 февраля и 9 мая" style="margin: 5px;" width="100" border="0"> <br><a href="https://detskieradosti.ru/dir/1-1-0-80" style="text-decoration: none;">Песни на 23 февраля и 9 мая</a><br></center></td></tr></table><BR><BR>
+
+
+<center><span style="font-size:15px;">Каждый найдет на нашем сайте для себя что-нибудь полезное и занимательное.<br />
+Если у вас есть материал, которым вы хотите поделиться - <a href="/forum/13-56-1" style="color: green" target="_blank">можете разместить его на сайте.</a><BR>
+
+Также дополнить любой материал на сайте можно в комментариях к материалу.</span><BR></center>
+
+
+<script async src="https://yastatic.net/pcode-native/loaders/loader.js"></script>
+<script>
+ (yaads = window.yaads || []).push({
+ id: "266162-92",
+ render: "#id-266162-92"
+ });
+</script>
+<div id="id-266162-92"></div>
+
+<!-- </body> --></td></tr></table>
+</td>
+
+</tr>
+</table>
+<!-- </middle> -->
+
+</td></tr></table>
+
+<!--U1BFOOTER1Z-->
+<script>
+ (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+ })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ ga('create', 'UA-11172287-5', 'auto');
+ ga('send', 'pageview');
+
+</script>
+
+<div align="center">
+<table width="100%"><tr>
+<td><center>
+<a href="/index/0-2" rel="nofollow">О сайте</a><br>
+<a href="/index/nash_informer/0-273" rel="nofollow">Информеры и баннеры</a><br>
+<a href="/index/popolnenie_wm_koshelka_cherez_sistemu_qiwi/0-283" rel="nofollow">Поблагодарить сайт</a><br>
+<a href="/index/0-185" rel="nofollow">Полезные ссылки</a><br>
+</center></td>
+<td><center>
+<a href="/forum/13-57-158-16-1329637915" target="_blank" rel="nofollow">Программы для чтения электронных книг</a><br>
+<a href="/forum/13-58-159-16-1329638173" target="_blank" rel="nofollow">Программы для запуска игр</a><br>
+<a href="/forum/13-56-149-16-1329627026" target="_blank" rel="nofollow">Как добавить свой материал</a><br><br>
+</center></td>
+<td><center>
+
+<a href="javascript:void(0)" onclick="javascript:window.open('/von/rassilka/podpiska.html','Рассылка','width=545,height=420, status=no,toolbar=no,menubar=no,scrollbars=yes,resiza ble=yes');" class="black" rel="nofollow">Рассылка</a><br>
+<a href="/index/0-3" rel="nofollow">Контакты</a><br>
+<a href="https://www.ucoz.ru/register?pguid=129766900" target="_blank" rel="nofollow">Создать свой сайт</a>
+</center></td></tr></table>
+</div>
+
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter45103719 = new Ya.Metrika({id:45103719,accurateTrackBounce:true,trackLinks:true,clickmap:true});
+
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+                s = d.createElement("script"),
+                f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="//mc.yandex.ru/watch/45103719" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+
+
+
+<!--/U1BFOOTER1Z-->
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+ (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+ m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+ (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+ ym(1055925, "init", {
+ clickmap:true,
+ trackLinks:true,
+ accurateTrackBounce:true,
+ webvisor:true
+ });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/1055925" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+<!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='//www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t45.16;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet' "+
+"border='0' width='31' height='31'><\/a>")
+//--></script><!--/LiveInternet-->
+
+</body>
+</html>
+<!-- 0.07101 (s78) -->

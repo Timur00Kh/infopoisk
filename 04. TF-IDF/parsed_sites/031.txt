@@ -1,0 +1,1170 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<script src='https://www.google.com/recaptcha/api.js'></script>
+
+	<meta charset="utf-8">
+<title>Детские песни скачать</title>
+<meta name="description" content="Детские песни, современные, весёлые, онлайн, песнь, песни на новый год, детские песни на день рождения, песни на день матери, песни про маму, песни про папу, песни на последний звонок, песни на выпускной, школьные песни">
+<meta name="keywords" content="Детские песни, современные, весёлые, онлайн, песнь, песни на новый год, детские песни на день рождения, песни на день матери, песни про маму, песни про папу, песни на последний звонок, песни на выпускной, школьные песни">
+<meta name="generator" content="DataLife Engine (http://dle-news.ru)">
+<link rel="search" type="application/opensearchdescription+xml" href="https://pesni-detskie.ru/index.php?do=opensearch" title="Детские песни скачать">
+<link rel="canonical" href="https://pesni-detskie.ru/">
+<link rel="alternate" type="application/rss+xml" title="Детские песни скачать" href="https://pesni-detskie.ru/rss.xml">
+	 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	  <link rel="shortcut icon" href="/templates/muzonator-13/images/favicon.png" />
+	  <link href="/templates/muzonator-13/style/styles.css" type="text/css" rel="stylesheet" />
+	  <link href="/templates/muzonator-13/style/engine.css" type="text/css" rel="stylesheet" />
+	  <link href="https://fonts.googleapis.com/css?family=Montserrat:400,400i,600,800&amp;subset=cyrillic" rel="stylesheet"> 
+	  <meta name="theme-color" content="#8e44ad">
+	  <meta name="yandex-verification" content="fc3d7bb2164171d6" />
+
+</head>
+
+<body>
+
+<div class="wrap">
+
+	<div class="wrap-center wrap-main">
+
+		<div class="cols fx-row">
+	
+			<aside class="col-left">
+				<div class="btn-menu"><span class="fa fa-bars"></span></div>
+				<a href="/" class="logo"><img src="/templates/muzonator-13/images/logo.webp" alt="Детские песни" /></a>
+				<div class="side-box">
+					<div class="side-bt">🎶 Меню сайта</div>
+					<ul class="side-bc side-nav">
+<li><a href="/detskie_pesni/">Все детские песни</a></li>
+						<li class="submenu"><a href="/detskie_pesni/o-blizkih-lyudyah/">О близких людях</a><div class="menu-btn-toggle"><span class="fa fa-angle-down"></span></div>
+							<ul class="hidden-menu hidden">
+								<li><ul>
+<li><a href="https://pesni-detskie.ru/detskie_pesni/o-blizkih-lyudyah/">О близких людях <span style="float: right;">292</span></a>
+	<ul><li><a href="https://pesni-detskie.ru/detskie_pesni/o-blizkih-lyudyah/pesni-pro-mamu/">Песни про маму <span style="float: right;">153</span></a>
+	
+	</li><li><a href="https://pesni-detskie.ru/detskie_pesni/o-blizkih-lyudyah/pesni-pro-babushku/">Песни про бабушку <span style="float: right;">43</span></a>
+	
+	</li><li><a href="https://pesni-detskie.ru/detskie_pesni/o-blizkih-lyudyah/pesni-o-bratesestre/">Песни о брате/сестре <span style="float: right;">1</span></a>
+	
+	</li><li><a href="https://pesni-detskie.ru/detskie_pesni/o-blizkih-lyudyah/pesni-pro-papu/">Песни про папу <span style="float: right;">48</span></a>
+	
+	</li><li><a href="https://pesni-detskie.ru/detskie_pesni/o-blizkih-lyudyah/pesni-pro-dedushku/">Песни про дедушку <span style="float: right;">5</span></a>
+	
+	</li><li><a href="https://pesni-detskie.ru/detskie_pesni/o-blizkih-lyudyah/pesni-pro-druzey/">Песни про друзей <span style="float: right;">46</span></a>
+	
+	</li></ul>
+	</li>
+</ul></li>
+							</ul>
+						</li>
+						<li class="submenu"><a href="/detskie_pesni/shkolnie_pesni/">Песни про школу</a><div class="menu-btn-toggle"><span class="fa fa-angle-down"></span></div>
+							<ul class="hidden-menu hidden">
+								<li><ul>
+<li><a href="https://pesni-detskie.ru/detskie_pesni/shkolnie_pesni/pesni-na-1-sentjabrja/">Песни на 1 Сентября <span style="float: right;">20</span></a>
+	
+	</li><li><a href="https://pesni-detskie.ru/detskie_pesni/shkolnie_pesni/pesni-na-den-uchitelja/">Песни на день учителя <span style="float: right;">1</span></a>
+	
+	</li><li><a href="https://pesni-detskie.ru/detskie_pesni/shkolnie_pesni/pesni-na-poslednij-zvonok/">Последний звонок <span style="float: right;">19</span></a>
+	
+	</li><li><a href="https://pesni-detskie.ru/detskie_pesni/shkolnie_pesni/pesni-na-vypusknoj/">Песни на выпускной <span style="float: right;">284</span></a>
+	
+	</li>
+</ul></li>
+							</ul>
+						</li>
+						<li class="submenu"><a href="/detskie_pesni/pesni-na-prazdnik/">Песни на праздник</a><div class="menu-btn-toggle"><span class="fa fa-angle-down"></span></div>
+							<ul class="hidden-menu hidden">
+								<li><ul>
+<li><a href="https://pesni-detskie.ru/detskie_pesni/pesni-na-prazdnik/">Песни на праздник <span style="float: right;">959</span></a>
+	<ul><li><a href="https://pesni-detskie.ru/detskie_pesni/pesni-na-prazdnik/pesni-pro-maslenicu/">Песни про масленицу <span style="float: right;">3</span></a>
+	
+	</li><li><a href="https://pesni-detskie.ru/detskie_pesni/pesni-na-prazdnik/pesenki-na-den-rozhdeniya/">Песенки на день рождения <span style="float: right;">26</span></a>
+	
+	</li><li><a href="https://pesni-detskie.ru/detskie_pesni/pesni-na-prazdnik/pesni-na-novyy-god/">Песни на Новый год <span style="float: right;">814</span></a>
+	
+	</li><li><a href="https://pesni-detskie.ru/detskie_pesni/pesni-na-prazdnik/pesni-na-rozhdestvo/">Песни на Рождество <span style="float: right;">14</span></a>
+	
+	</li><li><a href="https://pesni-detskie.ru/detskie_pesni/pesni-na-prazdnik/23-fevralya/">23 февраля <span style="float: right;">35</span></a>
+	
+	</li><li><a href="https://pesni-detskie.ru/detskie_pesni/pesni-na-prazdnik/den-svyatogo-valentina/">День Святого Валентина <span style="float: right;">8</span></a>
+	
+	</li><li><a href="https://pesni-detskie.ru/detskie_pesni/pesni-na-prazdnik/8-marta/">8 марта <span style="float: right;">39</span></a>
+	
+	</li><li><a href="https://pesni-detskie.ru/detskie_pesni/pesni-na-prazdnik/pesni-na-9-maja/">9 мая <span style="float: right;">16</span></a>
+	
+	</li><li><a href="https://pesni-detskie.ru/detskie_pesni/pesni-na-prazdnik/den-zaschity-detej/">День защиты детей <span style="float: right;">9</span></a>
+	
+	</li><li><a href="https://pesni-detskie.ru/detskie_pesni/pesni-na-prazdnik/pesni-na-den-rossii/">Песни на День России <span style="float: right;">3</span></a>
+	
+	</li></ul>
+	</li>
+</ul></li>
+								</ul></li>
+							<li class="submenu"><a href="/detskie_pesni/vremena-goda/">Времена года</a><div class="menu-btn-toggle"><span class="fa fa-angle-down"></span></div>
+							<ul class="hidden-menu hidden">
+								<li><ul>
+<li><a href="https://pesni-detskie.ru/detskie_pesni/vremena-goda/">Времена года <span style="float: right;">397</span></a>
+	<ul><li><a href="https://pesni-detskie.ru/detskie_pesni/vremena-goda/pesni-pro-leto/">Песни про Лето <span style="float: right;">139</span></a>
+	
+	</li><li><a href="https://pesni-detskie.ru/detskie_pesni/vremena-goda/pesni-pro-osen/">Песни про Осень <span style="float: right;">82</span></a>
+	
+	</li><li><a href="https://pesni-detskie.ru/detskie_pesni/vremena-goda/detskie-pesni-pro-zimu/">Песни про Зиму <span style="float: right;">58</span></a>
+	
+	</li><li><a href="https://pesni-detskie.ru/detskie_pesni/vremena-goda/pesni-pro-vesnu/">Песни про Весну <span style="float: right;">123</span></a>
+	
+	</li></ul>
+	</li>
+</ul></li>
+								</ul></li>
+							<li class="submenu"><a href="/detskie_pesni/kolybelnye-pesni/">Колыбельные, музыка</a><div class="menu-btn-toggle"><span class="fa fa-angle-down"></span></div>
+							<ul class="hidden-menu hidden">
+								<li><ul>
+<li><a href="https://pesni-detskie.ru/detskie_pesni/kolybelnye-pesni/">Колыбельные песни <span style="float: right;">172</span></a>
+	<ul><li><a href="https://pesni-detskie.ru/detskie_pesni/kolybelnye-pesni/kolybelnye-na-angliyskom/">Колыбельные на английском <span style="float: right;">0</span></a>
+	
+	</li><li><a href="https://pesni-detskie.ru/detskie_pesni/kolybelnye-pesni/klassicheskaya-muzyka/">Классическая музыка <span style="float: right;">0</span></a>
+	
+	</li><li><a href="https://pesni-detskie.ru/detskie_pesni/kolybelnye-pesni/skazki-na-noch/">Сказки на ночь <span style="float: right;">0</span></a>
+	
+	</li><li><a href="https://pesni-detskie.ru/detskie_pesni/kolybelnye-pesni/kolybelnye-ostalnye/">Колыбельные остальные <span style="float: right;">1</span></a>
+	
+	</li></ul>
+	</li><li><a href="https://pesni-detskie.ru/detskie_pesni/muzyka-detyam/">Музыка детям <span style="float: right;">1105</span></a>
+	<ul><li><a href="https://pesni-detskie.ru/detskie_pesni/muzyka-detyam/tancevalnaja-muzyka/">Танцевальная музыка <span style="float: right;">113</span></a>
+	
+	</li><li><a href="https://pesni-detskie.ru/detskie_pesni/muzyka-detyam/muzykalnye-skazki/">Музыкальные сказки <span style="float: right;">0</span></a>
+	
+	</li></ul>
+	</li>
+</ul></li>
+								</ul></li>
+							<li class="submenu"><a href="/detskie_pesni/pesenki-iz-multov/">Песни из фильмов, мультфильмов</a><div class="menu-btn-toggle"><span class="fa fa-angle-down"></span></div>
+							<ul class="hidden-menu hidden">
+								<li><ul>
+<li><a href="https://pesni-detskie.ru/detskie_pesni/pesenki-iz-multov/">Песни из мультфильмов <span style="float: right;">325</span></a>
+	<ul><li><a href="https://pesni-detskie.ru/detskie_pesni/pesenki-iz-multov/goluboy-schenok/">Голубой щенок <span style="float: right;">58</span></a>
+	
+	</li><li><a href="https://pesni-detskie.ru/detskie_pesni/pesenki-iz-multov/cheburashka/">Чебурашка <span style="float: right;">3</span></a>
+	
+	</li><li><a href="https://pesni-detskie.ru/detskie_pesni/pesenki-iz-multov/bremenskie-muzykanty/">Бременские музыканты <span style="float: right;">7</span></a>
+	
+	</li><li><a href="https://pesni-detskie.ru/detskie_pesni/pesenki-iz-multov/prostokvashino/">Простоквашино <span style="float: right;">0</span></a>
+	
+	</li><li><a href="https://pesni-detskie.ru/detskie_pesni/pesenki-iz-multov/letuchiy-korabl/">Летучий корабль <span style="float: right;">6</span></a>
+	
+	</li><li><a href="https://pesni-detskie.ru/detskie_pesni/pesenki-iz-multov/masha-i-medved/">Маша и Медведь <span style="float: right;">19</span></a>
+	
+	</li><li><a href="https://pesni-detskie.ru/detskie_pesni/pesenki-iz-multov/pesni-iz-sovetskih-multfilmov/">Песни из Советских мультфильмов <span style="float: right;">20</span></a>
+	
+	</li></ul>
+	</li><li><a href="https://pesni-detskie.ru/detskie_pesni/pesni-iz-filmov/">Песни из фильмов <span style="float: right;">27</span></a>
+	<ul><li><a href="https://pesni-detskie.ru/detskie_pesni/pesni-iz-filmov/gostya-iz-buduschego/">Гостья из будущего <span style="float: right;">1</span></a>
+	
+	</li><li><a href="https://pesni-detskie.ru/detskie_pesni/pesni-iz-filmov/po-sekretu-vsemu-svetu/">По секрету всему свету <span style="float: right;">2</span></a>
+	
+	</li><li><a href="https://pesni-detskie.ru/detskie_pesni/pesni-iz-filmov/priklyucheniya-elektronnika/">Приключения Электроника <span style="float: right;">9</span></a>
+	
+	</li><li><a href="https://pesni-detskie.ru/detskie_pesni/pesni-iz-filmov/nedopesok-napoleon-iii/">Недопесок Наполеон III <span style="float: right;">2</span></a>
+	
+	</li><li><a href="https://pesni-detskie.ru/detskie_pesni/pesni-iz-filmov/tayna-zheleznoy-dveri/">Тайна железной двери <span style="float: right;">0</span></a>
+	
+	</li><li><a href="https://pesni-detskie.ru/detskie_pesni/pesni-iz-filmov/usatyy-nyan/">Усатый нянь <span style="float: right;">1</span></a>
+	
+	</li><li><a href="https://pesni-detskie.ru/detskie_pesni/pesni-iz-filmov/krasnaya-shapochka/">Красная шапочка <span style="float: right;">2</span></a>
+	
+	</li><li><a href="https://pesni-detskie.ru/detskie_pesni/pesni-iz-filmov/deti-kapitana-granta/">Дети капитана Гранта <span style="float: right;">1</span></a>
+	
+	</li><li><a href="https://pesni-detskie.ru/detskie_pesni/pesni-iz-filmov/finist-yasnyy-sokol/">Финист - ясный сокол <span style="float: right;">0</span></a>
+	
+	</li><li><a href="https://pesni-detskie.ru/detskie_pesni/pesni-iz-filmov/zasekrechennyy-gorod/">Засекреченный город <span style="float: right;">0</span></a>
+	
+	</li><li><a href="https://pesni-detskie.ru/detskie_pesni/pesni-iz-filmov/poka-byut-chasy/">Пока бьют часы <span style="float: right;">0</span></a>
+	
+	</li><li><a href="https://pesni-detskie.ru/detskie_pesni/pesni-iz-filmov/buratino/">Буратино <span style="float: right;">3</span></a>
+	
+	</li></ul>
+	</li>
+</ul></li>
+								</ul></li>
+								<li class="submenu"><a href="/detskie_pesni/detskie-skazki/">Детские сказки</a><div class="menu-btn-toggle"><span class="fa fa-angle-down"></span></div>
+							<ul class="hidden-menu hidden">
+								<li><ul>
+<li><a href="https://pesni-detskie.ru/detskie_pesni/detskie-skazki/">Детские сказки <span style="float: right;">2</span></a>
+	<ul><li><a href="https://pesni-detskie.ru/detskie_pesni/detskie-skazki/russkie-narodnye-skazki/">Русские народные сказки <span style="float: right;">1</span></a>
+	
+	</li><li><a href="https://pesni-detskie.ru/detskie_pesni/detskie-skazki/angliyskie-audio-skazki/">Английские аудио сказки <span style="float: right;">1</span></a>
+	
+	</li><li><a href="https://pesni-detskie.ru/detskie_pesni/detskie-skazki/yaponskie-skazki/">Японские сказки <span style="float: right;">0</span></a>
+	
+	</li><li><a href="https://pesni-detskie.ru/detskie_pesni/detskie-skazki/kitayskie-narodnye/">Китайские народные <span style="float: right;">0</span></a>
+	
+	</li><li><a href="https://pesni-detskie.ru/detskie_pesni/detskie-skazki/zarubezhnye-audio-skazki/">Зарубежные аудио сказки <span style="float: right;">0</span></a>
+	
+	</li><li><a href="https://pesni-detskie.ru/detskie_pesni/detskie-skazki/afrikanskie-skazki/">Африканские сказки <span style="float: right;">0</span></a>
+	
+	</li><li><a href="https://pesni-detskie.ru/detskie_pesni/detskie-skazki/skazki-narodov-severa/">Сказки народов севера <span style="float: right;">0</span></a>
+	
+	</li><li><a href="https://pesni-detskie.ru/detskie_pesni/detskie-skazki/skazki-pro-bogatyrey/">Сказки про богатырей <span style="float: right;">0</span></a>
+	
+	</li><li><a href="https://pesni-detskie.ru/detskie_pesni/detskie-skazki/lesnye-skazki/">Лесные сказки <span style="float: right;">0</span></a>
+	
+	</li><li><a href="https://pesni-detskie.ru/detskie_pesni/detskie-skazki/bratya-grimm-audioskazki/">Братья Гримм, аудиосказки <span style="float: right;">0</span></a>
+	
+	</li><li><a href="https://pesni-detskie.ru/detskie_pesni/detskie-skazki/sharl-perro-audioskazki/">Шарль Перро, аудиосказки <span style="float: right;">0</span></a>
+	
+	</li><li><a href="https://pesni-detskie.ru/detskie_pesni/detskie-skazki/pushkin-audioskazki/">Пушкин, аудиосказки <span style="float: right;">0</span></a>
+	
+	</li><li><a href="https://pesni-detskie.ru/detskie_pesni/detskie-skazki/kipling-audioskazki/">Киплинг, аудиосказки <span style="float: right;">0</span></a>
+	
+	</li><li><a href="https://pesni-detskie.ru/detskie_pesni/detskie-skazki/chukovskiy-audioskazki/">Чуковский, аудиосказки <span style="float: right;">0</span></a>
+	
+	</li><li><a href="https://pesni-detskie.ru/detskie_pesni/detskie-skazki/gans-hristian-andersen/">Ганс Христиан Андерсен <span style="float: right;">0</span></a>
+	
+	</li><li><a href="https://pesni-detskie.ru/detskie_pesni/detskie-skazki/tolstoy-a-audioskazki/">Толстой А., аудиосказки <span style="float: right;">0</span></a>
+	
+	</li></ul>
+	</li>
+</ul></li>
+								</ul></li>
+								<li class="submenu"><a href="/detskie_pesni/detskie-rasskazy/">Детские рассказы</a><div class="menu-btn-toggle"><span class="fa fa-angle-down"></span></div>
+							<ul class="hidden-menu hidden">
+								<li><ul>
+<li><a href="https://pesni-detskie.ru/detskie_pesni/detskie-rasskazy/">Детские рассказы <span style="float: right;">1</span></a>
+	<ul><li><a href="https://pesni-detskie.ru/detskie_pesni/detskie-rasskazy/deniskiny-rasskazy/">Денискины рассказы <span style="float: right;">0</span></a>
+	
+	</li><li><a href="https://pesni-detskie.ru/detskie_pesni/detskie-rasskazy/sergey-mihalkov-rasskazy/">Сергей Михалков, рассказы <span style="float: right;">0</span></a>
+	
+	</li><li><a href="https://pesni-detskie.ru/detskie_pesni/detskie-rasskazy/nikolay-nosov-rasskazy/">Николай Носов, рассказы <span style="float: right;">1</span></a>
+	
+	</li><li><a href="https://pesni-detskie.ru/detskie_pesni/detskie-rasskazy/vitaliy-bianki-rasskazy/">Виталий Бианки, рассказы <span style="float: right;">0</span></a>
+	
+	</li></ul>
+	</li>
+</ul></li>
+								</ul></li>
+								<li class="submenu"><a href="/detskie_pesni/inostrannye-pesni/">Песни разных народов</a><div class="menu-btn-toggle"><span class="fa fa-angle-down"></span></div>
+							<ul class="hidden-menu hidden">
+								<li><ul>
+<li><a href="https://pesni-detskie.ru/detskie_pesni/inostrannye-pesni/">Песни разных народов <span style="float: right;">634</span></a>
+	<ul><li><a href="https://pesni-detskie.ru/detskie_pesni/inostrannye-pesni/detskie-francuzskie-pesni/">Детские французские песни <span style="float: right;">5</span></a>
+	
+	</li><li><a href="https://pesni-detskie.ru/detskie_pesni/inostrannye-pesni/detskie-nemeckie-pesni/">Детские немецкие песни <span style="float: right;">18</span></a>
+	
+	</li><li><a href="https://pesni-detskie.ru/detskie_pesni/inostrannye-pesni/detskie-rumynskie-pesni/">Детские румынские песни <span style="float: right;">1</span></a>
+	
+	</li><li><a href="https://pesni-detskie.ru/detskie_pesni/inostrannye-pesni/detskie-ukrainskie-pesni/">Детские украинские песни <span style="float: right;">111</span></a>
+	
+	</li><li><a href="https://pesni-detskie.ru/detskie_pesni/inostrannye-pesni/detskie-angliyskie-pesni/">Детские английские песни <span style="float: right;">285</span></a>
+	
+	</li><li><a href="https://pesni-detskie.ru/detskie_pesni/inostrannye-pesni/detskie-kitayskie-pesni/">Детские китайские песни <span style="float: right;">1</span></a>
+	
+	</li><li><a href="https://pesni-detskie.ru/detskie_pesni/inostrannye-pesni/detskie-yaponskie-pesni/">Детские Японские песни <span style="float: right;">1</span></a>
+	
+	</li><li><a href="https://pesni-detskie.ru/detskie_pesni/inostrannye-pesni/detskie-tatarskie-pesni/">Детские Татарские песни <span style="float: right;">157</span></a>
+	
+	</li><li><a href="https://pesni-detskie.ru/detskie_pesni/inostrannye-pesni/detskie-bashkirskie-pesni/">Детские Башкирские песни <span style="float: right;">1</span></a>
+	
+	</li><li><a href="https://pesni-detskie.ru/detskie_pesni/inostrannye-pesni/chuvashskie-detskie-pesni/">Чувашские детские песни <span style="float: right;">1</span></a>
+	
+	</li></ul>
+	</li>
+</ul></li>
+								</ul></li>
+								<li class="submenu"><a href="/ispolniteli-detskih-pesen/">Группы, Исполнители детских песен</a><div class="menu-btn-toggle"><span class="fa fa-angle-down"></span></div>
+							<ul class="hidden-menu hidden">
+								<li><ul>
+<li><a href="https://pesni-detskie.ru/ispolniteli-detskih-pesen/">Исполнители <span style="float: right;">4760</span></a>
+	<ul><li><a href="https://pesni-detskie.ru/ispolniteli-detskih-pesen/open-kids/">Open Kids <span style="float: right;">244</span></a>
+	
+	</li><li><a href="https://pesni-detskie.ru/ispolniteli-detskih-pesen/azbuka-hit/">Азбука Хит <span style="float: right;">68</span></a>
+	
+	</li><li><a href="https://pesni-detskie.ru/ispolniteli-detskih-pesen/volshebniki-dvora/">Волшебники двора <span style="float: right;">1087</span></a>
+	
+	</li><li><a href="https://pesni-detskie.ru/ispolniteli-detskih-pesen/detskij-hor-velikan/">Детский хор Великан <span style="float: right;">259</span></a>
+	
+	</li><li><a href="https://pesni-detskie.ru/ispolniteli-detskih-pesen/dzhinsovye-malchiki/">Джинсовые Мальчики <span style="float: right;">217</span></a>
+	
+	</li><li><a href="https://pesni-detskie.ru/ispolniteli-detskih-pesen/domisolka/">ДоМиСолька <span style="float: right;">284</span></a>
+	
+	</li><li><a href="https://pesni-detskie.ru/ispolniteli-detskih-pesen/multikejs/">Мультикейс <span style="float: right;">69</span></a>
+	
+	</li><li><a href="https://pesni-detskie.ru/ispolniteli-detskih-pesen/neposedy/">Непоседы <span style="float: right;">1453</span></a>
+	
+	</li><li><a href="https://pesni-detskie.ru/ispolniteli-detskih-pesen/rodniki/">Родники <span style="float: right;">348</span></a>
+	
+	</li><li><a href="https://pesni-detskie.ru/ispolniteli-detskih-pesen/ulybka/">Улыбка <span style="float: right;">732</span></a>
+	
+	</li></ul>
+	</li>
+</ul></li>
+								</ul></li>
+						<li><a href="/detskie_pesni/golos-deti/">Голос. Дети.</a></li>
+						<li><a href="/audioknigi/">Аудиокниги</a></li>
+						<li><a href="/video-dlya-detey/">Видео для детей</a></li>
+						<li><a href="/stihi-audio/">Стихи (аудио)</a></li>
+						<li><a href="#">Детское Радио</a></li>
+					</ul>
+				</div>
+				<div class="side-box">
+				<div class="side-bt">Комментарии 🙃</div>
+					<div class="lastcomment">
+<div class="lcol"><div class="avatar"><div><img src="/templates/muzonator-13/dleimages/noavatar.png" alt="Илья."></div>
+</div>
+</div>
+
+<div class="rcols">
+<div class="ul_inf">
+<span class="lcol">Илья.</span>
+<em class="rcol">Джинсовые мальчики - Мама</em>
+</div>
+
+<div class="comment_text clr"><a href="https://pesni-detskie.ru/480-dzhinsovye-malchiki-mama.html#comment" title="Джинсовые мальчики - Мама" style="text-decoration: none;" rel="nofollow">Клёвая песня моей маме понравилось!</a><div class="clr"></div></div>
+</div>
+</div><div class="lastcomment">
+<div class="lcol"><div class="avatar"><div><img src="/templates/muzonator-13/dleimages/noavatar.png" alt="Палина"></div>
+</div>
+</div>
+
+<div class="rcols">
+<div class="ul_inf">
+<span class="lcol">Палина</span>
+<em class="rcol">Я пою - Милая мама</em>
+</div>
+
+<div class="comment_text clr"><a href="https://pesni-detskie.ru/486-ja-poju-milaja-mama.html#comment" title="Я пою - Милая мама" style="text-decoration: none;" rel="nofollow">Просто отличная песня(◔‿◔)</a><div class="clr"></div></div>
+</div>
+</div><div class="lastcomment">
+<div class="lcol"><div class="avatar"><div><img src="/templates/muzonator-13/dleimages/noavatar.png" alt="Катя"></div>
+</div>
+</div>
+
+<div class="rcols">
+<div class="ul_inf">
+<span class="lcol">Катя</span>
+<em class="rcol">Детские Песни - Бабушке И Маме На 8 Марта</em>
+</div>
+
+<div class="comment_text clr"><a href="https://pesni-detskie.ru/5809-detskie-pesni-babushke-i-mame-na-8-marta.html#comment" title="Детские Песни - Бабушке И Маме На 8 Марта" style="text-decoration: none;" rel="nofollow">Песни класс благодаря вас. За тошто вы зделали такие песни</a><div class="clr"></div></div>
+</div>
+</div><div class="lastcomment">
+<div class="lcol"><div class="avatar"><div><img src="/templates/muzonator-13/dleimages/noavatar.png" alt="Таня"></div>
+</div>
+</div>
+
+<div class="rcols">
+<div class="ul_inf">
+<span class="lcol">Таня</span>
+<em class="rcol">KAZKA - Плакала (ДЕТСКАЯ)</em>
+</div>
+
+<div class="comment_text clr"><a href="https://pesni-detskie.ru/387-kazka-plakala-detskaya.html#comment" title="KAZKA - Плакала (ДЕТСКАЯ)" style="text-decoration: none;" rel="nofollow">У меня три дочери ,по этому я слушая эту песню плачу. Очень красивая песня в</a><div class="clr"></div></div>
+</div>
+</div><div class="lastcomment">
+<div class="lcol"><div class="avatar"><div><img src="/templates/muzonator-13/dleimages/noavatar.png" alt="надя"></div>
+</div>
+</div>
+
+<div class="rcols">
+<div class="ul_inf">
+<span class="lcol">надя</span>
+<em class="rcol">Гостья из будущего - Прекрасное далеко</em>
+</div>
+
+<div class="comment_text clr"><a href="https://pesni-detskie.ru/15-gostya-iz-buduschego-prekrasnoe-daleko.html#comment" title="Гостья из будущего - Прекрасное далеко" style="text-decoration: none;" rel="nofollow">Песня класс я бы посмотрела этот фильм ещё  leon,ты кто 🥳</a><div class="clr"></div></div>
+</div>
+</div><div class="lastcomment">
+<div class="lcol"><div class="avatar"><div><img src="/templates/muzonator-13/dleimages/noavatar.png" alt="Т. Ләйсән"></div>
+</div>
+</div>
+
+<div class="rcols">
+<div class="ul_inf">
+<span class="lcol">Т. Ләйсән</span>
+<em class="rcol">Детская Башкирская песня - Элифба</em>
+</div>
+
+<div class="comment_text clr"><a href="https://pesni-detskie.ru/383-detskaya-bashkirskaya-pesnya-elifba.html#comment" title="Детская Башкирская песня - Элифба" style="text-decoration: none;" rel="nofollow">Әлифба  1. Һәр партала  иң уртала Әлифба тигән китаб Һүрәттәре бигерәк Күп алып</a><div class="clr"></div></div>
+</div>
+</div><div class="lastcomment">
+<div class="lcol"><div class="avatar"><div><img src="/templates/muzonator-13/dleimages/noavatar.png" alt="Мызылдай"></div>
+</div>
+</div>
+
+<div class="rcols">
+<div class="ul_inf">
+<span class="lcol">Мызылдай</span>
+<em class="rcol">Детские Песни На 8 Марта - Милая Бабушка</em>
+</div>
+
+<div class="comment_text clr"><a href="https://pesni-detskie.ru/5342-detskie-pesni-na-8-marta-milaya-babushka.html#comment" title="Детские Песни На 8 Марта - Милая Бабушка" style="text-decoration: none;" rel="nofollow">Песня для бабушки</a><div class="clr"></div></div>
+</div>
+</div>    
+					<div class="side-bt">🆕 Новые песни</div>
+					<div class="side-bc"><a class="tt fx-row fx-middle" href="https://pesni-detskie.ru/14203-novogodnie-detskie-pesni-pod-novyy-god-sbyvayutsya-vse-skazkinovyy-god-prekrasney-vseh-na-svete.html">
+	<div class="track-img img-fit"><img src="/load/img/novgod.jpeg" alt="Новогодние Детские Песни - Под Новый Год Сбываются Все Сказки...новый Год Прекрасней Всех На Свете!" /></div>
+	<div class="track-desc fx-1">
+		<div class="track-title nowrap">Новогодние Детские Песни</div>
+		<div class="track-subtitle nowrap">Под Новый Год Сбываются Все Сказки...новый Год Прекрасней Всех На Свете!</div>
+	</div>
+</a><a class="tt fx-row fx-middle" href="https://pesni-detskie.ru/14202-novogodnie-detskie-pesni-novogodniy-horovod-v-dekabre.html">
+	<div class="track-img img-fit"><img src="/load/img/novgod.jpeg" alt="Новогодние Детские Песни - Новогодний Хоровод В Декабре" /></div>
+	<div class="track-desc fx-1">
+		<div class="track-title nowrap">Новогодние Детские Песни</div>
+		<div class="track-subtitle nowrap">Новогодний Хоровод В Декабре</div>
+	</div>
+</a><a class="tt fx-row fx-middle" href="https://pesni-detskie.ru/14201-novogodnie-detskie-pesni-ldolina-tri-belyh-konya.html">
+	<div class="track-img img-fit"><img src="/load/img/novgod.jpeg" alt="Новогодние - Детские Песни - Л.долина - Три Белых Коня" /></div>
+	<div class="track-desc fx-1">
+		<div class="track-title nowrap">Новогодние - Детские Песни - Л.долина</div>
+		<div class="track-subtitle nowrap">Три Белых Коня</div>
+	</div>
+</a><a class="tt fx-row fx-middle" href="https://pesni-detskie.ru/14200-novogodnie-detskie-pesni-minusovka-chto-takoe-novyy-god.html">
+	<div class="track-img img-fit"><img src="/load/img/novgod.jpeg" alt="Новогодние Детские Песни - Минусовка. Что Такое Новый Год" /></div>
+	<div class="track-desc fx-1">
+		<div class="track-title nowrap">Новогодние Детские Песни</div>
+		<div class="track-subtitle nowrap">Минусовка. Что Такое Новый Год</div>
+	</div>
+</a><a class="tt fx-row fx-middle" href="https://pesni-detskie.ru/14199-novogodnie-detskie-pesni-malenkoy-elochke-holodno-zimoy.html">
+	<div class="track-img img-fit"><img src="/load/img/novgod.jpeg" alt="Новогодние Детские Песни - Маленькой Елочке Холодно Зимой" /></div>
+	<div class="track-desc fx-1">
+		<div class="track-title nowrap">Новогодние Детские Песни</div>
+		<div class="track-subtitle nowrap">Маленькой Елочке Холодно Зимой</div>
+	</div>
+</a><a class="tt fx-row fx-middle" href="https://pesni-detskie.ru/14198-novogodnie-detskie-pesni-tik-tak-tikayut-chasy.html">
+	<div class="track-img img-fit"><img src="/load/img/novgod.jpeg" alt="Новогодние Детские Песни - Тик-Так, Тикают Часы" /></div>
+	<div class="track-desc fx-1">
+		<div class="track-title nowrap">Новогодние Детские Песни</div>
+		<div class="track-subtitle nowrap">Тик-Так, Тикают Часы</div>
+	</div>
+</a><a class="tt fx-row fx-middle" href="https://pesni-detskie.ru/14197-novogodnie-detskie-pesni-novogodniy-karnaval-konopushki.html">
+	<div class="track-img img-fit"><img src="/load/img/novgod.jpeg" alt="Новогодние Детские Песни - Новогодний Карнавал (Конопушки)" /></div>
+	<div class="track-desc fx-1">
+		<div class="track-title nowrap">Новогодние Детские Песни</div>
+		<div class="track-subtitle nowrap">Новогодний Карнавал (Конопушки)</div>
+	</div>
+</a><a class="tt fx-row fx-middle" href="https://pesni-detskie.ru/14196-detskie-pesni-iz-k-f-novogodnie-priklyucheniya-mashi-i-viti-pesnya-dikih-gitar.html">
+	<div class="track-img img-fit"><img src="/load/img/novgod.jpeg" alt="Детские Песни. Из К/ф Новогодние Приключения Маши И Вити - Песня Диких Гитар" /></div>
+	<div class="track-desc fx-1">
+		<div class="track-title nowrap">Детские Песни. Из К/ф Новогодние Приключения Маши И Вити</div>
+		<div class="track-subtitle nowrap">Песня Диких Гитар</div>
+	</div>
+</a><a class="tt fx-row fx-middle" href="https://pesni-detskie.ru/14195-novogodnie-detskie-pesni-pod-novyy-god-.html">
+	<div class="track-img img-fit"><img src="/load/img/novgod.jpeg" alt="Новогодние Детские Песни - Под Новый Год (-)" /></div>
+	<div class="track-desc fx-1">
+		<div class="track-title nowrap">Новогодние Детские Песни</div>
+		<div class="track-subtitle nowrap">Под Новый Год (-)</div>
+	</div>
+</a><a class="tt fx-row fx-middle" href="https://pesni-detskie.ru/14194-popatenko-novogodnie-detskie-pesni-elka-elochka.html">
+	<div class="track-img img-fit"><img src="/load/img/novgod.jpeg" alt="Попатенко Новогодние Детские Песни - Елка-Елочка" /></div>
+	<div class="track-desc fx-1">
+		<div class="track-title nowrap">Попатенко Новогодние Детские Песни</div>
+		<div class="track-subtitle nowrap">Елка-Елочка</div>
+	</div>
+</a></div>
+				</div>
+				<div class="side-box">
+					<div class="side-bt">👶 Детские группы</div>
+					
+					<div class="side-bc fx-row"><div class="ta">
+	<a class="artist-in" href="https://pesni-detskie.ru/14203-novogodnie-detskie-pesni-pod-novyy-god-sbyvayutsya-vse-skazkinovyy-god-prekrasney-vseh-na-svete.html">
+		<div class="artist-img img-resp-sq img-fit"><img src="/load/img/novgod.jpeg" alt="Новогодние Детские Песни - Под Новый Год Сбываются Все Сказки...новый Год Прекрасней Всех На Свете!" /></div>
+		<div class="artist-title">Новогодние</div>
+	</a>
+</div><div class="ta">
+	<a class="artist-in" href="https://pesni-detskie.ru/14202-novogodnie-detskie-pesni-novogodniy-horovod-v-dekabre.html">
+		<div class="artist-img img-resp-sq img-fit"><img src="/load/img/novgod.jpeg" alt="Новогодние Детские Песни - Новогодний Хоровод В Декабре" /></div>
+		<div class="artist-title">Новогодние</div>
+	</a>
+</div><div class="ta">
+	<a class="artist-in" href="https://pesni-detskie.ru/14201-novogodnie-detskie-pesni-ldolina-tri-belyh-konya.html">
+		<div class="artist-img img-resp-sq img-fit"><img src="/load/img/novgod.jpeg" alt="Новогодние - Детские Песни - Л.долина - Три Белых Коня" /></div>
+		<div class="artist-title">Новогодние -</div>
+	</a>
+</div><div class="ta">
+	<a class="artist-in" href="https://pesni-detskie.ru/14200-novogodnie-detskie-pesni-minusovka-chto-takoe-novyy-god.html">
+		<div class="artist-img img-resp-sq img-fit"><img src="/load/img/novgod.jpeg" alt="Новогодние Детские Песни - Минусовка. Что Такое Новый Год" /></div>
+		<div class="artist-title">Новогодние</div>
+	</a>
+</div><div class="ta">
+	<a class="artist-in" href="https://pesni-detskie.ru/14199-novogodnie-detskie-pesni-malenkoy-elochke-holodno-zimoy.html">
+		<div class="artist-img img-resp-sq img-fit"><img src="/load/img/novgod.jpeg" alt="Новогодние Детские Песни - Маленькой Елочке Холодно Зимой" /></div>
+		<div class="artist-title">Новогодние</div>
+	</a>
+</div><div class="ta">
+	<a class="artist-in" href="https://pesni-detskie.ru/14198-novogodnie-detskie-pesni-tik-tak-tikayut-chasy.html">
+		<div class="artist-img img-resp-sq img-fit"><img src="/load/img/novgod.jpeg" alt="Новогодние Детские Песни - Тик-Так, Тикают Часы" /></div>
+		<div class="artist-title">Новогодние</div>
+	</a>
+</div></div>
+				</div>
+			</aside>
+			
+			<!-- COL-LEFT -->
+			
+			<div class="col-main fx-1">
+			
+				<div class="topline fx-row">
+					<div class="share"></div>
+					<div class="search-wrap fx-1">
+						<form id="quicksearch" method="post">
+							<input type="hidden" name="do" value="search" />
+							<input type="hidden" name="subaction" value="search" />
+							<div class="search-box">
+								<input id="story" name="story" placeholder="поиск музыки..." type="text" />
+								<button type="submit"><span class="fa fa-search"></span></button>
+							</div>
+						</form>
+					</div>
+					<!--noindex-->
+
+			
+			<div class="login-btns">
+				<div class="btn-login js-login"><span class="fa fa-lock"></span></div>
+			</div>
+			
+			
+
+
+<div class="login-box not-logged">
+	<form method="post">
+		<div class="login-title">Авторизация</div>
+		<div class="login-avatar"><span class="fa fa-user"></span></div>
+		<div class="login-input"><input type="text" name="login_name" id="login_name" placeholder="Ваш логин"/></div>
+		<div class="login-input"><input type="password" name="login_password" id="login_password" placeholder="Ваш пароль" /></div>
+		<div class="login-check">
+			<label for="login_not_save">
+				<input type="checkbox" name="login_not_save" id="login_not_save" value="1"/>
+				<span>Запомнить меня</span>
+			</label> 
+		</div>
+		<div class="login-btn"><button onclick="submit();" type="submit" title="Вход">Войти</button></div>
+		<input name="login" type="hidden" id="login" value="submit" />
+		<div class="login-btm fx-row">
+			<a href="/?do=register" class="log-register">Регистрация</a>
+			<a href="https://pesni-detskie.ru/index.php?do=lostpassword">Восстановить пароль</a>
+		</div>
+		<div class="login-soc-title">Или войти через</div>
+		<div class="login-soc-btns">
+			
+			
+			
+			
+			
+			
+		</div>
+	</form>
+</div>
+
+<!--/noindex-->
+				</div>
+	
+				<main class="content">
+
+					
+					
+								<div class="sect">
+				<div class="sect-header fx-row fx-middle">
+					<div class="sect-title fx-1">Топ современных весёлых детских песен</div>
+					<a href="#" class="sect-link">Перейти в каталог</a>
+				</div>
+				<div class="sect-content fx-row mp">
+					<div class="album-item">
+	<a class="album-in" href="https://pesni-detskie.ru/90-pesnya-na-vypusknoy-my-tem-kto-ostalsya-zhelaem-udachi.html">
+		<div class="album-img img-resp-sq img-fit"><img src="/load/img/vypusknoy.gif" alt="Песня на выпускной - Мы тем кто остался желаем удачи..." /></div>
+		<div class="album-title">Песня на выпускной - Мы тем кто остался желаем удачи...</div>
+		<div class="album-subtitle">Песни про школу                 / Песни на выпускной</div>
+	</a>
+</div>
+<div class="album-item">
+	<a class="album-in" href="https://pesni-detskie.ru/109-pesnya-na-den-uchitelya.html">
+		<div class="album-img img-resp-sq img-fit"><img src="/load/img/uchitel.jpg" alt="Песня на день учителя" /></div>
+		<div class="album-title">Песня на день учителя</div>
+		<div class="album-subtitle">Песни на день учителя</div>
+	</a>
+</div>
+<div class="album-item">
+	<a class="album-in" href="https://pesni-detskie.ru/76-shkolnye-pesni-pesnya-pro-klass.html">
+		<div class="album-img img-resp-sq img-fit"><img src="/load/img/school.jpg" alt="Школьные Песни – Песня про класс" /></div>
+		<div class="album-title">Школьные Песни – Песня про класс</div>
+		<div class="album-subtitle">Песни про школу                   / Песни на выпускной                   / Песни про Весну</div>
+	</a>
+</div>
+<div class="album-item">
+	<a class="album-in" href="https://pesni-detskie.ru/99-pesnya-na-vypusknoy-posledniy-zvonok.html">
+		<div class="album-img img-resp-sq img-fit"><img src="/load/img/vypusknoy.gif" alt="Песня на выпускной - Последний звонок" /></div>
+		<div class="album-title">Песня на выпускной - Последний звонок</div>
+		<div class="album-subtitle">Песни про школу                    / Последний звонок                    / Песни на выпускной</div>
+	</a>
+</div>
+<div class="album-item">
+	<a class="album-in" href="https://pesni-detskie.ru/314-na-vypusknoy-uhozhu-krasivo.html">
+		<div class="album-img img-resp-sq img-fit"><img src="/load/img/school.jpg" alt="На выпускной - Ухожу красиво (Пародия)" /></div>
+		<div class="album-title">На выпускной - Ухожу красиво (Пародия)</div>
+		<div class="album-subtitle">Песни про школу                     / Последний звонок                     / Песни на выпускной</div>
+	</a>
+</div>
+
+				</div>
+			</div>
+			
+				<div class="sect">
+				<div class="sect-header fx-row fx-middle">
+					<div class="sect-title fx-1">Современные детские песни 2020 Выпускной</div>
+					<a href="https://pesni-detskie.ru/detskie_pesni/shkolnie_pesni/" class="sect-link">Все песни 2020</a>
+				</div>
+				<div class="sect-content fx-row mp">
+					<div class="artist-item">
+	<a class="artist-in" href="https://pesni-detskie.ru/6971-volshebniki-dvora-posledniy-zvonok-2011.html">
+		<div class="artist-img img-resp-sq img-fit"><img src="/load/img/volshebniki.webp" alt="Волшебники Двора - Последний Звонок 2011" /></div>
+		<div class="artist-title">Волшебники Двора -...</div>
+	</a>
+</div><div class="artist-item">
+	<a class="artist-in" href="https://pesni-detskie.ru/6259-detskie-moldavskie-pesni-amintiri-minus.html">
+		<div class="artist-img img-resp-sq img-fit"><img src="/load/img/det.jpg" alt="Детские Молдавские Песни - Amintiri (Минус)" /></div>
+		<div class="artist-title">Детские Молдавские Песни...</div>
+	</a>
+</div><div class="artist-item">
+	<a class="artist-in" href="https://pesni-detskie.ru/13415-muzyka-dlya-detey-trezor.html">
+		<div class="artist-img img-resp-sq img-fit"><img src="/load/img/muz.jpg" alt="Музыка Для Детей - Трезор" /></div>
+		<div class="artist-title">Музыка Для Детей - Трезор...</div>
+	</a>
+</div><div class="artist-item">
+	<a class="artist-in" href="https://pesni-detskie.ru/12372-shou-gruppa-ulybka-raz-dva-tri-x-minusorg.html">
+		<div class="artist-img img-resp-sq img-fit"><img src="/load/img/ylibka.jpg" alt="Шоу Группа «Улыбка» - Раз, Два, Три (-) X-Minus.org" /></div>
+		<div class="artist-title">Шоу Группа «Улыбка» -...</div>
+	</a>
+</div><div class="artist-item">
+	<a class="artist-in" href="https://pesni-detskie.ru/7061-gruppa-volshebniki-dvora-vesnu-zvali.html">
+		<div class="artist-img img-resp-sq img-fit"><img src="/load/img/volshebniki.webp" alt="Группа Волшебники Двора - Весну Звали" /></div>
+		<div class="artist-title">Группа Волшебники Двора...</div>
+	</a>
+</div><div class="artist-item">
+	<a class="artist-in" href="https://pesni-detskie.ru/8455-dzhinsovye-malchiki-dzhinsovye-malchiki.html">
+		<div class="artist-img img-resp-sq img-fit"><img src="/load/img/djinsovie.jpg" alt="Джинсовые Мальчики - Джинсовые Мальчики" /></div>
+		<div class="artist-title">Джинсовые Мальчики -...</div>
+	</a>
+</div><div class="artist-item">
+	<a class="artist-in" href="https://pesni-detskie.ru/4678-detskie-pesni-sborniki-rodniki-solnyshko-zernyshko.html">
+		<div class="artist-img img-resp-sq img-fit"><img src="/load/img/det.jpg" alt="Детские Песни (Сборники) - Родники - Солнышко-Зернышко" /></div>
+		<div class="artist-title">Детские Песни (Сборники)...</div>
+	</a>
+</div><div class="artist-item">
+	<a class="artist-in" href="https://pesni-detskie.ru/11386-iz-shou-golos-deti-who-wants-to-live-forever.html">
+		<div class="artist-img img-resp-sq img-fit"><img src="/load/img/golos.jpg" alt="Из Шоу Голос. Дети - Who Wants To Live Forever" /></div>
+		<div class="artist-title">Из Шоу Голос. Дети - Who...</div>
+	</a>
+</div><div class="artist-item">
+	<a class="artist-in" href="https://pesni-detskie.ru/5376-detskie-pesni-na-angliyskom-yazyke-nature-row-row-row-your-boat.html">
+		<div class="artist-img img-resp-sq img-fit"><img src="/load/img/english.jpg" alt="Детские Песни На Английском Языке. Nature - Row, Row, Row Your Boat" /></div>
+		<div class="artist-title">Детские Песни На...</div>
+	</a>
+</div><div class="artist-item">
+	<a class="artist-in" href="https://pesni-detskie.ru/13928-detskie-novogodnie-pesni-poka-chasy-12-byut.html">
+		<div class="artist-img img-resp-sq img-fit"><img src="/load/img/novgod.jpeg" alt="Детские Новогодние Песни - Пока Часы 12 Бьют" /></div>
+		<div class="artist-title">Детские Новогодние Песни...</div>
+	</a>
+</div><div class="artist-item">
+	<a class="artist-in" href="https://pesni-detskie.ru/4670-detskie-pesni-sborniki-chernyy-kofe-listya.html">
+		<div class="artist-img img-resp-sq img-fit"><img src="/load/img/det.jpg" alt="Детские Песни (Сборники) - Черный Кофе - Листья" /></div>
+		<div class="artist-title">Детские Песни (Сборники)...</div>
+	</a>
+</div><div class="artist-item">
+	<a class="artist-in" href="https://pesni-detskie.ru/11219-potomu-chto-my-piloty-golos-deti-4-sezon-8-vypusk-mihail-moskalev-aleksandr-dudko-roman-trifonov.html">
+		<div class="artist-img img-resp-sq img-fit"><img src="/load/img/golos.jpg" alt="Потому, Что Мы Пилоты (Голос. Дети) (4 Сезон 8 Выпуск) - Михаил Москалёв &amp; Александр Дудко &amp; Роман Трифонов" /></div>
+		<div class="artist-title">Потому, Что Мы Пилоты...</div>
+	</a>
+</div><div class="artist-item">
+	<a class="artist-in" href="https://pesni-detskie.ru/10553-rodniki-nedoskazannoe-minus.html">
+		<div class="artist-img img-resp-sq img-fit"><img src="/load/img/rodniki.jpg" alt="Родники - Недосказанное (Минус)" /></div>
+		<div class="artist-title">Родники - Недосказанное...</div>
+	</a>
+</div><div class="artist-item">
+	<a class="artist-in" href="https://pesni-detskie.ru/10948-sasha-filingolos-deti-simpo-simpo.html">
+		<div class="artist-img img-resp-sq img-fit"><img src="/load/img/golos.jpg" alt="Саша Филин(Голос Дети!) - Симпо-Симпо)" /></div>
+		<div class="artist-title">Саша Филин(Голос Дети!)...</div>
+	</a>
+</div><div class="artist-item">
+	<a class="artist-in" href="https://pesni-detskie.ru/1583-detskie-pesni-iz-multfilmov-bolshe-pesen-s-tekstom-v-club16365000-ah-esli-by-sbylas-moya-mechta.html">
+		<div class="artist-img img-resp-sq img-fit"><img src="/load/img/mylt.jpg" alt="Детские Песни Из Мультфильмов. Больше Песен С Текстом В Club16365000 - Ах, Если Бы Сбылась Моя Мечта" /></div>
+		<div class="artist-title">Детские Песни Из...</div>
+	</a>
+</div><div class="artist-item">
+	<a class="artist-in" href="https://pesni-detskie.ru/2091-detskie-pesni-esli-vdrug-neschaste.html">
+		<div class="artist-img img-resp-sq img-fit"><img src="/load/img/det.jpg" alt="Детские Песни - Если Вдруг Несчастье" /></div>
+		<div class="artist-title">Детские Песни - Если...</div>
+	</a>
+</div>
+				</div>
+			</div>
+			
+			<div class="sect">
+				<div class="sect-header fx-row fx-middle">
+					<div class="sect-title fx-1">Новые современные весёлые детские песни</div>
+					<a href="/detskie_pesni/" class="sect-link">Все песни</a>
+				</div>
+				<div class="sect-content fx-row sect-count">
+					<div class="sect-col">
+						<div class="track-item fx-row fx-middle js-item" data-track="https://muz19.z1.fm/e/3c/novogodnie_detskie_pesni_-_pod_novij_god_sbivajutsja_vse_skazkinovij_god_prekrasnej_vseh_na_svete_(zf.fm).mp3" data-title="Новогодние Детские Песни - Под Новый Год Сбываются Все Сказки...новый Год Прекрасней Всех На Свете!" data-artist="Песни на Новый год" data-img="/load/img/novgod.jpeg">
+	<div class="track-fav js-login" title="В избранное"><span class="fa fa-plus"></span></div>
+	
+	
+	<div class="track-img img-fit">
+		<img src="/load/img/novgod.jpeg" alt="Новогодние Детские Песни - Под Новый Год Сбываются Все Сказки...новый Год Прекрасней Всех На Свете!" />
+		<div class="track-play js-ctrl js-play" title="Играть \ остановить"><span class="fa fa-play"></span></div>
+	</div>
+	<div class="track-desc fx-1">
+		<a class="track-title nowrap" href="https://pesni-detskie.ru/14203-novogodnie-detskie-pesni-pod-novyy-god-sbyvayutsya-vse-skazkinovyy-god-prekrasney-vseh-na-svete.html">Новогодние Детские Песни - Под Новый Год Сбываются Все Сказки...новый Год Прекрасней Всех На Свете!</a>
+		<a class="track-subtitle nowrap" href="https://pesni-detskie.ru/14203-novogodnie-detskie-pesni-pod-novyy-god-sbyvayutsya-vse-skazkinovyy-god-prekrasney-vseh-na-svete.html">Песни на Новый год</a>
+	</div>
+	<div class="track-time">👁2 392</div>
+	<a class="track-dl" href="https://pesni-detskie.ru/14203-novogodnie-detskie-pesni-pod-novyy-god-sbyvayutsya-vse-skazkinovyy-god-prekrasney-vseh-na-svete.html" title="Слушать песню"><span class="fa fa-arrow-down"></span></a>
+</div><div class="track-item fx-row fx-middle js-item" data-track="https://muz14.z1.fm/c/50/novogodnie_detskie_pesni_-_novogodnij_horovod_v_dekabre_(zf.fm).mp3" data-title="Новогодние Детские Песни - Новогодний Хоровод В Декабре" data-artist="Песни на Новый год" data-img="/load/img/novgod.jpeg">
+	<div class="track-fav js-login" title="В избранное"><span class="fa fa-plus"></span></div>
+	
+	
+	<div class="track-img img-fit">
+		<img src="/load/img/novgod.jpeg" alt="Новогодние Детские Песни - Новогодний Хоровод В Декабре" />
+		<div class="track-play js-ctrl js-play" title="Играть \ остановить"><span class="fa fa-play"></span></div>
+	</div>
+	<div class="track-desc fx-1">
+		<a class="track-title nowrap" href="https://pesni-detskie.ru/14202-novogodnie-detskie-pesni-novogodniy-horovod-v-dekabre.html">Новогодние Детские Песни - Новогодний Хоровод В Декабре</a>
+		<a class="track-subtitle nowrap" href="https://pesni-detskie.ru/14202-novogodnie-detskie-pesni-novogodniy-horovod-v-dekabre.html">Песни на Новый год</a>
+	</div>
+	<div class="track-time">👁1 595</div>
+	<a class="track-dl" href="https://pesni-detskie.ru/14202-novogodnie-detskie-pesni-novogodniy-horovod-v-dekabre.html" title="Слушать песню"><span class="fa fa-arrow-down"></span></a>
+</div><div class="track-item fx-row fx-middle js-item" data-track="https://muz16.z1.fm/9/d9/novogodnie_-_detskie_pesni_-_ldolina_-_tri_belih_konja_(zf.fm).mp3" data-title="Новогодние - Детские Песни - Л.долина - Три Белых Коня" data-artist="Песни на Новый год" data-img="/load/img/novgod.jpeg">
+	<div class="track-fav js-login" title="В избранное"><span class="fa fa-plus"></span></div>
+	
+	
+	<div class="track-img img-fit">
+		<img src="/load/img/novgod.jpeg" alt="Новогодние - Детские Песни - Л.долина - Три Белых Коня" />
+		<div class="track-play js-ctrl js-play" title="Играть \ остановить"><span class="fa fa-play"></span></div>
+	</div>
+	<div class="track-desc fx-1">
+		<a class="track-title nowrap" href="https://pesni-detskie.ru/14201-novogodnie-detskie-pesni-ldolina-tri-belyh-konya.html">Новогодние - Детские Песни - Л.долина - Три Белых Коня</a>
+		<a class="track-subtitle nowrap" href="https://pesni-detskie.ru/14201-novogodnie-detskie-pesni-ldolina-tri-belyh-konya.html">Песни на Новый год</a>
+	</div>
+	<div class="track-time">👁1 259</div>
+	<a class="track-dl" href="https://pesni-detskie.ru/14201-novogodnie-detskie-pesni-ldolina-tri-belyh-konya.html" title="Слушать песню"><span class="fa fa-arrow-down"></span></a>
+</div><div class="track-item fx-row fx-middle js-item" data-track="https://muz16.z1.fm/4/43/novogodnie_detskie_pesni_-_minusovka_chto_takoe_novij_god_(zf.fm).mp3" data-title="Новогодние Детские Песни - Минусовка. Что Такое Новый Год" data-artist="Песни на Новый год" data-img="/load/img/novgod.jpeg">
+	<div class="track-fav js-login" title="В избранное"><span class="fa fa-plus"></span></div>
+	
+	
+	<div class="track-img img-fit">
+		<img src="/load/img/novgod.jpeg" alt="Новогодние Детские Песни - Минусовка. Что Такое Новый Год" />
+		<div class="track-play js-ctrl js-play" title="Играть \ остановить"><span class="fa fa-play"></span></div>
+	</div>
+	<div class="track-desc fx-1">
+		<a class="track-title nowrap" href="https://pesni-detskie.ru/14200-novogodnie-detskie-pesni-minusovka-chto-takoe-novyy-god.html">Новогодние Детские Песни - Минусовка. Что Такое Новый Год</a>
+		<a class="track-subtitle nowrap" href="https://pesni-detskie.ru/14200-novogodnie-detskie-pesni-minusovka-chto-takoe-novyy-god.html">Песни на Новый год</a>
+	</div>
+	<div class="track-time">👁1 400</div>
+	<a class="track-dl" href="https://pesni-detskie.ru/14200-novogodnie-detskie-pesni-minusovka-chto-takoe-novyy-god.html" title="Слушать песню"><span class="fa fa-arrow-down"></span></a>
+</div><div class="track-item fx-row fx-middle js-item" data-track="https://muz16.z1.fm/d/4c/novogodnie_detskie_pesni_-_malenkoj_elochke_holodno_zimoj_(zf.fm).mp3" data-title="Новогодние Детские Песни - Маленькой Елочке Холодно Зимой" data-artist="Песни на Новый год" data-img="/load/img/novgod.jpeg">
+	<div class="track-fav js-login" title="В избранное"><span class="fa fa-plus"></span></div>
+	
+	
+	<div class="track-img img-fit">
+		<img src="/load/img/novgod.jpeg" alt="Новогодние Детские Песни - Маленькой Елочке Холодно Зимой" />
+		<div class="track-play js-ctrl js-play" title="Играть \ остановить"><span class="fa fa-play"></span></div>
+	</div>
+	<div class="track-desc fx-1">
+		<a class="track-title nowrap" href="https://pesni-detskie.ru/14199-novogodnie-detskie-pesni-malenkoy-elochke-holodno-zimoy.html">Новогодние Детские Песни - Маленькой Елочке Холодно Зимой</a>
+		<a class="track-subtitle nowrap" href="https://pesni-detskie.ru/14199-novogodnie-detskie-pesni-malenkoy-elochke-holodno-zimoy.html">Песни на Новый год</a>
+	</div>
+	<div class="track-time">👁1 088</div>
+	<a class="track-dl" href="https://pesni-detskie.ru/14199-novogodnie-detskie-pesni-malenkoy-elochke-holodno-zimoy.html" title="Слушать песню"><span class="fa fa-arrow-down"></span></a>
+</div><div class="track-item fx-row fx-middle js-item" data-track="https://muz19.z1.fm/b/28/novogodnie_detskie_pesni_-_tik-tak__tikajut_chasi_(zf.fm).mp3" data-title="Новогодние Детские Песни - Тик-Так, Тикают Часы" data-artist="Песни на Новый год" data-img="/load/img/novgod.jpeg">
+	<div class="track-fav js-login" title="В избранное"><span class="fa fa-plus"></span></div>
+	
+	
+	<div class="track-img img-fit">
+		<img src="/load/img/novgod.jpeg" alt="Новогодние Детские Песни - Тик-Так, Тикают Часы" />
+		<div class="track-play js-ctrl js-play" title="Играть \ остановить"><span class="fa fa-play"></span></div>
+	</div>
+	<div class="track-desc fx-1">
+		<a class="track-title nowrap" href="https://pesni-detskie.ru/14198-novogodnie-detskie-pesni-tik-tak-tikayut-chasy.html">Новогодние Детские Песни - Тик-Так, Тикают Часы</a>
+		<a class="track-subtitle nowrap" href="https://pesni-detskie.ru/14198-novogodnie-detskie-pesni-tik-tak-tikayut-chasy.html">Песни на Новый год</a>
+	</div>
+	<div class="track-time">👁1 423</div>
+	<a class="track-dl" href="https://pesni-detskie.ru/14198-novogodnie-detskie-pesni-tik-tak-tikayut-chasy.html" title="Слушать песню"><span class="fa fa-arrow-down"></span></a>
+</div><div class="track-item fx-row fx-middle js-item" data-track="https://muz19.z1.fm/8/ae/novogodnie_detskie_pesni_-_novogodnij_karnaval_konopushki_(zf.fm).mp3" data-title="Новогодние Детские Песни - Новогодний Карнавал (Конопушки)" data-artist="Песни на Новый год" data-img="/load/img/novgod.jpeg">
+	<div class="track-fav js-login" title="В избранное"><span class="fa fa-plus"></span></div>
+	
+	
+	<div class="track-img img-fit">
+		<img src="/load/img/novgod.jpeg" alt="Новогодние Детские Песни - Новогодний Карнавал (Конопушки)" />
+		<div class="track-play js-ctrl js-play" title="Играть \ остановить"><span class="fa fa-play"></span></div>
+	</div>
+	<div class="track-desc fx-1">
+		<a class="track-title nowrap" href="https://pesni-detskie.ru/14197-novogodnie-detskie-pesni-novogodniy-karnaval-konopushki.html">Новогодние Детские Песни - Новогодний Карнавал (Конопушки)</a>
+		<a class="track-subtitle nowrap" href="https://pesni-detskie.ru/14197-novogodnie-detskie-pesni-novogodniy-karnaval-konopushki.html">Песни на Новый год</a>
+	</div>
+	<div class="track-time">👁1 354</div>
+	<a class="track-dl" href="https://pesni-detskie.ru/14197-novogodnie-detskie-pesni-novogodniy-karnaval-konopushki.html" title="Слушать песню"><span class="fa fa-arrow-down"></span></a>
+</div><div class="track-item fx-row fx-middle js-item" data-track="https://muz19.z1.fm/2/ab/detskie_pesni_iz_kf_novogodnie_prikljuchenija_mashi_i_viti_-_pesnja_dikih_gitar_(zf.fm).mp3" data-title="Детские Песни. Из К/ф Новогодние Приключения Маши И Вити - Песня Диких Гитар" data-artist="Песни на Новый год" data-img="/load/img/novgod.jpeg">
+	<div class="track-fav js-login" title="В избранное"><span class="fa fa-plus"></span></div>
+	
+	
+	<div class="track-img img-fit">
+		<img src="/load/img/novgod.jpeg" alt="Детские Песни. Из К/ф Новогодние Приключения Маши И Вити - Песня Диких Гитар" />
+		<div class="track-play js-ctrl js-play" title="Играть \ остановить"><span class="fa fa-play"></span></div>
+	</div>
+	<div class="track-desc fx-1">
+		<a class="track-title nowrap" href="https://pesni-detskie.ru/14196-detskie-pesni-iz-k-f-novogodnie-priklyucheniya-mashi-i-viti-pesnya-dikih-gitar.html">Детские Песни. Из К/ф Новогодние Приключения Маши И Вити - Песня Диких Гитар</a>
+		<a class="track-subtitle nowrap" href="https://pesni-detskie.ru/14196-detskie-pesni-iz-k-f-novogodnie-priklyucheniya-mashi-i-viti-pesnya-dikih-gitar.html">Песни на Новый год</a>
+	</div>
+	<div class="track-time">👁1 216</div>
+	<a class="track-dl" href="https://pesni-detskie.ru/14196-detskie-pesni-iz-k-f-novogodnie-priklyucheniya-mashi-i-viti-pesnya-dikih-gitar.html" title="Слушать песню"><span class="fa fa-arrow-down"></span></a>
+</div><div class="track-item fx-row fx-middle js-item" data-track="https://muz19.z1.fm/0/06/novogodnie_detskie_pesni_-_pod_novij_god_-_(zf.fm).mp3" data-title="Новогодние Детские Песни - Под Новый Год (-)" data-artist="Песни на Новый год" data-img="/load/img/novgod.jpeg">
+	<div class="track-fav js-login" title="В избранное"><span class="fa fa-plus"></span></div>
+	
+	
+	<div class="track-img img-fit">
+		<img src="/load/img/novgod.jpeg" alt="Новогодние Детские Песни - Под Новый Год (-)" />
+		<div class="track-play js-ctrl js-play" title="Играть \ остановить"><span class="fa fa-play"></span></div>
+	</div>
+	<div class="track-desc fx-1">
+		<a class="track-title nowrap" href="https://pesni-detskie.ru/14195-novogodnie-detskie-pesni-pod-novyy-god-.html">Новогодние Детские Песни - Под Новый Год (-)</a>
+		<a class="track-subtitle nowrap" href="https://pesni-detskie.ru/14195-novogodnie-detskie-pesni-pod-novyy-god-.html">Песни на Новый год</a>
+	</div>
+	<div class="track-time">👁1 126</div>
+	<a class="track-dl" href="https://pesni-detskie.ru/14195-novogodnie-detskie-pesni-pod-novyy-god-.html" title="Слушать песню"><span class="fa fa-arrow-down"></span></a>
+</div><div class="track-item fx-row fx-middle js-item" data-track="https://muz19.z1.fm/7/c2/popatenko_novogodnie_detskie_pesni_-_elka-elochka_(zf.fm).mp3" data-title="Попатенко Новогодние Детские Песни - Елка-Елочка" data-artist="Песни на Новый год" data-img="/load/img/novgod.jpeg">
+	<div class="track-fav js-login" title="В избранное"><span class="fa fa-plus"></span></div>
+	
+	
+	<div class="track-img img-fit">
+		<img src="/load/img/novgod.jpeg" alt="Попатенко Новогодние Детские Песни - Елка-Елочка" />
+		<div class="track-play js-ctrl js-play" title="Играть \ остановить"><span class="fa fa-play"></span></div>
+	</div>
+	<div class="track-desc fx-1">
+		<a class="track-title nowrap" href="https://pesni-detskie.ru/14194-popatenko-novogodnie-detskie-pesni-elka-elochka.html">Попатенко Новогодние Детские Песни - Елка-Елочка</a>
+		<a class="track-subtitle nowrap" href="https://pesni-detskie.ru/14194-popatenko-novogodnie-detskie-pesni-elka-elochka.html">Песни на Новый год</a>
+	</div>
+	<div class="track-time">👁1 335</div>
+	<a class="track-dl" href="https://pesni-detskie.ru/14194-popatenko-novogodnie-detskie-pesni-elka-elochka.html" title="Слушать песню"><span class="fa fa-arrow-down"></span></a>
+</div>
+					</div>
+					<div class="sect-col">
+						<div class="track-item fx-row fx-middle js-item" data-track="https://muz12.z1.fm/6/6b/detskie_pesni_-_gummy_bear__ja_-_mishka_gummi_ber_minus_(zf.fm).mp3" data-title="Детские Песни - Gummy Bear / Я - Мишка Гумми Бер (Минус)" data-artist="Детские песни" data-img="/load/img/det.jpg">
+	<div class="track-fav js-login" title="В избранное"><span class="fa fa-plus"></span></div>
+	
+	
+	<div class="track-img img-fit">
+		<img src="/load/img/det.jpg" alt="Детские Песни - Gummy Bear / Я - Мишка Гумми Бер (Минус)" />
+		<div class="track-play js-ctrl js-play" title="Играть \ остановить"><span class="fa fa-play"></span></div>
+	</div>
+	<div class="track-desc fx-1">
+		<a class="track-title nowrap" href="https://pesni-detskie.ru/3169-detskie-pesni-gummy-bear-ya-mishka-gummi-ber-minus.html">Детские Песни - Gummy Bear / Я - Мишка Гумми Бер (Минус)</a>
+		<a class="track-subtitle nowrap" href="https://pesni-detskie.ru/3169-detskie-pesni-gummy-bear-ya-mishka-gummi-ber-minus.html">Детские песни</a>
+	</div>
+	<div class="track-time">👁998</div>
+	<a class="track-dl" href="https://pesni-detskie.ru/3169-detskie-pesni-gummy-bear-ya-mishka-gummi-ber-minus.html" title="Слушать песню"><span class="fa fa-arrow-down"></span></a>
+</div><div class="track-item fx-row fx-middle js-item" data-track="https://muz13.z1.fm/1/67/shkolnie_pesni_sborniki_-_shkolnie_pesni_-_kak_zdorovo_(zf.fm).mp3" data-title="Школьные Песни (Сборники) - Школьные Песни - Как Здорово" data-artist="Песни на выпускной" data-img="/load/img/vipysknoi.webp">
+	<div class="track-fav js-login" title="В избранное"><span class="fa fa-plus"></span></div>
+	
+	
+	<div class="track-img img-fit">
+		<img src="/load/img/vipysknoi.webp" alt="Школьные Песни (Сборники) - Школьные Песни - Как Здорово" />
+		<div class="track-play js-ctrl js-play" title="Играть \ остановить"><span class="fa fa-play"></span></div>
+	</div>
+	<div class="track-desc fx-1">
+		<a class="track-title nowrap" href="https://pesni-detskie.ru/11762-shkolnye-pesni-sborniki-shkolnye-pesni-kak-zdorovo.html">Школьные Песни (Сборники) - Школьные Песни - Как Здорово</a>
+		<a class="track-subtitle nowrap" href="https://pesni-detskie.ru/11762-shkolnye-pesni-sborniki-shkolnye-pesni-kak-zdorovo.html">Песни на выпускной</a>
+	</div>
+	<div class="track-time">👁130</div>
+	<a class="track-dl" href="https://pesni-detskie.ru/11762-shkolnye-pesni-sborniki-shkolnye-pesni-kak-zdorovo.html" title="Слушать песню"><span class="fa fa-arrow-down"></span></a>
+</div><div class="track-item fx-row fx-middle js-item" data-track="https://muz19.z1.fm/1/63/volshebniki_dvora_-_-_bibika_-_minus_obrez_(zf.fm).mp3" data-title="Волшебники Двора - - Бибика - Минус Обрез" data-artist="Волшебники двора                                                  / Детские песни" data-img="/load/img/volshebniki.webp">
+	<div class="track-fav js-login" title="В избранное"><span class="fa fa-plus"></span></div>
+	
+	
+	<div class="track-img img-fit">
+		<img src="/load/img/volshebniki.webp" alt="Волшебники Двора - - Бибика - Минус Обрез" />
+		<div class="track-play js-ctrl js-play" title="Играть \ остановить"><span class="fa fa-play"></span></div>
+	</div>
+	<div class="track-desc fx-1">
+		<a class="track-title nowrap" href="https://pesni-detskie.ru/7799-volshebniki-dvora-bibika-minus-obrez.html">Волшебники Двора - - Бибика - Минус Обрез</a>
+		<a class="track-subtitle nowrap" href="https://pesni-detskie.ru/7799-volshebniki-dvora-bibika-minus-obrez.html">Волшебники двора                                                  / Детские песни</a>
+	</div>
+	<div class="track-time">👁59</div>
+	<a class="track-dl" href="https://pesni-detskie.ru/7799-volshebniki-dvora-bibika-minus-obrez.html" title="Слушать песню"><span class="fa fa-arrow-down"></span></a>
+</div><div class="track-item fx-row fx-middle js-item" data-track="https://muz17.z1.fm/e/f2/detskie_pesni_-_rossijskij_ded_moroz_karaoke_versija_(zf.fm).mp3" data-title="Детские Песни - Российский Дед Мороз (Караоке Версия)" data-artist="Детские песни" data-img="/load/img/det.jpg">
+	<div class="track-fav js-login" title="В избранное"><span class="fa fa-plus"></span></div>
+	
+	
+	<div class="track-img img-fit">
+		<img src="/load/img/det.jpg" alt="Детские Песни - Российский Дед Мороз (Караоке Версия)" />
+		<div class="track-play js-ctrl js-play" title="Играть \ остановить"><span class="fa fa-play"></span></div>
+	</div>
+	<div class="track-desc fx-1">
+		<a class="track-title nowrap" href="https://pesni-detskie.ru/5113-detskie-pesni-rossiyskiy-ded-moroz-karaoke-versiya.html">Детские Песни - Российский Дед Мороз (Караоке Версия)</a>
+		<a class="track-subtitle nowrap" href="https://pesni-detskie.ru/5113-detskie-pesni-rossiyskiy-ded-moroz-karaoke-versiya.html">Детские песни</a>
+	</div>
+	<div class="track-time">👁381</div>
+	<a class="track-dl" href="https://pesni-detskie.ru/5113-detskie-pesni-rossiyskiy-ded-moroz-karaoke-versiya.html" title="Слушать песню"><span class="fa fa-arrow-down"></span></a>
+</div><div class="track-item fx-row fx-middle js-item" data-track="https://pesni-detskie.ru/uploads/files/2019-09/1568055422_detskie-pesni-minus-esli-dobryy-ty.mp3" data-title="Детские Песни (Минус) - Если Добрый Ты" data-artist="Песни из мультфильмов" data-img="/load/img/mylt.jpg">
+	<div class="track-fav js-login" title="В избранное"><span class="fa fa-plus"></span></div>
+	
+	
+	<div class="track-img img-fit">
+		<img src="/load/img/mylt.jpg" alt="Детские Песни (Минус) - Если Добрый Ты" />
+		<div class="track-play js-ctrl js-play" title="Играть \ остановить"><span class="fa fa-play"></span></div>
+	</div>
+	<div class="track-desc fx-1">
+		<a class="track-title nowrap" href="https://pesni-detskie.ru/1187-detskie-pesni-minus-esli-dobryy-ty.html">Детские Песни (Минус) - Если Добрый Ты</a>
+		<a class="track-subtitle nowrap" href="https://pesni-detskie.ru/1187-detskie-pesni-minus-esli-dobryy-ty.html">Песни из мультфильмов</a>
+	</div>
+	<div class="track-time">👁155</div>
+	<a class="track-dl" href="https://pesni-detskie.ru/1187-detskie-pesni-minus-esli-dobryy-ty.html" title="Слушать песню"><span class="fa fa-arrow-down"></span></a>
+</div><div class="track-item fx-row fx-middle js-item" data-track="https://muz14.z1.fm/1/fd/neposedi_-_den_svjatogo_valentina_(zf.fm).mp3" data-title="Непоседы - День Святого Валентина" data-artist="Непоседы                                                     / Детские песни" data-img="/load/img/neposedi.jpg">
+	<div class="track-fav js-login" title="В избранное"><span class="fa fa-plus"></span></div>
+	
+	
+	<div class="track-img img-fit">
+		<img src="/load/img/neposedi.jpg" alt="Непоседы - День Святого Валентина" />
+		<div class="track-play js-ctrl js-play" title="Играть \ остановить"><span class="fa fa-play"></span></div>
+	</div>
+	<div class="track-desc fx-1">
+		<a class="track-title nowrap" href="https://pesni-detskie.ru/9812-neposedy-den-svyatogo-valentina.html">Непоседы - День Святого Валентина</a>
+		<a class="track-subtitle nowrap" href="https://pesni-detskie.ru/9812-neposedy-den-svyatogo-valentina.html">Непоседы                                                     / Детские песни</a>
+	</div>
+	<div class="track-time">👁56</div>
+	<a class="track-dl" href="https://pesni-detskie.ru/9812-neposedy-den-svyatogo-valentina.html" title="Слушать песню"><span class="fa fa-arrow-down"></span></a>
+</div><div class="track-item fx-row fx-middle js-item" data-track="https://muz12.z1.fm/8/3a/muzika_dlja_detej_-_dudochka-pogudochka_(zf.fm).mp3" data-title="Музыка Для Детей - Дудочка-Погудочка" data-artist="Музыка детям" data-img="/load/img/muz.jpg">
+	<div class="track-fav js-login" title="В избранное"><span class="fa fa-plus"></span></div>
+	
+	
+	<div class="track-img img-fit">
+		<img src="/load/img/muz.jpg" alt="Музыка Для Детей - Дудочка-Погудочка" />
+		<div class="track-play js-ctrl js-play" title="Играть \ остановить"><span class="fa fa-play"></span></div>
+	</div>
+	<div class="track-desc fx-1">
+		<a class="track-title nowrap" href="https://pesni-detskie.ru/13644-muzyka-dlya-detey-dudochka-pogudochka.html">Музыка Для Детей - Дудочка-Погудочка</a>
+		<a class="track-subtitle nowrap" href="https://pesni-detskie.ru/13644-muzyka-dlya-detey-dudochka-pogudochka.html">Музыка детям</a>
+	</div>
+	<div class="track-time">👁66</div>
+	<a class="track-dl" href="https://pesni-detskie.ru/13644-muzyka-dlya-detey-dudochka-pogudochka.html" title="Слушать песню"><span class="fa fa-arrow-down"></span></a>
+</div><div class="track-item fx-row fx-middle js-item" data-track="https://muz18.z1.fm/c/5c/detskij_hor_velikan_-_bim-bom_(zf.fm).mp3" data-title="Детский Хор Великан - Бим-Бом" data-artist="Детский хор Великан                                                       / Детские песни" data-img="/load/group/velikan.jpg">
+	<div class="track-fav js-login" title="В избранное"><span class="fa fa-plus"></span></div>
+	
+	
+	<div class="track-img img-fit">
+		<img src="/load/group/velikan.jpg" alt="Детский Хор Великан - Бим-Бом" />
+		<div class="track-play js-ctrl js-play" title="Играть \ остановить"><span class="fa fa-play"></span></div>
+	</div>
+	<div class="track-desc fx-1">
+		<a class="track-title nowrap" href="https://pesni-detskie.ru/8814-detskiy-hor-velikan-bim-bom.html">Детский Хор Великан - Бим-Бом</a>
+		<a class="track-subtitle nowrap" href="https://pesni-detskie.ru/8814-detskiy-hor-velikan-bim-bom.html">Детский хор Великан                                                       / Детские песни</a>
+	</div>
+	<div class="track-time">👁1 170</div>
+	<a class="track-dl" href="https://pesni-detskie.ru/8814-detskiy-hor-velikan-bim-bom.html" title="Слушать песню"><span class="fa fa-arrow-down"></span></a>
+</div><div class="track-item fx-row fx-middle js-item" data-track="https://muz14.z1.fm/2/82/hor_neposedi_-_gives_you_hell_(zf.fm).mp3" data-title="Хор Непоседы - Gives You Hell" data-artist="Непоседы                                                        / Детские песни" data-img="/load/img/neposedi.jpg">
+	<div class="track-fav js-login" title="В избранное"><span class="fa fa-plus"></span></div>
+	
+	
+	<div class="track-img img-fit">
+		<img src="/load/img/neposedi.jpg" alt="Хор Непоседы - Gives You Hell" />
+		<div class="track-play js-ctrl js-play" title="Играть \ остановить"><span class="fa fa-play"></span></div>
+	</div>
+	<div class="track-desc fx-1">
+		<a class="track-title nowrap" href="https://pesni-detskie.ru/9607-hor-neposedy-gives-you-hell.html">Хор Непоседы - Gives You Hell</a>
+		<a class="track-subtitle nowrap" href="https://pesni-detskie.ru/9607-hor-neposedy-gives-you-hell.html">Непоседы                                                        / Детские песни</a>
+	</div>
+	<div class="track-time">👁57</div>
+	<a class="track-dl" href="https://pesni-detskie.ru/9607-hor-neposedy-gives-you-hell.html" title="Слушать песню"><span class="fa fa-arrow-down"></span></a>
+</div><div class="track-item fx-row fx-middle js-item" data-track="https://muz.z1.fm/6/ee/dzhinsovie_malchiki_-_pjat_devchonok_iz_nashego_klassa_sunofmusic_djs_remix_(zf.fm).mp3" data-title="Джинсовые Мальчики - Пять Девчонок Из Нашего Класса (Sunofmusic Dj&#039;s Remix)" data-artist="Джинсовые Мальчики                                                         / Детские песни" data-img="/load/img/djinsovie.jpg">
+	<div class="track-fav js-login" title="В избранное"><span class="fa fa-plus"></span></div>
+	
+	
+	<div class="track-img img-fit">
+		<img src="/load/img/djinsovie.jpg" alt="Джинсовые Мальчики - Пять Девчонок Из Нашего Класса (Sunofmusic Dj&#039;s Remix)" />
+		<div class="track-play js-ctrl js-play" title="Играть \ остановить"><span class="fa fa-play"></span></div>
+	</div>
+	<div class="track-desc fx-1">
+		<a class="track-title nowrap" href="https://pesni-detskie.ru/8524-dzhinsovye-malchiki-pyat-devchonok-iz-nashego-klassa-sunofmusic-djs-remix.html">Джинсовые Мальчики - Пять Девчонок Из Нашего Класса (Sunofmusic Dj&#039;s Remix)</a>
+		<a class="track-subtitle nowrap" href="https://pesni-detskie.ru/8524-dzhinsovye-malchiki-pyat-devchonok-iz-nashego-klassa-sunofmusic-djs-remix.html">Джинсовые Мальчики                                                         / Детские песни</a>
+	</div>
+	<div class="track-time">👁116</div>
+	<a class="track-dl" href="https://pesni-detskie.ru/8524-dzhinsovye-malchiki-pyat-devchonok-iz-nashego-klassa-sunofmusic-djs-remix.html" title="Слушать песню"><span class="fa fa-arrow-down"></span></a>
+</div>
+					</div>
+				</div>
+			</div>
+			
+		
+			
+			<div class="sect">
+				<div class="sect-header fx-row fx-middle">
+					<div class="sect-title fx-1">Наши подборки детских песен</div>
+					<a href="#" class="sect-link">Перейти в каталог</a>
+				</div>
+				<div class="sect-content fx-row">
+					<div class="collection-item">
+	<a class="collection-in" href="https://pesni-detskie.ru/10622-rodniki-demonstraciya.html">
+		<div class="collection-img img-resp img-fit"><img src="/load/img/rodniki.jpg" alt="Родники - Демонстрация" /></div>
+		<div class="collection-desc fx-row fx-middle">
+			<div class="collection-subimg img-fit"><img src="/load/img/rodniki.jpg" alt="Родники - Демонстрация" /></div>
+			<div class="collection-text fx-1">
+				<div class="collection-title">Родники                                                          / Детские песни</div>
+				<div class="collection-subtitle">15 песен</div>
+			</div>
+		</div>
+	</a>
+</div><div class="collection-item">
+	<a class="collection-in" href="https://pesni-detskie.ru/3948-detskie-pesni-james-last-everything-i-do-i-do-it-for-you-with-richard-clayder.html">
+		<div class="collection-img img-resp img-fit"><img src="/load/img/det.jpg" alt="Детские Песни - James Last - (Everything I Do) I Do It For You (With Richard Clayder..." /></div>
+		<div class="collection-desc fx-row fx-middle">
+			<div class="collection-subimg img-fit"><img src="/load/img/det.jpg" alt="Детские Песни - James Last - (Everything I Do) I Do It For You (With Richard Clayder..." /></div>
+			<div class="collection-text fx-1">
+				<div class="collection-title">Детские песни</div>
+				<div class="collection-subtitle">15 песен</div>
+			</div>
+		</div>
+	</a>
+</div><div class="collection-item">
+	<a class="collection-in" href="https://pesni-detskie.ru/12100-shou-gruppa-ulybka-kogda-moi-druzya-so-mnoy.html">
+		<div class="collection-img img-resp img-fit"><img src="/load/img/ylibka.jpg" alt="Шоу-Группа Улыбка - Когда Мои Друзья Со Мной" /></div>
+		<div class="collection-desc fx-row fx-middle">
+			<div class="collection-subimg img-fit"><img src="/load/img/ylibka.jpg" alt="Шоу-Группа Улыбка - Когда Мои Друзья Со Мной" /></div>
+			<div class="collection-text fx-1">
+				<div class="collection-title">Улыбка</div>
+				<div class="collection-subtitle">15 песен</div>
+			</div>
+		</div>
+	</a>
+</div>
+				</div>
+			</div>
+			<span class="clouds_xsmall"><a href="https://pesni-detskie.ru/tags/1%20%D0%BA%D0%BB%D0%B0%D1%81%D1%81/" title="Найдено публикаций: 12">1 класс</a></span> <span class="clouds_xsmall"><a href="https://pesni-detskie.ru/tags/1%20%D1%81%D0%B5%D0%BD%D1%82%D1%8F%D0%B1%D1%80%D1%8F/" title="Найдено публикаций: 17">1 сентября</a></span> <span class="clouds_small"><a href="https://pesni-detskie.ru/tags/23%20%D1%84%D0%B5%D0%B2%D1%80%D0%B0%D0%BB%D1%8F/" title="Найдено публикаций: 31">23 февраля</a></span> <span class="clouds_xsmall"><a href="https://pesni-detskie.ru/tags/4%20%D0%B3%D0%BE%D0%B4%D0%B0/" title="Найдено публикаций: 14">4 года</a></span> <span class="clouds_xsmall"><a href="https://pesni-detskie.ru/tags/5%20%D0%BB%D0%B5%D1%82/" title="Найдено публикаций: 26">5 лет</a></span> <span class="clouds_xsmall"><a href="https://pesni-detskie.ru/tags/6%20%D0%BB%D0%B5%D1%82/" title="Найдено публикаций: 20">6 лет</a></span> <span class="clouds_xsmall"><a href="https://pesni-detskie.ru/tags/7%20%D0%BB%D0%B5%D1%82/" title="Найдено публикаций: 13">7 лет</a></span> <span class="clouds_small"><a href="https://pesni-detskie.ru/tags/8%20%D0%BC%D0%B0%D1%80%D1%82%D0%B0/" title="Найдено публикаций: 38">8 марта</a></span> <span class="clouds_xsmall"><a href="https://pesni-detskie.ru/tags/9%20%D0%BC%D0%B0%D1%8F/" title="Найдено публикаций: 16">9 мая</a></span> <span class="clouds_xsmall"><a href="https://pesni-detskie.ru/tags/%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%D0%BD%D0%BE%D0%B9/" title="Найдено публикаций: 10">Выпускной</a></span> <span class="clouds_xsmall"><a href="https://pesni-detskie.ru/tags/%D0%94%D0%B5%D0%BD%D1%8C%20%D1%80%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F/" title="Найдено публикаций: 11">День рождения</a></span> <span class="clouds_xsmall"><a href="https://pesni-detskie.ru/tags/%D0%94%D0%B5%D1%82%D1%81%D0%BA%D0%B0%D1%8F%20%D0%B4%D0%B8%D1%81%D0%BA%D0%BE%D1%82%D0%B5%D0%BA%D0%B0/" title="Найдено публикаций: 19">Детская дискотека</a></span> <span class="clouds_xsmall"><a href="https://pesni-detskie.ru/tags/%D0%94%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9%20%D1%81%D0%B0%D0%B4/" title="Найдено публикаций: 13">Детский сад</a></span> <span class="clouds_xsmall"><a href="https://pesni-detskie.ru/tags/%D0%9C%D0%B0%D1%88%D0%B0%20%D0%B8%20%D0%9C%D0%B5%D0%B4%D0%B2%D0%B5%D0%B4%D1%8C/" title="Найдено публикаций: 15">Маша и Медведь</a></span> <span class="clouds_xsmall"><a href="https://pesni-detskie.ru/tags/%D0%9D%D0%BE%D0%B2%D1%8B%D0%B9%20%D0%B3%D0%BE%D0%B4/" title="Найдено публикаций: 23">Новый год</a></span> <span class="clouds_xsmall"><a href="https://pesni-detskie.ru/tags/%D0%9D%D0%BE%D0%B2%D1%8B%D0%B9%20%D0%B3%D0%BE%D0%B4%202019/" title="Найдено публикаций: 14">Новый год 2019</a></span> <span class="clouds_xsmall"><a href="https://pesni-detskie.ru/tags/%D0%9E%D1%81%D0%B5%D0%BD%D1%8C/" title="Найдено публикаций: 11">Осень</a></span> <span class="clouds_xsmall"><a href="https://pesni-detskie.ru/tags/%D0%A8%D0%BA%D0%BE%D0%BB%D0%B0/" title="Найдено публикаций: 13">Школа</a></span> <span class="clouds_xsmall"><a href="https://pesni-detskie.ru/tags/%D0%B2%D0%B5%D1%81%D0%BD%D0%B0/" title="Найдено публикаций: 18">весна</a></span> <span class="clouds_xsmall"><a href="https://pesni-detskie.ru/tags/%D0%B2%D1%8B%D0%BF%D1%83%D1%81%D0%BA%D0%BD%D0%BE%D0%B9/" title="Найдено публикаций: 20">выпускной</a></span> <span class="clouds_xsmall"><a href="https://pesni-detskie.ru/tags/%D0%B3%D1%80%D1%83%D1%81%D1%82%D1%8C/" title="Найдено публикаций: 10">грусть</a></span> <span class="clouds_xsmall"><a href="https://pesni-detskie.ru/tags/%D0%B4%D0%B5%D0%B4%20%D0%BC%D0%BE%D1%80%D0%BE%D0%B7/" title="Найдено публикаций: 10">дед мороз</a></span> <span class="clouds_xsmall"><a href="https://pesni-detskie.ru/tags/%D0%B4%D0%B5%D0%BD%D1%8C%20%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8/" title="Найдено публикаций: 15">день матери</a></span> <span class="clouds_xsmall"><a href="https://pesni-detskie.ru/tags/%D0%B4%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%BE/" title="Найдено публикаций: 13">детство</a></span> <span class="clouds_xsmall"><a href="https://pesni-detskie.ru/tags/%D0%B7%D0%B8%D0%BC%D0%B0/" title="Найдено публикаций: 22">зима</a></span> <span class="clouds_medium"><a href="https://pesni-detskie.ru/tags/%D0%BC%D0%B0%D0%BC%D0%B0/" title="Найдено публикаций: 56">мама</a></span> <span class="clouds_xlarge"><a href="https://pesni-detskie.ru/tags/%D0%BC%D0%B8%D0%BD%D1%83%D1%81/" title="Найдено публикаций: 81">минус</a></span> <span class="clouds_xsmall"><a href="https://pesni-detskie.ru/tags/%D0%BC%D0%B8%D0%BD%D1%83%D1%81%D0%BE%D0%B2%D0%BA%D0%B0/" title="Найдено публикаций: 22">минусовка</a></span> <span class="clouds_xsmall"><a href="https://pesni-detskie.ru/tags/%D0%BD%D0%B5%D0%BC%D0%B5%D1%86%D0%BA%D0%B8%D0%B5/" title="Найдено публикаций: 11">немецкие</a></span> <span class="clouds_xsmall"><a href="https://pesni-detskie.ru/tags/%D0%BD%D0%BE%D0%B2%D1%8B%D0%B9%20%D0%B3%D0%BE%D0%B4/" title="Найдено публикаций: 24">новый год</a></span> <span class="clouds_xsmall"><a href="https://pesni-detskie.ru/tags/%D0%BD%D0%BE%D0%B2%D1%8B%D0%B9%20%D0%B3%D0%BE%D0%B4%202018/" title="Найдено публикаций: 17">новый год 2018</a></span> <span class="clouds_xsmall"><a href="https://pesni-detskie.ru/tags/%D0%BF%D0%B0%D0%BF%D0%B0/" title="Найдено публикаций: 14">папа</a></span> <span class="clouds_xsmall"><a href="https://pesni-detskie.ru/tags/%D0%BF%D0%B0%D1%80%D0%BE%D0%B4%D0%B8%D1%8F/" title="Найдено публикаций: 13">пародия</a></span> <span class="clouds_xsmall"><a href="https://pesni-detskie.ru/tags/%D0%BF%D0%B5%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%BA%D0%B0/" title="Найдено публикаций: 16">переделка</a></span> <span class="clouds_large"><a href="https://pesni-detskie.ru/tags/%D0%BF%D0%BB%D1%8E%D1%81/" title="Найдено публикаций: 65">плюс</a></span> <span class="clouds_xsmall"><a href="https://pesni-detskie.ru/tags/%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D0%B8%D0%B9%20%D0%B7%D0%B2%D0%BE%D0%BD%D0%BE%D0%BA/" title="Найдено публикаций: 23">последний звонок</a></span> <span class="clouds_xsmall"><a href="https://pesni-detskie.ru/tags/%D1%81%D0%BD%D0%B5%D0%B3/" title="Найдено публикаций: 15">снег</a></span> <span class="clouds_medium"><a href="https://pesni-detskie.ru/tags/%D1%88%D0%BA%D0%BE%D0%BB%D0%B0/" title="Найдено публикаций: 61">школа</a></span> <span class="clouds_xsmall"><a href="https://pesni-detskie.ru/tags/%D1%91%D0%BB%D0%BA%D0%B0/" title="Найдено публикаций: 10">ёлка</a></span> <span class="clouds_xsmall"><a href="https://pesni-detskie.ru/tags/%D1%91%D0%BB%D0%BE%D1%87%D0%BA%D0%B0/" title="Найдено публикаций: 10">ёлочка</a></span><div class="tags_more"><a href="https://pesni-detskie.ru/tags/">Показать все теги</a></div>
+					
+<div class="site-desc-wr fx-last">
+<section class="site-desc clearfix hide-this">
+<h1>Новые детские песни, слушать онлайн, скачать бесплатно</h1>
+<p style="text-align: justify;"><b>Новые весёлые современные песни для детей</b>. Слова текст и ноты популярных <b>детских песен</b> и MP3. <b>Детские песенки школьные</b> и для <b>детского сада</b>. Можно прослушать и скачать бесплатно без регистрации <b>весёлые детские песни</b>, сказки mp3, <b>тексты и слова детских песен</b> и ноты, детских песен. <b>Сборник детских песенок</b> и сказок.</p>
+<p style="text-align: justify;">На сайте вы можете <b>скачать детские песенки</b> на любой вкус для организации дня рождения, новогодней ёлки, последний звонок, выпускной, день матери, 8 марта. На сайте вы можете <b>скачать детские песенки</b> на любой вкус для организации <b>дня рождения, новогодней ёлки, последний звонок, выпускной, день матери, 8 марта.</b></p>
+</section>
+</div>
+
+
+					
+					 
+				</main>
+				
+			</div>
+			
+			<!-- COL-MAIN -->
+			
+		</div>
+		
+		<!-- COLS -->
+	
+	</div>
+	
+	<!-- END WRAP-CENTER -->
+	
+	<footer class="footer wrap-center">
+		<div class="ft-one fx-row">
+			<span>Сайт детских песен, 2011-2020, PESNI-DETSKIE.RU</span> 
+			<div class="fx-1"><a href="#">DMCA</a> <a href="#">Обратная связь</a> <a href="#">Обращение к пользователям</a></div>
+		</div>
+		<div class="ft-two">
+			  Новые современные детские песни, слушать онлайн, скачать бесплатно на телефон. Администрация не несет ответственности за размещенные пользователями нелегальные материалы! Любой аудио файл будет удален по требованию 
+			правообладателя. 
+		</div>
+      
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(52094469, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/52094469" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->      
+<!--LiveInternet counter--><script type="text/javascript">
+document.write('<a href="//www.liveinternet.ru/click" '+
+'target="_blank"><img src="//counter.yadro.ru/hit?t21.10;r'+
+escape(document.referrer)+((typeof(screen)=='undefined')?'':
+';s'+screen.width+'*'+screen.height+'*'+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+';u'+escape(document.URL)+
+';h'+escape(document.title.substring(0,150))+';'+Math.random()+
+'" alt="" title="LiveInternet: показано число просмотров за 24'+
+' часа, посетителей за 24 часа и за сегодня" '+
+'border="0" width="88" height="31"><\/a>')
+</script><!--/LiveInternet-->
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({
+          google_ad_client: "ca-pub-2116671684068318",
+          enable_page_level_ads: true
+     });
+</script>
+<script async src="https://pro.vipko.ru/5037/7fc4a0ea1c2ad07a061af45fd1771120385473b8.js"></script>
+<script async src="//ihfxao.com/rzal17219vlim0p0y3hq8/786/uqv876kypxdfr.php"></script>
+<div data-la-block="54086e19-4fec-49fe-9434-3cb11ecdadbf"></div>
+
+    </footer>
+	
+	<!-- COL-FOOTER -->
+
+</div>
+
+<!-- END WRAP -->
+
+<link href="/engine/editor/css/default.css?v=83161" rel="stylesheet" type="text/css">
+<script src="/engine/classes/js/jquery.js?v=83161"></script>
+<script src="/engine/classes/js/jqueryui.js?v=83161" defer></script>
+<script src="/engine/classes/js/dle_js.js?v=83161" defer></script>
+<script src="/templates/muzonator-13/js/libs.js"></script>
+<script>
+<!--
+var dle_root       = '/';
+var dle_admin      = '';
+var dle_login_hash = '83cf7917f180bedc210f0a7f6034562d322d3b6d';
+var dle_group      = 5;
+var dle_skin       = 'muzonator-13';
+var dle_wysiwyg    = '-1';
+var quick_wysiwyg  = '1';
+var dle_min_search = '4';
+var dle_act_lang   = ["Да", "Нет", "Ввод", "Отмена", "Сохранить", "Удалить", "Загрузка. Пожалуйста, подождите..."];
+var menu_short     = 'Быстрое редактирование';
+var menu_full      = 'Полное редактирование';
+var menu_profile   = 'Просмотр профиля';
+var menu_send      = 'Отправить сообщение';
+var menu_uedit     = 'Админцентр';
+var dle_info       = 'Информация';
+var dle_confirm    = 'Подтверждение';
+var dle_prompt     = 'Ввод информации';
+var dle_req_field  = 'Заполните все необходимые поля';
+var dle_del_agree  = 'Вы действительно хотите удалить? Данное действие невозможно будет отменить';
+var dle_spam_agree = 'Вы действительно хотите отметить пользователя как спамера? Это приведёт к удалению всех его комментариев';
+var dle_c_title    = 'Отправка жалобы';
+var dle_complaint  = 'Укажите текст Вашей жалобы для администрации:';
+var dle_mail       = 'Ваш e-mail:';
+var dle_big_text   = 'Выделен слишком большой участок текста.';
+var dle_orfo_title = 'Укажите комментарий для администрации к найденной ошибке на странице:';
+var dle_p_send     = 'Отправить';
+var dle_p_send_ok  = 'Уведомление успешно отправлено';
+var dle_save_ok    = 'Изменения успешно сохранены. Обновить страницу?';
+var dle_reply_title= 'Ответ на комментарий';
+var dle_tree_comm  = '0';
+var dle_del_news   = 'Удалить статью';
+var dle_sub_agree  = 'Вы действительно хотите подписаться на комментарии к данной публикации?';
+var dle_captcha_type  = '2';
+var DLEPlayerLang     = {prev: 'Предыдущий',next: 'Следующий',play: 'Воспроизвести',pause: 'Пауза',mute: 'Выключить звук', unmute: 'Включить звук', settings: 'Настройки', enterFullscreen: 'На полный экран', exitFullscreen: 'Выключить полноэкранный режим', speed: 'Скорость', normal: 'Обычная', quality: 'Качество', pip: 'Режим PiP'};
+var allow_dle_delete_news   = false;
+
+//-->
+</script>
+
+</body>
+</html>
+
+<!-- DataLife Engine Copyright SoftNews Media Group (http://dle-news.ru) -->

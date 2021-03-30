@@ -1,0 +1,2329 @@
+<!DOCTYPE HTML>
+
+<html>
+<head>
+	
+
+	<title>БайкПост</title>
+
+	<meta charset="UTF-8" />
+	<meta name="description" content="БайкПост - виртуальное место встречи байкеров, позволит найти друзей и провести время познавательно и приятно.Запись №1: поступление, осмотр, первые впечатления.Из Москвы в Индию на мотоцикле. Пакистан. Глава 12. Ататат продолжается.Бортжурнал Honda CBF600SA «Падучий» - Заметки. Осенняя красота природы жаркого Юга. Скала «Парус».Komendant — РАЛЛИ 2021.Африка 2020 (ПРОДОЛЖЕНИЕ). Планета Конго. Часть 03.Брендозависимое сердце.О спонтанностях, метаморфозах и любви.Турбо Альфа - Полный Провал? Замер Максималки.Подытоги 7 лет в седле.Компания Honda зарегистрировала торговый знак Transalp.Обеспечение устойчивого запуска Indian Scout  при низких температурах..В Крым на Иже. Степь, торсион, Севастополь!).Юбилейный мотоцикл Moto Guzzi V7 Stone 100th Anniversary 2021.Наращивание и перетяжка седла BMW F650GS.Контрольная карта проверки мотоцикла.Вход в мотожизнь." />
+	<meta name="keywords" content="новый мотоцикл, мотоцикл, обзор мотоцикла, истории мотоциклистов, мотоклуб, байкеры, социальная сеть мотоциклистов, yamaha, honda, kawasaki, suzuki, мото новинки, мото концепты, мотоновости, мотофорум, тест мотоцикла, клуб любителей мотоцикла, bmw r1100r, Пакистан,Кветта,индия мото,Индия,Yamaha Fazer 6,FZ6,FZ-6N,путевой дневник,путешеcтвие на мотоцикле,дальняк в первый раз,дальняк,путешествие в Индию, Honda,CBF600SA,Бортжурнал,Заметки,Скала Парус,Дивноморское,Прасковеевка, мотослет,эндуро,соревнования,ралли,Кавказ,Юг России,мотоцикл,2021, Африка,Африка на мото,Slon_in_Africa,SLON_RUS,R1200GS,Конго,ДР Конго,Демократическая Республика Конго,Мотопутешествие, мотошлем,scorpionexo, мотопутешествие,путешествие с родителями,Kawasaki Vulcan,Yamaha FJR 1300,Грузия,Кавказ, Мопед Альфа,Турбо мотоцикл,Турбо Альфа, Мотожизнь,ТДМ900,Хаябуса, компания,Honda,торговый знак,Transalp,трансальп, Indian,Scout,ECM,холодный запуск, путешествие,Иж,Иж Юпитер 2,Юпитер,с коляской,Ижевск,Крым,свадебное путешествие,на Иже,белый юпитер,белый ижак,колясыч,торсион,Тарханкут, юбилейный мотоцикл,мотоцикл,Moto Guzzi V7 Stone,100th Anniversary,2021,Moto Guzzi,V7 Stone, перетяжка седла,наращивание седла,перетяжка,перетяжка своими руками,3d сетка, ремонт,технические вопросы,техническое обслуживание,технический осмотр,поломка,поломка в дороге,поломки и ремонт, новичок" />
+
+	<link rel='stylesheet' type='text/css' href='https://bikepost.ru/templates/cache/bikepost/ebe3daf24e9091516bda9cc4224d9716.css' />
+
+
+	<link href="https://bikepost.ru/templates/skin/bikepost/images/favicon.ico" rel="shortcut icon" />
+	<link rel="search" type="application/opensearchdescription+xml" href="https://bikepost.ru/search/opensearch/" title="БайкПост" />
+
+			<link rel="alternate" type="application/rss+xml" href="https://bikepost.ru/rss/index/" title="БайкПост">
+	
+	
+	<script type="text/javascript">
+		var DIR_WEB_ROOT		= 'https://bikepost.ru';
+		var DIR_STATIC_SKIN		= 'https://bikepost.ru/templates/skin/bikepost';
+		var DIR_ROOT_ENGINE_LIB		= 'https://bikepost.ru/engine/lib';
+		var LIVESTREET_SECURITY_KEY	= 'bacf7bb85682e8afc118035b7d2257e3';
+		var SESSION_ID			= '46aa29eaeff29b90c8924b93f33c50f1';
+		var BLOG_USE_TINYMCE		= '';
+
+		var TINYMCE_LANG='en';
+					TINYMCE_LANG='ru';
+		
+		var aRouter = new Array();
+					aRouter['error'] = 'https://bikepost.ru/error/';
+					aRouter['registration'] = 'https://bikepost.ru/registration/';
+					aRouter['profile'] = 'https://bikepost.ru/profile/';
+					aRouter['my'] = 'https://bikepost.ru/my/';
+					aRouter['blog'] = 'https://bikepost.ru/blog/';
+					aRouter['personal_blog'] = 'https://bikepost.ru/personal_blog/';
+					aRouter['top'] = 'https://bikepost.ru/top/';
+					aRouter['index'] = 'https://bikepost.ru/index/';
+					aRouter['new'] = 'https://bikepost.ru/new/';
+					aRouter['topic'] = 'https://bikepost.ru/topic/';
+					aRouter['login'] = 'https://bikepost.ru/login/';
+					aRouter['people'] = 'https://bikepost.ru/people/';
+					aRouter['settings'] = 'https://bikepost.ru/settings/';
+					aRouter['tag'] = 'https://bikepost.ru/tag/';
+					aRouter['talk'] = 'https://bikepost.ru/talk/';
+					aRouter['comments'] = 'https://bikepost.ru/comments/';
+					aRouter['rss'] = 'https://bikepost.ru/rss/';
+					aRouter['question'] = 'https://bikepost.ru/question/';
+					aRouter['blogs'] = 'https://bikepost.ru/blogs/';
+					aRouter['search'] = 'https://bikepost.ru/search/';
+					aRouter['admin'] = 'https://bikepost.ru/admin/';
+					aRouter['ajax'] = 'https://bikepost.ru/ajax/';
+					aRouter['feed'] = 'https://bikepost.ru/feed/';
+					aRouter['sitemap.xml'] = 'https://bikepost.ru/sitemap.xml/';
+					aRouter['sitemaps'] = 'https://bikepost.ru/sitemaps/';
+					aRouter['language'] = 'https://bikepost.ru/language/';
+					aRouter['less'] = 'https://bikepost.ru/less/';
+					aRouter['premium'] = 'https://bikepost.ru/premium/';
+					aRouter['avatar'] = 'https://bikepost.ru/avatar/';
+					aRouter['autoopenid_login'] = 'https://bikepost.ru/autoopenid_login/';
+					aRouter['media'] = 'https://bikepost.ru/media/';
+					aRouter['board'] = 'https://bikepost.ru/board/';
+					aRouter['configengine'] = 'https://bikepost.ru/configengine/';
+					aRouter['donate'] = 'https://bikepost.ru/donate/';
+					aRouter['events'] = 'https://bikepost.ru/events/';
+					aRouter['favfeed'] = 'https://bikepost.ru/favfeed/';
+					aRouter['garage'] = 'https://bikepost.ru/garage/';
+					aRouter['info'] = 'https://bikepost.ru/info/';
+					aRouter['mediakit'] = 'https://bikepost.ru/mediakit/';
+					aRouter['memory'] = 'https://bikepost.ru/memory/';
+					aRouter['merchant'] = 'https://bikepost.ru/merchant/';
+					aRouter['notify'] = 'https://bikepost.ru/notify/';
+					aRouter['qa'] = 'https://bikepost.ru/qa/';
+					aRouter['stolen'] = 'https://bikepost.ru/stolen/';
+					aRouter['premoderation'] = 'https://bikepost.ru/premoderation/';
+			</script>
+
+	<script type='text/javascript' src='https://bikepost.ru/templates/cache/bikepost/2d1c426f9fb4aaa7a0b742e0119a3599.js'></script>
+<!--[if lt IE 9]><script type='text/javascript' src='https://bikepost.ru/engine/lib/external/html5shiv.js'></script><![endif]-->
+
+
+	<script type="text/javascript">
+		var tinyMCE=false;
+		ls.lang.load([]);
+	</script>
+
+
+	<script type="text/javascript" src="https://bikepost.ru/plugins/banneroid/templates/skin/default/js/swfobject.js"></script>
+<script type="text/javascript" src="https://bikepost.ru/plugins/banneroid/templates/skin/default/js/redirect.js"></script>
+<script type="text/javascript">
+	var LS_ROUTER_ACTION = 'index';
+	var LS_ROUTER_EVENT = '';
+</script>
+
+
+	
+	
+
+
+
+
+</head>
+
+
+
+
+	<body >
+
+
+
+
+<a name="top" id="top"></a>
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+		
+	<div style="display: block; text-align: center; max-width: 1420px; height: 125px; margin: 0 auto; overflow: hidden;">
+
+		
+<!-- Yandex.RTB R-A-52282-3 -->
+<div id="yandex_rtb_R-A-52282-3" style="display: inline-block;"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Context.AdvManager.render({
+                blockId: "R-A-52282-3",
+                renderTo: "yandex_rtb_R-A-52282-3",
+                async: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//an.yandex.ru/system/context.js";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(this, this.document, "yandexContextAsyncCallbacks");
+</script>
+
+		
+
+</div>
+
+
+
+
+	<div style="display:none;" id="kangaroo">/media</div>	
+	<div style="margin: 6px 7px 20px;">
+	<div id="header">
+			<div class="auth">
+			<a href="https://bikepost.ru/login/" id="login_form_show" class="login-link">Войти</a> или
+			<a href="https://bikepost.ru/registration/" class="reg-link">Зарегистрироваться</a>
+		</div>
+		
+		<div class="pulse">сейчас на сайте
+				1267 человек
+		</div>
+	
+	 <a href="https://bikepost.ru"><img class="logo" src="https://bikepost.ru/templates/skin/bikepost/images/bikepost.gif" width="167px" height="85px" alt="БайкПост" /></a>
+	
+
+	<ul class="pages">
+		
+		<li ><a href="https://bikepost.ru/new/">Все подряд&nbsp;<span>79092</span></a>&nbsp;+9</li>
+		<li ><a href="https://bikepost.ru/qa/">Q&A&nbsp;<span>13880</span></a>&nbsp;+1</li>
+		
+		
+		
+		<li ><a href="https://bikepost.ru/people/">Люди</a></li>
+		
+
+		
+ 		<li ><a href="https://bikepost.ru/memory/">Книга Памяти</a><span style="color: red;"></span></li><li><a href="https://bikepost.ru/stolen/">В угоне</a></li>
+<li ><a href="https://bikepost.ru/garage/">Мотоциклы&nbsp;<span>26802</span></a>&nbsp;+3</li>
+<li ><a href="https://bikepost.ru/events/" title="">События</a></li>
+<li ><a href="https://bikepost.ru/board/" title="">Объявления&nbsp;<span>33</span></a>&nbsp;+1</li>
+
+<li ><a style="color: #ff0030" href="https://bikepost.ru/premium/" title="">Премиум аккаунт!</a></li>
+
+		
+		
+			
+				
+			
+		
+
+		
+	</ul>
+
+
+	<div class="search">
+        <form action="https://bikepost.ru/search/topics/" method="GET" class="search">
+            <input class="text" type="text" placeholder="поиск по сайту" name="q" />
+            <input class="search-submit" type="submit" value="" />
+        </form>
+	</div>
+</div>
+
+			
+	</div>
+
+	<div id="container">
+
+		
+
+		<div id="wrapper" class=" " data-sticky-container>
+			<div id="content" >
+				<div id="content-inner">
+						<div class="login-form jqmWindow" id="login_form">
+		<a href="#" class="close jqmClose"></a>
+
+		<form action="https://bikepost.ru/login/" method="POST">
+			<h3>Вход на сайт</h3>
+				<div>
+		<ul class="openid-service-list">
+							<li title="Войти с помощью Facebook" class="js-autoopenid-auth openid-service-facebook" data-service="facebook"></li>
+							<li title="Войти с помощью ВКонтакте" class="js-autoopenid-auth openid-service-vkontakte" data-service="vkontakte"></li>
+							<li title="Войти с помощью Twitter" class="js-autoopenid-auth openid-service-twitter" data-service="twitter"></li>
+					</ul>
+	</div>
+
+
+			
+
+			<p><label><strong>Логин или email:</strong><br />
+			<input type="text" class="input-text" name="login" id="login-input"/></label></p>
+
+			<p><label><strong>Пароль:</strong><br />
+			<input type="password" name="password" class="input-text" /></label></p>
+
+			<label class="label-remember"><input type="checkbox" name="remember" class="checkbox" checked /></label>
+
+			
+
+			<input type="submit" name="submit_login" class="button-login" value="Войти" /><br /><br />
+			<p>
+			Забыли пароль? <a href="https://bikepost.ru/login/reminder/">Поможем вспомнить</a>.<br /><br />
+			Если вы по каким-то причинам не зарегистрированы, то можете <a href="https://bikepost.ru/registration/">сделать это прямо сейчас</a>
+			</p>
+		</form>
+	</div>
+
+					
+	
+
+	
+
+					
+
+
+
+
+	
+		
+			
+			<div style="display: block; text-align: center; width: 100%; margin: 10px auto;">
+
+			
+			<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+			<ins class="adsbygoogle"
+			     style="display:inline-block;width:728px;height:90px"
+			     data-ad-client="ca-pub-1244918401902991"
+			     data-ad-slot="5637909629"></ins>
+			<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+			</script>
+			
+
+			</div>
+				
+
+
+					
+
+<div class="topic">
+	<h2 class="title">
+				
+            <a href="https://bikepost.ru/my/Geniusrb/garage/32042/BMW-R1100R-1999/" class="title-blog">BMW R1100R 1999</a><span>&nbsp;&rarr;</span>
+											<a href="https://bikepost.ru/blog/93677/Zapis-n1-postuplenie-osmotr-pervye-vpechatlenija.html" class="title-topic">Запись №1: поступление, осмотр, первые впечатления</a>
+			</h2>
+
+	<div class="info-top">
+	
+        <a class="title-blog" href="https://bikepost.ru/my/Geniusrb/garage/32042/BMW-R1100R-1999/journal/">История покупки</a>
+											<span class="actions">
+        
+						</span>
+	</div>
+
+
+	<div class="content">
+	
+					Всем доброго дня!<br/>
+<br/>
+Вчера случилось долгожданное: я встретил в ТК ПЭК и привёз на работу свой новый мотик <strong>BMW R1100R 1999</strong> года выпуска.<br/>
+<br/>
+Первая встреча вживую сопровождалась тревогой, но не от томительного ожидания, а от состояния обрешётки, в которой приехал мотик.<br/>
+<br/>
+<img src="https://i.postimg.cc/VNp4Hh3M/IMG-20210228-113943.jpg"/><br/>
+
+							<br><br><a href="https://bikepost.ru/blog/93677/Zapis-n1-postuplenie-osmotr-pervye-vpechatlenija.html#cut" title="Читать дальше">
+									Читать дальше
+								</a>
+						
+	</div>
+
+
+
+	<ul class="tags">
+					<li><a href="https://bikepost.ru/tag/bmw%20r1100r/">bmw r1100r</a></li>
+			</ul>
+
+
+
+	<ul class="info">
+		<li class="panel username"><a href="https://bikepost.ru/profile/Geniusrb/"><img src="https://bikepost.ru/uploads/images/05/82/97/2020/03/18/avatar_16x16.jpg?152923" alt="Geniusrb" />Geniusrb</a></li>
+					<li class="panel">Николай</li>
+				<li class="panel">сегодня в 12:44</li>
+					<li class="panel comments-link">
+									<a href="https://bikepost.ru/blog/93677/Zapis-n1-postuplenie-osmotr-pervye-vpechatlenija.html#comments" title="читать комментарии"><span class="red">45 комментариев</span></a>
+							</li>
+				<li class="panel">
+			<a href="#" onclick="return ls.favourite.toggle(93677,this,'topic');" class="favourite "></a>
+					</li>
+
+		<li id="vote_area_topic_93677" class="voting  guest">
+							<a class="minus" href="https://bikepost.ru/login/"></a>
+			
+				<span id="vote_total_topic_93677" class="total" title="всего проголосовало: 18"> ? </span>
+
+							<a class="plus" href="https://bikepost.ru/login/"></a>
+					</li>
+
+		
+
+				</ul>
+	</div>
+
+
+		
+					
+
+<div class="topic">
+	<h2 class="title">
+					<a href="https://bikepost.ru/my/Verona432/" class="title-blog">Блог им. Verona432</a><span>&nbsp;&rarr;</span>
+											<a href="https://bikepost.ru/blog/93676/Iz-Moskvy-v-Indiju-na-mototsikle-Pakistan-Glava-12-Atatat-prodolzhaetsja.html" class="title-topic">Из Москвы в Индию на мотоцикле. Пакистан. Глава 12. Ататат продолжается</a>
+			</h2>
+
+	<div class="info-top">
+											<span class="actions">
+        
+				
+		</span>
+	</div>
+
+	<div class="content">
+	
+					<img src="https://i.postimg.cc/kMwNfzvv/1.jpg"/><br/>
+“Часу от часу не легче” — вот краткое описание этой серии…<br/>
+
+							<br><br><a href="https://bikepost.ru/blog/93676/Iz-Moskvy-v-Indiju-na-mototsikle-Pakistan-Glava-12-Atatat-prodolzhaetsja.html#cut" title="Читать дальше">
+									Читать дальше
+								</a>
+						
+	</div>
+
+
+
+	<ul class="tags">
+					<li><a href="https://bikepost.ru/tag/%D0%9F%D0%B0%D0%BA%D0%B8%D1%81%D1%82%D0%B0%D0%BD/">Пакистан</a>, </li>
+					<li><a href="https://bikepost.ru/tag/%D0%9A%D0%B2%D0%B5%D1%82%D1%82%D0%B0/">Кветта</a>, </li>
+					<li><a href="https://bikepost.ru/tag/%D0%B8%D0%BD%D0%B4%D0%B8%D1%8F%20%D0%BC%D0%BE%D1%82%D0%BE/">индия мото</a>, </li>
+					<li><a href="https://bikepost.ru/tag/%D0%98%D0%BD%D0%B4%D0%B8%D1%8F/">Индия</a>, </li>
+					<li><a href="https://bikepost.ru/tag/Yamaha%20Fazer%206/">Yamaha Fazer 6</a>, </li>
+					<li><a href="https://bikepost.ru/tag/FZ6/">FZ6</a>, </li>
+					<li><a href="https://bikepost.ru/tag/FZ-6N/">FZ-6N</a>, </li>
+					<li><a href="https://bikepost.ru/tag/%D0%BF%D1%83%D1%82%D0%B5%D0%B2%D0%BE%D0%B9%20%D0%B4%D0%BD%D0%B5%D0%B2%D0%BD%D0%B8%D0%BA/">путевой дневник</a>, </li>
+					<li><a href="https://bikepost.ru/tag/%D0%BF%D1%83%D1%82%D0%B5%D1%88%D0%B5c%D1%82%D0%B2%D0%B8%D0%B5%20%D0%BD%D0%B0%20%D0%BC%D0%BE%D1%82%D0%BE%D1%86%D0%B8%D0%BA%D0%BB%D0%B5/">путешеcтвие на мотоцикле</a>, </li>
+					<li><a href="https://bikepost.ru/tag/%D0%B4%D0%B0%D0%BB%D1%8C%D0%BD%D1%8F%D0%BA%20%D0%B2%20%D0%BF%D0%B5%D1%80%D0%B2%D1%8B%D0%B9%20%D1%80%D0%B0%D0%B7/">дальняк в первый раз</a>, </li>
+					<li><a href="https://bikepost.ru/tag/%D0%B4%D0%B0%D0%BB%D1%8C%D0%BD%D1%8F%D0%BA/">дальняк</a>, </li>
+					<li><a href="https://bikepost.ru/tag/%D0%BF%D1%83%D1%82%D0%B5%D1%88%D0%B5%D1%81%D1%82%D0%B2%D0%B8%D0%B5%20%D0%B2%20%D0%98%D0%BD%D0%B4%D0%B8%D1%8E/">путешествие в Индию</a></li>
+			</ul>
+
+
+
+	<ul class="info">
+		<li class="panel username"><a href="https://bikepost.ru/profile/Verona432/"><img src="https://bikepost.ru/uploads/images/05/62/31/2020/01/16/avatar_16x16.png?171646" alt="Verona432" />Verona432</a></li>
+					<li class="panel">Вероника Штилле</li>
+				<li class="panel">сегодня в 11:19</li>
+					<li class="panel comments-link">
+									<a href="https://bikepost.ru/blog/93676/Iz-Moskvy-v-Indiju-na-mototsikle-Pakistan-Glava-12-Atatat-prodolzhaetsja.html#comments" title="читать комментарии"><span class="red">107 комментариев</span></a>
+							</li>
+				<li class="panel">
+			<a href="#" onclick="return ls.favourite.toggle(93676,this,'topic');" class="favourite "></a>
+					</li>
+
+		<li id="vote_area_topic_93676" class="voting  guest">
+							<a class="minus" href="https://bikepost.ru/login/"></a>
+			
+				<span id="vote_total_topic_93676" class="total" title="всего проголосовало: 34"> ? </span>
+
+							<a class="plus" href="https://bikepost.ru/login/"></a>
+					</li>
+
+		
+
+				</ul>
+	</div>
+
+
+		
+					
+
+<div class="topic">
+	<h2 class="title">
+					<a href="https://bikepost.ru/my/AT_IrokeZ/" class="title-blog">Блог им. AT_IrokeZ</a><span>&nbsp;&rarr;</span>
+											<a href="https://bikepost.ru/blog/93673/Bortzhurnal-Honda-CBF600SA-Paduchij-Zametki-Osennjaja-krasota-prirody-zharkogo-YUga-Skala-Parus.html" class="title-topic">Бортжурнал Honda CBF600SA «Падучий» - Заметки. Осенняя красота природы жаркого Юга. Скала «Парус»</a>
+			</h2>
+
+	<div class="info-top">
+											<span class="actions">
+        
+				
+		</span>
+	</div>
+
+	<div class="content">
+	
+					<div style="text-align: center;"><strong>[АТ]IrokeZ — Бортжурнал Honda CBF600SA «Падучий» — Заметки. Сезон номер раз<br/>
+<br/>
+Часть 10 – Осенняя красота природы жаркого Юга. Скала «Парус»<br/>
+<br/>
+«Дело к осени, и в твоих сырых руках — листья жёлтые, строчки стёртые…»</strong><br/>
+</div><br/>
+<br/>
+За окном – первые числа сентября, плавно и незаметно вступила в свои права календарная осень. Дома наступает «бабье лето» — самая красивая пора быстро осыпающейся с деревьев золотой и багряной листвы, вскоре она сменится серостью затяжных дождей в безысходности кульминации осеннего сезона центральной полосы. Тогда печальные мотоциклисты в последний раз выкатят своих «железных коней» из тесноты гаражей, прохватят по улицам осенних городов, рыча на скорости прямотоком, и поставят технику на зимнее хранение до начала первых тёплых деньков будущей весны.<br/>
+<br/>
+Здесь же на начало осени жара стоит такая, что я обречён в буквальном смысле медленно плавиться, стоя на светофорах в полной экипировке под немилосердно палящим южным солнцем. Благодаря отличной тёплой погоде, я решил съездить по маршруту Геленджик – Дивноморское – Прасковеевка, чтобы прокатиться по отличному асфальту местных серпантинов в окружении видовых пейзажей гор и посмотреть на достопримечательность в виде вдающейся в море скалы «Парус», а так же искупаться в чистой воде местного залива.<br/>
+<br/>
+<div style="text-align: center;"><img src="https://i.postimg.cc/fL4hgw8N/122-1.jpg"/><br/>
+<strong>Скала Парус</strong> (источник фото – Всемирная паутина)</div><br/>
+<br/>
+В полдень закрываю створки ворот гаража и трогаюсь на выезд из гаражного кооператива, расположенного на придомовой территории. Навстречу по тротуару идут несколько возвращающихся после уроков школьников младших классов, они весело гомонят и машут руками. Увидев меня, пробирающегося на рычащем байке по узким проездам между домов, один из них делает характерный жест, показывающий резкое прерывистое вращение рукоятки «газа». Я улыбаюсь такой наивной просьбе ребёнка и, проехав немного ближе к выезду из двора, поджимаю рычаг сцепления и по-хулигански несколько раз выполняю «перегазовку», срывая возгласы ненависти из ближайших открытых окон жилых квартир. Слыша сзади заливистый детский смех, аккуратно выезжаю со двора на главную дорогу и направляюсь в сторону выезда из города.<br/>
+<br/>
+<strong>Внимание! Всё ниженаписанное является исключительно субъективным мнением, текст отличается большим объёмом, а язык написания сложен для понимания… CUT! (И звук режиссерской «хлопушки»)</strong> 
+							<br><br><a href="https://bikepost.ru/blog/93673/Bortzhurnal-Honda-CBF600SA-Paduchij-Zametki-Osennjaja-krasota-prirody-zharkogo-YUga-Skala-Parus.html#cut" title="Читать дальше">
+									Читать дальше
+								</a>
+						
+	</div>
+
+
+
+	<ul class="tags">
+					<li><a href="https://bikepost.ru/tag/Honda/">Honda</a>, </li>
+					<li><a href="https://bikepost.ru/tag/CBF600SA/">CBF600SA</a>, </li>
+					<li><a href="https://bikepost.ru/tag/%D0%91%D0%BE%D1%80%D1%82%D0%B6%D1%83%D1%80%D0%BD%D0%B0%D0%BB/">Бортжурнал</a>, </li>
+					<li><a href="https://bikepost.ru/tag/%D0%97%D0%B0%D0%BC%D0%B5%D1%82%D0%BA%D0%B8/">Заметки</a>, </li>
+					<li><a href="https://bikepost.ru/tag/%D0%A1%D0%BA%D0%B0%D0%BB%D0%B0%20%D0%9F%D0%B0%D1%80%D1%83%D1%81/">Скала Парус</a>, </li>
+					<li><a href="https://bikepost.ru/tag/%D0%94%D0%B8%D0%B2%D0%BD%D0%BE%D0%BC%D0%BE%D1%80%D1%81%D0%BA%D0%BE%D0%B5/">Дивноморское</a>, </li>
+					<li><a href="https://bikepost.ru/tag/%D0%9F%D1%80%D0%B0%D1%81%D0%BA%D0%BE%D0%B2%D0%B5%D0%B5%D0%B2%D0%BA%D0%B0/">Прасковеевка</a></li>
+			</ul>
+
+
+
+	<ul class="info">
+		<li class="panel username"><a href="https://bikepost.ru/profile/AT_IrokeZ/"><img src="https://bikepost.ru/uploads/images/06/07/43/2020/06/28/avatar_16x16.jpg?203159" alt="AT_IrokeZ" />AT_IrokeZ</a></li>
+					<li class="panel">Макс</li>
+				<li class="panel">сегодня в 0:15</li>
+					<li class="panel comments-link">
+									<a href="https://bikepost.ru/blog/93673/Bortzhurnal-Honda-CBF600SA-Paduchij-Zametki-Osennjaja-krasota-prirody-zharkogo-YUga-Skala-Parus.html#comments" title="комментировать"><span class="none">комментировать</span></a>
+							</li>
+				<li class="panel">
+			<a href="#" onclick="return ls.favourite.toggle(93673,this,'topic');" class="favourite "></a>
+					</li>
+
+		<li id="vote_area_topic_93673" class="voting  guest">
+							<a class="minus" href="https://bikepost.ru/login/"></a>
+			
+				<span id="vote_total_topic_93673" class="total" title="всего проголосовало: 7"> ? </span>
+
+							<a class="plus" href="https://bikepost.ru/login/"></a>
+					</li>
+
+		
+
+				</ul>
+	</div>
+
+
+		 
+			
+			
+<div class="topic" align="center">
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 580x400 квадрат -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-1244918401902991"
+     data-ad-slot="1853511629"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+</div>
+
+		
+					
+
+<div class="topic">
+	<h2 class="title">
+					<a href="https://bikepost.ru/blog/travel/" class="title-blog">Путешествия</a><span>&nbsp;&rarr;</span>
+											<a href="https://bikepost.ru/blog/travel/93672/Komendant--RALLI-2021.html" class="title-topic">Komendant — РАЛЛИ 2021</a>
+			</h2>
+
+	<div class="info-top">
+											<span class="actions">
+        
+				
+		</span>
+	</div>
+
+	<div class="content">
+	
+					Покататься по асфальту и грунту сначала по предгорьям Кавказа, а затем в больших горах<br/>
+<img src="https://forum.awd.ru/gallery/images/upload/21d/51f/21d51f5f0a8670144b3bd3cafa90d573.jpg"/><br/>
+Приглашаю обсудить идею летнего мотослета на Юге России, бесплатного и демократичного.
+							<br><br><a href="https://bikepost.ru/blog/travel/93672/Komendant--RALLI-2021.html#cut" title="Читать дальше">
+									Читать дальше
+								</a>
+						
+	</div>
+
+
+
+	<ul class="tags">
+					<li><a href="https://bikepost.ru/tag/%D0%BC%D0%BE%D1%82%D0%BE%D1%81%D0%BB%D0%B5%D1%82/">мотослет</a>, </li>
+					<li><a href="https://bikepost.ru/tag/%D1%8D%D0%BD%D0%B4%D1%83%D1%80%D0%BE/">эндуро</a>, </li>
+					<li><a href="https://bikepost.ru/tag/%D1%81%D0%BE%D1%80%D0%B5%D0%B2%D0%BD%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F/">соревнования</a>, </li>
+					<li><a href="https://bikepost.ru/tag/%D1%80%D0%B0%D0%BB%D0%BB%D0%B8/">ралли</a>, </li>
+					<li><a href="https://bikepost.ru/tag/%D0%9A%D0%B0%D0%B2%D0%BA%D0%B0%D0%B7/">Кавказ</a>, </li>
+					<li><a href="https://bikepost.ru/tag/%D0%AE%D0%B3%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8/">Юг России</a>, </li>
+					<li><a href="https://bikepost.ru/tag/%D0%BC%D0%BE%D1%82%D0%BE%D1%86%D0%B8%D0%BA%D0%BB/">мотоцикл</a>, </li>
+					<li><a href="https://bikepost.ru/tag/2021/">2021</a></li>
+			</ul>
+
+
+
+	<ul class="info">
+		<li class="panel username"><a href="https://bikepost.ru/profile/komendant/"><img src="https://bikepost.ru/uploads/images/01/30/56/2018/05/19/avatar_16x16.jpg?221608" alt="komendant" />komendant</a></li>
+				<li class="panel">вчера в 22:15</li>
+					<li class="panel comments-link">
+									<a href="https://bikepost.ru/blog/travel/93672/Komendant--RALLI-2021.html#comments" title="читать комментарии"><span class="red">11 комментариев</span></a>
+							</li>
+				<li class="panel">
+			<a href="#" onclick="return ls.favourite.toggle(93672,this,'topic');" class="favourite "></a>
+							<span class="favourite-count" id="fav_count_topic_93672" title="Количество пользователей, добавивших пост в избранное">10</span>
+					</li>
+
+		<li id="vote_area_topic_93672" class="voting  guest">
+							<a class="minus" href="https://bikepost.ru/login/"></a>
+			
+				<span id="vote_total_topic_93672" class="total" title="всего проголосовало: 20"> ? </span>
+
+							<a class="plus" href="https://bikepost.ru/login/"></a>
+					</li>
+
+		
+
+				</ul>
+	</div>
+
+
+		
+					
+
+<div class="topic">
+	<h2 class="title">
+					<a href="https://bikepost.ru/my/SLON_RUS/" class="title-blog">Блог им. SLON_RUS</a><span>&nbsp;&rarr;</span>
+											<a href="https://bikepost.ru/blog/93670/Afrika-2020-PRODOLZHENIE-Planeta-Kongo-CHast-03.html" class="title-topic">Африка 2020 (ПРОДОЛЖЕНИЕ). Планета Конго. Часть 03</a>
+			</h2>
+
+	<div class="info-top">
+											<span class="actions">
+        
+				
+		</span>
+	</div>
+
+	<div class="content">
+	
+					Въезд в Конго очень специфический :)) Подъезжаем к шлагбауму и ждем пока нам его кто-нибудь откроет. 5 минут — никого, через 10 минут ситуация не меняется. Разглядев шлагбаум поближе, увидел, что он закрыт на амбарный замок! Такое встречаю впервые. А справа от шлагбаума тропинка! Ну что же, значит нам туда. Местные-то ездят на малокубатурных мотоциклах и легко объезжают такое препятствие. Нам же пришлось протискиваться через густую растительность<br/>
+<br/>
+<div style="text-align: center;"><img src="https://i.postimg.cc/nzhB3dMH/045.jpg"/></div><br/>
+
+							<br><br><a href="https://bikepost.ru/blog/93670/Afrika-2020-PRODOLZHENIE-Planeta-Kongo-CHast-03.html#cut" title="Читать дальше">
+									Читать дальше
+								</a>
+						
+	</div>
+
+
+
+	<ul class="tags">
+					<li><a href="https://bikepost.ru/tag/%D0%90%D1%84%D1%80%D0%B8%D0%BA%D0%B0/">Африка</a>, </li>
+					<li><a href="https://bikepost.ru/tag/%D0%90%D1%84%D1%80%D0%B8%D0%BA%D0%B0%20%D0%BD%D0%B0%20%D0%BC%D0%BE%D1%82%D0%BE/">Африка на мото</a>, </li>
+					<li><a href="https://bikepost.ru/tag/Slon_in_Africa/">Slon_in_Africa</a>, </li>
+					<li><a href="https://bikepost.ru/tag/SLON_RUS/">SLON_RUS</a>, </li>
+					<li><a href="https://bikepost.ru/tag/R1200GS/">R1200GS</a>, </li>
+					<li><a href="https://bikepost.ru/tag/%D0%9A%D0%BE%D0%BD%D0%B3%D0%BE/">Конго</a>, </li>
+					<li><a href="https://bikepost.ru/tag/%D0%94%D0%A0%20%D0%9A%D0%BE%D0%BD%D0%B3%D0%BE/">ДР Конго</a>, </li>
+					<li><a href="https://bikepost.ru/tag/%D0%94%D0%B5%D0%BC%D0%BE%D0%BA%D1%80%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F%20%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0%20%D0%9A%D0%BE%D0%BD%D0%B3%D0%BE/">Демократическая Республика Конго</a>, </li>
+					<li><a href="https://bikepost.ru/tag/%D0%9C%D0%BE%D1%82%D0%BE%D0%BF%D1%83%D1%82%D0%B5%D1%88%D0%B5%D1%81%D1%82%D0%B2%D0%B8%D0%B5/">Мотопутешествие</a></li>
+			</ul>
+
+
+
+	<ul class="info">
+		<li class="panel username"><a href="https://bikepost.ru/profile/SLON_RUS/"><img src="https://bikepost.ru/uploads/images/03/42/20/2019/12/22/avatar_16x16.jpg?175319" alt="SLON_RUS" />SLON_RUS</a></li>
+					<li class="panel">Алексей</li>
+				<li class="panel">вчера в 20:24</li>
+					<li class="panel comments-link">
+									<a href="https://bikepost.ru/blog/93670/Afrika-2020-PRODOLZHENIE-Planeta-Kongo-CHast-03.html#comments" title="читать комментарии"><span class="red">34 комментария</span></a>
+							</li>
+				<li class="panel">
+			<a href="#" onclick="return ls.favourite.toggle(93670,this,'topic');" class="favourite "></a>
+							<span class="favourite-count" id="fav_count_topic_93670" title="Количество пользователей, добавивших пост в избранное">2</span>
+					</li>
+
+		<li id="vote_area_topic_93670" class="voting  guest">
+							<a class="minus" href="https://bikepost.ru/login/"></a>
+			
+				<span id="vote_total_topic_93670" class="total" title="всего проголосовало: 43"> ? </span>
+
+							<a class="plus" href="https://bikepost.ru/login/"></a>
+					</li>
+
+		
+
+				</ul>
+	</div>
+
+
+		
+					
+
+<div class="topic">
+	<h2 class="title">
+					<a href="https://bikepost.ru/my/rury/" class="title-blog">Блог им. rury</a><span>&nbsp;&rarr;</span>
+											<a href="https://bikepost.ru/blog/93667/Brendozavisimoe-serdtse.html" class="title-topic">Брендозависимое сердце</a>
+			</h2>
+
+	<div class="info-top">
+											<span class="actions">
+        
+				
+		</span>
+	</div>
+
+	<div class="content">
+	
+					Я увидела его еще на выставке в Милане. Он моментально захватил мое брендозависимое сердце. Ведь цвет идеально подходил к моему КТМ. Scorpion Exo 510.<br/>
+Технические характеристики – это все потом. Главное – он был точно в цвет мотоцикла. <br/>
+<img src="https://i.mycdn.me/i?r=AyH4iRPQ2q0otWIFepML2LxRiGpDqXyrieAlgypwlbBMkw"/>
+							<br><br><a href="https://bikepost.ru/blog/93667/Brendozavisimoe-serdtse.html#cut" title="Читать дальше">
+									Читать дальше
+								</a>
+						
+	</div>
+
+
+
+	<ul class="tags">
+					<li><a href="https://bikepost.ru/tag/%D0%BC%D0%BE%D1%82%D0%BE%D1%88%D0%BB%D0%B5%D0%BC/">мотошлем</a>, </li>
+					<li><a href="https://bikepost.ru/tag/scorpionexo/">scorpionexo</a></li>
+			</ul>
+
+
+
+	<ul class="info">
+		<li class="panel username"><a href="https://bikepost.ru/profile/rury/"><img src="https://bikepost.ru/uploads/images/00/50/28/2014/02/04/avatar_16x16.jpg?230821" alt="rury" />rury</a></li>
+				<li class="panel">вчера в 16:42</li>
+					<li class="panel comments-link">
+									<a href="https://bikepost.ru/blog/93667/Brendozavisimoe-serdtse.html#comments" title="читать комментарии"><span class="red">16 комментариев</span></a>
+							</li>
+				<li class="panel">
+			<a href="#" onclick="return ls.favourite.toggle(93667,this,'topic');" class="favourite "></a>
+					</li>
+
+		<li id="vote_area_topic_93667" class="voting  guest">
+							<a class="minus" href="https://bikepost.ru/login/"></a>
+			
+				<span id="vote_total_topic_93667" class="total" title="всего проголосовало: 24"> ? </span>
+
+							<a class="plus" href="https://bikepost.ru/login/"></a>
+					</li>
+
+		
+
+				</ul>
+	</div>
+
+
+		
+					
+
+<div class="topic">
+	<h2 class="title">
+					<a href="https://bikepost.ru/my/Trubnik/" class="title-blog">Блог им. Trubnik</a><span>&nbsp;&rarr;</span>
+											<a href="https://bikepost.ru/blog/93664/O-spontannostjakh-metamorfozakh-i-ljubvi.html" class="title-topic">О спонтанностях, метаморфозах и любви</a>
+			</h2>
+
+	<div class="info-top">
+											<span class="actions">
+        
+				
+		</span>
+	</div>
+
+	<div class="content">
+	
+					<strong>Часть 1- про спонтанности.</strong><br/>
+<br/>
+ — Тормоз себе в голову купи! – услышал я в телефонной трубке от отца в ответ на сообщение о том, что я только что купил мотоцикл и стою в очереди на регистрации в ГИБДД. Это было в далеком 2012 году, когда я после 13ти летнего перерыва снова вернулся в седло, но совсем на другом качественном уровне. 
+							<br><br><a href="https://bikepost.ru/blog/93664/O-spontannostjakh-metamorfozakh-i-ljubvi.html#cut" title="Читать дальше">
+									Читать дальше
+								</a>
+						
+	</div>
+
+
+
+	<ul class="tags">
+					<li><a href="https://bikepost.ru/tag/%D0%BC%D0%BE%D1%82%D0%BE%D0%BF%D1%83%D1%82%D0%B5%D1%88%D0%B5%D1%81%D1%82%D0%B2%D0%B8%D0%B5/">мотопутешествие</a>, </li>
+					<li><a href="https://bikepost.ru/tag/%D0%BF%D1%83%D1%82%D0%B5%D1%88%D0%B5%D1%81%D1%82%D0%B2%D0%B8%D0%B5%20%D1%81%20%D1%80%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D1%8F%D0%BC%D0%B8/">путешествие с родителями</a>, </li>
+					<li><a href="https://bikepost.ru/tag/Kawasaki%20Vulcan/">Kawasaki Vulcan</a>, </li>
+					<li><a href="https://bikepost.ru/tag/Yamaha%20FJR%201300/">Yamaha FJR 1300</a>, </li>
+					<li><a href="https://bikepost.ru/tag/%D0%93%D1%80%D1%83%D0%B7%D0%B8%D1%8F/">Грузия</a>, </li>
+					<li><a href="https://bikepost.ru/tag/%D0%9A%D0%B0%D0%B2%D0%BA%D0%B0%D0%B7/">Кавказ</a></li>
+			</ul>
+
+
+
+	<ul class="info">
+		<li class="panel username"><a href="https://bikepost.ru/profile/Trubnik/"><img src="https://bikepost.ru/templates/skin/bikepost/images/avatar_16x16.jpg" alt="Trubnik" />Trubnik</a></li>
+					<li class="panel">Михаил</li>
+				<li class="panel">вчера в 15:19</li>
+					<li class="panel comments-link">
+									<a href="https://bikepost.ru/blog/93664/O-spontannostjakh-metamorfozakh-i-ljubvi.html#comments" title="читать комментарии"><span class="red">14 комментариев</span></a>
+							</li>
+				<li class="panel">
+			<a href="#" onclick="return ls.favourite.toggle(93664,this,'topic');" class="favourite "></a>
+							<span class="favourite-count" id="fav_count_topic_93664" title="Количество пользователей, добавивших пост в избранное">1</span>
+					</li>
+
+		<li id="vote_area_topic_93664" class="voting  guest">
+							<a class="minus" href="https://bikepost.ru/login/"></a>
+			
+				<span id="vote_total_topic_93664" class="total" title="всего проголосовало: 31"> ? </span>
+
+							<a class="plus" href="https://bikepost.ru/login/"></a>
+					</li>
+
+		
+
+				</ul>
+	</div>
+
+
+		
+					
+
+<div class="topic">
+	<h2 class="title">
+					<a href="https://bikepost.ru/blog/video/" class="title-blog">Видеоролики</a><span>&nbsp;&rarr;</span>
+											<a href="https://bikepost.ru/blog/video/93662/Turbo-Alfa-Polnyj-Proval-Zamer-Maksimalki.html" class="title-topic">Турбо Альфа - Полный Провал? Замер Максималки</a>
+			</h2>
+
+	<div class="info-top">
+											<span class="actions">
+        
+				
+		</span>
+	</div>
+
+	<div class="content">
+	
+					Подбор и настройка карбюратора. Замер максималки. Полный Провал?<br/>
+<br/>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fXNEZnmWJRE" allowfullscreen="allowfullscreen"></iframe>
+						
+	</div>
+
+
+
+	<ul class="tags">
+					<li><a href="https://bikepost.ru/tag/%D0%9C%D0%BE%D0%BF%D0%B5%D0%B4%20%D0%90%D0%BB%D1%8C%D1%84%D0%B0/">Мопед Альфа</a>, </li>
+					<li><a href="https://bikepost.ru/tag/%D0%A2%D1%83%D1%80%D0%B1%D0%BE%20%D0%BC%D0%BE%D1%82%D0%BE%D1%86%D0%B8%D0%BA%D0%BB/">Турбо мотоцикл</a>, </li>
+					<li><a href="https://bikepost.ru/tag/%D0%A2%D1%83%D1%80%D0%B1%D0%BE%20%D0%90%D0%BB%D1%8C%D1%84%D0%B0/">Турбо Альфа</a></li>
+			</ul>
+
+
+
+	<ul class="info">
+		<li class="panel username"><a href="https://bikepost.ru/profile/YuryKor/"><img src="https://bikepost.ru/uploads/images/05/39/20/2018/11/09/avatar_16x16.jpg?133806" alt="YuryKor" />YuryKor</a></li>
+					<li class="panel">Юрий Кор.</li>
+				<li class="panel">вчера в 11:48</li>
+					<li class="panel comments-link">
+									<a href="https://bikepost.ru/blog/video/93662/Turbo-Alfa-Polnyj-Proval-Zamer-Maksimalki.html#comments" title="читать комментарии"><span class="red">5 комментариев</span></a>
+							</li>
+				<li class="panel">
+			<a href="#" onclick="return ls.favourite.toggle(93662,this,'topic');" class="favourite "></a>
+					</li>
+
+		<li id="vote_area_topic_93662" class="voting  guest">
+							<a class="minus" href="https://bikepost.ru/login/"></a>
+			
+				<span id="vote_total_topic_93662" class="total" title="всего проголосовало: 13"> ? </span>
+
+							<a class="plus" href="https://bikepost.ru/login/"></a>
+					</li>
+
+		
+
+				</ul>
+	</div>
+
+
+		
+					
+
+<div class="topic">
+	<h2 class="title">
+					<a href="https://bikepost.ru/my/Marat74/" class="title-blog">Блог им. Marat74</a><span>&nbsp;&rarr;</span>
+											<a href="https://bikepost.ru/blog/93650/Podytogi-7-let-v-sedle.html" class="title-topic">Подытоги 7 лет в седле</a>
+			</h2>
+
+	<div class="info-top">
+											<span class="actions">
+        
+				
+		</span>
+	</div>
+
+	<div class="content">
+	
+					Почти ровно шесть лет назад я в заснеженной Перьми смотрел, как подруга уже бывшего хозяина Ямахи ТДМ900А, прощаясь, украдкой гладит ТыГыДыма по седлу. Осталось только пара подписей в договоре и загрузить мой новый мот в кузов пикапа. Ну и добраться домой, в Златоуст.<br/>
+<br/>
+<img src="https://i.postimg.cc/x8C2P5ty/CB18-F0-BF-F4-B4-46-F8-9449-7-EF3-D6-DE2695.jpg"/><br/>
+
+							<br><br><a href="https://bikepost.ru/blog/93650/Podytogi-7-let-v-sedle.html#cut" title="Читать дальше">
+									Читать дальше
+								</a>
+						
+	</div>
+
+
+
+	<ul class="tags">
+					<li><a href="https://bikepost.ru/tag/%D0%9C%D0%BE%D1%82%D0%BE%D0%B6%D0%B8%D0%B7%D0%BD%D1%8C/">Мотожизнь</a>, </li>
+					<li><a href="https://bikepost.ru/tag/%D0%A2%D0%94%D0%9C900/">ТДМ900</a>, </li>
+					<li><a href="https://bikepost.ru/tag/%D0%A5%D0%B0%D1%8F%D0%B1%D1%83%D1%81%D0%B0/">Хаябуса</a></li>
+			</ul>
+
+
+
+	<ul class="info">
+		<li class="panel username"><a href="https://bikepost.ru/profile/Marat74/"><img src="https://bikepost.ru/uploads/images/05/87/12/2020/11/19/avatar_16x16.jpg?113931" alt="Marat74" />Marat74</a></li>
+				<li class="panel">27 февраля  в 20:01</li>
+					<li class="panel comments-link">
+									<a href="https://bikepost.ru/blog/93650/Podytogi-7-let-v-sedle.html#comments" title="читать комментарии"><span class="red">34 комментария</span></a>
+							</li>
+				<li class="panel">
+			<a href="#" onclick="return ls.favourite.toggle(93650,this,'topic');" class="favourite "></a>
+					</li>
+
+		<li id="vote_area_topic_93650" class="voting  guest">
+							<a class="minus" href="https://bikepost.ru/login/"></a>
+			
+				<span id="vote_total_topic_93650" class="total" title="всего проголосовало: 26"> ? </span>
+
+							<a class="plus" href="https://bikepost.ru/login/"></a>
+					</li>
+
+		
+
+				</ul>
+	</div>
+
+
+		
+					
+
+<div class="topic">
+	<h2 class="title">
+					<a href="https://bikepost.ru/blog/honda/" class="title-blog">Honda</a><span>&nbsp;&rarr;</span>
+											<a href="https://bikepost.ru/blog/honda/93657/Kompanija-Honda-zaregistrirovala-torgovyj-znak-Transalp.html" class="title-topic">Компания Honda зарегистрировала торговый знак Transalp</a>
+			</h2>
+
+	<div class="info-top">
+											<span class="actions">
+        
+				
+		</span>
+	</div>
+
+	<div class="content">
+	
+					<div style="text-align: center;"><img src="https://sun9-61.userapi.com/impg/drywZfQ-91C_N1BhT8vBVBt9ceFdt_nPnPBpUg/09zJgdgGWXc.jpg?size=740x444&quality=96&sign=59fd0711d9729ab128ce8f7411b4fe0e&c_uniq_tag=1Vm9NuGeFPfrsW6n8fsVU4S7H3wpc54vnCjDH-R-iAU&type=album" alt="Компания Honda зарегистрировала торговый знак Transalp"/></div><br/>
+В сети много лет ходят слухи о среднекубатурном турэндуро Honda. В прошлом году японские журналисты заявили, что 850-кубовый двухцилиндровый байк уже в активной фазе разработки. Эта тема стала еще более актуальной, когда рабочий объем Honda Africa Twin увеличился до 1084 см3. 
+							<br><br><a href="https://bikepost.ru/blog/honda/93657/Kompanija-Honda-zaregistrirovala-torgovyj-znak-Transalp.html#cut" title="Читать дальше">
+									Читать дальше
+								</a>
+						
+	</div>
+
+
+
+	<ul class="tags">
+					<li><a href="https://bikepost.ru/tag/%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F/">компания</a>, </li>
+					<li><a href="https://bikepost.ru/tag/Honda/">Honda</a>, </li>
+					<li><a href="https://bikepost.ru/tag/%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%D1%8B%D0%B9%20%D0%B7%D0%BD%D0%B0%D0%BA/">торговый знак</a>, </li>
+					<li><a href="https://bikepost.ru/tag/Transalp/">Transalp</a>, </li>
+					<li><a href="https://bikepost.ru/tag/%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%B0%D0%BB%D1%8C%D0%BF/">трансальп</a></li>
+			</ul>
+
+
+
+	<ul class="info">
+		<li class="panel username"><a href="https://bikepost.ru/profile/kim/"><img src="https://bikepost.ru/uploads/images/00/00/02/2018/05/14/avatar_16x16.jpg?234326" alt="kim" />kim</a></li>
+					<li class="panel">Ким</li>
+				<li class="panel">27 февраля  в 15:31</li>
+					<li class="panel comments-link">
+									<a href="https://bikepost.ru/blog/honda/93657/Kompanija-Honda-zaregistrirovala-torgovyj-znak-Transalp.html#comments" title="читать комментарии"><span class="red">36 комментариев</span></a>
+							</li>
+				<li class="panel">
+			<a href="#" onclick="return ls.favourite.toggle(93657,this,'topic');" class="favourite "></a>
+					</li>
+
+		<li id="vote_area_topic_93657" class="voting  guest">
+							<a class="minus" href="https://bikepost.ru/login/"></a>
+			
+				<span id="vote_total_topic_93657" class="total" title="всего проголосовало: 10"> ? </span>
+
+							<a class="plus" href="https://bikepost.ru/login/"></a>
+					</li>
+
+		
+
+				</ul>
+	</div>
+
+
+		
+					
+
+<div class="topic">
+	<h2 class="title">
+				
+            <a href="https://bikepost.ru/my/Terrano/garage/31351/Indian-Scout-2019/" class="title-blog">Indian Scout 2019</a><span>&nbsp;&rarr;</span>
+											<a href="https://bikepost.ru/blog/93654/Obespechenie-ustojchivogo-zapuska-Indian-Scout-pri-nizkikh-temperaturakh.html" class="title-topic">Обеспечение устойчивого запуска Indian Scout  при низких температурах.</a>
+			</h2>
+
+	<div class="info-top">
+	
+        <a class="title-blog" href="https://bikepost.ru/my/Terrano/garage/31351/Indian-Scout-2019/journal/">Техническое обслуживание</a>
+											<span class="actions">
+        
+						</span>
+	</div>
+
+
+	<div class="content">
+	
+					Доброе время всем владельцам Scout, прочих мото производства Polaris, и просто любопытных мотолюбов.<br/>
+Тема посвящена корректировке прошивки ECM моего Скаута.<br/>
+Так случилось что привезенный в августе прошлого года из Штатов Indian Scout 2019 прижился, оказался очень удобен для моего обычного ареала Москва — область, и вместо предполагаемого мото для теплых покатушек фактически стал повседневным мото на конец сезона 2020.<br/>
+Вот собственно, сам Пепелац, грустит ожидая весну (свежее фото для зрибельности повествования):<br/>
+<br/>
+<div style="text-align: center;"><img src="https://i114.fastpic.ru/big/2021/0227/fc/8228c46a5ac653b268d2f86e5d5f5bfc.jpg"/></div><br/>
+<br/>
+Сезон по асфальту у меня обычно завершается при устойчивом +3..+5. <br/>
+И тут открылась одна родовая проблема американца. Scout то он Скаут, но на +15С запускается всегда, на +10С очень иногда, а на +5С и ниже вообще никогда.<br/>
+Выходишь ты наработавшийся в осеннюю вечернюю прохладу, мучаешь стартер, заказываешь такси.<br/>
+При том свежий Айрон 1200 супруги делает это без проблем. Остальные мои карбюраторные мото тоже.
+							<br><br><a href="https://bikepost.ru/blog/93654/Obespechenie-ustojchivogo-zapuska-Indian-Scout-pri-nizkikh-temperaturakh.html#cut" title="Читать дальше">
+									Читать дальше
+								</a>
+						
+	</div>
+
+
+
+	<ul class="tags">
+					<li><a href="https://bikepost.ru/tag/Indian/">Indian</a>, </li>
+					<li><a href="https://bikepost.ru/tag/Scout/">Scout</a>, </li>
+					<li><a href="https://bikepost.ru/tag/ECM/">ECM</a>, </li>
+					<li><a href="https://bikepost.ru/tag/%D1%85%D0%BE%D0%BB%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9%20%D0%B7%D0%B0%D0%BF%D1%83%D1%81%D0%BA/">холодный запуск</a></li>
+			</ul>
+
+
+
+	<ul class="info">
+		<li class="panel username"><a href="https://bikepost.ru/profile/Terrano/"><img src="https://bikepost.ru/uploads/images/02/31/42/2017/01/30/avatar_16x16.jpg?123645" alt="Terrano" />Terrano</a></li>
+					<li class="panel">Андрей</li>
+				<li class="panel">27 февраля  в 12:36</li>
+					<li class="panel comments-link">
+									<a href="https://bikepost.ru/blog/93654/Obespechenie-ustojchivogo-zapuska-Indian-Scout-pri-nizkikh-temperaturakh.html#comments" title="читать комментарии"><span class="red">48 комментариев</span></a>
+							</li>
+				<li class="panel">
+			<a href="#" onclick="return ls.favourite.toggle(93654,this,'topic');" class="favourite "></a>
+							<span class="favourite-count" id="fav_count_topic_93654" title="Количество пользователей, добавивших пост в избранное">2</span>
+					</li>
+
+		<li id="vote_area_topic_93654" class="voting  guest">
+							<a class="minus" href="https://bikepost.ru/login/"></a>
+			
+				<span id="vote_total_topic_93654" class="total" title="всего проголосовало: 34"> ? </span>
+
+							<a class="plus" href="https://bikepost.ru/login/"></a>
+					</li>
+
+		
+
+				</ul>
+	</div>
+
+
+		
+					
+
+<div class="topic">
+	<h2 class="title">
+					<a href="https://bikepost.ru/blog/travel/" class="title-blog">Путешествия</a><span>&nbsp;&rarr;</span>
+											<a href="https://bikepost.ru/blog/travel/93648/V-Krym-na-Izhe-Step-torsion-Sevastopol.html" class="title-topic">В Крым на Иже. Степь, торсион, Севастополь!)</a>
+			</h2>
+
+	<div class="info-top">
+											<span class="actions">
+        
+				
+		</span>
+	</div>
+
+	<div class="content">
+	
+					Немножко о борьбе троицы с торсионом и степной крымской жарой. Свадебное путешествие на Иже продолжается. Под катом — традиционно текстовый рассказ, и фотографии (под катом!) :-)<br/>
+<br/>
+<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/Lo_uHh5Y-u4" allowfullscreen="allowfullscreen"></iframe></div><br/>
+<br/>
+
+							<br><br><a href="https://bikepost.ru/blog/travel/93648/V-Krym-na-Izhe-Step-torsion-Sevastopol.html#cut" title="Читать дальше">
+									Читать дальше
+								</a>
+						
+	</div>
+
+
+
+	<ul class="tags">
+					<li><a href="https://bikepost.ru/tag/%D0%BF%D1%83%D1%82%D0%B5%D1%88%D0%B5%D1%81%D1%82%D0%B2%D0%B8%D0%B5/">путешествие</a>, </li>
+					<li><a href="https://bikepost.ru/tag/%D0%98%D0%B6/">Иж</a>, </li>
+					<li><a href="https://bikepost.ru/tag/%D0%98%D0%B6%20%D0%AE%D0%BF%D0%B8%D1%82%D0%B5%D1%80%202/">Иж Юпитер 2</a>, </li>
+					<li><a href="https://bikepost.ru/tag/%D0%AE%D0%BF%D0%B8%D1%82%D0%B5%D1%80/">Юпитер</a>, </li>
+					<li><a href="https://bikepost.ru/tag/%D1%81%20%D0%BA%D0%BE%D0%BB%D1%8F%D1%81%D0%BA%D0%BE%D0%B9/">с коляской</a>, </li>
+					<li><a href="https://bikepost.ru/tag/%D0%98%D0%B6%D0%B5%D0%B2%D1%81%D0%BA/">Ижевск</a>, </li>
+					<li><a href="https://bikepost.ru/tag/%D0%9A%D1%80%D1%8B%D0%BC/">Крым</a>, </li>
+					<li><a href="https://bikepost.ru/tag/%D1%81%D0%B2%D0%B0%D0%B4%D0%B5%D0%B1%D0%BD%D0%BE%D0%B5%20%D0%BF%D1%83%D1%82%D0%B5%D1%88%D0%B5%D1%81%D1%82%D0%B2%D0%B8%D0%B5/">свадебное путешествие</a>, </li>
+					<li><a href="https://bikepost.ru/tag/%D0%BD%D0%B0%20%D0%98%D0%B6%D0%B5/">на Иже</a>, </li>
+					<li><a href="https://bikepost.ru/tag/%D0%B1%D0%B5%D0%BB%D1%8B%D0%B9%20%D1%8E%D0%BF%D0%B8%D1%82%D0%B5%D1%80/">белый юпитер</a>, </li>
+					<li><a href="https://bikepost.ru/tag/%D0%B1%D0%B5%D0%BB%D1%8B%D0%B9%20%D0%B8%D0%B6%D0%B0%D0%BA/">белый ижак</a>, </li>
+					<li><a href="https://bikepost.ru/tag/%D0%BA%D0%BE%D0%BB%D1%8F%D1%81%D1%8B%D1%87/">колясыч</a>, </li>
+					<li><a href="https://bikepost.ru/tag/%D1%82%D0%BE%D1%80%D1%81%D0%B8%D0%BE%D0%BD/">торсион</a>, </li>
+					<li><a href="https://bikepost.ru/tag/%D0%A2%D0%B0%D1%80%D1%85%D0%B0%D0%BD%D0%BA%D1%83%D1%82/">Тарханкут</a></li>
+			</ul>
+
+
+
+	<ul class="info">
+		<li class="panel username"><a href="https://bikepost.ru/profile/Kirilllen/"><img src="https://bikepost.ru/uploads/images/04/41/65/2017/01/25/avatar_16x16.jpg?001124" alt="Kirilllen" />Kirilllen</a></li>
+					<li class="panel">Кирилл</li>
+				<li class="panel">26 февраля  в 15:13</li>
+					<li class="panel comments-link">
+									<a href="https://bikepost.ru/blog/travel/93648/V-Krym-na-Izhe-Step-torsion-Sevastopol.html#comments" title="читать комментарии"><span class="red">14 комментариев</span></a>
+							</li>
+				<li class="panel">
+			<a href="#" onclick="return ls.favourite.toggle(93648,this,'topic');" class="favourite "></a>
+					</li>
+
+		<li id="vote_area_topic_93648" class="voting  guest">
+							<a class="minus" href="https://bikepost.ru/login/"></a>
+			
+				<span id="vote_total_topic_93648" class="total" title="всего проголосовало: 20"> ? </span>
+
+							<a class="plus" href="https://bikepost.ru/login/"></a>
+					</li>
+
+		
+
+				</ul>
+	</div>
+
+
+		
+					
+
+<div class="topic">
+	<h2 class="title">
+					<a href="https://bikepost.ru/blog/moto_guzzi/" class="title-blog">Moto Guzzi</a><span>&nbsp;&rarr;</span>
+											<a href="https://bikepost.ru/blog/moto_guzzi/93645/YUbilejnyj-mototsikl-Moto-Guzzi-V7-Stone-100th-Anniversary-2021.html" class="title-topic">Юбилейный мотоцикл Moto Guzzi V7 Stone 100th Anniversary 2021</a>
+			</h2>
+
+	<div class="info-top">
+											<span class="actions">
+        
+				
+		</span>
+	</div>
+
+	<div class="content">
+	
+					<div style="text-align: center;"><img src="https://sun9-4.userapi.com/impg/aOEtkrC7nYBQnDRzSl93ToHGW4fHFOmK6L_lPw/2yhP40CikHU.jpg?size=1000x666&quality=96&sign=344dc66292833a3d2a168a0236bffb2e&c_uniq_tag=GKMqDNQIz_mrD3rlJTqgJntrkv1shoU3dUqAdUgys_A&type=album" alt="Юбилейный мотоцикл Moto Guzzi V7 Stone 100th Anniversary 2021"/></div><br/>
+В декабре мы писали об обновленной линейке <a href="https://bikepost.ru/blog/moto_guzzi/92963/Modelnyj-rjad-Moto-Guzzi-V7-2021-poluchil-neobkhodimye-obnovlenija.html">Moto Guzzi V7</a>. Главным изменением стал увеличенный в объеме 853-кубовый двигатель, сделанный на базе V85 TT. Итальянский мотозавод теперь анонсировал юбилейную версию Moto Guzzi V7 Stone 100th Anniversary, чтобы отпраздновать свой столетний юбилей в мотобизнесе! 
+							<br><br><a href="https://bikepost.ru/blog/moto_guzzi/93645/YUbilejnyj-mototsikl-Moto-Guzzi-V7-Stone-100th-Anniversary-2021.html#cut" title="Читать дальше">
+									Читать дальше
+								</a>
+						
+	</div>
+
+
+
+	<ul class="tags">
+					<li><a href="https://bikepost.ru/tag/%D1%8E%D0%B1%D0%B8%D0%BB%D0%B5%D0%B9%D0%BD%D1%8B%D0%B9%20%D0%BC%D0%BE%D1%82%D0%BE%D1%86%D0%B8%D0%BA%D0%BB/">юбилейный мотоцикл</a>, </li>
+					<li><a href="https://bikepost.ru/tag/%D0%BC%D0%BE%D1%82%D0%BE%D1%86%D0%B8%D0%BA%D0%BB/">мотоцикл</a>, </li>
+					<li><a href="https://bikepost.ru/tag/Moto%20Guzzi%20V7%20Stone/">Moto Guzzi V7 Stone</a>, </li>
+					<li><a href="https://bikepost.ru/tag/100th%20Anniversary/">100th Anniversary</a>, </li>
+					<li><a href="https://bikepost.ru/tag/2021/">2021</a>, </li>
+					<li><a href="https://bikepost.ru/tag/Moto%20Guzzi/">Moto Guzzi</a>, </li>
+					<li><a href="https://bikepost.ru/tag/V7%20Stone/">V7 Stone</a></li>
+			</ul>
+
+
+
+	<ul class="info">
+		<li class="panel username"><a href="https://bikepost.ru/profile/kim/"><img src="https://bikepost.ru/uploads/images/00/00/02/2018/05/14/avatar_16x16.jpg?234326" alt="kim" />kim</a></li>
+					<li class="panel">Ким</li>
+				<li class="panel">26 февраля  в 8:24</li>
+					<li class="panel comments-link">
+									<a href="https://bikepost.ru/blog/moto_guzzi/93645/YUbilejnyj-mototsikl-Moto-Guzzi-V7-Stone-100th-Anniversary-2021.html#comments" title="читать комментарии"><span class="red">7 комментариев</span></a>
+							</li>
+				<li class="panel">
+			<a href="#" onclick="return ls.favourite.toggle(93645,this,'topic');" class="favourite "></a>
+					</li>
+
+		<li id="vote_area_topic_93645" class="voting  guest">
+							<a class="minus" href="https://bikepost.ru/login/"></a>
+			
+				<span id="vote_total_topic_93645" class="total" title="всего проголосовало: 13"> ? </span>
+
+							<a class="plus" href="https://bikepost.ru/login/"></a>
+					</li>
+
+		
+
+				</ul>
+	</div>
+
+
+		
+					
+
+<div class="topic">
+	<h2 class="title">
+				
+            <a href="https://bikepost.ru/my/Talion/garage/31999/BMW-F650GS-2001/" class="title-blog">BMW F650GS 2001</a><span>&nbsp;&rarr;</span>
+											<a href="https://bikepost.ru/blog/93643/Narashivanie-i-peretjazhka-sedla-BMW-F650GS.html" class="title-topic">Наращивание и перетяжка седла BMW F650GS</a>
+			</h2>
+
+	<div class="info-top">
+	
+        <a class="title-blog" href="https://bikepost.ru/my/Talion/garage/31999/BMW-F650GS-2001/journal/">Стайлинг и тюнинг</a>
+											<span class="actions">
+        
+						</span>
+	</div>
+
+
+	<div class="content">
+	
+					Всем привет!<br/>
+<br/>
+Как тут верно заметили в комментариях к посту о знакомстве, мотоцикл по седлу низкий и очень хорошо подходит низкорослым райдерам. Мне же с моим ростом 182 малость не комфортно, поэтому погуглив был выработан план доработок: 1.нарастить седло, 2.поставить проставки под руль, 3.немного опустить подножки. Сегодня будем наращивать седло, поехали.
+							<br><br><a href="https://bikepost.ru/blog/93643/Narashivanie-i-peretjazhka-sedla-BMW-F650GS.html#cut" title="Читать дальше">
+									Читать дальше
+								</a>
+						
+	</div>
+
+
+
+	<ul class="tags">
+					<li><a href="https://bikepost.ru/tag/%D0%BF%D0%B5%D1%80%D0%B5%D1%82%D1%8F%D0%B6%D0%BA%D0%B0%20%D1%81%D0%B5%D0%B4%D0%BB%D0%B0/">перетяжка седла</a>, </li>
+					<li><a href="https://bikepost.ru/tag/%D0%BD%D0%B0%D1%80%D0%B0%D1%89%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%81%D0%B5%D0%B4%D0%BB%D0%B0/">наращивание седла</a>, </li>
+					<li><a href="https://bikepost.ru/tag/%D0%BF%D0%B5%D1%80%D0%B5%D1%82%D1%8F%D0%B6%D0%BA%D0%B0/">перетяжка</a>, </li>
+					<li><a href="https://bikepost.ru/tag/%D0%BF%D0%B5%D1%80%D0%B5%D1%82%D1%8F%D0%B6%D0%BA%D0%B0%20%D1%81%D0%B2%D0%BE%D0%B8%D0%BC%D0%B8%20%D1%80%D1%83%D0%BA%D0%B0%D0%BC%D0%B8/">перетяжка своими руками</a>, </li>
+					<li><a href="https://bikepost.ru/tag/3d%20%D1%81%D0%B5%D1%82%D0%BA%D0%B0/">3d сетка</a></li>
+			</ul>
+
+
+
+	<ul class="info">
+		<li class="panel username"><a href="https://bikepost.ru/profile/Talion/"><img src="https://bikepost.ru/templates/skin/bikepost/images/avatar_16x16.jpg" alt="Talion" />Talion</a></li>
+					<li class="panel">Александр</li>
+				<li class="panel">26 февраля  в 5:08</li>
+					<li class="panel comments-link">
+									<a href="https://bikepost.ru/blog/93643/Narashivanie-i-peretjazhka-sedla-BMW-F650GS.html#comments" title="читать комментарии"><span class="red">7 комментариев</span></a>
+							</li>
+				<li class="panel">
+			<a href="#" onclick="return ls.favourite.toggle(93643,this,'topic');" class="favourite "></a>
+							<span class="favourite-count" id="fav_count_topic_93643" title="Количество пользователей, добавивших пост в избранное">1</span>
+					</li>
+
+		<li id="vote_area_topic_93643" class="voting  guest">
+							<a class="minus" href="https://bikepost.ru/login/"></a>
+			
+				<span id="vote_total_topic_93643" class="total" title="всего проголосовало: 14"> ? </span>
+
+							<a class="plus" href="https://bikepost.ru/login/"></a>
+					</li>
+
+		
+
+				</ul>
+	</div>
+
+
+		
+					
+
+<div class="topic">
+	<h2 class="title">
+					<a href="https://bikepost.ru/my/bezvesti_pro/" class="title-blog">Блог им. bezvesti_pro</a><span>&nbsp;&rarr;</span>
+											<a href="https://bikepost.ru/blog/93642/Kontrolnaja-karta-proverki-mototsikla.html" class="title-topic">Контрольная карта проверки мотоцикла</a>
+			</h2>
+
+	<div class="info-top">
+											<span class="actions">
+        
+				
+		</span>
+	</div>
+
+	<div class="content">
+	
+					Ола, амигос!<br/>
+<br/>
+<img src="https://i.postimg.cc/85c0qVLM/IMG-33981.jpg"/><br/>
+<br/>
+Я тут ненароком, пользуясь опытом западных товарищей, замутил контрольную карту, или же, как нынче говорят, чеклист проверки мотоцикла.<br/>
+Долго крутил вертел и думал как так назвать, чтобы была легко запоминающаяся аббревиатура, как у модных буржуев, в итоге, смеху ради, создал «ПУСК-МЖ». А что, вроде легко запомнить.<br/>
+Расшифровывается так: П-Подножки, У-Управление, С-Свет, К-Колеса, М-Масла, Ж-Железо.<br/>
+Спору нет, название спорное, если у кого будут предложения получше я всегда готов обсудить.<br/>
+
+							<br><br><a href="https://bikepost.ru/blog/93642/Kontrolnaja-karta-proverki-mototsikla.html#cut" title="Читать дальше">
+									Читать дальше
+								</a>
+						
+	</div>
+
+
+
+	<ul class="tags">
+					<li><a href="https://bikepost.ru/tag/%D1%80%D0%B5%D0%BC%D0%BE%D0%BD%D1%82/">ремонт</a>, </li>
+					<li><a href="https://bikepost.ru/tag/%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D1%8B/">технические вопросы</a>, </li>
+					<li><a href="https://bikepost.ru/tag/%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5%20%D0%BE%D0%B1%D1%81%D0%BB%D1%83%D0%B6%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/">техническое обслуживание</a>, </li>
+					<li><a href="https://bikepost.ru/tag/%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BE%D1%81%D0%BC%D0%BE%D1%82%D1%80/">технический осмотр</a>, </li>
+					<li><a href="https://bikepost.ru/tag/%D0%BF%D0%BE%D0%BB%D0%BE%D0%BC%D0%BA%D0%B0/">поломка</a>, </li>
+					<li><a href="https://bikepost.ru/tag/%D0%BF%D0%BE%D0%BB%D0%BE%D0%BC%D0%BA%D0%B0%20%D0%B2%20%D0%B4%D0%BE%D1%80%D0%BE%D0%B3%D0%B5/">поломка в дороге</a>, </li>
+					<li><a href="https://bikepost.ru/tag/%D0%BF%D0%BE%D0%BB%D0%BE%D0%BC%D0%BA%D0%B8%20%D0%B8%20%D1%80%D0%B5%D0%BC%D0%BE%D0%BD%D1%82/">поломки и ремонт</a></li>
+			</ul>
+
+
+
+	<ul class="info">
+		<li class="panel username"><a href="https://bikepost.ru/profile/bezvesti_pro/"><img src="https://bikepost.ru/uploads/images/05/30/59/2019/02/15/avatar_16x16.jpg?225149" alt="bezvesti_pro" />bezvesti_pro</a></li>
+					<li class="panel">Денис</li>
+				<li class="panel">26 февраля  в 0:34</li>
+					<li class="panel comments-link">
+									<a href="https://bikepost.ru/blog/93642/Kontrolnaja-karta-proverki-mototsikla.html#comments" title="читать комментарии"><span class="red">17 комментариев</span></a>
+							</li>
+				<li class="panel">
+			<a href="#" onclick="return ls.favourite.toggle(93642,this,'topic');" class="favourite "></a>
+							<span class="favourite-count" id="fav_count_topic_93642" title="Количество пользователей, добавивших пост в избранное">1</span>
+					</li>
+
+		<li id="vote_area_topic_93642" class="voting  guest">
+							<a class="minus" href="https://bikepost.ru/login/"></a>
+			
+				<span id="vote_total_topic_93642" class="total" title="всего проголосовало: 12"> ? </span>
+
+							<a class="plus" href="https://bikepost.ru/login/"></a>
+					</li>
+
+		
+
+				</ul>
+	</div>
+
+
+		
+					
+
+<div class="topic">
+	<h2 class="title">
+					<a href="https://bikepost.ru/my/arahmid/" class="title-blog">Блог им. arahmid</a><span>&nbsp;&rarr;</span>
+											<a href="https://bikepost.ru/blog/93638/Vkhod-v-motozhizn.html" class="title-topic">Вход в мотожизнь</a>
+			</h2>
+
+	<div class="info-top">
+											<span class="actions">
+        
+				
+		</span>
+	</div>
+
+	<div class="content">
+	
+					<div style="text-align: center;"><img src="https://sun9-46.userapi.com/impf/AuQ18gFMpdBFBBakmz85g1w8fxz7_fnv5QRYvw/s1vtARzeM5E.jpg?size=466x609&quality=96&sign=f0307ea16f00d0bc4cd51af041a02ea1&type=album"/></div><br/>
+5 лет, как я в мото, решил поделиться с вами своей историей.<br/>
+2016 год, решил, пора. Пошел записываться в автошколу на категорию А, попутно просматривая авито. Хотя нет, история началась еще раньше. <br/>
+
+							<br><br><a href="https://bikepost.ru/blog/93638/Vkhod-v-motozhizn.html#cut" title="Читать дальше">
+									Читать дальше
+								</a>
+						
+	</div>
+
+
+
+	<ul class="tags">
+					<li><a href="https://bikepost.ru/tag/%D0%BD%D0%BE%D0%B2%D0%B8%D1%87%D0%BE%D0%BA/">новичок</a></li>
+			</ul>
+
+
+
+	<ul class="info">
+		<li class="panel username"><a href="https://bikepost.ru/profile/arahmid/"><img src="https://bikepost.ru/uploads/images/04/51/05/2017/03/14/avatar_16x16.jpg?120139" alt="arahmid" />arahmid</a></li>
+					<li class="panel">Сергей</li>
+				<li class="panel">25 февраля  в 19:44</li>
+					<li class="panel comments-link">
+									<a href="https://bikepost.ru/blog/93638/Vkhod-v-motozhizn.html#comments" title="читать комментарии"><span class="red">20 комментариев</span></a>
+							</li>
+				<li class="panel">
+			<a href="#" onclick="return ls.favourite.toggle(93638,this,'topic');" class="favourite "></a>
+					</li>
+
+		<li id="vote_area_topic_93638" class="voting  guest">
+							<a class="minus" href="https://bikepost.ru/login/"></a>
+			
+				<span id="vote_total_topic_93638" class="total" title="всего проголосовало: 37"> ? </span>
+
+							<a class="plus" href="https://bikepost.ru/login/"></a>
+					</li>
+
+		
+
+				</ul>
+	</div>
+
+
+		
+	
+
+	
+
+		
+
+			<div style="text-align: center; display: block; margin: 10px auto;">
+				
+					<!-- Yandex.RTB R-A-52282-2 -->
+					<div id="yandex_rtb_R-A-52282-2" style="display: inline-block;"></div>
+					<script type="text/javascript">
+					    (function(w, d, n, s, t) {
+					        w[n] = w[n] || [];
+					        w[n].push(function() {
+					            Ya.Context.AdvManager.render({
+					                blockId: "R-A-52282-2",
+					                renderTo: "yandex_rtb_R-A-52282-2",
+					                async: true
+					            });
+					        });
+					        t = d.getElementsByTagName("script")[0];
+					        s = d.createElement("script");
+					        s.type = "text/javascript";
+					        s.src = "//an.yandex.ru/system/context.js";
+					        s.async = true;
+					        t.parentNode.insertBefore(s, t);
+					    })(this, this.document, "yandexContextAsyncCallbacks");
+					</script>
+				
+			</div>
+
+	
+
+
+
+		 
+			<div class="pagination">
+				<p>
+					&larr;				
+					    					предыдущая
+    				    				&nbsp; &nbsp;
+    				    					<a href="https://bikepost.ru/index/page2/">следующая</a>
+    									&rarr;
+				</p>
+				<ul>	
+					
+											                                                            <li class="active">1</li>
+                                            <li><a href="https://bikepost.ru/index/page2/">2</a></li>
+                                            <li><a href="https://bikepost.ru/index/page3/">3</a></li>
+                                            <li><a href="https://bikepost.ru/index/page4/">4</a></li>
+                                            <li><a href="https://bikepost.ru/index/page5/">5</a></li>
+                                            <li><a href="https://bikepost.ru/index/page6/">6</a></li>
+                                            <li><a href="https://bikepost.ru/index/page7/">7</a></li>
+                                            <li><a href="https://bikepost.ru/index/page8/">8</a></li>
+                                            <li><a href="https://bikepost.ru/index/page9/">9</a></li>
+                                        													<li> ... <a href="https://bikepost.ru/index/page4079/">4079</a></li>
+														
+				</ul>
+			</div>
+	
+
+			
+
+			</div><!-- /content-inner -->
+		</div><!-- /content -->
+
+					<div id="sidebar">
+													
+<div style="display: block; width: 300px; text-align: center; margin: 0 auto 20px auto;">
+
+	<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<ins class="adsbygoogle"
+	     style="display:block"
+	     data-ad-client="ca-pub-1244918401902991"
+	     data-ad-slot="1561053672"
+	     data-ad-format="auto"
+	     data-full-width-responsive="true"></ins>
+	<script>
+	     (adsbygoogle = window.adsbygoogle || []).push({});
+	</script>
+
+</div>
+
+
+
+
+												<div class="block stream" id="block_stream">
+	
+	<ul class="switcher">
+		<li id="block_stream_item_comment" class="active">Комментарии</li>
+		
+				
+	</ul>
+
+
+	<div class="block-content" id="block_stream_content">
+		<ul class="list">
+							
+		<li class="even">
+			<img src="https://bikepost.ru/uploads/images/05/89/02/2020/07/10/avatar_32x32.jpg?221343" width="32px" height="32px" class="avatar" alt="NikitosZs" />
+			<span class="stream-comment-icon"></span>
+			<span> 2</span>
+			<a href="https://bikepost.ru/profile/NikitosZs/" class="user">NikitosZs</a> &rarr;
+			<a href="https://bikepost.ru/blog/93682/Pokrasil-IZH-P5.html#comment1975526" class="topic-title">Покрасил ИЖ П5</a>
+			/
+			<a href="https://bikepost.ru/my/NikitosZs/garage/31305/IZH-Planeta-5-1995/journal/" class="blog-title">ИЖ Планета-5 1995</a>
+		</li>
+							
+		<li >
+			<img src="https://bikepost.ru/uploads/images/05/51/53/2020/03/17/avatar_32x32.jpg?100233" width="32px" height="32px" class="avatar" alt="R-1200R" />
+			<span class="stream-comment-icon"></span>
+			<span> 45</span>
+			<a href="https://bikepost.ru/profile/R-1200R/" class="user">R-1200R</a> &rarr;
+			<a href="https://bikepost.ru/blog/93677/Zapis-n1-postuplenie-osmotr-pervye-vpechatlenija.html#comment1975524" class="topic-title">Запись №1: поступление, осмотр, первые впечатления</a>
+			/
+			<a href="https://bikepost.ru/my/Geniusrb/garage/32042/BMW-R1100R-1999/journal/" class="blog-title">BMW R1100R 1999</a>
+		</li>
+							
+		<li class="even">
+			<img src="https://bikepost.ru/templates/skin/bikepost/images/avatar_32x32.jpg" width="32px" height="32px" class="avatar" alt="akaretin" />
+			<span class="stream-comment-icon"></span>
+			<span> 8</span>
+			<a href="https://bikepost.ru/profile/akaretin/" class="user">akaretin</a> &rarr;
+			<a href="https://bikepost.ru/blog/travel/93183/Odnazhdy-teplym-letnim-dnem-goda-Z0Z0-chast-2-bez-shok-kontenta.html#comment1975518" class="topic-title">Однажды теплым летним днем  года Z0Z0  часть 2. без шок-контента</a>
+			/
+			<a href="https://bikepost.ru/blog/travel/" class="blog-title">Путешествия</a>
+		</li>
+							
+		<li >
+			<img src="https://bikepost.ru/uploads/images/05/88/55/2020/05/25/avatar_32x32.jpg?110117" width="32px" height="32px" class="avatar" alt="SquallTemnov" />
+			<span class="stream-comment-icon"></span>
+			<span> 3</span>
+			<a href="https://bikepost.ru/profile/SquallTemnov/" class="user">SquallTemnov</a> &rarr;
+			<a href="https://bikepost.ru/blog/kawasaki/93666/SHpionskie-foto-Kawasaki-H2-SX.html#comment1975515" class="topic-title">Шпионские фото Kawasaki H2 SX</a>
+			/
+			<a href="https://bikepost.ru/blog/kawasaki/" class="blog-title">Kawasaki</a>
+		</li>
+							
+		<li class="even">
+			<img src="https://bikepost.ru/uploads/images/04/09/39/2016/07/26/avatar_32x32.jpg?111926" width="32px" height="32px" class="avatar" alt="TimUsachev" />
+			<span class="stream-comment-icon"></span>
+			<span> 77</span>
+			<a href="https://bikepost.ru/profile/TimUsachev/" class="user">TimUsachev</a> &rarr;
+			<a href="https://bikepost.ru/blog/harley-davidson/93614/Motor-Harley-Davidson-Revolution-Max.html#comment1975512" class="topic-title">Мотор Harley-Davidson Revolution Max</a>
+			/
+			<a href="https://bikepost.ru/blog/harley-davidson/" class="blog-title">Harley-Davidson</a>
+		</li>
+							
+		<li >
+			<img src="https://bikepost.ru/uploads/images/04/95/26/2019/05/24/avatar_32x32.jpg?162353" width="32px" height="32px" class="avatar" alt="B-twin" />
+			<span class="stream-comment-icon"></span>
+			<span> 1</span>
+			<a href="https://bikepost.ru/profile/B-twin/" class="user">B-twin</a> &rarr;
+			<a href="https://bikepost.ru/blog/93671/Enduro-surovoe-sado-mazo-video.html#comment1975509" class="topic-title">Эндуро - суровое садо мазо видео</a>
+			/
+			<a href="https://bikepost.ru/my/John_N/" class="blog-title">Блог им. John_N</a>
+		</li>
+							
+		<li class="even">
+			<img src="https://bikepost.ru/uploads/images/03/30/54/2020/02/28/avatar_32x32.png?235152" width="32px" height="32px" class="avatar" alt="kislorodin" />
+			<span class="stream-comment-icon"></span>
+			<span> 34</span>
+			<a href="https://bikepost.ru/profile/kislorodin/" class="user">kislorodin</a> &rarr;
+			<a href="https://bikepost.ru/blog/93670/Afrika-2020-PRODOLZHENIE-Planeta-Kongo-CHast-03.html#comment1975507" class="topic-title">Африка 2020 (ПРОДОЛЖЕНИЕ). Планета Конго. Часть 03</a>
+			/
+			<a href="https://bikepost.ru/my/SLON_RUS/" class="blog-title">Блог им. SLON_RUS</a>
+		</li>
+							
+		<li >
+			<img src="https://bikepost.ru/templates/skin/bikepost/images/avatar_32x32.jpg" width="32px" height="32px" class="avatar" alt="Vladimir_IL" />
+			<span class="stream-comment-icon"></span>
+			<span> 107</span>
+			<a href="https://bikepost.ru/profile/Vladimir_IL/" class="user">Vladimir_IL</a> &rarr;
+			<a href="https://bikepost.ru/blog/93676/Iz-Moskvy-v-Indiju-na-mototsikle-Pakistan-Glava-12-Atatat-prodolzhaetsja.html#comment1975506" class="topic-title">Из Москвы в Индию на мотоцикле. Пакистан. Глава 12. Ататат продолжается</a>
+			/
+			<a href="https://bikepost.ru/my/Verona432/" class="blog-title">Блог им. Verona432</a>
+		</li>
+							
+		<li class="even">
+			<img src="https://bikepost.ru/uploads/images/02/65/98/2015/08/19/avatar_32x32.png?120818" width="32px" height="32px" class="avatar" alt="den74" />
+			<span class="stream-comment-icon"></span>
+			<span> 16</span>
+			<a href="https://bikepost.ru/profile/den74/" class="user">den74</a> &rarr;
+			<a href="https://bikepost.ru/blog/93667/Brendozavisimoe-serdtse.html#comment1975500" class="topic-title">Брендозависимое сердце</a>
+			/
+			<a href="https://bikepost.ru/my/rury/" class="blog-title">Блог им. rury</a>
+		</li>
+							
+		<li >
+			<img src="https://bikepost.ru/uploads/images/00/56/71/2017/12/26/avatar_32x32.jpg?001836" width="32px" height="32px" class="avatar" alt="mirage" />
+			<span class="stream-comment-icon"></span>
+			<span> 36</span>
+			<a href="https://bikepost.ru/profile/mirage/" class="user">mirage</a> &rarr;
+			<a href="https://bikepost.ru/blog/honda/93657/Kompanija-Honda-zaregistrirovala-torgovyj-znak-Transalp.html#comment1975491" class="topic-title">Компания Honda зарегистрировала торговый знак Transalp</a>
+			/
+			<a href="https://bikepost.ru/blog/honda/" class="blog-title">Honda</a>
+		</li>
+							
+		<li class="even">
+			<img src="https://bikepost.ru/uploads/images/02/31/42/2017/01/30/avatar_32x32.jpg?123645" width="32px" height="32px" class="avatar" alt="Terrano" />
+			<span class="stream-comment-icon"></span>
+			<span> 48</span>
+			<a href="https://bikepost.ru/profile/Terrano/" class="user">Terrano</a> &rarr;
+			<a href="https://bikepost.ru/blog/93654/Obespechenie-ustojchivogo-zapuska-Indian-Scout-pri-nizkikh-temperaturakh.html#comment1975490" class="topic-title">Обеспечение устойчивого запуска Indian Scout  при низких температурах.</a>
+			/
+			<a href="https://bikepost.ru/my/Terrano/garage/31351/Indian-Scout-2019/journal/" class="blog-title">Indian Scout 2019</a>
+		</li>
+							
+		<li >
+			<img src="https://bikepost.ru/uploads/images/02/65/98/2015/08/19/avatar_32x32.png?120818" width="32px" height="32px" class="avatar" alt="den74" />
+			<span class="stream-comment-icon"></span>
+			<span> 5</span>
+			<a href="https://bikepost.ru/profile/den74/" class="user">den74</a> &rarr;
+			<a href="https://bikepost.ru/blog/video/93662/Turbo-Alfa-Polnyj-Proval-Zamer-Maksimalki.html#comment1975476" class="topic-title">Турбо Альфа - Полный Провал? Замер Максималки</a>
+			/
+			<a href="https://bikepost.ru/blog/video/" class="blog-title">Видеоролики</a>
+		</li>
+							
+		<li class="even">
+			<img src="https://bikepost.ru/uploads/images/03/84/60/2018/04/06/avatar_32x32.jpg?191444" width="32px" height="32px" class="avatar" alt="VladXT660" />
+			<span class="stream-comment-icon"></span>
+			<span> 11</span>
+			<a href="https://bikepost.ru/profile/VladXT660/" class="user">VladXT660</a> &rarr;
+			<a href="https://bikepost.ru/blog/travel/93672/Komendant--RALLI-2021.html#comment1975472" class="topic-title">Komendant — РАЛЛИ 2021</a>
+			/
+			<a href="https://bikepost.ru/blog/travel/" class="blog-title">Путешествия</a>
+		</li>
+							
+		<li >
+			<img src="https://bikepost.ru/uploads/images/05/80/20/2019/11/11/avatar_32x32.jpg?164445" width="32px" height="32px" class="avatar" alt="Spaun" />
+			<span class="stream-comment-icon"></span>
+			<span> 14</span>
+			<a href="https://bikepost.ru/profile/Spaun/" class="user">Spaun</a> &rarr;
+			<a href="https://bikepost.ru/blog/93664/O-spontannostjakh-metamorfozakh-i-ljubvi.html#comment1975433" class="topic-title">О спонтанностях, метаморфозах и любви</a>
+			/
+			<a href="https://bikepost.ru/my/Trubnik/" class="blog-title">Блог им. Trubnik</a>
+		</li>
+							
+		<li class="even">
+			<img src="https://bikepost.ru/uploads/images/05/32/33/2020/05/13/avatar_32x32.jpg?173125" width="32px" height="32px" class="avatar" alt="Kadet73" />
+			<span class="stream-comment-icon"></span>
+			<span> 84</span>
+			<a href="https://bikepost.ru/profile/Kadet73/" class="user">Kadet73</a> &rarr;
+			<a href="https://bikepost.ru/blog/ktm/93633/Obnovlennyj-turenduro-KTM-1290-Super-Adventure-R-2021.html#comment1975430" class="topic-title">Обновленный турэндуро KTM 1290 Super Adventure R 2021</a>
+			/
+			<a href="https://bikepost.ru/blog/ktm/" class="blog-title">KTM</a>
+		</li>
+							
+		<li >
+			<img src="https://bikepost.ru/templates/skin/bikepost/images/avatar_32x32.jpg" width="32px" height="32px" class="avatar" alt="Mpaccb" />
+			<span class="stream-comment-icon"></span>
+			<span> 1</span>
+			<a href="https://bikepost.ru/profile/Mpaccb/" class="user">Mpaccb</a> &rarr;
+			<a href="https://bikepost.ru/blog/93665/Motoshlemy-budushego.html#comment1975408" class="topic-title">Мотошлемы будущего</a>
+			/
+			<a href="https://bikepost.ru/my/Ride103/" class="blog-title">Блог им. Ride103</a>
+		</li>
+							
+		<li class="even">
+			<img src="https://bikepost.ru/uploads/images/06/21/30/2020/12/01/avatar_32x32.jpg?195442" width="32px" height="32px" class="avatar" alt="rus036" />
+			<span class="stream-comment-icon"></span>
+			<span> 34</span>
+			<a href="https://bikepost.ru/profile/rus036/" class="user">rus036</a> &rarr;
+			<a href="https://bikepost.ru/blog/93650/Podytogi-7-let-v-sedle.html#comment1975362" class="topic-title">Подытоги 7 лет в седле</a>
+			/
+			<a href="https://bikepost.ru/my/Marat74/" class="blog-title">Блог им. Marat74</a>
+		</li>
+							
+		<li >
+			<img src="https://bikepost.ru/uploads/images/05/87/12/2020/11/19/avatar_32x32.jpg?113931" width="32px" height="32px" class="avatar" alt="Marat74" />
+			<span class="stream-comment-icon"></span>
+			<span> 20</span>
+			<a href="https://bikepost.ru/profile/Marat74/" class="user">Marat74</a> &rarr;
+			<a href="https://bikepost.ru/blog/91018/Ne-odnoznachnye-mysli-A-tak-zhe-nemnogo-iz-svoego-opyta-i-tsitaty.html#comment1975354" class="topic-title">Не однозначные мысли. А так же немного из своего опыта и цитаты.</a>
+			/
+			<a href="https://bikepost.ru/my/Marat74/" class="blog-title">Блог им. Marat74</a>
+		</li>
+							
+		<li class="even">
+			<img src="https://bikepost.ru/uploads/images/02/92/32/2017/05/18/avatar_32x32.jpg?183810" width="32px" height="32px" class="avatar" alt="Zieben" />
+			<span class="stream-comment-icon"></span>
+			<span> 21</span>
+			<a href="https://bikepost.ru/profile/Zieben/" class="user">Zieben</a> &rarr;
+			<a href="https://bikepost.ru/blog/80019/otchet-NAVITEL-G550-MOTO--chast-I.html#comment1975348" class="topic-title">отчёт  NAVITEL G550 MOTO ( часть I )</a>
+			/
+			<a href="https://bikepost.ru/my/lucisferre/" class="blog-title">Блог им. lucisferre</a>
+		</li>
+							
+		<li >
+			<img src="https://bikepost.ru/templates/skin/bikepost/images/avatar_32x32.jpg" width="32px" height="32px" class="avatar" alt="S-I-L-V-E-R" />
+			<span class="stream-comment-icon"></span>
+			<span> 31</span>
+			<a href="https://bikepost.ru/profile/S-I-L-V-E-R/" class="user">S-I-L-V-E-R</a> &rarr;
+			<a href="https://bikepost.ru/blog/93542/Gotov-sani-letom-a-mototsikl-zastrakhuj-poka-eti-sobaki-eshe-chto-to-ne-pridumali.html#comment1975338" class="topic-title">Готовь сани летом, а мотоцикл застрахуй пока эти собаки ещё что-то не придумали...</a>
+			/
+			<a href="https://bikepost.ru/my/adivinus/" class="blog-title">Блог им. adivinus</a>
+		</li>
+	</ul>
+
+
+<div class="bottom">
+	<a href="https://bikepost.ru/comments/">Все комментарии</a> | <a href="https://bikepost.ru/rss/allcomments/">RSS комментариев</a>
+</div>
+
+	</div>
+</div>
+
+
+																		
+												
+
+<div class="block qablock">
+	<header class="block-header">
+		<h2>Последние вопросы</h2>
+	</header>
+
+	<div class="block-content">
+					<ul class="list">
+				
+
+					<li>
+
+
+						<a href="https://bikepost.ru/qa/post/16283/bajaj-pulsar-180-ili-ybr-125.html" class="topic-title">bajaj pulsar 180 или ybr 125?</a>
+						<span class="stream-comment-icon"></span><span>3</span>
+					</li>
+				
+
+					<li>
+
+
+						<a href="https://bikepost.ru/qa/post/16282/KHlopki-v-glushitel-pri-sbrose-gaza.html" class="topic-title">Хлопки в глушитель при сбросе газа.</a>
+						<span class="stream-comment-icon"></span><span>5</span>
+					</li>
+				
+
+					<li>
+
+
+						<a href="https://bikepost.ru/qa/post/16281/Problemy-s-priborkoj-na-Z1000-2003.html" class="topic-title">Проблемы с приборкой на Z1000 2003</a>
+						<span class="stream-comment-icon"></span><span>3</span>
+					</li>
+				
+
+					<li>
+
+
+						<a href="https://bikepost.ru/qa/post/16280/Razmer-vizora-agv-k5-i-k3sv.html" class="topic-title">Размер визора agv k5 и k3sv</a>
+						<span class="stream-comment-icon"></span><span>2</span>
+					</li>
+				
+
+					<li>
+
+
+						<a href="https://bikepost.ru/qa/post/16278/V-Strom-650-ili-NC750X.html" class="topic-title">V-Strom 650 или NC750X</a>
+						<span class="stream-comment-icon"></span><span>14</span>
+					</li>
+				
+
+					<li>
+
+
+						<a href="https://bikepost.ru/qa/post/16277/V-SHengen-letom-2021.html" class="topic-title">В Шенген летом 2021</a>
+						<span class="stream-comment-icon"></span><span>13</span>
+					</li>
+				
+
+					<li>
+
+
+						<a href="https://bikepost.ru/qa/post/16276/S-chego-nachat-posle-otkrytija-A-kategorii-SPB.html" class="topic-title">С чего начать после открытия А категории (СПБ)</a>
+						<span class="stream-comment-icon"></span><span>14</span>
+					</li>
+				
+
+					<li>
+
+
+						<a href="https://bikepost.ru/qa/post/16275/Punkt-17-pts-2021.html" class="topic-title">Пункт 17 птс 2021</a>
+						<span class="stream-comment-icon"></span><span>2</span>
+					</li>
+				
+
+					<li>
+
+
+						<a href="https://bikepost.ru/qa/post/16274/Da-poshto-mne-eti-kursy-kontravarijnogo-vozhdenija.html" class="topic-title">Да пошто мне эти курсы контраварийного вождения????</a>
+						<span class="stream-comment-icon"></span><span>14</span>
+					</li>
+				
+
+					<li>
+
+
+						<a href="https://bikepost.ru/qa/post/16273/Suzuki-bandit-600-zadnie-tormoznye-nakladki.html" class="topic-title">Сузуки бандит 600, задние тормозные накладки</a>
+						<span class="stream-comment-icon"></span><span>6</span>
+					</li>
+				
+
+					<li>
+
+
+						<a href="https://bikepost.ru/qa/post/16272/Strannaja-problema-Mozhet-kto-stalkivalsja.html" class="topic-title">Странная проблема. Может кто сталкивался?</a>
+						<span class="stream-comment-icon"></span><span>12</span>
+					</li>
+				
+
+					<li>
+
+
+						<a href="https://bikepost.ru/qa/post/16271/Korotkaja-ruchka-stseplenija_tormoza-Yamaha-r1-2005.html" class="topic-title">Короткая ручка сцепления/тормоза (Yamaha, r1, 2005)</a>
+						<span class="stream-comment-icon"></span><span>9</span>
+					</li>
+				
+
+					<li>
+
+
+						<a href="https://bikepost.ru/qa/post/16270/Problemy-s-nastrojkoj-khkh-kawasaki-w650.html" class="topic-title">Проблемы с настройкой хх kawasaki w650</a>
+						<span class="stream-comment-icon"></span><span>7</span>
+					</li>
+				
+
+					<li>
+
+
+						<a href="https://bikepost.ru/qa/post/16269/dvukhkomponentnaja-rezina.html" class="topic-title">двухкомпонентная резина</a>
+						<span class="stream-comment-icon"></span><span>4</span>
+					</li>
+				
+
+					<li>
+
+
+						<a href="https://bikepost.ru/qa/post/16268/Aprilia-Shiver-750-ili-TDM900.html" class="topic-title">Aprilia Shiver 750 или TDM900?</a>
+						<span class="stream-comment-icon"></span><span>7</span>
+					</li>
+				
+
+					<li>
+
+
+						<a href="https://bikepost.ru/qa/post/16267/Vashe-otnoshenie-k-zhiletam-s-air-bag.html" class="topic-title">Ваше отношение к жилетам с air-bag?</a>
+						<span class="stream-comment-icon"></span><span>19</span>
+					</li>
+				
+
+					<li>
+
+
+						<a href="https://bikepost.ru/qa/post/16266/Mitas-E-09-vs-Heidenau-K60-na-pered.html" class="topic-title">Mitas E-09 vs Heidenau K60 на перед?</a>
+						<span class="stream-comment-icon"></span><span>11</span>
+					</li>
+				
+
+					<li>
+
+
+						<a href="https://bikepost.ru/qa/post/16265/vybor-reziny-turist-asfalt-dozhd.html" class="topic-title">выбор резины (турист, асфальт, дождь)</a>
+						<span class="stream-comment-icon"></span><span>13</span>
+					</li>
+				
+
+					<li>
+
+
+						<a href="https://bikepost.ru/qa/post/16264/Isporchennyj-shlem.html" class="topic-title">Испорченный шлем</a>
+						<span class="stream-comment-icon"></span><span>10</span>
+					</li>
+				
+
+					<li>
+
+
+						<a href="https://bikepost.ru/qa/post/16263/Teplye-ruchki.html" class="topic-title">Теплые ручки.</a>
+						<span class="stream-comment-icon"></span><span>12</span>
+					</li>
+							</ul>
+			</div>
+	<div class="bottom">
+		<a href="https://bikepost.ru/qa/">Все вопросы</a>
+	</div>
+
+
+</div>
+
+
+
+
+
+
+																		
+												<div class="block bpevents">
+    <h2>Ближайшие события</h2>
+
+    <div class="events">
+	                    <div class="bpevent">
+                <div class="date">
+                    <div class="dayname">пт</div>
+                    <div class="day">02</div>
+                    <div class="month">апреля
+                        <div class="year"></div>
+                    </div>
+                </div>
+                    
+                <div class="title">
+                    <a href="https://bikepost.ru/events/774/vystavka-Motovesna-2021.html">выставка Мотовесна 2021</a>
+					<div class="region">Россия, Москва</div>
+                </div>
+            </div>
+                    <div class="bpevent">
+                <div class="date">
+                    <div class="dayname">пт</div>
+                    <div class="day">02</div>
+                    <div class="month">апреля
+                        <div class="year"></div>
+                    </div>
+                </div>
+                    
+                <div class="title">
+                    <a href="https://bikepost.ru/events/775/Motorsport-Expo-2021_Vystavka-gonochnoj-tekhniki-i-motornykh-vidov-sporta.html">Motorsport Expo 2021.Выставка гоночной техники и моторных видов спорта</a>
+					<div class="region">Россия, Москва</div>
+                </div>
+            </div>
+                    <div class="bpevent">
+                <div class="date">
+                    <div class="dayname">вт</div>
+                    <div class="day">13</div>
+                    <div class="month">июля
+                        <div class="year"></div>
+                    </div>
+                </div>
+                    
+                <div class="title">
+                    <a href="https://bikepost.ru/events/776/Komendant--RALLI.html">Komendant — РАЛЛИ</a>
+					<div class="region">Россия, Ставрополь</div>
+                </div>
+            </div>
+        	    </div>
+	<div class="bottom"> 
+		<a href="https://bikepost.ru/events/">все события</a> 
+	</div> 
+</div>
+
+																		
+												<div class="block blogs" id="block_blogs">
+	<ul class="switcher">
+		            <li id="block_blogs_item_top" class="active">ТОП 20 сообществ</li>
+			</ul>
+
+	<div class="block-content" id="block_blogs_content">
+					<ul class="list">
+	        <li>
+            <div class="total">
+                2233 
+                <span>+1</span>            </div>
+            <a href="https://bikepost.ru/blog/travel/" class="">
+                <img src="https://bikepost.ru/uploads/images/00/00/01/2010/01/16/avatar_blog_travel_24x24.jpg" class="blog" width="24px" height="24px" alt="" /> Путешествия
+            </a>
+        </li>
+	        <li>
+            <div class="total">
+                330 
+                            </div>
+            <a href="https://bikepost.ru/blog/garage/" class="">
+                <img src="https://bikepost.ru/uploads/images/00/00/01/2010/01/16/avatar_blog_garage_24x24.jpg" class="blog" width="24px" height="24px" alt="" /> Гараж
+            </a>
+        </li>
+	        <li>
+            <div class="total">
+                2058 
+                <span>+1</span>            </div>
+            <a href="https://bikepost.ru/blog/equipment/" class="">
+                <img src="https://bikepost.ru/uploads/images/00/00/02/2010/01/16/avatar_blog_equipment_24x24.jpg" class="blog" width="24px" height="24px" alt="" /> Экипировка
+            </a>
+        </li>
+	        <li>
+            <div class="total">
+                563 
+                            </div>
+            <a href="https://bikepost.ru/blog/moto-gadgets/" class="">
+                <img src="https://bikepost.ru/uploads/images/00/00/02/2010/01/16/avatar_blog_moto-gadgets_24x24.jpg" class="blog" width="24px" height="24px" alt="" /> Мото гаджеты
+            </a>
+        </li>
+	        <li>
+            <div class="total">
+                546 
+                            </div>
+            <a href="https://bikepost.ru/blog/motohumor/" class="">
+                <img src="https://bikepost.ru/uploads/images/00/00/01/2010/02/22/avatar_blog_motohumor_24x24.jpg" class="blog" width="24px" height="24px" alt="" /> Мото юмор
+            </a>
+        </li>
+	        <li>
+            <div class="total">
+                1798 
+                            </div>
+            <a href="https://bikepost.ru/blog/moto_crash/" class="">
+                <img src="https://bikepost.ru/uploads/images/00/00/01/2010/01/16/avatar_blog_moto_crash_24x24.jpg" class="blog" width="24px" height="24px" alt="" /> Мото аварии
+            </a>
+        </li>
+	        <li>
+            <div class="total">
+                141 
+                            </div>
+            <a href="https://bikepost.ru/blog/my_moto/" class="">
+                <img src="https://bikepost.ru/uploads/images/00/00/02/2010/01/16/avatar_blog_my_moto_24x24.jpg" class="blog" width="24px" height="24px" alt="" /> Мой мотоцикл
+            </a>
+        </li>
+	        <li>
+            <div class="total">
+                792 
+                            </div>
+            <a href="https://bikepost.ru/blog/honda/" class="">
+                <img src="https://bikepost.ru/uploads/images/00/00/02/2010/01/16/avatar_blog_Honda_24x24.jpg" class="blog" width="24px" height="24px" alt="" /> Honda
+            </a>
+        </li>
+	        <li>
+            <div class="total">
+                1042 
+                            </div>
+            <a href="https://bikepost.ru/blog/moto_tuning/" class="">
+                <img src="https://bikepost.ru/templates/skin/bikepost/images/avatar_blog_24x24.gif" class="blog" width="24px" height="24px" alt="" /> Мото тюнинг
+            </a>
+        </li>
+	        <li>
+            <div class="total">
+                3928 
+                <span>+1</span>            </div>
+            <a href="https://bikepost.ru/blog/custom/" class="">
+                <img src="https://bikepost.ru/uploads/images/00/00/02/2010/01/16/avatar_blog_custom_24x24.jpg" class="blog" width="24px" height="24px" alt="" /> Кастомайзинг
+            </a>
+        </li>
+	        <li>
+            <div class="total">
+                1891 
+                            </div>
+            <a href="https://bikepost.ru/blog/video/" class="">
+                <img src="https://bikepost.ru/uploads/images/00/00/01/2010/01/16/avatar_blog_video_24x24.jpg" class="blog" width="24px" height="24px" alt="" /> Видеоролики
+            </a>
+        </li>
+	        <li>
+            <div class="total">
+                781 
+                            </div>
+            <a href="https://bikepost.ru/blog/moto_foto/" class="">
+                <img src="https://bikepost.ru/uploads/images/00/00/02/2010/01/16/avatar_blog_moto_foto_24x24.jpg" class="blog" width="24px" height="24px" alt="" /> Мото фото
+            </a>
+        </li>
+	        <li>
+            <div class="total">
+                95 
+                            </div>
+            <a href="https://bikepost.ru/blog/literature/" class="">
+                <img src="https://bikepost.ru/templates/skin/bikepost/images/avatar_blog_24x24.gif" class="blog" width="24px" height="24px" alt="" /> Чтиво
+            </a>
+        </li>
+	        <li>
+            <div class="total">
+                2646 
+                            </div>
+            <a href="https://bikepost.ru/blog/moto_news/" class="">
+                <img src="https://bikepost.ru/uploads/images/00/00/01/2010/02/22/avatar_blog_moto_news_24x24.jpg" class="blog" width="24px" height="24px" alt="" /> Мотоновости
+            </a>
+        </li>
+	        <li>
+            <div class="total">
+                641 
+                            </div>
+            <a href="https://bikepost.ru/blog/yamaha/" class="">
+                <img src="https://bikepost.ru/uploads/images/00/00/02/2010/01/16/avatar_blog_yamaha_24x24.jpg" class="blog" width="24px" height="24px" alt="" /> Yamaha
+            </a>
+        </li>
+	        <li>
+            <div class="total">
+                248 
+                            </div>
+            <a href="https://bikepost.ru/blog/motogirl/" class="">
+                <img src="https://bikepost.ru/uploads/images/00/00/01/2010/01/16/avatar_blog_motogirl_24x24.jpg" class="blog" width="24px" height="24px" alt="" /> Lady Riders
+            </a>
+        </li>
+	        <li>
+            <div class="total">
+                512 
+                            </div>
+            <a href="https://bikepost.ru/blog/moto_in_films/" class="">
+                <img src="https://bikepost.ru/uploads/images/00/00/01/2010/01/16/avatar_blog_moto_in_films_24x24.jpg" class="blog" width="24px" height="24px" alt="" /> Мото в кино
+            </a>
+        </li>
+	        <li>
+            <div class="total">
+                175 
+                            </div>
+            <a href="https://bikepost.ru/blog/engine/" class="">
+                <img src="https://bikepost.ru/uploads/images/00/00/02/2010/01/16/avatar_blog_engine_24x24.jpg" class="blog" width="24px" height="24px" alt="" /> Двигатели
+            </a>
+        </li>
+	        <li>
+            <div class="total">
+                1415 
+                            </div>
+            <a href="https://bikepost.ru/blog/cafe_racer/" class="">
+                <img src="https://bikepost.ru/uploads/images/00/00/02/2010/01/16/avatar_blog_cafe_racer_24x24.jpg" class="blog" width="24px" height="24px" alt="" /> Cafe Racer
+            </a>
+        </li>
+	        <li>
+            <div class="total">
+                110 
+                            </div>
+            <a href="https://bikepost.ru/blog/bikepost/" class="">
+                <img src="https://bikepost.ru/uploads/images/00/00/01/2010/08/26/avatar_blog_bikepost_24x24.jpg" class="blog" width="24px" height="24px" alt="" /> Я ♥ БайкПост
+            </a>
+        </li>
+	</ul>
+
+
+			</div>
+
+	<div class="bottom">
+		<a href="https://bikepost.ru/blogs/">Список тематических сообществ (71)</a>
+	</div>
+</div>
+
+																		
+															<div align="center" style="margin-bottom: 20px;">
+		<div style="margin-bottom: 20px;">
+			 <script type="text/javascript" src="//vk.com/js/api/openapi.js?72"></script>
+
+			<!-- VK Widget -->
+			<div id="vk_groups"></div>
+			<script type="text/javascript">
+			VK.Widgets.Group("vk_groups", {mode: 0, width: "292", height: "223"}, 4507395);
+			</script>
+		</div>
+		<div>
+			<iframe src="//www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2Fbikepostru%2F58744409989&amp;width=292&amp;height=258&amp;show_faces=true&amp;colorscheme=light&amp;stream=false&amp;border_color&amp;header=false" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:292px; height:223px;" allowTransparency="true"></iframe>
+		</div>
+</div>
+
+
+															<div id="onpage-fixed" style="text-align: center; opacity: 1;" data-margin-top="30">
+
+<!-- Yandex.RTB R-A-52282-4 -->
+<div id="yandex_rtb_R-A-52282-4" style="display: inline-block;"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Context.AdvManager.render({
+                blockId: "R-A-52282-4",
+                renderTo: "yandex_rtb_R-A-52282-4",
+                async: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//an.yandex.ru/system/context.js";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(this, this.document, "yandexContextAsyncCallbacks");
+</script>
+
+
+
+
+
+</div>
+						</div>
+			</div><!-- /wrapper -->
+
+	<a name="down" id="down"></a>
+	<div id="top-link">
+		<a href="#top" id="top-link-a"></a>
+	</div>
+
+
+	<div id="footer">
+		<div id="footer-inner">
+			<div class="right">
+				<ul>
+					<li>
+					
+						<!--LiveInternet counter--><script type="text/javascript"><!--
+						document.write("<a href='//www.liveinternet.ru/click' "+
+						"target=_blank><img src='//counter.yadro.ru/hit?t26.1;r"+
+						escape(document.referrer)+((typeof(screen)=="undefined")?"":
+						";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+						screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+						";"+Math.random()+
+						"' alt='' title='LiveInternet: показано число посетителей за"+
+						" сегодня' "+
+						"border='0' width='88' height='15'><\/a>")
+						//--></script><!--/LiveInternet-->
+					
+					</li>
+
+					<li>
+						<!--Rating@Mail.ru counter-->
+							<a target="_blank" rel="nofollow" href="http://top.mail.ru/jump?from=1629248">
+							<img src="http://dc.cd.b8.a1.top.mail.ru/counter?id=1629248;t=170" height="15" width="88" alt="Рейтинг@Mail.ru" /></a>
+						<!--// Rating@Mail.ru counter-->
+					</li>
+
+					
+					<li>
+						<a rel="nofollow" href="//www.free-kassa.ru/"><img src="//www.free-kassa.ru/img/fk_btn/16.png"></a>
+					</li>
+					
+									</ul>
+			</div>
+				<ul>
+					<li><a href=""><img style="margin-left: 5px;" src="https://bikepost.ru/templates/skin/bikepost/images/bikepost_logo_footer.gif" width="98px" height="28px" alt="" /></a></li>
+					<li>Сделано с любовью!</li>
+					<li>
+					<div style="text-align:center; left: -8px; position: relative;">
+						<img src="https://bikepost.ru/templates/skin/bikepost/images/coin.gif" alt="" style="position: relative; top: 5px;" width="18px" height="18px" /><a href="https://boosty.to/bikepost">Поддержать БАЙКПОСТ финансово!</a>
+					</div>
+					</li>
+				</ul>
+
+				<ul>
+					<li>© 18.04.2009&nbsp;&mdash;&nbsp;2019</li>
+					<li><a href="https://bikepost.ru/info/agreement/">Пользовательское соглашение</a></li>
+					<li><a href="https://bikepost.ru/info/rules/">Правила сайта</a></li>
+				</ul>
+
+				<ul>
+					<li>Информация</li>
+					<li><a href="https://bikepost.ru/info/">Справочный раздел</a></li>
+					<li><a href="https://bikepost.ru/info/contacts/">Администрация сайта</a></li>
+					
+				</ul>
+
+				<ul>
+					<li>Полезно</li>
+					<li><a href="https://bikepost.ru/blogs/">Сообщества</a></li>
+					<li><a href="https://bikepost.ru/top/">ТОП</a></li>
+
+					
+				</ul>
+
+				<ul>
+					<li>Наше всё</li>
+					<li><a class="service" href="https://bikepost.ru/mediakit/">РЕКЛАМА</a></li>
+
+					<li><a href="https://bikepost.ru/info/promo/">Промо</a></li>
+				</ul>
+
+				<ul>
+					<li>Подпишитесь на нас</li>
+					<li>
+						<a href="http://vk.com/club4507395" rel="nofollow" target="_blank"><img style="vertical-align: middle; width: 40px; height: 40px;" src="https://bikepost.ru/templates/skin/bikepost/images/vk-com.png"></a>
+						<a href="https://t.me/bikepostru" rel="nofollow" target="_blank"><img style="vertical-align: middle; width: 40px; height: 40px;" src="https://bikepost.ru/templates/skin/bikepost/images/telegram-app.png"></a>
+						<a href="https://www.instagram.com/bikepostru/" rel="nofollow" target="_blank"><img style="vertical-align: middle; width: 40px; height: 40px;" src="https://bikepost.ru/templates/skin/bikepost/images/instagram-new.png" alt="" /></a>
+						<a href="https://zen.yandex.ru/bikepost.ru" rel="nofollow" target="_blank"><img style="vertical-align: middle; width: 40px; height: 40px;" src="https://bikepost.ru/templates/skin/bikepost/images/zen-app.png" alt="" /></a>
+						<a href="http://www.twitter.com/bikepost_ru" rel="nofollow" target="_blank"><img style="vertical-align: middle; width: 40px; height: 40px;" src="https://bikepost.ru/templates/skin/bikepost/images/twitter-squared.png" alt="" /></a>
+						<a href="https://www.facebook.com/www.bikepost.ru/" rel="nofollow" target="_blank"><img style="vertical-align: middle; width: 40px; height: 40px;" src="https://bikepost.ru/templates/skin/bikepost/images/facebook-new.png" alt="" /></a>
+						<a href="https://www.youtube.com/user/bikepostru" rel="nofollow" target="_blank"><img style="vertical-align: middle; width: 40px; height: 40px;" src="https://bikepost.ru/templates/skin/bikepost/images/youtube-squared.png" alt="" /></a>
+					</li>
+					
+					
+				</ul>
+			
+		</div>
+	</div>
+
+	<div style="text-align:center; margin-bottom:20px;">
+		<strong>При перепечатке материалов, видео или картинок гиперссылка на &laquo;<a href="">bikepost.ru</a>&raquo; обязательна</strong>
+		
+	</div>
+
+</div><!-- /container -->
+
+
+
+
+
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-11012686-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+
+
+<!-- Yandex.Metrika counter --><script type="text/javascript">(function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter52282 = new Ya.Metrika({id:52282, clickmap:true, trackLinks:true,type:1}); } catch(e) {} }); var n = d.getElementsByTagName("script")[0], s = d.createElement("script"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = "text/javascript"; s.async = true; s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js"; if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f); } else { f(); } })(document, window, "yandex_metrika_callbacks");</script><noscript><div><img src="//mc.yandex.ru/watch/52282?cnt-class=1" style="position:absolute; left:-9999px;" alt="" /></div></noscript><!-- /Yandex.Metrika counter -->
+
+
+
+
+
+		
+			
+			
+		
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+!function(){function t(t,e){var a=document.createElement("script");a.type="text/javascript",a.src="https://adblockmetrics.ru/"+t,a.async=0,void 0!==e&&(a.setAttribute("data-config",e),a.setAttribute("data-support","adbm"));var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r)}t("js/__fab.js","5a79676b6220a40b2c796522"),t("js/metric.js")}();
+</script>
+
+
+</body>
+</html>

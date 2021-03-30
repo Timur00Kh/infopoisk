@@ -1,0 +1,1272 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=windows-1251" />
+	<TITLE>���� ����� ��������</TITLE>
+			<meta http-equiv="Content-Type" content="text/html; charset=windows-1251" />
+<link href="/bitrix/cache/css/ru/new/kernel_main/kernel_main.css?143344304245098" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/cache/css/ru/new/page_05de2424b1f2399c81edcc53345bda2a/page_05de2424b1f2399c81edcc53345bda2a.css?1416838063639" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/cache/css/ru/new/template_4a701d49c48c5eeba8ad771894e0d265/template_4a701d49c48c5eeba8ad771894e0d265.css?1492604586936" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<script type="text/javascript">if(!window.BX)window.BX={message:function(mess){if(typeof mess=='object') for(var i in mess) BX.message[i]=mess[i]; return true;}};</script>
+<script type="text/javascript">(window.BX||top.BX).message({'JS_CORE_LOADING':'��������...','JS_CORE_NO_DATA':'- ��� ������ -','JS_CORE_WINDOW_CLOSE':'�������','JS_CORE_WINDOW_EXPAND':'����������','JS_CORE_WINDOW_NARROW':'�������� � ����','JS_CORE_WINDOW_SAVE':'���������','JS_CORE_WINDOW_CANCEL':'��������','JS_CORE_H':'�','JS_CORE_M':'�','JS_CORE_S':'�','JSADM_AI_HIDE_EXTRA':'������ ������','JSADM_AI_ALL_NOTIF':'�������� ���','JSADM_AUTH_REQ':'��������� �����������!','JS_CORE_WINDOW_AUTH':'�����','JS_CORE_IMAGE_FULL':'������ ������'});</script>
+<script type="text/javascript">(window.BX||top.BX).message({'LANGUAGE_ID':'ru','FORMAT_DATE':'DD.MM.YYYY','FORMAT_DATETIME':'DD.MM.YYYY HH:MI:SS','COOKIE_PREFIX':'BITRIX_SM','SERVER_TZ_OFFSET':'14400','SITE_ID':'ru','USER_ID':'','SERVER_TIME':'1614628048','USER_TZ_OFFSET':'0','USER_TZ_AUTO':'Y','bitrix_sessid':'09aad5a60ed9874ca132bf25322ad3b5'});</script>
+
+
+<script type="text/javascript" src="/bitrix/cache/js/ru/new/kernel_main/kernel_main.js?1433818603304493"></script>
+<script type="text/javascript">BX.setJSList(['/bitrix/js/main/core/core.js?143343914265494','/bitrix/js/main/core/core_ajax.js?143343914220575','/bitrix/js/main/json/json2.min.js?14047288513467','/bitrix/js/main/core/core_ls.js?14334391427365','/bitrix/js/main/session.js?14334391362511','/bitrix/js/main/core/core_popup.js?143343914028778','/bitrix/js/main/core/core_date.js?143343913634102','/bitrix/js/main/utils.js?143343913619858','/bitrix/js/main/core/core_window.js?143343914274831','/bitrix/js/main/core/core_tooltip.js?14334391379925','/bitrix/js/main/core/core_fx.js?143343913716538','/bitrix/js/main/core/core_dd.js?14334391372182','/bitrix/js/main/core/core_timer.js?14334391364311','/bitrix/js/main/dd.js?143343913610645']); </script>
+<script type="text/javascript">BX.setCSSList(['/bitrix/js/main/core/css/core.css?14334391372854','/bitrix/js/main/core/css/core_popup.css?143343913724368','/bitrix/js/main/core/css/core_date.css?14334391379592','/bitrix/js/main/core/css/core_tooltip.css?14334391375746','/bitrix/components/bitrix/news.list/templates/.default/style.css?1416763920150','/bitrix/templates/new/components/bitrix/news/news_template/bitrix/news.list/.default/style.css?1416838050107','/bitrix/templates/new/styles.css?1492604583811']); </script>
+<script type="text/javascript">var bxDate = new Date(); document.cookie="BITRIX_SM_TIME_ZONE="+bxDate.getTimezoneOffset()+"; path=/; expires=Fri, 01-Jan-2038 00:00:00 GMT"</script>
+
+
+
+<script type="text/javascript">
+bxSession.Expand(1440, '09aad5a60ed9874ca132bf25322ad3b5', false, '13b3b527b89e8d5166a9b36aee5f6c86');
+</script>
+<script type="text/javascript">var _ba = _ba || []; _ba.push(["aid", "4f502034495837a23bec35f8315c5a24"]); _ba.push(["host", "school97.ru"]); (function() {var ba = document.createElement("script"); ba.type = "text/javascript"; ba.async = true;ba.src = (document.location.protocol == "https:" ? "https://" : "http://") + "bitrix.info/ba.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ba, s);})();</script>
+
+
+	<link rel="alternate" type="application/rss+xml" title="������� ����� ��������" href="/rss" />
+	
+	<script type="text/javascript" src="/bitrix/templates/new/js/jquery.min.js"></script>
+	<link type="text/css" rel="stylesheet" href="/bitrix/templates/new/jquery-topbutton.css">
+	<script type="text/javascript" src="/bitrix/templates/new/js/jquery-topbutton.js"></script>
+	<link type="text/css" rel="stylesheet" href="/bitrix/templates/new/fancybox/jquery.fancybox.css" media="screen">
+	<script type="text/javascript" src="/bitrix/templates/new/fancybox/jquery.fancybox.pack.js"></script>
+	<script>
+		$(document).ready(function() {
+			$('.fancybox').fancybox({
+				//'width'  : 600,           // set the width
+				//'height' : 600,           // set the height
+				'autoScale' : 'true',
+				'cyclic': 'false'
+				//modal: true
+			});
+		});
+	</script>
+	<link href="/bitrix/templates/new/reset.css" rel="stylesheet" type="text/css" />
+	<link href="/bitrix/templates/new/style.css" rel="stylesheet" type="text/css" />
+	<!--[if IE 6]><link rel="stylesheet" type="text/css" href="/bitrix/templates/new/ie6.css"><![endif]-->
+	<!--[if IE 6]><script src="/bitrix/templates/new/DD_belatedPNG.js"></script><script>DD_belatedPNG.fix('.png');</script><![endif]-->
+</head>
+<body> 
+	<!--LiveInternet counter-->
+
+	<script language="JavaScript"><!--
+	document.write('<img id="bxid_588277" width="1" src="https://counter.yadro.ru/hit?r'+
+			escape(document.referrer)+((typeof(screen)=='undefined')?'':
+			';s'+screen.width+'*'+screen.height+'*'+(screen.colorDepth?
+					screen.colorDepth:screen.pixelDepth))+';'+Math.random()+
+			'" alt=""  />')//--></script>
+
+	<!--/LiveInternet-->
+ 	 
+	<!-- Rating Mail.ru counter -->
+	<script type="text/javascript">
+	var _tmr = window._tmr || (window._tmr = []);
+	_tmr.push({id: "825828", type: "pageView", start: (new Date()).getTime()});
+	(function (d, w, id) {
+	  if (d.getElementById(id)) return;
+	  var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;
+	  ts.src = "https://top-fwz1.mail.ru/js/code.js";
+	  var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+	  if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+	})(document, window, "topmailru-code");
+	</script><noscript><div>
+	<img src="https://top-fwz1.mail.ru/counter?id=825828;js=na" style="border:0;position:absolute;left:-9999px;" alt="Top.Mail.Ru" />
+	</div></noscript>
+	<!-- //Rating Mail.ru counter -->
+
+
+
+	<div id="all"> 
+	  <div id="header"> 
+		<div id="header-back"> 
+		  <div id="header-pic"> 
+			<div id="header-top"> 
+			  <div id="search"> <form action="/search.php"> <span class="text-field"><input name="" type="text" value="�����" onblur="if(this.value=='') this.value='�����';" onfocus="if(this.value=='�����') this.value='';" /></span> <input src="/bitrix/templates/new/images/button-search.png" type="image" /> </form> </div>
+			 
+			  <div id="navigation"> <a href="https://www.school97.ru" ><img src="/bitrix/templates/new/images/navi1.png" alt="�� �������" width="24" height="20"  /></a><a href="/about/contacts" ><img src="/bitrix/templates/new/images/navi2.png" alt="��������" width="24" height="20"  /></a><a href="/search/map.php" ><img src="/bitrix/templates/new/images/navi3.png" alt="����� �����" width="24" height="20"  /></a> </div>
+			 
+			  <div id="telephons"> 
+				<div id="tel"><a href="/about/contacts/" ><strong>���������� ����������</strong></a> 
+	<!-- ������ ������ ��� ������������ -->
+	 
+	<script>d=document,n=d.getElementsByTagName("script")[0],s=d.createElement("script"),s.type="text/javascript",s.async=!0,s.src=("https:"==d.location.protocol?"https:":"http:")+"//special.prolexgroup.ru/api/v1/specversion.js",f=function(){n.parentNode.insertBefore(s,n)},f();</script>
+	 
+	<!-- /������ ������ ��� ������������ -->
+	</div>
+			   
+				<div id="fax"></div>
+			   </div>
+			 </div>
+		   
+			<div id="the-best"><a href="https://www.school97.ru/awards/best.php" title="� 2004 ���� ����� ��������� ������ &amp;laquo;������ ����� ������&amp;raquo;" >� 2004 ���� ����� ��������� ������ ������� ����� ������</a></div>
+		   
+			<h1 id="logo"><a href="https://www.school97.ru" >����������� ���� ����� �������� �. ������</a></h1>
+		   
+			<div id="revards"> 
+			  <h2>���� �������:</h2>
+			 
+			  <table width="100%" border="0"> 
+				<tbody>
+				  <tr> <td style="border-image: initial;"><a href="/awards/best.php" ><img src="/imglib/bestschooll1.jpg" alt="���������� �������������� �������� ������ ����� ������ - 2004" width="70" height="51"  /></a></td> <td style="border-image: initial;"><a href="/about/bestschool.php" ><img src="/imglib/bestschooll1.jpg" alt="���������� �������������� �������� ������ ����� ������ - 2008" width="70" height="51"  /></a></td> <td style="border-image: initial;"><a href="/awards/pnpo2006.php" ><img src="/imglib/innovacion02.jpg" alt="���������� �������� ������������������� ����������, ���������� ������������� ��������������� ��������� - 2006" width="100" height="39"  /></a></td> <td style="border-image: initial;"><a href="/awards/pnpo2008.php" ><img src="/imglib/innovacion02.jpg" alt="���������� �������� ������������������� ����������, ���������� ������������� ��������������� ��������� - 2008" width="100" height="39"  /></a></td> <td style="border-image: initial;"><a href="/awards/makarenko.php" ><img src="/imglib/macarenko.jpg" alt="����� �������� ����� ����������� IV �������������� �������� ��������������� ���������� ��. �.�. ���������" width="70" height="100"  /></a></td> <td style="border-image: initial;"><a href="/awards/mecenat.php" ><img src="/imglib/mecenats.jpg" alt="� 2006 ���� ����� ���������� ������������� ����������������� ������ �������� �������� ���������� ������� ������������ ���������" width="70" height="86"  /></a></td> <td style="border-image: initial;"><a href="/awards/holidays.php" ><img src="/imglib/kanikuls.jpg" alt="� 2005 ���� ����� �������� �� ������������� ������-�������� ������������������� ���������� �� ������ ����������� ������������� ������" width="70" height="65"  /></a></td> <td style="border-image: initial;"><a href="/awards/unesco.php" ><img src="/imglib/unesco.jpg" alt="� 2007 ���� ����� �������� � ������ ��������������� ����� ������" width="70" height="81"  /></a></td> <td style="border-image: initial;"><a href="/awards/goldensite.php" ><img src="/imglib/sait.jpg" alt="����� �������� ����� ����������� �������� �������� ������� ���� ������ ����� ��������������� ���������� ������������ ������������ ������" width="70" height="79"  /></a></td> <td style="border-image: initial;"><a href="/about/goldensite2008.php" ><img src="/Files/goldensite2008.gif" alt="����� �������� ����� ����������� �������� �������� - �������� ������� ���� ������ ����� ��������������� ���������� ������������ ������������ ������" width="70" height="67"  /></a></td> <td style="border-image: initial;"></td> </tr>
+				 </tbody>
+			  </table>
+			 </div>
+		   </div>
+		 </div>
+	   </div>
+	 
+	  <div class="main"> 
+		<table border="0" cellpadding="0" cellspacing="0" width="100%">
+		  <tbody>
+			<tr><td valign="top" width="110px" style="border-image: initial;"> 
+				<div class="left-side"> 
+				  <div class="block-blue"> 
+					<div class="block-blue-c p12 login"> 	
+<form name="form_auth" method="post" target="_top" action="/index.php?login=yes">
+<input type="hidden" name="AUTH_FORM" value="Y">
+<input type="hidden" name="TYPE" value="AUTH">
+
+	<table cellpadding="0" cellspacing="0" border="0" width="100%">
+		<tr>
+			<td class="label">�����:</td>
+			<td><input type="text" name="USER_LOGIN" maxlength="50" size="20" value="" class="input-text"></td>
+		</tr>
+		<tr>
+			<td class="label">������:</td>
+			<td><input type="password" name="USER_PASSWORD" maxlength="50" size="20" class="input-text"></td>
+		</tr>
+	</table>
+
+<p class="button clearfix"><span class="l-log"><input name="USER_REMEMBER" type="checkbox" value="Y" id="USER_REMEMBER_F" /><label for="USER_REMEMBER_F">��������� ����</label></span>
+<span class="r-log"><input src="/bitrix/templates/new/images/button-enter.png" type="image" /></span></p>
+
+	<br clear="all">
+
+<p><a href="/reg.php">�����������</a></p>
+
+<p><a href="auth.php?forgot_password=yes">������ ������?</a></p>
+
+
+
+
+</form>
+
+<script type="text/javascript">
+document.form_auth.USER_LOGIN.focus();
+</script> </div>
+				   </div>
+				 
+				  <div id="left-menu"><i class="br"></i> 
+					<ul> <li><a href="/about/"><nobr>� �����</nobr></a></li><li><a href="/studies/"><nobr>�����</nobr></a></li><li><a href="http://www.school97.ru/studies/cadets/"><nobr>������� �����</nobr></a></li><li><a href="/detskiy-sad-garmoniya/"><nobr>������� ��� "��������"</nobr></a></li><li><a href="/gospitalnaya-shkola"><nobr>������������ �����</nobr></a></li><li><a href="/innovatica/"><nobr>������������� <br>������������</nobr></a></li><li><a href="/health/"><nobr>��������</nobr></a></li><li><a href="/socialno-pedagogicheskaya-sluzhba/"><nobr>���������-<br>���������������<br>������</nobr></a></li><li><a href="/life/"><nobr>���� ����</nobr></a></li><li><a href="/edu/"><nobr>�������������� <br>�����������</nobr></a></li><li><a href="/rest/"><nobr>�����</nobr></a></li><li><a href="/teachers/"><nobr>����������</nobr></a></li><li><a href="/links/"><nobr>��������������� <br>�������</nobr></a></li><li><a href="/Avtoschool/"><nobr>��������� "��������"</nobr></a></li><li><a href="/metod/"><nobr>������������ ������� <br>�������</nobr></a></li><li><a href="/fruit_garden/"><nobr>��������� ���</nobr></a></li><li><a href="/works/"><nobr>������� ���������� <br>����� ��������</nobr></a></li><li><a href="/unesco/"><nobr>��������������� <br>����� ������</nobr></a></li><li><a href="/veteran/"><nobr>����� ������</nobr></a></li><li><a href="/quality_control/"><nobr>����������� ������ <br>�������� �����������</nobr></a></li><li><a href="/prof_standart/"><nobr>����������������<br>��������</nobr></a></li><li><a href="/nam-20-let"><nobr>��� 20 ���</nobr></a></li><li><a href="/bazovaya-kafedra"><nobr>������� ������� <br>���������� ����������<br> � �����������</nobr></a></li> </ul>
+				   </div>
+				 
+				  <div class="block1 p12"> </div>
+				 
+				  <div class="block-yellow-h22">
+					<p class="h2">����������� ��������</p>
+				  </div>
+				 
+				  <div class="block-yellow"> 
+					<div class="block-yellow-c p12 l-form"> <a href="/questions/" >������ ������ ������������� �����</a> 
+					  <br />
+					
+					  <br />
+					<a href="/forms/spravki.php" >��������� �������, �������������� �������� � �����</a> 
+					  <br />
+					
+					  <br />
+					<a href="https://www.school97.ru/forms/first.php" >���������� ���������� ��� ����������� � �����</a> 
+	<!--<br><br><a id="bxid_788722" href="https://www.school97.ru/forms/detskiy-sad.php" >���������� ���������� ��� ����������� � ������� ��� "��������"</a>-->
+	 
+					  <br />
+					
+					  <br />
+					<a href="https://school97.ru/Avtoschool/form.php" >������ � ���������</a> 
+					  <br />
+					 <br />
+					<a href="https://www.school97.ru/forms/form_eng.php" >������ �� ����� ���������� �����</a> 
+					 <br />
+					  <br />
+					<a href="https://school97.ru/firstclass/form_2016.php" >������ � ������ �����</a> 
+					  <br />
+					
+					  <br />
+					<a href="https://school97.ru/forms/5_klass/form.php" >������ � 5 �����</a> 
+					  <br />
+					
+					  <br />
+					<a href="https://school97.ru/umka2012/form.php" >������ � ����� ������� �������� &quot;����&quot;</a> 
+					  <br />
+					
+					  <br />
+					<a href="https://school97.ru/health/psychologist/appointments/" >������ � ���������</a> 
+					  <br />
+					
+					  <br />
+					<a href="https://www.school97.ru/dnevnik/zayavka.php" >����������� � ������������ �������</a> </div>
+				   </div>
+				 
+				  <div class="block-blue-h2">
+					<p class="h2">��� ��������!</p>
+				  </div>
+				 
+					<div class="block-blue"> 
+						<div class="block-blue-c"> 
+							<p class="p12"> 
+								�������: 01 ����� 2021 �.							</p>
+							<p class="p12"><strong>����������</strong><br/></p><ul class="birthdays-list"><li>������������ ����� �������������</li></ul><p class="p12"><strong>�������</strong><br/></p><ul class="birthdays-list"><li>������ ���� ����������</li><li>�������� ������� ����������</li><li>�������� ����� �������������</li><li>���������� ������� ���������</li><li>��������� ����� ��������</li><li>������� ��� ��������</li><li>������ ���� ����������</li></ul>						</div>
+				   </div>
+				 
+				  <div class="block-yellow-h22">
+					<p class="h2">������������ �����</p>
+				  </div>
+				 
+				  <div class="block-yellow"> 
+					<div class="block-yellow-c p12 l-form"> 
+					  <div style="text-align: left;"><font size="3,5">�������� ������ � ������ �����</font></div>
+					 
+					  <div style="text-align: justify;">
+						<br />
+					  <font size="1,9">���������� ������ ���������� ������ 2 ������</font></div>
+					<style type="text/css">
+	.boxer {
+		display: table;
+		border-collapse: collapse;
+	}
+
+	.boxer .box-row {
+		display: table-row;
+	}
+
+	.boxer .box {
+		display: table-cell;
+		text-align: left;
+		vertical-align: top;
+	}
+
+	.weather_bad {
+		background: url(https://www.school97.ru/METEO/ico_bad.png) 0 0 no-repeat;
+		width: 40px;
+		height: 40px;
+	}
+	.weather_good {
+		background: url(https://www.school97.ru/METEO/ico_good.png) 0 0 no-repeat;
+		width: 40px;
+		height: 40px;
+	}
+</style>
+
+<script>
+
+$(document).ready(function() {
+
+  /*var tid = setInterval(mycode, 2000);   
+  function mycode() { 
+	  $.ajax({
+    type:'GET',
+    dataType: 'json',
+    url:'https://cdn.school97.ru/api/weatherlink',
+    data:'json',
+    success: function(data){
+
+    for(var key in data) { try { document.getElementById(key).innerHTML=data[key]; } catch(err) { console.log(key+' �� ������'); } }
+        
+    var temp_out = +data.temp_out;
+    var wind_speed = +data.wind_speed;
+
+    //1-6 ������
+      if ((temp_out >= -11 && wind_speed == 0) || (temp_out >= -7 && wind_speed <= 5) || (temp_out >= -4 && wind_speed <= 10 && wind_speed > 5)) 
+      { $('div.box.weather_good').show() 
+        $('div.box.weather_bad').hide() }
+      else if (wind_speed > 10) 
+      { $('div.box.weather_bad').show()
+        $('div.box.weather_good').hide() }  
+      else    
+      { $('div.box.weather_bad').show()
+        $('div.box.weather_good').hide() }
+
+    //7 �����
+      if ((temp_out >= -12 && wind_speed == 0) || (temp_out >= -8 && wind_speed <= 5) || (temp_out >= -5 && wind_speed <= 10 && wind_speed > 5))  
+      { $('div#br1.box.weather_good').show() 
+        $('div#br1.box.weather_bad').hide() }
+      else if (wind_speed > 10) 
+      { $('div#br1.box.weather_bad').show()
+        $('div#br1.box.weather_good').hide() }  
+      else    
+      { $('div#br1.box.weather_bad').show()
+        $('div#br1.box.weather_good').hide() } 
+
+    //8-9 ������
+      if ((temp_out >= -15 && wind_speed == 0) || (temp_out >= -12 && wind_speed <= 5) || (temp_out >= -8 && wind_speed <= 10 && wind_speed > 5)) 
+      { $('div#br2.box.weather_good').show() 
+        $('div#br2.box.weather_bad').hide() }
+      else if (wind_speed > 10) 
+      { $('div#br2.box.weather_bad').show()
+        $('div#br2.box.weather_good').hide() }  
+      else    
+      { $('div#br2.box.weather_bad').show()
+        $('div#br2.box.weather_good').hide() } 
+
+    //10-11 ������
+      if ((temp_out >= -16 && wind_speed == 0) || (temp_out >= -15 && wind_speed <= 5) || (temp_out >= -10 && wind_speed <= 10 && wind_speed > 5))
+      { $('div#br3.box.weather_good').show() 
+        $('div#br3.box.weather_bad').hide() }
+      else if (wind_speed > 10) 
+      { $('div#br3.box.weather_bad').show()
+        $('div#br3.box.weather_good').hide() }  
+      else    
+      { $('div#br3.box.weather_bad').show()
+        $('div#br3.box.weather_good').hide() }
+      
+      }               
+		});
+  };
+});	*/
+
+</script>
+
+<a href="http://www.school97.ru/METEO/GetMeteo.php">������ ������</a>
+
+<br/>
+
+<br>�����������: <b id="temp_out"></b><b>� C</b>
+<br>�� ��������: <b id="thw_index"></b><b>� C</b>
+<br><br>��������: <b id="bar"></b><b> ��</b>
+<br>���������: <b id="out_hum"></b><b> %</b><br>
+<br>����������� �����: <b id="wind_dir"></b>
+<br>�������� �����: <b id="wind_speed"></b><b> �/�</b>
+<br><br>
+<div style="text-align: letf;">����������� ���������� ������ ����������� �� �������� � ����������� �� ����������� ������� � �������� �����</div><br/>
+<div class="boxer">
+
+	<div class="box-row">
+    <div class="box weather_good"></div>
+    <div class="box weather_bad"></div>
+    <div id ="br1" class="box weather_good"></div>
+    <div id ="br1" class="box weather_bad"></div>        
+  </div>
+
+	<div class="box-row">
+    <div class="box">1-6 ������</div>
+    <div class="box">7 �����</div>
+  </div>
+
+  <div class="box-row">
+    <div id ="br2" class="box weather_good"></div>
+    <div id ="br2" class="box weather_bad"></div>   
+    <div id ="br3" class="box weather_good"></div>
+    <div id ="br3" class="box weather_bad"></div>        
+  </div>
+
+  <div class="box-row">
+    <div class="box">8-9 ������</div>
+    <div class="box">10-11 ������</div>
+  </div>
+
+</div> 
+					</div>
+				   </div>
+				 
+				  <div class="block1 p12"> 
+			<br />
+	 <!-- Gismeteo informer START -->
+	<link rel="stylesheet" type="text/css" href="https://nst1.gismeteo.ru/assets/flat-ui/legacy/css/informer.min.css">
+		<div id="gsInformerID-Vv51ocgHSQII2r" class="gsInformer" style="width:185px;height:156px">
+			<div class="gsIContent">
+				<div id="cityLink">
+										<a href="https://www.gismeteo.ru/weather-izhevsk-4508/" target="_blank">������ � �������</a>
+				</div>
+				<div class="gsLinks">
+					<table>
+						<tr>
+							<td>
+								<div class="leftCol">
+									<a href="https://www.gismeteo.ru/" target="_blank">
+										<img alt="Gismeteo" title="Gismeteo" src="https://nst1.gismeteo.ru/assets/flat-ui/img/logo-mini2.png" align="middle" border="0" />
+										<span>Gismeteo</span>
+									</a>
+								</div>
+								<div class="rightCol">
+									<a href="https://www.gismeteo.ru/weather-izhevsk-4508/2-weeks/" target="_blank">������� �� 2 ������</a>
+								</div>
+							</td>
+							</tr>
+										</table>
+				</div>
+			</div>
+		</div>
+	<script async src="https://www.gismeteo.ru/api/informer/getinformer/?hash=Vv51ocgHSQII2r" type="text/javascript"></script>
+	<!-- Gismeteo informer END -->             
+	<br />
+				   
+	<!--noindex-->
+	<a href="https://schools.org.ru/" ><img width="150" height="130" border="0" alt="�������� ���������� ������ ����" src="/images/banners/logoALS.jpg"  /></a>
+	<!--/noindex-->
+
+					<br />
+	<!--noindex-->
+	<a href="/Avtoschool/pdd/" ><img width="180" height="75" border="0" alt="�������� ������ ���" src="/Avtoschool/image/im4.jpg"  /></a>
+	<!--/noindex-->
+	 
+					<br />
+				  
+					<br />
+				   
+	<!--noindex-->
+	<a href="https://gosuslugi.ru/" target="_blank" title="������ ������� ������� ��������������� � ������������� ����� (�������)" ><img src="/images/banners/gosuslugiBanner.png" alt="������ ������� ������� ��������������� � ������������� ����� (�������)" width="180" height="180" border="0"  /></a>
+	<!--/noindex-->
+	 
+					<br />
+				  
+					<br />
+				   </div>
+				 </div>
+			  </td> <td valign="top" width="70%" style="border-image: initial;"> 
+				<div class="content-ss"> 
+				  <div class="content"> 
+					<div class="main-block"> 
+					  <div class="main-block-r"> 
+						<ul> 
+						  <li id="lk"><a href="https://lk.school97.ru/login" title="������ �������" target="_blank" >������ �������</a></li>
+						  <li id="NET"><a href="https://journal.school97.ru/" title="����������� ������" target="_blank" >����������� ������</a></li>
+						  <li id="ep"><a href="#" title="����������� ��������">����������� ��������</a>
+							  <ul class="submenu">
+								<li><a href="/questions/">������ ������ ������������� �����</a></li>
+								<li><a href="/forms/spravki.php">��������� �������, �������������� �������� � �����</a></li>
+								<li><a href="/forms/first.php">���������� ���������� ��� ����������� � �����</a></li>
+								<li><a href="/Avtoschool/form.php">������ � ���������</a></li>
+								<li><a href="/forms/form_eng.php">������ �� ����� ���������� �����</a></li>
+								<li><a href="/firstclass/form_2016.php">������ � ������ �����</a></li>
+								<li><a href="/forms/5_klass/form.php">������ � 5 �����</a></li>
+								<li><a href="/umka2012/form.php">������ � ����� ������� �������� "����"</a></li>
+								<li><a href="/health/psychologist/appointments/">������ � ���������</a></li>
+								<li><a href="/dnevnik/zayavka.php">����������� � ������������ �������</a></li>
+							  </ul>
+						  </li>
+						  <li id="auto"><a href="/Avtoschool" title="������ � ���������" >��������� ��������</a></li>
+						  <li id="one"><a href="/firstclass/form_2016.php" title="������ � 1-� �����" >������ � 1-� �����</a></li>
+						  <li id="garden"><a href="/detskiy-sad-garmoniya/zapis.php" title="������ � ������� ��� '��������'" >������� ��� ��������</a></li>									
+						  <li id="lyceum"><a href="/nashi-litsei/" title="���� �����" >����� ��������</a></li>
+						  <li id="tw"><a href="/teachers" title="������� ��������" >������� ��������</a></li>
+						  
+						 </ul>
+					   </div>
+					 </div> 
+<h1 align="center"><u><i>������� ����� ��������</i></u></h1>
+ 
+<h2 align="center">�����</h2>
+ 
+<p><div class="news-list">
+		<p class="news-item" id="bx_3218110189_29322">
+							<span class="news-date-time">21.02.2020</span>
+											<a href="about/anons/detail.php?ID=29322"><b>���������� � ������� ������ � ���� � 2021 ����</b></a><br />
+														</p>
+		<p class="news-item" id="bx_3218110189_18810">
+							<span class="news-date-time">27.02.2017</span>
+											<a href="about/anons/detail.php?ID=18810"><b>��� ����� ����� � ���������</b></a><br />
+										
+									</p>
+		<p class="news-item" id="bx_3218110189_18764">
+							<span class="news-date-time">17.02.2017</span>
+											<a href="about/anons/detail.php?ID=18764"><b>������ ����� ������� ����� ��������� ��������</b></a><br />
+														</p>
+		<p class="news-item" id="bx_3218110189_17831">
+							<span class="news-date-time">15.12.2016</span>
+											<a href="about/anons/detail.php?ID=17831"><b>������ &quot;��������, ����!&quot;</b></a><br />
+														</p>
+	<br /></div>
+</p>
+ 
+<h2 align="center">�������</h2>
+ 
+<p>
+
+<div class="news-list">
+		<p class="news-item" id="bx_651765591_30839">
+							<span style="display:none"></span>
+		<pre>
+</pre>
+				<a href="/upload/iblock/39b/img_9e65ba78f0d62309d0e373ccbe6b6651_.jpg"
+						class="fancybox"
+						title="���������� �������!"
+				><img 
+						class="preview_picture"
+						border="0"
+						src="/upload/resize_cache/iblock/39b/200_150_2/img_9e65ba78f0d62309d0e373ccbe6b6651_.jpg"
+					width="/"
+					height="/"
+						alt="���������� �������!"
+						title="���������� �������!"
+						style="float:left;border-radius:30px;"
+				/></a>
+										<span class="news-date-time">01.03.2021</span>
+											<a href="/index.php?ELEMENT_ID=30839"><b>���������� �������!</b></a><br />
+										� ������� ��������� ��������� �������� �� ����������� ���, � ������� ������� ������� ������ �������� ����� ����� ��������.				<br><a href="/index.php?ELEMENT_ID=30839">������ ��������</a>
+					<div style="clear:both"></div>
+							<small>
+			</small><br />
+					</p>
+		<p class="news-item" id="bx_651765591_30838">
+							<span style="display:none"></span>
+		<pre>
+</pre>
+				<a href="/upload/iblock/4e5/bez-nazvaniya.png"
+						class="fancybox"
+						title="����� ��������� �������� ������!"
+				><img 
+						class="preview_picture"
+						border="0"
+						src="/upload/resize_cache/iblock/4e5/200_150_2/bez-nazvaniya.png"
+					width="/"
+					height="/"
+						alt="����� ��������� �������� ������!"
+						title="����� ��������� �������� ������!"
+						style="float:left;border-radius:30px;"
+				/></a>
+										<span class="news-date-time">01.03.2021</span>
+											<a href="/index.php?ELEMENT_ID=30838"><b>����� ��������� �������� ������!</b></a><br />
+										<div>�� ���� �������� ���, ��� ������ �����, � �������� 2021 ����, � ����� �������� ���� ����� ��� �������� ������� ����� � ����������� ��������� ����������� �����.�</div>
+				<br><a href="/index.php?ELEMENT_ID=30838">������ ��������</a>
+					<div style="clear:both"></div>
+							<small>
+			</small><br />
+					</p>
+		<p class="news-item" id="bx_651765591_30837">
+							<span style="display:none"></span>
+		<pre>
+</pre>
+				<a href="/upload/iblock/782/20210226_215034.jpg"
+						class="fancybox"
+						title="��������� ���������� ������� &quot;��������� �������&quot;"
+				><img 
+						class="preview_picture"
+						border="0"
+						src="/upload/resize_cache/iblock/782/200_150_2/20210226_215034.jpg"
+					width="/"
+					height="/"
+						alt="��������� ���������� ������� &quot;��������� �������&quot;"
+						title="��������� ���������� ������� &quot;��������� �������&quot;"
+						style="float:left;border-radius:30px;"
+				/></a>
+										<span class="news-date-time">01.03.2021</span>
+											<a href="/index.php?ELEMENT_ID=30837"><b>��������� ���������� ������� &quot;��������� �������&quot;</b></a><br />
+										����� ������� - ��� �������� �� ���������! ����� �������� ��� ��������� - ������ ��� ����� ��������������� � ���������� �����!				<br><a href="/index.php?ELEMENT_ID=30837">������ ��������</a>
+					<div style="clear:both"></div>
+							<small>
+			</small><br />
+					</p>
+		<p class="news-item" id="bx_651765591_30836">
+							<span style="display:none"></span>
+		<pre>
+</pre>
+				<a href="/upload/iblock/aaa/bez-nazvaniya.jpg"
+						class="fancybox"
+						title="���� ����������"
+				><img 
+						class="preview_picture"
+						border="0"
+						src="/upload/resize_cache/iblock/aaa/200_150_2/bez-nazvaniya.jpg"
+					width="/"
+					height="/"
+						alt="���� ����������"
+						title="���� ����������"
+						style="float:left;border-radius:30px;"
+				/></a>
+										<span class="news-date-time">01.03.2021</span>
+											<a href="/index.php?ELEMENT_ID=30836"><b>���� ����������</b></a><br />
+										� ������ ����������������� ����� &quot;������ �����&quot; 2 ����� ����� ����������� ���� ����������.				<br><a href="/index.php?ELEMENT_ID=30836">������ ��������</a>
+					<div style="clear:both"></div>
+							<small>
+			</small><br />
+					</p>
+		<p class="news-item" id="bx_651765591_30835">
+							<span style="display:none"></span>
+		<pre>
+</pre>
+				<a href="/upload/iblock/241/belaya-ladya-_1_.jpg"
+						class="fancybox"
+						title="�������� ������ ����� "
+				><img 
+						class="preview_picture"
+						border="0"
+						src="/upload/resize_cache/iblock/241/200_150_2/belaya-ladya-_1_.jpg"
+					width="/"
+					height="/"
+						alt="�������� ������ ����� "
+						title="�������� ������ ����� "
+						style="float:left;border-radius:30px;"
+				/></a>
+										<span class="news-date-time">01.03.2021</span>
+											<a href="/index.php?ELEMENT_ID=30835"><b>�������� ������ ����� </b></a><br />
+										����������� ����������� � ����� ����� ���������� ������� ����� ������������������� ���� &quot;����� �����&quot;.				<br><a href="/index.php?ELEMENT_ID=30835">������ ��������</a>
+					<div style="clear:both"></div>
+							<small>
+			</small><br />
+					</p>
+		<p class="news-item" id="bx_651765591_30834">
+							<span style="display:none"></span>
+		<pre>
+</pre>
+				<a href="/upload/iblock/8d9/1614540367454.jpg"
+						class="fancybox"
+						title="�� �������� �����"
+				><img 
+						class="preview_picture"
+						border="0"
+						src="/upload/resize_cache/iblock/8d9/200_150_2/1614540367454.jpg"
+					width="/"
+					height="/"
+						alt="�� �������� �����"
+						title="�� �������� �����"
+						style="float:left;border-radius:30px;"
+				/></a>
+										<span class="news-date-time">01.03.2021</span>
+											<a href="/index.php?ELEMENT_ID=30834"><b>�� �������� �����</b></a><br />
+										� ���������� ������ ���������� ������� ���������� 5� ����� ����� �������, ��������, ���� �� ����� ���������� ��������� &ndash; �������� ������.�				<br><a href="/index.php?ELEMENT_ID=30834">������ ��������</a>
+					<div style="clear:both"></div>
+							<small>
+			</small><br />
+					</p>
+		<p class="news-item" id="bx_651765591_30833">
+							<span style="display:none"></span>
+		<pre>
+</pre>
+				<a href="/upload/iblock/0e0/yncec_8_6.jpg"
+						class="fancybox"
+						title="����������� ����!"
+				><img 
+						class="preview_picture"
+						border="0"
+						src="/upload/resize_cache/iblock/0e0/200_150_2/yncec_8_6.jpg"
+					width="/"
+					height="/"
+						alt="����������� ����!"
+						title="����������� ����!"
+						style="float:left;border-radius:30px;"
+				/></a>
+										<span class="news-date-time">01.03.2021</span>
+											<a href="/index.php?ELEMENT_ID=30833"><b>����������� ����!</b></a><br />
+										� ��� ��������� ������������� ��������� �� �������� ������.				<br><a href="/index.php?ELEMENT_ID=30833">������ ��������</a>
+					<div style="clear:both"></div>
+							<small>
+			</small><br />
+					</p>
+		<p class="news-item" id="bx_651765591_30832">
+							<span style="display:none"></span>
+		<pre>
+</pre>
+				<a href="/upload/iblock/035/2d5e7003_8342_49f6_9ea0_07c55abcd4cc.jpeg"
+						class="fancybox"
+						title="����������� ��������������!"
+				><img 
+						class="preview_picture"
+						border="0"
+						src="/upload/resize_cache/iblock/035/200_150_2/2d5e7003_8342_49f6_9ea0_07c55abcd4cc.jpeg"
+					width="/"
+					height="/"
+						alt="����������� ��������������!"
+						title="����������� ��������������!"
+						style="float:left;border-radius:30px;"
+				/></a>
+										<span class="news-date-time">01.03.2021</span>
+											<a href="/index.php?ELEMENT_ID=30832"><b>����������� ��������������!</b></a><br />
+										����������� ��������������! ������� 4� ������ ����������� ���������� ����������!				<br><a href="/index.php?ELEMENT_ID=30832">������ ��������</a>
+					<div style="clear:both"></div>
+							<small>
+			</small><br />
+					</p>
+		<p class="news-item" id="bx_651765591_30831">
+							<span style="display:none"></span>
+		<pre>
+</pre>
+				<a href="/upload/iblock/71a/sozvezdie-3.jpg"
+						class="fancybox"
+						title="������ ������������ �� ������������� ��� � ������ ������� &quot;����� ������� ������ - �������� ������&quot;"
+				><img 
+						class="preview_picture"
+						border="0"
+						src="/upload/resize_cache/iblock/71a/200_150_2/sozvezdie-3.jpg"
+					width="/"
+					height="/"
+						alt="������ ������������ �� ������������� ��� � ������ ������� &quot;����� ������� ������ - �������� ������&quot;"
+						title="������ ������������ �� ������������� ��� � ������ ������� &quot;����� ������� ������ - �������� ������&quot;"
+						style="float:left;border-radius:30px;"
+				/></a>
+										<span class="news-date-time">01.03.2021</span>
+											<a href="/index.php?ELEMENT_ID=30831"><b>������ ������������ �� ������������� ��� � ������ ������� &quot;����� ������� ������ - �������� ������&quot;</b></a><br />
+										26 ������� ������� ����� &quot;���������&quot; ������ ������ ������������ ��� ��������� �������� ������ ������� �� ������������ ������������� ��������� ���������� ����������� �����.�				<br><a href="/index.php?ELEMENT_ID=30831">������ ��������</a>
+					<div style="clear:both"></div>
+							<small>
+			</small><br />
+					</p>
+		<p class="news-item" id="bx_651765591_30830">
+							<span style="display:none"></span>
+		<pre>
+</pre>
+				<a href="/upload/iblock/825/img_20210225_091350.jpg"
+						class="fancybox"
+						title="��������������� ���������� � ������ �����������"
+				><img 
+						class="preview_picture"
+						border="0"
+						src="/upload/resize_cache/iblock/825/200_150_2/img_20210225_091350.jpg"
+					width="/"
+					height="/"
+						alt="��������������� ���������� � ������ �����������"
+						title="��������������� ���������� � ������ �����������"
+						style="float:left;border-radius:30px;"
+				/></a>
+										<span class="news-date-time">26.02.2021</span>
+											<a href="/index.php?ELEMENT_ID=30830"><b>��������������� ���������� � ������ �����������</b></a><br />
+										��� � ������� � ����� ���������� ��������� ����� ��������.				<br><a href="/index.php?ELEMENT_ID=30830">������ ��������</a>
+					<div style="clear:both"></div>
+							<small>
+			</small><br />
+					</p>
+		<p class="news-item" id="bx_651765591_30829">
+							<span style="display:none"></span>
+		<pre>
+</pre>
+				<a href="/upload/iblock/9f9/img_c97767086d5397ed1f349ecd4a1d9ebb_v.jpg"
+						class="fancybox"
+						title="������� ��� ���������"
+				><img 
+						class="preview_picture"
+						border="0"
+						src="/upload/resize_cache/iblock/9f9/200_150_2/img_c97767086d5397ed1f349ecd4a1d9ebb_v.jpg"
+					width="/"
+					height="/"
+						alt="������� ��� ���������"
+						title="������� ��� ���������"
+						style="float:left;border-radius:30px;"
+				/></a>
+										<span class="news-date-time">26.02.2021</span>
+											<a href="/index.php?ELEMENT_ID=30829"><b>������� ��� ���������</b></a><br />
+										������� 5� ����������� ������� ��� ��������� � ����� ��������� 23 �������.				<br><a href="/index.php?ELEMENT_ID=30829">������ ��������</a>
+					<div style="clear:both"></div>
+							<small>
+			</small><br />
+					</p>
+		<p class="news-item" id="bx_651765591_30828">
+							<span style="display:none"></span>
+		<pre>
+</pre>
+				<a href="/upload/iblock/00a/wszkpafbij4.jpg"
+						class="fancybox"
+						title="��������� &quot;������������ � ���������&quot;"
+				><img 
+						class="preview_picture"
+						border="0"
+						src="/upload/resize_cache/iblock/00a/200_150_2/wszkpafbij4.jpg"
+					width="/"
+					height="/"
+						alt="��������� &quot;������������ � ���������&quot;"
+						title="��������� &quot;������������ � ���������&quot;"
+						style="float:left;border-radius:30px;"
+				/></a>
+										<span class="news-date-time">26.02.2021</span>
+											<a href="/index.php?ELEMENT_ID=30828"><b>��������� &quot;������������ � ���������&quot;</b></a><br />
+										���������� ����������� ���������� ��� ������������ ����� ������������ ��������� ������� ��������� ����� ��������� &laquo;������������ � ���������&raquo; �� ������ Ը���� ����������� ������������.�				<br><a href="/index.php?ELEMENT_ID=30828">������ ��������</a>
+					<div style="clear:both"></div>
+							<small>
+			</small><br />
+					</p>
+		<p class="news-item" id="bx_651765591_30827">
+							<span style="display:none"></span>
+		<pre>
+</pre>
+				<a href="/upload/iblock/e87/voslogo.png"
+						class="fancybox"
+						title="��������������� ��� ������������� ��������� �� ���������� � ���������� ������"
+				><img 
+						class="preview_picture"
+						border="0"
+						src="/upload/resize_cache/iblock/e87/200_150_2/voslogo.png"
+					width="/"
+					height="/"
+						alt="��������������� ��� ������������� ��������� �� ���������� � ���������� ������"
+						title="��������������� ��� ������������� ��������� �� ���������� � ���������� ������"
+						style="float:left;border-radius:30px;"
+				/></a>
+										<span class="news-date-time">26.02.2021</span>
+											<a href="/index.php?ELEMENT_ID=30827"><b>��������������� ��� ������������� ��������� �� ���������� � ���������� ������</b></a><br />
+										24 � 25 ������� ��������� �������� ������� ������� � ������������ ����� ������������� ���������.�				<br><a href="/index.php?ELEMENT_ID=30827">������ ��������</a>
+					<div style="clear:both"></div>
+							<small>
+			</small><br />
+					</p>
+		<p class="news-item" id="bx_651765591_30826">
+							<span style="display:none"></span>
+		<pre>
+</pre>
+				<a href="/upload/iblock/242/img_20210225_104405.jpg"
+						class="fancybox"
+						title="������� � �����"
+				><img 
+						class="preview_picture"
+						border="0"
+						src="/upload/resize_cache/iblock/242/200_150_2/img_20210225_104405.jpg"
+					width="/"
+					height="/"
+						alt="������� � �����"
+						title="������� � �����"
+						style="float:left;border-radius:30px;"
+				/></a>
+										<span class="news-date-time">26.02.2021</span>
+											<a href="/index.php?ELEMENT_ID=30826"><b>������� � �����</b></a><br />
+										25 ������� 13 ����������� �� 26 ����� ������� � ������� ����!				<br><a href="/index.php?ELEMENT_ID=30826">������ ��������</a>
+					<div style="clear:both"></div>
+							<small>
+			</small><br />
+					</p>
+		<p class="news-item" id="bx_651765591_30825">
+							<span style="display:none"></span>
+		<pre>
+</pre>
+				<a href="/upload/iblock/879/img_20210225_102415.jpg"
+						class="fancybox"
+						title="��������������� ���������� � ������. ���� ������. �������"
+				><img 
+						class="preview_picture"
+						border="0"
+						src="/upload/resize_cache/iblock/879/200_150_2/img_20210225_102415.jpg"
+					width="/"
+					height="/"
+						alt="��������������� ���������� � ������. ���� ������. �������"
+						title="��������������� ���������� � ������. ���� ������. �������"
+						style="float:left;border-radius:30px;"
+				/></a>
+										<span class="news-date-time">25.02.2021</span>
+											<a href="/index.php?ELEMENT_ID=30825"><b>��������������� ���������� � ������. ���� ������. �������</b></a><br />
+										��������������� ����� &quot;������� - ���� � ������� � ��������&quot;. ������ ������� ��������������� �������� �������� � �������� 2020 ����.				<br><a href="/index.php?ELEMENT_ID=30825">������ ��������</a>
+					<div style="clear:both"></div>
+							<small>
+			</small><br />
+					</p>
+		<p class="news-item" id="bx_651765591_30824">
+							<span style="display:none"></span>
+		<pre>
+</pre>
+				<a href="/upload/iblock/3d2/izobrazhenie_viber_2021_02_24_14_45_55.jpg"
+						class="fancybox"
+						title="������ �� ���������� ������ ���������� �������"
+				><img 
+						class="preview_picture"
+						border="0"
+						src="/upload/resize_cache/iblock/3d2/200_150_2/izobrazhenie_viber_2021_02_24_14_45_55.jpg"
+					width="/"
+					height="/"
+						alt="������ �� ���������� ������ ���������� �������"
+						title="������ �� ���������� ������ ���������� �������"
+						style="float:left;border-radius:30px;"
+				/></a>
+										<span class="news-date-time">25.02.2021</span>
+											<a href="/index.php?ELEMENT_ID=30824"><b>������ �� ���������� ������ ���������� �������</b></a><br />
+										� �������� ��������, �������� �� �����, � ������� ��������� ������ �� ���������� ������ &laquo;��������� �������&raquo;.�				<br><a href="/index.php?ELEMENT_ID=30824">������ ��������</a>
+					<div style="clear:both"></div>
+							<small>
+			</small><br />
+					</p>
+		<p class="news-item" id="bx_651765591_30823">
+							<span style="display:none"></span>
+		<pre>
+</pre>
+				<a href="/upload/iblock/08a/img_0060d7f84325e776d73156c445cbbcb4_v.jpg"
+						class="fancybox"
+						title="XVI �������� ��������� �������  �� ���������������� ����� &quot;���? ���? �����?&quot; "
+				><img 
+						class="preview_picture"
+						border="0"
+						src="/upload/resize_cache/iblock/08a/200_150_2/img_0060d7f84325e776d73156c445cbbcb4_v.jpg"
+					width="/"
+					height="/"
+						alt="XVI �������� ��������� �������  �� ���������������� ����� &quot;���? ���? �����?&quot; "
+						title="XVI �������� ��������� �������  �� ���������������� ����� &quot;���? ���? �����?&quot; "
+						style="float:left;border-radius:30px;"
+				/></a>
+										<span class="news-date-time">25.02.2021</span>
+											<a href="/index.php?ELEMENT_ID=30823"><b>XVI �������� ��������� �������  �� ���������������� ����� &quot;���? ���? �����?&quot; </b></a><br />
+										� ���������� ������� ������� ����� 80 ������ �� ������ ���� ������ ������� � ���������� ����������, ����������� � ������� ������� �� ������� �� ���� ������.				<br><a href="/index.php?ELEMENT_ID=30823">������ ��������</a>
+					<div style="clear:both"></div>
+							<small>
+			</small><br />
+					</p>
+		<p class="news-item" id="bx_651765591_30822">
+							<span style="display:none"></span>
+		<pre>
+</pre>
+				<a href="/upload/iblock/fa0/8pakszubzhc.jpg"
+						class="fancybox"
+						title="&quot;������� ������ ���� ���!&quot;"
+				><img 
+						class="preview_picture"
+						border="0"
+						src="/upload/resize_cache/iblock/fa0/200_150_2/8pakszubzhc.jpg"
+					width="/"
+					height="/"
+						alt="&quot;������� ������ ���� ���!&quot;"
+						title="&quot;������� ������ ���� ���!&quot;"
+						style="float:left;border-radius:30px;"
+				/></a>
+										<span class="news-date-time">25.02.2021</span>
+											<a href="/index.php?ELEMENT_ID=30822"><b>&quot;������� ������ ���� ���!&quot;</b></a><br />
+										� ������� ������� 3� ����� ������� ���������� �������� &quot;������� ������ ���� ���!&quot;				<br><a href="/index.php?ELEMENT_ID=30822">������ ��������</a>
+					<div style="clear:both"></div>
+							<small>
+			</small><br />
+					</p>
+		<p class="news-item" id="bx_651765591_30821">
+							<span style="display:none"></span>
+		<pre>
+</pre>
+				<a href="/upload/iblock/132/maksim-valerevich-boyko_-leningrdskaya-oblast_-murino_-uchitel-obshchestvoznaniya.jpg"
+						class="fancybox"
+						title="������� ���������� ����������� ��������� �������� 2021. ������ ���������� �����"
+				><img 
+						class="preview_picture"
+						border="0"
+						src="/upload/resize_cache/iblock/132/200_150_2/maksim-valerevich-boyko_-leningrdskaya-oblast_-murino_-uchitel-obshchestvoznaniya.jpg"
+					width="/"
+					height="/"
+						alt="������� ���������� ����������� ��������� �������� 2021. ������ ���������� �����"
+						title="������� ���������� ����������� ��������� �������� 2021. ������ ���������� �����"
+						style="float:left;border-radius:30px;"
+				/></a>
+										<span class="news-date-time">25.02.2021</span>
+											<a href="/index.php?ELEMENT_ID=30821"><b>������� ���������� ����������� ��������� �������� 2021. ������ ���������� �����</b></a><br />
+										��� ������ ���� �������� �������� � ������������� �� ������� � ��������� ������ &ndash; ����������, ������������ ������������� ��������� &laquo;�������������� �����&raquo; � �������� ����. ������ ������� ��������� � �������� � ������ ��������� ������ ���������� ����������� ��������� �������� ������ � �������, ����� ��������!				<br><a href="/index.php?ELEMENT_ID=30821">������ ��������</a>
+					<div style="clear:both"></div>
+							<small>
+			</small><br />
+					</p>
+		<p class="news-item" id="bx_651765591_30820">
+							<span style="display:none"></span>
+		<pre>
+</pre>
+				<a href="/upload/iblock/3af/img_77f442adb978669d03d363ff1c064226_v.jpg"
+						class="fancybox"
+						title="�������� ����������"
+				><img 
+						class="preview_picture"
+						border="0"
+						src="/upload/resize_cache/iblock/3af/200_150_2/img_77f442adb978669d03d363ff1c064226_v.jpg"
+					width="/"
+					height="/"
+						alt="�������� ����������"
+						title="�������� ����������"
+						style="float:left;border-radius:30px;"
+				/></a>
+										<span class="news-date-time">25.02.2021</span>
+											<a href="/index.php?ELEMENT_ID=30820"><b>�������� ����������</b></a><br />
+										� ������� � ������� ������ ����� ���������� ���������� �� ������������ ������.				<br><a href="/index.php?ELEMENT_ID=30820">������ ��������</a>
+					<div style="clear:both"></div>
+							<small>
+			</small><br />
+					</p>
+</div>
+</p>
+ 
+<p align="center"> 
+  <br />
+ </p>
+ 
+<p align="center"><font size="4"><a href="http://school97.ru/about/news/" ><b>��� �������</b></a></font></p>
+ 
+                        </div>
+                    </div>
+                </div>
+            </td>
+<td valign="top">
+<div class="right-side">
+    <div class="block-blue-h2"><p class="h2">��������</p></div>
+    <div class="block-blue">
+        <div class="block-blue-c">
+            <dl class="block-news">
+                		
+			
+<dd><a href="/news/vac/detail.php?ID=22785" >���������</a></dd>
+			
+<dd><a href="/news/vac/detail.php?ID=14537" >������������� �������� �����������</a></dd>
+			
+<dd><a href="/news/vac/detail.php?ID=30142" >�����������</a></dd>
+			
+<dd><a href="/news/vac/detail.php?ID=21357" >����������� �� ������� ����������� �����</a></dd>
+							            </dl>
+            <p><strong><a href="/news/vac">��� ��������</a></strong></p>
+        </div>
+    </div>
+
+    <div class="block-yellow-h2"><p class="h2">����������</p></div>
+    <div class="block-yellow">
+        <div class="block-yellow-c">
+            <dl class="block-news">
+                		
+			
+<dd><a href="/board/detail.php?ID=30531" >���������� �� ��������� ������ �� 2020 - 2021 ������� ���</a></dd>
+			
+<dd><a href="/board/detail.php?ID=30521" >���������������-���������� ���� � 3D-������</a></dd>
+			
+<dd><a href="/board/detail.php?ID=30143" >����� � ����������� ������. 1-4 ������</a></dd>
+			
+<dd><a href="/board/detail.php?ID=30021" > ����������� �������� �������� � ����� ����</a></dd>
+			
+<dd><a href="/board/detail.php?ID=30145" >�������� ����-�������</a></dd>
+			
+<dd><a href="/board/detail.php?ID=27280" >������ ������ 2020-2021</a></dd>
+							            </dl>
+            <p><strong><a href="/board/">��� ����������</a></strong></p>
+        </div>
+    </div>
+
+    <div class="block-blue-h2"><p class="h2">����� ������</p></div>
+    <div class="block-blue">
+        <div class="block-blue-c">
+            �� 01 ����� 2021 �. :
+            <p></p>
+
+            <dl class="block-news">
+                		
+			
+<dd><a href="/FORMA/detail.php?ID=9982" >������������ (�� ������ ���������� �������� - ����������)</a></dd>
+							            </dl>
+
+
+
+        </div>
+    </div>
+
+	<div class="block-yellow-h2"><p class="h2">���������� �������</p></div>
+    <div class="block-yellow">
+        <div class="block-yellow-c block-bells">
+		   <p><strong><a href="/bells/">������ ������</a></strong></p>
+        </div>
+    </div>
+	<style>
+		.block-bells {
+			padding: 10px;
+		}
+		.item-bells {
+			margin-bottom: 15px;
+			padding: 5px;
+			border: 1px solid #FFE0B2;
+		}
+	
+		.title-bells {
+			font-size: 14px;
+			color: #616161;
+			text-align: center;		
+		}
+		.description-bells {
+			font-size: 12px;
+			color: #616161;
+			text-align: center;
+		}
+		
+		.housing-bells {
+			padding: 0px;
+			color: #757575;
+		}
+	
+	</style>
+	
+	<script>
+		var date = new Date();
+		function declOfNum(number, titles = ["������", "������", "�����"]) {  
+			cases = [2, 0, 1, 1, 1, 2];  
+			return titles[ (number%100>4 && number%100<20)? 2 : cases[(number%10<5)?number%10:5] ];  
+		}
+		$.getJSON( window.location.origin + "/bells/" + date.getDate() + "-" + (date.getMonth() + 1)  + "-" + date.getFullYear() + ".json", function( data ) {
+			function loadBells() {
+				let html_bells = "";
+				date = new Date();
+				let time = date.getHours() * 60 + date.getMinutes();
+				for (key in data) {
+					html_bells += '<div class="item-bells"><p class="housing-bells">������ ' + (key == 3 ? '3,7' : key) + '</p>';
+					let title = '<p class="title-bells">���������� �����</p>';
+					let description = '<p class="description-bells"></p></div>';
+					data[key].forEach(function(item) {
+						if(time > item["time_begin"] && time <= item["time_end"]) {
+							if(item["type"] === 0) title = '<p class="title-bells">��������</p>'; else title = '<p class="title-bells">���� ' + item["type"] + ' ����</p>';	
+							let end = item["time_end"] - time; 
+							description = '<p class="description-bells">�� ���������: ' + end + ' ' + declOfNum(end) + '</p></div>'; 
+						}
+					});
+					html_bells += title + description;
+				}
+				$(".block-bells").html(html_bells + '<p><strong><a href="/bells/">������ ������</a></strong></p>');
+			}
+			loadBells();
+			setInterval(loadBells, 30000);
+		});	
+	</script>
+	
+    <div class="block-blue-h2"><p class="h2">������ ������</p></div>
+    <div class="block-blue">
+        <div class="block-blue-c">
+			<a href="/changes/"><img src="/changes/img/logo.png" style="width: 100%;"/></a>
+            <p style="font-size: 10px;"><strong><a href="/changes/">��������� ���������� ������</a></strong></p>
+        </div>
+    </div>
+
+
+    <div class="block-yellow-h2"><p class="h2">��������� �����</p></div>
+    <div class="block-yellow">
+        <div class="block-yellow-c">
+            <dl class="block-news">
+                <p><a href="/MobileUROK/#tab_all"><b>���</b></a></p>
+                <p><a href="/MobileUROK/#tab_ended"><b>�����������</b></a></p>
+                <p><a href="/MobileUROK/#tab_planned"><b>���������������</b></a></p>
+            </dl>
+        </div>
+    </div>
+
+
+
+    <div class="block-blue-h2"><p class="h2">����� ����</p></div>
+    <div class="block-blue">
+        <div class="block-blue-c">
+            <div class="preview-pic">
+                <!--'start_frame_cache_uyBgE2'--><div class="photo-random">
+			<a href="/foto20/"><img
+				border="0"
+				src="/upload/iblock/8b0/dsc_3242.jpg"
+			width="148"
+			height="111"
+				alt="DSC_3242.JPG"
+				title="DSC_3242.JPG"
+				/></a><br />
+		<!--<a href=""></a>-->
+</div>
+<!--'end_frame_cache_uyBgE2'-->                <span class="png"></span></a></div>
+            <p class="p12 center"><a href="/foto20"><strong>����� �����������</strong></a></p>
+            <p class="p12 center"><a href="/foto"><small><strong>������ �����������(�����)</strong></small></a></p>
+        </div>
+    </div>
+
+<div class="block-yellow-h2"><p class="h2">�� �������</p></div>
+    <div class="block-yellow">
+        <div class="block-yellow-c">
+            <dl class="block-news2">
+                <ul>
+                    <li>- <a href="https://school97.ru/audio/">������ ������������</a></li>
+                </ul>
+
+            </dl>
+        </div>
+    </div>
+
+
+    <div class="block-blue-h2"><p class="h2">����� � ��������</p></div>
+    <div class="block-blue">
+        <div class="block-blue-c">
+            <dl class="block-news2">
+                <ul>
+                    <li>- <a href="https://school97.ru/Files/kanikuly_osen.php">������� ��������</a></li>
+                    <li>- <a href="https://school97.ru/Files/kanikuly_zimnie.php">������ ��������</a></li>
+                    <li>- <a href="https://school97.ru/Files/kanikuly_tvorch.php">���������� (�����������) ��������</a></li>
+                    <li>- <a href="https://school97.ru/Files/kanikuly_vesna.php">�������� ��������</a></li>
+                    <li>- <a href="https://school97.ru/Files/kanikuly_leto.php">������ ��������</a></li>
+                </ul>
+
+            </dl>
+        </div>
+    </div>
+	<div class="block-yellow-h2"><p class="h2">������� ��������</p></div>      
+	<div align="center" style="margin-bottom:10px;">
+		<a href="/records/index.php"><img width="210px" height="180px" src="/bitrix/templates/new/images/kubok2.png"/></a><br/>
+	</div>
+
+            
+    
+    
+    <h1 align="center">
+		<a href="/so-shkoloy-v-krym/v-Krym.php"><img width="210px"  src="/bitrix/templates/new/images/�rimea.jpg"/></a>
+	</h1>
+    <h1 align="center">
+		<a href="/bonusy-i-lgoty/bonusy-i-lgoty-ssylka.php"><img width="210px" " src="/bitrix/templates/new/images/med.jpg"/></a>
+	</h1>
+	<!--<h1 align="center">
+		<a href="/novaya-stranitsa-2.php"><img src="/bitrix/templates/new/images/aeroflot.jpg"/></a>
+	</h1>-->	
+	<!-- <img src="/files_other/helpline.jpg" width="210px" "> -->
+    <a href="https://telefon-doveria.ru/"><img src="/files_other/helpline.jpg" width="210px"></a>
+	<a href="https://vk.com/club85027278"><img src="/bitrix/templates/new/images/vk.png" width="240px"></a><br><br><br>
+	<a href="https://vk.com/teplotrassa_97"><img src="/bitrix/templates/new/images/vk2.JPG" width="240px"></a><br><br><br>
+	<a href="https://www.instagram.com/school.harmony97"><img src="/bitrix/templates/new/images/inst.png" width="240px"></a>
+
+
+</div>
+            </td></tr></table>
+</div>
+</div>
+</div>
+
+
+<div id="footer">
+    <div class="qc"><a href="https://www.school97.ru/Predlozenia_po_rabote/index.php" class="btn btn-primary" >���� ����������� �� ��������� ������</a></div>
+    <p><center><br><font color="#FF0000"><font size="+1"><b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		20 ������ 2021 ���� ��� ����������� 24 ����!	</b></font></font></center></p>
+    <div id="topbutton" style="bottom: -70px;"><i>^</i></div>
+    <div id="ban">
+        <!--LiveInternet logo-->
+        <!--noindex--><a href="https://www.liveinternet.ru/click" target=_blank><img src="https://counter.yadro.ru/logo?16.10" border=0 alt="liveinternet.ru: �������� ����� ���������� �� 24 ����, ����������� �� 24 ���� � �� �������" width=88 height=31></a><!--/LiveInternet--><!--/noindex-->
+       
+		<!-- Rating Mail.ru logo -->
+		<a href="https://top.mail.ru/jump?from=825828">
+		<img src="https://top-fwz1.mail.ru/counter?id=825828;t=131;l=1;ver=20"border=0 height=40 width=88alt="�������@Mail.ru"/>
+		<!--<img src="https://top-fwz1.mail.ru/counter?id=825828;t=617;l=1" style="border:0;" height="40" width="88" alt="Top.Mail.Ru" />-->
+		</a>
+		
+		<!-- //Rating Mail.ru logo -->
+
+		<br/>
+		
+		<a class="mobile-app" href="https://play.google.com/store/apps/details?id=ru.school97.harmony"><img src="/bitrix/templates/new/images/google-play-badge.png" height="40"></a>
+		<a class="mobile-app" href="https://itunes.apple.com/us/app/id1443709457"><img src="/bitrix/templates/new/images/app-stote-badge.svg" height="40"></a>
+	</div>
+    <div id="copyright">
+        <p>2004-2021 �.<br />
+            ������������� ���������������<br />
+            �������� ��������� - ����� �97�, �. ������</p>
+    </div>
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter39551470 = new Ya.Metrika({
+                    id:39551470,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/39551470" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+    <div id="technik">
+        <p>����������� ���������<br />
+            <a href="mailto:webmaster@school97.ru">webmaster@school97.ru</a><br /><br />
+			<a href="https://school97.ru/policy/">�������� ������������������</a>
+		</p>
+    </div>
+</div>
+</body>
+</html>

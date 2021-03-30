@@ -1,0 +1,1784 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/html">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title>МедМаг — магазин для диабетиков, интернет-магазин диабетических товаров: тест-полоски, глюкометры, инсулиновые помпы</title>
+<meta name="Description" content="В магазине диабетических товаров МедМаг можно купить тест-полоски, глюкометры, инсулиновые помпы, расходные материалы и другие товары для диабетиков и гипертоников в Москве с доставкой по всей России"/>
+<meta name="Keywords" content="интернет-магазин диабетических товаров, купить тест-полоски, глюкометры, инсулиновые помпы, расходные материалы для диабетиков"/>
+
+	<style type="text/css">
+    @import "/styles.min.css";
+    @import "/seotime.css";
+</style>
+<!--<LINK title=default href="styles.css" type=text/css rel=stylesheet>-->
+<link rel="icon" href="/favicon.ico" type="image/x-icon"/>
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon"/>
+<meta name=viewport content="width=device-width, initial-scale=1"/>
+<link href="https://cdn.jsdelivr.net/npm/select2@4.0.13/dist/css/select2.min.css" rel="stylesheet" />
+<link rel='stylesheet' href='/css/style.min1.css' type='text/css' media='all' />
+<meta name="google-site-verification" content="IDCHwrRfcuuthSzNWwuZ90axImo8dc5Jz8fDzKDUBIA" />
+<link rel="canonical" href="https://www.medmag.ru/"/>    <!--[if IE]>
+<link type="text/css" rel="stylesheet" href="/css/style_ie.css" />
+<![endif]-->
+	<link rel="stylesheet" media="screen and (max-width: 960px)" href="/css/mobiles.css"/>
+
+    
+    <script type="text/javascript" src="/js/jquery.min.js"></script>
+<script type="text/javascript" src="/js/jquery.cycle.all2.js"></script>
+<script type="text/javascript" src="/js/jquery-ui.min.js"></script>
+<script type="text/javascript" src="/js/jquery.cookie.js"></script>
+<script src="https://api-maps.yandex.ru/2.1/?apikey=10c0dd3e-6d31-4803-97d3-7faf810c1f35&lang=ru_RU" type="text/javascript"></script>
+<script type="text/javascript" src="/js/jquery.sticky-sidebar.min.js"></script>
+<script type="text/javascript" src="/js/scripts.js"></script>
+
+
+
+<script src="/js/select2.min.js"></script>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-152601737-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-152601737-1');
+    </script>
+    
+</head><body>
+<input type="hidden" name="jjsjsjs" value="">
+<header>
+    <div class="topbar">
+        <div class="f-center container">
+            <div class="hd-text">
+                Крупная сеть диабетических магазинов в России с 2001 г. Быстрая доставка.
+            </div>
+            <div class="w-23 social">
+                <div class="f-center">
+                    <a href="https://telegram.me/MedMag21" target="_blank" class="telegram"></a>
+                    <a href="viber://chat?number=79255447829" target="_blank" class="viber"></a>
+                    <a href="https://wa.me/79255447829" target="_blank" class="whatsapp"></a>
+                </div>
+            </div>
+            <div class="w-23 social">
+                <div class="f-center">
+                    <!--<a href="https://t.me/diabetkp" target="_blank" class="telegram"></a>-->
+                    <a href="https://vk.com/dostupnye_poloski" target="_blank" class="vk"></a>
+                    <a href="https://www.facebook.com/groups/609866249198418/" target="_blank" class="fb"></a>
+                    <a href="https://www.instagram.com/medmag.moscow/" target="_blank" class="instagram"></a>
+                    <a href="https://www.youtube.com/channel/UCUAaIrujLcTRiXYhgWdmw7Q" target="_blank" class="youtube"></a>
+                    <a href="#" class="mail callme_button22"></a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="mainheader container">
+        <div class="mainheader-s logo">
+            <a href="/"><img src="/css/images/logo_mm.png"></a>
+        </div>
+        <div class="mainheader-l search">
+            <div class="search-new-2">
+                <form action="index.php" method="get" class="headsearch">
+                    <div class="msearch3">
+                        <input type="text" name="searchstring" size="20" value="" placeholder="Поиск">
+                    </div>
+                    <div class="ui-helper-hidden">
+                        <select name="select">
+                            <option>Все производители</option>
+                        </select>
+                        <select name="select2">
+                            <option>Все категории</option>
+                        </select>
+                    </div>
+                    <div class="search-icon">
+                        <input name="image" type="image" src="/css/images/search.png" alt="Искать" border="0">
+                    </div>
+                </form>
+            </div>
+        </div>
+        <div class="mainheader-s phones">
+            <div class="phones-text">Поможем с выбором. Звоните!</div>
+            <div class="phones-num">
+                <select class="js-phone-top" name="phone">
+                    <option value="Многоканальный">+7 (495) 221-22-76</option>
+                                            <option value="Проспект Мира">+7 (495) 643-29-38</option>
+                        <optgroup label="Проспект Мира">
+                                            <option value="Текстильщики">+7 (495) 995-34-30</option>
+                        <optgroup label="Текстильщики">
+                                            <option value="Маяковская">+7 (495) 995-85-71</option>
+                        <optgroup label="Маяковская">
+                                            <option value="Таганская">+7 (495) 915-79-88</option>
+                        <optgroup label="Таганская">
+                                            <option value="Доставка по РФ">+7 (929) 601-28-52</option>
+                        <optgroup label="Доставка по РФ">
+                                            <option value="Курьер Москва">+7 (495) 543-37-55</option>
+                        <optgroup label="Курьер Москва">
+                                            <option value="Санкт-Петербург">+7 (812) 988-68-00</option>
+                        <optgroup label="Санкт-Петербург">
+                                    </select>
+            </div>
+            <span class="txbottom">Многоканальный</span>
+            <div class="phones-call form callme_button11">заказать бесплатный звонок</div>
+        </div>
+        <div class="iconphone">
+            <a href="#ex1" rel="modal:open" >
+                <svg class="" width="18.031" height="17.969" viewBox="0 0 18.031 17.969"><path style=" fill: #08a826; " class="cls-1" d="M673.56,155.153c-4.179-4.179-6.507-7.88-2.45-12.3l0,0a3,3,0,0,1,4.242,0l1.87,2.55a3.423,3.423,0,0,1,.258,3.821l-0.006-.007c-0.744.7-.722,0.693,0.044,1.459l0.777,0.873c0.744,0.788.759,0.788,1.458,0.044l-0.009-.01a3.153,3.153,0,0,1,3.777.264l2.619,1.889a3,3,0,0,1,0,4.243C681.722,162.038,677.739,159.331,673.56,155.153Zm11.17,1.414a1,1,0,0,0,0-1.414l-2.618-1.89a1.4,1.4,0,0,0-.926-0.241l0.009,0.009c-1.791,1.835-2.453,1.746-4.375-.132l-1.05-1.194c-1.835-1.878-1.518-2.087.272-3.922l0,0a1.342,1.342,0,0,0-.227-0.962l-1.87-2.549a1,1,0,0,0-1.414,0l-0.008-.009c-2.7,3.017-.924,6.1,2.453,9.477s6.748,5.54,9.765,2.837Z" transform="translate(-669 -142)"></path></svg>
+            </a>
+            <a href="#ex2" class="msearch12">
+            <i class="svg inline  svg-inline-search" aria-hidden="true"><svg class="" width="17" height="17" viewBox="0 0 17 17" aria-hidden="true"><path style=" fill: #08a826; "  class="cls-1" d="M16.709,16.719a1,1,0,0,1-1.412,0l-3.256-3.287A7.475,7.475,0,1,1,15,7.5a7.433,7.433,0,0,1-1.549,4.518l3.258,3.289A1,1,0,0,1,16.709,16.719ZM7.5,2A5.5,5.5,0,1,0,13,7.5,5.5,5.5,0,0,0,7.5,2Z"></path></svg></i>
+            </a>
+            <form action="index.php" method="get" class="headsearch msearch22" style="display:none;">
+                    <div class="msearch3">
+                        <input type="text" name="searchstring" size="20" value="" placeholder="Поиск">
+                    </div>
+                    <div class="ui-helper-hidden">
+                        <select name="select">
+                            <option>Все производители</option>
+                        </select>
+                        <select name="select2">
+                            <option>Все категории</option>
+                        </select>
+                    </div>
+                    <div class="search-icon">
+                        <input name="image" type="image" src="/css/images/search.png" alt="Искать" border="0">
+                    </div>
+                </form>
+            <a href="/index.php?shopping_cart=yes&lc=&lp=">
+                <svg style=" fill: #08a826; " class="" width="19" height="16" viewBox="0 0 19 16"><path style=" fill: #08a826; " data-name="Ellipse 2 copy 9" class="cls-1" d="M956.047,952.005l-0.939,1.009-11.394-.008-0.952-1-0.953-6h-2.857a0.862,0.862,0,0,1-.952-1,1.025,1.025,0,0,1,1.164-1h2.327c0.3,0,.6.006,0.6,0.006a1.208,1.208,0,0,1,1.336.918L943.817,947h12.23L957,948v1Zm-11.916-3,0.349,2h10.007l0.593-2Zm1.863,5a3,3,0,1,1-3,3A3,3,0,0,1,945.994,954.005ZM946,958a1,1,0,1,0-1-1A1,1,0,0,0,946,958Zm7.011-4a3,3,0,1,1-3,3A3,3,0,0,1,953.011,954.005ZM953,958a1,1,0,1,0-1-1A1,1,0,0,0,953,958Z" transform="translate(-938 -944)"></path></svg>
+                <span class="fix">0</span>
+            </a>
+        </div>
+        <div class="mainheader-s cart">
+            <div class="cart-top">
+                <noindex>
+                    <a href="/index.php?shopping_cart=yes&lc=&lp=">
+                        <div class="cart-image">
+                            <img src="/css/images/shoppingcart.png"/>
+                        </div>
+                        <div class="cart-right">
+                                                        <div class="cart-right-name">Корзина</div>
+                            <div class="quality">
+                                                                <span>пуста</span>
+                                                            </div>
+                                                    </div>
+                </noindex>
+                </a>
+            </div>
+
+        </div>
+    </div>
+
+</header>
+
+<div class="headerfixed">
+    <div class="mainheader container">
+        <div class="mainheader-s logo">
+            <a href="/"><img src="/css/images/logo_mm.png"></a>
+        </div>
+        <div class="mainheader-l search">
+            <div class="search-new-2">
+                <form action="index.php" method="get" class="headsearch">
+                    <div class="msearch3">
+                        <input type="text" name="searchstring" size="20" value="" placeholder="Поиск">
+                    </div>
+                    <div class="ui-helper-hidden">
+                        <select name="select">
+                            <option>Все производители</option>
+                        </select>
+                        <select name="select2">
+                            <option>Все категории</option>
+                        </select>
+                    </div>
+                    <div class="search-icon">
+                        <input name="image" type="image" src="/css/images/search.png" alt="Искать" border="0">
+                    </div>
+                </form>
+            </div>
+        </div>
+        <div class="mainheader-s phones">
+            <div class="phones-text">Поможем с выбором. Звоните!</div>
+            <div class="phones-num">
+                <select class="js-phone-top" name="phone">
+                    <option value="Многоканальный">+7 (495) 221-22-76</option>
+                                        <option value="Проспект Мира">+7 (495) 643-29-38</option>
+                    <optgroup label="Проспект Мира">
+                                            <option value="Текстильщики">+7 (495) 995-34-30</option>
+                    <optgroup label="Текстильщики">
+                                            <option value="Маяковская">+7 (495) 995-85-71</option>
+                    <optgroup label="Маяковская">
+                                            <option value="Таганская">+7 (495) 915-79-88</option>
+                    <optgroup label="Таганская">
+                                            <option value="Доставка по РФ">+7 (929) 601-28-52</option>
+                    <optgroup label="Доставка по РФ">
+                                            <option value="Курьер Москва">+7 (495) 543-37-55</option>
+                    <optgroup label="Курьер Москва">
+                                            <option value="Санкт-Петербург">+7 (812) 988-68-00</option>
+                    <optgroup label="Санкт-Петербург">
+                                        </select>
+            </div>
+            <div class="phones-call form callme_button11">заказать бесплатный звонок</div>
+        </div>
+        <div class="iconphone">
+            <a href="#ex1" rel="modal:open" >
+                <svg class="" width="18.031" height="17.969" viewBox="0 0 18.031 17.969"><path style=" fill: #08a826; " class="cls-1" d="M673.56,155.153c-4.179-4.179-6.507-7.88-2.45-12.3l0,0a3,3,0,0,1,4.242,0l1.87,2.55a3.423,3.423,0,0,1,.258,3.821l-0.006-.007c-0.744.7-.722,0.693,0.044,1.459l0.777,0.873c0.744,0.788.759,0.788,1.458,0.044l-0.009-.01a3.153,3.153,0,0,1,3.777.264l2.619,1.889a3,3,0,0,1,0,4.243C681.722,162.038,677.739,159.331,673.56,155.153Zm11.17,1.414a1,1,0,0,0,0-1.414l-2.618-1.89a1.4,1.4,0,0,0-.926-0.241l0.009,0.009c-1.791,1.835-2.453,1.746-4.375-.132l-1.05-1.194c-1.835-1.878-1.518-2.087.272-3.922l0,0a1.342,1.342,0,0,0-.227-0.962l-1.87-2.549a1,1,0,0,0-1.414,0l-0.008-.009c-2.7,3.017-.924,6.1,2.453,9.477s6.748,5.54,9.765,2.837Z" transform="translate(-669 -142)"></path></svg>
+            </a>
+            
+            <a href="/index.php?shopping_cart=yes&lc=&lp=">
+                <svg style=" fill: #08a826; " class="" width="19" height="16" viewBox="0 0 19 16"><path style=" fill: #08a826; " data-name="Ellipse 2 copy 9" class="cls-1" d="M956.047,952.005l-0.939,1.009-11.394-.008-0.952-1-0.953-6h-2.857a0.862,0.862,0,0,1-.952-1,1.025,1.025,0,0,1,1.164-1h2.327c0.3,0,.6.006,0.6,0.006a1.208,1.208,0,0,1,1.336.918L943.817,947h12.23L957,948v1Zm-11.916-3,0.349,2h10.007l0.593-2Zm1.863,5a3,3,0,1,1-3,3A3,3,0,0,1,945.994,954.005ZM946,958a1,1,0,1,0-1-1A1,1,0,0,0,946,958Zm7.011-4a3,3,0,1,1-3,3A3,3,0,0,1,953.011,954.005ZM953,958a1,1,0,1,0-1-1A1,1,0,0,0,953,958Z" transform="translate(-938 -944)"></path></svg>
+                <span class="fix">0</span>
+            </a>
+        </div>
+        <div class="mainheader-s cart">
+            <div class="cart-top">
+                <noindex>
+                    <a href="/index.php?shopping_cart=yes&lc=&lp=">
+                        <div class="cart-image">
+                            <img src="/css/images/shoppingcart.png"/>
+                        </div>
+                        <div class="cart-right">
+                                                        <div class="cart-right-name">Корзина</div>
+                            <div class="quality">
+                                                                <span>пуста</span>
+                                                            </div>
+                                                    </div>
+                </noindex>
+                </a>
+            </div>
+            <div class="cart-top mobileonly topnav1">
+                <noindex>
+                    <a href="/index.php?shopping_cart=yes&lc=&lp="
+                       style="display: block;max-width: 220px;margin: 0 auto;text-align: center;min-height: 10px;">
+                        <div class="cart-image">
+
+                            <img src="/images/2.jpg"/>
+                        </div>
+                        <div class="cart-right">
+                            <div class="cart-right-name">Моя корзина</div>
+                            <div class="quality">
+                                                                <span>0 товаров</span>
+                                                            </div>
+                        </div>
+                </noindex>
+                </a>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+
+<nav>
+    <div class="mmenu1">
+        <ul class="topnav" id="myTopnav">
+                        <li><a href="https://www.medmag.ru/#catalog">Каталог</a></li>
+                                    <li><a href="/payment.html">Доставка</a></li>
+                                    <li><a href="/varianty-oplaty.html">Оплата</a></li>
+                                    <li><a href="/adv.html">Лучшая цена</a></li>
+                        <li class="left12"><a href="https://www.medmag.ru/index.php?pageID=126">Как сэкономить на тест-полосках </a></li>
+                <li class="left12"><a href="/index.php?pageID=99">Какой глюкометр выбрать</a></li>                                                
+                                    <li><a href="/index.php?categoryID=13">Акции</a></li>
+                        <li class="left12"><a href="/index.php?articleID=392">200 руб. в подарок! </a></li>
+                <li class="left12"><a href="/index.php?articleID=370">Акция «Халява»</a></li>                <li class="left12"><a href="/index.php?articleID=298">Купи БОЛЬШЕ - плати МЕНЬШЕ! Скидка 40%!</a></li>                <li class="left12"><a href="/index.php?articleID=387">Розыгрыш тест-полосок!</a></li>                <li class="left12"><a href="/index.php?articleID=385">Скидки растут - цены падают! Скидки до 50%!</a></li>
+                                    <li><a href="/index.php?article_catID=15">Новости</a></li>
+                                    <li><a href="/about.html">О компании</a></li>
+                        <li class="left12"><a href="/index.php?pageID=82">Руководство компании </a></li>
+                <li class="left12"><a href="/index.php?pageID=91">Наши продавцы-консультанты</a></li>                                                
+                                    <li><a href="/wholesale.html">Для организаций</a></li>
+                                    <li><a href="/articles.html">О диабете</a></li>
+                        <li class="left12"><a href="/index.php?article_catID=5">Полезные статьи </a></li>
+                                                                
+                                    <li><a href="/submit.html">Отзывы</a></li>
+                                    <li><a href="/contacts.html">Контакты</a></li>
+                        <li class="left12"><a href="/contacts-pm.html">МЕДМАГ на Проспекте Мира </a></li>
+                <li class="left12"><a href="/contacts-tg.html">МЕДМАГ на Таганской</a></li>                <li class="left12"><a href="/contacts-mayakovskaya.html">МЕДМАГ на Маяковской</a></li>                <li class="left12"><a href="/contacts-tk.html">МЕДМАГ в Текстильщиках</a></li>                
+                                    <li class="icon"><a href="javascript:void(0);" onclick="myFunction()"><img src="/images/menu-alt.png"/></a>
+            </li>
+        </ul>
+    </div>
+    <div class="mhidden">
+
+        <div class="menu-new">
+            <div class="dark">
+                
+<div class="cont">
+<a href="https://www.medmag.ru/#catalog" class="">Каталог</a>
+    
+</div>
+
+<div class="cont">
+<a href="/payment.html" class="">Доставка</a>
+    
+</div>
+
+<div class="cont">
+<a href="/varianty-oplaty.html" class="">Оплата</a>
+    
+</div>
+
+<div class="cont">
+<a href="/adv.html" class="">Лучшая цена</a>
+        <div class="hovermenu">
+        <a href="https://www.medmag.ru/index.php?pageID=126">Как сэкономить на тест-полосках </a>
+        <a href="/index.php?pageID=99">Какой глюкометр выбрать</a>                            </div>
+    
+</div>
+
+<div class="cont">
+<a href="/index.php?categoryID=13" class="">Акции</a>
+        <div class="hovermenu">
+        <a href="/index.php?articleID=392">200 руб. в подарок! </a>
+        <a href="/index.php?articleID=370">Акция «Халява»</a>        <a href="/index.php?articleID=298">Купи БОЛЬШЕ - плати МЕНЬШЕ! Скидка 40%!</a>        <a href="/index.php?articleID=387">Розыгрыш тест-полосок!</a>        <a href="/index.php?articleID=385">Скидки растут - цены падают! Скидки до 50%!</a>    </div>
+    
+</div>
+
+<div class="cont">
+<a href="/index.php?article_catID=15" class="">Новости</a>
+    
+</div>
+
+<div class="cont">
+<a href="/about.html" class="">О компании</a>
+        <div class="hovermenu">
+        <a href="/index.php?pageID=82">Руководство компании </a>
+        <a href="/index.php?pageID=91">Наши продавцы-консультанты</a>                            </div>
+    
+</div>
+
+<div class="cont">
+<a href="/wholesale.html" class="">Для организаций</a>
+    
+</div>
+
+<div class="cont">
+<a href="/articles.html" class="">О диабете</a>
+        <div class="hovermenu">
+        <a href="/index.php?article_catID=5">Полезные статьи </a>
+                                    </div>
+    
+</div>
+
+<div class="cont">
+<a href="/submit.html" class="">Отзывы</a>
+    
+</div>
+
+<div class="cont">
+<a href="/contacts.html" class="">Контакты</a>
+        <div class="hovermenu">
+        <a href="/contacts-pm.html">МЕДМАГ на Проспекте Мира </a>
+        <a href="/contacts-tg.html">МЕДМАГ на Таганской</a>        <a href="/contacts-mayakovskaya.html">МЕДМАГ на Маяковской</a>        <a href="/contacts-tk.html">МЕДМАГ в Текстильщиках</a>            </div>
+    
+</div>
+            </div>
+        </div>
+    </div>
+</nav>
+<!--<div class="holiday"></div>-->
+
+<section class="mainbody">
+    <div class="container">
+        <aside class="sidebar" id="sidebar">
+           <div class="mhidden categories-menu">
+
+
+                                                                           <div class="section   ">
+                   <a href="/index.php?categoryID=244" class="main   ">
+                       Лидеры продаж<div class="icon"></div></a>                                              
+                       <div class="sub-categories">
+                           
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     </div>                        </div>                                                 <div class="section   ">
+                   <a href="/index.php?categoryID=13" class="main   ">
+                       Акции и распродажи<div class="icon"></div></a>                                              
+                       <div class="sub-categories">
+                           
+                                                                                                <a class="" href="/index.php?categoryID=326">Глюкометры дешево</a>
+
+    
+
+
+                                                                                                                   <a class="" href="/index.php?categoryID=142">Тест-полоски со скидкой</a>
+
+    
+
+
+                                                                                                                   <a class="" href="/index.php?categoryID=337"> Охлаждающие чехлы для инсулина со скидкой</a>
+
+    
+
+
+                                                                                                                   <a class="" href="/index.php?categoryID=312">Расходка к помпам</a>
+
+    
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </div>                        </div>                                                 <div class="section   ">
+                   <a href="/index.php?categoryID=17" class="main   ">
+                       Глюкометры<div class="icon"></div></a>                                              
+                       <div class="sub-categories">
+                           
+                                                                                                                                                                                            <a class="" href="/index.php?categoryID=134">Глюкометры</a>
+
+    
+
+
+                                                                                                                   <a class="" href="/index.php?categoryID=136">Контрольные растворы</a>
+
+    
+
+
+                                                                                                                   <a class="" href="/index.php?categoryID=138">Элементы питания</a>
+
+    
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       </div>                        </div>                                                 <div class="section   ">
+                   <a href="/index.php?categoryID=135" class="main   ">
+                       Тест-полоски<div class="icon"></div></a>                                              
+                       <div class="sub-categories">
+                           
+                                                                                                                                                                                                                                                                 <a class="" href="/index.php?categoryID=156">Accu-Chek (Roche)</a>
+
+    
+
+
+                                                                                                                   <a class="" href="/index.php?categoryID=155">Bionime (Бионайм)</a>
+
+    
+
+
+                                                                                                                   <a class="" href="/index.php?categoryID=158">Сателлит (Элта)</a>
+
+    
+
+
+                                                                                                                   <a class="" href="/index.php?categoryID=264">CareSens (КеаСенс)</a>
+
+    
+
+
+                                                                                                                   <a class="" href="/index.php?categoryID=159">Contour (Ascensia)</a>
+
+    
+
+
+                                                                                                                   <a class="" href="/index.php?categoryID=162">Clever Chek (Клевер Чек)</a>
+
+    
+
+
+                                                                                                                   <a class="" href="/index.php?categoryID=277">Diacont (Диаконт)</a>
+
+    
+
+
+                                                                                                                   <a class="" href="/index.php?categoryID=269">eBsensor (еБсенсор)</a>
+
+    
+
+
+                                                                                                                   <a class="" href="/index.php?categoryID=160">FreeStyle (Abbott)</a>
+
+    
+
+
+                                                                                                                   <a class="" href="/index.php?categoryID=235">Easy Touch (Изи Тач)</a>
+
+    
+
+
+                                                                                                                   <a class="" href="/index.php?categoryID=164">iCheck (АйЧек)</a>
+
+    
+
+
+                                                                                                                   <a class="" href="/index.php?categoryID=161">Glucocard (Глюкокард)</a>
+
+    
+
+
+                                                                                                                   <a class="" href="/index.php?categoryID=165">IME-DC (ИМЕ-ДЦ)</a>
+
+    
+
+
+                                                                                                                   <a class="" href="/index.php?categoryID=262">Клевер Чек СКС (Осирис С)</a>
+
+    
+
+
+                                                                                                                   <a class="" href="/index.php?categoryID=239">MultiCare-In (МультиКэйр)</a>
+
+    
+
+
+                                                                                                                   <a class="" href="/index.php?categoryID=349">On Call Plus (Он Колл Плюс)</a>
+
+    
+
+
+                                                                                                                   <a class="" href="/index.php?categoryID=157">OneTouch (LifeScan)</a>
+
+    
+
+
+                                                                                                                   <a class="" href="/index.php?categoryID=355">SelfyCheck (Селфи Чек)</a>
+
+    
+
+
+                                                                                                                   <a class="" href="/index.php?categoryID=163">Sensocard (Сенсокард)</a>
+
+    
+
+
+                                                                                                                   <a class="" href="/index.php?categoryID=289">SD Check Gold (СД Чек Голд)</a>
+
+    
+
+
+                                                                                                                   <a class="" href="/index.php?categoryID=271">TRUEresult (Тру Резалт)</a>
+
+    
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    </div>                        </div>                                                 <div class="section   ">
+                   <a href="/index.php?categoryID=1" class="main   ">
+                       Визуальные тест-полоски<div class="icon"></div></a>                                              
+                       <div class="sub-categories">
+                           
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <a class="" href="/index.php?categoryID=129">Глюкоза в крови</a>
+
+    
+
+
+                                                                                                                   <a class="" href="/index.php?categoryID=130">Глюкоза в моче</a>
+
+    
+
+
+                                                                                                                   <a class="" href="/index.php?categoryID=131">Ацетон в моче</a>
+
+    
+
+
+                                                                                                                   <a class="" href="/index.php?categoryID=132">Глюкоза и ацетон в моче</a>
+
+    
+
+
+                                                                                                                   <a class="" href="/index.php?categoryID=133">Биохимический анализ мочи</a>
+
+    
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 </div>                        </div>                                                 <div class="section   ">
+                   <a href="/index.php?categoryID=28" class="main   ">
+                       Ланцеты и прокалыватели<div class="icon"></div></a>                                              
+                       <div class="sub-categories">
+                           
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       <a class="" href="/index.php?categoryID=126">Ручки для прокалывания</a>
+
+    
+
+
+                                                                                                                   <a class="" href="/index.php?categoryID=127">Ланцеты к ручкам</a>
+
+    
+
+
+                                                                                                                   <a class="" href="/index.php?categoryID=128">Средства дезинфекции</a>
+
+    
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </div>                        </div>                                                 <div class="section   ">
+                   <a href="/index.php?categoryID=236" class="main   ">
+                       Анализаторы холестерина, гемоглобина и МНО<div class="icon"></div></a>                                              
+                       <div class="sub-categories">
+                           
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     </div>                        </div>                                                 <div class="section   ">
+                   <a href="/index.php?categoryID=24" class="main   ">
+                       Шприц-ручки и иглы<div class="icon"></div></a>                                              
+                       <div class="sub-categories">
+                           
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <a class="" href="/index.php?categoryID=123">Шприц-ручки</a>
+
+    
+
+
+                                                                                                                   <a class="" href="/index.php?categoryID=124">Иглы для шприц-ручек</a>
+
+    
+
+
+                                                                                                                   <a class="" href="/index.php?categoryID=125">Шприцы инсулиновые</a>
+
+    
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       </div>                        </div>                                                 <div class="section   ">
+                   <a href="/index.php?categoryID=251" class="main   ">
+                       Термосумки и чехлы для инсулина и шприц-ручек<div class="icon"></div></a>                                              
+                       <div class="sub-categories">
+                           
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 <a class="" href="/index.php?categoryID=90">Термосумки</a>
+
+    
+
+
+                                                                                                                   <a class="" href="/index.php?categoryID=93">Охлаждающие чехлы</a>
+
+    
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         </div>                        </div>                                                 <div class="section   ">
+                   <a href="/index.php?categoryID=2" class="main   ">
+                       Инсулиновые помпы и аксессуары<div class="icon"></div></a>                                              
+                       <div class="sub-categories">
+                           
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               <a class="" href="/index.php?categoryID=79">Инсулиновые помпы</a>
+
+    
+
+
+                                                                                                                   <a class="" href="/index.php?categoryID=80">Инфузионные наборы</a>
+
+    
+
+
+                                                                                                                   <a class="" href="/index.php?categoryID=292">Инфузионные наборы оптом</a>
+
+    
+
+
+                                                                                                                   <a class="" href="/index.php?categoryID=81">Аксессуары для помп</a>
+
+    
+
+
+                                                                                                                   <a class="" href="/index.php?categoryID=86">Резервуары и адаптеры</a>
+
+    
+
+
+                                                                                                                   <a class="" href="/index.php?categoryID=87">Устройства для введения</a>
+
+    
+
+
+                                                                                                                   <a class="" href="/index.php?categoryID=88">Сервисные наборы</a>
+
+    
+
+
+                                                                                                                   <a class="" href="/index.php?categoryID=85">Чехлы и пояса</a>
+
+    
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 </div>                        </div>                                                 <div class="section   ">
+                   <a href="/index.php?categoryID=18" class="main   ">
+                       Профилактика осложнений диабета<div class="icon"></div></a>                                              
+                       <div class="sub-categories">
+                           
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       <a class="" href="/index.php?categoryID=339">Кремы при диабете</a>
+
+    
+
+
+                                                                                                                   <a class="" href="/index.php?categoryID=20">Диабетическая стопа</a>
+
+    
+
+
+                                                                                                                   <a class="" href="/index.php?categoryID=121">Средства при гипогликемии</a>
+
+    
+
+
+                                                                                                                   <a class="" href="/index.php?categoryID=238">Весы диабетические</a>
+
+    
+
+
+                                                                                                                   <a class="" href="/index.php?categoryID=113">Витамины при диабете</a>
+
+    
+
+
+                                                                                                                   <a class="" href="/index.php?categoryID=232">Уход за полостью рта при диабете</a>
+
+    
+
+
+                                                                                                                   <a class="" href="/index.php?categoryID=347">Средства защиты от инфекции</a>
+
+    
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                </div>                        </div>                                                 <div class="section   ">
+                   <a href="/index.php?categoryID=15" class="main   ">
+                       Литература по диабету<div class="icon"></div></a>                                              
+                       <div class="sub-categories">
+                           
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <a class="" href="/index.php?categoryID=67">Лучшая и актуальная литература по диабету</a>
+
+    
+
+
+                                                                                                                   <a class="" href="/index.php?categoryID=273">Издания врачу и пациенту для лечения диабета </a>
+
+    
+
+
+                                                                                                                   <a class="" href="/index.php?categoryID=68">Архив полезной литературы до 2018 г.</a>
+
+    
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           </div>                        </div>                                                 <div class="section   ">
+                   <a href="/index.php?categoryID=300" class="main   ">
+                       Системы мониторинга глюкозы<div class="icon"></div></a>                                              
+                       <div class="sub-categories">
+                           
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             <a class="" href="/index.php?categoryID=318">Abbott Diabetes Care (США)</a>
+
+    
+
+
+                                                                                                                   <a class="" href="/index.php?categoryID=319">Dexcom (США)</a>
+
+    
+
+
+                                                                                                                   <a class="" href="/index.php?categoryID=320">Medtronic (США)</a>
+
+    
+
+
+                                                                                                                   <a class="" href="/index.php?categoryID=344">Чехлы и пояса</a>
+
+    
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               </div>                        </div>                                                 <div class="section   ">
+                   <a href="/index.php?categoryID=21" class="main   ">
+                       Повязки, бинты, пластыри<div class="icon"></div></a>                                              
+                       <div class="sub-categories">
+                           
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         <a class="" href="/index.php?categoryID=108">Повязки</a>
+
+    
+
+
+                                                                                                                   <a class="" href="/index.php?categoryID=109">Пластыри</a>
+
+    
+
+
+                                                                                                                   <a class="" href="/index.php?categoryID=110">Гели</a>
+
+    
+
+
+                                                                                                                   <a class="" href="/index.php?categoryID=111">Бинты</a>
+
+    
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   </div>                        </div>                                                 <div class="section   ">
+                   <a href="/index.php?categoryID=296" class="main   ">
+                       Продукты при диабете<div class="icon"></div></a>                                              
+                       <div class="sub-categories">
+                           
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     <a class="" href="/index.php?categoryID=307">Сахарозаменители и сахара</a>
+
+    
+
+
+                                                                                                                   <a class="" href="/index.php?categoryID=301">Соки, напитки, минеральная вода</a>
+
+    
+
+
+                                                                                                                   <a class="" href="/index.php?categoryID=302">Конфеты, шоколад</a>
+
+    
+
+
+                                                                                                                   <a class="" href="/index.php?categoryID=303">Бакалея</a>
+
+    
+
+
+                                                                                                                   <a class="" href="/index.php?categoryID=304">Сухие напитки</a>
+
+    
+
+
+                                                                                                                   <a class="" href="/index.php?categoryID=305">Отруби, зерновые, семена</a>
+
+    
+
+
+                                                                                                                   <a class="" href="/index.php?categoryID=306">Мучные изделия без сахара</a>
+
+    
+
+
+                                                                                                                                                                                                                                                                                                                                  </div>                        </div>                                                 <div class="section   ">
+                   <a href="/index.php?categoryID=27" class="main   ">
+                       Тонометры<div class="icon"></div></a>                                              
+                       <div class="sub-categories">
+                           
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <a class="" href="/index.php?categoryID=102">Механические тонометры</a>
+
+    
+
+
+                                                                                                                   <a class="" href="/index.php?categoryID=103">Полуавтоматические тонометры</a>
+
+    
+
+
+                                                                                                                   <a class="" href="/index.php?categoryID=104">Автоматические тонометры</a>
+
+    
+
+
+                                                                                                                   <a class="" href="/index.php?categoryID=107">Дополнительные аксессуары</a>
+
+    
+
+
+                                                                                                                                                                                                                                      </div>                        </div>                                                 <div class="section   ">
+                   <a href="/index.php?categoryID=3" class="main   ">
+                       Ингаляторы<div class="icon"></div></a>                                              
+                       <div class="sub-categories">
+                           
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <a class="" href="/index.php?categoryID=95">Компрессорный ингалятор</a>
+
+    
+
+
+                                                                                                                   <a class="" href="/index.php?categoryID=96">Ультразвуковые ингаляторы</a>
+
+    
+
+
+                                                                                                                   <a class="" href="/index.php?categoryID=94">Паровой и электронно-сетчатый ингаляторы</a>
+
+    
+
+
+                                                                                                                                                                 </div>                        </div>                                                 <div class="section   ">
+                   <a href="/index.php?categoryID=338" class="main   ">
+                       Ирригаторы<div class="icon"></div></a>                                              
+                       <div class="sub-categories">
+                           
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     </div>                        </div>                                                                                 
+                       <div class="sub-categories">
+                           
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           </div>                              </div>
+                        <div class="banners">
+                <a href="https://www.medmag.ru/akuchek-aktiv.html?utm_source=site&utm_medium=banner&utm_campaign=skvoznye&utm_content=populjarnye_tp"><img src="pages_pictures/vybor_test_polosok.jpg" alt="Тест-полоски"/></a>
+            </div>
+                        <div class="banners">
+                <a href="https://www.medmag.ru/index.php?pageID=126&utm_source=site&utm_medium=banner&utm_campaign=skvoznye&utm_content=jekonomija_tp"><img src="pages_pictures/kontur_ts_09-12.jpg" alt="Контур ТС"/></a>
+            </div>
+                        <div class="subscribe">
+                <div class="h16">Будьте всегда в курсе!</div>
+                <div class="h13">Узнавайте о скидках и акциях первым</div>
+                <form action="/index.php?pageID=143" method="post">
+                <input class="email1" required name="emailsubscription" type="email" placeholder="Ваш e-mail"/>
+                <input class="send" name="image" type="image" src="/css/images/bottom_right.png" alt="Подписаться" border="0">
+                </form>
+            </div>
+               <div class="forms">
+                   <div class="form callme_button11"><img src="/css/images/phone_2.png" alt="Связь с medmag.ru"/>Заказать звонок</div>
+                   <div class="form callme_button22"><img src="/css/images/email_2.png" alt="Связь с medmag.ru"/>Задать вопрос</div>
+                   <div class="form callme_button33 "><img src="/css/images/otzyv.png" alt="Связь с medmag.ru"/>Оставить отзыв</div>
+               </div>
+            <div class="doctors">
+                <div class="d-img"><img src="/css/images/photo_director.jpg"/></div>
+                <div class="d-position">Кандидат медицинских наук,<br/>врач-диабетолог</div>
+                <div class="d-name">Александр Пархоменко</div>
+                <div class="d-phone">+7 (495) 221-22-76</div>
+                <div class="d-quastion callme_button22">задать вопрос</div>
+            </div>
+        </aside>
+        <article class="catalog1">
+                        <div class="catalog2">
+                <div class="homepage1">
+        <div class="home-slide">
+                <div>
+            <a href="https://www.medmag.ru/index.php?articleID=370&utm_source=site&utm_medium=banner&utm_campaign=slajder&utm_content=halyava"><img src="pages_pictures/halyava_mm.jpg" alt="Акция Халява"/></a>
+        </div>
+                <div>
+            <a href="https://www.medmag.ru/test-poloski-Contour.html&utm_source=site&utm_medium=banner&utm_campaign=slajder&utm_content=halyava	"><img src="pages_pictures/contour_ts_388_1.jpg" alt="Тп Контур ТС от 388 р."/></a>
+        </div>
+                <div>
+            <a href="https://www.medmag.ru/index.php?articleID=298&utm_source=site&utm_medium=banner&utm_campaign=slajder&utm_content=kupi_bolshe"><img src="pages_pictures/banner1.jpg" alt="Купи больше"/></a>
+        </div>
+                <div>
+            <a href="https://www.medmag.ru/bargain.html?utm_source=site&utm_medium=banner&utm_campaign=slajder&utm_content=nashli_deshevle"><img src="pages_pictures/nashli_deshevle.jpg" alt="Нашли дешевле"/></a>
+        </div>
+            </div>
+    <div class="tizers">
+                <div class="tizer">
+            <a class="main_catalog_text" href="/payment.html" alt="Быстрая доставка">
+            <img src="/css/images/delivery.png" alt="Быстрая доставка"/>
+            <div class="thead">Быстрая доставка</div>
+            <div class="ttext">По Москве в течение 1 часа, надежная доставка по России</div>
+            </a>
+        </div>
+                <div class="tizer">
+            <a class="main_catalog_text" href="/bargain.html" alt="Самые низкие цены">
+            <img src="/file/Image/mon.png" alt="Самые низкие цены"/>
+            <div class="thead">Самые низкие цены</div>
+            <div class="ttext">Нашли дешевле? Снизим цену! Крупнейший официальный поставщик с 2001 г.</div>
+            </a>
+        </div>
+                <div class="tizer">
+            <a class="main_catalog_text" href="/contacts.html" alt="3 минуты от метро">
+            <img src="/file/Image/karta_new_gl.png" alt="3 минуты от метро"/>
+            <div class="thead">3 минуты от метро</div>
+            <div class="ttext">Магазины в шаговой доступности. Приходите за подарком!</div>
+            </a>
+        </div>
+                <div class="tizer">
+            <a class="main_catalog_text" href="https://www.youtube.com/channel/UCUAaIrujLcTRiXYhgWdmw7Q" alt="Знаем о диабете всё">
+            <img src="/css/images/shkola_diabeta.jpg" alt="Знаем о диабете всё"/>
+            <div class="thead">Знаем о диабете всё</div>
+            <div class="ttext">Ведем школу диабета онлайн, сами с диабетом.</div>
+            </a>
+        </div>
+               <a name="catalog"></a>
+    </div>
+    <div class="hr"></div> 
+    <section class="categories">
+        
+        <h2>Популярные категории</h2>
+        <div class="categories-grid">
+                        <a class="category" href="/index.php?categoryID=17">
+                <img src="products_pictures/gluck_icon.jpg" alt="Глюкометры"/>
+                <span class="cats">Глюкометры</span>
+            </a>
+                        <a class="category" href="/index.php?categoryID=135">
+                <img src="products_pictures/test_strips_icon.jpg" alt="Тест-полоски"/>
+                <span class="cats">Тест-полоски</span>
+            </a>
+                        <a class="category" href="/index.php?categoryID=1">
+                <img src="products_pictures/viz_test_strips_icon1.jpg" alt="Визуальные тест-полоски"/>
+                <span class="cats">Визуальные тест-полоски</span>
+            </a>
+                        <a class="category" href="/index.php?categoryID=236">
+                <img src="products_pictures/analizator_icon1.jpg" alt="Анализаторы холестерина, гемоглобина и МНО"/>
+                <span class="cats">Анализаторы холестерина, гемоглобина и МНО</span>
+            </a>
+                        <a class="category" href="/index.php?categoryID=28">
+                <img src="products_pictures/prokal_icon1.jpg" alt="Ланцеты и прокалыватели"/>
+                <span class="cats">Ланцеты и прокалыватели</span>
+            </a>
+                        <a class="category" href="/index.php?categoryID=24">
+                <img src="products_pictures/ruchka_icon.jpg" alt="Шприц-ручки и иглы"/>
+                <span class="cats">Шприц-ручки и иглы</span>
+            </a>
+                        <a class="category" href="/index.php?categoryID=251">
+                <img src="products_pictures/sumka_icon2.jpg" alt="Термосумки и чехлы для инсулина и шприц-ручек"/>
+                <span class="cats">Термосумки и чехлы для инсулина и шприц-ручек</span>
+            </a>
+                        <a class="category" href="/index.php?categoryID=2">
+                <img src="products_pictures/pompa_icon.jpg" alt="Инсулиновые помпы и аксессуары"/>
+                <span class="cats">Инсулиновые помпы и аксессуары</span>
+            </a>
+                        <a class="category" href="/index.php?categoryID=18">
+                <img src="products_pictures/krem_icon1.jpg" alt="Профилактика осложнений диабета"/>
+                <span class="cats">Профилактика осложнений диабета</span>
+            </a>
+                        <a class="category" href="/index.php?categoryID=15">
+                <img src="products_pictures/book_icon.jpg" alt="Литература по диабету"/>
+                <span class="cats">Литература по диабету</span>
+            </a>
+                        <a class="category" href="/index.php?categoryID=300">
+                <img src="products_pictures/monitoring_icon.jpg" alt="Системы мониторинга глюкозы"/>
+                <span class="cats">Системы мониторинга глюкозы</span>
+            </a>
+                        <a class="category" href="/index.php?categoryID=21">
+                <img src="products_pictures/povayzka_icon1.jpg" alt="Повязки, бинты, пластыри"/>
+                <span class="cats">Повязки, бинты, пластыри</span>
+            </a>
+                        <a class="category" href="/index.php?categoryID=296">
+                <img src="products_pictures/eda_icon1.jpg" alt="Продукты при диабете"/>
+                <span class="cats">Продукты при диабете</span>
+            </a>
+                        <a class="category" href="/index.php?categoryID=27">
+                <img src="products_pictures/tonometr_icon.jpg" alt="Тонометры"/>
+                <span class="cats">Тонометры</span>
+            </a>
+                        <a class="category" href="/index.php?categoryID=3">
+                <img src="products_pictures/ingal_icon.jpg" alt="Ингаляторы"/>
+                <span class="cats">Ингаляторы</span>
+            </a>
+                        <a class="category" href="/index.php?categoryID=338">
+                <img src="products_pictures/stom_icon1.jpg" alt="Ирригаторы"/>
+                <span class="cats">Ирригаторы</span>
+            </a>
+                    </div>
+    </section>
+    <div class="hr"></div>
+    <section class="bestoffers">
+        <div class="bestoffers-top tops">
+            <div class="col-md-4">
+                <h2>Лучшие предложения</h2>
+            </div>
+            <div class="col-md-8">
+                <ul class="tabs clearfix" id="razdel-tabs">
+                    <li class="tabsli active"><span>Хит</span></li>
+                    <li class="tabsli"><span>Советуем</span></li>
+                    <li class="tabsli"><span>Новинка</span></li>
+                    <li class="tabsli"><span>Акция</span></li>
+                </ul>
+                <a href="/index.php?categoryID=13" class="link-all">Все акции</a>
+            </div>
+        </div>
+        <div class="categories-full">
+            <div class="tabsfon-all">
+                <div class="tabsfon active">
+                    <div class="categories-grid">
+                                                <div class="category">
+                            <div class="stickers-cat">
+                                <div class="hit">Хит</div>                                <div class="sovetuem">Советуем</div>                                                                                                                            </div>
+                            <a href="/index.php?productID=556"><img src="products_pictures/dialine_krem_min.jpg" alt="Крем для ног ДИАЛАЙН с мочевиной, ежедневный уход, 75 мл"/></a>
+                            <a href="/index.php?productID=556"><span class="cat-text">Крем для ног ДИАЛАЙН с мочевиной, ежедневный уход, 75 мл</span></a>
+                            <span class="cat-price1">Цена при доставке:<span>297 руб.</span></span>
+                            <span class="cat-price2">Цена в офисе:<span>297 руб.</span></span>
+                            <span class="cat-price3"></span>
+                            <div class="cat-buttons">
+                                <div class="cat-buy"><a href="index.php?shopping_cart=yes&add2cart=556&lc=">В корзину</a></div>
+                                <div class="cat-more"><a href="/index.php?productID=556">Подробнее</a></div>
+                            </div>
+                        </div>
+                                                <div class="category">
+                            <div class="stickers-cat">
+                                <div class="hit">Хит</div>                                                                                                <div class="actiya">Акция</div>                                <div class="podarok">В подарок</div>                            </div>
+                            <a href="/index.php?productID=1960"><img src="products_pictures/tp_on_call_plus50_2akc_min.jpg" alt="100 тест-полосок Он Колл Плюс + глюкометр в подарок (полная комплектация)"/></a>
+                            <a href="/index.php?productID=1960"><span class="cat-text">100 тест-полосок Он Колл Плюс + глюкометр в подарок (полная комплектация)</span></a>
+                            <span class="cat-price1">Цена при доставке:<span>1120 руб.</span></span>
+                            <span class="cat-price2">Цена в офисе:<span>1120 руб.</span></span>
+                            <span class="cat-price3">Цена прайса:<span>1510 руб.</span></span>
+                            <div class="cat-buttons">
+                                <div class="cat-buy"><a href="index.php?shopping_cart=yes&add2cart=1960&lc=">В корзину</a></div>
+                                <div class="cat-more"><a href="/index.php?productID=1960">Подробнее</a></div>
+                            </div>
+                        </div>
+                                                <div class="category">
+                            <div class="stickers-cat">
+                                <div class="hit">Хит</div>                                <div class="sovetuem">Советуем</div>                                                                                                                            </div>
+                            <a href="/index.php?productID=1062"><img src="products_pictures/dextro4_min...jpg" alt="Таблетки от гипогликемии Dextro4 (36 штук, вкусы в ассортименте)"/></a>
+                            <a href="/index.php?productID=1062"><span class="cat-text">Таблетки от гипогликемии Dextro4 (36 штук, вкусы в ассортименте)</span></a>
+                            <span class="cat-price1">Цена при доставке:<span>279 руб.</span></span>
+                            <span class="cat-price2">Цена в офисе:<span>279 руб.</span></span>
+                            <span class="cat-price3"></span>
+                            <div class="cat-buttons">
+                                <div class="cat-buy"><a href="index.php?shopping_cart=yes&add2cart=1062&lc=">В корзину</a></div>
+                                <div class="cat-more"><a href="/index.php?productID=1062">Подробнее</a></div>
+                            </div>
+                        </div>
+                                                <div class="category">
+                            <div class="stickers-cat">
+                                <div class="hit">Хит</div>                                <div class="sovetuem">Советуем</div>                                                                                                                            </div>
+                            <a href="/index.php?productID=1936"><img src="products_pictures/sumka_dias_min.jpg" alt="Термосумка для инсулина DIA’S (с гелевым пакетом)"/></a>
+                            <a href="/index.php?productID=1936"><span class="cat-text">Термосумка для инсулина DIA’S (с гелевым пакетом)</span></a>
+                            <span class="cat-price1">Цена при доставке:<span>1017 руб.</span></span>
+                            <span class="cat-price2">Цена в офисе:<span>1017 руб.</span></span>
+                            <span class="cat-price3">Цена прайса:<span>1287 руб.</span></span>
+                            <div class="cat-buttons">
+                                <div class="cat-buy"><a href="index.php?shopping_cart=yes&add2cart=1936&lc=">В корзину</a></div>
+                                <div class="cat-more"><a href="/index.php?productID=1936">Подробнее</a></div>
+                            </div>
+                        </div>
+                                                <div class="category">
+                            <div class="stickers-cat">
+                                <div class="hit">Хит</div>                                                                                                <div class="actiya">Акция</div>                                                            </div>
+                            <a href="/index.php?productID=2000"><img src="products_pictures/komplekt_contour_ts_2min.jpg" alt="Тест-полоски Контур ТС №50 (1 упак.) + глюкометр Контур ТС"/></a>
+                            <a href="/index.php?productID=2000"><span class="cat-text">Тест-полоски Контур ТС №50 (1 упак.) + глюкометр Контур ТС</span></a>
+                            <span class="cat-price1">Цена при доставке:<span>799 руб.</span></span>
+                            <span class="cat-price2">Цена в офисе:<span>799 руб.</span></span>
+                            <span class="cat-price3">Цена прайса:<span>1198 руб.</span></span>
+                            <div class="cat-buttons">
+                                <div class="cat-buy"><a href="index.php?shopping_cart=yes&add2cart=2000&lc=">В корзину</a></div>
+                                <div class="cat-more"><a href="/index.php?productID=2000">Подробнее</a></div>
+                            </div>
+                        </div>
+                                                <div class="category">
+                            <div class="stickers-cat">
+                                <div class="hit">Хит</div>                                <div class="sovetuem">Советуем</div>                                                                                                                            </div>
+                            <a href="/index.php?productID=1881"><img src="products_pictures/on_call_plus_min..jpg" alt="Глюкометр Он Колл Плюс (On Call Plus)"/></a>
+                            <a href="/index.php?productID=1881"><span class="cat-text">Глюкометр Он Колл Плюс (On Call Plus)</span></a>
+                            <span class="cat-price1">Цена при доставке:<span>490 руб.</span></span>
+                            <span class="cat-price2">Цена в офисе:<span>490 руб.</span></span>
+                            <span class="cat-price3">Цена прайса:<span>590 руб.</span></span>
+                            <div class="cat-buttons">
+                                <div class="cat-buy"><a href="index.php?shopping_cart=yes&add2cart=1881&lc=">В корзину</a></div>
+                                <div class="cat-more"><a href="/index.php?productID=1881">Подробнее</a></div>
+                            </div>
+                        </div>
+                                                <div class="category">
+                            <div class="stickers-cat">
+                                <div class="hit">Хит</div>                                                                <div class="novinka">Новинка</div>                                <div class="actiya">Акция</div>                                                            </div>
+                            <a href="/index.php?productID=1888"><img src="products_pictures/lancet_dialine_min.jpg" alt="Ланцеты ДИАЛАЙН №25 "/></a>
+                            <a href="/index.php?productID=1888"><span class="cat-text">Ланцеты ДИАЛАЙН №25 </span></a>
+                            <span class="cat-price1">Цена при доставке:<span>95 руб.</span></span>
+                            <span class="cat-price2">Цена в офисе:<span>95 руб.</span></span>
+                            <span class="cat-price3">Цена прайса:<span>120 руб.</span></span>
+                            <div class="cat-buttons">
+                                <div class="cat-buy"><a href="index.php?shopping_cart=yes&add2cart=1888&lc=">В корзину</a></div>
+                                <div class="cat-more"><a href="/index.php?productID=1888">Подробнее</a></div>
+                            </div>
+                        </div>
+                                                <div class="category">
+                            <div class="stickers-cat">
+                                <div class="hit">Хит</div>                                                                                                                                                            </div>
+                            <a href="/index.php?productID=1942"><img src="products_pictures/sprei_2min.jpg" alt="Антисептик для рук EMANSI с увлажняющим действием (200 мл)"/></a>
+                            <a href="/index.php?productID=1942"><span class="cat-text">Антисептик для рук EMANSI с увлажняющим действием (200 мл)</span></a>
+                            <span class="cat-price1">Цена при доставке:<span>199 руб.</span></span>
+                            <span class="cat-price2">Цена в офисе:<span>199 руб.</span></span>
+                            <span class="cat-price3">Цена прайса:<span>299 руб.</span></span>
+                            <div class="cat-buttons">
+                                <div class="cat-buy"><a href="index.php?shopping_cart=yes&add2cart=1942&lc=">В корзину</a></div>
+                                <div class="cat-more"><a href="/index.php?productID=1942">Подробнее</a></div>
+                            </div>
+                        </div>
+                                            </div>
+                </div>
+                <div class="tabsfon">
+                    <div class="categories-grid">
+                                                <div class="category">
+                            <div class="stickers-cat">
+                                                                <div class="sovetuem">Советуем</div>                                                                                            </div>
+                            <a href="/index.php?productID=274"><img src="products_pictures/dialine_noski_2_min.jpg" alt="Носки для людей с сахарным диабетом ДИАЛАЙН с серебром (DIALINE)"/></a>
+                            <a href="/index.php?productID=274"><span class="cat-text">Носки для людей с сахарным диабетом ДИАЛАЙН с серебром (DIALINE)</span></a>
+                            <span class="cat-price1">Цена при доставке:<span>280 руб.</span></span>
+                            <span class="cat-price2">Цена в офисе:<span>280 руб.</span></span>
+                            <span class="cat-price3"></span>
+                            <div class="cat-buttons">
+                                <div class="cat-buy"><a href="index.php?shopping_cart=yes&add2cart=274&lc=">В корзину</a></div>
+                                <div class="cat-more"><a href="/index.php?productID=274">Подробнее</a></div>
+                            </div>
+                        </div>
+                                                <div class="category">
+                            <div class="stickers-cat">
+                                <div class="hit">Хит</div>                                <div class="sovetuem">Советуем</div>                                                                                            </div>
+                            <a href="/index.php?productID=556"><img src="products_pictures/dialine_krem_min.jpg" alt="Крем для ног ДИАЛАЙН с мочевиной, ежедневный уход, 75 мл"/></a>
+                            <a href="/index.php?productID=556"><span class="cat-text">Крем для ног ДИАЛАЙН с мочевиной, ежедневный уход, 75 мл</span></a>
+                            <span class="cat-price1">Цена при доставке:<span>297 руб.</span></span>
+                            <span class="cat-price2">Цена в офисе:<span>297 руб.</span></span>
+                            <span class="cat-price3"></span>
+                            <div class="cat-buttons">
+                                <div class="cat-buy"><a href="index.php?shopping_cart=yes&add2cart=556&lc=">В корзину</a></div>
+                                <div class="cat-more"><a href="/index.php?productID=556">Подробнее</a></div>
+                            </div>
+                        </div>
+                                                <div class="category">
+                            <div class="stickers-cat">
+                                                                <div class="sovetuem">Советуем</div>                                                                                            </div>
+                            <a href="/index.php?productID=558"><img src="products_pictures/kiv_4_1.jpg" alt="Витамины для больных диабетом, 30 табл."/></a>
+                            <a href="/index.php?productID=558"><span class="cat-text">Витамины для больных диабетом, 30 табл.</span></a>
+                            <span class="cat-price1">Цена при доставке:<span>280 руб.</span></span>
+                            <span class="cat-price2">Цена в офисе:<span>260 руб.</span></span>
+                            <span class="cat-price3"></span>
+                            <div class="cat-buttons">
+                                <div class="cat-buy"><a href="index.php?shopping_cart=yes&add2cart=558&lc=">В корзину</a></div>
+                                <div class="cat-more"><a href="/index.php?productID=558">Подробнее</a></div>
+                            </div>
+                        </div>
+                                                <div class="category">
+                            <div class="stickers-cat">
+                                                                <div class="sovetuem">Советуем</div>                                                                                            </div>
+                            <a href="/index.php?productID=706"><img src="products_pictures/uriket_min.jpg" alt="Тест-полоски на кетоны Урикет №50"/></a>
+                            <a href="/index.php?productID=706"><span class="cat-text">Тест-полоски на кетоны Урикет №50</span></a>
+                            <span class="cat-price1">Цена при доставке:<span>130 руб.</span></span>
+                            <span class="cat-price2">Цена в офисе:<span>126 руб.</span></span>
+                            <span class="cat-price3"></span>
+                            <div class="cat-buttons">
+                                <div class="cat-buy"><a href="index.php?shopping_cart=yes&add2cart=706&lc=">В корзину</a></div>
+                                <div class="cat-more"><a href="/index.php?productID=706">Подробнее</a></div>
+                            </div>
+                        </div>
+                                                <div class="category">
+                            <div class="stickers-cat">
+                                <div class="hit">Хит</div>                                <div class="sovetuem">Советуем</div>                                                                                            </div>
+                            <a href="/index.php?productID=1062"><img src="products_pictures/dextro4_min...jpg" alt="Таблетки от гипогликемии Dextro4 (36 штук, вкусы в ассортименте)"/></a>
+                            <a href="/index.php?productID=1062"><span class="cat-text">Таблетки от гипогликемии Dextro4 (36 штук, вкусы в ассортименте)</span></a>
+                            <span class="cat-price1">Цена при доставке:<span>279 руб.</span></span>
+                            <span class="cat-price2">Цена в офисе:<span>279 руб.</span></span>
+                            <span class="cat-price3"></span>
+                            <div class="cat-buttons">
+                                <div class="cat-buy"><a href="index.php?shopping_cart=yes&add2cart=1062&lc=">В корзину</a></div>
+                                <div class="cat-more"><a href="/index.php?productID=1062">Подробнее</a></div>
+                            </div>
+                        </div>
+                                                <div class="category">
+                            <div class="stickers-cat">
+                                                                <div class="sovetuem">Советуем</div>                                                                                            </div>
+                            <a href="/index.php?productID=1071"><img src="products_pictures/easy_touch-min.jpg" alt="Биохимический анализатор Изи Тач (EasyTouch GCHb): глюкоза, холестерин и гемоглобин в крови"/></a>
+                            <a href="/index.php?productID=1071"><span class="cat-text">Биохимический анализатор Изи Тач (EasyTouch GCHb): глюкоза, холестерин и гемоглобин в крови</span></a>
+                            <span class="cat-price1">Цена при доставке:<span>7990 руб.</span></span>
+                            <span class="cat-price2">Цена в офисе:<span>7990 руб.</span></span>
+                            <span class="cat-price3"></span>
+                            <div class="cat-buttons">
+                                <div class="cat-buy"><a href="index.php?shopping_cart=yes&add2cart=1071&lc=">В корзину</a></div>
+                                <div class="cat-more"><a href="/index.php?productID=1071">Подробнее</a></div>
+                            </div>
+                        </div>
+                                                <div class="category">
+                            <div class="stickers-cat">
+                                <div class="hit">Хит</div>                                <div class="sovetuem">Советуем</div>                                                                                            </div>
+                            <a href="/index.php?productID=1936"><img src="products_pictures/sumka_dias_min.jpg" alt="Термосумка для инсулина DIA’S (с гелевым пакетом)"/></a>
+                            <a href="/index.php?productID=1936"><span class="cat-text">Термосумка для инсулина DIA’S (с гелевым пакетом)</span></a>
+                            <span class="cat-price1">Цена при доставке:<span>1017 руб.</span></span>
+                            <span class="cat-price2">Цена в офисе:<span>1017 руб.</span></span>
+                            <span class="cat-price3">Старая цена:<span>1287 руб.</span></span>
+                            <div class="cat-buttons">
+                                <div class="cat-buy"><a href="index.php?shopping_cart=yes&add2cart=1936&lc=">В корзину</a></div>
+                                <div class="cat-more"><a href="/index.php?productID=1936">Подробнее</a></div>
+                            </div>
+                        </div>
+                                                <div class="category">
+                            <div class="stickers-cat">
+                                <div class="hit">Хит</div>                                <div class="sovetuem">Советуем</div>                                                                                            </div>
+                            <a href="/index.php?productID=1881"><img src="products_pictures/on_call_plus_min..jpg" alt="Глюкометр Он Колл Плюс (On Call Plus)"/></a>
+                            <a href="/index.php?productID=1881"><span class="cat-text">Глюкометр Он Колл Плюс (On Call Plus)</span></a>
+                            <span class="cat-price1">Цена при доставке:<span>490 руб.</span></span>
+                            <span class="cat-price2">Цена в офисе:<span>490 руб.</span></span>
+                            <span class="cat-price3">Старая цена:<span>590 руб.</span></span>
+                            <div class="cat-buttons">
+                                <div class="cat-buy"><a href="index.php?shopping_cart=yes&add2cart=1881&lc=">В корзину</a></div>
+                                <div class="cat-more"><a href="/index.php?productID=1881">Подробнее</a></div>
+                            </div>
+                        </div>
+                                            </div>
+                </div>
+                <div class="tabsfon">
+                    <div class="categories-grid">
+                                                <div class="category">
+                            <div class="stickers-cat">
+                                                                                                <div class="novinka">Новинка</div>                                <div class="actiya">Акция</div>                            </div>
+                            <a href="/index.php?productID=1827"><img src="products_pictures/insulain_min.jpg" alt="Инсулайн (INSULAIN) - мягкий пояс для инсулиновой помпы, шприц-ручек, гипофри"/></a>
+                            <a href="/index.php?productID=1827"><span class="cat-text">Инсулайн (INSULAIN) - мягкий пояс для инсулиновой помпы, шприц-ручек, гипофри</span></a>
+                            <span class="cat-price1">Цена при доставке:<span>816 руб.</span></span>
+                            <span class="cat-price2">Цена в офисе:<span>816 руб.</span></span>
+                            <span class="cat-price3">Старая цена:<span>1034 руб.</span></span>
+                            <div class="cat-buttons">
+                                <div class="cat-buy"><a href="index.php?shopping_cart=yes&add2cart=1827&lc=">В корзину</a></div>
+                                <div class="cat-more"><a href="/index.php?productID=1827">Подробнее</a></div>
+                            </div>
+                        </div>
+                                                <div class="category">
+                            <div class="stickers-cat">
+                                                                                                <div class="novinka">Новинка</div>                                                            </div>
+                            <a href="/index.php?productID=1954"><img src="products_pictures/sumka_diabetika_min.jpg" alt="Дорожная сумка диабетика ДИАЛАЙН Thompson (без гелевого пакета)"/></a>
+                            <a href="/index.php?productID=1954"><span class="cat-text">Дорожная сумка диабетика ДИАЛАЙН Thompson (без гелевого пакета)</span></a>
+                            <span class="cat-price1">Цена при доставке:<span>2699 руб.</span></span>
+                            <span class="cat-price2">Цена в офисе:<span>2699 руб.</span></span>
+                            <span class="cat-price3">Старая цена:<span>4430 руб.</span></span>
+                            <div class="cat-buttons">
+                                <div class="cat-buy"><a href="index.php?shopping_cart=yes&add2cart=1954&lc=">В корзину</a></div>
+                                <div class="cat-more"><a href="/index.php?productID=1954">Подробнее</a></div>
+                            </div>
+                        </div>
+                                                <div class="category">
+                            <div class="stickers-cat">
+                                <div class="hit">Хит</div>                                                                <div class="novinka">Новинка</div>                                <div class="actiya">Акция</div>                            </div>
+                            <a href="/index.php?productID=1888"><img src="products_pictures/lancet_dialine_min.jpg" alt="Ланцеты ДИАЛАЙН №25 "/></a>
+                            <a href="/index.php?productID=1888"><span class="cat-text">Ланцеты ДИАЛАЙН №25 </span></a>
+                            <span class="cat-price1">Цена при доставке:<span>95 руб.</span></span>
+                            <span class="cat-price2">Цена в офисе:<span>95 руб.</span></span>
+                            <span class="cat-price3">Старая цена:<span>120 руб.</span></span>
+                            <div class="cat-buttons">
+                                <div class="cat-buy"><a href="index.php?shopping_cart=yes&add2cart=1888&lc=">В корзину</a></div>
+                                <div class="cat-more"><a href="/index.php?productID=1888">Подробнее</a></div>
+                            </div>
+                        </div>
+                                                <div class="category">
+                            <div class="stickers-cat">
+                                                                                                <div class="novinka">Новинка</div>                                                            </div>
+                            <a href="/index.php?productID=2021"><img src="products_pictures/aloe_vera_700_min.jpg" alt="Крем для ног Диаультрадерм Алоэ Вера с мочевиной, 700 мл"/></a>
+                            <a href="/index.php?productID=2021"><span class="cat-text">Крем для ног Диаультрадерм Алоэ Вера с мочевиной, 700 мл</span></a>
+                            <span class="cat-price1">Цена при доставке:<span>893 руб.</span></span>
+                            <span class="cat-price2">Цена в офисе:<span>893 руб.</span></span>
+                            <span class="cat-price3"></span>
+                            <div class="cat-buttons">
+                                <div class="cat-buy"><a href="index.php?shopping_cart=yes&add2cart=2021&lc=">В корзину</a></div>
+                                <div class="cat-more"><a href="/index.php?productID=2021">Подробнее</a></div>
+                            </div>
+                        </div>
+                                                <div class="category">
+                            <div class="stickers-cat">
+                                                                                                <div class="novinka">Новинка</div>                                                            </div>
+                            <a href="/index.php?productID=1932"><img src="products_pictures/insulain_kids_min2..jpg" alt="Пояс Инсулайн Колор (INSULAIN COLOR) для ношения инсулиновой помпы"/></a>
+                            <a href="/index.php?productID=1932"><span class="cat-text">Пояс Инсулайн Колор (INSULAIN COLOR) для ношения инсулиновой помпы</span></a>
+                            <span class="cat-price1">Цена при доставке:<span>919 руб.</span></span>
+                            <span class="cat-price2">Цена в офисе:<span>919 руб.</span></span>
+                            <span class="cat-price3">Старая цена:<span>1164 руб.</span></span>
+                            <div class="cat-buttons">
+                                <div class="cat-buy"><a href="index.php?shopping_cart=yes&add2cart=1932&lc=">В корзину</a></div>
+                                <div class="cat-more"><a href="/index.php?productID=1932">Подробнее</a></div>
+                            </div>
+                        </div>
+                                                <div class="category">
+                            <div class="stickers-cat">
+                                                                                                <div class="novinka">Новинка</div>                                                            </div>
+                            <a href="/index.php?productID=1943"><img src="products_pictures/premium_protivoud_min.jpg" alt="Термосумка ДИАЛАЙН Премиум противоударная для инсулина, шприц-ручек (с гелевым пакетом 150 г)"/></a>
+                            <a href="/index.php?productID=1943"><span class="cat-text">Термосумка ДИАЛАЙН Премиум противоударная для инсулина, шприц-ручек (с гелевым пакетом 150 г)</span></a>
+                            <span class="cat-price1">Цена при доставке:<span>1725 руб.</span></span>
+                            <span class="cat-price2">Цена в офисе:<span>1725 руб.</span></span>
+                            <span class="cat-price3">Старая цена:<span>2184 руб.</span></span>
+                            <div class="cat-buttons">
+                                <div class="cat-buy"><a href="index.php?shopping_cart=yes&add2cart=1943&lc=">В корзину</a></div>
+                                <div class="cat-more"><a href="/index.php?productID=1943">Подробнее</a></div>
+                            </div>
+                        </div>
+                                                <div class="category">
+                            <div class="stickers-cat">
+                                                                                                <div class="novinka">Новинка</div>                                                            </div>
+                            <a href="/index.php?productID=1957"><img src="products_pictures/sumka_dlya_4_ruchek_min1.jpg" alt="Термопенал ДИАЛАЙН для 4 инсулиновых шприц-ручек (с гелевым пакетом)"/></a>
+                            <a href="/index.php?productID=1957"><span class="cat-text">Термопенал ДИАЛАЙН для 4 инсулиновых шприц-ручек (с гелевым пакетом)</span></a>
+                            <span class="cat-price1">Цена при доставке:<span>980 руб.</span></span>
+                            <span class="cat-price2">Цена в офисе:<span>980 руб.</span></span>
+                            <span class="cat-price3">Старая цена:<span>1240 руб.</span></span>
+                            <div class="cat-buttons">
+                                <div class="cat-buy"><a href="index.php?shopping_cart=yes&add2cart=1957&lc=">В корзину</a></div>
+                                <div class="cat-more"><a href="/index.php?productID=1957">Подробнее</a></div>
+                            </div>
+                        </div>
+                                                <div class="category">
+                            <div class="stickers-cat">
+                                                                                                <div class="novinka">Новинка</div>                                                            </div>
+                            <a href="/index.php?productID=2008"><img src="products_pictures/konfety_hypofree_54_min.jpg" alt="Конфеты ГипоФри (HypoFree) таблетированные, 54 шт. по 4 г"/></a>
+                            <a href="/index.php?productID=2008"><span class="cat-text">Конфеты ГипоФри (HypoFree) таблетированные, 54 шт. по 4 г</span></a>
+                            <span class="cat-price1">Цена при доставке:<span>375 руб.</span></span>
+                            <span class="cat-price2">Цена в офисе:<span>320 руб.</span></span>
+                            <span class="cat-price3"></span>
+                            <div class="cat-buttons">
+                                <div class="cat-buy"><a href="index.php?shopping_cart=yes&add2cart=2008&lc=">В корзину</a></div>
+                                <div class="cat-more"><a href="/index.php?productID=2008">Подробнее</a></div>
+                            </div>
+                        </div>
+                                            </div>
+                </div>
+                <div class="tabsfon">
+                    <div class="categories-grid">
+                                                <div class="category">
+                            <div class="stickers-cat">
+                                                                                                <div class="novinka">Новинка</div>                                <div class="actiya">Акция</div>                            </div>
+                            <a href="/index.php?productID=1827"><img src="products_pictures/insulain_min.jpg" alt="Инсулайн (INSULAIN) - мягкий пояс для инсулиновой помпы, шприц-ручек, гипофри"/></a>
+                            <a href="/index.php?productID=1827"><span class="cat-text">Инсулайн (INSULAIN) - мягкий пояс для инсулиновой помпы, шприц-ручек, гипофри</span></a>
+                            <span class="cat-price1">Цена при доставке:<span>816 руб.</span></span>
+                            <span class="cat-price2">Цена в офисе:<span>816 руб.</span></span>
+                            <span class="cat-price3">Старая цена:<span>1034 руб.</span></span>
+                            <div class="cat-buttons">
+                                <div class="cat-buy"><a href="index.php?shopping_cart=yes&add2cart=1827&lc=">В корзину</a></div>
+                                <div class="cat-more"><a href="/index.php?productID=1827">Подробнее</a></div>
+                            </div>
+                        </div>
+                                                <div class="category">
+                            <div class="stickers-cat">
+                                                                                                                                <div class="actiya">Акция</div>                            </div>
+                            <a href="/index.php?productID=1857"><img src="products_pictures/sumka_dialine_red_min_1.jpg" alt="Термосумка ДИАЛАЙН Эконом для инсулина, тест-полосок, глюкометра (с гелевым пакетом 150 г)"/></a>
+                            <a href="/index.php?productID=1857"><span class="cat-text">Термосумка ДИАЛАЙН Эконом для инсулина, тест-полосок, глюкометра (с гелевым пакетом 150 г)</span></a>
+                            <span class="cat-price1">Цена при доставке:<span>880 руб.</span></span>
+                            <span class="cat-price2">Цена в офисе:<span>880 руб.</span></span>
+                            <span class="cat-price3">Старая цена:<span>1114 руб.</span></span>
+                            <div class="cat-buttons">
+                                <div class="cat-buy"><a href="index.php?shopping_cart=yes&add2cart=1857&lc=">В корзину</a></div>
+                                <div class="cat-more"><a href="/index.php?productID=1857">Подробнее</a></div>
+                            </div>
+                        </div>
+                                                <div class="category">
+                            <div class="stickers-cat">
+                                <div class="hit">Хит</div>                                                                                                <div class="actiya">Акция</div>                            </div>
+                            <a href="/index.php?productID=1960"><img src="products_pictures/tp_on_call_plus50_2akc_min.jpg" alt="100 тест-полосок Он Колл Плюс + глюкометр в подарок (полная комплектация)"/></a>
+                            <a href="/index.php?productID=1960"><span class="cat-text">100 тест-полосок Он Колл Плюс + глюкометр в подарок (полная комплектация)</span></a>
+                            <span class="cat-price1">Цена при доставке:<span>1120 руб.</span></span>
+                            <span class="cat-price2">Цена в офисе:<span>1120 руб.</span></span>
+                            <span class="cat-price3">Старая цена:<span>1510 руб.</span></span>
+                            <div class="cat-buttons">
+                                <div class="cat-buy"><a href="index.php?shopping_cart=yes&add2cart=1960&lc=">В корзину</a></div>
+                                <div class="cat-more"><a href="/index.php?productID=1960">Подробнее</a></div>
+                            </div>
+                        </div>
+                                                <div class="category">
+                            <div class="stickers-cat">
+                                                                                                                                <div class="actiya">Акция</div>                            </div>
+                            <a href="/index.php?productID=1256"><img src="products_pictures/MMT390-393_min.jpg" alt="Инфузионная система типа Квик Сет (Quick-Set) - 1 шт.  (MMT-396, MMT-397 игла 9 мм)"/></a>
+                            <a href="/index.php?productID=1256"><span class="cat-text">Инфузионная система типа Квик Сет (Quick-Set) - 1 шт.  (MMT-396, MMT-397 игла 9 мм)</span></a>
+                            <span class="cat-price1">Цена при доставке:<span>839 руб.</span></span>
+                            <span class="cat-price2">Цена в офисе:<span>839 руб.</span></span>
+                            <span class="cat-price3">Старая цена:<span>1050 руб.</span></span>
+                            <div class="cat-buttons">
+                                <div class="cat-buy"><a href="index.php?shopping_cart=yes&add2cart=1256&lc=">В корзину</a></div>
+                                <div class="cat-more"><a href="/index.php?productID=1256">Подробнее</a></div>
+                            </div>
+                        </div>
+                                                <div class="category">
+                            <div class="stickers-cat">
+                                <div class="hit">Хит</div>                                                                                                <div class="actiya">Акция</div>                            </div>
+                            <a href="/index.php?productID=2000"><img src="products_pictures/komplekt_contour_ts_2min.jpg" alt="Тест-полоски Контур ТС №50 (1 упак.) + глюкометр Контур ТС"/></a>
+                            <a href="/index.php?productID=2000"><span class="cat-text">Тест-полоски Контур ТС №50 (1 упак.) + глюкометр Контур ТС</span></a>
+                            <span class="cat-price1">Цена при доставке:<span>799 руб.</span></span>
+                            <span class="cat-price2">Цена в офисе:<span>799 руб.</span></span>
+                            <span class="cat-price3">Старая цена:<span>1198 руб.</span></span>
+                            <div class="cat-buttons">
+                                <div class="cat-buy"><a href="index.php?shopping_cart=yes&add2cart=2000&lc=">В корзину</a></div>
+                                <div class="cat-more"><a href="/index.php?productID=2000">Подробнее</a></div>
+                            </div>
+                        </div>
+                                                <div class="category">
+                            <div class="stickers-cat">
+                                <div class="hit">Хит</div>                                                                <div class="novinka">Новинка</div>                                <div class="actiya">Акция</div>                            </div>
+                            <a href="/index.php?productID=1888"><img src="products_pictures/lancet_dialine_min.jpg" alt="Ланцеты ДИАЛАЙН №25 "/></a>
+                            <a href="/index.php?productID=1888"><span class="cat-text">Ланцеты ДИАЛАЙН №25 </span></a>
+                            <span class="cat-price1">Цена при доставке:<span>95 руб.</span></span>
+                            <span class="cat-price2">Цена в офисе:<span>95 руб.</span></span>
+                            <span class="cat-price3">Старая цена:<span>120 руб.</span></span>
+                            <div class="cat-buttons">
+                                <div class="cat-buy"><a href="index.php?shopping_cart=yes&add2cart=1888&lc=">В корзину</a></div>
+                                <div class="cat-more"><a href="/index.php?productID=1888">Подробнее</a></div>
+                            </div>
+                        </div>
+                                                <div class="category">
+                            <div class="stickers-cat">
+                                                                                                                                <div class="actiya">Акция</div>                            </div>
+                            <a href="/index.php?productID=1922"><img src="products_pictures/chekhol_dialine_large_min..jpg" alt="Большой чехол «Зима & Лето» для инсулина (аналог FRIO)"/></a>
+                            <a href="/index.php?productID=1922"><span class="cat-text">Большой чехол «Зима & Лето» для инсулина (аналог FRIO)</span></a>
+                            <span class="cat-price1">Цена при доставке:<span>399 руб.</span></span>
+                            <span class="cat-price2">Цена в офисе:<span>399 руб.</span></span>
+                            <span class="cat-price3">Старая цена:<span>499 руб.</span></span>
+                            <div class="cat-buttons">
+                                <div class="cat-buy"><a href="index.php?shopping_cart=yes&add2cart=1922&lc=">В корзину</a></div>
+                                <div class="cat-more"><a href="/index.php?productID=1922">Подробнее</a></div>
+                            </div>
+                        </div>
+                                                <div class="category">
+                            <div class="stickers-cat">
+                                                                                                                                <div class="actiya">Акция</div>                            </div>
+                            <a href="/index.php?productID=1940"><img src="products_pictures/sprei_min.jpg" alt="Антисептик для рук EMANSI с увлажняющим действием (200 мл)"/></a>
+                            <a href="/index.php?productID=1940"><span class="cat-text">Антисептик для рук EMANSI с увлажняющим действием (200 мл)</span></a>
+                            <span class="cat-price1">Цена при доставке:<span>199 руб.</span></span>
+                            <span class="cat-price2">Цена в офисе:<span>199 руб.</span></span>
+                            <span class="cat-price3">Старая цена:<span>299 руб.</span></span>
+                            <div class="cat-buttons">
+                                <div class="cat-buy"><a href="index.php?shopping_cart=yes&add2cart=1940&lc=">В корзину</a></div>
+                                <div class="cat-more"><a href="/index.php?productID=1940">Подробнее</a></div>
+                            </div>
+                        </div>
+                                            </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <div class="hr"></div>
+    <section class="news">
+        <div class="news-top tops">
+            <div class="col-md-6">
+                <h2>Новости</h2>
+            </div>
+            <div class="col-md-6">
+                <a href="/index.php?article_catID=15" class="link-all">Все новости</a>
+            </div>
+        </div>
+        <div class="news-grid">
+                        <div class="news">
+                <a href="/index.php?articleID=408">
+                <div class="n-img"><img src="pages_pictures/halyava_news.jpg" alt="Инсулайн (INSULAIN) - мягкий пояс для инсулиновой помпы, шприц-ручек, гипофри"/></div>
+                <div class="n-head"><div class="b-date">09.02.2021 г.</div>Халява! Купи тест-полоски и получи ПОДАРОК на эту сумму!</div>
+                </a>
+            </div>
+                        <div class="news">
+                <a href="/index.php?articleID=400">
+                <div class="n-img"><img src="pages_pictures/sert_ny.jpg" alt="Термосумка ДИАЛАЙН Эконом для инсулина, тест-полосок, глюкометра (с гелевым пакетом 150 г)"/></div>
+                <div class="n-head"><div class="b-date">04.01.2021 г.</div>Как получить скидку до 400 руб.*? Подарки от МЕДМАГа на Новый год!</div>
+                </a>
+            </div>
+                        <div class="news">
+                <a href="/index.php?articleID=396">
+                <div class="n-img"><img src="pages_pictures/cd_2_tipa.jpg" alt="100 тест-полосок Он Колл Плюс + глюкометр в подарок (полная комплектация)"/></div>
+                <div class="n-head"><div class="b-date">20.12.2020 г.</div>22 декабря 2020 г. в Москве состоится конференция «Эволюция подходов к управлению сахарным диабетом 2-го типа и ожирением»</div>
+                </a>
+            </div>
+                        <div class="news">
+                <a href="/index.php?articleID=394">
+                <div class="n-img"><img src="pages_pictures/lechenie_diabeta_20.jpg" alt="Инфузионная система типа Квик Сет (Quick-Set) - 1 шт.  (MMT-396, MMT-397 игла 9 мм)"/></div>
+                <div class="n-head"><div class="b-date">16.12.2020 г.</div>Новые методы лечения диабета - на пути к целевым уровням с минимальными усилиями</div>
+                </a>
+            </div>
+                    </div>
+    </section>
+    <section class="bottom-banner">
+                <a href="https://www.medmag.ru/index.php?categoryID=349&utm_source=site&utm_medium=banner&utm_campaign=slajder_niz&utm_content=tp_on_call"><img src="pages_pictures/banner-short.jpg" alt="OnCall"/></a>
+            </section>
+    <section class="blog">
+        <div class="blog-top tops">
+            <div class="col-md-6">
+                <h2>Блог</h2>
+            </div>
+            <div class="col-md-6">
+                <a href="/index.php?article_catID=5" class="link-all">Все статьи</a>
+            </div>
+        </div>
+        <div class="blog-grid">
+                                    <div class="b-big bitem1">
+                <a href="/index.php?articleID=412">
+                <div class="item-bckrd" style="background-image:url('pages_pictures/diabet_ekonomiya_25.png')"></div>
+                <div class="b-head">Сколько стоит самоконтроль диабета? Как сделать дешевле?<div class="b-date">24.02.2021 г.</div></div>
+
+                </a>
+            </div>
+            
+                                    <div class="b-small bitem2"><a href="/index.php?articleID=411">
+                <div class="b-img"><img src="pages_pictures/diabet_v_pozhilom2.jpg" alt="Сахарный диабет у пожилых людей: как распознать его вовремя (часть 2)"/></div>
+                <div class="b-head"><div class="b-date">19.02.2021 г.</div>Сахарный диабет у пожилых людей: как распознать его вовремя (часть 2)</div></a>
+            </div>
+            
+                                    <div class="b-small bitem2"><a href="/index.php?articleID=410">
+                <div class="b-img"><img src="pages_pictures/diabet_v_pozhilom_vozraste.jpg" alt="Сахарный диабет у пожилых людей: как распознать его вовремя (часть 1)"/></div>
+                <div class="b-head"><div class="b-date">15.02.2021 г.</div>Сахарный диабет у пожилых людей: как распознать его вовремя (часть 1)</div></a>
+            </div>
+            
+                                    <div class="b-small bitem2"><a href="/index.php?articleID=409">
+                <div class="b-img"><img src="pages_pictures/diabet_zima_st_22.jpg" alt="Как управлять диабетом в холодное время года?"/></div>
+                <div class="b-head"><div class="b-date">11.02.2020 г.</div>Как управлять диабетом в холодное время года?</div></a>
+            </div>
+            
+                    </div>
+
+
+    </section>
+
+    <section class="address">
+        <div class="blog-top tops">
+            <div class="col-md-6">
+                <h2>Адреса магазинов</h2>
+            </div>
+            <div class="col-md-6">
+                <a href="/contacts.html" class="link-all">перейти в раздел</a>
+            </div>
+        </div>
+        <div class="maps-grid">
+            <div class="maps-list">
+                                <div class="maps-store mapsitem1">
+                    <div class="maps-address">м. Проспект Мира, ул. Щепкина, 47 (слева от кассы с/к Олимпийский), этаж 1, офис №6</div>
+                    <div class="maps-phones">+7 (495) 643-29-38, +7 (495) 688-69-77</div>
+                    <div class="maps-time">Пн-Вс: с 10.00 до 20.00. Служба доставки работает с 10.00 до 24.00.</div>
+                </div>
+                                <div class="maps-store mapsitem2">
+                    <div class="maps-address">м. Текстильщики, Волгоградский проспект, д. 46/15, Культурный Центр Москвич, этаж 1</div>
+                    <div class="maps-phones">+7 (499) 179-69-03, +7 (495) 995-34-30</div>
+                    <div class="maps-time">Пн-Пт: с 10.00 до 20.00. Сб и Вс - выходные дни. Служба доставки работает с 10.00 до 24.00.</div>
+                </div>
+                                <div class="maps-store mapsitem3">
+                    <div class="maps-address">м. Маяковская, м. Белорусская, ул. 2-я Тверская-Ямская, д. 18, Центр делового сотрудничества, этаж 2, офис №202</div>
+                    <div class="maps-phones">+7 (495) 995-85-71</div>
+                    <div class="maps-time">Пн-Пт: с 10.00 до 20.00. Сб и Вс - выходные дни. Служба доставки работает с 10.00 до 24.00.</div>
+                </div>
+                                <div class="maps-store mapsitem4">
+                    <div class="maps-address">м. Таганская, ул. Земляной Вал. д. 64, стр. 2, этаж 6, офис №614</div>
+                    <div class="maps-phones">+7 (495) 915-79-88, +7 (495) 915-80-08</div>
+                    <div class="maps-time">Пн-Пт: с 10.00 до 20.00. Сб и Вс - выходные дни. Служба доставки работает с 10.00 до 24.00.</div>
+                </div>
+                            </div>
+            <div class="maps-full" id="mainmap"></div>
+        </div>
+    </section>
+    <div class="hr"></div>
+    <section class="about">
+            <div class="col-md-6">
+                <a href="/about.html" class="link-all">О компании</a>
+                <h2>Магазин “МЕДМАГ” - товары для
+                    диабетиков</h2>
+                <p>Компания «Медицинский Магазин» является ведущим
+                    розничным продавцом средств самоконтроля и товаров
+                    медицинского назначения для пациентов с сахарным
+                    диабетом на территории Российской Федерации.
+                    Компания имеет более чем десятилетний  опыт работы
+                    в данном сегменте рынка.
+                </p>
+                <a href="/about.html" class="btn btn-green">Подробнее</a>
+            </div>
+            <div class="col-md-6">
+                <a href="/about.html"><img src="/css/images/photo_o_kompanii.jpg"/></a>
+            </div>
+    </section>
+    <div class="hr"></div>
+    <section class="bottom-slider">
+        <div class="bottom-slide">
+            <div><a href="/index.php?searchstring=&image.x=1&image.y=6&searchstring2=&searchstring3=&select=Johnson+and+Johnson+LifeScan+%28США%29&select2=Все+категории"><img src="/css/images/brands/onetouch.jpg"/></a></div>
+            <div><a href="/index.php?searchstring=контур&select=Все+производители&select2=Все+категории&image.x=0&image.y=0"><img src="/css/images/brands/bayer.jpg"/></a></div>
+            <div><a href="/index.php?searchstring=&image.x=10&image.y=15&searchstring2=&searchstring3=&select=Roche%20Diagnostics%20(%D0%A8%D0%B2%D0%B5%D0%B9%D1%86%D0%B0%D1%80%D0%B8%D1%8F)&select2=%D0%92%D1%81%D0%B5+%D0%BA%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8"><img src="/css/images/brands/accu-chek.jpg"/></a></div>
+            <div><a href="/index.php?searchstring=&image.x=10&image.y=15&searchstring2=&searchstring3=&select=%D0%AD%D0%BB%D1%82%D0%B0%20%D0%A1%D0%B0%D1%82%D0%B5%D0%BB%D0%BB%D0%B8%D1%82%20(%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F)&select2=%D0%92%D1%81%D0%B5+%D0%BA%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8"><img src="/css/images/brands/elta.jpg"/></a></div>
+            <div><a href="/index.php?searchstring=&image.x=10&image.y=15&searchstring2=&searchstring3=&select=Medtronic%20MiniMed&select2=%D0%92%D1%81%D0%B5+%D0%BA%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8"><img src="/css/images/brands/medtronic.jpg"/></a></div>
+            <div><a href="/index.php?searchstring=&image.x=1&image.y=6&searchstring2=&searchstring3=&select=Frio,+Великобритания&select2=Все+категории"><img src="/css/images/brands/frio.jpg"/></a></div>
+            <div><a href="/index.php?searchstring=&image.x=10&image.y=15&searchstring2=&searchstring3=&select=OK%20Biotech%20(Тайвань)&select2=Все+категории"><img src="/css/images/brands/diacont.jpg"/></a></div>
+            
+            <div><a href="/index.php?searchstring=&image.x=10&image.y=15&searchstring2=&searchstring3=&select=Johnson%20and%20Johnson%20LifeScan%20(США)&select2=Все+категории"><img src="/css/images/brands/onetouch.jpg"/></a></div>
+            <div><a href="/index.php?searchstring=&image.x=1&image.y=6&searchstring2=&searchstring3=&select=Diamedical+(Великобритания)&select2=Все+категории"><img src="/css/images/brands/icheck.jpg"/></a></div>        </div>
+    </section>
+
+
+</div>
+            </div>
+        </article>
+        <div class="ui-helper-clearfix"></div>
+    </div>
+</section>
+
+
+<footer class="footer_bg">
+    <div class="container">
+    <div class="footer-top">
+        <div class="col-md-5">
+            <div class="footer-menu">
+
+                                <a href="/varianty-oplaty.html">Оплата</a>
+                                <a href="/payment.html">Доставка</a>
+                                <a href="/contacts.html">Наши магазины</a>
+                                <a href="/club_medmag.html">Дисконтная карта</a>
+                                <a href="/wholesale.html">Оптовикам</a>
+                                <a href="/index.php?categoryID=13">Акции</a>
+                            </div>
+            <div class="social footer">
+                    <!--<a href="https://t.me/diabetkp" target="_blank" class="telegram"></a>-->
+                    <a href="https://vk.com/dostupnye_poloski" target="_blank" class="vk"></a>
+                    <a href="https://www.facebook.com/groups/609866249198418/" target="_blank" class="fb"></a>
+                    <a href="https://www.instagram.com/medmag.moscow/" target="_blank" class="instagram"></a>
+                    <a href="https://www.youtube.com/channel/UCUAaIrujLcTRiXYhgWdmw7Q" target="_blank"
+                       class="youtube"></a>
+                    <a href="#" class="mail callme_button22"></a>
+            </div>
+        </div>
+        <div class="col-md-4 pl-50">
+            <div class="phones-num footer">
+                <div class="footer-image"><img alt="phone" src="/css/images/footer/phone.png"/></div>
+                <div class="footer-text">
+                    <select class="js-phone-top" name="phone">
+                        <option value="Многоканальный">+7 (495) 221-22-76</option>
+                                                <option value="Проспект Мира">+7 (495) 643-29-38</option>
+                        <optgroup label="Проспект Мира">
+                                                    <option value="Текстильщики">+7 (495) 995-34-30</option>
+                        <optgroup label="Текстильщики">
+                                                    <option value="Маяковская">+7 (495) 995-85-71</option>
+                        <optgroup label="Маяковская">
+                                                    <option value="Таганская">+7 (495) 915-79-88</option>
+                        <optgroup label="Таганская">
+                                                    <option value="Доставка по РФ">+7 (929) 601-28-52</option>
+                        <optgroup label="Доставка по РФ">
+                                                    <option value="Курьер Москва">+7 (495) 543-37-55</option>
+                        <optgroup label="Курьер Москва">
+                                                    <option value="Санкт-Петербург">+7 (812) 988-68-00</option>
+                        <optgroup label="Санкт-Петербург">
+                                                </select>
+                    <span class="txbottom txbottom2">Многоканальный</span>
+                </div>
+            </div>
+            <div class="footer-text"><div class="footer-ordercall form callme_button11">Заказать звонок</div></div>
+            <div class="footer-mail">
+                <div class="footer-image"><img alt="email" src="/css/images/footer/email.png"/></div>
+                <div class="footer-text"><a href="mailto:info@medmag.ru">info@medmag.ru</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3">
+            <div class="footer-subscribe">
+                <form action="/index.php?pageID=143" method="post">
+                    <input name="emailsubscription" required type="email" placeholder="подписаться на рассылку" class="footer-s"/>
+                    <input class="send" name="image" type="image" src="/css/images/tr.png" alt="Подписаться" border="0">
+                </form>
+
+            </div>
+            <div class="footer-bottom-menu">
+                <a href="/index.php?pageID=116">Политика конфиденциальности</a>
+                <a href="/index.php?pageID=49">Информация о продавце</a>
+                <a href="/index.php?pageID=104">Гарантия и обмен</a>
+            </div>
+        </div>
+    </div>
+    <div class="ui-helper-clearfix"></div>
+    <div class="hr"></div>
+    <div class="footer-bottom">
+        <div class="col-md-8">
+            Copyright MedMag.ru © 2005-2021. Все права защищены. Все материалы сайта являются собственностью его владельцев.
+            При воспроизведении, полном или частичном, материалов сайта гиперссылка на титульную страницу www.medmag.ru обязательна.
+        </div>
+        <div class="col-md-4" class="link-all">
+            <div class="col-md-6 paysystem2">
+            <img src="/images/logo_paykeeper.png" alt="paykeeper"/>
+            </div>
+            <div class="col-md-6">
+            <a href="/sitemap.html">Карта сайта</a>
+            </div>
+        </div>
+    </div>
+    </div>
+</footer>
+<!-- [1] -->
+<div class="modal micromodal-slide" id="ex1" aria-hidden="true">
+    <div tabindex="-1" data-micromodal-close>
+        <div role="dialog" aria-modal="true" aria-labelledby="modal-1-title" >
+            <header>
+                <h2 id="modal-1-title">
+                    Свяжитесь с нами
+                </h2>
+            </header>
+
+            <div id="modal-1-content">
+
+                <a href="tel:+7 (495) 221-22-76">+7 (495) 221-22-76</a>
+                <span>Многоканальный</span><br/>
+                                <a href="tel:+7 (495) 643-29-38">+7 (495) 643-29-38</a>
+                <span>Проспект Мира</span><br/>
+                                    <a href="tel:+7 (495) 995-34-30">+7 (495) 995-34-30</a>
+                <span>Текстильщики</span><br/>
+                                    <a href="tel:+7 (495) 995-85-71">+7 (495) 995-85-71</a>
+                <span>Маяковская</span><br/>
+                                    <a href="tel:+7 (495) 915-79-88">+7 (495) 915-79-88</a>
+                <span>Таганская</span><br/>
+                                    <a href="tel:+7 (929) 601-28-52">+7 (929) 601-28-52</a>
+                <span>Доставка по РФ</span><br/>
+                                    <a href="tel:+7 (495) 543-37-55">+7 (495) 543-37-55</a>
+                <span>Курьер Москва</span><br/>
+                                    <a href="tel:+7 (812) 988-68-00">+7 (812) 988-68-00</a>
+                <span>Санкт-Петербург</span><br/>
+                                </div>
+
+        </div>
+    </div>
+</div>
+
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.js"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.css" />
+<script type="text/javascript" src="/script/lightbox.js"></script>
+<link rel="stylesheet" type="text/css" href="/script/lightbox.css"/>
+<script>
+    lightbox.option({
+        'maxHeight': 615,
+        'fitImagesInViewport': true,
+        'albumLabel': "Изображение %1 из %2",
+        'positionFromTop': 30
+    });
+</script>
+<!-- Yandex.Metrika counter --> <script type="text/javascript" > (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)}; m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)}) (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym"); ym(678499, "init", { clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true, ecommerce:"dataLayer" }); </script> <noscript><div><img src="https://mc.yandex.ru/watch/678499" style="position:absolute; left:-9999px;" alt="" /></div></noscript> <!-- /Yandex.Metrika counter -->
+<!--LiveInternet counter--><script type="text/javascript">
+new Image().src = "//counter.yadro.ru/hit?r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";h"+escape(document.title.substring(0,150))+
+";"+Math.random();</script><!--/LiveInternet-->
+
+
+<script type="text/javascript" src="/js/jquery.liveFilter.js"></script>
+</body>
+</HTML>

@@ -1,0 +1,1185 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="ru-ru" xml:lang="ru-ru">
+<head>
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+<meta http-equiv="content-language" content="ru-ru" />
+<meta http-equiv="content-style-type" content="text/css" />
+<meta http-equiv="imagetoolbar" content="no" />
+<meta name="resource-type" content="document" />
+<meta name="distribution" content="global" />
+<meta name="copyright" content="2000, 2002, 2005, 2007 phpBB Group" />
+<meta name="description" content="Форум для родителей. Владмама. Владивосток, Дальний Восток." />
+<meta name="keywords" content="Дети, воспитание, родители, отношения, покупки" />
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7; IE=EmulateIE9" />
+<meta property="og:url" content="http://vladmama.ru/forum/" />
+<link rel="canonical" href="http://vladmama.ru/forum/" />
+<title>Главная страница | VLADMAMA.RU</title>
+
+<link rel="alternate" type="application/atom+xml" title="Лента новостей - VLADMAMA.RU" href="http://vladmama.ru/forum/feed.php" /><link rel="alternate" type="application/atom+xml" title="Лента новостей - Новости" href="http://vladmama.ru/forum/feed.php?mode=news" /><link rel="alternate" type="application/atom+xml" title="Лента новостей - Новые темы" href="http://vladmama.ru/forum/feed.php?mode=topics" /><link rel="alternate" type="application/atom+xml" title="Лента новостей - Активные темы" href="http://vladmama.ru/forum/feed.php?mode=topics_active" />
+
+<link rel="stylesheet" href="./styles/vladmama/theme/stylesheet.css?1589538752" type="text/css" />
+
+<script type="text/javascript" src="./styles/vladmama/template/static.js"></script>
+<script src="//mc.yandex.ru/metrika/watch.js" type="text/javascript" defer="defer"></script>
+<script type="text/javascript">
+/*	Mod thanks for post	*/
+function getElement(iElementId)
+{
+   if (document.all) 
+   {
+      return document.all[iElementId];
+   }
+   if (document.getElementById)
+   {
+      return document.getElementById(iElementId);
+   }
+}
+
+function toggleElement(oElement)
+{
+   if (oElement.style.display == "none")
+   {
+      oElement.style.display = "";
+   }
+   else
+   {
+      oElement.style.display = "none";
+   }
+}
+/* end mod thanks for post */
+
+	function countAdClick(id)
+	{
+	   loadXMLDoc('./ads/click.php?a=' + id);
+	}
+
+	function countAdView(id)
+	{
+	   loadXMLDoc('./ads/view.php?a=' + id);
+	}
+
+</script>
+
+<!-- Google Analytics --><script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-17123687-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+</script><!-- /Google Analytics -->
+
+<script type='text/javascript'><!--// <![CDATA[
+    var OA_source = '0';
+// ]]> --></script><script type='text/javascript' src='//b.vladmama.ru/shiec2aeka/ss.php?id=2&amp;target=_blank&amp;charset=UTF-8'></script>
+<!-- Блок «Поделиться» -->
+<script src="//yastatic.net/share2/share.js" async="async"></script>
+<meta property="og:title" content="Главная страница">
+<meta property="og:image" content="http://vladmama.ru/logo/logo_vladmama_158x158_2.png">
+<meta property="og:site_name" content="VLADMAMA.RU">
+<meta property="og:description" content="Форум для родителей. Владмама. Владивосток, Дальний Восток.">
+
+</head>
+
+<body class="ltr" itemscope itemtype="http://schema.org/WebPage">
+
+<div id="main-block">
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter1164922 = new Ya.Metrika({
+                    id:1164922,
+                    clickmap:true,
+                    trackLinks:true, webvisor:true,
+                    accurateTrackBounce:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/1164922" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter --><!--LiveInternet counter--><script type="text/javascript"><!--
+new Image().src = "//counter.yadro.ru/hit;vmama?r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random();//--></script><!--/LiveInternet--><!-- Rating@Mail.ru counter -->
+<script type="text/javascript">
+var _tmr = window._tmr || (window._tmr = []);
+_tmr.push({id: "1054336", type: "pageView", start: (new Date()).getTime()});
+(function (d, w, id) {
+  if (d.getElementById(id)) return;
+  var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;
+  ts.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//top-fwz1.mail.ru/js/code.js";
+  var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+  if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+})(document, window, "topmailru-code");
+</script><noscript><div style="position:absolute;left:-10000px;">
+<img src="//top-fwz1.mail.ru/counter?id=1054336;js=na" style="border:0;" height="1" width="1" alt="Рейтинг@Mail.ru" />
+</div></noscript>
+<!-- //Rating@Mail.ru counter -->
+
+<a name="top"></a>
+<div id="wrapheader" itemscope itemtype="http://schema.org/WPHeader">
+	
+	<div id="logodesc" style="padding: 0; border-bottom: 0 none; margin: -5px -5px 10px;">
+	<table width="100%" cellspacing="0">
+		<tr>
+			<td width="321"><a href="./"><img src="./images/up/2013-03-01/forum-up-1.jpg" alt="Владмама.ру"/></a></td>
+			<td style="text-align: center; background: url('./images/up/2013-03-01/forum-up-bg.png') repeat-x;"><a href="/"><img src="./images/up/2013-03-01/forum-up-2.jpg" alt="Перейти на сайт Владмама.ру"/></a></td>
+			<td width="200" style="text-align: center; background: url('./images/up/2013-03-01/forum-up-bg.png') repeat-x;">
+				<a target="_blank" href="http://prostoest.ru" title="Просто Есть"><img border="0" alt="Просто Есть" src="./images/up/2013-10-16/prostoest.png" width="189" height="95" /></a>
+			</td>		</tr>
+	</table>
+</div>
+
+	<div id="menubar" itemscope itemtype="http://schema.org/WPSideBar">
+		<table width="100%" cellspacing="0">
+		<tr>
+			<td class="genmed">
+				<a href="./ucp.php?mode=login&amp;redirect=.%2Findex.php%3Fsid%3Dffd080301f1716a6c1640bd9aa4236cd&amp;sid=ffd080301f1716a6c1640bd9aa4236cd"><img src="./styles/vladmama/theme/images/icon_mini_login.gif" width="13" height="13" alt="*" />Вход</a> <a href="./ucp.php?mode=register&amp;sid=ffd080301f1716a6c1640bd9aa4236cd"><img src="./styles/vladmama/theme/images/icon_mini_register.gif" width="13" height="13" alt="*" />Регистрация</a><!-- (<a href="/forum/viewtopic.php?f=545&t=132359">Для чего нужна регистрация</a>) -->
+					 &nbsp;<span style="color: #506b10"><a href="https://vladmama.ru/forum/" title="Переключиться на защищённый протокол"><img src="./styles/vladmama/theme/images/icon_mini_https.gif">https</a></span>
+				
+			</td>
+			<td class="genmed" align="right">
+				<!-- bugzex::start --><a href="./blog.php?sid=ffd080301f1716a6c1640bd9aa4236cd" title="Дневники форумчан"><img src="./styles/vladmama/imageset/icon_contact_blog.gif" width="13" height="13" alt="Дневники" />Дневники</a><!-- bugzex::end -->
+				&nbsp;<a href="./gallery/index.php?sid=ffd080301f1716a6c1640bd9aa4236cd" title="Галерея изображений"><img src="./styles/vladmama/theme/images/icon_mini_gallery.png" width="13" height="13" alt="*" />Галерея</a>
+				&nbsp;<a href="./faq.php?sid=ffd080301f1716a6c1640bd9aa4236cd" title="Часто задаваемые вопросы"><img src="./styles/vladmama/theme/images/icon_mini_faq.gif" width="13" height="13" alt="*" />ЧаВо</a>
+				&nbsp;<a href="./rules?sid=ffd080301f1716a6c1640bd9aa4236cd" title="Правила нашего форума"><img src="./styles/vladmama/theme/images/icon_mini_rules.gif" width="13" height="13" alt="*" />Правила</a>
+				&nbsp;&nbsp;<a href="./search.php?sid=ffd080301f1716a6c1640bd9aa4236cd"><img src="./styles/vladmama/theme/images/icon_mini_search.gif" width="13" height="13" alt="*" />Поиск</a>
+			</td>
+		</tr>
+		</table>
+	</div>
+</div>
+<div id="topbanners" align="center">
+	
+	<div class="banner" style="display: inline-block; margin: 4px;"><script type='text/javascript'>OA_show(22);</script><noscript><a target='_blank' href='//b.vladmama.ru/shiec2aeka/c.php?n=af0809c9'><img border='0' alt='' src='//b.vladmama.ru/shiec2aeka/a.php?zoneid=22&amp;n=af0809c9' /></a></noscript></div>
+	<div class="banner b936x60" style="display: inline-block; margin: 4px; overflow: visible;"><script type='text/javascript'>OA_show(19);</script><noscript><a target='_blank' href='//b.vladmama.ru/shiec2aeka/c.php?n=d729d25'><img border='0' alt='' src='//b.vladmama.ru/shiec2aeka/a.php?zoneid=19&amp;n=d729d25' /></a></noscript></div>
+	<div class="banner b468x60" style="display: inline-block; margin: 4px; overflow: visible;"><script type='text/javascript'>OA_show(5);</script><noscript><a target='_blank' href='//b.vladmama.ru/shiec2aeka/c.php?n=9f4c421'><img border='0' alt='' src='//b.vladmama.ru/shiec2aeka/a.php?zoneid=5&amp;n=9f4c421' /></a></noscript></div>
+	<div class="banner b468x60" style="display: inline-block; margin: 4px; overflow: visible;"><script type='text/javascript'>OA_show(6);</script><noscript><a target='_blank' href='//b.vladmama.ru/shiec2aeka/c.php?n=be0642d'><img border='0' alt='' src='//b.vladmama.ru/shiec2aeka/a.php?zoneid=6&amp;n=be0642d' /></a></noscript></div>
+</div>
+
+<div id="wrapcentre">
+	
+	<p class="searchbar" itemscope itemtype="http://schema.org/WPSideBar">
+		<span style="float: left;"><a href="./search.php?search_id=unanswered&amp;sid=ffd080301f1716a6c1640bd9aa4236cd">Темы без ответов</a> | <a href="./search.php?search_id=active_topics&amp;sid=ffd080301f1716a6c1640bd9aa4236cd">Активные темы</a>
+		</span>
+		
+	</p>
+	<table class="tablebg" width="100%" cellspacing="1" cellpadding="0">
+	<tr>
+		<td class="row1">
+			
+			<p class="breadcrumbs"><span itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a href="./?sid=ffd080301f1716a6c1640bd9aa4236cd" itemprop="url"><span itemprop="title">Список форумов</span></a></span></p>
+			
+			<p class="datetime">Часовой пояс: UTC + 10 часов </p>
+		</td>
+	</tr>
+	</table>
+
+	<br /><table class="tablebg" cellspacing="1" width="100%">
+<tr>
+	<td class="cat" colspan="5" align="right">&nbsp;</td>
+</tr>
+<tr>
+	<th colspan="2">&nbsp;Разделы&nbsp;</th>
+	<th width="50">&nbsp;Темы&nbsp;</th>
+	<th width="50">&nbsp;Сообщений&nbsp;</th>
+	<th>&nbsp;Последнее сообщение&nbsp;</th>
+</tr>
+
+		<tr>
+			<td class="cat" colspan="2"><h4><a href="./viewforum.php?f=1154&amp;sid=ffd080301f1716a6c1640bd9aa4236cd">Добрые дела</a></h4></td>
+			<td class="catdiv" colspan="3">&nbsp;</td>
+		</tr>
+	
+		<tr>
+			<td class="row1" width="50" align="center"><img src="./styles/vladmama/imageset/forum_read_subforum.gif" width="25" height="25" alt="Нет непрочитанных сообщений" title="Нет непрочитанных сообщений" /></td>
+			<td class="row1" width="100%">
+				
+				<a class="forumlink" href="./viewforum.php?f=201&amp;sid=ffd080301f1716a6c1640bd9aa4236cd">Добрые дела</a>
+				<p class="forumdesc"></p>
+				
+					<p class="forumdesc" style="clear: left"><strong>Подразделы: </strong> <a href="./viewforum.php?f=731&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Благотворительный фонд «Владмама»</a>, <a href="./viewforum.php?f=732&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Жизнь фонда</a>, <a href="./viewforum.php?f=1547&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Программы фонда</a>, <a href="./viewforum.php?f=1233&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Организация помощи</a>, <a href="./viewforum.php?f=1438&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Побеждаем болезнь вместе!</a>, <a href="./viewforum.php?f=1237&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Донорская помощь</a>, <a href="./viewforum.php?f=1236&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Помощь тяжелобольным</a>, <a href="./viewforum.php?f=733&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Помощь детским казенным учреждениям</a>, <a href="./viewforum.php?f=1238&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Взаимовыручка</a>, <a href="./viewforum.php?f=218&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Помощь в экстренных ситуациях</a>, <a href="./viewforum.php?f=880&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Найдутся все</a>, <a href="./viewforum.php?f=1114&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Поиск животных, автомобилей, документов  и вещей</a></p>
+				
+			</td>
+			<td class="row2" align="center"><p class="topicdetails">1034</p></td>
+			<td class="row2" align="center"><p class="topicdetails">74359</p></td>
+			<td class="row2" align="center" nowrap="nowrap">
+				
+						<p>
+							
+								<a  href="./viewtopic.php?f=1238&amp;p=18852526&amp;sid=ffd080301f1716a6c1640bd9aa4236cd#p18852526" title="Нужна сиделка или соц работник!">Нужна сиделка или соц работник!</a>
+							<a href="./viewtopic.php?f=1238&amp;p=18852526&amp;sid=ffd080301f1716a6c1640bd9aa4236cd#p18852526"><img src="./styles/vladmama/imageset/icon_topic_latest.gif" width="18" height="9" alt="Перейти к последнему сообщению" title="Перейти к последнему сообщению" /></a>
+						</p>
+					
+					<p class="topicdetails">Вчера, 23:22 <a href="./memberlist.php?mode=viewprofile&amp;u=40331&amp;sid=ffd080301f1716a6c1640bd9aa4236cd">murka29</a></p>
+				
+			</td>
+		</tr>
+	
+		<tr>
+			<td class="cat" colspan="2"><h4><a href="./viewforum.php?f=189&amp;sid=ffd080301f1716a6c1640bd9aa4236cd">Владмама.Ру</a></h4></td>
+			<td class="catdiv" colspan="3">&nbsp;</td>
+		</tr>
+	
+		<tr>
+			<td class="row1" width="50" align="center"><img src="./styles/vladmama/imageset/forum_read_subforum.gif" width="25" height="25" alt="Нет непрочитанных сообщений" title="Нет непрочитанных сообщений" /></td>
+			<td class="row1" width="100%">
+				
+				<a class="forumlink" href="./viewforum.php?f=192&amp;sid=ffd080301f1716a6c1640bd9aa4236cd">Всё о Владмаме</a>
+				<p class="forumdesc"></p>
+				
+					<p class="forumdesc" style="clear: left"><strong>Подразделы: </strong> <a href="./viewforum.php?f=546&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Правила форума</a>, <a href="./viewforum.php?f=1267&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Предупреждения и баны</a>, <a href="./viewforum.php?f=545&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Справочник пользователя</a>, <a href="./viewforum.php?f=118&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Просьбы и предложения</a>, <a href="./viewforum.php?f=1255&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Новости Владмамы</a>, <a href="./viewforum.php?f=156&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Акции и проекты</a>, <a href="./viewforum.php?f=119&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Конкурсы</a></p>
+				
+			</td>
+			<td class="row2" align="center"><p class="topicdetails">903</p></td>
+			<td class="row2" align="center"><p class="topicdetails">123877</p></td>
+			<td class="row2" align="center" nowrap="nowrap">
+				
+						<p>
+							
+								<a  href="./viewtopic.php?f=119&amp;p=18851371&amp;sid=ffd080301f1716a6c1640bd9aa4236cd#p18851371" title="Поддержите в конкурсе - 5">Поддержите в конкурсе - 5</a>
+							<a href="./viewtopic.php?f=119&amp;p=18851371&amp;sid=ffd080301f1716a6c1640bd9aa4236cd#p18851371"><img src="./styles/vladmama/imageset/icon_topic_latest.gif" width="18" height="9" alt="Перейти к последнему сообщению" title="Перейти к последнему сообщению" /></a>
+						</p>
+					
+					<p class="topicdetails">23 фев 2021, 19:38 <a href="./memberlist.php?mode=viewprofile&amp;u=92492&amp;sid=ffd080301f1716a6c1640bd9aa4236cd">Solin</a></p>
+				
+			</td>
+		</tr>
+	
+		<tr>
+			<td class="row1" width="50" align="center"><img src="./styles/vladmama/imageset/forum_read_subforum.gif" width="25" height="25" alt="Нет непрочитанных сообщений" title="Нет непрочитанных сообщений" /></td>
+			<td class="row1" width="100%">
+				
+				<a class="forumlink" href="./viewforum.php?f=1254&amp;sid=ffd080301f1716a6c1640bd9aa4236cd">Новости</a>
+				<p class="forumdesc"></p>
+				
+					<p class="forumdesc" style="clear: left"><strong>Подразделы: </strong> <a href="./viewforum.php?f=1453&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Политика</a>, <a href="./viewforum.php?f=1259&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">События во Владивостоке</a>, <a href="./viewforum.php?f=1331&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Анонсы событий</a>, <a href="./viewforum.php?f=1442&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Происшествия, криминальная хроника</a>, <a href="./viewforum.php?f=1439&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Великая ПОБЕДА</a>, <a href="./viewforum.php?f=1258&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Новости Дальнего Востока и Приморья</a>, <a href="./viewforum.php?f=1257&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Российские новости</a>, <a href="./viewforum.php?f=1256&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Мировые новости</a>, <a href="./viewforum.php?f=1260&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Осторожно, мошенники!</a>, <a href="./viewforum.php?f=1111&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Новости спорта</a>, <a href="./viewforum.php?f=1517&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Архив новостей</a></p>
+				
+			</td>
+			<td class="row2" align="center"><p class="topicdetails">1320</p></td>
+			<td class="row2" align="center"><p class="topicdetails">213863</p></td>
+			<td class="row2" align="center" nowrap="nowrap">
+				
+						<p>
+							
+								<a  href="./viewtopic.php?f=1257&amp;p=18852489&amp;sid=ffd080301f1716a6c1640bd9aa4236cd#p18852489" title="Обращения Путина">Обращения Путина</a>
+							<a href="./viewtopic.php?f=1257&amp;p=18852489&amp;sid=ffd080301f1716a6c1640bd9aa4236cd#p18852489"><img src="./styles/vladmama/imageset/icon_topic_latest.gif" width="18" height="9" alt="Перейти к последнему сообщению" title="Перейти к последнему сообщению" /></a>
+						</p>
+					
+					<p class="topicdetails">Вчера, 19:17 <a href="./memberlist.php?mode=viewprofile&amp;u=85434&amp;sid=ffd080301f1716a6c1640bd9aa4236cd">Летняя ночь</a></p>
+				
+			</td>
+		</tr>
+	
+		<tr>
+			<td class="row1" width="50" align="center"><img src="./styles/vladmama/imageset/forum_link.gif" width="25" height="25" alt="Нет непрочитанных сообщений" title="Нет непрочитанных сообщений" /></td>
+			<td class="row1">
+				
+				<a class="forumlink" href="./viewforum.php?f=337&amp;sid=ffd080301f1716a6c1640bd9aa4236cd">Клуб Владмамы</a>
+				<p class="forumdesc">Скидки, акции, подарки — это жизнь и события нашего клуба. Вам остается лишь стать участником!</p>
+			</td>
+			
+				<td class="row2" colspan="3" align="center"><span class="genmed">Переходов по ссылке: 149598</span></td>
+			
+		</tr>
+	
+		<tr>
+			<td class="row1" width="50" align="center"><img src="./styles/vladmama/imageset/forum_read_subforum.gif" width="25" height="25" alt="Нет непрочитанных сообщений" title="Нет непрочитанных сообщений" /></td>
+			<td class="row1" width="100%">
+				
+				<a class="forumlink" href="./viewforum.php?f=196&amp;sid=ffd080301f1716a6c1640bd9aa4236cd">Консультации специалистов</a>
+				<p class="forumdesc">Онлайн консультации специалистов в различных областях: здоровье, красота, психология, право. Возможность получить компетентное мнение, не выходя из дома.</p>
+				
+					<p class="forumdesc" style="clear: left"><strong>Подразделы: </strong> <a href="./viewforum.php?f=92&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Онлайн консультации</a>, <a href="./viewforum.php?f=234&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Архив консультаций</a>, <a href="./viewforum.php?f=1519&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Консультации на портале</a></p>
+				
+			</td>
+			<td class="row2" align="center"><p class="topicdetails">156</p></td>
+			<td class="row2" align="center"><p class="topicdetails">37814</p></td>
+			<td class="row2" align="center" nowrap="nowrap">
+				
+						<p>
+							
+								<a  href="./viewtopic.php?f=92&amp;p=18842461&amp;sid=ffd080301f1716a6c1640bd9aa4236cd#p18842461" title="Материнский капитал — Светлана Станиславовна Сидорова">Материнский капитал — Светлана С...</a>
+							<a href="./viewtopic.php?f=92&amp;p=18842461&amp;sid=ffd080301f1716a6c1640bd9aa4236cd#p18842461"><img src="./styles/vladmama/imageset/icon_topic_latest.gif" width="18" height="9" alt="Перейти к последнему сообщению" title="Перейти к последнему сообщению" /></a>
+						</p>
+					
+					<p class="topicdetails">15 янв 2021, 22:07 <a href="./memberlist.php?mode=viewprofile&amp;u=9575&amp;sid=ffd080301f1716a6c1640bd9aa4236cd">lipka</a></p>
+				
+			</td>
+		</tr>
+	
+		<tr>
+			<td class="row1" width="50" align="center"><img src="./styles/vladmama/imageset/forum_read_subforum.gif" width="25" height="25" alt="Нет непрочитанных сообщений" title="Нет непрочитанных сообщений" /></td>
+			<td class="row1" width="100%">
+				
+				<a class="forumlink" href="./viewforum.php?f=790&amp;sid=ffd080301f1716a6c1640bd9aa4236cd">Здоровье и медицина, безопасность жизни</a>
+				<p class="forumdesc"></p>
+				
+					<p class="forumdesc" style="clear: left"><strong>Подразделы: </strong> <a href="./viewforum.php?f=791&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Детское</a>, <a href="./viewforum.php?f=794&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Взрослое</a>, <a href="./viewforum.php?f=591&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Аптечка</a>, <a href="./viewforum.php?f=1117&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Лечение за рубежом</a>, <a href="./viewforum.php?f=812&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Нетрадиционная медицина</a>, <a href="./viewforum.php?f=314&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Укрепляем здоровье</a>, <a href="./viewforum.php?f=1330&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Основы безопасности жизни</a></p>
+				
+			</td>
+			<td class="row2" align="center"><p class="topicdetails">2681</p></td>
+			<td class="row2" align="center"><p class="topicdetails">324553</p></td>
+			<td class="row2" align="center" nowrap="nowrap">
+				
+						<p>
+							
+								<a  href="./viewtopic.php?f=316&amp;p=18852395&amp;sid=ffd080301f1716a6c1640bd9aa4236cd#p18852395" title="ОКУЛИСТ">ОКУЛИСТ</a>
+							<a href="./viewtopic.php?f=316&amp;p=18852395&amp;sid=ffd080301f1716a6c1640bd9aa4236cd#p18852395"><img src="./styles/vladmama/imageset/icon_topic_latest.gif" width="18" height="9" alt="Перейти к последнему сообщению" title="Перейти к последнему сообщению" /></a>
+						</p>
+					
+					<p class="topicdetails">Вчера, 13:00 <a href="./memberlist.php?mode=viewprofile&amp;u=22653&amp;sid=ffd080301f1716a6c1640bd9aa4236cd">Mavelle</a></p>
+				
+			</td>
+		</tr>
+	
+		<tr>
+			<td class="row1" width="50" align="center"><img src="./styles/vladmama/imageset/forum_read_subforum.gif" width="25" height="25" alt="Нет непрочитанных сообщений" title="Нет непрочитанных сообщений" /></td>
+			<td class="row1" width="100%">
+				
+				<a class="forumlink" href="./viewforum.php?f=193&amp;sid=ffd080301f1716a6c1640bd9aa4236cd">Планирование, беременность и роды</a>
+				<p class="forumdesc"></p>
+				
+					<p class="forumdesc" style="clear: left"><strong>Подразделы: </strong> <a href="./viewforum.php?f=70&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Ждем аиста</a>, <a href="./viewforum.php?f=819&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">ЭКО</a>, <a href="./viewforum.php?f=71&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">В ожидании чуда</a>, <a href="./viewforum.php?f=72&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Консультации и роддома</a>, <a href="./viewforum.php?f=73&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Роды</a>, <a href="./viewforum.php?f=240&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Послеродовые посиделки</a>, <a href="./viewforum.php?f=241&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Истории о беременности и родах</a>, <a href="./viewforum.php?f=129&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Что в имени твоем?</a></p>
+				
+			</td>
+			<td class="row2" align="center"><p class="topicdetails">2057</p></td>
+			<td class="row2" align="center"><p class="topicdetails">445198</p></td>
+			<td class="row2" align="center" nowrap="nowrap">
+				
+						<p>
+							
+								<a  href="./viewtopic.php?f=70&amp;p=18850202&amp;sid=ffd080301f1716a6c1640bd9aa4236cd#p18850202" title="Подскажите, будет ли овуляция???">Подскажите, будет ли овуляция???</a>
+							<a href="./viewtopic.php?f=70&amp;p=18850202&amp;sid=ffd080301f1716a6c1640bd9aa4236cd#p18850202"><img src="./styles/vladmama/imageset/icon_topic_latest.gif" width="18" height="9" alt="Перейти к последнему сообщению" title="Перейти к последнему сообщению" /></a>
+						</p>
+					
+					<p class="topicdetails">19 фев 2021, 09:14 <a href="./memberlist.php?mode=viewprofile&amp;u=122543&amp;sid=ffd080301f1716a6c1640bd9aa4236cd">Svetlyachok</a></p>
+				
+			</td>
+		</tr>
+	
+		<tr>
+			<td class="row1" width="50" align="center"><img src="./styles/vladmama/imageset/forum_read_subforum.gif" width="25" height="25" alt="Нет непрочитанных сообщений" title="Нет непрочитанных сообщений" /></td>
+			<td class="row1" width="100%">
+				
+				<a class="forumlink" href="./viewforum.php?f=820&amp;sid=ffd080301f1716a6c1640bd9aa4236cd">Дети, подростки, взрослые дети</a>
+				<p class="forumdesc"></p>
+				
+					<p class="forumdesc" style="clear: left"><strong>Подразделы: </strong> <a href="./viewforum.php?f=1019&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Дети раннего возраста</a>, <a href="./viewforum.php?f=821&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Грудничок - дети до года</a>, <a href="./viewforum.php?f=828&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Малышок - от года до трех</a>, <a href="./viewforum.php?f=833&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Дети с 3 до 7 лет</a>, <a href="./viewforum.php?f=838&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Дети с 7 до 10 лет</a>, <a href="./viewforum.php?f=80&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Подростки</a>, <a href="./viewforum.php?f=840&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Старшеклассники и студенты</a>, <a href="./viewforum.php?f=1545&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Детский отдых</a>, <a href="./viewforum.php?f=82&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Приемный ребенок</a>, <a href="./viewforum.php?f=83&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Особые дети</a>, <a href="./viewforum.php?f=843&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Клуб тинэйджеров</a>, <a href="./viewforum.php?f=91&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Товары для детей</a>, <a href="./viewforum.php?f=242&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Детская безопасность</a></p>
+				
+			</td>
+			<td class="row2" align="center"><p class="topicdetails">2225</p></td>
+			<td class="row2" align="center"><p class="topicdetails">332062</p></td>
+			<td class="row2" align="center" nowrap="nowrap">
+				
+						<p>
+							
+								<a  href="./viewtopic.php?f=83&amp;p=18851352&amp;sid=ffd080301f1716a6c1640bd9aa4236cd#p18851352" title="Дети с диагнозом «эпилепсия» - 4">Дети с диагнозом «эпилепсия» - 4</a>
+							<a href="./viewtopic.php?f=83&amp;p=18851352&amp;sid=ffd080301f1716a6c1640bd9aa4236cd#p18851352"><img src="./styles/vladmama/imageset/icon_topic_latest.gif" width="18" height="9" alt="Перейти к последнему сообщению" title="Перейти к последнему сообщению" /></a>
+						</p>
+					
+					<p class="topicdetails">23 фев 2021, 18:47 <a href="./memberlist.php?mode=viewprofile&amp;u=48755&amp;sid=ffd080301f1716a6c1640bd9aa4236cd">OLInka</a></p>
+				
+			</td>
+		</tr>
+	
+		<tr>
+			<td class="row1" width="50" align="center"><img src="./styles/vladmama/imageset/forum_read_subforum.gif" width="25" height="25" alt="Нет непрочитанных сообщений" title="Нет непрочитанных сообщений" /></td>
+			<td class="row1" width="100%">
+				
+				<a class="forumlink" href="./viewforum.php?f=844&amp;sid=ffd080301f1716a6c1640bd9aa4236cd">Образование: дошкольное, школьное, высшее, специальное</a>
+				<p class="forumdesc"></p>
+				
+					<p class="forumdesc" style="clear: left"><strong>Подразделы: </strong> <a href="./viewforum.php?f=90&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Детские сады, няни</a>, <a href="./viewforum.php?f=851&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Школы и школьники</a>, <a href="./viewforum.php?f=1235&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Учительская</a>, <a href="./viewforum.php?f=401&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">ВУЗы, институты, колледжи</a>, <a href="./viewforum.php?f=243&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Обучение за рубежом</a>, <a href="./viewforum.php?f=861&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Курсы, образовательные центры</a>, <a href="./viewforum.php?f=1230&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Языковой клуб</a>, <a href="./viewforum.php?f=1508&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Родительские комитеты и попечительские советы</a></p>
+				
+			</td>
+			<td class="row2" align="center"><p class="topicdetails">1759</p></td>
+			<td class="row2" align="center"><p class="topicdetails">433950</p></td>
+			<td class="row2" align="center" nowrap="nowrap">
+				
+						<p>
+							
+								<a  href="./viewtopic.php?f=869&amp;p=18852484&amp;sid=ffd080301f1716a6c1640bd9aa4236cd#p18852484" title="Круглосуточные мини-ясли. Летом-услуги няни в Геленджике.">Круглосуточные мини-ясли. Летом-...</a>
+							<a href="./viewtopic.php?f=869&amp;p=18852484&amp;sid=ffd080301f1716a6c1640bd9aa4236cd#p18852484"><img src="./styles/vladmama/imageset/icon_topic_latest.gif" width="18" height="9" alt="Перейти к последнему сообщению" title="Перейти к последнему сообщению" /></a>
+						</p>
+					
+					<p class="topicdetails">Вчера, 18:43 <a href="./memberlist.php?mode=viewprofile&amp;u=16944&amp;sid=ffd080301f1716a6c1640bd9aa4236cd">valentina54</a></p>
+				
+			</td>
+		</tr>
+	
+		<tr>
+			<td class="row1" width="50" align="center"><img src="./styles/vladmama/imageset/forum_read_subforum.gif" width="25" height="25" alt="Нет непрочитанных сообщений" title="Нет непрочитанных сообщений" /></td>
+			<td class="row1" width="100%">
+				
+				<a class="forumlink" href="./viewforum.php?f=195&amp;sid=ffd080301f1716a6c1640bd9aa4236cd">Развиваем гармоничную личность</a>
+				<p class="forumdesc"></p>
+				
+					<p class="forumdesc" style="clear: left"><strong>Подразделы: </strong> <a href="./viewforum.php?f=246&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Танцы</a>, <a href="./viewforum.php?f=872&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Развитие и творчество</a>, <a href="./viewforum.php?f=245&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Детский спорт</a>, <a href="./viewforum.php?f=585&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Литература для детей</a></p>
+				
+			</td>
+			<td class="row2" align="center"><p class="topicdetails">689</p></td>
+			<td class="row2" align="center"><p class="topicdetails">70310</p></td>
+			<td class="row2" align="center" nowrap="nowrap">
+				
+						<p>
+							
+								<a  href="./viewtopic.php?f=245&amp;p=18849686&amp;sid=ffd080301f1716a6c1640bd9aa4236cd#p18849686" title="Крытый каток во Владивостоке где??">Крытый каток во Владивостоке где??</a>
+							<a href="./viewtopic.php?f=245&amp;p=18849686&amp;sid=ffd080301f1716a6c1640bd9aa4236cd#p18849686"><img src="./styles/vladmama/imageset/icon_topic_latest.gif" width="18" height="9" alt="Перейти к последнему сообщению" title="Перейти к последнему сообщению" /></a>
+						</p>
+					
+					<p class="topicdetails">17 фев 2021, 12:52 <a href="./memberlist.php?mode=viewprofile&amp;u=87122&amp;sid=ffd080301f1716a6c1640bd9aa4236cd">@vok@do</a></p>
+				
+			</td>
+		</tr>
+	
+		<tr>
+			<td class="row1" width="50" align="center"><img src="./styles/vladmama/imageset/forum_read_subforum.gif" width="25" height="25" alt="Нет непрочитанных сообщений" title="Нет непрочитанных сообщений" /></td>
+			<td class="row1" width="100%">
+				
+				<a class="forumlink" href="./viewforum.php?f=881&amp;sid=ffd080301f1716a6c1640bd9aa4236cd">Семья</a>
+				<p class="forumdesc"></p>
+				
+					<p class="forumdesc" style="clear: left"><strong>Подразделы: </strong> <a href="./viewforum.php?f=81&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Я у мамы не один</a>, <a href="./viewforum.php?f=1112&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Многодетные родители</a>, <a href="./viewforum.php?f=116&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Самостоятельная  мама</a>, <a href="./viewforum.php?f=89&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Воспитание в семье</a>, <a href="./viewforum.php?f=264&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Дети - родители</a>, <a href="./viewforum.php?f=113&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Папина страница</a>, <a href="./viewforum.php?f=115&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Семейные узы</a>, <a href="./viewforum.php?f=114&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Мужчина и женщина</a>, <a href="./viewforum.php?f=1327&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Семейный бюджет</a></p>
+				
+			</td>
+			<td class="row2" align="center"><p class="topicdetails">1427</p></td>
+			<td class="row2" align="center"><p class="topicdetails">241888</p></td>
+			<td class="row2" align="center" nowrap="nowrap">
+				
+						<p>
+							
+								<a  href="./viewtopic.php?f=1112&amp;p=18852532&amp;sid=ffd080301f1716a6c1640bd9aa4236cd#p18852532" title="Земля многодетным - 11">Земля многодетным - 11</a>
+							<a href="./viewtopic.php?f=1112&amp;p=18852532&amp;sid=ffd080301f1716a6c1640bd9aa4236cd#p18852532"><img src="./styles/vladmama/imageset/icon_topic_latest.gif" width="18" height="9" alt="Перейти к последнему сообщению" title="Перейти к последнему сообщению" /></a>
+						</p>
+					
+					<p class="topicdetails">Сегодня, 00:28 <a href="./memberlist.php?mode=viewprofile&amp;u=94447&amp;sid=ffd080301f1716a6c1640bd9aa4236cd">Oily</a></p>
+				
+			</td>
+		</tr>
+	
+		<tr>
+			<td class="row1" width="50" align="center"><img src="./styles/vladmama/imageset/forum_read_subforum.gif" width="25" height="25" alt="Нет непрочитанных сообщений" title="Нет непрочитанных сообщений" /></td>
+			<td class="row1" width="100%">
+				
+				<a class="forumlink" href="./viewforum.php?f=1472&amp;sid=ffd080301f1716a6c1640bd9aa4236cd">Недвижимое имущество</a>
+				<p class="forumdesc"></p>
+				
+					<p class="forumdesc" style="clear: left"><strong>Подразделы: </strong> <a href="./viewforum.php?f=1475&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Программа Земля — семьям</a>, <a href="./viewforum.php?f=1476&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Земельные правоотношения</a>, <a href="./viewforum.php?f=1477&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Загородные поселки и садоводческие товарищества</a>, <a href="./viewforum.php?f=1478&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Загородное строительство и благоустройство</a>, <a href="./viewforum.php?f=1479&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Сад и огород</a>, <a href="./viewforum.php?f=1483&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Социальные жилищные программы</a>, <a href="./viewforum.php?f=1484&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Жилищные правоотношения</a>, <a href="./viewforum.php?f=1485&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Вопросы риэлторских услуг</a>, <a href="./viewforum.php?f=1487&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Ипотека и страхование жилья</a>, <a href="./viewforum.php?f=1488&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Перепланировка и типовые особенности квартир</a>, <a href="./viewforum.php?f=1489&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">ЖКХ</a>, <a href="./viewforum.php?f=1415&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Придомовая территория</a>, <a href="./viewforum.php?f=1490&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Город: новостройки, адреса, районы</a>, <a href="./viewforum.php?f=1491&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Пригород: новострои, адреса, районы</a>, <a href="./viewforum.php?f=1492&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Нежилые объекты недвижимости</a></p>
+				
+			</td>
+			<td class="row2" align="center"><p class="topicdetails">1200</p></td>
+			<td class="row2" align="center"><p class="topicdetails">315482</p></td>
+			<td class="row2" align="center" nowrap="nowrap">
+				
+						<p>
+							
+								<a  href="./viewtopic.php?f=1480&amp;p=18852523&amp;sid=ffd080301f1716a6c1640bd9aa4236cd#p18852523" title="Начинаю строить дом!Делимся опытом и идеями!Юбилейная-5я!!!">Начинаю строить дом!Делимся опыт...</a>
+							<a href="./viewtopic.php?f=1480&amp;p=18852523&amp;sid=ffd080301f1716a6c1640bd9aa4236cd#p18852523"><img src="./styles/vladmama/imageset/icon_topic_latest.gif" width="18" height="9" alt="Перейти к последнему сообщению" title="Перейти к последнему сообщению" /></a>
+						</p>
+					
+					<p class="topicdetails">Вчера, 23:15 <a href="./memberlist.php?mode=viewprofile&amp;u=20666&amp;sid=ffd080301f1716a6c1640bd9aa4236cd">marchik</a></p>
+				
+			</td>
+		</tr>
+	
+		<tr>
+			<td class="row1" width="50" align="center"><img src="./styles/vladmama/imageset/forum_read_subforum.gif" width="25" height="25" alt="Нет непрочитанных сообщений" title="Нет непрочитанных сообщений" /></td>
+			<td class="row1" width="100%">
+				
+				<a class="forumlink" href="./viewforum.php?f=899&amp;sid=ffd080301f1716a6c1640bd9aa4236cd">Домашний быт</a>
+				<p class="forumdesc"></p>
+				
+					<p class="forumdesc" style="clear: left"><strong>Подразделы: </strong> <a href="./viewforum.php?f=96&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Домашние хлопоты</a>, <a href="./viewforum.php?f=1291&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Ремонт квартиры</a>, <a href="./viewforum.php?f=1292&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Дизайн и интерьер</a>, <a href="./viewforum.php?f=904&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Бытовая техника</a>, <a href="./viewforum.php?f=354&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Компьютеры, софт, приложения</a>, <a href="./viewforum.php?f=542&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Сотовая и проводная связь</a>, <a href="./viewforum.php?f=775&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Интернет</a>, <a href="./viewforum.php?f=409&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Комнатные растения</a>, <a href="./viewforum.php?f=107&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Животные в доме</a>, <a href="./viewforum.php?f=435&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Покупки для дома</a>, <a href="./viewforum.php?f=130&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Помощники по хозяйству</a></p>
+				
+			</td>
+			<td class="row2" align="center"><p class="topicdetails">2264</p></td>
+			<td class="row2" align="center"><p class="topicdetails">448711</p></td>
+			<td class="row2" align="center" nowrap="nowrap">
+				
+						<p>
+							
+								<a  href="./viewtopic.php?f=1291&amp;p=18852505&amp;sid=ffd080301f1716a6c1640bd9aa4236cd#p18852505" title="Тётя Роза — фитодизайн для дома и офиса">Тётя Роза — фитодизайн для дома ...</a>
+							<a href="./viewtopic.php?f=1291&amp;p=18852505&amp;sid=ffd080301f1716a6c1640bd9aa4236cd#p18852505"><img src="./styles/vladmama/imageset/icon_topic_latest.gif" width="18" height="9" alt="Перейти к последнему сообщению" title="Перейти к последнему сообщению" /></a>
+						</p>
+					
+					<p class="topicdetails">Вчера, 20:59 <a href="./memberlist.php?mode=viewprofile&amp;u=144283&amp;sid=ffd080301f1716a6c1640bd9aa4236cd">IrenRoa</a></p>
+				
+			</td>
+		</tr>
+	
+		<tr>
+			<td class="row1" width="50" align="center"><img src="./styles/vladmama/imageset/forum_read_subforum.gif" width="25" height="25" alt="Нет непрочитанных сообщений" title="Нет непрочитанных сообщений" /></td>
+			<td class="row1" width="100%">
+				
+				<a class="forumlink" href="./viewforum.php?f=911&amp;sid=ffd080301f1716a6c1640bd9aa4236cd">Питание</a>
+				<p class="forumdesc"></p>
+				
+					<p class="forumdesc" style="clear: left"><strong>Подразделы: </strong> <a href="./viewforum.php?f=199&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Рецепты (Кухонька)</a>, <a href="./viewforum.php?f=1204&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Мультиварка</a>, <a href="./viewforum.php?f=137&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Рецепты от Дайкири</a>, <a href="./viewforum.php?f=1121&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Пасхальные рецепты</a>, <a href="./viewforum.php?f=915&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Посуда, приборы, инвентарь</a>, <a href="./viewforum.php?f=919&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Все о продуктах</a>, <a href="./viewforum.php?f=925&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Здоровое питание</a>, <a href="./viewforum.php?f=88&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Детское питание</a>, <a href="./viewforum.php?f=395&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Диеты</a></p>
+				
+			</td>
+			<td class="row2" align="center"><p class="topicdetails">4014</p></td>
+			<td class="row2" align="center"><p class="topicdetails">363263</p></td>
+			<td class="row2" align="center" nowrap="nowrap">
+				
+						<p>
+							
+								<a  href="./viewtopic.php?f=123&amp;p=18852476&amp;sid=ffd080301f1716a6c1640bd9aa4236cd#p18852476" title="Вкусный завтрак - 7">Вкусный завтрак - 7</a>
+							<a href="./viewtopic.php?f=123&amp;p=18852476&amp;sid=ffd080301f1716a6c1640bd9aa4236cd#p18852476"><img src="./styles/vladmama/imageset/icon_topic_latest.gif" width="18" height="9" alt="Перейти к последнему сообщению" title="Перейти к последнему сообщению" /></a>
+						</p>
+					
+					<p class="topicdetails">Вчера, 17:14 <a href="./memberlist.php?mode=viewprofile&amp;u=39352&amp;sid=ffd080301f1716a6c1640bd9aa4236cd">Фудзияма</a></p>
+				
+			</td>
+		</tr>
+	
+		<tr>
+			<td class="row1" width="50" align="center"><img src="./styles/vladmama/imageset/forum_read_subforum.gif" width="25" height="25" alt="Нет непрочитанных сообщений" title="Нет непрочитанных сообщений" /></td>
+			<td class="row1" width="100%">
+				
+				<a class="forumlink" href="./viewforum.php?f=110&amp;sid=ffd080301f1716a6c1640bd9aa4236cd">Работа</a>
+				<p class="forumdesc">О работе и карьерном росте.</p>
+				
+					<p class="forumdesc" style="clear: left"><strong>Подразделы: </strong> <a href="./viewforum.php?f=938&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Все профессии важны</a>, <a href="./viewforum.php?f=604&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Поиск работы</a>, <a href="./viewforum.php?f=1023&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Предложения о работе</a>, <a href="./viewforum.php?f=1293&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Коллеги</a>, <a href="./viewforum.php?f=1294&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Карьерный рост</a>, <a href="./viewforum.php?f=1296&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Место работы</a></p>
+				
+			</td>
+			<td class="row2" align="center"><p class="topicdetails">316</p></td>
+			<td class="row2" align="center"><p class="topicdetails">45590</p></td>
+			<td class="row2" align="center" nowrap="nowrap">
+				
+						<p>
+							
+								<a  href="./viewtopic.php?f=1293&amp;p=18851875&amp;sid=ffd080301f1716a6c1640bd9aa4236cd#p18851875" title="Кто ИП? Нужен совет. Тема вторая">Кто ИП? Нужен совет. Тема вторая</a>
+							<a href="./viewtopic.php?f=1293&amp;p=18851875&amp;sid=ffd080301f1716a6c1640bd9aa4236cd#p18851875"><img src="./styles/vladmama/imageset/icon_topic_latest.gif" width="18" height="9" alt="Перейти к последнему сообщению" title="Перейти к последнему сообщению" /></a>
+						</p>
+					
+					<p class="topicdetails">25 фев 2021, 21:47 <a href="./memberlist.php?mode=viewprofile&amp;u=14820&amp;sid=ffd080301f1716a6c1640bd9aa4236cd">Ginger</a></p>
+				
+			</td>
+		</tr>
+	
+		<tr>
+			<td class="row1" width="50" align="center"><img src="./styles/vladmama/imageset/forum_read_subforum.gif" width="25" height="25" alt="Нет непрочитанных сообщений" title="Нет непрочитанных сообщений" /></td>
+			<td class="row1" width="100%">
+				
+				<a class="forumlink" href="./viewforum.php?f=256&amp;sid=ffd080301f1716a6c1640bd9aa4236cd">Правовой раздел</a>
+				<p class="forumdesc"></p>
+				
+					<p class="forumdesc" style="clear: left"><strong>Подразделы: </strong> <a href="./viewforum.php?f=128&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Защищаем наши права</a>, <a href="./viewforum.php?f=942&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Защита прав потребителей</a>, <a href="./viewforum.php?f=941&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Гражданско-правовая сфера</a>, <a href="./viewforum.php?f=940&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Семейное право</a>, <a href="./viewforum.php?f=947&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Трудовое право (материнские выплаты, соц. обеспечение)</a>, <a href="./viewforum.php?f=1506&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Наследство</a>, <a href="./viewforum.php?f=948&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Уголовное и административное право</a>, <a href="./viewforum.php?f=1426&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Процессуальное право</a>, <a href="./viewforum.php?f=1507&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Исполнительное производство</a></p>
+				
+			</td>
+			<td class="row2" align="center"><p class="topicdetails">1038</p></td>
+			<td class="row2" align="center"><p class="topicdetails">116023</p></td>
+			<td class="row2" align="center" nowrap="nowrap">
+				
+						<p>
+							
+								<a  href="./viewtopic.php?f=1506&amp;p=18852490&amp;sid=ffd080301f1716a6c1640bd9aa4236cd#p18852490" title="Все о наследстве - 2">Все о наследстве - 2</a>
+							<a href="./viewtopic.php?f=1506&amp;p=18852490&amp;sid=ffd080301f1716a6c1640bd9aa4236cd#p18852490"><img src="./styles/vladmama/imageset/icon_topic_latest.gif" width="18" height="9" alt="Перейти к последнему сообщению" title="Перейти к последнему сообщению" /></a>
+						</p>
+					
+					<p class="topicdetails">Вчера, 19:14 <a href="./memberlist.php?mode=viewprofile&amp;u=50590&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" style="color: #AA0000;" class="username-coloured">Виза</a></p>
+				
+			</td>
+		</tr>
+	
+		<tr>
+			<td class="row1" width="50" align="center"><img src="./styles/vladmama/imageset/forum_read_subforum.gif" width="25" height="25" alt="Нет непрочитанных сообщений" title="Нет непрочитанных сообщений" /></td>
+			<td class="row1" width="100%">
+				
+				<a class="forumlink" href="./viewforum.php?f=191&amp;sid=ffd080301f1716a6c1640bd9aa4236cd">Пообщаемся</a>
+				<p class="forumdesc"></p>
+				
+					<p class="forumdesc" style="clear: left"><strong>Подразделы: </strong> <a href="./viewforum.php?f=94&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Встречалки</a>, <a href="./viewforum.php?f=102&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Девичьи Посиделки</a>, <a href="./viewforum.php?f=1441&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Психология личности</a>, <a href="./viewforum.php?f=866&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Самообразование и личностный рост</a>, <a href="./viewforum.php?f=1567&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Психологические тесты</a>, <a href="./viewforum.php?f=272&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Непознанное. Эзотерика. Парапсихология</a>, <a href="./viewforum.php?f=1440&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Один День</a>, <a href="./viewforum.php?f=103&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Маска</a>, <a href="./viewforum.php?f=257&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Мужские разговоры</a>, <a href="./viewforum.php?f=104&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Смех для всех</a>, <a href="./viewforum.php?f=105&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Игромания</a>, <a href="./viewforum.php?f=979&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Культура общения и воспитания</a></p>
+				
+			</td>
+			<td class="row2" align="center"><p class="topicdetails">6379</p></td>
+			<td class="row2" align="center"><p class="topicdetails">876037</p></td>
+			<td class="row2" align="center" nowrap="nowrap">
+				
+						<p>
+							
+								<a  href="./viewtopic.php?f=105&amp;p=18852425&amp;sid=ffd080301f1716a6c1640bd9aa4236cd#p18852425" title="Всё кончается на &quot;Е&quot;">Всё кончается на &quot;Е&quot;</a>
+							<a href="./viewtopic.php?f=105&amp;p=18852425&amp;sid=ffd080301f1716a6c1640bd9aa4236cd#p18852425"><img src="./styles/vladmama/imageset/icon_topic_latest.gif" width="18" height="9" alt="Перейти к последнему сообщению" title="Перейти к последнему сообщению" /></a>
+						</p>
+					
+					<p class="topicdetails">Вчера, 14:37 <a href="./memberlist.php?mode=viewprofile&amp;u=42044&amp;sid=ffd080301f1716a6c1640bd9aa4236cd">Singu</a></p>
+				
+			</td>
+		</tr>
+	
+		<tr>
+			<td class="row1" width="50" align="center"><img src="./styles/vladmama/imageset/forum_read_subforum.gif" width="25" height="25" alt="Нет непрочитанных сообщений" title="Нет непрочитанных сообщений" /></td>
+			<td class="row1" width="100%">
+				
+				<a class="forumlink" href="./viewforum.php?f=197&amp;sid=ffd080301f1716a6c1640bd9aa4236cd">Культура. Искусство. Творчество. История</a>
+				<p class="forumdesc"></p>
+				
+					<p class="forumdesc" style="clear: left"><strong>Подразделы: </strong> <a href="./viewforum.php?f=957&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Афиша событий</a>, <a href="./viewforum.php?f=1203&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Владмамы в выставочных залах</a>, <a href="./viewforum.php?f=289&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Все о кино</a>, <a href="./viewforum.php?f=966&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Музыка</a>, <a href="./viewforum.php?f=254&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Театр, хореография и балет</a>, <a href="./viewforum.php?f=968&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Живопись, выставки, галереи</a>, <a href="./viewforum.php?f=108&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Книголюбы</a>, <a href="./viewforum.php?f=600&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Телевидение</a>, <a href="./viewforum.php?f=290&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Шоу-бизнес</a>, <a href="./viewforum.php?f=975&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Архитектура: что интересного вокруг?</a>, <a href="./viewforum.php?f=977&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Калейдоскоп</a>, <a href="./viewforum.php?f=1542&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Научное обозрение</a>, <a href="./viewforum.php?f=124&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Кругозор для эрудита</a>, <a href="./viewforum.php?f=1017&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Театр - детям, цирк, развлекательные центры</a>, <a href="./viewforum.php?f=1239&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">История страны</a></p>
+				
+			</td>
+			<td class="row2" align="center"><p class="topicdetails">1999</p></td>
+			<td class="row2" align="center"><p class="topicdetails">399621</p></td>
+			<td class="row2" align="center" nowrap="nowrap">
+				
+						<p>
+							
+								<a  href="./viewtopic.php?f=1347&amp;p=18852533&amp;sid=ffd080301f1716a6c1640bd9aa4236cd#p18852533" title="Фильмы, которые нам не понравились - 2">Фильмы, которые нам не понравили...</a>
+							<a href="./viewtopic.php?f=1347&amp;p=18852533&amp;sid=ffd080301f1716a6c1640bd9aa4236cd#p18852533"><img src="./styles/vladmama/imageset/icon_topic_latest.gif" width="18" height="9" alt="Перейти к последнему сообщению" title="Перейти к последнему сообщению" /></a>
+						</p>
+					
+					<p class="topicdetails">Сегодня, 00:36 <a href="./memberlist.php?mode=viewprofile&amp;u=128511&amp;sid=ffd080301f1716a6c1640bd9aa4236cd">Лимончелла</a></p>
+				
+			</td>
+		</tr>
+	
+		<tr>
+			<td class="row1" width="50" align="center"><img src="./styles/vladmama/imageset/forum_read_subforum.gif" width="25" height="25" alt="Нет непрочитанных сообщений" title="Нет непрочитанных сообщений" /></td>
+			<td class="row1" width="100%">
+				
+				<a class="forumlink" href="./viewforum.php?f=249&amp;sid=ffd080301f1716a6c1640bd9aa4236cd">Женский мир</a>
+				<p class="forumdesc"></p>
+				
+					<p class="forumdesc" style="clear: left"><strong>Подразделы: </strong> <a href="./viewforum.php?f=1113&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Финансы</a>, <a href="./viewforum.php?f=95&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Шоппинг</a>, <a href="./viewforum.php?f=1031&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Формируем фигуру</a>, <a href="./viewforum.php?f=962&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Мода и стиль</a>, <a href="./viewforum.php?f=963&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Индустрия красоты</a>, <a href="./viewforum.php?f=101&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Секреты красоты</a>, <a href="./viewforum.php?f=213&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Спорт и фитнес</a></p>
+				
+			</td>
+			<td class="row2" align="center"><p class="topicdetails">2143</p></td>
+			<td class="row2" align="center"><p class="topicdetails">460360</p></td>
+			<td class="row2" align="center" nowrap="nowrap">
+				
+						<p>
+							
+								<a  href="./viewtopic.php?f=1435&amp;p=18852504&amp;sid=ffd080301f1716a6c1640bd9aa4236cd#p18852504" title="Фрау Мода — сеть салонов нижнего белья">Фрау Мода — сеть салонов нижнего...</a>
+							<a href="./viewtopic.php?f=1435&amp;p=18852504&amp;sid=ffd080301f1716a6c1640bd9aa4236cd#p18852504"><img src="./styles/vladmama/imageset/icon_topic_latest.gif" width="18" height="9" alt="Перейти к последнему сообщению" title="Перейти к последнему сообщению" /></a>
+						</p>
+					
+					<p class="topicdetails">Вчера, 20:51 <a href="./memberlist.php?mode=viewprofile&amp;u=143999&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" style="color: #005d5c;" class="username-coloured">Фрау Мода</a></p>
+				
+			</td>
+		</tr>
+	
+		<tr>
+			<td class="row1" width="50" align="center"><img src="./styles/vladmama/imageset/forum_read_subforum.gif" width="25" height="25" alt="Нет непрочитанных сообщений" title="Нет непрочитанных сообщений" /></td>
+			<td class="row1" width="100%">
+				
+				<a class="forumlink" href="./viewforum.php?f=1278&amp;sid=ffd080301f1716a6c1640bd9aa4236cd">Автоледи</a>
+				<p class="forumdesc"></p>
+				
+					<p class="forumdesc" style="clear: left"><strong>Подразделы: </strong> <a href="./viewforum.php?f=1279&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Нормы, правила, порядки</a>, <a href="./viewforum.php?f=1280&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Пит-стоп</a>, <a href="./viewforum.php?f=1281&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Безопасность на дороге</a>, <a href="./viewforum.php?f=1282&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Авто/мото/гидро клуб</a>, <a href="./viewforum.php?f=1283&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Женский гараж</a>, <a href="./viewforum.php?f=1413&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Транспорт и дорожная инфраструктура</a></p>
+				
+			</td>
+			<td class="row2" align="center"><p class="topicdetails">334</p></td>
+			<td class="row2" align="center"><p class="topicdetails">74634</p></td>
+			<td class="row2" align="center" nowrap="nowrap">
+				
+						<p>
+							
+								<a  href="./viewtopic.php?f=1279&amp;p=18852317&amp;sid=ffd080301f1716a6c1640bd9aa4236cd#p18852317" title="Страховка авто">Страховка авто</a>
+							<a href="./viewtopic.php?f=1279&amp;p=18852317&amp;sid=ffd080301f1716a6c1640bd9aa4236cd#p18852317"><img src="./styles/vladmama/imageset/icon_topic_latest.gif" width="18" height="9" alt="Перейти к последнему сообщению" title="Перейти к последнему сообщению" /></a>
+						</p>
+					
+					<p class="topicdetails">Вчера, 01:57 <a href="./memberlist.php?mode=viewprofile&amp;u=115219&amp;sid=ffd080301f1716a6c1640bd9aa4236cd">Лакиван Хьюг</a></p>
+				
+			</td>
+		</tr>
+	
+		<tr>
+			<td class="row1" width="50" align="center"><img src="./styles/vladmama/imageset/forum_read_subforum.gif" width="25" height="25" alt="Нет непрочитанных сообщений" title="Нет непрочитанных сообщений" /></td>
+			<td class="row1" width="100%">
+				
+				<a class="forumlink" href="./viewforum.php?f=1264&amp;sid=ffd080301f1716a6c1640bd9aa4236cd">Среда обитания</a>
+				<p class="forumdesc"></p>
+				
+					<p class="forumdesc" style="clear: left"><strong>Подразделы: </strong> <a href="./viewforum.php?f=1399&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Природоохранная деятельность</a>, <a href="./viewforum.php?f=1418&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Экология в городе</a>, <a href="./viewforum.php?f=1529&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Глобальная экология</a>, <a href="./viewforum.php?f=1397&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Дикая природа</a>, <a href="./viewforum.php?f=1422&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Краеведение</a>, <a href="./viewforum.php?f=1423&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Родной Владивосток</a>, <a href="./viewforum.php?f=1266&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Городская среда</a></p>
+				
+			</td>
+			<td class="row2" align="center"><p class="topicdetails">379</p></td>
+			<td class="row2" align="center"><p class="topicdetails">38552</p></td>
+			<td class="row2" align="center" nowrap="nowrap">
+				
+						<p>
+							
+								<a  href="./viewtopic.php?f=1418&amp;p=18852227&amp;sid=ffd080301f1716a6c1640bd9aa4236cd#p18852227" title="Селективный сбор отходов">Селективный сбор отходов</a>
+							<a href="./viewtopic.php?f=1418&amp;p=18852227&amp;sid=ffd080301f1716a6c1640bd9aa4236cd#p18852227"><img src="./styles/vladmama/imageset/icon_topic_latest.gif" width="18" height="9" alt="Перейти к последнему сообщению" title="Перейти к последнему сообщению" /></a>
+						</p>
+					
+					<p class="topicdetails">28 фев 2021, 13:05 <a href="./memberlist.php?mode=viewprofile&amp;u=24682&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" style="color: #333399;" class="username-coloured">Meyk</a></p>
+				
+			</td>
+		</tr>
+	
+		<tr>
+			<td class="row1" width="50" align="center"><img src="./styles/vladmama/imageset/forum_read_subforum.gif" width="25" height="25" alt="Нет непрочитанных сообщений" title="Нет непрочитанных сообщений" /></td>
+			<td class="row1" width="100%">
+				
+				<a class="forumlink" href="./viewforum.php?f=882&amp;sid=ffd080301f1716a6c1640bd9aa4236cd">Адрес места жительства</a>
+				<p class="forumdesc"></p>
+				
+					<p class="forumdesc" style="clear: left"><strong>Подразделы: </strong> <a href="./viewforum.php?f=889&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Приморье многонациональное</a>, <a href="./viewforum.php?f=891&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">На ПМЖ в Приморье</a>, <a href="./viewforum.php?f=1333&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">На ПМЖ в другие регионы РФ</a>, <a href="./viewforum.php?f=1335&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">На ПМЖ за границу</a>, <a href="./viewforum.php?f=1336&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">На ПМЖ в ближнее зарубежье</a></p>
+				
+			</td>
+			<td class="row2" align="center"><p class="topicdetails">147</p></td>
+			<td class="row2" align="center"><p class="topicdetails">70022</p></td>
+			<td class="row2" align="center" nowrap="nowrap">
+				
+						<p>
+							
+								<a  href="./viewtopic.php?f=1333&amp;p=18852524&amp;sid=ffd080301f1716a6c1640bd9aa4236cd#p18852524" title="В Геленджик на ПМЖ">В Геленджик на ПМЖ</a>
+							<a href="./viewtopic.php?f=1333&amp;p=18852524&amp;sid=ffd080301f1716a6c1640bd9aa4236cd#p18852524"><img src="./styles/vladmama/imageset/icon_topic_latest.gif" width="18" height="9" alt="Перейти к последнему сообщению" title="Перейти к последнему сообщению" /></a>
+						</p>
+					
+					<p class="topicdetails">Вчера, 23:20 <a href="./memberlist.php?mode=viewprofile&amp;u=23247&amp;sid=ffd080301f1716a6c1640bd9aa4236cd">Жень-Шень</a></p>
+				
+			</td>
+		</tr>
+	
+		<tr>
+			<td class="row1" width="50" align="center"><img src="./styles/vladmama/imageset/forum_read_subforum.gif" width="25" height="25" alt="Нет непрочитанных сообщений" title="Нет непрочитанных сообщений" /></td>
+			<td class="row1" width="100%">
+				
+				<a class="forumlink" href="./viewforum.php?f=250&amp;sid=ffd080301f1716a6c1640bd9aa4236cd">Отмечаем праздник!</a>
+				<p class="forumdesc"></p>
+				
+					<p class="forumdesc" style="clear: left"><strong>Подразделы: </strong> <a href="./viewforum.php?f=93&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Поздравлялки</a>, <a href="./viewforum.php?f=251&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Рестораны, кафе, клубы</a>, <a href="./viewforum.php?f=252&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Что подарить?</a>, <a href="./viewforum.php?f=1059&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Праздничная индустрия</a>, <a href="./viewforum.php?f=958&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Свадьбы</a>, <a href="./viewforum.php?f=976&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Дни рождения</a>, <a href="./viewforum.php?f=982&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">События по календарю</a>, <a href="./viewforum.php?f=253&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Отчеты о праздниках</a>, <a href="./viewforum.php?f=1559&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Праздничный стол</a>, <a href="./viewforum.php?f=1560&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Новогодний дизайн, подарки</a>, <a href="./viewforum.php?f=1561&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Новогодние костюмы</a></p>
+				
+			</td>
+			<td class="row2" align="center"><p class="topicdetails">1619</p></td>
+			<td class="row2" align="center"><p class="topicdetails">195613</p></td>
+			<td class="row2" align="center" nowrap="nowrap">
+				
+						<p>
+							
+								<a  href="./viewtopic.php?f=251&amp;p=18852535&amp;sid=ffd080301f1716a6c1640bd9aa4236cd#p18852535" title="Китайский ресторан!">Китайский ресторан!</a>
+							<a href="./viewtopic.php?f=251&amp;p=18852535&amp;sid=ffd080301f1716a6c1640bd9aa4236cd#p18852535"><img src="./styles/vladmama/imageset/icon_topic_latest.gif" width="18" height="9" alt="Перейти к последнему сообщению" title="Перейти к последнему сообщению" /></a>
+						</p>
+					
+					<p class="topicdetails">Сегодня, 01:04 <a href="./memberlist.php?mode=viewprofile&amp;u=58716&amp;sid=ffd080301f1716a6c1640bd9aa4236cd">Агата К.</a></p>
+				
+			</td>
+		</tr>
+	
+		<tr>
+			<td class="row1" width="50" align="center"><img src="./styles/vladmama/imageset/forum_read_subforum.gif" width="25" height="25" alt="Нет непрочитанных сообщений" title="Нет непрочитанных сообщений" /></td>
+			<td class="row1" width="100%">
+				
+				<a class="forumlink" href="./viewforum.php?f=127&amp;sid=ffd080301f1716a6c1640bd9aa4236cd">Клуб Путешественников</a>
+				<p class="forumdesc"></p>
+				
+					<p class="forumdesc" style="clear: left"><strong>Подразделы: </strong> <a href="./viewforum.php?f=534&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Общая подготовка к путешествию</a>, <a href="./viewforum.php?f=399&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Ищу попутчика</a>, <a href="./viewforum.php?f=220&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Приморье</a>, <a href="./viewforum.php?f=263&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Россия</a>, <a href="./viewforum.php?f=532&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Китай</a>, <a href="./viewforum.php?f=535&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Азия</a>, <a href="./viewforum.php?f=538&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Европа</a>, <a href="./viewforum.php?f=936&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Ближний Восток и Африка</a>, <a href="./viewforum.php?f=937&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Америка и страны Карибского бассейна</a>, <a href="./viewforum.php?f=939&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Австралия и острова Тихого океана, Антарктида</a>, <a href="./viewforum.php?f=1402&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Гуам и Сайпан</a></p>
+				
+			</td>
+			<td class="row2" align="center"><p class="topicdetails">2233</p></td>
+			<td class="row2" align="center"><p class="topicdetails">494872</p></td>
+			<td class="row2" align="center" nowrap="nowrap">
+				
+						<p>
+							
+								<a  href="./viewtopic.php?f=903&amp;p=18852527&amp;sid=ffd080301f1716a6c1640bd9aa4236cd#p18852527" title="Крым, впечатления, советы, вопросы">Крым, впечатления, советы, вопросы</a>
+							<a href="./viewtopic.php?f=903&amp;p=18852527&amp;sid=ffd080301f1716a6c1640bd9aa4236cd#p18852527"><img src="./styles/vladmama/imageset/icon_topic_latest.gif" width="18" height="9" alt="Перейти к последнему сообщению" title="Перейти к последнему сообщению" /></a>
+						</p>
+					
+					<p class="topicdetails">Вчера, 23:25 <a href="./memberlist.php?mode=viewprofile&amp;u=128602&amp;sid=ffd080301f1716a6c1640bd9aa4236cd">Haтaли</a></p>
+				
+			</td>
+		</tr>
+	
+		<tr>
+			<td class="row1" width="50" align="center"><img src="./styles/vladmama/imageset/forum_read_subforum.gif" width="25" height="25" alt="Нет непрочитанных сообщений" title="Нет непрочитанных сообщений" /></td>
+			<td class="row1" width="100%">
+				
+				<a class="forumlink" href="./viewforum.php?f=261&amp;sid=ffd080301f1716a6c1640bd9aa4236cd">Для души</a>
+				<p class="forumdesc"></p>
+				
+					<p class="forumdesc" style="clear: left"><strong>Подразделы: </strong> <a href="./viewforum.php?f=198&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Мастерица</a>, <a href="./viewforum.php?f=420&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Шитье и крой</a>, <a href="./viewforum.php?f=402&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Вышивка</a>, <a href="./viewforum.php?f=421&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Украшения хэнд-мэйд</a>, <a href="./viewforum.php?f=422&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Идеи для интерьера</a>, <a href="./viewforum.php?f=419&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Вязание</a>, <a href="./viewforum.php?f=1458&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Ручное творчество и ремесла</a>, <a href="./viewforum.php?f=1459&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Ремонт и переделка. Вторая жизнь вещей.</a>, <a href="./viewforum.php?f=1461&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Все для праздников</a>, <a href="./viewforum.php?f=109&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Фото-видео клуб</a>, <a href="./viewforum.php?f=351&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Фотогалерея</a>, <a href="./viewforum.php?f=262&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Я — коллекционер</a>, <a href="./viewforum.php?f=255&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Наше творчество</a></p>
+				
+			</td>
+			<td class="row2" align="center"><p class="topicdetails">950</p></td>
+			<td class="row2" align="center"><p class="topicdetails">241442</p></td>
+			<td class="row2" align="center" nowrap="nowrap">
+				
+						<p>
+							
+								<a  href="./viewtopic.php?f=109&amp;p=18852220&amp;sid=ffd080301f1716a6c1640bd9aa4236cd#p18852220" title="БЕСПЛАТНЫЕ фотосессии — предложения и просьбы">БЕСПЛАТНЫЕ фотосессии — предложе...</a>
+							<a href="./viewtopic.php?f=109&amp;p=18852220&amp;sid=ffd080301f1716a6c1640bd9aa4236cd#p18852220"><img src="./styles/vladmama/imageset/icon_topic_latest.gif" width="18" height="9" alt="Перейти к последнему сообщению" title="Перейти к последнему сообщению" /></a>
+						</p>
+					
+					<p class="topicdetails">28 фев 2021, 10:52 <a href="./memberlist.php?mode=viewprofile&amp;u=78287&amp;sid=ffd080301f1716a6c1640bd9aa4236cd">Кукла)))</a></p>
+				
+			</td>
+		</tr>
+	
+		<tr>
+			<td class="row1" width="50" align="center"><img src="./styles/vladmama/imageset/forum_read_subforum.gif" width="25" height="25" alt="Нет непрочитанных сообщений" title="Нет непрочитанных сообщений" /></td>
+			<td class="row1" width="100%">
+				
+				<a class="forumlink" href="./viewforum.php?f=392&amp;sid=ffd080301f1716a6c1640bd9aa4236cd">Трындычиха</a>
+				<p class="forumdesc">Всеобщая болтушка</p>
+				
+					<p class="forumdesc" style="clear: left"><strong>Подразделы: </strong> <a href="./viewforum.php?f=393&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Мамочки</a>, <a href="./viewforum.php?f=956&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Соседи</a>, <a href="./viewforum.php?f=955&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Родственные души</a>, <a href="./viewforum.php?f=1109&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Архив полезных болтушек</a></p>
+				
+			</td>
+			<td class="row2" align="center"><p class="topicdetails">235</p></td>
+			<td class="row2" align="center"><p class="topicdetails">314634</p></td>
+			<td class="row2" align="center" nowrap="nowrap">
+				
+						<p>
+							
+								<a  href="./viewtopic.php?f=955&amp;p=18852531&amp;sid=ffd080301f1716a6c1640bd9aa4236cd#p18852531" title="Ищем стимул - 76">Ищем стимул - 76</a>
+							<a href="./viewtopic.php?f=955&amp;p=18852531&amp;sid=ffd080301f1716a6c1640bd9aa4236cd#p18852531"><img src="./styles/vladmama/imageset/icon_topic_latest.gif" width="18" height="9" alt="Перейти к последнему сообщению" title="Перейти к последнему сообщению" /></a>
+						</p>
+					
+					<p class="topicdetails">Сегодня, 00:06 <a href="./memberlist.php?mode=viewprofile&amp;u=128511&amp;sid=ffd080301f1716a6c1640bd9aa4236cd">Лимончелла</a></p>
+				
+			</td>
+		</tr>
+	
+		<tr>
+			<td class="row1" width="50" align="center"><img src="./styles/vladmama/imageset/forum_read_subforum.gif" width="25" height="25" alt="Нет непрочитанных сообщений" title="Нет непрочитанных сообщений" /></td>
+			<td class="row1" width="100%">
+				
+				<a class="forumlink" href="./viewforum.php?f=874&amp;sid=ffd080301f1716a6c1640bd9aa4236cd">Вечное</a>
+				<p class="forumdesc"></p>
+				
+					<p class="forumdesc" style="clear: left"><strong>Подразделы: </strong> <a href="./viewforum.php?f=259&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Моя вера</a>, <a href="./viewforum.php?f=454&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Память</a></p>
+				
+			</td>
+			<td class="row2" align="center"><p class="topicdetails">528</p></td>
+			<td class="row2" align="center"><p class="topicdetails">60553</p></td>
+			<td class="row2" align="center" nowrap="nowrap">
+				
+						<p>
+							
+								<a  href="./viewtopic.php?f=454&amp;p=18851258&amp;sid=ffd080301f1716a6c1640bd9aa4236cd#p18851258" title="Ушел из жизни Василий Лановой…">Ушел из жизни Василий Лановой…</a>
+							<a href="./viewtopic.php?f=454&amp;p=18851258&amp;sid=ffd080301f1716a6c1640bd9aa4236cd#p18851258"><img src="./styles/vladmama/imageset/icon_topic_latest.gif" width="18" height="9" alt="Перейти к последнему сообщению" title="Перейти к последнему сообщению" /></a>
+						</p>
+					
+					<p class="topicdetails">23 фев 2021, 10:49 <a href="./memberlist.php?mode=viewprofile&amp;u=16457&amp;sid=ffd080301f1716a6c1640bd9aa4236cd">Valiko</a></p>
+				
+			</td>
+		</tr>
+	
+		<tr>
+			<td class="cat" colspan="2"><h4><a href="./viewforum.php?f=1212&amp;sid=ffd080301f1716a6c1640bd9aa4236cd">Владмама в городах</a></h4></td>
+			<td class="catdiv" colspan="3">&nbsp;</td>
+		</tr>
+	
+		<tr>
+			<td class="row1" width="50" align="center"><img src="./styles/vladmama/imageset/forum_read_subforum.gif" width="25" height="25" alt="Нет непрочитанных сообщений" title="Нет непрочитанных сообщений" /></td>
+			<td class="row1" width="100%">
+				
+				<a class="forumlink" href="./viewforum.php?f=439&amp;sid=ffd080301f1716a6c1640bd9aa4236cd">Артем</a>
+				<p class="forumdesc"></p>
+				
+					<p class="forumdesc" style="clear: left"><strong>Подразделы: </strong> <a href="./viewforum.php?f=1183&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Новости города  Артема</a>, <a href="./viewforum.php?f=1185&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Экскурсия по городу</a>, <a href="./viewforum.php?f=441&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Справочник</a>, <a href="./viewforum.php?f=509&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Планирование, беременность и роды</a>, <a href="./viewforum.php?f=511&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Дети</a>, <a href="./viewforum.php?f=1192&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Наш дом</a>, <a href="./viewforum.php?f=512&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Медицина</a>, <a href="./viewforum.php?f=1194&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Авто. Автошколы и дороги г.Артема</a>, <a href="./viewforum.php?f=513&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Клуб ВМ в Артеме</a>, <a href="./viewforum.php?f=778&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Коммерческие объявления</a>, <a href="./viewforum.php?f=1403&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Народный магазин в Артёме</a></p>
+				
+			</td>
+			<td class="row2" align="center"><p class="topicdetails">640</p></td>
+			<td class="row2" align="center"><p class="topicdetails">66229</p></td>
+			<td class="row2" align="center" nowrap="nowrap">
+				
+						<p>
+							
+								<a  href="./viewtopic.php?f=443&amp;p=18852035&amp;sid=ffd080301f1716a6c1640bd9aa4236cd#p18852035" title="Болтушка Артём">Болтушка Артём</a>
+							<a href="./viewtopic.php?f=443&amp;p=18852035&amp;sid=ffd080301f1716a6c1640bd9aa4236cd#p18852035"><img src="./styles/vladmama/imageset/icon_topic_latest.gif" width="18" height="9" alt="Перейти к последнему сообщению" title="Перейти к последнему сообщению" /></a>
+						</p>
+					
+					<p class="topicdetails">26 фев 2021, 20:21 <a href="./memberlist.php?mode=viewprofile&amp;u=60184&amp;sid=ffd080301f1716a6c1640bd9aa4236cd">PILLIGRIM</a></p>
+				
+			</td>
+		</tr>
+	
+		<tr>
+			<td class="row1" width="50" align="center"><img src="./styles/vladmama/imageset/forum_read_subforum.gif" width="25" height="25" alt="Нет непрочитанных сообщений" title="Нет непрочитанных сообщений" /></td>
+			<td class="row1" width="100%">
+				
+				<a class="forumlink" href="./viewforum.php?f=148&amp;sid=ffd080301f1716a6c1640bd9aa4236cd">Находка</a>
+				<p class="forumdesc"></p>
+				
+					<p class="forumdesc" style="clear: left"><strong>Подразделы: </strong> <a href="./viewforum.php?f=271&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Справочник</a>, <a href="./viewforum.php?f=990&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Мир женщины</a>, <a href="./viewforum.php?f=488&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Планирование, беременность и роды</a>, <a href="./viewforum.php?f=489&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Наши дети</a>, <a href="./viewforum.php?f=1008&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Домашний очаг</a>, <a href="./viewforum.php?f=1002&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Любимое дело</a>, <a href="./viewforum.php?f=269&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Беседка</a>, <a href="./viewforum.php?f=1028&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Клуб Владмамы в Находке</a>, <a href="./viewforum.php?f=577&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Коммерческие объявления Находка</a>, <a href="./viewforum.php?f=1368&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Народный магазин в Находке</a>, <a href="./viewforum.php?f=1392&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Правила размещения объявлений в Народном магазине Находки</a></p>
+				
+			</td>
+			<td class="row2" align="center"><p class="topicdetails">867</p></td>
+			<td class="row2" align="center"><p class="topicdetails">115168</p></td>
+			<td class="row2" align="center" nowrap="nowrap">
+				
+						<p>
+							
+								<a  href="./viewtopic.php?f=269&amp;p=18851596&amp;sid=ffd080301f1716a6c1640bd9aa4236cd#p18851596" title="Отдам-возьму /Бесплатно/ НАХОДКА">Отдам-возьму /Бесплатно/ НАХОДКА</a>
+							<a href="./viewtopic.php?f=269&amp;p=18851596&amp;sid=ffd080301f1716a6c1640bd9aa4236cd#p18851596"><img src="./styles/vladmama/imageset/icon_topic_latest.gif" width="18" height="9" alt="Перейти к последнему сообщению" title="Перейти к последнему сообщению" /></a>
+						</p>
+					
+					<p class="topicdetails">24 фев 2021, 19:58 <a href="./memberlist.php?mode=viewprofile&amp;u=23686&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" style="color: #333399;" class="username-coloured">Хома</a></p>
+				
+			</td>
+		</tr>
+	
+		<tr>
+			<td class="row1" width="50" align="center"><img src="./styles/vladmama/imageset/forum_read_subforum.gif" width="25" height="25" alt="Нет непрочитанных сообщений" title="Нет непрочитанных сообщений" /></td>
+			<td class="row1" width="100%">
+				
+				<a class="forumlink" href="./viewforum.php?f=202&amp;sid=ffd080301f1716a6c1640bd9aa4236cd">Владмамы в городах</a>
+				<p class="forumdesc"></p>
+				
+					<p class="forumdesc" style="clear: left"><strong>Подразделы: </strong> <a href="./viewforum.php?f=140&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Уссурийск</a>, <a href="./viewforum.php?f=215&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Арсеньев</a>, <a href="./viewforum.php?f=216&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Большой Камень</a>, <a href="./viewforum.php?f=265&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Дальнегорск</a>, <a href="./viewforum.php?f=157&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Дальнереченск</a>, <a href="./viewforum.php?f=507&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Дунай</a>, <a href="./viewforum.php?f=267&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Кавалерово</a>, <a href="./viewforum.php?f=501&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Лесозаводск</a>, <a href="./viewforum.php?f=266&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">На Сахалине</a>, <a href="./viewforum.php?f=499&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Краснодар</a>, <a href="./viewforum.php?f=504&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Москва</a>, <a href="./viewforum.php?f=498&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Санкт-Петербург</a>, <a href="./viewforum.php?f=1078&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Лучегорск</a>, <a href="./viewforum.php?f=500&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Комсомольск-на-Амуре</a>, <a href="./viewforum.php?f=503&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Николаевск-на-Амуре</a>, <a href="./viewforum.php?f=496&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Партизанск</a>, <a href="./viewforum.php?f=298&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Славянка</a>, <a href="./viewforum.php?f=508&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Сочи</a>, <a href="./viewforum.php?f=506&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Спасск-Дальний</a>, <a href="./viewforum.php?f=495&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Фокино</a>, <a href="./viewforum.php?f=497&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Хабаровск</a></p>
+				
+			</td>
+			<td class="row2" align="center"><p class="topicdetails">1282</p></td>
+			<td class="row2" align="center"><p class="topicdetails">165195</p></td>
+			<td class="row2" align="center" nowrap="nowrap">
+				
+						<p>
+							
+								<a  href="./viewtopic.php?f=497&amp;p=18852511&amp;sid=ffd080301f1716a6c1640bd9aa4236cd#p18852511" title="Достопримечательности Хабаровска.">Достопримечательности Хабаровска.</a>
+							<a href="./viewtopic.php?f=497&amp;p=18852511&amp;sid=ffd080301f1716a6c1640bd9aa4236cd#p18852511"><img src="./styles/vladmama/imageset/icon_topic_latest.gif" width="18" height="9" alt="Перейти к последнему сообщению" title="Перейти к последнему сообщению" /></a>
+						</p>
+					
+					<p class="topicdetails">Вчера, 22:09 <a href="./memberlist.php?mode=viewprofile&amp;u=22899&amp;sid=ffd080301f1716a6c1640bd9aa4236cd">Lusindochka</a></p>
+				
+			</td>
+		</tr>
+	
+		<tr>
+			<td class="cat" colspan="2"><h4><a href="./viewforum.php?f=1122&amp;sid=ffd080301f1716a6c1640bd9aa4236cd">Интернет шоппинг</a></h4></td>
+			<td class="catdiv" colspan="3">&nbsp;</td>
+		</tr>
+	
+		<tr>
+			<td class="row1" width="50" align="center"><img src="./styles/vladmama/imageset/forum_read_subforum.gif" width="25" height="25" alt="Нет непрочитанных сообщений" title="Нет непрочитанных сообщений" /></td>
+			<td class="row1" width="100%">
+				
+				<a class="forumlink" href="./viewforum.php?f=1123&amp;sid=ffd080301f1716a6c1640bd9aa4236cd">Покупки Владмамы</a>
+				<p class="forumdesc"></p>
+				
+					<p class="forumdesc" style="clear: left"><strong>Подразделы: </strong> <a href="./viewforum.php?f=1126&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Товары</a>, <a href="./viewforum.php?f=1127&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Услуги</a>, <a href="./viewforum.php?f=1129&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Продукты питания</a>, <a href="./viewforum.php?f=1155&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Правила размещения</a></p>
+				
+			</td>
+			<td class="row2" align="center"><p class="topicdetails">14</p></td>
+			<td class="row2" align="center"><p class="topicdetails">10140</p></td>
+			<td class="row2" align="center" nowrap="nowrap">
+				
+						<p>
+							
+								<a  href="./viewtopic.php?f=1127&amp;p=18852494&amp;sid=ffd080301f1716a6c1640bd9aa4236cd#p18852494" title="экспресс-курс по плетению кос «Мама &amp; Дочка»⁣⁣⠀">экспресс-курс по плетению кос «М...</a>
+							<a href="./viewtopic.php?f=1127&amp;p=18852494&amp;sid=ffd080301f1716a6c1640bd9aa4236cd#p18852494"><img src="./styles/vladmama/imageset/icon_topic_latest.gif" width="18" height="9" alt="Перейти к последнему сообщению" title="Перейти к последнему сообщению" /></a>
+						</p>
+					
+					<p class="topicdetails">Вчера, 19:31 <a href="./memberlist.php?mode=viewprofile&amp;u=24682&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" style="color: #333399;" class="username-coloured">Meyk</a></p>
+				
+			</td>
+		</tr>
+	
+		<tr>
+			<td class="row1" width="50" align="center"><img src="./styles/vladmama/imageset/forum_read_subforum.gif" width="25" height="25" alt="Нет непрочитанных сообщений" title="Нет непрочитанных сообщений" /></td>
+			<td class="row1" width="100%">
+				
+				<a class="forumlink" href="./viewforum.php?f=1138&amp;sid=ffd080301f1716a6c1640bd9aa4236cd">Хвастики</a>
+				<p class="forumdesc">Хвастаемся покупками</p>
+				
+					<p class="forumdesc" style="clear: left"><strong>Подразделы: </strong> <a href="./viewforum.php?f=1140&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Детские ТАОБАО хвастики</a>, <a href="./viewforum.php?f=1141&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Т*А*О*Б*А*О хвасты</a></p>
+				
+			</td>
+			<td class="row2" align="center"><p class="topicdetails">3</p></td>
+			<td class="row2" align="center"><p class="topicdetails">1433</p></td>
+			<td class="row2" align="center" nowrap="nowrap">
+				
+						<p>
+							
+								<a  href="./viewtopic.php?f=1141&amp;p=18581600&amp;sid=ffd080301f1716a6c1640bd9aa4236cd#p18581600" title="Т*А*О*Б*А*О хвасты">Т*А*О*Б*А*О хвасты</a>
+							<a href="./viewtopic.php?f=1141&amp;p=18581600&amp;sid=ffd080301f1716a6c1640bd9aa4236cd#p18581600"><img src="./styles/vladmama/imageset/icon_topic_latest.gif" width="18" height="9" alt="Перейти к последнему сообщению" title="Перейти к последнему сообщению" /></a>
+						</p>
+					
+					<p class="topicdetails">14 фев 2019, 11:04 <a href="./memberlist.php?mode=viewprofile&amp;u=19466&amp;sid=ffd080301f1716a6c1640bd9aa4236cd">Люлек</a></p>
+				
+			</td>
+		</tr>
+	
+		<tr>
+			<td class="row1" width="50" align="center"><img src="./styles/vladmama/imageset/forum_read_subforum.gif" width="25" height="25" alt="Нет непрочитанных сообщений" title="Нет непрочитанных сообщений" /></td>
+			<td class="row1" width="100%">
+				
+				<a class="forumlink" href="./viewforum.php?f=1161&amp;sid=ffd080301f1716a6c1640bd9aa4236cd">Народный магазин</a>
+				<p class="forumdesc"></p>
+				
+					<p class="forumdesc" style="clear: left"><strong>Подфорум: </strong> <a href="./viewforum.php?f=186&amp;sid=ffd080301f1716a6c1640bd9aa4236cd" class="subforum read" title="Нет непрочитанных сообщений">Возьму-отдам</a></p>
+				
+			</td>
+			<td class="row2" align="center"><p class="topicdetails">147</p></td>
+			<td class="row2" align="center"><p class="topicdetails">2756</p></td>
+			<td class="row2" align="center" nowrap="nowrap">
+				
+						<p>
+							
+								<a  href="./viewtopic.php?f=432&amp;p=18852281&amp;sid=ffd080301f1716a6c1640bd9aa4236cd#p18852281" title="Возьму Орешницу">Возьму Орешницу</a>
+							<a href="./viewtopic.php?f=432&amp;p=18852281&amp;sid=ffd080301f1716a6c1640bd9aa4236cd#p18852281"><img src="./styles/vladmama/imageset/icon_topic_latest.gif" width="18" height="9" alt="Перейти к последнему сообщению" title="Перейти к последнему сообщению" /></a>
+						</p>
+					
+					<p class="topicdetails">28 фев 2021, 18:05 <a href="./memberlist.php?mode=viewprofile&amp;u=125209&amp;sid=ffd080301f1716a6c1640bd9aa4236cd">Calipsa</a></p>
+				
+			</td>
+		</tr>
+	
+		<tr>
+			<td class="row1" width="50" align="center"><img src="./styles/vladmama/imageset/forum_link.gif" width="25" height="25" alt="Нет непрочитанных сообщений" title="Нет непрочитанных сообщений" /></td>
+			<td class="row1">
+				
+				<a class="forumlink" href="./viewforum.php?f=621&amp;sid=ffd080301f1716a6c1640bd9aa4236cd">Доска объявлений</a>
+				<p class="forumdesc">Частные объявления о продаже и покупке товаров</p>
+			</td>
+			
+				<td class="row2" colspan="3" align="center"><span class="genmed">Переходов по ссылке: 188801</span></td>
+			
+		</tr>
+	
+</table>
+<span class="gensmall"><a href="./ucp.php?mode=delete_cookies&amp;sid=ffd080301f1716a6c1640bd9aa4236cd">Удалить cookies конференции</a></span><br />
+
+
+<br clear="all" />
+
+<table class="tablebg" width="100%" cellspacing="1" cellpadding="0">
+	<tr>
+		<td class="row1">
+			
+			<p class="breadcrumbs"><a href="./?sid=ffd080301f1716a6c1640bd9aa4236cd">Список форумов</a></p>
+			
+			<p class="datetime">Часовой пояс: UTC + 10 часов </p>
+		</td>
+	</tr>
+	</table>
+	<br clear="all" />
+
+	<table class="tablebg" width="100%" cellspacing="1">
+	<tr>
+		<td class="cat" colspan="2"><h4>Кто сейчас на конференции | <a href="./memberlist.php?mode=leaders&amp;sid=ffd080301f1716a6c1640bd9aa4236cd">Наша команда</a></h4></td>
+	</tr>
+	<tr>
+	
+		<td class="row1" rowspan="2" align="center" valign="middle"><img src="./styles/vladmama/theme/images/whosonline.gif" alt="Кто сейчас на конференции" /></td>
+	
+		<td class="row1" width="100%"><span class="genmed">Всего посетителей: <strong>46</strong>, из них зарегистрированных: 10, скрытых: 2 и гостей: 34 (основано на активности пользователей за последние 5 минут)<br />Больше всего посетителей (<strong>1714</strong>) здесь было 31 янв 2016, 06:26</span></td>
+	</tr>
+	</table>
+
+	<br clear="all" />
+
+	<table class="tablebg" width="100%" cellspacing="1">
+	<tr>
+		<td class="cat" colspan="2"><h4>Дни рождения</h4></td>
+	</tr>
+	<tr>
+		<td class="row1" align="center" valign="middle"><img src="./styles/vladmama/theme/images/whosonline.gif" alt="Дни рождения" /></td>
+		<td class="row1" width="100%"><p class="genmed">Поздравляем: <b><a href="./memberlist.php?mode=viewprofile&amp;u=60188&amp;sid=ffd080301f1716a6c1640bd9aa4236cd">KudryashkaKD</a>, <a href="./memberlist.php?mode=viewprofile&amp;u=96764&amp;sid=ffd080301f1716a6c1640bd9aa4236cd">Kosoblanka</a>, <a href="./memberlist.php?mode=viewprofile&amp;u=107129&amp;sid=ffd080301f1716a6c1640bd9aa4236cd">Ромашкина Ниточка</a>, <a href="./memberlist.php?mode=viewprofile&amp;u=136533&amp;sid=ffd080301f1716a6c1640bd9aa4236cd">trrewt</a> (94), <a href="./memberlist.php?mode=viewprofile&amp;u=49566&amp;sid=ffd080301f1716a6c1640bd9aa4236cd">Sarvadas</a> (53), <a href="./memberlist.php?mode=viewprofile&amp;u=94139&amp;sid=ffd080301f1716a6c1640bd9aa4236cd">Avali</a> (53), <a href="./memberlist.php?mode=viewprofile&amp;u=33911&amp;sid=ffd080301f1716a6c1640bd9aa4236cd">olgsid</a> (50), <a href="./memberlist.php?mode=viewprofile&amp;u=42048&amp;sid=ffd080301f1716a6c1640bd9aa4236cd">Ice cream</a> (49), <a href="./memberlist.php?mode=viewprofile&amp;u=28546&amp;sid=ffd080301f1716a6c1640bd9aa4236cd">Джениффер</a> (48), <a href="./memberlist.php?mode=viewprofile&amp;u=140789&amp;sid=ffd080301f1716a6c1640bd9aa4236cd">ZombieBunny</a> (48), <a href="./memberlist.php?mode=viewprofile&amp;u=141227&amp;sid=ffd080301f1716a6c1640bd9aa4236cd">Elizazza</a> (48), <a href="./memberlist.php?mode=viewprofile&amp;u=117739&amp;sid=ffd080301f1716a6c1640bd9aa4236cd">Янесса2</a> (46), <a href="./memberlist.php?mode=viewprofile&amp;u=28308&amp;sid=ffd080301f1716a6c1640bd9aa4236cd">Bella77</a> (44), <a href="./memberlist.php?mode=viewprofile&amp;u=15589&amp;sid=ffd080301f1716a6c1640bd9aa4236cd">Анет</a> (44), <a href="./memberlist.php?mode=viewprofile&amp;u=88084&amp;sid=ffd080301f1716a6c1640bd9aa4236cd">Aiti</a> (44), <a href="./memberlist.php?mode=viewprofile&amp;u=140150&amp;sid=ffd080301f1716a6c1640bd9aa4236cd">enotanna</a> (44), <a href="./memberlist.php?mode=viewprofile&amp;u=57082&amp;sid=ffd080301f1716a6c1640bd9aa4236cd">NataShanghai</a> (43), <a href="./memberlist.php?mode=viewprofile&amp;u=140630&amp;sid=ffd080301f1716a6c1640bd9aa4236cd">socpravo</a> (42), <a href="./memberlist.php?mode=viewprofile&amp;u=28955&amp;sid=ffd080301f1716a6c1640bd9aa4236cd">Енот</a> (41), <a href="./memberlist.php?mode=viewprofile&amp;u=143042&amp;sid=ffd080301f1716a6c1640bd9aa4236cd">kaleriarusak</a> (41), <a href="./memberlist.php?mode=viewprofile&amp;u=80415&amp;sid=ffd080301f1716a6c1640bd9aa4236cd">miss.XXX</a> (39), <a href="./memberlist.php?mode=viewprofile&amp;u=91959&amp;sid=ffd080301f1716a6c1640bd9aa4236cd">mooina</a> (38), <a href="./memberlist.php?mode=viewprofile&amp;u=30533&amp;sid=ffd080301f1716a6c1640bd9aa4236cd">Мама Катя</a> (37), <a href="./memberlist.php?mode=viewprofile&amp;u=31958&amp;sid=ffd080301f1716a6c1640bd9aa4236cd">Alexsashka:-)</a> (37), <a href="./memberlist.php?mode=viewprofile&amp;u=46739&amp;sid=ffd080301f1716a6c1640bd9aa4236cd">GrozNick</a> (37), <a href="./memberlist.php?mode=viewprofile&amp;u=91589&amp;sid=ffd080301f1716a6c1640bd9aa4236cd">alexbase</a> (37), <a href="./memberlist.php?mode=viewprofile&amp;u=107778&amp;sid=ffd080301f1716a6c1640bd9aa4236cd">МилаShka</a> (37), <a href="./memberlist.php?mode=viewprofile&amp;u=138232&amp;sid=ffd080301f1716a6c1640bd9aa4236cd">Ольгария</a> (37), <a href="./memberlist.php?mode=viewprofile&amp;u=135614&amp;sid=ffd080301f1716a6c1640bd9aa4236cd">Alex84</a> (37), <a href="./memberlist.php?mode=viewprofile&amp;u=80834&amp;sid=ffd080301f1716a6c1640bd9aa4236cd">Ромашки</a> (36), <a href="./memberlist.php?mode=viewprofile&amp;u=27728&amp;sid=ffd080301f1716a6c1640bd9aa4236cd">Flybabi</a> (35), <a href="./memberlist.php?mode=viewprofile&amp;u=21985&amp;sid=ffd080301f1716a6c1640bd9aa4236cd">Ляляська</a> (35), <a href="./memberlist.php?mode=viewprofile&amp;u=126272&amp;sid=ffd080301f1716a6c1640bd9aa4236cd">Егор РИ</a> (35), <a href="./memberlist.php?mode=viewprofile&amp;u=55956&amp;sid=ffd080301f1716a6c1640bd9aa4236cd">верочка86</a> (35), <a href="./memberlist.php?mode=viewprofile&amp;u=96604&amp;sid=ffd080301f1716a6c1640bd9aa4236cd">Neally</a> (34), <a href="./memberlist.php?mode=viewprofile&amp;u=102862&amp;sid=ffd080301f1716a6c1640bd9aa4236cd">oleh007</a> (34), <a href="./memberlist.php?mode=viewprofile&amp;u=68918&amp;sid=ffd080301f1716a6c1640bd9aa4236cd">Эванжелина</a> (34), <a href="./memberlist.php?mode=viewprofile&amp;u=108250&amp;sid=ffd080301f1716a6c1640bd9aa4236cd">Oksi S</a> (34), <a href="./memberlist.php?mode=viewprofile&amp;u=39863&amp;sid=ffd080301f1716a6c1640bd9aa4236cd">TORYLOVE</a> (33), <a href="./memberlist.php?mode=viewprofile&amp;u=83337&amp;sid=ffd080301f1716a6c1640bd9aa4236cd">Sassssa</a> (32), <a href="./memberlist.php?mode=viewprofile&amp;u=56248&amp;sid=ffd080301f1716a6c1640bd9aa4236cd">Вредная Морковка</a> (31), <a href="./memberlist.php?mode=viewprofile&amp;u=128671&amp;sid=ffd080301f1716a6c1640bd9aa4236cd">smile555</a> (30), <a href="./memberlist.php?mode=viewprofile&amp;u=138081&amp;sid=ffd080301f1716a6c1640bd9aa4236cd">OlegovnaIra</a> (29), <a href="./memberlist.php?mode=viewprofile&amp;u=141888&amp;sid=ffd080301f1716a6c1640bd9aa4236cd">Murmana</a> (28), <a href="./memberlist.php?mode=viewprofile&amp;u=117087&amp;sid=ffd080301f1716a6c1640bd9aa4236cd">Popok</a> (23), <a href="./memberlist.php?mode=viewprofile&amp;u=82719&amp;sid=ffd080301f1716a6c1640bd9aa4236cd">Clinica</a> (9)</b></p></td>
+	</tr>
+	</table>
+
+
+<br clear="all" />
+
+<table class="tablebg" width="100%" cellspacing="1">
+<tr>
+	<td class="cat" colspan="2"><h4>Статистика</h4></td>
+</tr>
+<tr>
+	<td class="row1"><img src="./styles/vladmama/theme/images/whosonline.gif" alt="Статистика" /></td>
+	<td class="row1" width="100%" valign="middle"><p class="genmed">Всего сообщений: <strong>10673843</strong> | Тем: <strong>54823</strong> | Изображений: <strong>55257</strong> | Пользователей: <strong>103986</strong> | Новый пользователь: <strong><a href="./memberlist.php?mode=viewprofile&amp;u=144820&amp;sid=ffd080301f1716a6c1640bd9aa4236cd">Саодат</a></strong></p></td>
+</tr>
+</table>
+
+
+
+<br clear="all" />
+
+<table class="legend">
+<tr>
+	<td width="20" align="center"><img src="./styles/vladmama/imageset/forum_unread.gif" width="25" height="25" alt="Непрочитанные сообщения" title="Непрочитанные сообщения" /></td>
+	<td><span class="gensmall">Непрочитанные сообщения</span></td>
+	<td>&nbsp;&nbsp;</td>
+	<td width="20" align="center"><img src="./styles/vladmama/imageset/forum_read.gif" width="25" height="25" alt="Нет непрочитанных сообщений" title="Нет непрочитанных сообщений" /></td>
+	<td><span class="gensmall">Нет непрочитанных сообщений</span></td>
+	<td>&nbsp;&nbsp;</td>
+	<td width="20" align="center"><img src="./styles/vladmama/imageset/forum_read_locked.gif" width="25" height="25" alt="Нет непрочитанных сообщений [ Тема закрыта ]" title="Нет непрочитанных сообщений [ Тема закрыта ]" /></td>
+	<td><span class="gensmall">Раздел закрыт</span></td>
+</tr>
+</table>
+
+
+</div>
+<!--
+	We request you retain the full copyright notice below including the link to www.phpbb.com.
+	This not only gives respect to the large amount of time given freely by the developers
+	but also helps build interest, traffic and use of phpBB3. If you (honestly) cannot retain
+	the full copyright we ask you at least leave in place the "Powered by phpBB" line, with
+	"phpBB" linked to www.phpbb.com. If you refuse to include even this then support on our
+	forums may be affected.
+
+	The phpBB Group : 2006
+//-->
+
+<div id="wrapfooter" style="margin: 4px 0;" itemscope itemtype="http://schema.org/WPFooter">
+	<span class="gensmall">
+	
+	[ <a href="/forum/viewtopic.php?f=545&t=133633">Администрация портала</a> ] [ <a href="/reklama">Рекламодателю</a> ]
+	
+	</span>
+</div>
+<div id="footbanners" align="center" style="margin-top: 8px; margin-bottom: 4px; clear: both">
+	<div class="banner b468x60" style="display: inline-block; margin: 4px;"><script type='text/javascript'>OA_show(7);</script><noscript><a target='_blank' href='//b.vladmama.ru/shiec2aeka/c.php?n=3cad6c2'><img border='0' alt='' src='//b.vladmama.ru/shiec2aeka/a.php?zoneid=7&amp;n=3cad6c2' /></a></noscript></div>
+	<div class="banner b468x60" style="display: inline-block; margin: 4px;"><script type='text/javascript'>OA_show(8);</script><noscript><a target='_blank' href='//b.vladmama.ru/shiec2aeka/c.php?n=af2cef3'><img border='0' alt='' src='//b.vladmama.ru/shiec2aeka/a.php?zoneid=8&amp;n=af2cef3' /></a></noscript></div>
+	<div style="display: inline-block;"><script type='text/javascript'>OA_show(9);</script><noscript><a target='_blank' href='//b.vladmama.ru/shiec2aeka/c.php?n=1b7c319'><img border='0' alt='' src='//b.vladmama.ru/shiec2aeka/a.php?zoneid=9&amp;n=1b7c319' /></a></noscript></div>
+
+
+
+
+</div>
+
+<table class="footer" itemscope itemtype="http://schema.org/WPFooter">
+  <tr><td>
+	<!-- Rating@Mail.ru logo -->
+<a href="http://top.mail.ru/jump?from=1054336">
+<img src="//top-fwz1.mail.ru/counter?id=1054336;t=473;l=1" 
+style="border:0;" height="31" width="88" alt="Рейтинг@Mail.ru" /></a>
+<!-- //Rating@Mail.ru logo --><!-- begin of Top100 code -->
+<div id="Rambler-counter">
+	<img src="//counter.rambler.ru/top100.cnt?3146544" alt="" width="1" height="1" border="0" />
+</div>
+<!-- end of Top100 code --><!--LiveInternet logo--><a href="//www.liveinternet.ru/click;vmama"
+target="_blank"><img src="//counter.yadro.ru/logo;vmama?52.6"
+title="LiveInternet: показано число просмотров и посетителей за 24 часа"
+alt="" border="0" width="1" height="1"/></a><!--/LiveInternet-->
+  </td>
+  <td align="right" height="1%">
+	Мнение авторов сообщений не является мнением администрации портала
+	и может отличаться от ее официальной позиции.<br />
+	<a href="/forum/viewtopic.php?f=545&t=133633">Администрация сайта</a> не несет ответственности за содержание рекламных материалов и
+    информации, которую размещают пользователи.<br />
+	Ответственность за достоверность информации, адресов и номеров телефонов,
+	содержащихся в рекламных объявлениях, несут рекламодатели.
+  </td></tr>
+</table>
+
+</div>
+
+
+</body>
+</html>

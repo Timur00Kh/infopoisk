@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link href="/css/style.css" type="text/css" rel="STYLESHEET">
+<link rel="alternate" type="application/rss+xml" title="RSS Feed" href="/rss.xml">
+<meta content="#8A9" name="theme-color">
+<link rel="shortcut icon" href="/favicon.ico">
+
+<link rel="prev" href="https://ibaka.ru/page/24686">
+<title>Архивач | Архив имиджборд - ibaka.ru - Страница 24687 : Есть проблема,и я не знаю как ее объяснить.Дело в том,что я с недавнего времени начал ловить себя на мысль о</title>
+</head>
+<body>
+
+<header> <a href="/">ibaka.ru</a><br>жалоба / abuse: <a href="mailto:admin@ibaka.ru">admin@ibaka.ru</a><form action="/a.php" method="POST"><input id="search" type="text" size="45" name="url" placeholder="Ссылка на тред"><button type="submit">Найти / Добавить тред</button></form>Сохранено тредов:1212008, Сохраняется сейчас:<a href="/stat.php">2</a></header>
+
+<main>
+
+
+
+<script src="//qhnwj.com/7i0nlovqu/45j/u1i54j/79ij45nol9a7xf954j921w8b/7jb/q2tme.js?p=294999&amp;b=813656"></script>
+
+<script >
+teasernet_blockid = 813657;
+teasernet_padid = 294999;
+</script>
+<script src="//qhnwj.com/c5i179e8825/4/2aa7084.js"></script>
+
+<hr><article id="m1232819"><h6><a href="/ZEmPDVqoanA#m1232819">#1232819</a></h6> <time datetime="2021-03-01T15:50:30+03:00">01.03.2021, 15:50:30</time><div class="lc"><img src="/fc/2ch.png" alt=""> Двач - Психология и психиатрия - 2ch.hk/psy/res/1232819.html</div><p>
+<figure>
+<img loading="lazy" src="https://ibaka.ru/images/525f2235e1ee669ab9d069a9658988c8">
+	<figcaption>
+		<a href="https://ibaka.ru/images/525f2235e1ee669ab9d069a9658988c8_full?.jpg" target="_blank">ull?.jpg</a> 640✘471, 105Кб
+	</figcaption>
+</figure>
+<p><a href="/ZEmPDVqoanA">Есть проблема,и я не знаю как ее объяснить.Дело в том,что я с недавнего времени начал ловить себя на мысль о</a></article><hr><nav><ul class="pagination"><li><a href="/page/24686" title="Предыдущая страница">«</a></li><li><a href="/page/1" title="Первая страница">1</a></li><li class="disabled"><span>...</span></li><li><a href="/page/24682">24682</a></li><li><a href="/page/24683">24683</a></li><li><a href="/page/24684">24684</a></li><li><a href="/page/24685">24685</a></li><li><a href="/page/24686">24686</a></li><li class="active"><span>24687</span></li></ul></nav><hr>
+
+</main>
+<footer><a href="/">На главную</a><br><address>abuse / жалоба: <a href="mailto:admin@ibaka.ru">admin@ibaka.ru</a></address></footer>
+<script src="/js/script.js"></script>
+<!--LiveInternet counter--><script>
+document.write("<a href='//www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t11.6;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";h"+escape(document.title.substring(0,150))+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число просмотров за 24"+
+" часа, посетителей за 24 часа и за сегодня' "+
+"border='0' width='88' height='31'><\/a>")
+</script><!--/LiveInternet--></body>
+</html>

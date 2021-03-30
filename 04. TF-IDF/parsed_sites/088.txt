@@ -1,0 +1,647 @@
+<!DOCTYPE html>
+<html lang="ru" dir="ltr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="С чего начать ремонт квартиры и как сделать капитальный или косметический ремонт в квартире, ванной комнате, кухне в Москве или Московской области. Способы экономии в квартирных ремонтах. Статьи, советы и рекомендации по ремонту в своих квартирах." />
+<meta name="robots" content="follow, index" />
+<link rel="canonical" href="https://www.masterovoi.ru/" />
+  <title>Ремонт квартиры в Москве, ремонт квартир от московских фирм и бригад</title>
+  <meta name="google-site-verification" content="vl83KNicw0plJ4z03ohrLyQ1Rgr_6jItv_nAEa3-8_g" />
+  <link type="text/css" rel="stylesheet" href="https://www.masterovoi.ru/sites/default/files/css/css_lQaZfjVpwP_oGNqdtWCSpJT1EMqXdMiU84ekLLxQnc4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.masterovoi.ru/sites/default/files/css/css__LeQxW73LSYscb1O__H6f-j_jdAzhZBaesGL19KEB6U.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.masterovoi.ru/sites/default/files/css/css_Pxc6Nyy-TZ1W7ibaFE6Ws2-LpvyxYSLHYPGnp4Uz9QM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.masterovoi.ru/sites/default/files/css/css_BCjLo_6S2cBM1GJVrBR5MpsSHe3yN5LmdxJWk1pht48.css" media="all" />
+<style>#dexp-layerslider-layer{z-index:12;}
+#dexp-layerslider-layer--2{z-index:11;}
+#dexp-layerslider-layer--3{z-index:11;}
+#dexp-layerslider-layer--4{z-index:11;}
+</style>
+<link type="text/css" rel="stylesheet" href="https://www.masterovoi.ru/sites/default/files/css/css_Xxs5vs0K3FYJWdiK-BwQgE1dlbunIwtJb5AL9Y6xvW0.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://cdn.jsdelivr.net/bootstrap/3.3.5/css/bootstrap.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.masterovoi.ru/sites/default/files/css/css_PeNt2UYLAtf8YT8ob6fb8nlktz-ZsdjAwi-Omybm4Ps.css" media="all" />
+  <script src="//code.jquery.com/jquery-1.9.1.min.js"></script>
+<script>window.jQuery || document.write("<script src='/sites/all/modules/jquery_update/replace/jquery/1.9/jquery.min.js'>\x3C/script>")</script>
+<script src="https://www.masterovoi.ru/sites/default/files/js/js_dWhBODswdXXk1M5Z5nyqNfGljmqwxUwAK9i6D0YSDNs.js"></script>
+<script src="//code.jquery.com/ui/1.10.2/jquery-ui.min.js"></script>
+<script>window.jQuery.ui || document.write("<script src='/sites/all/modules/jquery_update/replace/ui/ui/minified/jquery-ui.min.js'>\x3C/script>")</script>
+<script src="https://www.masterovoi.ru/sites/default/files/js/js_BLxotNs2yt7YGlf9QRI9L9AMfdnkQfnN-_ADBTW3SiE.js"></script>
+<script src="https://cdn.jsdelivr.net/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+<script src="https://www.masterovoi.ru/sites/default/files/js/js_tDeTdfl-xb7gBzH6mFaBds8dCmAtsDOyzd3g_imBSiA.js"></script>
+<script src="https://www.masterovoi.ru/sites/default/files/js/js_R3Sg8UZpqEcYG-Gw8WhVntLpgj2gDQZ5EnINKbncBqA.js"></script>
+<script>jQuery(document).ready(function($){if($.fn.cssOriginal!=undefined)$.fn.css = $.fn.cssOriginal;$('#dexp-layerslider .layerslider-banner').css({opacity:1}).revolution({"delay":"5000","startheight":"400","startwidth":"1200","hideThumbs":0,"thumbWidth":150,"thumbHeight":100,"thumbAmount":3,"navigationType":"bullet","navigationArrows":"solo","navigationStyle":"preview4","navigationHAlign":"center","navigationVAlign":"bottom","navigationHOffset":0,"navigationVOffset":20,"soloArrowLeftHalign":"left","soloArrowLeftValign":"center","soloArrowLeftHOffset":20,"soloArrowLeftVOffset":0,"soloArrowRightHalign":"right","soloArrowRightValign":"center","soloArrowRightHOffset":20,"soloArrowRightVOffset":0,"touchenabled":"on","onHoverStop":"on","stopAtSlide":-1,"stopAfterLoops":-1,"hideCaptionAtLimit":0,"hideAllCaptionAtLilmit":0,"hideSliderAtLimit":0,"shadow":"","fullWidth":"off","fullScreen":"off","fullScreenOffsetContainer":"","lazyLoad":"on","timer":"bottom","shuffle":"off","dottedOverlay":"none","parallaxLevels":[10,20,30,40,50,60,70,80,90,100]});})</script>
+<script src="https://www.masterovoi.ru/sites/default/files/js/js_T-eyniY9kL0cESWRyh1YvjBm4h7IcahbaAG6aOQTRhQ.js"></script>
+<script src="https://www.masterovoi.ru/sites/default/files/js/js_wtH6NtQXPzQ69BrsoJi7mUTa2JomTyfWsiP5zRMoUy8.js"></script>
+<script src="https://www.masterovoi.ru/sites/default/files/js/js_DdBkJ4cgnasRvhytFxyMDIzR2NjF9GTHiyIj7gfVyC4.js"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"cdn","theme_token":"8-U8FHzuP2eFoqin68wyx1CdWIZe40GxCG7rOywF8iM","jquery_version":"1.9","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"\/\/code.jquery.com\/jquery-1.9.1.min.js":1,"0":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/code.jquery.com\/ui\/1.10.2\/jquery-ui.min.js":1,"1":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"sites\/all\/modules\/jquery_update\/replace\/misc\/jquery.form.min.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/jquery_update\/js\/jquery_update.js":1,"https:\/\/cdn.jsdelivr.net\/bootstrap\/3.3.5\/js\/bootstrap.min.js":1,"sites\/all\/modules\/comment_notify\/comment_notify.js":1,"sites\/all\/modules\/admin_menu\/admin_devel\/admin_devel.js":1,"sites\/all\/modules\/context_breakpoint\/context_breakpoint.js":1,"sites\/all\/modules\/resp_img\/resp_img.js":1,"public:\/\/languages\/ru_vu36JkMynPZAd4tKIgCScIWxUyWSZTFNVs6ayvXFQFo.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/themes\/bootstrap\/js\/misc\/_progress.js":1,"sites\/all\/modules\/ctools\/js\/modal.js":1,"sites\/all\/modules\/modal_forms\/js\/modal_forms_popup.js":1,"sites\/all\/modules\/drupalexp\/modules\/dexp_layerslider\/plugins\/rs-plugin\/js\/jquery.themepunch.tools.min.js":1,"sites\/all\/modules\/drupalexp\/modules\/dexp_layerslider\/plugins\/rs-plugin\/js\/jquery.themepunch.revolution.min.js":1,"2":1,"sites\/all\/modules\/drupalexp\/modules\/dexp_animation\/js\/dexp_animation.js":1,"sites\/all\/libraries\/appear\/jquery.appear.js":1,"sites\/all\/modules\/ulogin\/js\/ulogin.async.js":1,"sites\/all\/modules\/form_placeholder\/form_placeholder.js":1,"sites\/all\/themes\/cdn\/js\/cdn.js":1,"sites\/all\/themes\/bootstrap\/js\/misc\/ajax.js":1,"sites\/all\/themes\/bootstrap\/js\/modules\/ctools\/js\/modal.js":1},"css":{"modules\/system\/system.base.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"sites\/all\/modules\/comment_notify\/comment_notify.css":1,"sites\/all\/modules\/simplenews\/simplenews.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/menu_attach_block\/menu_attach_block.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/ctools\/css\/modal.css":1,"sites\/all\/modules\/modal_forms\/css\/modal_forms_popup.css":1,"sites\/all\/modules\/drupalexp\/modules\/dexp_grid\/css\/dexp-grid.css":1,"sites\/all\/modules\/drupalexp\/modules\/dexp_layerslider\/plugins\/rs-plugin\/css\/settings.css":1,"sites\/all\/modules\/drupalexp\/modules\/dexp_layerslider\/css\/layerslider.css":1,"0":1,"1":1,"2":1,"3":1,"sites\/all\/modules\/drupalexp\/modules\/dexp_animation\/css\/animate.css":1,"sites\/all\/modules\/drupalexp\/modules\/dexp_animation\/css\/dexp-animation.css":1,"https:\/\/cdn.jsdelivr.net\/bootstrap\/3.3.5\/css\/bootstrap.min.css":1,"sites\/all\/themes\/bootstrap\/css\/3.3.5\/overrides.min.css":1,"sites\/all\/themes\/cdn\/css\/style.css":1,"sites\/all\/themes\/cdn\/css\/form.css":1,"sites\/all\/themes\/cdn\/css\/furnikuhni.css":1}},"colorbox":{"opacity":"0.85","current":"{current} \u0438\u0437 {total}","previous":"\u00ab \u041f\u0440\u0435\u0434\u044b\u0434\u0443\u0449\u0438\u0439","next":"\u0421\u043b\u0435\u0434\u0443\u044e\u0449\u0438\u0439 \u00bb","close":"\u0417\u0430\u043a\u0440\u044b\u0442\u044c","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"context_breakpoint":{"settings":{"save_resolution":false,"breakpoints_in_url":false,"admin_disable_reload":false},"contexts":{"global_media":{"autoreload":0,"breakpoints":{"breakpoints.theme.bootstrap.screen-xs-max":{"max-width":767},"breakpoints.theme.bootstrap.screen-sm-min":{"min-width":768},"breakpoints.theme.bootstrap.screen-sm-max":{"max-width":991},"breakpoints.theme.bootstrap.screen-md-min":{"min-width":992},"breakpoints.theme.bootstrap.screen-md-max":{"max-width":1199},"breakpoints.theme.bootstrap.screen-lg-min":{"min-width":1200}}}},"is_admin":false},"respImg":{"default_suffix":"","current_suffix":false,"forceRedirect":false,"forceResize":false,"reloadOnResize":false,"useDevicePixelRatio":false,"suffixes":{"resp_img_1":800,"":1}},"CToolsModal":{"loadingText":"\u0417\u0430\u0433\u0440\u0443\u0437\u043a\u0430...","closeText":"\u0417\u0430\u043a\u0440\u044b\u0442\u044c \u043e\u043a\u043d\u043e","closeImage":"\u003Cimg class=\u0022img-rounded img-responsive img-responsive\u0022 src=\u0022https:\/\/www.masterovoi.ru\/sites\/all\/modules\/ctools\/images\/icon-close-window.png\u0022 alt=\u0022\u0417\u0430\u043a\u0440\u044b\u0442\u044c \u043e\u043a\u043d\u043e\u0022 title=\u0022\u0417\u0430\u043a\u0440\u044b\u0442\u044c \u043e\u043a\u043d\u043e\u0022 \/\u003E","throbber":"\u003Cimg class=\u0022img-rounded img-responsive img-responsive\u0022 src=\u0022https:\/\/www.masterovoi.ru\/sites\/all\/modules\/ctools\/images\/throbber.gif\u0022 alt=\u0022\u0417\u0430\u0433\u0440\u0443\u0437\u043a\u0430\u0022 title=\u0022\u0417\u0430\u0433\u0440\u0443\u0437\u043a\u0430...\u0022 \/\u003E"},"modal-popup-small":{"modalSize":{"type":"fixed","width":300,"height":300},"modalOptions":{"opacity":0.85,"background":"#000"},"animation":"fadeIn","modalTheme":"ModalFormsPopup","throbber":"\u003Cimg class=\u0022img-rounded img-responsive img-responsive\u0022 src=\u0022https:\/\/www.masterovoi.ru\/sites\/all\/modules\/modal_forms\/images\/loading_animation.gif\u0022 alt=\u0022\u0417\u0430\u0433\u0440\u0443\u0437\u043a\u0430...\u0022 title=\u0022\u0417\u0430\u0433\u0440\u0443\u0437\u043a\u0430\u0022 \/\u003E","closeText":"\u0417\u0430\u043a\u0440\u044b\u0442\u044c"},"modal-popup-medium":{"modalSize":{"type":"fixed","width":550,"height":450},"modalOptions":{"opacity":0.85,"background":"#000"},"animation":"fadeIn","modalTheme":"ModalFormsPopup","throbber":"\u003Cimg class=\u0022img-rounded img-responsive img-responsive\u0022 src=\u0022https:\/\/www.masterovoi.ru\/sites\/all\/modules\/modal_forms\/images\/loading_animation.gif\u0022 alt=\u0022\u0417\u0430\u0433\u0440\u0443\u0437\u043a\u0430...\u0022 title=\u0022\u0417\u0430\u0433\u0440\u0443\u0437\u043a\u0430\u0022 \/\u003E","closeText":"\u0417\u0430\u043a\u0440\u044b\u0442\u044c"},"modal-popup-large":{"modalSize":{"type":"scale","width":0.8,"height":0.8},"modalOptions":{"opacity":0.85,"background":"#000"},"animation":"fadeIn","modalTheme":"ModalFormsPopup","throbber":"\u003Cimg class=\u0022img-rounded img-responsive img-responsive\u0022 src=\u0022https:\/\/www.masterovoi.ru\/sites\/all\/modules\/modal_forms\/images\/loading_animation.gif\u0022 alt=\u0022\u0417\u0430\u0433\u0440\u0443\u0437\u043a\u0430...\u0022 title=\u0022\u0417\u0430\u0433\u0440\u0443\u0437\u043a\u0430\u0022 \/\u003E","closeText":"\u0417\u0430\u043a\u0440\u044b\u0442\u044c"},"ulogin":["ulogin"],"form_placeholder":{"fallback_support":false,"include":"#your-form-id *","exclude":"","required_indicator":"leave"},"urlIsAjaxTrusted":{"\/home?destination=node\/15276":true},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":0,"popoverEnabled":0,"popoverOptions":{"animation":0,"html":0,"placement":"right","selector":"","trigger":"","triggerAutoclose":0,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":0,"tooltipOptions":{"animation":0,"html":0,"placement":"auto left","selector":"","trigger":"","delay":0,"container":"body"}}});</script>
+<script type="text/javascript">Drupal.behaviors.contextBreakpoint.preInit();</script>
+</head>
+
+<body  class="html front not-logged-in two-sidebars page-node page-node- page-node-15276 node-type-story">
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Перейти к основному содержанию</a>
+  </div>
+      
+  <header id="navbar" role="banner" class="navbar container-fluid navbar-default">
+     <div class="container-fluid">
+    <div class="navbar-header">
+              <a class="logo navbar-btn pull-left" href="/" title="Главная">
+          <img src="https://www.masterovoi.ru/sites/default/files/logo-05.png" alt="Главная" />
+        </a>
+      
+      
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+          </div>
+
+          <div class="navbar-collapse collapse">
+        <nav role="navigation">
+                      <ul class="menu nav navbar-nav"><li class="first collapsed"><a href="https://www.masterovoi.ru/tendery-na-stroitelstvo-i-remont.shtml" title="Тендеры и заказы на строительство и ремонт">Тендеры</a></li>
+<li class="leaf"><a href="https://www.masterovoi.ru/region-city/moskva" title="">Ремонт в Москве</a></li>
+<li class="leaf"><a href="https://www.masterovoi.ru/remont-kuhni" title="Как сделать ремонт и обустроить кухню">Ремонт кухни</a></li>
+<li class="leaf"><a href="https://www.masterovoi.ru/remont-vannoy" title="Как сделать ремонт ванной комнаты">Ремонт ванной</a></li>
+<li class="leaf"><a href="https://www.masterovoi.ru/vopros-otvet-remont-i-stroyka" title="Вопросы и ответы по ремонту квартиры">Вопрос-ответ</a></li>
+<li class="leaf"><a href="https://www.masterovoi.ru/kak-sostavit-smetu" title="Примеры смет и советы как составить смету">Сметы</a></li>
+<li class="leaf"><a href="https://www.masterovoi.ru/forums/" title="Форуму о строительстве и ремонте.">Форумы</a></li>
+<li class="last leaf"><a href="/article.shtml" title="Статьи о ремонте и строительстве">Статьи</a></li>
+</ul>                                      </nav>
+      </div>
+      </div>
+</header>
+
+<div class="container-fluid">
+
+  <header role="banner" id="page-header">
+    
+      <div class="region region-header well well-sm">
+    <section id="block-block-103" class="block block-block clearfix">
+
+      
+  <div align="center">
+<style type="text/css">
+.adslot_1 { display:inline-block; width: 320px; height: 50px; }
+@media (max-width: 400px) { .adslot_1 { display: none; } }
+@media (min-width:500px) { .adslot_1 { width: 468px; height: 60px; } }
+@media (min-width:800px) { .adslot_1 { width: 728px; height: 90px; } }
+</style>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle adslot_1"
+     data-ad-client="ca-pub-3225094551698987"
+     data-ad-slot="4179673979"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+</section>
+  </div>
+  </header> <!-- /#page-header -->
+
+  <div class="row">
+
+          <aside class="col-sm-1" role="complementary">
+              </aside>  <!-- /#sidebar-first -->
+    
+    <section class="col-sm-9"> 
+                  <a id="main-content"></a>
+                                                  			<section id="block-dexp-layerslider-dexp-layerslider-block-1" class="block block-dexp-layerslider dexp-animate clearfix" data-animate="bounce">
+
+      
+  <div id="dexp-layerslider" class="layerslider-bannercontainer tp-simpleresponsive" style="max-height: 400px;">
+<div class="layerslider-banner" style="opacity:0; max-height:400px; height:400px;">
+<ul>
+<li data-transition="zoomout" data-masterspeed="5000">
+	<img src="https://www.masterovoi.ru/sites/default/files/slide-home-5_3.jpg" alt="" data-bgposition="center center" data-bgfit="cover"/><div id="dexp-layerslider-layer" class="tp-caption  tp-resizeme sfr ltb large_bold_white_25" data-x="80" data-y="230" data-speed="500" data-start="1500" data-easing="easeOutExpo" data-splitin="none" data-elementdelay="0.1">
+      Ремонт и строительство  </div>
+<div id="dexp-layerslider-layer--2" class="tp-caption  tp-resizeme randomrotate large_bold_white_25" data-x="655" data-y="305" data-speed="500" data-start="2000" data-easing="easeOutExpo" data-splitin="none" data-elementdelay="0.1">
+      без посредников  </div>
+</li>
+<li data-link="http://www.masterovoi.ru/node/add/zakaz" data-transition="parallaxtoright" data-masterspeed="5000">
+	<img src="https://www.masterovoi.ru/sites/default/files/slide-home-4_0.jpg" alt="" data-bgposition="center center" data-bgfit="cover"/><div id="dexp-layerslider-layer--3" class="tp-caption  tp-resizeme randomrotate large_bold_white_25" data-x="330" data-y="280" data-speed="500" data-start="1000" data-easing="easeOutExpo" data-splitin="none" data-elementdelay="0.1">
+      Объявите тендер  </div>
+</li>
+<li data-transition="parallaxtotop" data-masterspeed="5000">
+	<img src="https://www.masterovoi.ru/sites/default/files/slide-home-03_1.jpg" alt="" data-bgposition="center center" data-bgfit="cover"/><div id="dexp-layerslider-layer--4" class="tp-caption  tp-resizeme randomrotate large_bold_white_25" data-x="150" data-y="280" data-speed="500" data-start="1000" data-easing="easeOutExpo" data-splitin="none" data-elementdelay="0.1">
+      Получите лучшее предложение  </div>
+</li>
+</ul>
+<div class="tp-bannertimer tp-bottom"></div>
+</div>
+</div>
+
+</section>
+<div class="well">	  
+<h1 align="center">Как сделать ремонт квартиры</h1>
+<p>Ремонт квартир - сложный организационно, технологически  процесс, да еще и с особенностями психологической совместимости мастеров,  бригад, фирм и заказчиков, их разными представлениями о качестве. <br />
+У нас и Заказчик и Подрядчик  найдут рекомендации и советы как не приравнять ремонт к пожару, а получить качество и уложиться в смету. </p>
+	<hr>
+	<div class="well">	
+	<p><strong>Сайт «Домашний мастеровой»</strong> предлагает формирование системы взаимовыгодного  партнерства Заказчиков и Подрядчиков. Материалы сайта: статьи, советы,  рекомендации, форумы, вопросы и ответы, дискуссии широко и всесторонне  раскрывают все стороны процесса по ремонту квартиры.</p>
+	<div align="center"><strong>ДОБАВИТЬ СВОЙ ТЕНДЕР-ЗАКАЗ И ПОЛУЧИТЬ ЛУЧШЕЕ ПРЕДЛОЖЕНИЕ</strong></div>
+	<p align="center" style="font-size:14px"> Без регистрации!</p>
+	<p align="center"><a href="https://www.masterovoi.ru/node/add/zakaz"><img src="https://www.masterovoi.ru/button/button-add-tender-blok.jpg" width="164" height="34" border="0" /></a></p>
+	</div>
+</div>
+
+<div class="well">	
+	<section id="block-views-tenders-block-1" class="block block-views clearfix">
+
+      
+  <div class="view view-tenders view-id-tenders view-display-id-block_1 well view-dom-id-b6a155777f95e1f99fbb27e2f3e40def">
+            <div class="view-header">
+      <h3 align="center" class="h-views-title">АКТУАЛЬНЫЕ ЗАКАЗЫ И ТЕНДЕРЫ</h3>
+    </div>
+  
+  
+  
+      <div class="view-content">
+      <div class="list-unstyled-center">    <ul class="row list-unstyled">          <li class="col-lg-3 col-md-3 col-sm-6 col-xs-12 brd-tnd">  
+  <h4 class="h-views-title">        <span><a href="/tender-29/18702">Строительство коммерческих...</a></span>  </h4>  
+  <div class="views-field views-field-taxonomy-vocabulary-9">        <div class="field-content">Архангельск</div>  </div>  
+  <div class="views-field views-field-last-updated">        <span class="field-content">26 февраля</span>  </div></li>
+          <li class="col-lg-3 col-md-3 col-sm-6 col-xs-12 brd-tnd">  
+  <h4 class="h-views-title">        <span><a href="/tender-77/18695">Требуются подрядчики и...</a></span>  </h4>  
+  <div class="views-field views-field-taxonomy-vocabulary-9">        <div class="field-content">Москва</div>  </div>  
+  <div class="views-field views-field-last-updated">        <span class="field-content">21 февраля</span>  </div></li>
+          <li class="col-lg-3 col-md-3 col-sm-6 col-xs-12 brd-tnd">  
+  <h4 class="h-views-title">        <span><a href="/tender-73/18691">косметический ремонт пищеблока</a></span>  </h4>  
+  <div class="views-field views-field-taxonomy-vocabulary-9">        <div class="field-content">Ульяновск</div>  </div>  
+  <div class="views-field views-field-last-updated">        <span class="field-content">18 февраля</span>  </div></li>
+          <li class="col-lg-3 col-md-3 col-sm-6 col-xs-12 brd-tnd">  
+  <h4 class="h-views-title">        <span><a href="/tender-50/18633">Требуется бригада отделочников</a></span>  </h4>  
+  <div class="views-field views-field-taxonomy-vocabulary-9">        <div class="field-content">Московская обл</div>  </div>  
+  <div class="views-field views-field-last-updated">        <span class="field-content">16 февраля</span>  </div></li>
+      </ul></div>
+<div align="center">
+<a href="/tenders-all"><button type="button" class="btn btn-success">все заказы и тендеры</button></a>
+</div>
+
+    </div>
+  
+  
+  
+  
+  
+  
+</div>
+</section>
+</div>	
+<div class="well">	
+	 <section id="block-views-masters-block-1" class="block block-views clearfix">
+
+      
+  <div class="view view-masters view-id-masters view-display-id-block_1 well view-dom-id-3f57304af8dc8389aae689ffaeef6333">
+            <div class="view-header">
+      <h3 align="center" class="h-views-title">НОВЫЕ МАСТЕРА И БРИГАДЫ</h3>
+    </div>
+  
+  
+  
+      <div class="view-content">
+      <div class="list-unstyled-center">    <ul class="row list-unstyled">          <li class="col-lg-3 col-md-6 brd">  
+  <div>        <div><div align="center" class="field-content-img"><a href="/master-36-5307/master-na-vse-ruki"><img class="img-responsive img-rounded img-responsive" src="https://www.masterovoi.ru/sites/default/files/styles/mid_150x150/public/master-na-vse-ruki.jpg?itok=8kAS_Iok"   alt="" /></a></div>
+</div>  </div>  
+  <h4 class="views-title">        <span><a href="/master-36-5307/master-na-vse-ruki">Мастер на все руки</a></span>  </h4>  
+  <div class="views-field views-field-body">        <span class="field-content">Доставка,установка и подключение вытяжек,стиральных машин,...</span>  </div>  
+  <div class="views-field views-field-taxonomy-vocabulary-9">        <div class="field-content"><a href="/region-city/voronezh">Воронеж</a></div>  </div></li>
+          <li class="col-lg-3 col-md-6 brd">  
+  <div>        <div><div align="center" class="field-content-img"><a href="/master-72-5340/izgotovlenie-stolyarnyh-izdeliy"><img class="img-responsive img-rounded img-responsive" src="https://www.masterovoi.ru/sites/default/files/styles/mid_150x150/public/stoljarnye-izdelija.jpg?itok=0VJ2PKoO"   alt="" /></a></div>
+</div>  </div>  
+  <h4 class="views-title">        <span><a href="/master-72-5340/izgotovlenie-stolyarnyh-izdeliy">Изготовление столярных изделий </a></span>  </h4>  
+  <div class="views-field views-field-body">        <span class="field-content">изготовление деревянных интерьеров...лестниц мебели...в том...</span>  </div>  
+  <div class="views-field views-field-taxonomy-vocabulary-9">        <div class="field-content"><a href="/region-city/tyumen">Тюмень</a></div>  </div></li>
+          <li class="col-lg-3 col-md-6 brd">  
+  <div>        <div><div align="center" class="field-content-img"><a href="/master-69-5306/izgotovlenie-lestnic-v-tveri"><img class="img-responsive img-rounded img-responsive" src="https://www.masterovoi.ru/sites/default/files/styles/mid_150x150/public/imagefield_default_images/default-user_0.png?itok=sFlnKB5x"   alt="" /></a></div>
+</div>  </div>  
+  <h4 class="views-title">        <span><a href="/master-69-5306/izgotovlenie-lestnic-v-tveri">Изготовление лестниц в Твери</a></span>  </h4>  
+  <div class="views-field views-field-body">        <span class="field-content">Изготовляем любые лестницы..
+Монолитные каркасы для...</span>  </div>  
+  <div class="views-field views-field-taxonomy-vocabulary-9">        <div class="field-content"><a href="/region-city/tver">Тверь</a></div>  </div></li>
+          <li class="col-lg-3 col-md-6 brd">  
+  <div>        <div><div align="center" class="field-content-img"><a href="/master/4551"><img class="img-responsive img-rounded img-responsive" src="https://www.masterovoi.ru/sites/default/files/styles/mid_150x150/public/default_images/noname_2.png?itok=XIPbsUTV" alt="" /></a></div>
+</div>  </div>  
+  <h4 class="views-title">        <span><a href="/master/4551">Любые виды строительных и...</a></span>  </h4>  
+  <div class="views-field views-field-body">        <span class="field-content">Строительная организация «Стройтехсервис» выполнит...</span>  </div>  
+  <div class="views-field views-field-taxonomy-vocabulary-9">        <div class="field-content"><a href="/region-city/ivanovo">Иваново</a></div>  </div></li>
+    	
+  </ul></div>
+<div align="center">
+<a href="/masters-all"><button type="button" class="btn btn-success">все мастера и бригады</button></a>
+</div>    </div>
+  
+  
+  
+  
+  
+  
+</div>
+</section>
+</div>
+<div class="well">	
+	 <section id="block-views-distributors-block-1" class="block block-views clearfix">
+
+      
+  <div class="view view-distributors view-id-distributors view-display-id-block_1 well view-dom-id-efe5980b2ef412aa0822066c19fd2e8a">
+            <div class="view-header">
+      <h3 align="center">ПРОДАВЦЫ СТРОЙМАТЕРИАЛОВ</h3>
+    </div>
+  
+  
+  
+      <div class="view-content">
+      <div class="list-unstyled-center">    <ul class="row list-unstyled">          <li class="col-lg-3 col-md-6 brd">  
+  <div class="field-content-img">        <div><img class="img-responsive img-rounded img-responsive" src="https://www.masterovoi.ru/sites/default/files/styles/mid_150x150/public/distributor/machtovyjj-stroitelnyjj-podemnik_.jpg?itok=5ehzC7sK"   alt="" /></div>  </div>  
+  <div class="views-title">        <span><a href="/gruzovoj-machtovyj-podjomnik-i-vozmozhnost-jego-ispolzovanija-na-skladakh-magazinov">Грузовой мачтовый подъёмник </a></span>  </div>  
+  <div class="views-field views-field-field-distributor-kind-activity">        <span class="field-content">Классификация подъёмников мачтовых, их технические...</span>  </div>  
+  <div class="views-field views-field-nothing">        <span class="field-content">
+</br></span>  </div>  
+  <strong class="views-field views-field-field-distributor-mesto">        <div class="field-content">Подольск</div>  </strong></li>
+          <li class="col-lg-3 col-md-6 brd">  
+  <div class="field-content-img">        <div><img class="img-responsive img-rounded img-responsive" src="https://www.masterovoi.ru/sites/default/files/styles/mid_150x150/public/distributor/ochistka-vody.jpg?itok=lo3rzdgF"   alt="" /></div>  </div>  
+  <div class="views-title">        <span><a href="/distributor/2087">Безреагентная очистка воды </a></span>  </div>  
+  <div class="views-field views-field-field-distributor-kind-activity">        <span class="field-content">Очистка воды</span>  </div>  
+  <div class="views-field views-field-nothing">        <span class="field-content">
+</br></span>  </div>  
+  <strong class="views-field views-field-field-distributor-mesto">        <div class="field-content">Краснодар</div>  </strong></li>
+          <li class="col-lg-3 col-md-6 brd">  
+  <div class="field-content-img">        <div><img class="img-responsive img-rounded img-responsive" src="https://www.masterovoi.ru/sites/default/files/styles/mid_150x150/public/distributor/gifflandria.gif?itok=6b_hAiE-"   alt="" /></div>  </div>  
+  <div class="views-title">        <span><a href="/distributor-kakaya-obivochnaya-tkan-luchshe-podhodit-dlya-divanov">Какая обивочная ткань лучше подходит...</a></span>  </div>  
+  <div class="views-field views-field-field-distributor-kind-activity">        <span class="field-content">Компания FLANDRIA с момента основания ведет свою...</span>  </div>  
+  <div class="views-field views-field-nothing">        <span class="field-content">
+</br></span>  </div>  
+  <strong class="views-field views-field-field-distributor-mesto">        <div class="field-content">Москва и Московская область</div>  </strong></li>
+          <li class="col-lg-3 col-md-6 brd">  
+  <div class="field-content-img">        <div><img class="img-responsive img-rounded img-responsive" src="https://www.masterovoi.ru/sites/default/files/styles/mid_150x150/public/alfaprom.jpg?itok=rRAICg5L"   alt="" /></div>  </div>  
+  <div class="views-title">        <span><a href="/distributor/1997">АльфаПром</a></span>  </div>  
+  <div class="views-field views-field-field-distributor-kind-activity">        <span class="field-content">Комплексное обеспечение строительных объектов</span>  </div>  
+  <div class="views-field views-field-nothing">        <span class="field-content">
+</br></span>  </div>  
+  <strong class="views-field views-field-field-distributor-mesto">        <div class="field-content">Нижний Новгород</div>  </strong></li>
+      </ul></div>
+<div align="center">
+<a href="/distributors-all"><button type="button" class="btn btn-success">все поставщики, магазины</button></a>
+</div>
+
+    </div>
+  
+  
+  
+  
+  
+  
+</div>
+</section>
+</div>	
+<div class="well">	
+	  <section id="block-views-contractors-block-1" class="block block-views clearfix">
+
+      
+  <div class="view view-contractors view-id-contractors view-display-id-block_1 well view-dom-id-7e246498c21d37f614be74e101692e48">
+            <div class="view-header">
+      <h3 align="center">ФИРМЫ-ПОДРЯДЧИКИ</h3>
+    </div>
+  
+  
+  
+      <div class="view-content">
+      <div class="list-unstyled-center">    <ul class="row list-unstyled">          <li class="col-lg-3 col-md-6 brd">  
+  <div class="field-content-img">        <div><img class="img-responsive img-rounded img-responsive" src="https://www.masterovoi.ru/sites/default/files/styles/mid_150x150/public/contractor/2021-02-18_13-01-11.png?itok=_E7fSvVP"   alt="" /></div>  </div>  
+  <div class="views-title">        <span><a href="/contractor-76-18700">Ремонт бытовой техники</a></span>  </div>  
+  <div class="views-field views-field-field-contractor-kind-activity">        <span class="field-content">Ремонт бытовой техники</span>  </div>  
+  <div class="views-field views-field-nothing">        <span class="field-content"></br></span>  </div>  
+  <strong class="views-field views-field-field-contractor-mesto">        <span class="field-content">Ремонт бытовой техники</span>  </strong></li>
+          <li class="col-lg-3 col-md-6 brd">  
+  <div class="field-content-img">        <div><img class="img-responsive img-rounded img-responsive" src="https://www.masterovoi.ru/sites/default/files/styles/mid_150x150/public/contractor/foto0124.jpg?itok=_Yb_PmjY"   alt="" /></div>  </div>  
+  <div class="views-title">        <span><a href="/contractor-evroremont-kvartir-i-domov-pod-klyuch">Евроремонт квартир и домов под ключ</a></span>  </div>  
+  <div class="views-field views-field-field-contractor-kind-activity">        <span class="field-content">строительство и ремонт</span>  </div>  
+  <div class="views-field views-field-nothing">        <span class="field-content"></br></span>  </div>  
+  <strong class="views-field views-field-field-contractor-mesto">        <span class="field-content">Москва</span>  </strong></li>
+          <li class="col-lg-3 col-md-6 brd">  
+  <div class="field-content-img">        <div><img class="img-responsive img-rounded img-responsive" src="https://www.masterovoi.ru/sites/default/files/styles/mid_150x150/public/contractor/2345.jpg?itok=eUFYK7F7"   alt="" /></div>  </div>  
+  <div class="views-title">        <span><a href="/contractor/862">Изготовление мебели на заказ</a></span>  </div>  
+  <div class="views-field views-field-field-contractor-kind-activity">        <span class="field-content">Эксклюзивная мебель на заказ. Изготовление...</span>  </div>  
+  <div class="views-field views-field-nothing">        <span class="field-content"></br></span>  </div>  
+  <strong class="views-field views-field-field-contractor-mesto">        <span class="field-content">Москва</span>  </strong></li>
+          <li class="col-lg-3 col-md-6 brd">  
+  <div class="field-content-img">        <div><img class="img-responsive img-rounded img-responsive" src="https://www.masterovoi.ru/sites/default/files/styles/mid_150x150/public/logotip.gif?itok=PFfYElIY"   alt="" /></div>  </div>  
+  <div class="views-title">        <span><a href="/contractor/2803">Домосковье - cтроительство и...</a></span>  </div>  
+  <div class="views-field views-field-field-contractor-kind-activity">        <span class="field-content">Услуги по строительству домов из бруса,...</span>  </div>  
+  <div class="views-field views-field-nothing">        <span class="field-content"></br></span>  </div>  
+  <strong class="views-field views-field-field-contractor-mesto">        <span class="field-content">Москва</span>  </strong></li>
+      </ul></div>
+<div align="center">
+<a href="/contractors-all"><button type="button" class="btn btn-success">все фирмы-подрядчики</button></a>
+</div>
+
+    </div>
+  
+  
+  
+  
+  
+  
+</div>
+</section>
+</div>
+
+  <div class="region region-content well well-lg">
+    <article id="node-15276" class="node node-story clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><h2 align="center">Новые материалы о ремонте квартир и дизайне интерьеров</h2>
+
+<section id="block-views-announce-block-7" class="block block-views clearfix">
+
+      
+  <div class="view view-announce view-id-announce view-display-id-block_7 well view-dom-id-754bd1dcc05ab8aa472a99875c2a9261">
+        
+  
+  
+      <div class="view-content">
+      <div class="list-unstyled-center">    <ul class="row list-unstyled">          <li class="col-lg-3 col-md-6 brd-art">  
+  <div class="field-content-img-art">        <div></div>  </div>  
+  <div class="field-content-img-art">        <div><img class="img-responsive img-rounded img-responsive" src="https://www.masterovoi.ru/sites/default/files/styles/mid_150x150/public/razdel-kvartiry-pri-razvode.jpg?itok=NurOcVgr"   alt="" /></div>  </div>  
+  <div class="field-content-img-art">        <div></div>  </div>  
+  <div class="field-content-img-art">        <div></div>  </div>  
+  <h4 class="views-field views-field-title">        <span class="field-content"><a href="/kogo-vybrat">Кого выбрать?</a></span>  </h4>  
+  <div>        <span>Прежде чем начать ремонт нужно хорошо подумать кто именно будет...</span>  </div></li>
+          <li class="col-lg-3 col-md-6 brd-art">  
+  <div class="field-content-img-art">        <div></div>  </div>  
+  <div class="field-content-img-art">        <div><img class="img-responsive img-rounded img-responsive" src="https://www.masterovoi.ru/sites/default/files/styles/mid_150x150/public/obustrojstvo/lomata.jpg?itok=TyzYB5pL"   alt="" /></div>  </div>  
+  <div class="field-content-img-art">        <div></div>  </div>  
+  <div class="field-content-img-art">        <div></div>  </div>  
+  <h4 class="views-field views-field-title">        <span class="field-content"><a href="/instrument-dlya-uborki-snega">Инструмент для уборки снега</a></span>  </h4>  
+  <div>        <span>Люди часто сравнивают поездки на дачу с походом в тренажерный зал....</span>  </div></li>
+          <li class="col-lg-3 col-md-6 brd-art">  
+  <div class="field-content-img-art">        <div><img class="img-responsive img-rounded img-responsive" src="https://www.masterovoi.ru/sites/default/files/styles/mid_150x150/public/article/kvarc-vinilovaya-plitka-1.jpg?itok=yNzWwiSL"   alt="" /></div>  </div>  
+  <div class="field-content-img-art">        <div></div>  </div>  
+  <div class="field-content-img-art">        <div></div>  </div>  
+  <div class="field-content-img-art">        <div></div>  </div>  
+  <h4 class="views-field views-field-title">        <span class="field-content"><a href="/kvarcvinilovaya-plitka-dlya-pola">Кварцвиниловая плитка для пола</a></span>  </h4>  
+  <div>        <span>Если вы изучаете различные идеи с точки зрения того, что вы сможете...</span>  </div></li>
+          <li class="col-lg-3 col-md-6 brd-art">  
+  <div class="field-content-img-art">        <div></div>  </div>  
+  <div class="field-content-img-art">        <div></div>  </div>  
+  <div class="field-content-img-art">        <div></div>  </div>  
+  <div class="field-content-img-art">        <div></div>  </div>  
+  <h4 class="views-field views-field-title">        <span class="field-content"><a href="/obustrojstvo">Обустройство</a></span>  </h4>  
+  <div>        <span>Обустройство нашего жилища слагается из множества факторов. Конечно...</span>  </div></li>
+      </ul></div>    </div>
+  
+  
+  
+  
+  
+  
+</div>
+</section>
+<section id="block-views-announce-block-9" class="block block-views clearfix">
+
+      
+  <div class="view view-announce view-id-announce view-display-id-block_9 well view-dom-id-894456779733158e6fc60dde96712286">
+        
+  
+  
+      <div class="view-content">
+      <div class="list-unstyled-center">    <ul class="row list-unstyled">          <li class="col-lg-3 col-md-6 brd-art">  
+  <div class="field-content-img-art">        <div><img class="img-responsive img-rounded img-responsive" src="https://www.masterovoi.ru/sites/default/files/styles/mid_150x150/public/article/dveri.jpg?itok=P2Gk9dI0"   alt="" /></div>  </div>  
+  <div class="field-content-img-art">        <div></div>  </div>  
+  <div class="field-content-img-art">        <div></div>  </div>  
+  <div class="field-content-img-art">        <div></div>  </div>  
+  <div class="field-content-img-art">        <div></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/mezhkomnatnye-dveri-fabriki-oniks">Межкомнатные двери фабрики Оникс</a></span>  </div>  
+  <div class="views-field views-field-body">        <span class="field-content">Без межкомнатных дверей невозможно представить себе...</span>  </div></li>
+          <li class="col-lg-3 col-md-6 brd-art">  
+  <div class="field-content-img-art">        <div><img class="img-responsive img-rounded img-responsive" src="https://www.masterovoi.ru/sites/default/files/styles/mid_150x150/public/svarochnye-apparaty-dlja-doma.jpg?itok=9JPKN8Vk"   alt="" /></div>  </div>  
+  <div class="field-content-img-art">        <div></div>  </div>  
+  <div class="field-content-img-art">        <div></div>  </div>  
+  <div class="field-content-img-art">        <div></div>  </div>  
+  <div class="field-content-img-art">        <div></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/kakoy-svarochnik-vybrat-dlya-doma">Какой сварочник выбрать для дома</a></span>  </div>  
+  <div class="views-field views-field-body">        <span class="field-content">Сварочные аппараты для дома сегодня прочно вошли в наш быть...</span>  </div></li>
+          <li class="col-lg-3 col-md-6 brd-art">  
+  <div class="field-content-img-art">        <div><img class="img-responsive img-rounded img-responsive" src="https://www.masterovoi.ru/sites/default/files/styles/mid_150x150/public/avtonomnoe-vodosnabzhenie.jpg?itok=CTNTw_CY"   alt="" /></div>  </div>  
+  <div class="field-content-img-art">        <div></div>  </div>  
+  <div class="field-content-img-art">        <div></div>  </div>  
+  <div class="field-content-img-art">        <div></div>  </div>  
+  <div class="field-content-img-art">        <div></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/burjenije-skvazhin-na-vodu">Бурение скважин</a></span>  </div>  
+  <div class="views-field views-field-body">        <span class="field-content">Автономное обеспечение водой интересует большое количество...</span>  </div></li>
+          <li class="col-lg-3 col-md-6 brd-art">  
+  <div class="field-content-img-art">        <div><img class="img-responsive img-rounded img-responsive" src="https://www.masterovoi.ru/sites/default/files/styles/mid_150x150/public/uborka_0.jpg?itok=R6FGrHG1"   alt="" /></div>  </div>  
+  <div class="field-content-img-art">        <div></div>  </div>  
+  <div class="field-content-img-art">        <div></div>  </div>  
+  <div class="field-content-img-art">        <div></div>  </div>  
+  <div class="field-content-img-art">        <div></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/kak-pravilno-ubratsja-doma-poslje-rjemonta">Этапы уборки</a></span>  </div>  
+  <div class="views-field views-field-body">        <span class="field-content">Для многих ремонт – это большая эпопея и сложное испытание...</span>  </div></li>
+      </ul></div>    </div>
+  
+  
+  
+  
+  
+  
+</div>
+</section>
+</p></div></div></div>    <footer>
+          </footer>
+    </article>
+  </div>
+	  
+	                <div class="region region-page-niz well well-sm">
+    <section id="block-block-8" class="block block-block hidden-xs hidden-sm visible-md visible-lg clearfix">
+
+      
+  <br><div align="center">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- DM-728x90-bottom -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-3225094551698987"
+     data-ad-slot="3400944772"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div><br>
+</section>
+  </div>
+           </section>
+
+          <aside class="col-sm-2" role="complementary">
+          <div class="region region-sidebar-second well well-sm">
+    <section id="block-block-98" class="block block-block dexp-animate clearfix" data-animate="flipInY">
+
+      
+  <p align="center" style="font-size:14px"> Без регистрации!</p>
+<p align="center"><a href="https://www.masterovoi.ru/node/add/zakaz"><img src="https://www.masterovoi.ru/button/button-add-tender-blok.jpg"   border="0" /></a></p>
+<p align="center"><a href="https://www.masterovoi.ru/node/add/vopros"><img src="https://www.masterovoi.ru/button/button-vopros-3.jpg"   border="0"></a></p>
+
+</section>
+<section id="block-block-57" class="block block-block dexp-animate clearfix" data-animate="fadeIn">
+
+      
+  <br><br><br>
+<div align="center">
+<a href="https://seoroad.ru/" target="_blank">
+<img src="https://www.masterovoi.ru/reklama/seo/sajt-pod-klyuch-02.jpg" class="img-responsive"  />
+</a>
+</div>
+<br><br>
+</section>
+<section id="block-block-93" class="block block-block dexp-animate clearfix" data-animate="fadeInUp">
+
+        <h3 class="block-title">Бесплатная реклама</h3>
+    
+  <p align="center" style="font-size:12px">Необходима регистрация</p>
+<div align="center">
+    <a href="https://www.masterovoi.ru/node/add/master"><img src="https://www.masterovoi.ru/button/button-add-master-blok.jpg"   border="0" /></a><br><br>
+    <a href="https://www.masterovoi.ru/node/add/contractor"><img src="https://www.masterovoi.ru/button/button-add-firma-blok.jpg"   border="0" /></a><br><br>
+    <a href="https://www.masterovoi.ru/node/add/distributor"><img src="https://www.masterovoi.ru/button/button-add-distr-blok.jpg"   border="0" /></a></p>
+</div>
+<br/>
+
+
+
+</section>
+<section id="block-block-36" class="block block-block clearfix">
+
+        <h3 class="block-title">Поиск по сайту</h3>
+    
+  <div class="ya-site-form ya-site-form_inited_no" data-bem="{&quot;action&quot;:&quot;http://www.masterovoi.ru/poisk-po-saytu&quot;,&quot;arrow&quot;:true,&quot;bg&quot;:&quot;#cccccc&quot;,&quot;fontsize&quot;:12,&quot;fg&quot;:&quot;#000000&quot;,&quot;language&quot;:&quot;ru&quot;,&quot;logo&quot;:&quot;rb&quot;,&quot;publicname&quot;:&quot;Поиск по сайту www.masterovoi.ru&quot;,&quot;suggest&quot;:true,&quot;target&quot;:&quot;_self&quot;,&quot;tld&quot;:&quot;ru&quot;,&quot;type&quot;:2,&quot;usebigdictionary&quot;:false,&quot;searchid&quot;:2254222,&quot;input_fg&quot;:&quot;#000000&quot;,&quot;input_bg&quot;:&quot;#ffffff&quot;,&quot;input_fontStyle&quot;:&quot;normal&quot;,&quot;input_fontWeight&quot;:&quot;normal&quot;,&quot;input_placeholder&quot;:&quot;введите запрос&quot;,&quot;input_placeholderColor&quot;:&quot;#000000&quot;,&quot;input_borderColor&quot;:&quot;#ffffff&quot;}"><form action="https://yandex.ru/search/site/" method="get" target="_self" accept-charset="utf-8"><input type="hidden" name="searchid" value="2254222"/><input type="hidden" name="l10n" value="ru"/><input type="hidden" name="reqenc" value=""/><input type="search" name="text" value=""/><input type="submit" value="Найти"/></form></div><style type="text/css">.ya-page_js_yes .ya-site-form_inited_no { display: none; }</style><script type="text/javascript">(function(w,d,c){var s=d.createElement('script'),h=d.getElementsByTagName('script')[0],e=d.documentElement;if((' '+e.className+' ').indexOf(' ya-page_js_yes ')===-1){e.className+=' ya-page_js_yes';}s.type='text/javascript';s.async=true;s.charset='utf-8';s.src=(d.location.protocol==='https:'?'https:':'http:')+'//site.yandex.net/v2.0/js/all.js';h.parentNode.insertBefore(s,h);(w[c]||(w[c]=[])).push(function(){Ya.Site.Form.init()})})(window,document,'yandex_site_callbacks');</script>
+</section>
+<section id="block-user-login" class="block block-user clearfix">
+
+        <h3 class="block-title">Вход на сайт</h3>
+    
+  <form action="/home?destination=node/15276" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="form-item form-type-ulogin-widget form-group"><div id="ulogin"x-ulogin-params="display=small&fields=first_name,last_name,email,nickname,bdate,sex,photo,photo_big,country,city&optional=&providers=vkontakte,odnoklassniki,mailru,facebook&hidden=twitter,google,yandex,livejournal,openid&redirect_uri=https%3A%2F%2Fwww.masterovoi.ru%2Fulogin%3Fdestination%3Dnode%2Fadd"></div></div><div class="form-item form-item-name form-type-textfield form-group"> <label class="control-label" for="edit-name">Имя пользователя <span class="form-required" title="Это поле обязательно для заполнения.">*</span></label>
+<input class="form-control form-text required" type="text" id="edit-name" name="name" value="" size="15" maxlength="60" /></div><div class="form-item form-item-pass form-type-password form-group"> <label class="control-label" for="edit-pass">Пароль <span class="form-required" title="Это поле обязательно для заполнения.">*</span></label>
+<input class="form-control form-text required" type="password" id="edit-pass" name="pass" size="15" maxlength="128" /></div><ul><li><a href="/user/password" title="Запросить новый пароль по e-mail.">Забыли пароль?</a></li>
+</ul><input type="hidden" name="form_build_id" value="form-s_E1RLJM6NzDBUpGznvhl2LdfifiNCoXUwaEA7qYkCs" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="form-actions form-wrapper form-group" id="edit-actions"><button type="submit" id="edit-submit" name="op" value="Войти" class="btn btn-primary form-submit">Войти</button>
+</div></div></form>
+</section>
+  </div>
+      </aside>  <!-- /#sidebar-second -->
+    </div>
+
+  <footer class="footer container-fluid">
+      <div class="region region-footer well">
+    <section id="block-block-1" class="block block-block clearfix">
+
+      
+  <div class="row">
+<div class="col-xs-6 col-md-2">&nbsp;</div>
+
+<div class="col-xs-6 col-md-2">
+<h4>Разделы</h4>
+Города - регионы<br />
+<a href="https://www.masterovoi.ru/podborka-poleznyh-sovetov-pri-remonte-v-kvartire-i-stroitelstvu-doma">Советы</a><br />
+<a href="https://www.masterovoi.ru/snipy-stroitelnye-normy-i-pravila-po-remontu-kvartiry">СНиПы</a><br />
+<a href="https://www.masterovoi.ru/zakony-o-stroitelstve-i-remonte">Законы</a></div>
+<!-- Add the extra clearfix for only the required viewport -->
+
+<div class="clearfix visible-xs">&nbsp;</div>
+
+<div class="col-xs-6 col-md-2">
+<h4>Сообщество</h4>
+<a href="https://www.masterovoi.ru/tenders-all">Заказчики</a><br />
+<a href="https://www.masterovoi.ru/masters-all">Мастера-Бригады</a><br />
+<a href="https://www.masterovoi.ru/contractors-all">Фирмы подрядчики</a><br />
+<a href="https://www.masterovoi.ru/distributors-all">Поставщики-продавцы</a></div>
+
+<div class="col-xs-6 col-md-2">
+<h4>База знаний</h4>
+<a href="https://www.masterovoi.ru/materialy-dlya-stroitelstva" title="">Строительные материалы</a><br />
+<a href="https://www.masterovoi.ru/obustrojstvo" title="">Обустройство</a><br />
+<a href="https://www.masterovoi.ru/bild.shtml" title="">Строительство</a><br />
+<a href="https://www.masterovoi.ru/review.html" title="">Обзоры TV</a><br />
+<a href="https://www.masterovoi.ru/review-cat-1.html" target="_parent">Переделки от КВ</a><br />
+<a href="https://www.masterovoi.ru/termbook-all" target="_parent">Энциклопедия ремонта</a>
+</div>
+
+<!-- Add the extra clearfix for only the required viewport -->
+
+<div class="clearfix visible-xs">&nbsp;</div>
+
+<div class="col-xs-6 col-md-2">
+<h4>Информация</h4>
+<a href="https://www.masterovoi.ru/politika-obrabotki-personalnyh-dannyh">Политика обработки персональных данных</a><br />
+<a href="https://www.masterovoi.ru/o-sayte">О сайте</a><br />
+<a href="https://www.masterovoi.ru/reklama-na-sayte">Реклама</a><br />
+<a href="https://www.masterovoi.ru/contact">Обратная связь</a></div>
+
+<div class="col-xs-6 col-md-2">
+<h4>Контакты</h4>
+109004 Москва<br />
+Земляной вал 64 с 2<br />
++7 (499) 705-24-86<br />
+<a href="mailto:d_m@masterovoi.ru">d_m@masterovoi.ru</a>
+<br />
+<a href="https://vk.com/m_a_s_t_e_r_77" target="_blank"><img src="https://www.masterovoi.ru/icon/vk-5.png"   border="0" /></a>
+<a href="https://ok.ru/group/63037953540159" target="_blank"><img src="https://www.masterovoi.ru/icon/ok-5.png"   border="0" /></a>
+<a href="https://twitter.com/masterovoi" target="_blank"><img src="https://www.masterovoi.ru/icon/tw-5.png"   border="0" /></a>
+<a href="https://www.pinterest.ru/masterovoi_77/" target="_blank"><img src="https://www.masterovoi.ru/icon/pinterest.png"   border="0" /></a>
+</div>
+</div>
+
+<!-- Add the extra clearfix for only the required viewport -->
+
+<div class="clearfix visible-xs">&nbsp;</div>
+
+<table border="0" width="100%">
+	<tbody>
+		<tr>
+			<td colspan="5" valign="top">&nbsp;
+			<div align="center">
+<noindex>
+<!-- Rating@Mail.ru counter -->
+<script type="text/javascript">
+var _tmr = window._tmr || (window._tmr = []);
+_tmr.push({id: "354087", type: "pageView", start: (new Date()).getTime()});
+(function (d, w, id) {
+  if (d.getElementById(id)) return;
+  var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;
+  ts.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//top-fwz1.mail.ru/js/code.js";
+  var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+  if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+})(document, window, "topmailru-code");
+</script><noscript><div>
+<img src="//top-fwz1.mail.ru/counter?id=354087;js=na" style="border:0;position:absolute;left:-9999px;" alt="" />
+</div></noscript>
+<!-- //Rating@Mail.ru counter -->
+<!-- Rating@Mail.ru logo -->
+<a href="https://top.mail.ru/jump?from=354087">
+<img src="//top-fwz1.mail.ru/counter?id=354087;t=502;l=1" 
+style="border:0;"   alt="Рейтинг@Mail.ru" /></a>
+<!-- //Rating@Mail.ru logo -->
+
+ &nbsp; 
+<!--LiveInternet counter--> <script type="text/javascript"><!--
+document.write("<a href='https://www.liveinternet.ru/click' rel='nofollow' "+
+"target=_blank><img src='https://counter.yadro.ru/hit?t21.6;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";h"+escape(document.title.substring(0,80))+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число просмотров за 24"+
+" часа, посетителей за 24 часа и за сегодня' "+
+"border='0' width='88' height='31'><\/a>")
+//--></script> <!--/LiveInternet--> &nbsp; &nbsp;<br />
+			<a href="https://www.masterovoi.ru/copyright.shtml" rel="nofollow">Copyright © 2002-2020</a> </noindex></div>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+</section>
+  </div>
+  </footer>
+  <script src="https://www.masterovoi.ru/sites/default/files/js/js_MRdvkC2u4oGsp5wVxBG1pGV5NrCPW3mssHxIn6G9tGE.js"></script>
+<!-- Yandex.Metrika counter --> <script type="text/javascript" > (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)}; m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)}) (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym"); ym(52287940, "init", { id:52287940, clickmap:true, trackLinks:true, accurateTrackBounce:true }); </script> <noscript><div><img src="https://mc.yandex.ru/watch/52287940" style="position:absolute; left:-9999px;" alt="" /></div></noscript> <!-- /Yandex.Metrika counter -->
+<!-- Made web studio seoroad.ru-->
+</body>
+</html>

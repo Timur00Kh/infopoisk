@@ -1,0 +1,744 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="yandex-verification" content="4e00c5f7dc267044"/>
+
+    <script type="text/javascript" src="https://unpkg.com/current-device@0.7.8/umd/current-device.min.js"></script>
+    <script>
+        const currentDevice = device;
+
+        if ((currentDevice.mobile() || currentDevice.tablet()) && getCookie('isCancel') != 'true') {
+            var newUrl = (window.location.href).replace('iluki', 'm.iluki');
+            window.location.replace(newUrl);
+        } else if (currentDevice.mobile() || currentDevice.tablet()) {
+            function initJQuery() {
+                if (typeof (jQuery) == 'undefined') {
+                    setTimeout('initJQuery()', 50);
+                } else {
+                    $(document).ready(function () {
+                        $('body').prepend('<div class="text-center padding-mobile-link"><a class="mobile-version" href="#">Перейти на мобильную версию >></a></div>');
+                        $('.padding-mobile-link')
+                            .css("padding", "10px 10px")
+                            .css("margin-bottom", "25px");
+
+                        $('.mobile-version').on('click touchstart', function () {
+                            deleteCookie('isCancel');
+                            location.reload();
+                        })
+                    });
+                    (jQuery)
+                }
+            }
+
+            initJQuery();
+        }
+
+        function getCookie(name) {
+            var matches = document.cookie.match(new RegExp(
+                "(?:^|; )" + name.replace(/([\.$?*|{}\(\)\[\]\\\/\+^])/g, '\\$1') + "=([^;]*)"
+            ));
+            return matches ? decodeURIComponent(matches[1]) : undefined;
+        }
+
+        function setCookie(name, value, options) {
+            options = options || {};
+
+            var expires = options.expires;
+
+            if (typeof expires == "number" && expires) {
+                var d = new Date();
+                d.setTime(d.getTime() + expires * 1000);
+                expires = options.expires = d;
+            }
+            if (expires && expires.toUTCString) {
+                options.expires = expires.toUTCString();
+            }
+
+            value = encodeURIComponent(value);
+
+            var updatedCookie = name + "=" + value;
+
+            for (var propName in options) {
+                updatedCookie += "; " + propName;
+                var propValue = options[propName];
+                if (propValue !== true) {
+                    updatedCookie += "=" + propValue;
+                }
+            }
+
+            document.cookie = updatedCookie;
+        }
+
+        function deleteCookie(name) {
+            setCookie(name, "false", {
+                expires: -1,
+                domain: '.iluki.ru',
+                path: '/'
+            })
+        }
+    </script>
+
+            <title>
+    Великие Луки и Псковская область: новости, события, происшествия
+</title>
+
+<meta name="keywords" content="
+    Великие, Луки, Псковская, область, новости, события, происшествия, город
+"/>
+
+<meta name="description" content="
+    Великие Луки и Псковская область: новости, события, происшествия
+"/>
+    
+        
+    <link rel="stylesheet" href="/css/reset.css" type="text/css"/>
+    <link rel="stylesheet" href="/css/style.css" type="text/css" media="screen, projection"/>
+
+    <!--[if IE]>
+    <script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+    <!--[if lte IE 6 ]>
+    <script type="text/javascript">window.location.href = "/ie6_close/index_ru.html";</script><![endif]-->
+    <!--[if lt IE 9]>
+    <link rel="stylesheet" type="text/css" href="/css/all_ie.css"><![endif]-->
+
+    <link rel="stylesheet" href="/bundles/ilukicommon/css/calendar.css"/>
+    <link rel="stylesheet" href="/css/selectbox.css" type="text/css"/>
+    <link rel="stylesheet" href="/css/bootstrap.min.css" type="text/css"/>
+    <!-- Снег и НГ -->
+            
+    <!--[if lt IE 10]>
+    <script type="text/javascript" src="/js/pie.js"></script><![endif]-->
+    <script src="https://code.jquery.com/jquery-1.11.0.min.js"></script>
+    <script src="https://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+    <script type="text/javascript" src="/js/bootstrap.min.js"></script>
+    
+    <script type="text/javascript" src="//vk.com/js/api/openapi.js?168"></script>
+    <script type="text/javascript">
+        VK.init({apiId: 7397756, onlyWidgets: true});
+    </script>
+
+    <script type="text/javascript" src="/js/socialImagesPost/socImgPost.js"></script>
+    <script type="text/javascript" src="/js/selectbox.js"></script>
+    <script type="text/javascript" src="/js/BackToTop.jquery.js"></script>
+    <script type="text/javascript" src="/js/main.js"></script>
+
+    
+    <script type="text/javascript">
+        $(document).ready(function () {
+            
+            $(".ban-s").on("click", "a", function (event) {
+                var bid = $(this).attr("bid");
+                $.ajax({
+                    type: "POST",
+                    url: "/banner/click",
+                    data: {id: bid}
+                }).done(function (url) {
+                });
+            });
+
+                    });
+    </script>
+</head>
+
+<body>
+
+<div style="width: 100%; height: 2px; background: #f0ad4e;"></div>
+
+<!-- снег -->
+
+<!-- Rating@Mail.ru counter -->
+<script type="text/javascript">
+    var _tmr = _tmr || [];
+    _tmr.push({id: "2536195", type: "pageView", start: (new Date()).getTime()});
+    (function (d, w) {
+        var ts = d.createElement("script");
+        ts.type = "text/javascript";
+        ts.async = true;
+        ts.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//top-fwz1.mail.ru/js/code.js";
+        var f = function () {
+            var s = d.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(ts, s);
+        };
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else {
+            f();
+        }
+    })(document, window);
+</script>
+<noscript>
+    <div style="position:absolute;left:-10000px;">
+        <img src="//top-fwz1.mail.ru/counter?id=2536195;js=na" style="border:0;" height="1" width="1"
+             alt="Рейтинг@Mail.ru"/>
+    </div>
+</noscript>
+<!-- //Rating@Mail.ru counter -->
+
+<div class="user-panel">
+    <div class="user-panel-inner">
+        <div class="pull-left">
+            <a href="https://new.iluki.ru/" class="link-new" target="_blank">Новые iluki.ru</a>
+        </div>
+        <div class="pull-right" style="width: 850px;">
+
+                            <form style="margin-left: 3px;" class="pull-right form-inline" action="/login_check" method="post">
+
+    <input type="hidden" name="_csrf_token" value="b41e72a67306d1a163829b0a0a23c5e52846bd4d"/>
+
+            <input type="hidden" name="_target_path" value="" />
+    
+    <input class="security-input" type="text" id="username" name="_username" placeholder="E-mail" required="required"/>
+    <input class="security-input" type="password" id="password" name="_password" placeholder="Пароль" required="required"/>
+
+    <button class="btn btn-warning" name="_submit">Войти</button>
+</form>
+                                            
+            <a style="margin-left: 3px;" class="pull-right btn btn-warning"
+               href="/profile/news/add/show">предложить новость</a>
+                                </div>
+    </div>
+</div>
+
+<header id="header">
+    <a href="/" class="logo"><img src="/img/logo.png" alt="" width="68" height="71"/></a>
+
+    <div class="st1"></div>
+    <div class="descr-logo">
+        <div style="position:absolute; width:93px;height:109px;left:-45px;top:70px;background-image: url('/img/ballon.png');">
+        </div>
+        <a href="/" class="home">
+            <span class="y1">это</span>
+            <span class="y2">i<i>Luki</i></span>
+            <span class="y3">информационный партнер</span>
+            <span class="y4">Международной встречи</span>
+            <span class="y5">воздухоплавателей</span>
+        </a>
+    </div>
+            <div class="girl">
+    <div class="cn-img">
+                    <div class="con-img">
+                <a href="/news/vielikoluchanka-ustanovila-mirovoi-riekord">
+                                                                <img src="/media/cache/news_actual/uploads/media/default/0004/97/a7187675375921ae5d9f091cd8f056946a99b385.jpeg" alt="Великолучанка установила мировой рекорд" />
+                                    </a>
+            </div>
+                    <div class="con-img">
+                <a href="/news/rekonstruktsiya-perekrestka-pod-postoyannym-vnimaniem-vlastey">
+                                                                <img src="/media/cache/news_actual/uploads/media/default/0004/97/c6ef519239d2d08339ef99088e6a28fc7db582cc.jpeg" alt="В Великих Луках продолжается реконструкция перекрестка Ленина - Дьяконова" />
+                                    </a>
+            </div>
+                    <div class="con-img">
+                <a href="/news/stali-izviestny-daty-chiempionata-rossii-po-vozdukhoplavaniiu">
+                                                                <img src="/media/cache/news_actual/uploads/media/default/0004/96/f27645bb945ab3e7bc16884623238fb6fb4a5dc5.jpeg" alt="Стали известны даты Чемпионата России по воздухоплаванию" />
+                                    </a>
+            </div>
+                    <div class="con-img">
+                <a href="/news/markirovka-tovarov-lieghkoi-promyshliennosti">
+                                                                <img src="/media/cache/news_actual/uploads/media/default/0004/93/4f8b20ab5e90b7197f5af5bbf9bbd7793ca089b6.jpeg" alt="Маркировка товаров легкой промышленности" />
+                                    </a>
+            </div>
+                    <div class="con-img">
+                <a href="/news/zakazat-rieklamu-na-piervom-pskovskom-tieliekanalie-tiepier-vozmozhno-v-vielikikh-lukakh">
+                                                                <img src="/media/cache/news_actual/uploads/media/default/0004/92/c1354dbb98705fef365cefc4f465eb72f44feae6.jpeg" alt="Заказать рекламу на Первом Псковском телеканале теперь возможно в Великих Луках" />
+                                    </a>
+            </div>
+            </div>
+    <div class="st-i"></div>
+</div>
+
+<div class="right-head">
+    <div class="actual-headline">
+        <div class="zag">актуальные новости</div>
+        <div><a href="/news.atom" class="rcc"></a></div>
+        <div><a href="//limited.iluki.ru" class="limited" ></a></div>
+    </div>
+        <div class="slider">
+        <div class="cn-tt">
+                            <div class="con-slide" >
+                    <a href="/news/vielikoluchanka-ustanovila-mirovoi-riekord">
+                        <p><b>Великолучанка установила мировой рекорд</b></p>
+                        <p><p>Алёна Савунова выступила на Кубке большой Невы. Пловчиха завоевала 6 индивидуальных наград и обновила два мировых рекорда по зимнему плаванию в своей возрастной категории</p>
+<p>&nbsp;</p></p>
+                    </a>
+                </div>
+                            <div class="con-slide" style="display: none;">
+                    <a href="/news/rekonstruktsiya-perekrestka-pod-postoyannym-vnimaniem-vlastey">
+                        <p><b>В Великих Луках продолжается реконструкция перекрестка Ленина - Дьяконова</b></p>
+                        <p><p>Выполняется ежедневный мониторинг фундамента домов</p></p>
+                    </a>
+                </div>
+                            <div class="con-slide" style="display: none;">
+                    <a href="/news/stali-izviestny-daty-chiempionata-rossii-po-vozdukhoplavaniiu">
+                        <p><b>Стали известны даты Чемпионата России по воздухоплаванию</b></p>
+                        <p><p>Чемпионат России по воздухоплавательному спорту в классе "тепловые аэростаты" внесен в Единый Календарный план Министерства Спорта</p></p>
+                    </a>
+                </div>
+                            <div class="con-slide" style="display: none;">
+                    <a href="/news/markirovka-tovarov-lieghkoi-promyshliennosti">
+                        <p><b>Маркировка товаров легкой промышленности</b></p>
+                        <p><p>Впереди маркировка товаров легкой промышленности и многие даются вопросом как же к ней подготовиться и быть во всеоружии. Давайте разбираться.</p></p>
+                    </a>
+                </div>
+                            <div class="con-slide" style="display: none;">
+                    <a href="/news/zakazat-rieklamu-na-piervom-pskovskom-tieliekanalie-tiepier-vozmozhno-v-vielikikh-lukakh">
+                        <p><b>Заказать рекламу на Первом Псковском телеканале теперь возможно в Великих Луках</b></p>
+                        <p><p>Первый Псковский &ndash; единственный региональный телеканал в Псковском регионе, вещающий 24 часа в формате Full HD</p></p>
+                    </a>
+                </div>
+                    </div>
+        <div class="nav-prev"></div>
+        <div class="nav-next"></div>
+    </div>
+</div>        <div class="bg-2"></div>
+    <div class="main-menu">
+	<!-- сосульки -->
+		   			   		
+    <div class="bg-1"></div>
+    <ul class="nv1">
+                    <li class="k1"><a href="/category/town">город</a></li>
+                    <li class="k2"><a href="/category/region">регион</a></li>
+                    <li class="k3"><a href="/category/world">мир</a></li>
+                    <li class="k4"><a href="/category/accident">происшествия</a></li>
+                    <li class="k5"><a href="/category/sport">спорт</a></li>
+                    <li class="k6"><a href="/category/culture">культура</a></li>
+                    <li class="k7"><a href="/category/web">веб</a></li>
+                    <li class="k8"><a href="/category/interview">интервью</a></li>
+            </ul>
+    <ul class="nv2">
+        <li class="k9"><a href="/weather/index">погода</a></li>
+        <li class="k10"><a href="/events/all/2021/03/01">афиша</a></li>
+        <li class="k16"><a href="/organization/categories">организации</a></li>
+        <li class="k12"><a href="/contacts/">контакты</a></li>
+    </ul>
+    <div class="search">
+    <span>Поиск</span>
+    <form action="/search" method="get"><input type="text" name="q" value="" /><input type="submit" value="" /></form>
+</div>
+    <ul class="nv3">
+        <!--/online-->
+        <li class="k15"><a href="https://www.iluki.ru/online">онлайн</a></li>
+    </ul>
+</div>
+</header>
+
+<div id="fb-root"></div>
+
+    <div class="banner_full"></div>
+
+<section id="content">
+    <div class="main-text">
+                    
+        
+        
+            <div class="main-text">
+        <div class="size-1">
+            <div class="left">
+                <div class="titles j1"><div class="icodate">01</div>лента новостей</div>
+                                    <div class="tit-post">
+                        <span>
+                                                                                                2021-03-01<br />20:00
+                                                                                    </span>
+                        <a href="/news/twitter-zlostno-narushil-zakon">Twitter &quot;злостно&quot; нарушил закон</a>
+                    </div>
+                    <div class="small-text">
+                        <p><a href="/news/twitter-zlostno-narushil-zakon"><p>Роскомнадзор обвинил&nbsp;компанию в неисполнении предписаний ведомства.&nbsp;С 2017 года&nbsp;социальная сеть&nbsp;проигнорировала около 10% требований надзорного органа</p></a><span></span></p>
+                    </div>
+                                    <div class="tit-post">
+                        <span>
+                                                                                                2021-03-01<br />19:30
+                                                                                    </span>
+                        <a href="/news/izmienilis-pravila-nachislieniia-posobii-na-dietiei">Изменились правила начисления пособий на детей</a>
+                    </div>
+                    <div class="small-text">
+                        <p><a href="/news/izmienilis-pravila-nachislieniia-posobii-na-dietiei"><p>С 1 марта&nbsp;прекращено автоматическое продление&nbsp;начислений российским семьям на детей в возрасте до трех лет</p></a><span></span></p>
+                    </div>
+                                    <div class="tit-post">
+                        <span>
+                                                                                                2021-03-01<br />19:00
+                                                                                    </span>
+                        <a href="/news/v-rossii-zafiksirovano-riekordno-nizkoie-kolichiestvo-dtp">В России зафиксировано рекордно низкое количество ДТП</a>
+                    </div>
+                    <div class="small-text">
+                        <p><a href="/news/v-rossii-zafiksirovano-riekordno-nizkoie-kolichiestvo-dtp"><p>В 2020 году статистика аварий оказалась лучшей за прошедшие двадцать лет. Россияне не только реже попадали в ДТП, но также меньше получали ранения и гибли</p></a><span></span></p>
+                    </div>
+                                    <div class="tit-post">
+                        <span>
+                                                                                                2021-03-01<br />18:30
+                                                                                    </span>
+                        <a href="/news/v-kakikh-rieghionakh-bol-shie-vsiegho-platiat">В каких регионах больше всего платят?</a>
+                    </div>
+                    <div class="small-text">
+                        <p><a href="/news/v-kakikh-rieghionakh-bol-shie-vsiegho-platiat"><p>Фонд развития гражданского общества составил рейтинг российских зарплат и вычислил&nbsp;индекс социального благополучия субъектов Федерации</p></a><span></span></p>
+                    </div>
+                                    <div class="tit-post">
+                        <span>
+                                                                                                2021-03-01<br />18:00
+                                                                                    </span>
+                        <a href="/news/luki-enierghiia-uiekhala-na-sbor-v-krymsk">Новый знак фотовидеофиксации появится на дорогах России</a>
+                    </div>
+                    <div class="small-text">
+                        <p><a href="/news/luki-enierghiia-uiekhala-na-sbor-v-krymsk"><p>Указатель, по новым правилам, не объединяется&nbsp;с другими&nbsp;дорожными знаками и вне населенных пунктов&nbsp;будет расположен за&nbsp;150-300 метров до зоны контроля</p></a><span></span></p>
+                    </div>
+                                    <div class="tit-post">
+                        <span>
+                                                                                                2021-03-01<br />17:36
+                                                                                    </span>
+                        <a href="/news/vazami-upravlyali-netrezvye-voditeli">В Пскове и Новоржевском районе задержаны нетрезвые водители</a>
+                    </div>
+                    <div class="small-text">
+                        <p><a href="/news/vazami-upravlyali-netrezvye-voditeli"><p>По данным фактам проводятся проверки</p></a><span></span></p>
+                    </div>
+                                    <div class="tit-post">
+                        <span>
+                                                                                                2021-03-01<br />17:13
+                                                                                    </span>
+                        <a href="/news/prokuror-potrieboval-ustanovit-osvieshchieniie-na-doroghie-pushkinskiie-gory-loknia">По требованию прокуратуры трассу «Пушкинские Горы – Локня» оборудуют освещением</a>
+                    </div>
+                    <div class="small-text">
+                        <p><a href="/news/prokuror-potrieboval-ustanovit-osvieshchieniie-na-doroghie-pushkinskiie-gory-loknia"><p>Ученики вынуждены пересекать опасные пешеходные переходы, ожидать школьного автобуса на неосвещенных остановкках</p></a><span></span></p>
+                    </div>
+                                    <div class="tit-post">
+                        <span>
+                                                                                                2021-03-01<br />16:50
+                                                                                    </span>
+                        <a href="/news/byvshiegho-prieizdienta-frantsii-sarkozi-prighovorili-k-tiur-mie-po-dielu-o-korruptsii">Бывшего преиздента Франции Саркози приговорили к тюрьме по делу о коррупции</a>
+                    </div>
+                    <div class="small-text">
+                        <p><a href="/news/byvshiegho-prieizdienta-frantsii-sarkozi-prighovorili-k-tiur-mie-po-dielu-o-korruptsii"><p>Бывшего Президента Франции Николя Саркози приговорили к году тюрьмы и двум годам условно по делу о коррупции</p></a><span></span></p>
+                    </div>
+                                    <div class="tit-post">
+                        <span>
+                                                                                                2021-03-01<br />16:43
+                                                                                    </span>
+                        <a href="/news/opublikovana-proghramma-danilov-fiesta">Опубликована программа «Данилов-феста»</a>
+                    </div>
+                    <div class="small-text">
+                        <p><a href="/news/opublikovana-proghramma-danilov-fiesta"><p>&laquo;Данилов-fest&raquo; приурочен к премьере Псковского театра</p></a><span></span></p>
+                    </div>
+                                    <div class="tit-post">
+                        <span>
+                                                                                                2021-03-01<br />16:13
+                                                                                    </span>
+                        <a href="/news/riestavratory-otkryli-ostatki-rospisi-xvii-vieka-na-stienakh-v-poghankinykh-palatakh">Реставраторы открыли остатки росписи XVII века на стенах в Поганкиных палатах</a>
+                    </div>
+                    <div class="small-text">
+                        <p><a href="/news/riestavratory-otkryli-ostatki-rospisi-xvii-vieka-na-stienakh-v-poghankinykh-palatakh"><p>Под слоем росписи начала XX века сохранились фрагменты росписи XVII века</p></a><span></span></p>
+                    </div>
+                                    <div class="tit-post">
+                        <span>
+                                                                                                2021-03-01<br />15:50
+                                                                                    </span>
+                        <a href="/news/baza-otdykha-volyn-idieal-no-podkhodit-dlia-komfortnogho-otdykha">База отдыха &quot;Волынь&quot; идеально подходит для комфортного отдыха</a>
+                    </div>
+                    <div class="small-text">
+                        <p><a href="/news/baza-otdykha-volyn-idieal-no-podkhodit-dlia-komfortnogho-otdykha"><p>Первые весенние выходные хочется провести&nbsp;в живописном месте, чтобы ощутить&nbsp;гармонию природы и почувствовать душевное равновесие</p></a><span></span></p>
+                    </div>
+                                    <div class="tit-post">
+                        <span>
+                                                                                                2021-03-01<br />15:48
+                                                                                    </span>
+                        <a href="/news/upravlieniie-rosghvardii-prighlashaiet-na-voiennuiu-sluzhbu-po-kontraktu">Управление Росгвардии приглашает на военную службу по контракту</a>
+                    </div>
+                    <div class="small-text">
+                        <p><a href="/news/upravlieniie-rosghvardii-prighlashaiet-na-voiennuiu-sluzhbu-po-kontraktu"><p>Управление Росгвардии по Псковской области производит отбор граждан в войсковую часть 3025&nbsp;</p></a><span></span></p>
+                    </div>
+                                    <div class="tit-post">
+                        <span>
+                                                                                                2021-03-01<br />15:21
+                                                                                    </span>
+                        <a href="/news/pokhishchennye-avtozapchasti-sdal-v-punkt-priema-metalla">В Великолукском районе раскрыта кража автозапчастей</a>
+                    </div>
+                    <div class="small-text">
+                        <p><a href="/news/pokhishchennye-avtozapchasti-sdal-v-punkt-priema-metalla"><p>В деревне Максимово Великолукского района с дворовой территории у дома по улице Портовой свободным доступом была совершена кража</p></a><span></span></p>
+                    </div>
+                                    <div class="tit-post">
+                        <span>
+                                                                                                2021-03-01<br />14:58
+                                                                                    </span>
+                        <a href="/news/piervyi-spiektakl-dlia-slabovidiashchikh-zritieliei-sostoialsia-v-pskovskom-tieatrie">Первый спектакль для слабовидящих зрителей состоялся в Псковском театре</a>
+                    </div>
+                    <div class="small-text">
+                        <p><a href="/news/piervyi-spiektakl-dlia-slabovidiashchikh-zritieliei-sostoialsia-v-pskovskom-tieatrie"><p>Слабовидящим зрителям театра выдали специальные приборы, в наушники поступал тифлокомментарий специалиста&nbsp;</p></a><span></span></p>
+                    </div>
+                                    <div class="tit-post">
+                        <span>
+                                                                                                2021-03-01<br />14:43
+                                                                                    </span>
+                        <a href="/news/sostoialos-naghrazhdieniie-pobieditieliei-oblastnogho-konkursa-dusha-ziemli-pskovskoi">Состоялось награждение победителей областного конкурса «Душа земли Псковской»</a>
+                    </div>
+                    <div class="small-text">
+                        <p><a href="/news/sostoialos-naghrazhdieniie-pobieditieliei-oblastnogho-konkursa-dusha-ziemli-pskovskoi"><p>Состоялся праздничный концерт, в котором приняли участие творческие коллективы, руководители которых получили награды</p></a><span></span></p>
+                    </div>
+                                    <div class="tit-post">
+                        <span>
+                                                                                                2021-03-01<br />14:13
+                                                                                    </span>
+                        <a href="/news/3-marta-v-pskove-proydet-kompleksnaya-tekhnicheskaya-proverka-gotovnosti-regionalnoy-avtomatizirovan">3 марта в Пскове пройдет проверка системы централизованного оповещения</a>
+                    </div>
+                    <div class="small-text">
+                        <p><a href="/news/3-marta-v-pskove-proydet-kompleksnaya-tekhnicheskaya-proverka-gotovnosti-regionalnoy-avtomatizirovan"><p>Знать порядок действий при получении сигнала &laquo;Внимание всем!&raquo; обязан каждый гражданин</p></a><span></span></p>
+                    </div>
+                                    <div class="tit-post">
+                        <span>
+                                                                                                2021-03-01<br />13:53
+                                                                                    </span>
+                        <a href="/news/gorozhanka-podozrevaetsya-v-narushenii-migratsionnogo-zakonodatelstva">Жительница Палкинского района незаконно зарегистрировала шесть человек</a>
+                    </div>
+                    <div class="small-text">
+                        <p><a href="/news/gorozhanka-podozrevaetsya-v-narushenii-migratsionnogo-zakonodatelstva"><p>В Палкинском районе установлен факт фиктивной регистрации граждан</p></a><span></span></p>
+                    </div>
+                                    <div class="tit-post">
+                        <span>
+                                                                                                2021-03-01<br />13:36
+                                                                                    </span>
+                        <a href="/news/uvm-umvd:-vnimaniyu-rabotodateley!">Полиция напоминает правила приема на работу иностранцев</a>
+                    </div>
+                    <div class="small-text">
+                        <p><a href="/news/uvm-umvd:-vnimaniyu-rabotodateley!"><p>Об алгоритме привлечения к трудовой деятельности иностранных специалистов&nbsp;</p></a><span></span></p>
+                    </div>
+                                    <div class="tit-post">
+                        <span>
+                                                                                                2021-03-01<br />13:15
+                                                                                    </span>
+                        <a href="/news/stalo-izviestno-koghda-sobiraiutsia-ghazifitsirovat-kulievo-v-vielikikh-lukakh">Стало известно, когда планируется приступить к газификации района Кулево в Великих Луках</a>
+                    </div>
+                    <div class="small-text">
+                        <p><a href="/news/stalo-izviestno-koghda-sobiraiutsia-ghazifitsirovat-kulievo-v-vielikikh-lukakh"><p><span lang="28998">Проектно-сметная документация уже подготовлена</span></p></a><span></span></p>
+                    </div>
+                                    <div class="tit-post">
+                        <span>
+                                                                                                2021-03-01<br />13:12
+                                                                                    </span>
+                        <a href="/news/konflikt-omrachil-prazdnik">Великолучанин получил ножевое ранение в ходе застолья</a>
+                    </div>
+                    <div class="small-text">
+                        <p><a href="/news/konflikt-omrachil-prazdnik"><p>Празднование Дня Рождения переросло в конфликт, закончившийся поножовщиной</p></a><span></span></p>
+                    </div>
+                
+                    <div class="nav-page">
+        <div class="con-nav">
+                                        <a class="n2" href="/?page=2"></a>
+                        <ul>
+                                                            <li class="current"><a href="#">1</a></li>
+                                                                                <li><a href="/?page=2">2</a></li>
+                                                                                <li><a href="/?page=3">3</a></li>
+                                                                                <li><a href="/?page=4">4</a></li>
+                                                                                <li><a href="/?page=5">5</a></li>
+                                                </ul>
+        </div>
+    </div>
+
+            </div>
+            <div class="right">
+                <div class="titles j2">популярные новости</div>
+    <p><a href="/news/krieml-otsienil-urovien-zhizni-v-rossii">Кремль оценил уровень жизни в России</a></p>
+    <p><a href="/news/tsifrovoi-rubl-mozhiet-byt-protiestirovan-v-2021-ghodu">Цифровой рубль может быть протестирован в 2021 году</a></p>
+    <p><a href="/news/aptieki-na-koliesakh-poiaviatsia-v-rossii">«Аптеки на колесах» появятся в России</a></p>
+    <p><a href="/news/v-vielikikh-lukakh-postrot-novyi-chietyriekhzviezdochnyi-otiel">В Великих Луках построят новый четырехзвездочный отель</a></p>
+    <p><a href="/news/instagram-budiet-udaliat-akkaunty-za-oskorblieniia">Instagram будет удалять аккаунты за оскорбления</a></p>
+    <p><a href="/news/v-vielikikh-lukakh-oghrabili-otdielieniie-pochty">В Великих Луках ограбили отделение почты</a></p>
+    <p><a href="/news/vielikoluchanku-sbili-na-pieriekhodie">Великолучанку сбили на переходе</a></p>
+    <p><a href="/news/pskovskaia-oblast-okazalas-na-74-miestie-po-urovniu-zarabotnoi-platy-v-rossii">Псковская область оказалась на 74 месте по уровню заработной платы в России в 2020 году</a></p>
+    <p><a href="/news/v-rossii-rano-nachnutsia-liesnyie-pozhary">В России рано начнутся лесные пожары</a></p>
+    <p><a href="/news/psikhologhi-mchs-okazyvaiut-pomoshch-ghrazhdanam">Психологи МЧС оказывают помощь гражданам</a></p>
+
+<script type="text/javascript" src="//vk.com/js/api/openapi.js?115"></script>
+
+<!-- VK Widget -->
+<div id="vk_groups"></div>
+<script type="text/javascript">
+    VK.Widgets.Group("vk_groups", {
+        mode: 0,
+        width: "260",
+        height: "320",
+        color1: 'FFFFFF',
+        color2: '2B587A',
+        color3: 'be6419'
+    }, 28488559);
+</script>
+
+<!-- youtube Widget -->
+<div>
+    <div style="background: #be6419; padding: 10px; color: white; border-radius: 10px 10px 0 0;">Подпишись на канал</div>
+    <div style="padding: 10px 2em; border: 1px solid #be6419; border-radius: 0 0 10px 10px;">
+        <script src="https://apis.google.com/js/platform.js"></script>
+        <div class="g-ytsubscribe" data-channel="ilukiru" data-layout="full" data-count="default"></div>
+    </div>
+</div>
+
+                                                                                                                                                                                            
+                                
+               
+                                
+            </div>
+        </div>
+    </div>
+        
+                    
+            </div>
+    <div class="sidebar">
+                    <div class="ban-s">
+                                                                    <a order="0" target="_blank" href="https://www.rshb.ru/" bid="248">
+                            <img src="/uploads/media/default/0004/97/3a2c8b55a834d6725b4b9dce054a3bf6dc1e0b3c.gif" alt="РоссельхозБанк"/>
+                        </a>
+                                                                                                        <a order="1" target="_blank" href="http://tushenka60.ru/" bid="224">
+                            <img src="/uploads/media/default/0004/97/ec2099d911ebaf06491911bac02e63787a074afe.gif" alt="Тушенка Демидовская"/>
+                        </a>
+                                                                                                        <a order="2" target="_blank" href="http://titandver.ru/" bid="242">
+                            <img src="/uploads/media/default/0004/96/4f9aa4436bcb8d00a3a70d4f047b7bd2b52bd20d.gif" alt="Двери Титан"/>
+                        </a>
+                                                                                                        <a order="3" target="_blank" href="http://okna-optom-vl.ru/" bid="252">
+                            <img src="/uploads/media/default/0004/96/5e5e6ddaf89dcb0ef38a4ad78144ae86ece9673f.gif" alt="ОКНА ОПТОМ"/>
+                        </a>
+                                                                                                        <a order="4" target="_blank" href="http://www.iluki.ru/organization/show/830" bid="253">
+                            <img src="/uploads/media/default/0004/97/f23263c10ea2352307c14ddc6e51ede9d8fe0377.gif" alt="Оптика Взгляд"/>
+                        </a>
+                                                </div>
+                
+                                    
+<div class="title-side">афиша</div>
+<ul class="right-m-one">
+            <li>
+            <a href="/events/concert/2021/03/01">
+                <img src="/img/b1.png" alt="Концерты"
+            width="81" height="99"                                                                    ></a>
+        </li>
+            <li>
+            <a href="/events/films/2021/03/01">
+                <img src="/img/b2.png" alt="Кино"
+                        class="sp" width="100" height="109"                                                        ></a>
+        </li>
+            <li>
+            <a href="/events/theater/2021/03/01">
+                <img src="/img/b3.png" alt="Театр"
+                                    width="110" height="110"                                            ></a>
+        </li>
+            <li>
+            <a href="/events/museum/2021/03/01">
+                <img src="/img/b4.png" alt="Музеи"
+                                                width="110" height="110"                                ></a>
+        </li>
+            <li>
+            <a href="/events/developments/2021/03/01">
+                <img src="/img/b5.png" alt="События"
+                                                            width="110" height="110"                    ></a>
+        </li>
+            <li>
+            <a href="/events/exhibitions/2021/03/01">
+                <img src="/img/b6.png" alt="Выставки"
+                                                                        width="109" height="109"        ></a>
+        </li>
+    </ul>
+
+
+    </div>
+    <div class="clear"></div>
+</section>
+
+    <div class="banner_full"></div>
+
+<footer id="footer">
+    <div class="bg-bot"></div>
+    <a href="" class="logo-foot"><img src="/img/logo.png" alt="" width="68" height="71"/></a>
+
+    <div class="st2"></div>
+    <p>
+    Информация, размещенная на сайте, предназначена для лиц старше 18 лет.<br>©
+    Информационно-деловой портал iluki.ru Зарегистрирован в Федеральной службе по надзору в сфере связи,
+    информационных технологий и массовых коммуникаций. Свидетельство о регистрации средства массовой информации Эл №
+    ФС77-45157 от 20 мая 2011 г. Учредитель - ООО "МТК". Проект группы компаний “МАРТ”. Главный редактор Васильев С.В. Тел/Факс
+    редакции: <a href="tel:88115369060">8(81153)69-060</a>; E-mail редакции: <a href="mailto:red@iluki.ru">red@iluki.ru</a>,
+    по рекламе <a href="mailto:reklama@iluki.ru">reklama@iluki.ru</a>. <strong>При полном или частичном использовании
+        материалов ссылка (при публикации в сети Internet - гиперссылка) на iluki.ru обязательна!</strong>
+</p>
+
+    <div class="copyr">
+        <a href="/admin/list">© 2021 iluki.ru. Все права защищены.</a>
+        <div class="soc">
+    <a target="_blank" href="https://www.facebook.com/groups/196323037083160/"><img src="/img/f1.png" alt="facebook" width="13" height="22"></a>
+    <a target="_blank" href="http://vk.com/iluki"><img src="/img/f2.png" alt="вконтакте" width="18" height="22"></a>
+    </div>
+        <div class="chet">
+            <!--LiveInternet counter-->
+            <script type="text/javascript"><!--
+                document.write("<a href='//www.liveinternet.ru/click' " +
+                    "target=_blank><img src='//counter.yadro.ru/hit?t52.6;r" +
+                    escape(document.referrer) + ((typeof (screen) == "undefined") ? "" :
+                        ";s" + screen.width + "*" + screen.height + "*" + (screen.colorDepth ?
+                        screen.colorDepth : screen.pixelDepth)) + ";u" + escape(document.URL) +
+                    ";" + Math.random() +
+                    "' alt='' title='LiveInternet: показано число просмотров и" +
+                    " посетителей за 24 часа' " +
+                    "border='0' width='88' height='31'><\/a>")
+                //-->
+            </script>
+            <!--/LiveInternet-->
+
+            <!-- Yandex.Metrika counter -->
+            <script type="text/javascript">
+                (function (m, e, t, r, i, k, a) {
+                    m[i] = m[i] || function () {
+                        (m[i].a = m[i].a || []).push(arguments)
+                    };
+                    m[i].l = 1 * new Date();
+                    k = e.createElement(t), a = e.getElementsByTagName(t)[0], k.async = 1, k.src = r, a.parentNode.insertBefore(k, a)
+                })
+                (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+                ym(16982791, "init", {
+                    clickmap: true,
+                    trackLinks: true,
+                    accurateTrackBounce: true,
+                    webvisor: true
+                });
+            </script>
+            <noscript>
+                <div>
+                    <img src="https://mc.yandex.ru/watch/16982791" style="position:absolute; left:-9999px;" alt="" />
+                </div>
+            </noscript>
+            <!-- /Yandex.Metrika counter -->
+
+            <!-- Openstat -->
+            <span id="openstat2296034"></span>
+            <script type="text/javascript">
+                var openstat = {counter: 2296034, next: openstat, track_links: "all"};
+                (function (d, t, p) {
+                    var j = d.createElement(t);
+                    j.async = true;
+                    j.type = "text/javascript";
+                    j.src = ("https:" == p ? "https:" : "http:") + "//openstat.net/cnt.js";
+                    var s = d.getElementsByTagName(t)[0];
+                    s.parentNode.insertBefore(j, s);
+                })(document, "script", document.location.protocol);
+            </script>
+            <!-- begin of Top100 code -->
+            <script id="top100Counter" type="text/javascript"
+                    src="https://counter.rambler.ru/top100.jcn?3035895"></script>
+            <noscript>
+                <a href="https://top100.rambler.ru/navi/3035895/">
+                    <img src="https://counter.rambler.ru/top100.cnt?3035895" alt="Rambler's Top100" border="0"/>
+                </a>
+            </noscript>
+            <!-- end of Top100 code -->
+        </div>
+    </div>
+    <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date();
+            a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-34725597-1', 'iluki.ru');
+        ga('send', 'pageview');
+    </script>
+</footer>
+</body>
+</html>

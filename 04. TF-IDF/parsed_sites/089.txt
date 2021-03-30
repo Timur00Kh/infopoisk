@@ -1,0 +1,1763 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-W2K9F6J');</script>
+    <!-- End Google Tag Manager -->
+    <meta name="keywords" content="Скачать пробный урок">
+    <meta name="description" content="Скачать пробный урок">
+        <title>Скачать пробный урок</title>
+    <link rel="manifest" href="/manifest.json">
+    <!-- Global site tag (gtag.js) - AdWords: 1061824795 -->
+<script async src="//www.googletagmanager.com/gtag/js?id=AW-1061824795"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'AW-1061824795');
+</script>
+
+<meta property="og:title" content="Скачать пробный урок"/>
+<meta property="og:description" content="Скачать пробный урок"/>
+<meta property="og:locale" content="ru_RU" />
+    <meta property="og:image" content="https://www.escc.ru/assets/img/logo.png">
+<meta property="og:type" content="website"/>
+<meta property="og:url" content="https://www.escc.ru/skachat-probnyj-urok" />
+    
+
+
+    <script async src="https://www.artfut.com/static/tagtag.min.js?campaign_code=4686ddc224" onerror='var self = this;window.ADMITAD=window.ADMITAD||{},ADMITAD.Helpers=ADMITAD.Helpers||{},ADMITAD.Helpers.generateDomains=function(){for(var e=new Date,n=Math.floor(new Date(2020,e.getMonth(),e.getDate()).setUTCHours(0,0,0,0)/1e3),t=parseInt(1e12*(Math.sin(n)+1)).toString(30),i=["de"],o=[],a=0;a<i.length;++a)o.push({domain:t+"."+i[a],name:t});return o},ADMITAD.Helpers.findTodaysDomain=function(e){function n(){var o=new XMLHttpRequest,a=i[t].domain,D="https://"+a+"/";o.open("HEAD",D,!0),o.onload=function(){setTimeout(e,0,i[t])},o.onerror=function(){++t<i.length?setTimeout(n,0):setTimeout(e,0,void 0)},o.send()}var t=0,i=ADMITAD.Helpers.generateDomains();n()},window.ADMITAD=window.ADMITAD||{},ADMITAD.Helpers.findTodaysDomain(function(e){if(window.ADMITAD.dynamic=e,window.ADMITAD.dynamic){var n=function(){return function(){return self.src?self:""}}(),t=n(),i=(/campaign_code=([^&]+)/.exec(t.src)||[])[1]||"";t.parentNode.removeChild(t);var o=document.getElementsByTagName("head")[0],a=document.createElement("script");a.src="https://www."+window.ADMITAD.dynamic.domain+"/static/"+window.ADMITAD.dynamic.name.slice(1)+window.ADMITAD.dynamic.name.slice(0,1)+".min.js?campaign_code="+i,o.appendChild(a)}});'></script>
+</head>
+<body>
+<!-- Facebook Pixel Code -->
+<script>
+    !function(f,b,e,v,n,t,s)
+    {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+        n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+        if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+        n.queue=[];t=b.createElement(e);t.async=!0;
+        t.src=v;s=b.getElementsByTagName(e)[0];
+        s.parentNode.insertBefore(t,s)}(window, document,'script',
+        'https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '424164994787585');
+    fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none" alt="" src="https://www.facebook.com/tr?id=424164994787585&ev=PageView&noscript=1"/></noscript>
+<!-- End Facebook Pixel Code -->
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W2K9F6J"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<!--[if lt IE 9]>
+<script src="/assets/js/html5shiv.min.js"></script>
+<![endif]-->
+
+<!--[if IE]>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<![endif]-->
+
+<!--[if lt IE 9]>
+<script src="/assets/js/respond.min.js"></script>
+<![endif]-->
+
+<link href="/assets/styles.min.css?ver=1.3.1934" rel="stylesheet" type="text/css" media="screen">
+<script>
+    !function(e,t,d,s,a,n,c){e[a]={},e[a].date=(new Date).getTime(),
+        n=t.createElement(d),c=t.getElementsByTagName(d)[0],n.type="text/javascript",
+        n.async=!0,n.src=s,c.parentNode.insertBefore(n,c)}(window,document,
+        "script","https://esccru.push.world/https.embed.js","pw"),
+        pw.websiteId="cb80eae5b01be61bda86642c5c29ae3673e5acad611d50a67714dbb147fe1393";
+</script>
+
+
+            <script>
+        (function () {
+            // Cookie, saying us, that user has visited target page
+            var requiredCookie = 'demo_lesson_landpage';
+            var now = new Date();
+            now.setTime(now.getTime() + 31536000000);
+            document.cookie = requiredCookie + '=true; path=/; expires=' + now;
+        })();
+    </script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script>
+    var activeModal = null;
+    function showLandModal(modalName){
+        event.preventDefault();
+        if(activeModal){
+            activeModal.style.display = 'none';
+        }
+        try {
+            var landModal = document.getElementById(modalName);
+            landModal.style.display = 'block';
+            activeModal = landModal;
+        }catch (e){
+            console.warn(e);
+        }
+    }
+</script>
+
+<!-- course list -->
+<div class="modal fade" id="course_list">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+            </div>
+                            <div class="modal-form" id="language" style="display: none;">
+                    <div class="form-block">
+                        <ul class="course-list">
+                                                            <li class="course-name">
+                                    <a data-dismiss="modal" aria-label="Close" class="courses-leaders-btn course-click smooth-scroll" data-course-id="1" href="#form">
+                                        Английский для начинающих extra
+                                                                                    <b> + онлайн версия</b>
+                                                                            </a>
+                                </li>
+                                                            <li class="course-name">
+                                    <a data-dismiss="modal" aria-label="Close" class="courses-leaders-btn course-click smooth-scroll" data-course-id="2" href="#form">
+                                        Английский для начинающих
+                                                                            </a>
+                                </li>
+                                                            <li class="course-name">
+                                    <a data-dismiss="modal" aria-label="Close" class="courses-leaders-btn course-click smooth-scroll" data-course-id="3" href="#form">
+                                        Английский для среднего уровня extra
+                                                                                    <b> + онлайн версия</b>
+                                                                            </a>
+                                </li>
+                                                            <li class="course-name">
+                                    <a data-dismiss="modal" aria-label="Close" class="courses-leaders-btn course-click smooth-scroll" data-course-id="4" href="#form">
+                                        Английский для среднего уровня
+                                                                            </a>
+                                </li>
+                                                            <li class="course-name">
+                                    <a data-dismiss="modal" aria-label="Close" class="courses-leaders-btn course-click smooth-scroll" data-course-id="77" href="#form">
+                                        Английский для высшего уровня extra
+                                                                                    <b> + онлайн версия</b>
+                                                                            </a>
+                                </li>
+                                                            <li class="course-name">
+                                    <a data-dismiss="modal" aria-label="Close" class="courses-leaders-btn course-click smooth-scroll" data-course-id="5" href="#form">
+                                        Английский для высшего уровня
+                                                                            </a>
+                                </li>
+                                                            <li class="course-name">
+                                    <a data-dismiss="modal" aria-label="Close" class="courses-leaders-btn course-click smooth-scroll" data-course-id="6" href="#form">
+                                        Деловой английский
+                                                                            </a>
+                                </li>
+                                                            <li class="course-name">
+                                    <a data-dismiss="modal" aria-label="Close" class="courses-leaders-btn course-click smooth-scroll" data-course-id="80" href="#form">
+                                        Английский для детей (новый)
+                                                                                    <b> + онлайн версия</b>
+                                                                            </a>
+                                </li>
+                                                            <li class="course-name">
+                                    <a data-dismiss="modal" aria-label="Close" class="courses-leaders-btn course-click smooth-scroll" data-course-id="7" href="#form">
+                                        Английский для детей
+                                                                            </a>
+                                </li>
+                                                            <li class="course-name">
+                                    <a data-dismiss="modal" aria-label="Close" class="courses-leaders-btn course-click smooth-scroll" data-course-id="8" href="#form">
+                                        Английский для детей 2
+                                                                            </a>
+                                </li>
+                                                            <li class="course-name">
+                                    <a data-dismiss="modal" aria-label="Close" class="courses-leaders-btn course-click smooth-scroll" data-course-id="9" href="#form">
+                                        Немецкий для начинающих extra
+                                                                                    <b> + онлайн версия</b>
+                                                                            </a>
+                                </li>
+                                                            <li class="course-name">
+                                    <a data-dismiss="modal" aria-label="Close" class="courses-leaders-btn course-click smooth-scroll" data-course-id="10" href="#form">
+                                        Немецкий для начинающих
+                                                                            </a>
+                                </li>
+                                                            <li class="course-name">
+                                    <a data-dismiss="modal" aria-label="Close" class="courses-leaders-btn course-click smooth-scroll" data-course-id="11" href="#form">
+                                        Немецкий для среднего уровня
+                                                                            </a>
+                                </li>
+                                                            <li class="course-name">
+                                    <a data-dismiss="modal" aria-label="Close" class="courses-leaders-btn course-click smooth-scroll" data-course-id="14" href="#form">
+                                        Немецкий для детей
+                                                                            </a>
+                                </li>
+                                                            <li class="course-name">
+                                    <a data-dismiss="modal" aria-label="Close" class="courses-leaders-btn course-click smooth-scroll" data-course-id="78" href="#form">
+                                        Французский для начинающих extra
+                                                                                    <b> + онлайн версия</b>
+                                                                            </a>
+                                </li>
+                                                            <li class="course-name">
+                                    <a data-dismiss="modal" aria-label="Close" class="courses-leaders-btn course-click smooth-scroll" data-course-id="15" href="#form">
+                                        Французский для начинающих
+                                                                            </a>
+                                </li>
+                                                            <li class="course-name">
+                                    <a data-dismiss="modal" aria-label="Close" class="courses-leaders-btn course-click smooth-scroll" data-course-id="16" href="#form">
+                                        Французский для среднего уровня
+                                                                            </a>
+                                </li>
+                                                            <li class="course-name">
+                                    <a data-dismiss="modal" aria-label="Close" class="courses-leaders-btn course-click smooth-scroll" data-course-id="17" href="#form">
+                                        Итальянский для начинающих
+                                                                            </a>
+                                </li>
+                                                            <li class="course-name">
+                                    <a data-dismiss="modal" aria-label="Close" class="courses-leaders-btn course-click smooth-scroll" data-course-id="89" href="#form">
+                                        Итальянский для начинающих extra
+                                                                                    <b> + онлайн версия</b>
+                                                                            </a>
+                                </li>
+                                                            <li class="course-name">
+                                    <a data-dismiss="modal" aria-label="Close" class="courses-leaders-btn course-click smooth-scroll" data-course-id="18" href="#form">
+                                        Итальянский для среднего уровня
+                                                                            </a>
+                                </li>
+                                                            <li class="course-name">
+                                    <a data-dismiss="modal" aria-label="Close" class="courses-leaders-btn course-click smooth-scroll" data-course-id="79" href="#form">
+                                        Испанский для начинающих extra
+                                                                                    <b> + онлайн версия</b>
+                                                                            </a>
+                                </li>
+                                                            <li class="course-name">
+                                    <a data-dismiss="modal" aria-label="Close" class="courses-leaders-btn course-click smooth-scroll" data-course-id="19" href="#form">
+                                        Испанский для начинающих
+                                                                            </a>
+                                </li>
+                                                            <li class="course-name">
+                                    <a data-dismiss="modal" aria-label="Close" class="courses-leaders-btn course-click smooth-scroll" data-course-id="20" href="#form">
+                                        Испанский для среднего уровня
+                                                                            </a>
+                                </li>
+                                                            <li class="course-name">
+                                    <a data-dismiss="modal" aria-label="Close" class="courses-leaders-btn course-click smooth-scroll" data-course-id="21" href="#form">
+                                        Польский для начинающих
+                                                                                    <b> + онлайн версия</b>
+                                                                            </a>
+                                </li>
+                                                            <li class="course-name">
+                                    <a data-dismiss="modal" aria-label="Close" class="courses-leaders-btn course-click smooth-scroll" data-course-id="22" href="#form">
+                                        Польский для среднего уровня
+                                                                            </a>
+                                </li>
+                                                            <li class="course-name">
+                                    <a data-dismiss="modal" aria-label="Close" class="courses-leaders-btn course-click smooth-scroll" data-course-id="23" href="#form">
+                                        Японский для начинающих
+                                                                                    <b> + онлайн версия</b>
+                                                                            </a>
+                                </li>
+                                                            <li class="course-name">
+                                    <a data-dismiss="modal" aria-label="Close" class="courses-leaders-btn course-click smooth-scroll" data-course-id="24" href="#form">
+                                        Китайский для начинающих
+                                                                            </a>
+                                </li>
+                                                            <li class="course-name">
+                                    <a data-dismiss="modal" aria-label="Close" class="courses-leaders-btn course-click smooth-scroll" data-course-id="83" href="#form">
+                                        Чешский для начинающих
+                                                                                    <b> + онлайн версия</b>
+                                                                            </a>
+                                </li>
+                                                            <li class="course-name">
+                                    <a data-dismiss="modal" aria-label="Close" class="courses-leaders-btn course-click smooth-scroll" data-course-id="25" href="#form">
+                                        Арабский для начинающих
+                                                                            </a>
+                                </li>
+                                                            <li class="course-name">
+                                    <a data-dismiss="modal" aria-label="Close" class="courses-leaders-btn course-click smooth-scroll" data-course-id="26" href="#form">
+                                        Турецкий для начинающих
+                                                                                    <b> + онлайн версия</b>
+                                                                            </a>
+                                </li>
+                                                    </ul>
+                    </div>
+                </div>
+                            <div class="modal-form" id="finance" style="display: none;">
+                    <div class="form-block">
+                        <ul class="course-list">
+                                                            <li class="course-name">
+                                    <a data-dismiss="modal" aria-label="Close" class="courses-leaders-btn course-click smooth-scroll" data-course-id="27" href="#form">
+                                        Основы бухгалтерского учета
+                                                                            </a>
+                                </li>
+                                                    </ul>
+                    </div>
+                </div>
+                            <div class="modal-form" id="business" style="display: none;">
+                    <div class="form-block">
+                        <ul class="course-list">
+                                                            <li class="course-name">
+                                    <a data-dismiss="modal" aria-label="Close" class="courses-leaders-btn course-click smooth-scroll" data-course-id="30" href="#form">
+                                        Как начать собственное дело
+                                                                            </a>
+                                </li>
+                                                            <li class="course-name">
+                                    <a data-dismiss="modal" aria-label="Close" class="courses-leaders-btn course-click smooth-scroll" data-course-id="35" href="#form">
+                                        Коммерческий представитель
+                                                                            </a>
+                                </li>
+                                                    </ul>
+                    </div>
+                </div>
+                            <div class="modal-form" id="marketing" style="display: none;">
+                    <div class="form-block">
+                        <ul class="course-list">
+                                                            <li class="course-name">
+                                    <a data-dismiss="modal" aria-label="Close" class="courses-leaders-btn course-click smooth-scroll" data-course-id="37" href="#form">
+                                        Журналистика
+                                                                            </a>
+                                </li>
+                                                    </ul>
+                    </div>
+                </div>
+                            <div class="modal-form" id="office" style="display: none;">
+                    <div class="form-block">
+                        <ul class="course-list">
+                                                            <li class="course-name">
+                                    <a data-dismiss="modal" aria-label="Close" class="courses-leaders-btn course-click smooth-scroll" data-course-id="41" href="#form">
+                                        Менеджер по кадрам и заработной плате
+                                                                            </a>
+                                </li>
+                                                            <li class="course-name">
+                                    <a data-dismiss="modal" aria-label="Close" class="courses-leaders-btn course-click smooth-scroll" data-course-id="43" href="#form">
+                                        Этикет, организация торжеств и деловых мероприятий
+                                                                            </a>
+                                </li>
+                                                            <li class="course-name">
+                                    <a data-dismiss="modal" aria-label="Close" class="courses-leaders-btn course-click smooth-scroll" data-course-id="44" href="#form">
+                                        Офис-менеджер
+                                                                            </a>
+                                </li>
+                                                    </ul>
+                    </div>
+                </div>
+                            <div class="modal-form" id="design" style="display: none;">
+                    <div class="form-block">
+                        <ul class="course-list">
+                                                            <li class="course-name">
+                                    <a data-dismiss="modal" aria-label="Close" class="courses-leaders-btn course-click smooth-scroll" data-course-id="45" href="#form">
+                                        Дизайн и оформление интерьера
+                                                                            </a>
+                                </li>
+                                                            <li class="course-name">
+                                    <a data-dismiss="modal" aria-label="Close" class="courses-leaders-btn course-click smooth-scroll" data-course-id="47" href="#form">
+                                        Конструирование и дизайн модной одежды
+                                                                            </a>
+                                </li>
+                                                            <li class="course-name">
+                                    <a data-dismiss="modal" aria-label="Close" class="courses-leaders-btn course-click smooth-scroll" data-course-id="48" href="#form">
+                                        Садово-парковый дизайн
+                                                                            </a>
+                                </li>
+                                                            <li class="course-name">
+                                    <a data-dismiss="modal" aria-label="Close" class="courses-leaders-btn course-click smooth-scroll" data-course-id="49" href="#form">
+                                        Цветочный дизайн
+                                                                            </a>
+                                </li>
+                                                            <li class="course-name">
+                                    <a data-dismiss="modal" aria-label="Close" class="courses-leaders-btn course-click smooth-scroll" data-course-id="50" href="#form">
+                                        Курс кройки и шитья
+                                                                            </a>
+                                </li>
+                                                            <li class="course-name">
+                                    <a data-dismiss="modal" aria-label="Close" class="courses-leaders-btn course-click smooth-scroll" data-course-id="51" href="#form">
+                                        Искусство фотографии
+                                                                            </a>
+                                </li>
+                                                            <li class="course-name">
+                                    <a data-dismiss="modal" aria-label="Close" class="courses-leaders-btn course-click smooth-scroll" data-course-id="52" href="#form">
+                                        Рисование и живопись
+                                                                            </a>
+                                </li>
+                                                            <li class="course-name">
+                                    <a data-dismiss="modal" aria-label="Close" class="courses-leaders-btn course-click smooth-scroll" data-course-id="53" href="#form">
+                                        Искусство вязания
+                                                                            </a>
+                                </li>
+                                                            <li class="course-name">
+                                    <a data-dismiss="modal" aria-label="Close" class="courses-leaders-btn course-click smooth-scroll" data-course-id="54" href="#form">
+                                        Искусство фэн-шуй
+                                                                            </a>
+                                </li>
+                                                    </ul>
+                    </div>
+                </div>
+                            <div class="modal-form" id="computer" style="display: none;">
+                    <div class="form-block">
+                        <ul class="course-list">
+                                                            <li class="course-name">
+                                    <a data-dismiss="modal" aria-label="Close" class="courses-leaders-btn course-click smooth-scroll" data-course-id="57" href="#form">
+                                        WEB-дизайн
+                                                                            </a>
+                                </li>
+                                                            <li class="course-name">
+                                    <a data-dismiss="modal" aria-label="Close" class="courses-leaders-btn course-click smooth-scroll" data-course-id="58" href="#form">
+                                        Программирование для начинающих
+                                                                            </a>
+                                </li>
+                                                            <li class="course-name">
+                                    <a data-dismiss="modal" aria-label="Close" class="courses-leaders-btn course-click smooth-scroll" data-course-id="55" href="#form">
+                                        Компьютерная азбука
+                                                                            </a>
+                                </li>
+                                                    </ul>
+                    </div>
+                </div>
+                            <div class="modal-form" id="psychology" style="display: none;">
+                    <div class="form-block">
+                        <ul class="course-list">
+                                                            <li class="course-name">
+                                    <a data-dismiss="modal" aria-label="Close" class="courses-leaders-btn course-click smooth-scroll" data-course-id="60" href="#form">
+                                        Практическая психология
+                                                                            </a>
+                                </li>
+                                                            <li class="course-name">
+                                    <a data-dismiss="modal" aria-label="Close" class="courses-leaders-btn course-click smooth-scroll" data-course-id="61" href="#form">
+                                        Скоростное чтение и запоминание
+                                                                            </a>
+                                </li>
+                                                            <li class="course-name">
+                                    <a data-dismiss="modal" aria-label="Close" class="courses-leaders-btn course-click smooth-scroll" data-course-id="62" href="#form">
+                                        Воспитание ребенка (от 0 до 5 лет)
+                                                                            </a>
+                                </li>
+                                                            <li class="course-name">
+                                    <a data-dismiss="modal" aria-label="Close" class="courses-leaders-btn course-click smooth-scroll" data-course-id="63" href="#form">
+                                        Готовим ребенка к школе
+                                                                            </a>
+                                </li>
+                                                    </ul>
+                    </div>
+                </div>
+                            <div class="modal-form" id="beauty" style="display: none;">
+                    <div class="form-block">
+                        <ul class="course-list">
+                                                            <li class="course-name">
+                                    <a data-dismiss="modal" aria-label="Close" class="courses-leaders-btn course-click smooth-scroll" data-course-id="65" href="#form">
+                                        Мастер маникюра и педикюра
+                                                                            </a>
+                                </li>
+                                                            <li class="course-name">
+                                    <a data-dismiss="modal" aria-label="Close" class="courses-leaders-btn course-click smooth-scroll" data-course-id="66" href="#form">
+                                        Визажист-стилист
+                                                                            </a>
+                                </li>
+                                                            <li class="course-name">
+                                    <a data-dismiss="modal" aria-label="Close" class="courses-leaders-btn course-click smooth-scroll" data-course-id="67" href="#form">
+                                        Современная косметология
+                                                                            </a>
+                                </li>
+                                                            <li class="course-name">
+                                    <a data-dismiss="modal" aria-label="Close" class="courses-leaders-btn course-click smooth-scroll" data-course-id="68" href="#form">
+                                        Парикмахерское искусство
+                                                                            </a>
+                                </li>
+                                                            <li class="course-name">
+                                    <a data-dismiss="modal" aria-label="Close" class="courses-leaders-btn course-click smooth-scroll" data-course-id="69" href="#form">
+                                        Секреты современной кухни
+                                                                            </a>
+                                </li>
+                                                            <li class="course-name">
+                                    <a data-dismiss="modal" aria-label="Close" class="courses-leaders-btn course-click smooth-scroll" data-course-id="73" href="#form">
+                                        Массаж
+                                                                            </a>
+                                </li>
+                                                    </ul>
+                    </div>
+                </div>
+                    </div>
+    </div>
+</div>
+
+<div class="shadow">
+    <div class="season-sale " id="main-landing">
+        <div id="top" class="top-wrap">
+
+            <a id="upbutton" class="scroll" href="#" onclick="smoothJumpUp(); return false;">
+                <img src="/assets/static/img/landings/season/20210216/up.png" alt="Top" style="border:0;" title="Наверх">
+            </a>
+
+            <a id="upbutton-banner" class="scroll" href="#" onclick="smoothJumpUp(); return false;">
+                <div class="velcro-block">
+                    <p>Скачать пробный урок бесплатно</p>
+                </div>
+            </a>
+
+                        <section class="top">
+                <div class="header-line">
+                    <div class="content">
+                        <div class="logo">
+                            <a href="/">
+                                <img src="/assets/static/img/landings/season/20210216/topLogo.png" alt="ЕШКО">
+                            </a>
+                        </div>
+                        <div class="year">
+                            <img src="/assets/static/img/landings/season/20210216/year.png" alt="27 лет успеха!">
+                        </div>
+                        <div class="minutes">
+                            <strong>30</strong> минут в день
+                        </div>
+                        <div class="courses">
+                            <strong>80</strong> заочных курсов
+                        </div>
+                        <div class="home">
+                            <a href="/">
+                                <img src="/assets/static/img/landings/season/20210216/home.png" alt="Перейти на сайт">
+                            </a>
+                        </div>
+                        <div class="phone">
+                            <a href="tel:88002003501">
+                                <strong>
+                                    8 800 200-35-01
+                                </strong>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="container-fluid landing-blocks centered">
+                    <div class="container centered">
+                        <div class="col-md-8 col-sm-12 left-block">
+                            <div class="act">
+                                <div class="text">
+                                    <p>Скачайте пробный урок</p>
+                                    <p>и выиграйте <span>скидку 99%</span></p>
+                                    <p><span>на обучение!*</span></p>
+                                </div>
+                                <img src="/assets/static/img/landings/season/20210216/girl.png" alt="Скачайте пробный урок и выиграйте скидку 99% на обучение!">
+                            </div>
+                        </div>
+                        <div class="col-md-4 col-sm-12 right-block">
+                            <div class="text">
+                                <p>Скачайте пробный урок и выиграйте <span>скидку 99% на обучение!*</span></p>
+                            </div>
+                                <script>
+        window.TL_FORM = {"profile":null,"channelCode":null,"url":"\/orders\/test-lesson","emailRedirectUrl":"\/probni-urok\/download","onlineRedirectUrl":"\/demos\/\/story.html","constants":{"tlType":{"printed":0}},"courses":{"Иностранные языки":[{"id":"1","title":"Английский для начинающих extra"},{"id":"2","title":"Английский для начинающих"},{"id":"3","title":"Английский для среднего уровня extra"},{"id":"4","title":"Английский для среднего уровня"},{"id":"77","title":"Английский для высшего уровня extra"},{"id":"5","title":"Английский для высшего уровня"},{"id":"6","title":"Деловой английский"},{"id":"80","title":"Английский для детей (новый)"},{"id":"7","title":"Английский для детей"},{"id":"8","title":"Английский для детей 2"},{"id":"9","title":"Немецкий для начинающих extra"},{"id":"10","title":"Немецкий для начинающих"},{"id":"11","title":"Немецкий для среднего уровня"},{"id":"14","title":"Немецкий для детей"},{"id":"78","title":"Французский для начинающих extra"},{"id":"15","title":"Французский для начинающих"},{"id":"16","title":"Французский для среднего уровня"},{"id":"17","title":"Итальянский для начинающих"},{"id":"89","title":"Итальянский для начинающих extra"},{"id":"18","title":"Итальянский для среднего уровня"},{"id":"79","title":"Испанский для начинающих extra"},{"id":"19","title":"Испанский для начинающих"},{"id":"20","title":"Испанский для среднего уровня"},{"id":"21","title":"Польский для начинающих"},{"id":"22","title":"Польский для среднего уровня"},{"id":"23","title":"Японский для начинающих"},{"id":"24","title":"Китайский для начинающих"},{"id":"83","title":"Чешский для начинающих"},{"id":"25","title":"Арабский для начинающих"},{"id":"26","title":"Турецкий для начинающих"},{"id":"186","title":"Цифровой курс Деловой английский extra"},{"id":"118","title":"Цифровой курс Немецкий для высшего уровня"},{"id":"190","title":"Цифровой курс Португальский для начинающих А1"}],"Финансы и учёт":[{"id":"27","title":"Основы бухгалтерского учета"}],"Бизнес-менеджмент":[{"id":"30","title":"Как начать собственное дело"},{"id":"35","title":"Коммерческий представитель"},{"id":"148","title":"Цифровой курс Законодательная азбука"}],"Журналистика, PR":[{"id":"37","title":"Журналистика"}],"Офис-менеджмент":[{"id":"41","title":"Менеджер по кадрам и заработной плате"},{"id":"43","title":"Этикет, организация торжеств и деловых мероприятий"},{"id":"44","title":"Офис-менеджер"}],"Искусство и дизайн":[{"id":"45","title":"Дизайн и оформление интерьера"},{"id":"47","title":"Конструирование и дизайн модной одежды"},{"id":"48","title":"Садово-парковый дизайн"},{"id":"49","title":"Цветочный дизайн"},{"id":"50","title":"Курс кройки и шитья"},{"id":"51","title":"Искусство фотографии"},{"id":"52","title":"Рисование и живопись"},{"id":"53","title":"Искусство вязания"},{"id":"54","title":"Искусство фэн-шуй"},{"id":"191","title":"Цифровой курс Дизайн интерьера в 3ds Max"}],"Компьютерные курсы":[{"id":"57","title":"WEB-дизайн"},{"id":"58","title":"Программирование для начинающих"},{"id":"55","title":"Компьютерная азбука"}],"Психология и педагогика":[{"id":"60","title":"Практическая психология"},{"id":"61","title":"Скоростное чтение и запоминание"},{"id":"62","title":"Воспитание ребенка (от 0 до 5 лет)"},{"id":"63","title":"Готовим ребенка к школе"}],"Красота и здоровье":[{"id":"65","title":"Мастер маникюра и педикюра"},{"id":"66","title":"Визажист-стилист"},{"id":"67","title":"Современная косметология"},{"id":"68","title":"Парикмахерское искусство"},{"id":"69","title":"Секреты современной кухни"},{"id":"73","title":"Массаж"},{"id":"173","title":"Цифровой курс Йога"},{"id":"174","title":"Цифровой курс Фитнес и здоровье"}]},"init":{"course":null},"online":false,"postBack":true};
+    </script>
+
+<form novalidate name="tlForm" class="small-order-form" data-ng-submit="submit()" data-ng-cloack data-ng-controller="TlFormCtrl">
+    <div class="form-landing">
+
+        
+
+        <div class="form-border">
+            <div class="frame">
+                <div class="common-form__row common-form__header">
+                    <!--<div class="title-form">-->
+                        <!--<div class="form-top-text">-->
+                            <!--Скачайте пробный урок любого курса и выиграйте <span>скидку 99%</span> на обучение!*-->
+                        <!--</div>-->
+                    <!--</div>-->
+                </div>
+                <div class="land-form">
+                    <div class="form-fields">
+
+                            <img class="common-form--preloader ng-hide" src="/assets/img/preloader.svg" data-ng-show="isLoading" alt="Загрузка">
+
+                            <div class="container-fluid form-free-trial-lesson" data-ng-class="{'common-form--blur': isLoading}">
+
+                                <div class="row common-form__col-spaced">
+                                    <select class="select-region" data-ng-model="fields.region" data-region data-required data-defnone="Выберите ваш регион">
+                                    </select>
+                                </div>
+
+                                <div class="row">
+                                    <select class="select-course" data-ng-model="fields.course" data-courses="form.courses" data-defnone="Выберите курс" data-required>
+                                    </select>
+                                </div>
+
+                                <div class="row">
+                                    <input type="email" name="email" data-ng-model="fields.email" required placeholder="Введите Ваш e-mail" maxlength="128">
+                                </div>
+
+                                <div class="row">
+                                    <input type="text" data-ng-model="fields.name" name="name" required placeholder="Введите Ваше имя" maxlength="32">
+                                </div>
+
+                                <div class="row">
+                                    <input type="text" data-ng-model="fields.phone" name="phone" data-phone required data-ng-minlength="10" data-ng-maxlength="18" maxlength="18" placeholder="Введите Ваш Телефон">
+                                </div>
+
+                                <div class="row common-form__col-spaced btn-form">
+                                    <div class="g-recaptcha" data-sitekey="6Lfk9NIZAAAAAE4gMYxp6P5v-dfoTrb3oy-qCJgK"></div>
+                                </div>
+
+                                <div class="row common-form__col-spaced btn-form">
+                                    <input
+                                        type="submit"
+                                        class="btn"
+                                        value="Скачать бесплатно"
+                                        data-popover
+                                        data-popover-class-modifier="order-validation"
+                                        data-popover-trigger="submitErrorEvent"
+                                        data-popover-hide-trigger="submitStartedEvent"
+                                        data-popover-delay="3000"
+                                        data-popover-expression="submitErrors()"
+                                    >
+                                </div>
+                            </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="checkbox" data-ng-class="groupValidationClass('agree')">
+            <input type="checkbox" data-ng-model="fields.agree" name="agree" required>
+            <label>
+                Даю <a href="/assets/static/files/docs/info/polozhenie_o_zashchite_personalnykh_dannykh_rabotnikov_sotrudnikov_obuchayushchikhsya_zakazchikov_i_postupayushchikh_v_chou_do_eshko.pdf" target="_blank">согласие</a> на обработку, хранение, использование моих персональных данных ЧОУ ДО «ЕШКО»,
+                указанных в Заявке на бесплатный пробный урок, в целях заключения и исполнения <a href="/assets/static/files/docs/info/dogovor_na_okazanie_besplatnykh_informatsionnykh_uslug.pdf" target="_blank">Договора</a>
+                на оказание бесплатных информационных услуг. Настоящее согласие может быть в любое время мной отозвано.
+            </label>
+
+        </div>
+
+        
+        <input type='hidden' id='urlParameters' name='urlParameters' value='{&quot;slug&quot;:&quot;skachat-probnyj-urok&quot;}' />
+    </div>
+</form>
+
+                        </div>
+                        <div class="footnote">
+                            <p>*Победителем становится 1000-й участник конкурса, скачавший бесплатный пробный урок курсов ЕШКО. <a href="/assets/static/files/docs/info/regulations/pravila_provedeniya_reklamnoy_aktsii_99_skidka_15-02-2021.pdf">Условия акции</a>.</p>
+                        </div>
+                    </div>
+                </div>
+            </section>
+                    </div>
+
+        <div id="leader-courses" class="body-wrap">
+
+                                                                                                                                                                                                                                                                                                                                                                                    
+            <div class="courses-leaders-slogan">
+                <p>УЗНАЙТЕ, КАК ЛЕГКО, ЭФФЕКТИВНО И КОМФОРТНО УЧИТЬСЯ В ЕШКО!</p>
+            </div>
+
+                        
+                <section class="container-fluid courses-leaders" id="courses-leaders">
+                    <div class="container">
+                        <div class="courses-leaders-wrap">
+
+                            <h1>Курсы-лидеры</h1>
+
+                                                            
+                                                                    <div class="courses-line">
+                                
+                                <div class="col-md-3 col-sm-6 col-xs-12">
+                                    <div class="course-leader-block">
+                                        <div class="courses-leaders-item course-color-1">
+                                            <span class="courses-leaders-title">Английский для начинающих extra</span>
+                                            <div class="cl-img">
+                                                <img src="/assets/static/img/landings/season/20210216/courses-leaders/course-leader-1.png" alt="Английский для начинающих extra">
+                                            </div>
+                                            <div class="btn-lead">
+                                                <a class="courses-leaders-btn course-click smooth-scroll" data-course-id="1" href="#form">
+                                                    Скачать бесплатно
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                
+                                                            
+                                
+                                <div class="col-md-3 col-sm-6 col-xs-12">
+                                    <div class="course-leader-block">
+                                        <div class="courses-leaders-item course-color-2">
+                                            <span class="courses-leaders-title">Японский для начинающих</span>
+                                            <div class="cl-img">
+                                                <img src="/assets/static/img/landings/season/20210216/courses-leaders/course-leader-23.png" alt="Японский для начинающих">
+                                            </div>
+                                            <div class="btn-lead">
+                                                <a class="courses-leaders-btn course-click smooth-scroll" data-course-id="23" href="#form">
+                                                    Скачать бесплатно
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                
+                                                            
+                                
+                                <div class="col-md-3 col-sm-6 col-xs-12">
+                                    <div class="course-leader-block">
+                                        <div class="courses-leaders-item course-color-3">
+                                            <span class="courses-leaders-title">Китайский для начинающих</span>
+                                            <div class="cl-img">
+                                                <img src="/assets/static/img/landings/season/20210216/courses-leaders/course-leader-24.png" alt="Китайский для начинающих">
+                                            </div>
+                                            <div class="btn-lead">
+                                                <a class="courses-leaders-btn course-click smooth-scroll" data-course-id="24" href="#form">
+                                                    Скачать бесплатно
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                
+                                                            
+                                
+                                <div class="col-md-3 col-sm-6 col-xs-12">
+                                    <div class="course-leader-block">
+                                        <div class="courses-leaders-item course-color-4">
+                                            <span class="courses-leaders-title">Итальянский для начинающих</span>
+                                            <div class="cl-img">
+                                                <img src="/assets/static/img/landings/season/20210216/courses-leaders/course-leader-17.png" alt="Итальянский для начинающих">
+                                            </div>
+                                            <div class="btn-lead">
+                                                <a class="courses-leaders-btn course-click smooth-scroll" data-course-id="17" href="#form">
+                                                    Скачать бесплатно
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                                                    </div>
+                                
+                                                            
+                                                                    <div class="courses-line">
+                                
+                                <div class="col-md-3 col-sm-6 col-xs-12">
+                                    <div class="course-leader-block">
+                                        <div class="courses-leaders-item course-color-5">
+                                            <span class="courses-leaders-title">Практическая психология</span>
+                                            <div class="cl-img">
+                                                <img src="/assets/static/img/landings/season/20210216/courses-leaders/course-leader-60.png" alt="Практическая психология">
+                                            </div>
+                                            <div class="btn-lead">
+                                                <a class="courses-leaders-btn course-click smooth-scroll" data-course-id="60" href="#form">
+                                                    Скачать бесплатно
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                
+                                                            
+                                
+                                <div class="col-md-3 col-sm-6 col-xs-12">
+                                    <div class="course-leader-block">
+                                        <div class="courses-leaders-item course-color-6">
+                                            <span class="courses-leaders-title">Дизайн и оформление интерьера</span>
+                                            <div class="cl-img">
+                                                <img src="/assets/static/img/landings/season/20210216/courses-leaders/course-leader-45.png" alt="Дизайн и оформление интерьера">
+                                            </div>
+                                            <div class="btn-lead">
+                                                <a class="courses-leaders-btn course-click smooth-scroll" data-course-id="45" href="#form">
+                                                    Скачать бесплатно
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                
+                                                            
+                                
+                                <div class="col-md-3 col-sm-6 col-xs-12">
+                                    <div class="course-leader-block">
+                                        <div class="courses-leaders-item course-color-7">
+                                            <span class="courses-leaders-title">Массаж</span>
+                                            <div class="cl-img">
+                                                <img src="/assets/static/img/landings/season/20210216/courses-leaders/course-leader-73.png" alt="Массаж">
+                                            </div>
+                                            <div class="btn-lead">
+                                                <a class="courses-leaders-btn course-click smooth-scroll" data-course-id="73" href="#form">
+                                                    Скачать бесплатно
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                
+                                                            
+                                
+                                <div class="col-md-3 col-sm-6 col-xs-12">
+                                    <div class="course-leader-block">
+                                        <div class="courses-leaders-item course-color-8">
+                                            <span class="courses-leaders-title">Основы бухгалтерского учета</span>
+                                            <div class="cl-img">
+                                                <img src="/assets/static/img/landings/season/20210216/courses-leaders/course-leader-27.png" alt="Основы бухгалтерского учета">
+                                            </div>
+                                            <div class="btn-lead">
+                                                <a class="courses-leaders-btn course-click smooth-scroll" data-course-id="27" href="#form">
+                                                    Скачать бесплатно
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                                                    </div>
+                                
+                                                            
+                                                                    <div class="courses-line">
+                                
+                                <div class="col-md-3 col-sm-6 col-xs-12">
+                                    <div class="course-leader-block">
+                                        <div class="courses-leaders-item course-color-9">
+                                            <span class="courses-leaders-title">Искусство фотографии</span>
+                                            <div class="cl-img">
+                                                <img src="/assets/static/img/landings/season/20210216/courses-leaders/course-leader-51.png" alt="Искусство фотографии">
+                                            </div>
+                                            <div class="btn-lead">
+                                                <a class="courses-leaders-btn course-click smooth-scroll" data-course-id="51" href="#form">
+                                                    Скачать бесплатно
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                
+                                                            
+                                
+                                <div class="col-md-3 col-sm-6 col-xs-12">
+                                    <div class="course-leader-block">
+                                        <div class="courses-leaders-item course-color-10">
+                                            <span class="courses-leaders-title">Курс кройки и шитья</span>
+                                            <div class="cl-img">
+                                                <img src="/assets/static/img/landings/season/20210216/courses-leaders/course-leader-50.png" alt="Курс кройки и шитья">
+                                            </div>
+                                            <div class="btn-lead">
+                                                <a class="courses-leaders-btn course-click smooth-scroll" data-course-id="50" href="#form">
+                                                    Скачать бесплатно
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                
+                                                            
+                                
+                                <div class="col-md-3 col-sm-6 col-xs-12">
+                                    <div class="course-leader-block">
+                                        <div class="courses-leaders-item course-color-11">
+                                            <span class="courses-leaders-title">Рисование и живопись</span>
+                                            <div class="cl-img">
+                                                <img src="/assets/static/img/landings/season/20210216/courses-leaders/course-leader-52.png" alt="Рисование и живопись">
+                                            </div>
+                                            <div class="btn-lead">
+                                                <a class="courses-leaders-btn course-click smooth-scroll" data-course-id="52" href="#form">
+                                                    Скачать бесплатно
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                
+                                                            
+                                
+                                <div class="col-md-3 col-sm-6 col-xs-12">
+                                    <div class="course-leader-block">
+                                        <div class="courses-leaders-item course-color-12">
+                                            <span class="courses-leaders-title">Садово-парковый дизайн</span>
+                                            <div class="cl-img">
+                                                <img src="/assets/static/img/landings/season/20210216/courses-leaders/course-leader-48.png" alt="Садово-парковый дизайн">
+                                            </div>
+                                            <div class="btn-lead">
+                                                <a class="courses-leaders-btn course-click smooth-scroll" data-course-id="48" href="#form">
+                                                    Скачать бесплатно
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                                                    </div>
+                                
+                                                            
+                                                                    <div class="courses-line">
+                                
+                                <div class="col-md-3 col-sm-6 col-xs-12">
+                                    <div class="course-leader-block">
+                                        <div class="courses-leaders-item course-color-13">
+                                            <span class="courses-leaders-title">Турецкий для начинающих</span>
+                                            <div class="cl-img">
+                                                <img src="/assets/static/img/landings/season/20210216/courses-leaders/course-leader-26.png" alt="Турецкий для начинающих">
+                                            </div>
+                                            <div class="btn-lead">
+                                                <a class="courses-leaders-btn course-click smooth-scroll" data-course-id="26" href="#form">
+                                                    Скачать бесплатно
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                
+                                                            
+                                
+                                <div class="col-md-3 col-sm-6 col-xs-12">
+                                    <div class="course-leader-block">
+                                        <div class="courses-leaders-item course-color-14">
+                                            <span class="courses-leaders-title">Английский для детей (новый)</span>
+                                            <div class="cl-img">
+                                                <img src="/assets/static/img/landings/season/20210216/courses-leaders/course-leader-80.png" alt="Английский для детей (новый)">
+                                            </div>
+                                            <div class="btn-lead">
+                                                <a class="courses-leaders-btn course-click smooth-scroll" data-course-id="80" href="#form">
+                                                    Скачать бесплатно
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                
+                                                            
+                                
+                                <div class="col-md-3 col-sm-6 col-xs-12">
+                                    <div class="course-leader-block">
+                                        <div class="courses-leaders-item course-color-15">
+                                            <span class="courses-leaders-title">Программирование для начинающих</span>
+                                            <div class="cl-img">
+                                                <img src="/assets/static/img/landings/season/20210216/courses-leaders/course-leader-58.png" alt="Программирование для начинающих">
+                                            </div>
+                                            <div class="btn-lead">
+                                                <a class="courses-leaders-btn course-click smooth-scroll" data-course-id="58" href="#form">
+                                                    Скачать бесплатно
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                
+                                                            
+                                
+                                <div class="col-md-3 col-sm-6 col-xs-12">
+                                    <div class="course-leader-block">
+                                        <div class="courses-leaders-item course-color-16">
+                                            <span class="courses-leaders-title">Мастер маникюра и педикюра</span>
+                                            <div class="cl-img">
+                                                <img src="/assets/static/img/landings/season/20210216/courses-leaders/course-leader-65.png" alt="Мастер маникюра и педикюра">
+                                            </div>
+                                            <div class="btn-lead">
+                                                <a class="courses-leaders-btn course-click smooth-scroll" data-course-id="65" href="#form">
+                                                    Скачать бесплатно
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                                                    </div>
+                                
+                            
+                                                            <div class="clearfix"></div>
+                            
+                        </div>
+                    </div>
+                </section>
+
+                        
+                        <section class="container-fluid group-courses" id="group-courses">
+                <div class="container p-0">
+                    <div class="group-courses-wrap">
+
+                        <div class="group-courses-title">
+                            <h1>Группы курсов</h1>
+                        </div>
+
+                        
+                            <div class="col-md-4 col-sm-4 col-xs-12 mb-3 p-0">
+                                <div class="group-course-block">
+                                    <a href="#course_list" onclick="showLandModal('language')" data-toggle="modal">
+                                        <div class="group-courses-item">
+                                            <div class="group-img col-xl-5 col-lg-5 col-md-5 col-sm-5">
+                                                <img src="/assets/static/img/landings/season/20210216/ico/group-courses-1.png" alt="Языковые курсы">
+                                            </div>
+                                            <div class="group-title col-xl-7 col-lg-7 col-md-7 col-sm-7">
+                                                <span>Языковые курсы</span>
+                                            </div>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+
+                            
+                        
+                            <div class="col-md-4 col-sm-4 col-xs-12 mb-3 p-0">
+                                <div class="group-course-block">
+                                    <a href="#course_list" onclick="showLandModal('finance')" data-toggle="modal">
+                                        <div class="group-courses-item">
+                                            <div class="group-img col-xl-5 col-lg-5 col-md-5 col-sm-5">
+                                                <img src="/assets/static/img/landings/season/20210216/ico/group-courses-2.png" alt="Финансы">
+                                            </div>
+                                            <div class="group-title col-xl-7 col-lg-7 col-md-7 col-sm-7">
+                                                <span>Финансы</span>
+                                            </div>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+
+                            
+                        
+                            <div class="col-md-4 col-sm-4 col-xs-12 mb-3 p-0">
+                                <div class="group-course-block">
+                                    <a href="#course_list" onclick="showLandModal('business')" data-toggle="modal">
+                                        <div class="group-courses-item">
+                                            <div class="group-img col-xl-5 col-lg-5 col-md-5 col-sm-5">
+                                                <img src="/assets/static/img/landings/season/20210216/ico/group-courses-3.png" alt="Бизнес">
+                                            </div>
+                                            <div class="group-title col-xl-7 col-lg-7 col-md-7 col-sm-7">
+                                                <span>Бизнес</span>
+                                            </div>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+
+                                                            <div class="clearfix"></div>
+                            
+                        
+                            <div class="col-md-4 col-sm-4 col-xs-12 mb-3 p-0">
+                                <div class="group-course-block">
+                                    <a href="#course_list" onclick="showLandModal('marketing')" data-toggle="modal">
+                                        <div class="group-courses-item">
+                                            <div class="group-img col-xl-5 col-lg-5 col-md-5 col-sm-5">
+                                                <img src="/assets/static/img/landings/season/20210216/ico/group-courses-4.png" alt="Маркетинг и PR">
+                                            </div>
+                                            <div class="group-title col-xl-7 col-lg-7 col-md-7 col-sm-7">
+                                                <span>Маркетинг и PR</span>
+                                            </div>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+
+                            
+                        
+                            <div class="col-md-4 col-sm-4 col-xs-12 mb-3 p-0">
+                                <div class="group-course-block">
+                                    <a href="#course_list" onclick="showLandModal('office')" data-toggle="modal">
+                                        <div class="group-courses-item">
+                                            <div class="group-img col-xl-5 col-lg-5 col-md-5 col-sm-5">
+                                                <img src="/assets/static/img/landings/season/20210216/ico/group-courses-5.png" alt="Офис менеджмент">
+                                            </div>
+                                            <div class="group-title col-xl-7 col-lg-7 col-md-7 col-sm-7">
+                                                <span>Офис менеджмент</span>
+                                            </div>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+
+                            
+                        
+                            <div class="col-md-4 col-sm-4 col-xs-12 mb-3 p-0">
+                                <div class="group-course-block">
+                                    <a href="#course_list" onclick="showLandModal('design')" data-toggle="modal">
+                                        <div class="group-courses-item">
+                                            <div class="group-img col-xl-5 col-lg-5 col-md-5 col-sm-5">
+                                                <img src="/assets/static/img/landings/season/20210216/ico/group-courses-6.png" alt="Искусство и дизайн">
+                                            </div>
+                                            <div class="group-title col-xl-7 col-lg-7 col-md-7 col-sm-7">
+                                                <span>Искусство и дизайн</span>
+                                            </div>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+
+                                                            <div class="clearfix"></div>
+                            
+                        
+                            <div class="col-md-4 col-sm-4 col-xs-12 mb-3 p-0">
+                                <div class="group-course-block">
+                                    <a href="#course_list" onclick="showLandModal('computer')" data-toggle="modal">
+                                        <div class="group-courses-item">
+                                            <div class="group-img col-xl-5 col-lg-5 col-md-5 col-sm-5">
+                                                <img src="/assets/static/img/landings/season/20210216/ico/group-courses-7.png" alt="Компьютерные курсы">
+                                            </div>
+                                            <div class="group-title col-xl-7 col-lg-7 col-md-7 col-sm-7">
+                                                <span>Компьютерные курсы</span>
+                                            </div>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+
+                            
+                        
+                            <div class="col-md-4 col-sm-4 col-xs-12 mb-3 p-0">
+                                <div class="group-course-block">
+                                    <a href="#course_list" onclick="showLandModal('psychology')" data-toggle="modal">
+                                        <div class="group-courses-item">
+                                            <div class="group-img col-xl-5 col-lg-5 col-md-5 col-sm-5">
+                                                <img src="/assets/static/img/landings/season/20210216/ico/group-courses-8.png" alt="Психология и педагогика">
+                                            </div>
+                                            <div class="group-title col-xl-7 col-lg-7 col-md-7 col-sm-7">
+                                                <span>Психология и педагогика</span>
+                                            </div>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+
+                            
+                        
+                            <div class="col-md-4 col-sm-4 col-xs-12 mb-3 p-0">
+                                <div class="group-course-block">
+                                    <a href="#course_list" onclick="showLandModal('beauty')" data-toggle="modal">
+                                        <div class="group-courses-item">
+                                            <div class="group-img col-xl-5 col-lg-5 col-md-5 col-sm-5">
+                                                <img src="/assets/static/img/landings/season/20210216/ico/group-courses-9.png" alt="Красота и здоровье">
+                                            </div>
+                                            <div class="group-title col-xl-7 col-lg-7 col-md-7 col-sm-7">
+                                                <span>Красота и здоровье</span>
+                                            </div>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+
+                                                            <div class="clearfix"></div>
+                            
+                        
+                    </div>
+                </div>
+            </section>
+            
+                        <section class="container-fluid advantages" id="advantages">
+                <div class="container">
+
+                    <div class="advantage-landing-title">
+                        <h1>Наши преимущества</h1>
+                    </div>
+
+                    <div class="row">
+                                                    <div class="col-md-4 col-sm-4 col-xs-12">
+                                <div class="advantage-block">
+                                    <div class="advantage-img">
+                                        <img src="/assets/static/img/landings/season/20210216/advantages/advantage-1.png" alt="Уникальная методика">
+                                    </div>
+                                    <div class="advantage-title">
+                                        <h3 class="text">Уникальная методика</h3>
+                                    </div>
+                                    <div class="line"></div>
+                                    <div class="advantage-text">
+                                        <p class="text">Удобная структура курсов, в основе которых лежит постепенное накопление знаний от простого к сложному, не требует специальных навыков и подготовки.</p>
+                                    </div>
+                                </div>
+                            </div>
+                                                    <div class="col-md-4 col-sm-4 col-xs-12">
+                                <div class="advantage-block">
+                                    <div class="advantage-img">
+                                        <img src="/assets/static/img/landings/season/20210216/advantages/advantage-2.png" alt="Индивидуальный график занятий">
+                                    </div>
+                                    <div class="advantage-title">
+                                        <h3 class="text">Индивидуальный график занятий</h3>
+                                    </div>
+                                    <div class="line"></div>
+                                    <div class="advantage-text">
+                                        <p class="text">Возможность заниматься онлайн или оффлайн 24/7. Вы сами выбираете место, время, темп и способ обучения!</p>
+                                    </div>
+                                </div>
+                            </div>
+                                                    <div class="col-md-4 col-sm-4 col-xs-12">
+                                <div class="advantage-block">
+                                    <div class="advantage-img">
+                                        <img src="/assets/static/img/landings/season/20210216/advantages/advantage-3.png" alt="Всего 30 минут в день">
+                                    </div>
+                                    <div class="advantage-title">
+                                        <h3 class="text">Всего 30 минут в день</h3>
+                                    </div>
+                                    <div class="line"></div>
+                                    <div class="advantage-text">
+                                        <p class="text">Регулярные занятия по 30 минут в день гарантируют качественное усвоение учебного материала и достижение высоких результатов.</p>
+                                    </div>
+                                </div>
+                            </div>
+                                                    <div class="col-md-4 col-sm-4 col-xs-12">
+                                <div class="advantage-block">
+                                    <div class="advantage-img">
+                                        <img src="/assets/static/img/landings/season/20210216/advantages/advantage-4.png" alt="Личный преподаватель">
+                                    </div>
+                                    <div class="advantage-title">
+                                        <h3 class="text">Личный преподаватель</h3>
+                                    </div>
+                                    <div class="line"></div>
+                                    <div class="advantage-text">
+                                        <p class="text">Онлайн-консультации, рекомендации по выполнению домашнего задания и помощь личного преподавателя во время обучения.</p>
+                                    </div>
+                                </div>
+                            </div>
+                                                    <div class="col-md-4 col-sm-4 col-xs-12">
+                                <div class="advantage-block">
+                                    <div class="advantage-img">
+                                        <img src="/assets/static/img/landings/season/20210216/advantages/advantage-5.png" alt="Домашние уроки онлайн">
+                                    </div>
+                                    <div class="advantage-title">
+                                        <h3 class="text">Домашние уроки онлайн</h3>
+                                    </div>
+                                    <div class="line"></div>
+                                    <div class="advantage-text">
+                                        <p class="text">Дополнительные вебинары по курсам с подробной разборкой сложных тем для эффективного закрепления полученных знаний.</p>
+                                    </div>
+                                </div>
+                            </div>
+                                                    <div class="col-md-4 col-sm-4 col-xs-12">
+                                <div class="advantage-block">
+                                    <div class="advantage-img">
+                                        <img src="/assets/static/img/landings/season/20210216/advantages/advantage-6.png" alt="Европейское качество">
+                                    </div>
+                                    <div class="advantage-title">
+                                        <h3 class="text">Европейское качество</h3>
+                                    </div>
+                                    <div class="line"></div>
+                                    <div class="advantage-text">
+                                        <p class="text">734 675 студентов уже получили Свидетельство ЕШКО и с успехом добились своих целей! 26 лет помогаем осуществить мечты при помощи знаний!</p>
+                                    </div>
+                                </div>
+                            </div>
+                                            </div>
+
+                </div>
+            </section>
+            
+                        <section id="teacher" class="teacher">
+                <div class="container">
+                    <div class="title">
+                        <h1>ЛИЧНЫЙ ПРЕПОДАВАТЕЛЬ</h1>
+                    </div>
+
+                    <div class="lp-item">
+                                                    <div class="line-res">
+                                <img src="/assets/static/img/landings/season/20210216/ico/help.png" alt="Поможет">
+                                <div class="lp-text">
+                                    Поможет
+                                </div>
+                            </div>
+                                                    <div class="line-res">
+                                <img src="/assets/static/img/landings/season/20210216/ico/brain.png" alt="Объяснит">
+                                <div class="lp-text">
+                                    Объяснит
+                                </div>
+                            </div>
+                                                    <div class="line-res">
+                                <img src="/assets/static/img/landings/season/20210216/ico/check.png" alt="Проверит">
+                                <div class="lp-text">
+                                    Проверит
+                                </div>
+                            </div>
+                                                    <div class="line-res">
+                                <img src="/assets/static/img/landings/season/20210216/ico/motivation.png" alt="Замотивирует">
+                                <div class="lp-text">
+                                    Замотивирует
+                                </div>
+                            </div>
+                                            </div>
+
+                    <div class="text">
+                        <p>Это здорово, когда в любой момент есть к кому обратиться за помощью! Наши преподаватели – высококвалифицированные специалисты
+                            и энтузиасты своего дела – дадут полезные советы и рекомендации, оценят Ваши успехи и помогут
+                            поверить в себя! Вплоть до окончания курса Вы будете в надежных руках профессионалов! </p>
+                    </div>
+                </div>
+            </section>
+            
+                        <section id="certificate" class="certificate">
+                <div class="container">
+                    <div class="title">
+                        <h2>Подтвержденное Европейское качество —<br><span class="text-red">Свидетельство ЕШКО</span></h2>
+                    </div>
+                    <div class="col-md-6 col-sm-12 c-block">
+                        <div class="block-info">
+                            <div class="text">
+                                <p>Окончив наши курсы, Вы получите сразу ДВА Свидетельства ЕШКО: на русском и английском языках от нашего европейского учредителя.<br><br>
+                                    Свидетельство ЕШКО станет Вашим преимуществом на рынке труда как в родной стране, так и за рубежом!</p>
+                            </div>
+                            <div class="certificate-btn">
+                                <a href="#form" class="course-click smooth-scroll" data-course-id="1">
+                                    <div class="main-btn">
+                                        Скачать пробный урок бесплатно
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 hidden-sm c-block">
+                        <div class="block-img">
+                            <img src="/assets/static/img/landings/season/20210216/certificate.png" alt="ЕШКО сертификат">
+                        </div>
+                    </div>
+                </div>
+            </section>
+            
+                        <section class="container-fluid feedbacks" id="feedbacks">
+                <div class="container">
+                    <div class="reviews-title">
+                        <h1>Отзывы наших студентов</h1>
+                    </div>
+                    <div class="row feedback">
+                                                                                <div class="col-md-6 col-xl-12">
+                                <div class="feedback-block">
+                                    <div class="block">
+                                        <div class="fb-img">
+                                            <div class="img">
+                                                <img src="/assets/static/img/landings/season/20210216/ico/1.png" alt="Татьяна Котова">
+                                            </div>
+                                        </div>
+                                        <div class="fb-text">
+                                            <div class="text">
+                                                <p>Находясь в декретном отпуске очень сложно оставаться в работоспособной форме. Но как активный пользователь интернета, я решила начать свою карьеру именно на этом поприще. Куча информации, которая на меня свалилась с интерактивных уроков, меня совершенно запутала. Я недолго думала и записалась на курс ЕШКО &quot;WEB-дизайн&quot;. Систематизированная и понятная информация помогает осваивать мне новую профессию.</p>
+                                            </div>
+                                            <div class="info">
+                                                <b class="name">Татьяна Котова,</b>
+                                                <p class="course">курс &quot;WEB-дизайн&quot;</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                                                                                <div class="col-md-6 col-xl-12">
+                                <div class="feedback-block">
+                                    <div class="block">
+                                        <div class="fb-img">
+                                            <div class="img">
+                                                <img src="/assets/static/img/landings/season/20210216/ico/2.png" alt="Иванова Марина">
+                                            </div>
+                                        </div>
+                                        <div class="fb-text">
+                                            <div class="text">
+                                                <p>Уникальная методика Школы позволила мне самостоятельно (без помощи родителей) пройти курс и неплохо выучить язык. И что гораздо важнее, пробудить к нему активный интерес и расширить кругозор. Сейчас мне 22 года, и я работаю над диссертацией в университете г. Окленд, Новая Зеландия. Мне повезло, что на жизненном пути я повстречала ЕШКО. Большое спасибо!</p>
+                                            </div>
+                                            <div class="info">
+                                                <b class="name">Иванова Марина,</b>
+                                                <p class="course">курс &quot;Английский для начинающих&quot;</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                                                                                <div class="col-md-6 col-xl-12">
+                                <div class="feedback-block">
+                                    <div class="block">
+                                        <div class="fb-img">
+                                            <div class="img">
+                                                <img src="/assets/static/img/landings/season/20210216/ico/3.png" alt="Денисова Ольга">
+                                            </div>
+                                        </div>
+                                        <div class="fb-text">
+                                            <div class="text">
+                                                <p>Недавно я была в Милане и с удовольствием отметила, что могу понимать итальянскую речь на слух и даже участвовать в разговоре. Не знаю, как бы я начала учить итальянский язык без помощи ЕШКО, и уж, конечно, помощи личного преподавателя. Огромное Вам спасибо, ведь мои успехи - это ваши успехи!</p>
+                                            </div>
+                                            <div class="info">
+                                                <b class="name">Денисова Ольга,</b>
+                                                <p class="course">курс &quot;Итальянский для начинающих&quot;</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                                                                                <div class="col-md-6 col-xl-12">
+                                <div class="feedback-block">
+                                    <div class="block">
+                                        <div class="fb-img">
+                                            <div class="img">
+                                                <img src="/assets/static/img/landings/season/20210216/ico/4.png" alt="Зарецкая Зоя">
+                                            </div>
+                                        </div>
+                                        <div class="fb-text">
+                                            <div class="text">
+                                                <p>Вы даже не представляете, как помогают ваши курсы! Закончив обучение на курсе &quot;Как начать собственное дело&quot;, я смогла открыть ателье по пошиву и ремонту одежды. Спасибо авторам и преподавателям этого замечательного курса! Написано все просто, ясно, учишься, словно читаешь художественную литературу - очень интересно и увлекательно. А главное это очень помогает мне в работе!</p>
+                                            </div>
+                                            <div class="info">
+                                                <b class="name">Зарецкая Зоя,</b>
+                                                <p class="course">курс &quot;Как начать собственное дело&quot;</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                                                                                <div class="col-md-6 col-xl-12">
+                                <div class="feedback-block">
+                                    <div class="block">
+                                        <div class="fb-img">
+                                            <div class="img">
+                                                <img src="/assets/static/img/landings/season/20210216/ico/5.png" alt="Соколов Андрей">
+                                            </div>
+                                        </div>
+                                        <div class="fb-text">
+                                            <div class="text">
+                                                <p>Прежде всего, хочу сказать большое спасибо Школе и моему преподавателю за те знания, что вы даете! Я работаю в организации, где значительная часть клиентов - американцы. Мое обучение на курсе еще не закончено, но я уже использую полученные в ЕШКО знания и навыки, да так, что руководство увеличило зарплату! :-) Не хочу останавливаться, и скорее всего, продолжу обучение английскому языку у вас на следующем уровне. Спасибо!</p>
+                                            </div>
+                                            <div class="info">
+                                                <b class="name">Соколов Андрей,</b>
+                                                <p class="course">курс &quot;Английский для начинающих&quot;</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                                                                                <div class="col-md-6 col-xl-12">
+                                <div class="feedback-block">
+                                    <div class="block">
+                                        <div class="fb-img">
+                                            <div class="img">
+                                                <img src="/assets/static/img/landings/season/20210216/ico/6.png" alt="Голубцова Елена">
+                                            </div>
+                                        </div>
+                                        <div class="fb-text">
+                                            <div class="text">
+                                                <p>Мне уже 46 лет и я не думала, что когда-либо буду что-то учить. Но я очень рада, что все-таки решилась на учебу в вашей Школе. Мне очень нравится подача материала в уроках, а выполнять домашние задания одно удовольствие, особенно получать комментарии от преподавателя, который не только указывает на ошибки, но еще не забывает хвалить. С нетерпением жду следующих уроков!</p>
+                                            </div>
+                                            <div class="info">
+                                                <b class="name">Голубцова Елена,</b>
+                                                <p class="course">курс &quot;Немецкий для начинающих&quot;</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                                            </div>
+                </div>
+            </section>
+            
+                        <section class="container-fluid footer">
+                <div class="container">
+                    <nav>
+                        <div class="col-md-3 col-sm-5 col-xs-4 logo-block">
+                            <div class="logo bottom">
+                                <a href="/">
+                                    <img src="/assets/static/img/landings/season/20210216/logo.png" alt="ЕШКО-Россия">
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-md-4 landing-nav bottom-link">
+                            <ul>
+                                <li>
+                                    <a class="scroll" href="#group-courses">Галерея курсов</a>
+                                </li>
+                                <li>
+                                    <a href="#top" class="course-click smooth-scroll">Выбрать пробный урок</a>
+                                </li>
+                                <li>
+                                    <a href="/">Подробнее о Школе</a>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="col-md-5 col-sm-7 col-xs-8 cont-block">
+                            <div class="contact">
+                                <p>Мы в социальных сетях:</p>
+                            </div>
+                            <div class="landing-nav smooth-scroll">
+                                <ul class="ico-img">
+                                    <li class="list-inline">
+                                        <a href="https://ok.ru/esccru" class="smooth-scroll" rel="nofollow">
+                                            <img src="/assets/static/img/landings/season/20210216/ico/ok.png" title="Однокласники" alt="Однокласники">
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="http://vk.com/esccru" class="smooth-scroll" rel="nofollow">
+                                            <img src="/assets/static/img/landings/season/20210216/ico/vk.png" title="ВКонтакте" alt="ВКонтакте">
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="https://www.facebook.com/eshkoru/" class="smooth-scroll" rel="nofollow">
+                                            <img src="/assets/static/img/landings/season/20210216/ico/fb.png" title="Facebook" alt="Facebook">
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="https://www.instagram.com/escc_russia/" class="smooth-scroll" rel="nofollow">
+                                            <img src="/assets/static/img/landings/season/20210216/ico/ig.png" title="Instagram" alt="Instagram">
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </nav>
+                </div>
+            </section>
+            
+                        <!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+    (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+        m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+    (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+    ym(206895, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+    });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/206895" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+            
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-2427714-1"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-2427714-1');
+</script>
+<!-- /Google.Analytics counter -->
+            
+            
+<div class="modal fade" id="regionSelect" tabindex="-1" role="dialog" aria-labelledby="myModalLabel"
+     aria-hidden="false">
+    <div class="modal-dialog modal-lg" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Закрыть">
+                    <span aria-hidden="true">×</span>
+                </button>
+                <h4 class="modal-title" id="myModalLabel">Выбор региона</h4>
+            </div>
+            <div class="modal-body">
+                Выберите ближайший регион, в котором собираетесь получать товары.
+                <br>
+                От выбора зависит стоимость товаров и доставки.
+                <div class="des">
+                    <div class="row">
+                        <div class="col-md-4">
+                            <ul style="list-style: none;">
+                                                        <li><p>Алтайский край</p></li>
+                            
+                                                        <li><p>Амурская область</p></li>
+                            
+                                                        <li><p>Архангельская область</p></li>
+                            
+                                                        <li><p>Астраханская область</p></li>
+                            
+                                                        <li><p>Байконур</p></li>
+                            
+                                                        <li><p>Белгородская область</p></li>
+                            
+                                                        <li><p>Брянская область</p></li>
+                            
+                                                        <li><p>Владимирская область</p></li>
+                            
+                                                        <li><p>Волгоградская область</p></li>
+                            
+                                                        <li><p>Вологодская область</p></li>
+                            
+                                                        <li><p>Воронежская область</p></li>
+                            
+                                                        <li><p>Еврейская автономная область</p></li>
+                            
+                                                        <li><p>Забайкальский край</p></li>
+                            
+                                                        <li><p>Ивановская область</p></li>
+                            
+                                                        <li><p>Иркутская область</p></li>
+                            
+                                                        <li><p>Кабардино-Балкарская республика</p></li>
+                            
+                                                        <li><p>Калининградская область</p></li>
+                            
+                                                        <li><p>Калужская область</p></li>
+                            
+                                                        <li><p>Камчатский край</p></li>
+                            
+                                                        <li><p>Карачаево-Черкесская республика</p></li>
+                            
+                                                        <li><p>Кемеровская область</p></li>
+                            
+                                                        <li><p>Кировская область</p></li>
+                            
+                                                        <li><p>Костромская область</p></li>
+                            
+                                                        <li><p>Краснодарский край</p></li>
+                            
+                                                        <li><p>Красноярский край</p></li>
+                            
+                                                        <li><p>Курганская область</p></li>
+                            
+                                                        <li><p>Курская область</p></li>
+                            
+                                                        <li><p>Ленинградская область</p></li>
+                            
+                                                        <li><p>Липецкая область</p></li>
+                            
+                                                        <li><p>Магаданская область</p></li>
+                                                        </ul>
+                        </div>
+                        <div class="col-md-4">
+                            <ul style="list-style: none;">
+                            
+                                                        <li><p>Москва</p></li>
+                            
+                                                        <li><p>Московская область</p></li>
+                            
+                                                        <li><p>Мурманская область</p></li>
+                            
+                                                        <li><p>Нижегородская область</p></li>
+                            
+                                                        <li><p>Новгородская область</p></li>
+                            
+                                                        <li><p>Новосибирская область</p></li>
+                            
+                                                        <li><p>Омская область</p></li>
+                            
+                                                        <li><p>Оренбургская область</p></li>
+                            
+                                                        <li><p>Орловская область</p></li>
+                            
+                                                        <li><p>Пензенская область</p></li>
+                            
+                                                        <li><p>Пермский край</p></li>
+                            
+                                                        <li><p>Приморский край</p></li>
+                            
+                                                        <li><p>Псковская область</p></li>
+                            
+                                                        <li><p>Республика Адыгея</p></li>
+                            
+                                                        <li><p>Республика Алтай</p></li>
+                            
+                                                        <li><p>Республика Башкортостан</p></li>
+                            
+                                                        <li><p>Республика Бурятия</p></li>
+                            
+                                                        <li><p>Республика Дагестан</p></li>
+                            
+                                                        <li><p>Республика Ингушетия</p></li>
+                            
+                                                        <li><p>Республика Калмыкия</p></li>
+                            
+                                                        <li><p>Республика Карелия</p></li>
+                            
+                                                        <li><p>Республика Коми</p></li>
+                            
+                                                        <li><p>Республика Крым</p></li>
+                            
+                                                        <li><p>Республика Марий Эл</p></li>
+                            
+                                                        <li><p>Республика Мордовия</p></li>
+                            
+                                                        <li><p>Республика Саха (Якутия)</p></li>
+                            
+                                                        <li><p>Республика Северная Осетия — Алания</p></li>
+                            
+                                                        <li><p>Республика Татарстан</p></li>
+                            
+                                                        <li><p>Республика Тыва</p></li>
+                            
+                                                        <li><p>Республика Хакасия</p></li>
+                                                        </ul>
+                        </div>
+                        <div class="col-md-4">
+                            <ul style="list-style: none;">
+                            
+                                                        <li><p>Ростовская область</p></li>
+                            
+                                                        <li><p>Рязанская область</p></li>
+                            
+                                                        <li><p>Самарская область</p></li>
+                            
+                                                        <li><p>Санкт-Петербург</p></li>
+                            
+                                                        <li><p>Саратовская область</p></li>
+                            
+                                                        <li><p>Сахалинская область</p></li>
+                            
+                                                        <li><p>Свердловская область</p></li>
+                            
+                                                        <li><p>Смоленская область</p></li>
+                            
+                                                        <li><p>Ставропольский край</p></li>
+                            
+                                                        <li><p>Тамбовская область</p></li>
+                            
+                                                        <li><p>Тверская область</p></li>
+                            
+                                                        <li><p>Томская область</p></li>
+                            
+                                                        <li><p>Тульская область</p></li>
+                            
+                                                        <li><p>Тюменская область</p></li>
+                            
+                                                        <li><p>Удмуртская республика</p></li>
+                            
+                                                        <li><p>Ульяновская область</p></li>
+                            
+                                                        <li><p>Хабаровский край</p></li>
+                            
+                                                        <li><p>Челябинская область</p></li>
+                            
+                                                        <li><p>Чеченская республика</p></li>
+                            
+                                                        <li><p>Чувашская республика</p></li>
+                            
+                                                        <li><p>Чукотский автономный округ</p></li>
+                            
+                                                        <li><p>Ярославская область</p></li>
+                            
+                                                        </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Закрыть</button>
+            </div>
+        </div>
+    </div>
+</div>
+        </div>
+    </div>
+</div>
+<script src="//api-maps.yandex.ru/2.0-stable/?load=package.standard&lang=ru-RU"></script>
+<script src="/assets/js/pages/landing-page.js"></script>
+
+
+
+<script>
+    /* <![CDATA[ /
+     var google_conversion_id = 1061824795;
+     var google_custom_params = window.google_tag_params;
+     var google_remarketing_only = true;
+     / ]]> */
+</script>
+<script src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+    <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1061824795/?value=0&guid=ON&script=0"/>
+</noscript>
+<script src="/assets/js/angular.min.js"></script>
+<script src="/assets/js/angular-cookies.min.js"></script>
+<script src="/assets/js/jquery.min.js"></script>
+<script src="/assets/js/isMobile.min.js"></script>
+<script src="/assets/js/jquery.magnific-popup.min.js"></script>
+<script src="/assets/js/retina.min.js"></script>
+<script src="/assets/js/hammer.min.js"></script>
+<script src="/assets/js/bootstrap.min.js"></script>
+<script src="//www.google.com/recaptcha/api.js"></script>
+<script src="/assets/js/app.js?ver=1.0.55"></script>
+</body>
+</html>

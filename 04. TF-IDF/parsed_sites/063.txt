@@ -1,0 +1,268 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>�����.NET - ��������, �����, ��������� - ��� ��� ������� - ��� ���������</title>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+<meta name="description" content="��� ������� �����: ��������, �����, ��������� �� ���������!" />
+<meta name="keywords" content="��������, �����, ���������, �������, ��������, �����, ������������, �����������, ���������, ������������" />
+</head>
+<body topmargin=0 bottommargin=0 rightmargin=0 leftmargin=0 bgcolor=65b1ff>
+<div style="width: 100%;background-image: url(images/bg.png);background-repeat: repeat-x">
+<!-- HEADER -->
+<table width=100% cellspacing=0 cellpadding=0><tr><td height=25px colspan="4" width="1004"></td>
+</tr><tr>
+<td width=16px></td>
+<td width=258px><a href="http://www.uroki.net" title="��������� ������������ ����������� ����� ���������� �������� ������ �������� ����� ��������� ������ �� ����������� ���������� ������ ����� �������� ��������� ��� ��������� � ������ ��� ��������� ��� ��������� ������������ ������ ����� ������� ��� ���������� ���������� ������ ���������� ������ 1 �������� ������ ����"><img src="images/logo.png" width=258px height=81px alt="��������, ���������, ���������� ������ ��� �������� ����. �������������� �������, ������������ ������" border="0"></a></td>
+<td valign=top width="727">
+<p align="right">
+<!-- BANNER ������� ������ �������-->
+<script language='JavaScript' type='text/javascript' src='http://www.uroki.net/bp/adx.js'></script>
+<script language='JavaScript' type='text/javascript'>
+<!--
+   if (!document.phpAds_used) document.phpAds_used = ',';
+   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
+   
+   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
+   document.write ("http://www.uroki.net/bp/adjs.php?n=" + phpAds_random);
+   document.write ("&amp;what=zone:1");
+   document.write ("&amp;exclude=" + document.phpAds_used);
+   if (document.referrer)
+      document.write ("&amp;referer=" + escape(document.referrer));
+   document.write ("'><" + "/script>");
+//-->
+</script><noscript><a href='http://www.uroki.net/bp/adclick.php?n=a73038a8' target='_blank'><img src='http://uroki.net/bp/adview.php?what=zone:1&amp;n=a73038a8' border='0' alt=''></a></noscript>
+<!-- BANNER -->
+</td>
+<td width=16px></td>
+</tr></table>
+<!-- END HEADER -->
+<noindex><!--begin of Rambler's Top100 code --><a href="http://top100.rambler.ru/top100/" rel="nofollow" ><img src="http://counter.rambler.ru/top100.cnt?1113696" alt="" width=1 height=1 border=0></a><!--end of Top100 code--></noindex>
+<table width=100% cellspacing=0 cellpadding=0><tr><td height=8px colspan="5"></td>
+</tr><tr>
+<td width=16px rowspan="2"></td>
+<td width=182px rowspan="2" valign=top>
+<table width=100% cellpadding=0 cellspacing=0><tr>
+<td width=5px height=5px><img src="images/menug.png"></td>
+<td style="background-image:url(images/menu2.png);background-repeat:repeat-y;" width=177></td>
+</tr><tr>
+<td style="background-image:url(images/menu.png);background-repeat:repeat-y;" colspan="2" valign=middle><div style="margin-bottom:35px; margin-top:35px; margin-left:25px;">
+<!-- MENU -->
+<font face="Times New Roman"><font style="font-size: 21px"><a href="index.htm">�������<br></a>
+<a href="news.htm" title="������� ����� www.uroki.net">�������<br></a>
+<a href="doc.htm" title="��������� ������������ ����������� ����� ���������� �������� ������ ��������� ������ �� ����������� ���������� ������ ����� �������� ��������� �������� ����� � ���������� ����  ��� ��������� � ������ �� ������� � �������������� ������  ��� ��������� ��� ��������� ������������">���������<br></a>
+<a href="scenar.htm" title="�������� �������� � ����������� ����������� ������ ���������������� ����������� ��� ���������� ������ ���� ������� ���������� ������ ������ ���� ��� ��������� 23 ������� 8 �����  ��� ����������� �� ���������">��������<br></a>
+<a href="melodi.htm" title="������� ������� ����� ����� .mid .kar .midi ��� �������� ����������� ���������� ���������� ������ ���������� ������� ������ ������ ����">�������<br></a>
+<a href="soft.htm" title="���������� ��������� ��� ������������ ��������  ���������� ����������� ������������ ����� ������">����<br></a>
+<a href="send.htm" title="������ ���������� �����. ���������������!!!">������<br></a>
+<a href="kont.htm" title="���������� ������ ��� ����� � �������.">�������<br></a>
+<a href="http://www.uroki.net/gost/index.php" title="�������� ����� ������ �����. ���������� ����� ���� ���������.">��������<br></a>
+<a href="banners.htm" title="��������� ��������. ��� ������������� ���������� ����� - ���������� ������� � �������� ������ - �����������!!!">������������</a>
+</font></font>
+</div></td>
+</tr><tr>
+<!-- END MENU -->
+<td><img src="images/menugb.png"></td>
+<td style="background-image:url(images/menu2.png);background-repeat:repeat-y;"></td>
+</tr></table>
+<table width=100% cellpadding=0 cellspacing=0><tr>
+<td width=15px></td>
+<td bgcolor="#65B1FF" valign=top height=480px>
+<!-- BANNER ����� ������������ ������ �������-->
+<script language='JavaScript' type='text/javascript' src='http://www.uroki.net/bp/adx.js'></script>
+<script language='JavaScript' type='text/javascript'>
+<!--
+   if (!document.phpAds_used) document.phpAds_used = ',';
+   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
+   
+   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
+   document.write ("http://www.uroki.net/bp/adjs.php?n=" + phpAds_random);
+   document.write ("&amp;what=zone:2");
+   document.write ("&amp;exclude=" + document.phpAds_used);
+   if (document.referrer)
+      document.write ("&amp;referer=" + escape(document.referrer));
+   document.write ("'><" + "/script>");
+//-->
+</script><noscript><a href='http://www.uroki.net/bp/adclick.php?n=af300ff0' target='_blank'><img src='http://uroki.net/bp/adview.php?what=zone:2&amp;n=af300ff0' border='0' alt=''></a></noscript>
+<!-- BANNER -->
+&nbsp;</td>
+<td width=15px></td>
+</tr></table>
+</td>
+<td bgcolor=white rowspan="2" valign=top>
+<div style="margin-left:20px;margin-top:20px;">
+<!-- KONTENT -->
+<table width=100% cellpadding=0 cellspacing=0><tr>
+<td valign=top width="282">
+<div>
+<h2>�� ��������� ����� ����� �� ������� ��������� ����������: ��������� � ������������ ������������, �������� �����, �������� �������� ���������� ��� ���������� ������� ������, 1 ��������, ��� �������, �������� ����, ��� ������, ������ ����, ����������� ������, ��� ���������, 14 �������, 23 �������, 8 �����, ��� ������, 9 ���, ���������� ������, ���������� ������ (����), �������� ����, ������������ ����������, ��������� ������, �����������, ��������, ������������, ����������� ������ � ��������� ������ ���������� ��� �������� �����������, ����������, ����� � ��������, ������ � ����������, ���������, ���, �������� ����� � ����������, �������, ��������� ��������, ��������� �������, ����������� ����� � ����������, � ����� ��������� ��� ���������-�������������, �������� ����������, �������, �������� ������������� � ���������� ����, ������, ��������!<br><br></h2><h2>��� ���� - <b><u><font color="red">�Ѩ ���������!!!</font></u></b></h2>
+</div>
+</td><td width="2" bgcolor=c5c5c5>&nbsp;</td>
+<td rowspan="3" valign=top width="485">
+<div style="width:100%;padding-left:15px;padding-right:35px;">
+<div align="left">
+<p align="left" style="line-height:100%; margin-top:0; margin-bottom:0;">
+<font color="black"><script language="JavaScript"> d0 = new Date('December 16, 2006'); d1 = new Date();dt = (d1.getTime() - d0.getTime()) / (1000*60*60*24);document.write('<SMALL>');document.write('���� ���� �������� ��� <B>' + Math.round(dt) + '</B>-� ����.');document.write('</SMALL>');</script></font>
+</div></div>
+<div align="center"><address>
+<font color="black">� ����� �� ����� ������,</font></address><address>
+<font color="black">������ ���������� ������ �� ��� �����,</font></address><address>
+<font color="black">�� ����, ���� �� ��� ���������� ����,</font></address><address>
+<font color="black">������� -  ���� ������ ���!</font></address></div>
+<div style="width:100%;padding-left:15px;padding-right:35px;">
+<font color="black"><font color="black"><img src="images/ur.png" alt="��������, �����, ��������� ��� ������� �����, ���������, ������. ���������� ��������� ������� ������� ����� ����� .mid .kar"><br><br>
+����� ������� �����, �������� ������ ������� � ���������� �������� � ����������� ���������� � ������������� ������������, ��������� �������� ����������, � ���������� �������� ������ �� ������ �������� ���������, �������� �����. �� ���� ���� (� ������� ��� ��������), ��������� ������ ���������� ���������� �������� ��� ����������� ���������� ������, �������� �����, ��������� �������� ����������! ��� � �������� ���� ������� �������. � ������� �� ���� ����� ����� ����� ��������� ���������� ����������, ���������� ������, ����������, ������, �������� �����, <b>��������� ��� ���������� � �����</b>  � �������� ���������� �� ������ ��� ���������� ��������, �� � ��� ��������� ���������, ������ �� ������� � �������������� ������, ��������� ������������, ��������� �����! �������, ��� ���� ��������-������, ���� ������� ������� ��� �  ������� ������ �������.</font></font><p><font color="black">��� �������� ����� ����� ����������� � ��������� �������, ��� ������������� ������������ &quot;����������� �������&quot; � �������������� ������������� �������, ��� ��������� ��������, ���������� �������. �����? �� �����, ��� �� ��� ��� ��������� �������� &quot;�������&quot; � �������� � ������� ������� � ����, �� ����� ����� �������� ��������, ���������� ��������� ���������. ������� �� ���� ����� �� �� ������� &quot;�����������������&quot; �������, ��������� ������� � �.�. ����� ������ ����������, �� �����������, ���� �������� �������� � ����. ��� ����, ����� ��������� �����������, ���������, ���������, ��� �� �������� ������ ����� �������� � �������� �������� � ���������� ������������� �������! ��� ��������� ��������� �� ���� ������� � ����������� ����� ������. � �������� ���������, ���� �� ���������� �������� ��� ��������� ��������, �� ��� - ����� �� ������������� �����. � ���� ����� � ��������� ��������� ����������� �������, �� ������� �������� ���� ����.</font></p><p><font color="black">���������, ������� �� ����� �������, �������� ��� � ���� ������ ������, �������� ���������� �������� �����, � ����� �� &quot;���������&quot; ��������� � ���������. ���� ����� ����������� ���� ��������, ������� ������� ���� ����������: ��������� � ������������ ������������, ������������ ����������, ��������� ������, ����������� �� <b>����������, �������, ���������, �����������, ������, �����, ��������, ����������, ���������, �������� �����, ����������, ����������� ����� � ����������, ����������� �����, ��������� ����������, �������, ���, �����������, ������, ���������������� ���������</b> � ������ ������� ���������, �������� �������� ���������� - 14 �������, ���� ����������, �������� ���� � ��, ��� ����� ������ ������� � ������������ ������. ������� ������ �������� ���� �����! ��� ����, ��� �����, ���������, ��������, ����������, �����������, ����������� �� ���� �����, �� ������ <b>�������  ��������� � ��� �����������</b>! ������ ���, ��� ��� ��������� ������� ����� <b>����</b>, <b>����</b> � <b>�����</b> ��������� <b>�����������</b>! ��� �������, �� ��������� ��� ����� ������ � ��������, ������� ������ ������ ����� �������. ��� �� ����� �������� �������� ��������� ���������� ������ ���������, ��� �� ������ �������� �������� ������������ ���������� � �������� �������! � ����������� �����  ���������! ����, �������� �� ���, �� �������� �������� ���� ������������ ����������, �����, ��������� ������, �������� - ���������� �� �� e-mail, ��������� �� �������� ������.</font></p> <h2><font color="black"><font color="black">������ �� ����� <font color="red"><b><u>��� ����� 1500!!!</u></b></font> ���������� �������������, ����������, ������������ ������������, �������� �������� ���������� -  14 �������,  � ����� �������� ����, �������� �����!</font></font></h2>
+</div>
+</td></tr><tr>
+<td height=80px width="282"><noindex><p align="center"><b><a href="http://vk.com/urokinet" rel="nofollow" target="_blank" title="���� �����.��� ���������">�� ���������</a> <a href="https://twitter.com/Urokinet" rel="nofollow" target="_blank" title="���� �����.��� � ��������">�� � ��������</a></b></noindex></td>
+<td width="2"></td>
+</tr><tr>
+<td valign=top width="282">
+<h3><!--div style="margin-right: 15px;width: 285px;"-->
+<font color="red"><u>��������� 5 �������� �����.</u></font></h3>
+<p><b><font color="red">30.01.2016 </font></b>�������� 1 �������� ����� � ������ ��� ������� �������� ����� � ����������</p>
+<p><b><font color="red">28.01.2016 </font></b>�������� 1 �������� ����� � ������ ��� ������� ��������� �������</p>
+<p><b><font color="red">27.01.2016 </font></b>�������� 1 �������� ������������� �������� � ������ ��� ��������� ������������</p>
+<p><b><font color="red">26.01.2016 </font></b>�������� 1 �������� ����������������� �������� � ������ ��������</p>
+<p><b><font color="red">23.12.2015 </font></b>��������� 2 ��������� ��������� ���� ��� �������� �������������</p>
+</div>
+</td><td width="2" bgcolor=c5c5c5></td>
+</tr></table>
+<table width=100% align=center><tr><td>
+<div style="width:745px;"><br>
+<!-- BANNER ������ ������ �������-->
+<script language='JavaScript' type='text/javascript' src='http://www.uroki.net/bp/adx.js'></script>
+<script language='JavaScript' type='text/javascript'>
+<!--
+   if (!document.phpAds_used) document.phpAds_used = ',';
+   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
+   
+   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
+   document.write ("http://www.uroki.net/bp/adjs.php?n=" + phpAds_random);
+   document.write ("&amp;what=zone:3");
+   document.write ("&amp;exclude=" + document.phpAds_used);
+   if (document.referrer)
+      document.write ("&amp;referer=" + escape(document.referrer));
+   document.write ("'><" + "/script>");
+//-->
+</script><noscript><a href='http://www.uroki.net/bp/adclick.php?n=acff6049' target='_blank'><img src='http://www.uroki.net/bp/adview.php?what=zone:3&amp;n=acff6049' border='0' alt=''></a></noscript>
+<!-- BANNER -->
+<br><br></div>
+</td></tr></table>
+<!-- END KONTENT -->
+</div></td>
+<td bgcolor=white align=right valign=top><img src="images/ug.png" alt=" " width=30px height=33px></td><td width=16px rowspan="2"></td>
+</tr><tr>
+<!-- KONTENT -->
+<td bgcolor=white width=30px></td>
+</tr></table>
+<!-- FOOTER -->
+<!-- BANNER ������� ������ ��� �������-->
+<script language='JavaScript' type='text/javascript' src='http://www.uroki.net/bp/adx.js'></script>
+<script language='JavaScript' type='text/javascript'>
+<!--
+   if (!document.phpAds_used) document.phpAds_used = ',';
+   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
+   
+   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
+   document.write ("http://www.uroki.net/bp/adjs.php?n=" + phpAds_random);
+   document.write ("&amp;what=zone:4");
+   document.write ("&amp;exclude=" + document.phpAds_used);
+   if (document.referrer)
+      document.write ("&amp;referer=" + escape(document.referrer));
+   document.write ("'><" + "/script>");
+//-->
+</script><noscript><a href='http://www.uroki.net/bp/adclick.php?n=ad1c8438' target='_blank'><img src='http://www.uroki.net/bp/adview.php?what=zone:4&amp;n=ad1c8438' border='0' alt=''></a></noscript>
+<!-- BANNER -->
+<table height=130px cellpadding=0 cellspacing=0 width=100%><tr>
+<td width=16px></td>
+<td width=277px valign=top>
+
+<!-- COUNTER`S -->
+<noindex>
+<div style="margin-top:13px">
+<table width=100% cellpadding=0 cellspacing=0><tr>
+<td height=32px><!--Rating@Mail.ru COUNTEr--><script language="JavaScript" type="text/javascript"><!--
+d=document;var a='';a+=';r='+escape(d.referrer)
+js=10//--></script><script language="JavaScript1.1" type="text/javascript"><!--
+a+=';j='+navigator.javaEnabled()
+js=11//--></script><script language="JavaScript1.2" type="text/javascript"><!--
+s=screen;a+=';s='+s.width+'*'+s.height
+a+=';d='+(s.colorDepth?s.colorDepth:s.pixelDepth)
+js=12//--></script><script language="JavaScript1.3" type="text/javascript"><!--
+js=13//--></script><script language="JavaScript" type="text/javascript"><!--
+d.write('<a href="http://top.mail.ru/jump?from=1076384"'+
+' target=_top rel="nofollow"><img src="http://dc.c6.b0.a1.top.list.ru/counter'+
+'?id=1076384;t=56;js='+js+a+';rand='+Math.random()+
+'" alt="�������@Mail.ru"'+' border=0 height=31 width=88/><\/a>')
+if(11<js)d.write('<'+'!-- ')//--></script><noscript><a
+target=_top href="http://top.mail.ru/jump?from=1076384" rel="nofollow"><img
+src="http://dc.c6.b0.a1.top.list.ru/counter?js=na;id=1076384;t=56"
+border=0 height=31 width=88
+alt="�������@Mail.ru" /></a></noscript><script language="JavaScript" type="text/javascript"><!--
+if(11<js)d.write('--'+'>')//--></script><!--/COUNTER--></td>
+<td width=5px></td><td>&nbsp;</td><td width=5px></td>
+<td><!--LiveInternet counter--><script type="text/javascript"><!--
+document.write('<a href="http://www.liveinternet.ru/click" '+
+'target=_blank rel="nofollow"><img src="http://counter.yadro.ru/hit?t52.11;r'+
+escape(document.referrer)+((typeof(screen)=='undefined')?'':
+';s'+screen.width+'*'+screen.height+'*'+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+';u'+escape(document.URL)+
+';'+Math.random()+
+'" alt="" title="LiveInternet: �������� ����� ���������� � ����������� �� 24 ����" '+
+'border=0 width=88 height=31><\/a>')//--></script><!--/LiveInternet--></td><td></td>
+</tr><tr>
+<td colspan=5 height=5px></td>
+<td></td>
+</tr><tr>
+<td height=32px><!-- bigmir)net TOP 100 --><a href="http://www.bigmir.net/" rel="nofollow" target=_blank onClick='img = new Image();img.src="http://www.bigmir.net/?cl=135335";' ><script language="javascript"><!--
+bmQ='<img src=http://c.bigmir.net/?s135335&t5'
+bmD=document
+bmD.cookie="b=b"
+if(bmD.cookie)bmQ+='&c1'
+//--></script><script language="javascript1.2"><!-- 
+bmS=screen;bmQ+='&d'+(bmS.colorDepth?bmS.colorDepth:bmS.pixelDepth)+"&r"+bmS.width;
+//--></script><script language="javascript"><!--
+bmF = bmD.referrer.slice(7);
+((bmI=bmF.indexOf('/'))!=-1)?(bmF=bmF.substring(0,bmI)):(bmI=bmF.length);
+if(bmF!=window.location.href.substring(7,7+bmI))bmQ+='&f'+escape(bmD.referrer);
+bmD.write(bmQ+" border=0 width=88 height=31 alt='bigmir TOP100'>");
+//--></script></a></td>
+<td width=5px></td><td><!--begin of Top100 logo-->
+<a href="http://top100.rambler.ru/top100/" rel="nofollow" ><img src="http://top100-images.rambler.ru/top100/banner-88x31-rambler-blue3.gif" alt="Rambler's Top100" width=88 height=31 border=0 align="absbottom"></a><!--end of Top100 logo -->
+</td>
+<td width=5px></td><td><!-- I.UA counter --><a href="http://www.i.ua/" rel="nofollow" target="_blank" onclick="this.href='http://i.ua/r.php?12983';" title="Rated by I.UA"><script type="text/javascript" language="javascript"><!--
+iS='<img src="http://r.i.ua/s?u12983&p22&n'+Math.random();
+iD=document;iD.cookie="iua=1";if(iD.cookie)iS+='&c1';
+iS+='&d'+(screen.colorDepth?screen.colorDepth:screen.pixelDepth)
++"&w"+screen.width+'&h'+screen.height
+iT=iD.referrer.slice(7);iH=window.location.href.slice(7);
+((iI=iT.indexOf('/'))!=-1)?(iT=iT.substring(0,iI)):(iI=iT.length);
+if(iT!=iH.substring(0,iI))iS+='&f'+escape(iD.referrer.slice(7))
+iS+='&r'+escape(iH);
+iD.write(iS+'" border="0" width="88" height="31" />');
+//--></script></a><!-- End of I.UA counter --></td>
+<td></td></tr></table>
+</div>
+</noindex>
+<!-- END COUNTER`S -->
+<div style="margin-top:7px; font-size:11px;color:white;">
+<!-- COPYRIGHT -->
+Copyright &copy; 2005-2019 ��&quot;�����.���&quot;  <a href="http://www.uroki.net" title="www.uroki.net - c������� �������� ����������, ��������� ������������ ����������� ����� ���������� �������� ������ �������� ����� ��������� ������ �� ����������� ���������� ������ ����� �������� ��������� ��� ��������� � ������ ��� ��������� ��� ��������� ������������ ������ ����� ������� ��� ���������� ���������� ������ ���������� ������� ������ 1 �������� ���� ������ ������ ����">www.uroki.net</a>
+</div>
+</td><td valign=top><div style="margin-left:5px; margin-top:14px; font-size:10px;color:white;">
+��������� ����� (���������� ������, �������� ����, ���������, �����������, �������� ���� �������, ����� ���, ������� ���, ���� ����������, 23 �������, ���� ��������� ���������, 8 �����, 1 ��������, ���� ������, ��������� ������, ��������� ��� (�����), ���������, ������������, ����������� �����) � ����������, ����������� �� ������ �����, ���� ������� � ���� ��������, ��� �������� ����������������, �������� �������������� ����� ��� ������� � �������������� ����������, ����� ������������ ����������� ���������. ����� ����� �� ���������� �� ��������� ���� ����������. ���� �� ��������� ���������������� ��������, ���������� �����, ��������� ���� ��� ������ ����������, � ������� �� ������� ��� ������������ �� ������ �������, �� ������������� ����������������, ������� ���������� �������� � ����� ���������� �������������� �� ������ : <img src="images/mail2.png" width="118" height="16" border="0" align="absbottom" alt="www.uroki.net - �� ��� ������� - �� ���������!!!">.  ����� ����� - <a href="karta.htm" title="����� ����� www.uroki.net - �� ��� ������� - �� ���������!!!">www.uroki.net</a> ��� ������������� ���������� ����� - ���������� ������� � <a href="http://www.uroki.net" title="www.uroki.net - c������� �������� ���������� ���������� ������, ���������� ������, ����, ��������� ������������ ����������� ����� ���������� �������� ������ �������� ����� ��������� ������ �� ����������� ���������� ������ ����� �������� ��������� ��� ��������� � ������ ��� ��������� ��� ��������� ������������ ������ ����� ������� ��� ���������� ���������� ������ ���������� ������� ������ 1 �������� ������ ����">�������� ������</a> -�����������!!!
+</div>
+<div style="margin-top: 10px;float:right;font-size:11px;color:white;">
+<!-- END COPYRIGHT -->
+</div>
+</td>
+<td width=16px></td>
+</tr></table>
+<noindex><script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1913847-1";
+urchinTracker();
+</script></noindex>
+</body>
+</html>

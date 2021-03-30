@@ -1,0 +1,1298 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<title>Бизнес-тренинги в Москве, бизнес-курсы – записать на бизнес-семинары от РШУ</title>
+<meta name="robots" content="index, follow" />
+<meta name="keywords" content="Москва: Бизнес семинары, бизнес тренинги, бизнес курсы, обучение, курсы повышения квалификации персонала в феврале, марте, апреле, мае, июне, июле, августе, сентябре, октябре, ноябре, декабре!" />
+<meta name="description" content="Самые актуальные семинары и бизнес-тренинги в 2020 году. Приглашаем на курсы повышения квалификации и бизнес-семинары — Русская Школа Управления - современная школа директоров." />
+<link href="/bitrix/js/main/core/css/core.css?15726588713963" type="text/css" rel="stylesheet" />
+<link href="/bitrix/js/ui/fonts/opensans/ui.font.opensans.css?15798579882003" type="text/css" rel="stylesheet" />
+<link href="/bitrix/js/main/popup/dist/main.popup.bundle.css?159687714126339" type="text/css" rel="stylesheet" />
+<link href="/local/templates/uprav/js/lightbox/css/lightbox.css?15726588823714" type="text/css" data-template-style="true" rel="stylesheet" />
+<link href="/local/templates/uprav/css/main.css?1604418705682123" type="text/css" data-template-style="true" rel="stylesheet" />
+<link href="/local/templates/uprav/css/main_ie.css?160599511710140" type="text/css" data-template-style="true" rel="stylesheet" />
+<link href="/local/templates/uprav/css/temporary.css?15784398751267" type="text/css" data-template-style="true" rel="stylesheet" />
+<link href="/local/templates/uprav/js/lightgallery/css/lightgallery.min.css?157265888220458" type="text/css" data-template-style="true" rel="stylesheet" />
+<link href="/local/templates/uprav/components/bitrix/system.auth.form/head/style.css?1572658882303" type="text/css" data-template-style="true" rel="stylesheet" />
+<link href="/local/templates/uprav/styles.css?160190751914218" type="text/css" data-template-style="true" rel="stylesheet" />
+<meta name="yandex-verification" content="7205040cc73299b6" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+<meta http-equiv="content-type" content="text/html;charset=UTF-8">
+<meta name="google-site-verification" content="zFLr5rAj0Ks-RIZZ6i1Zf4USLsFQiqDoP0wHY0-bNQc" />
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="theme-color" content="#163465">
+<script data-skip-moving="true" src="/local/templates/uprav/js/jquery-2.2.4.min.js"></script>
+<link rel="manifest" href="/manifest.json" />
+<link rel="apple-touch-icon" href="/images/icons/icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/images/icons/icon-96x96.png" />
+<link rel="apple-touch-icon" sizes="128x128" href="/images/icons/icon-128x128.png" />
+<link rel="apple-touch-icon" sizes="152x152" href="/images/icons/icon-152x152.png" />
+<script type="text/javascript">if(!window.BX)window.BX={};if(!window.BX.message)window.BX.message=function(mess){if(typeof mess==='object'){for(let i in mess) {BX.message[i]=mess[i];} return true;}};</script>
+<script type="text/javascript">(window.BX||top.BX).message({'JS_CORE_LOADING':'Загрузка...','JS_CORE_NO_DATA':'- Нет данных -','JS_CORE_WINDOW_CLOSE':'Закрыть','JS_CORE_WINDOW_EXPAND':'Развернуть','JS_CORE_WINDOW_NARROW':'Свернуть в окно','JS_CORE_WINDOW_SAVE':'Сохранить','JS_CORE_WINDOW_CANCEL':'Отменить','JS_CORE_WINDOW_CONTINUE':'Продолжить','JS_CORE_H':'ч','JS_CORE_M':'м','JS_CORE_S':'с','JSADM_AI_HIDE_EXTRA':'Скрыть лишние','JSADM_AI_ALL_NOTIF':'Показать все','JSADM_AUTH_REQ':'Требуется авторизация!','JS_CORE_WINDOW_AUTH':'Войти','JS_CORE_IMAGE_FULL':'Полный размер'});</script>
+<script type="text/javascript" src="/bitrix/js/main/core/core.js?1596877145544313"></script>
+<script>BX.setJSList(['/bitrix/js/main/core/core_ajax.js','/bitrix/js/main/core/core_promise.js','/bitrix/js/main/polyfill/promise/js/promise.js','/bitrix/js/main/loadext/loadext.js','/bitrix/js/main/loadext/extension.js','/bitrix/js/main/polyfill/promise/js/promise.js','/bitrix/js/main/polyfill/find/js/find.js','/bitrix/js/main/polyfill/includes/js/includes.js','/bitrix/js/main/polyfill/matches/js/matches.js','/bitrix/js/ui/polyfill/closest/js/closest.js','/bitrix/js/main/polyfill/fill/main.polyfill.fill.js','/bitrix/js/main/polyfill/find/js/find.js','/bitrix/js/main/polyfill/matches/js/matches.js','/bitrix/js/main/polyfill/core/dist/polyfill.bundle.js','/bitrix/js/main/core/core.js','/bitrix/js/main/polyfill/intersectionobserver/js/intersectionobserver.js','/bitrix/js/main/lazyload/dist/lazyload.bundle.js','/bitrix/js/main/polyfill/core/dist/polyfill.bundle.js','/bitrix/js/main/parambag/dist/parambag.bundle.js']);
+BX.setCSSList(['/bitrix/js/main/core/css/core.css','/bitrix/js/main/lazyload/dist/lazyload.bundle.css','/bitrix/js/main/parambag/dist/parambag.bundle.css']);</script>
+<script type="text/javascript">(window.BX||top.BX).message({'LANGUAGE_ID':'ru','FORMAT_DATE':'DD.MM.YYYY','FORMAT_DATETIME':'DD.MM.YYYY HH:MI:SS','COOKIE_PREFIX':'BITRIX_SM','SERVER_TZ_OFFSET':'10800','SITE_ID':'s1','SITE_DIR':'/','USER_ID':'','SERVER_TIME':'1614627991','USER_TZ_OFFSET':'0','USER_TZ_AUTO':'Y','bitrix_sessid':'b1e7807f675176834b252cd421a6c553'});</script>
+<script type="text/javascript" src="/bitrix/js/main/popup/dist/main.popup.bundle.js?1596877151103976"></script>
+<script type="text/javascript">
+					(function () {
+						"use strict";
+
+						var counter = function ()
+						{
+							var cookie = (function (name) {
+								var parts = ("; " + document.cookie).split("; " + name + "=");
+								if (parts.length == 2) {
+									try {return JSON.parse(decodeURIComponent(parts.pop().split(";").shift()));}
+									catch (e) {}
+								}
+							})("BITRIX_CONVERSION_CONTEXT_s1");
+
+							if (cookie && cookie.EXPIRE >= BX.message("SERVER_TIME"))
+								return;
+
+							var request = new XMLHttpRequest();
+							request.open("POST", "/bitrix/tools/conversion/ajax_counter.php", true);
+							request.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+							request.send(
+								"SITE_ID="+encodeURIComponent("s1")+
+								"&sessid="+encodeURIComponent(BX.bitrix_sessid())+
+								"&HTTP_REFERER="+encodeURIComponent(document.referrer)
+							);
+						};
+
+						if (window.frameRequestStart === true)
+							BX.addCustomEvent("onFrameDataReceived", counter);
+						else
+							BX.ready(counter);
+					})();
+				</script>
+<script type="text/javascript" src="/local/templates/uprav/js/modernizr-custom.js?15868756883402"></script>
+<script type="text/javascript" src="/local/templates/uprav/js/vendors.js?1605995117156006"></script>
+<script type="text/javascript" src="/local/templates/uprav/js/jquery.inputmask.bundle.min.js?1572658882119315"></script>
+<script type="text/javascript" src="/local/templates/uprav/js/lightbox/js/lightbox.js?157265888218410"></script>
+<script type="text/javascript" src="/local/templates/uprav/js/main.js?160599511736157"></script>
+<script type="text/javascript" src="/local/templates/uprav/js/select.js?1605995117600"></script>
+<script type="text/javascript" src="/local/templates/uprav/js/main_new.js?160163888428327"></script>
+<script type="text/javascript" src="/local/templates/uprav/scripts.js?161097811224903"></script>
+<script type="text/javascript" src="/local/templates/uprav/components/bitrix/system.auth.form/head/script.js?1572658882573"></script>
+<script type="text/javascript">var _ba = _ba || []; _ba.push(["aid", "18862a3949088fd10e23d56014bd2bec"]); _ba.push(["host", "uprav.ru"]); (function() {var ba = document.createElement("script"); ba.type = "text/javascript"; ba.async = true;ba.src = (document.location.protocol == "https:" ? "https://" : "http://") + "bitrix.info/ba.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ba, s);})();</script>
+<script src="//yastatic.net/es5-shims/0.0.2/es5-shims.min.js"></script>
+
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-TFVPK9');</script>
+
+<link rel="preload" href="/local/templates/uprav/fonts/futurabookc.woff2" as="font" />
+<link rel="preload" href="/local/templates/uprav/fonts/futurademic.woff2" as="font" />
+<link rel="preload" href="/local/templates/uprav/fonts/futuramediumc.woff2" as="font" />
+<link rel="preload" href="/local/templates/uprav/fonts/futuralightc.woff2" as="font" />
+<script>
+        (function (i, s, o, g, r, a, m) {
+                i["esSdk"] = r;
+                i[r] = i[r] || function () {
+                    (i[r].q = i[r].q || []).push(arguments)
+                }, a = s.createElement(o), m = s.getElementsByTagName(o)[0];
+                a.async = 1;
+                a.src = g;
+                m.parentNode.insertBefore(a, m)
+            }
+        )(window, document, "script", "https://esputnik.com/scripts/v1/public/scripts?apiKey=eyJhbGciOiJSUzI1NiJ9.eyJzdWIiOiI0NTI0ZWZhYTJkYzI2MGRmYTM4YTE1NDBlMWE0YjQ1N2ZhYTUyNDBjM2M1ODk0ODExYmU4MGMzZGQ2OGE1YTA0MzVhOGZjMzY2NWIzZWY3YTc2NTAyZmE0ODU2NDk2MTExNGUzZjM3YTA3MjI3Y2JlYjYzMzQzOTk3YzRmZmIxOWZjOWZiZDNlMzc3MDZmNTNhMDYxYjYyZmI0ODY0NDEzMDFjNiJ9.LpHwCqshQ4xLRCcoOlMC65DoZFx_bVnjvxn4QRKT4V-KjBeVUTmi-6X-6_t-uxohvPVKr4vTju2NrtwDfSHpqw&domain=05FC8106-F1E4-4744-A1BF-D1DB0F1C0CFF", "es");
+        es("pushOn");
+    </script>
+
+<script type="text/javascript">
+        (function (m, e, t, r, i, k, a) {
+            m[i] = m[i] || function () {
+                (m[i].a = m[i].a || []).push(arguments)
+            };
+            m[i].l = 1 * new Date();
+            k = e.createElement(t), a = e.getElementsByTagName(t)[0], k.async = 1, k.src = r, a.parentNode.insertBefore(k, a)
+        })
+        (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+        ym(1207553, "init", {
+            clickmap: true,
+            trackLinks: true,
+            accurateTrackBounce: true,
+            webvisor: true,
+            ecommerce: "dataLayer"
+        });
+    </script>
+<noscript>
+        <div>
+            <img src="https://mc.yandex.ru/watch/1207553" style="position:absolute; left:-9999px;" alt=""/>
+        </div>
+    </noscript>
+
+<style>
+            .webp .header-wrap {
+                background-image: url(/local/templates/uprav/images/promo/bg.webp?2523);
+            }
+
+            html:not(.webp) .header-wrap, .no-webp .header-wrap {
+                background-image: url(/local/templates/uprav/images/promo/bg.jpg?2532);
+            }
+        </style>
+<script>
+        (function (d) {
+            var s = d.createElement('script');
+            s.defer = true;
+            s.src = 'https://multisearch.io/plugin/10884';
+            if (d.head) d.head.appendChild(s);
+        })(document);
+    </script>
+<script type="text/javascript">
+        var __cs = __cs || [];
+        __cs.push(["setCsAccount", "ErmirfmBkbXSRU2I8ZH5PRunrSqFykHc"]);
+    </script>
+</head>
+<body data-city="Москва" data-city-id="7866" class=" other_page_wrapper">
+<div class="header-wrap">
+<span class="header_ie"></span>
+<header class="header">
+<a href="/">
+<div class="header__logo">
+<img src="/local/templates/uprav/images/logo.svg" alt="">Русская <br>
+Школа<br>
+Управления
+</div>
+ </a>
+<div class="header__slogan">
+<div class="header__slogan-big">Федеральный<br>Учебный Центр</div>
+<div>основан в 2002 году</div> </div>
+<div class="header__search">
+<input type="checkbox" class="control" id="header_search-control">
+<label for="header_search-control" class="header_search-label">
+<span class="text">Поиск</span> </label>
+<form action="/search/" class="header__search-form">
+<input name="q" class="header__search-input" placeholder="Поиск" autocomplete="off" />
+<button type="button" class="header__search-form-push">
+<span class="text">искать</span>
+</button>
+</form>
+</div>
+<a class="header__lk" target="_blank" href="https://lk.uprav.ru/auth/">Личный кабинет</a>
+<div class="header__contacts">
+<div class="header__contacts-tel">
+<a class="header__contacts-tel-link" href="tel:88001000203">8 (800) 100-02-03</a>
+</div>
+<div class="header__contacts-time">Пн.-Пт.: 8.00–19.00</div>
+<div class="city_select_wrapper">
+<div class="city_select_wrapper_sub_wrapper">
+ <a href="#" data-target="#cityChange" class="header-region-link js-city-picker" onclick="$('#cityChange').modal('show');">
+Москва<span class="header-region-link-caret">&#x25bc;</span>
+</a>
+ </div>
+</div>
+</div>
+<label for="header_nav_check" class="header_nav_control">
+<i></i><i></i><i></i><i></i> </label>
+<input type="checkbox" id="header_nav_check" class="control--hidden" />
+<a class="header__contacts-tel-s" href="tel:88001000203">8 (800) 100-02-03</a>
+<nav class="nav-top">
+<div class="top-menu__item">
+<a class="top-menu__link top-menu__link--caret" href="/about/">О школе</a>
+<input class="menu__check" type="checkbox" id="menu0">
+<label class="menu__showsub" for="menu0">&#9660;</label>
+<div class="top-menu__drop-level">
+<div class="top-menu__drop-item">
+<a class="top-menu__drop-link" href="/about/">О нас</a>
+</div> <div class="top-menu__drop-item">
+<a class="top-menu__drop-link" href="/svedeniya-ob-obrazovatelnoy-organizatsii/osnovnye-svedeniya/">Сведения об образовательной организации</a>
+</div> <div class="top-menu__drop-item">
+<a class="top-menu__drop-link" href="/terms/">Условия обучения</a>
+</div> <div class="top-menu__drop-item">
+<a class="top-menu__drop-link" href="/about/cooperation/">Сотрудничество</a>
+</div> <div class="top-menu__drop-item">
+<a class="top-menu__drop-link" href="/about/advertisement/">Рекламные возможности</a>
+</div> <div class="top-menu__drop-item">
+<a class="top-menu__drop-link" href="/about/mass_media/">Информация для СМИ</a>
+</div> <div class="top-menu__drop-item">
+<a class="top-menu__drop-link" href="/goskontrakt/">Государственный заказ</a>
+</div> </div>
+</div> <div class="top-menu__item">
+<a class="top-menu__link top-menu__link--caret">Семинары, курсы, тренинги</a>
+<input class="menu__check" type="checkbox" id="menu1">
+<label class="menu__showsub" for="menu1">&#9660;</label>
+<div class="top-menu__drop-level">
+<div class="top-menu__drop-item">
+<a class="top-menu__drop-link">По направлениям</a>
+<input class="menu__check" type="checkbox" id="menu7-2">
+<label class="menu__showsub menu__showsub_2" for="menu7-2">&#9660;</label>
+<div class="top-menu__drop-level2">
+<div class="top-menu__drop-level2_list">
+<div class="top-menu__drop-item2">
+<a class="top-menu__drop-link2" href="/rukovoditel/">Общее управление</a>
+</div>
+<div class="top-menu__drop-item2">
+<a class="top-menu__drop-link2" href="/pravo/">Право</a>
+</div>
+<div class="top-menu__drop-item2">
+<a class="top-menu__drop-link2" href="/kursy-upravleniya-personalom/">Персонал</a>
+</div>
+<div class="top-menu__drop-item2">
+<a class="top-menu__drop-link2" href="/finansy-economics/">Финансы</a>
+</div>
+<div class="top-menu__drop-item2">
+<a class="top-menu__drop-link2" href="/bezopasnost/">Безопасность</a>
+</div>
+<div class="top-menu__drop-item2">
+<a class="top-menu__drop-link2" href="/production-quality/">Производство</a>
+</div>
+<div class="top-menu__drop-item2">
+<a class="top-menu__drop-link2" href="/kursy-po-kachestvu/">Процессы и качество</a>
+</div>
+<div class="top-menu__drop-item2">
+<a class="top-menu__drop-link2" href="/logistika/">Логистика</a>
+</div>
+<div class="top-menu__drop-item2">
+<a class="top-menu__drop-link2" href="/sale/">Продажи</a>
+</div>
+<div class="top-menu__drop-item2">
+<a class="top-menu__drop-link2" href="/marketing/">Маркетинг</a>
+</div>
+<div class="top-menu__drop-item2">
+<a class="top-menu__drop-link2" href="/strategicheskoe-razvitie/">Проекты Стратегии Инновации</a>
+</div>
+<div class="top-menu__drop-item2">
+<a class="top-menu__drop-link2" href="/goszakupki-konkursy-tendery/">Конкурсы Тендеры</a>
+</div>
+<div class="top-menu__drop-item2">
+<a class="top-menu__drop-link2" href="/analitika/">Аналитика</a>
+ </div>
+<div class="top-menu__drop-item2">
+<a class="top-menu__drop-link2" href="/effectivnost-liderstvo/">Личная эффективность</a>
+</div>
+<div class="top-menu__drop-item2">
+<a class="top-menu__drop-link2" href="/torgovlya-retail/">Торговля</a>
+</div>
+<div class="top-menu__drop-item2">
+<a class="top-menu__drop-link2" href="/stroitelstvo-development/">Строительство</a>
+</div>
+<div class="top-menu__drop-item2">
+<a class="top-menu__drop-link2" href="/gkh/">ЖКХ</a>
+</div>
+<div class="top-menu__drop-item2">
+<a class="top-menu__drop-link2" href="/upravlenie_nedvizhimostyu/">Коммерческая недвижимость</a>
+</div>
+<div class="top-menu__drop-item2">
+<a class="top-menu__drop-link2" href="/it-kursy/">ИТ</a>
+</div>
+<div class="top-menu__drop-item2">
+<a class="top-menu__drop-link2" href="/"></a>
+</div>
+<div class="top-menu__drop-item2">
+<a class="top-menu__drop-link2" href="/"></a>
+</div>
+</div>
+</div>
+</div> <div class="top-menu__drop-item">
+<a class="top-menu__drop-link" href="/kursy-professionalnoj-perepodgotovki/">Профессиональная переподготовка</a>
+</div> <div class="top-menu__drop-item">
+<a class="top-menu__drop-link" href="/direktorskie-kursy/">Онлайн-курсы для руководителей</a>
+</div> <div class="top-menu__drop-item">
+<a class="top-menu__drop-link" href="/special/">Спецпредложение</a>
+</div> </div>
+</div> <div class="top-menu__item">
+<a class="top-menu__link top-menu__link--caret">МВА</a>
+<input class="menu__check" type="checkbox" id="menu2">
+<label class="menu__showsub" for="menu2">&#9660;</label>
+<div class="top-menu__drop-level">
+<div class="top-menu__drop-item">
+<a class="top-menu__drop-link" href="/mini-mba/">Mini MBA</a>
+</div> <div class="top-menu__drop-item">
+<a class="top-menu__drop-link" href="/mini-mba/expert/">Mini MBA Эксперт</a>
+</div> <div class="top-menu__drop-item">
+<a class="top-menu__drop-link" href="/mini-mba/otraslevye/">Mini MBA Отраслевой</a>
+</div> <div class="top-menu__drop-item">
+<a class="top-menu__drop-link" href="/mini-mba/obschiy/">Micro MBA</a>
+</div> </div>
+</div> <div class="top-menu__item">
+ <a class="top-menu__link top-menu__link--caret">Форматы обучения</a>
+<input class="menu__check" type="checkbox" id="menu3">
+<label class="menu__showsub" for="menu3">&#9660;</label>
+<div class="top-menu__drop-level">
+<div class="top-menu__drop-item">
+<a class="top-menu__drop-link" href="/constructor/online-translyaciya/">Онлайн-курсы</a>
+</div> <div class="top-menu__drop-item">
+<a class="top-menu__drop-link" href="/constructor/distancionnyj/">Видеокурсы</a>
+</div> <div class="top-menu__drop-item">
+<a class="top-menu__drop-link" href="/constructor/ochnyj/">Очное обучение</a>
+</div> <div class="top-menu__drop-item">
+<a class="top-menu__drop-link" href="/corporate/">Корпоративный</a>
+</div> </div>
+</div> <div class="top-menu__item">
+<a class="top-menu__link" href="/discounts/">Скидки</a>
+</div> <div class="top-menu__item">
+<a class="top-menu__link" href="/calendar/">Календарь курсов</a>
+</div> <div class="top-menu__item">
+<a class="top-menu__link" href="/blog/">Медиапортал</a>
+</div> <div class="top-menu__item">
+<a class="top-menu__link" href="/contacts/">Контакты</a>
+</div> </nav>
+<div class="main-section__right-bar">
+<div class="main-section__right-item">
+<a style="color: #fff; display: block; text-align: center" href="/special/">
+<img src="/local/templates/uprav/images/special_btn.png?1" alt="">
+<div class="main-section__right-text">Спец-<br />предложение</div>
+</a>
+</div>
+<div class="main-section__right-item">
+<a style="color: #fff; display: block; text-align: center" href="/courses/">
+<img src="/local/templates/uprav/images/calendar-yellow.png?1" alt="">
+<div class="main-section__right-text">Каталог курсов</div>
+</a>
+</div>
+</div>
+</header>
+
+<section class="main-section main-section--normal pb-0">
+<section class="section" style="padding-top: 10px">
+<div class="display-none-mobile" style="margin-top: -50px;">
+</div>
+
+<div class="">
+<a href="/quiz/"><img src="/images/bnr.png?0221" alt="" /></a>
+</div>
+</section>
+<div class="main-section__bottom">
+
+<div class='main-section__bottom-title'>Каталог бизнес-тренингов и семинаров (1748)</div>
+
+</div>
+</section>
+</div>
+<div class="email_subscription_banner hidden">
+<div class="email_subscribe_content" style="text-transform:uppercase; display:flex; align-items: center; gap: 30px; justify-content: center;">
+<div>
+<span id="email_subscription_banner_text" style="line-height: 1.2em;">Подпишитесь на рассылку о запусках курсов<br /> и получите скидку 5% на обучение!
+</span>
+</div>
+<form id="banner_email_subscribe_form" class="email_form" action="/ajax/form/email_subscribe.php" style="margin:10px;">
+<input name="email" type="email" placeholder="EMAIL" class="email_input" required>
+<input type="hidden" id="email_subscription_banner_origin" name="origin" value="sticky_banner">
+<input type="hidden" name="type" value="sticky_banner">
+<input type="hidden" name="sessid" id="sessid" value="b1e7807f675176834b252cd421a6c553" /> <input name="fio_name" type="text" placeholder="ФИО" class="form__value">
+<button type="submit" class="btn_style-a submit_button email_subscribe_submit">Подписаться</button>
+</form>
+<div style="text-transform: none; font-size: .8em;">Нажимая &laquo;Подписаться&raquo;, я соглашаюсь<br />с
+<a class="agreement_link" href="/politika_peda.pdf" target="_blank" style="color:#ffffff;">Политикой
+обработки персональных данных</a>
+</div>
+<div class="email_subscription_banner_close" id="email_subscription_banner_close">&#10005;</div>
+</div>
+</div>
+<div class="container curse-container">
+<section class="courses-section">
+<div class="row">
+<div class="col-lg-3 col-md-4 col-sm-6 col-6" id="bx_3966226736_8213">
+<a class="courses-section__item" href="/pravo/">
+<div class="courses-section__img"><img class="courses-section__image" src="/upload/iblock/e6e/e6e80d7a31dc735222fe348276a9b9d3.png" alt=""></div>
+<div class="courses-section__name">Право</div>
+<span class="main_themes_badge_">132</span>
+</a>
+</div>
+<div class="col-lg-3 col-md-4 col-sm-6 col-6" id="bx_3966226736_8995">
+<a class="courses-section__item" href="/bezopasnost/">
+<div class="courses-section__img"><img class="courses-section__image" src="/upload/iblock/d43/d43acdde958241d7236523a89ef8ab6d.png" alt=""></div>
+<div class="courses-section__name">Безопасность</div>
+<span class="main_themes_badge_">69</span>
+</a>
+</div>
+<div class="col-lg-3 col-md-4 col-sm-6 col-6" id="bx_3966226736_7864">
+<a class="courses-section__item" href="/stroitelstvo-development/">
+<div class="courses-section__img"><img class="courses-section__image" src="/upload/iblock/a35/a35c61236453906d7b8f867920cbabef.png" alt=""></div>
+<div class="courses-section__name">Строительство Девелопмент</div>
+<span class="main_themes_badge_">90</span>
+</a>
+</div>
+<div class="col-lg-3 col-md-4 col-sm-6 col-6" id="bx_3966226736_9111">
+<a class="courses-section__item" href="/upravlenie_nedvizhimostyu/">
+<div class="courses-section__img"><img class="courses-section__image" src="/upload/iblock/1ce/1cec4140e4c9f167c7bc49ff9edc8da3.png" alt=""></div>
+<div class="courses-section__name">Коммерческая недвижимость</div>
+<span class="main_themes_badge_">21</span>
+</a>
+</div>
+<div class="col-lg-3 col-md-4 col-sm-6 col-6" id="bx_3966226736_8185">
+<a class="courses-section__item" href="/mini-mba/">
+<div class="courses-section__img"><img class="courses-section__image" src="/upload/iblock/862/862f22ec181ad9d9e1c22e520bf0fa4c.png" alt=""></div>
+<div class="courses-section__name">Mini MBA</div>
+<span class="main_themes_badge_">56</span>
+</a>
+</div>
+<div class="col-lg-3 col-md-4 col-sm-6 col-6" id="bx_3966226736_8453">
+<a class="courses-section__item" href="/goszakupki-konkursy-tendery/">
+<div class="courses-section__img"><img class="courses-section__image" src="/upload/iblock/a51/a51a0c8a0d488b604d706517b710c128.png" alt=""></div>
+<div class="courses-section__name">Конкурсы Тендеры</div>
+<span class="main_themes_badge_">21</span>
+</a>
+</div>
+<div class="col-lg-3 col-md-4 col-sm-6 col-6" id="bx_3966226736_8808">
+<a class="courses-section__item" href="/kursy-po-kachestvu/">
+<div class="courses-section__img"><img class="courses-section__image" src="/upload/iblock/530/53029bcf775b2ce5eeb874d1b9abd98c.png" alt=""></div>
+<div class="courses-section__name">Процессы и качество</div>
+<span class="main_themes_badge_">103</span>
+</a>
+</div>
+<div class="col-lg-3 col-md-4 col-sm-6 col-6" id="bx_3966226736_8100">
+<a class="courses-section__item" href="/it-kursy/">
+<div class="courses-section__img"><img class="courses-section__image" src="/upload/iblock/8ea/8ea743123782adde141f3fd6e34ea023.png" alt=""></div>
+<div class="courses-section__name">ИТ</div>
+<span class="main_themes_badge_">52</span>
+</a>
+</div>
+<div class="col-lg-3 col-md-4 col-sm-6 col-6" id="bx_3966226736_261230">
+<a class="courses-section__item" href="/strategicheskoe-razvitie/">
+<div class="courses-section__img"><img class="courses-section__image" src="/upload/iblock/f26/f26175658d0fb80b24e1d9fe4061063f.png" alt=""></div>
+<div class="courses-section__name">Проекты Стратегии Инновации</div>
+<span class="main_themes_badge_">106</span>
+</a>
+</div>
+<div class="col-lg-3 col-md-4 col-sm-6 col-6" id="bx_3966226736_8845">
+<a class="courses-section__item" href="/production-quality/">
+<div class="courses-section__img"><img class="courses-section__image" src="/upload/iblock/b66/b6637e9207caf4887c5f52a73f0fb969.png" alt=""></div>
+<div class="courses-section__name">Производство</div>
+<span class="main_themes_badge_">99</span>
+</a>
+</div>
+<div class="col-lg-3 col-md-4 col-sm-6 col-6" id="bx_3966226736_8449">
+<a class="courses-section__item" href="/kursy-upravleniya-personalom/">
+<div class="courses-section__img"><img class="courses-section__image" src="/upload/iblock/2dd/2dd12e8f60985e76ed6b145e988b0ab6.png" alt=""></div>
+<div class="courses-section__name">Персонал</div>
+<span class="main_themes_badge_">215</span>
+</a>
+</div>
+<div class="col-lg-3 col-md-4 col-sm-6 col-6" id="bx_3966226736_8142">
+<a class="courses-section__item" href="/rukovoditel/">
+<div class="courses-section__img"><img class="courses-section__image" src="/upload/iblock/79a/79a315f1ce5816f41e40ae8e8f3a7969.png" alt=""></div>
+<div class="courses-section__name">Общее управление</div>
+<span class="main_themes_badge_">92</span>
+</a>
+</div>
+<div class="col-lg-3 col-md-4 col-sm-6 col-6" id="bx_3966226736_175122">
+<a class="courses-section__item" href="/effectivnost-liderstvo/">
+<div class="courses-section__img"><img class="courses-section__image" src="/upload/iblock/768/768d98566280cbbe51a511ced6900b2f.png" alt=""></div>
+<div class="courses-section__name">Личная эффективность</div>
+<span class="main_themes_badge_">191</span>
+</a>
+</div>
+<div class="col-lg-3 col-md-4 col-sm-6 col-6" id="bx_3966226736_8183">
+<a class="courses-section__item" href="/logistika/">
+<div class="courses-section__img"><img class="courses-section__image" src="/upload/iblock/4e9/4e9f86be12dbf0d7bf4154652b009a94.png" alt=""></div>
+<div class="courses-section__name">Логистика Снабжение</div>
+<span class="main_themes_badge_">103</span>
+</a>
+</div>
+<div class="col-lg-3 col-md-4 col-sm-6 col-6" id="bx_3966226736_8373">
+<a class="courses-section__item" href="/torgovlya-retail/">
+<div class="courses-section__img"><img class="courses-section__image" src="/upload/iblock/82f/82fa830df76aeaaae57198764ad864f7.png" alt=""></div>
+<div class="courses-section__name">Торговля Ритейл</div>
+<span class="main_themes_badge_">24</span>
+</a>
+</div>
+<div class="col-lg-3 col-md-4 col-sm-6 col-6" id="bx_3966226736_8565">
+<a class="courses-section__item" href="/sale/">
+<div class="courses-section__img"><img class="courses-section__image" src="/upload/iblock/c3e/c3eb94ff8deca2906b95bd65edbd13a4.png" alt=""></div>
+<div class="courses-section__name">Продажи</div>
+<span class="main_themes_badge_">83</span>
+</a>
+</div>
+<div class="col-lg-3 col-md-4 col-sm-6 col-6" id="bx_3966226736_8166">
+<a class="courses-section__item" href="/marketing/">
+<div class="courses-section__img"><img class="courses-section__image" src="/upload/iblock/63b/63b8e6d7eba0f887759b7dae893849af.png" alt=""></div>
+<div class="courses-section__name">Маркетинг</div>
+<span class="main_themes_badge_">68</span>
+</a>
+</div>
+<div class="col-lg-3 col-md-4 col-sm-6 col-6" id="bx_3966226736_7962">
+<a class="courses-section__item" href="/analitika/">
+<div class="courses-section__img"><img class="courses-section__image" src="/upload/iblock/e7f/e7fed3d1d3c3a7b6cad98503ed56e547.png" alt=""></div>
+<div class="courses-section__name">Аналитика</div>
+<span class="main_themes_badge_">64</span>
+</a>
+</div>
+<div class="col-lg-3 col-md-4 col-sm-6 col-6" id="bx_3966226736_7960">
+<a class="courses-section__item" href="/finansy-economics/">
+<div class="courses-section__img"><img class="courses-section__image" src="/upload/iblock/76a/76ab845f607813ea0d44e59c52e28ad6.png" alt=""></div>
+<div class="courses-section__name">Финансы Экономика</div>
+<span class="main_themes_badge_">133</span>
+</a>
+</div>
+<div class="col-lg-3 col-md-4 col-sm-6 col-6" id="bx_3966226736_9465">
+<a class="courses-section__item" href="/gkh/">
+<div class="courses-section__img"><img class="courses-section__image" src="/upload/iblock/00f/00f7024dcef8931c961b5f3a18d71cf1.png" alt=""></div>
+<div class="courses-section__name">ЖКХ</div>
+<span class="main_themes_badge_">28</span>
+</a>
+</div>
+</div>
+</section>
+</div>
+<section class="nav_part-1">
+<div class="nav_part_list container">
+<a href="#main-clients-wrapper" class="bl_style bl_style-a">
+<header class="bl_header">Наши клиенты</header>
+<p class="bl_text"></p>
+</a>
+<a href="#review-section" class="bl_style bl_style-a">
+<header class="bl_header">Отзывы</header>
+<p class="bl_text"></p>
+</a>
+<a href="/terms/" class="bl_style bl_style-a">
+<header class="bl_header">Условия обучения</header>
+<p class="bl_text"></p>
+</a>
+<a href="/teachers/" class="bl_style bl_style-a">
+<header class="bl_header">Преподаватели</header>
+<p class="bl_text"></p>
+</a>
+</div>
+</section>
+<section class="nav_part-2">
+<h2 class="section_header">Форматы обучения</h2>
+<div class="nav_part_list container">
+<article class="bl_style bl_style-b">
+<header class="bl_header"><a href="/constructor/?constructor=Y&format=HgB3C2NF" class="article_link2">Онлайн-курс</a></header>
+<figure class="bl_figure">
+<img class="bl_figure-img" src="/resize/w360/70/upload/uf/692/692a65e6c79a4d02a533dc36fcf8806f.jpg" alt="Онлайн-курс" />
+</figure>
+<p class="bl_text"></p>
+<footer class="bl_footer">
+<a href="/constructor/?constructor=Y&format=HgB3C2NF" class="article_link">Подробнее</a>
+</footer>
+</article>
+<article class="bl_style bl_style-b">
+<header class="bl_header"><a href="/constructor/?constructor=Y&format=DSO" class="article_link2">Видеокурс</a></header>
+<figure class="bl_figure">
+<img class="bl_figure-img" src="/resize/w360/70/upload/uf/5b1/5b10560d0c1a9a1f279c3420c6e413d7.jpg" alt="Видеокурс" />
+</figure>
+<p class="bl_text"></p>
+<footer class="bl_footer">
+<a href="/constructor/?constructor=Y&format=DSO" class="article_link">Подробнее</a>
+</footer>
+</article>
+<article class="bl_style bl_style-b">
+<header class="bl_header"><a href="/constructor/?constructor=Y&format=DJMGuC3Y" class="article_link2">очный</a></header>
+<figure class="bl_figure">
+<img class="bl_figure-img" src="/resize/w360/70/upload/uf/0f5/0f5a8828b74324bba65ed44eeec9be8a.jpg" alt="очный" />
+</figure>
+<p class="bl_text"></p>
+<footer class="bl_footer">
+<a href="/constructor/?constructor=Y&format=DJMGuC3Y" class="article_link">Подробнее</a>
+</footer>
+</article>
+</div>
+</section>
+<h1 style="text-align: center; margin: 0 0 40px 0">Бизнес-тренинги, курсы повышения квалификации</h1>
+<section class="nav_part-3 section--half section--half-left section--half-bg">
+<div class="nav_part_list">
+<div class="bl_style bl_style-a">
+<p class="bl_text">Для российских компаний</p>
+</div>
+<div class="bl_style bl_style-a">
+<p class="bl_text">Профессиональный фокус</p>
+</div>
+<div class="bl_style bl_style-a">
+<p class="bl_text">Высокий стандарт качества</p>
+</div>
+<div class="bl_style bl_style-a">
+<p class="bl_text">Выбор форматов обучения</p>
+</div>
+<div class="bl_style bl_style-a">
+<p class="bl_text">Более 2000 отзывов</p>
+</div>
+<div class="bl_style bl_style-a">
+<p class="bl_text">Без отрыва от работы</p>
+</div>
+</div>
+</section>
+<section class="nav_part nav_part-4">
+<h2 class="section_header">Наши новости</h2>
+<div class="nav_part_list container">
+<article class="bl_style bl_style-c" id="bx_3218110189_362347">
+<header class="bl_header">
+<time class="bl_date" datetime="01-03-2021">01.03.2021</time>
+<h2 class="bl_header-name">Фотоконкурс «Учусь в РШУ» — итоги февраля</h2>
+</header>
+<figure class="bl_figure">
+<img src="/crop/w230h230/75/upload/iblock/257/257e30ea60be79b8087570d7e44b4c2b.jpg" alt="Фотоконкурс «Учусь в РШУ» — итоги февраля" class="bl_figure-img">
+</figure>
+<p class="bl_text">Подводим итоги ежемесячного конкурса «Учусь в РШУ».</p>
+<footer class="bl_footer">
+<a href="/news/362347/" class="link article_link">Читать далее</a>
+</footer>
+</article>
+<article class="bl_style bl_style-c" id="bx_3218110189_362342">
+<header class="bl_header">
+<time class="bl_date" datetime="01-03-2021">01.03.2021</time>
+<h2 class="bl_header-name">25-й Форум административных директоров</h2>
+</header>
+<figure class="bl_figure">
+<img src="/crop/w230h230/75/upload/iblock/8ee/8ee1220dfe3762cf1a4c2f4ec3c64cdd.jpg" alt="25-й Форум административных директоров" class="bl_figure-img">
+</figure>
+<p class="bl_text">Форум пройдет при поддержке Русской Школы Управления.</p>
+<footer class="bl_footer">
+<a href="/news/362342/" class="link article_link">Читать далее</a>
+</footer>
+</article>
+<article class="bl_style bl_style-c" id="bx_3218110189_362251">
+<header class="bl_header">
+<time class="bl_date" datetime="23-02-2021">23.02.2021</time>
+<h2 class="bl_header-name">С Днем защитника Отечества!</h2>
+</header>
+<figure class="bl_figure">
+<img src="/crop/w230h230/75/upload/iblock/051/0517e7ea222ef31f04e167caa62565af.jpg" alt="С Днем защитника Отечества!" class="bl_figure-img">
+</figure>
+<p class="bl_text">Русская Школа Управления поздравляет с праздником.</p>
+<footer class="bl_footer">
+<a href="/news/362251/" class="link article_link">Читать далее</a>
+</footer>
+</article>
+<article class="bl_style bl_style-c" id="bx_3218110189_362250">
+<header class="bl_header">
+<time class="bl_date" datetime="20-02-2021">20.02.2021</time>
+<h2 class="bl_header-name">Онлайн-марафон «HR ТРАНСФОРМАЦИЯ 2021»</h2>
+</header>
+<figure class="bl_figure">
+<img src="/crop/w230h230/75/upload/iblock/c2b/c2be98fe141aa8ab863b548a79852084.jpg" alt="Онлайн-марафон «HR ТРАНСФОРМАЦИЯ 2021»" class="bl_figure-img">
+</figure>
+<p class="bl_text">Марафон пройдет при поддержке Русской Школы Управления.</p>
+<footer class="bl_footer">
+<a href="/news/362250/" class="link article_link">Читать далее</a>
+</footer>
+</article>
+</div><div class="container">
+<a href="/news/" class="btn_style-a">
+Все новости
+</a>
+</div>
+</section>
+<section id="main-clients-wrapper" class="nav_part  nav_part-5 section--half section--half-right">
+<div class="section--part">
+<h2 class="section_header section_header--line">Наши клиенты</h2>
+<div class="bl_list bl_clients_slider">
+<div class="bl_clients_block">
+<figure id="bx_651765591_87126" class="bl_figure">
+<img src="/upload/resize_cache/iblock/10f/156_90_0/10f18542ebf629bf17a05e52ea9e7973.png" alt="Восточный банк" class="clients_item">
+</figure>
+<figure id="bx_651765591_87122" class="bl_figure">
+<img src="/upload/iblock/cf3/cf3e71a254700344c9cbd32b58f329c6.png" alt="Уралтрансбанк" class="clients_item">
+</figure>
+<figure id="bx_651765591_87118" class="bl_figure">
+<img src="/upload/iblock/c6f/c6f9d4a582ee91d129659729d2e57b07.png" alt="УБРР" class="clients_item">
+</figure>
+<figure id="bx_651765591_87114" class="bl_figure">
+<img src="/upload/iblock/f69/f699ad00320e7cc47568e194520380a0.png" alt="Россельхозбанк" class="clients_item">
+</figure>
+<figure id="bx_651765591_87110" class="bl_figure">
+ <img src="/upload/iblock/0a4/0a4941ce1521307cc5220da260e068b2.png" alt="Росбанк" class="clients_item">
+</figure>
+<figure id="bx_651765591_87106" class="bl_figure">
+<img src="/upload/resize_cache/iblock/32f/156_90_0/32f26daef0fdafcb660cbafc8667c2cf.png" alt="Московский кредитный банк" class="clients_item">
+</figure>
+</div>
+<div class="bl_clients_block">
+<figure id="bx_651765591_87102" class="bl_figure">
+<img src="/upload/resize_cache/iblock/3a0/156_90_0/3a09cd512c6f318afe1d7d1d25aebb6d.png" alt="Метрополь" class="clients_item">
+</figure>
+<figure id="bx_651765591_87098" class="bl_figure">
+<img src="/upload/iblock/9d1/9d1b865a05fc2812562d36857351dce4.png" alt="Капитал" class="clients_item">
+</figure>
+<figure id="bx_651765591_87094" class="bl_figure">
+<img src="/upload/iblock/c72/c7204bcb76004056126671844fded207.png" alt="Газбанк" class="clients_item">
+</figure>
+<figure id="bx_651765591_87090" class="bl_figure">
+<img src="/upload/iblock/a8a/a8a12a6310362fa5f863a08f2423a5c8.png" alt="Агропромбанк" class="clients_item">
+</figure>
+<figure id="bx_651765591_87086" class="bl_figure">
+<img src="/upload/resize_cache/iblock/bfd/156_90_0/bfd764da87094511fa3b1a6a1ec41229.png" alt="Углеметбанк" class="clients_item">
+</figure>
+<figure id="bx_651765591_87082" class="bl_figure">
+<img src="/upload/iblock/cab/cab85e0ee383c16ba2ad5b84a7175563.png" alt="Альфа-банк" class="clients_item">
+</figure>
+</div>
+<div class="bl_clients_block">
+<figure id="bx_651765591_87078" class="bl_figure">
+<img src="/upload/resize_cache/iblock/268/156_90_0/2684f44485522e0beab05451f309b95c.png" alt="Уралсиб" class="clients_item">
+</figure>
+<figure id="bx_651765591_87074" class="bl_figure">
+<img src="/upload/iblock/5c5/5c5c6e1a2b15ec50cdf9db349ccec58b.png" alt="Яндекс.Деньги" class="clients_item">
+</figure>
+<figure id="bx_651765591_87070" class="bl_figure">
+<img src="/upload/iblock/fa7/fa77bd74bafbfc21f081855f78ea67d8.png" alt="ФИНАМ" class="clients_item">
+</figure>
+<figure id="bx_651765591_87066" class="bl_figure">
+<img src="/upload/iblock/5bd/5bdc52f74052324ad2a7c8cd137712cf.png" alt="Запсибкомбанк" class="clients_item">
+</figure>
+<figure id="bx_651765591_87062" class="bl_figure">
+<img src="/upload/iblock/1dc/1dc12c63e22ac81837ec579685ff8315.png" alt="СОВКОМБАНК" class="clients_item">
+</figure>
+<figure id="bx_651765591_87058" class="bl_figure">
+<img src="/upload/iblock/5b2/5b2727bae1491b0a05ab051774ca40d9.png" alt="Райффайзен банк" class="clients_item">
+</figure>
+</div>
+<div class="bl_clients_block">
+<figure id="bx_651765591_87054" class="bl_figure">
+<img src="/upload/iblock/12e/12e2a91eed9de0eeae5fd0f16401d96b.png" alt="МикроЗайм" class="clients_item">
+</figure>
+<figure id="bx_651765591_87050" class="bl_figure">
+<img src="/upload/iblock/5cc/5cc1b4988e3cab723ef913cd9a566b08.png" alt="СКБ-Банк" class="clients_item">
+</figure>
+<figure id="bx_651765591_87046" class="bl_figure">
+<img src="/upload/iblock/04c/04cbd5afae77ecf10812f8b1748f753e.png" alt="Банк Москвы" class="clients_item">
+</figure>
+<figure id="bx_651765591_87042" class="bl_figure">
+<img src="/upload/iblock/7db/7dbb728f203c8db1166ae2f3a4bd0647.png" alt="Внешторгбанк" class="clients_item">
+</figure>
+<figure id="bx_651765591_87038" class="bl_figure">
+<img src="/upload/iblock/c7b/c7ba4435630a2b5a1170bfb4e5e0798a.png" alt="ФК Открытие" class="clients_item">
+</figure>
+<figure id="bx_651765591_87034" class="bl_figure">
+<img src="/upload/iblock/526/52604aa0152286324c6e0ee2e01e09bf.png" alt="Сбербанк" class="clients_item">
+</figure>
+</div>
+<div class="bl_clients_block">
+<figure id="bx_651765591_87030" class="bl_figure">
+<img src="/upload/iblock/e9b/e9b588bdfc67bcbb04e5586b07a38e3c.png" alt="X5 RETAIL GROUP" class="clients_item">
+</figure>
+<figure id="bx_651765591_87026" class="bl_figure">
+<img src="/upload/iblock/be1/be1f1e330b2869e763691bd92126d4dc.png" alt="Зельгрос" class="clients_item">
+</figure>
+<figure id="bx_651765591_87022" class="bl_figure">
+<img src="/upload/iblock/245/24598d219f4677d105e29aa2af6a78d1.png" alt="ОВI" class="clients_item">
+</figure>
+<figure id="bx_651765591_87018" class="bl_figure">
+<img src="/upload/iblock/c0f/c0f93be5188754d33ed5ecd5e0068e6e.png" alt="ИКЕА" class="clients_item">
+</figure>
+<figure id="bx_651765591_87014" class="bl_figure">
+<img src="/upload/iblock/4ea/4eaceb0a28b30a007435a10d0691b098.png" alt="Леруа Мерлен" class="clients_item">
+</figure>
+<figure id="bx_651765591_87010" class="bl_figure">
+<img src="/upload/iblock/42b/42b57303184a1266f5353b12ab5dc808.png" alt="Эльдорадо" class="clients_item">
+</figure>
+</div>
+</div>
+</div>
+</section>
+<section class="review-section" id="review-section">
+<div class="container">
+<h2 class="section_header">Отзывы клиентов о нас</h2>
+<div class="review-slider lightgallery">
+<a href="/upload/iblock/731/731f259637f9c1a88cf759cc9a694637.jpg"><img src="/crop/w225h315/75/upload/iblock/731/731f259637f9c1a88cf759cc9a694637.jpg" alt=""></a>
+<a href="/upload/iblock/1e6/1e6e40eec85ea7d1c1c8b21481aa90fd.jpg"><img src="/crop/w225h315/75/upload/iblock/1e6/1e6e40eec85ea7d1c1c8b21481aa90fd.jpg" alt=""></a>
+<a href="/upload/iblock/39f/39f15306b99e42ffa8c1599449d6550f.jpg"><img src="/crop/w225h315/75/upload/iblock/39f/39f15306b99e42ffa8c1599449d6550f.jpg" alt=""></a>
+<a href="/upload/iblock/d54/d54c8a483ed5e47bb889fb2ba6c77f9e.jpg"><img src="/crop/w225h315/75/upload/iblock/d54/d54c8a483ed5e47bb889fb2ba6c77f9e.jpg" alt=""></a>
+<a href="/upload/iblock/dfd/dfdce6cef7f7f219d07d427e837deedf.jpg"><img src="/crop/w225h315/75/upload/iblock/dfd/dfdce6cef7f7f219d07d427e837deedf.jpg" alt=""></a>
+<a href="/upload/iblock/16f/16f861983bdea99e7d6a2507b3919297.jpg"><img src="/crop/w225h315/75/upload/iblock/16f/16f861983bdea99e7d6a2507b3919297.jpg" alt=""></a>
+<a href="/upload/iblock/2a3/2a3036da9e32473716fb87099e892d1a.jpg"><img src="/crop/w225h315/75/upload/iblock/2a3/2a3036da9e32473716fb87099e892d1a.jpg" alt=""></a>
+<a href="/upload/iblock/99f/99f5353f24ddcf5c95eeccf140f726b2.jpg"><img src="/crop/w225h315/75/upload/iblock/99f/99f5353f24ddcf5c95eeccf140f726b2.jpg" alt=""></a>
+<a href="/upload/iblock/77d/77d779d124536e956866337fb8571d12.jpg"><img src="/crop/w225h315/75/upload/iblock/77d/77d779d124536e956866337fb8571d12.jpg" alt=""></a>
+<a href="/upload/iblock/6ee/6eebb98c1ae93bc35e9c97416d3cfbb2.jpg"><img src="/crop/w225h315/75/upload/iblock/6ee/6eebb98c1ae93bc35e9c97416d3cfbb2.jpg" alt=""></a>
+<a href="/upload/iblock/267/267f2cf46dd63935d6d40c5e4cab666e.jpg"><img src="/crop/w225h315/75/upload/iblock/267/267f2cf46dd63935d6d40c5e4cab666e.jpg" alt=""></a>
+<a href="/upload/iblock/6eb/6eb54132d7c38acae879bfe2cbee99da.jpg"><img src="/crop/w225h315/75/upload/iblock/6eb/6eb54132d7c38acae879bfe2cbee99da.jpg" alt=""></a>
+<a href="/upload/iblock/96d/96d5f765eb4663c3a9f5100d96f4ee22.jpg"><img src="/crop/w225h315/75/upload/iblock/96d/96d5f765eb4663c3a9f5100d96f4ee22.jpg" alt=""></a>
+<a href="/upload/iblock/9c4/9c487d138cd6150f3a2422fad7d1bb81.jpg"><img src="/crop/w225h315/75/upload/iblock/9c4/9c487d138cd6150f3a2422fad7d1bb81.jpg" alt=""></a>
+<a href="/upload/iblock/a5a/a5a97bcb5199a394d8451e125bb6ebe6.jpg"><img src="/crop/w225h315/75/upload/iblock/a5a/a5a97bcb5199a394d8451e125bb6ebe6.jpg" alt=""></a>
+<a href="/upload/iblock/ccb/ccb36a660a506b0d75f44dc7f5bad3d0.jpg"><img src="/crop/w225h315/75/upload/iblock/ccb/ccb36a660a506b0d75f44dc7f5bad3d0.jpg" alt=""></a>
+<a href="/upload/iblock/a02/a02c1278df33bbe0a3aee3603307cc0c.jpg"><img src="/crop/w225h315/75/upload/iblock/a02/a02c1278df33bbe0a3aee3603307cc0c.jpg" alt=""></a>
+<a href="/upload/iblock/cf8/cf87c7e55aaed17de5d4088bf7d403c1.jpg"><img src="/crop/w225h315/75/upload/iblock/cf8/cf87c7e55aaed17de5d4088bf7d403c1.jpg" alt=""></a>
+<a href="/upload/iblock/2ac/2ac20fd6ccff94f4042836c7396eee69.jpg"><img src="/crop/w225h315/75/upload/iblock/2ac/2ac20fd6ccff94f4042836c7396eee69.jpg" alt=""></a>
+<a href="/upload/iblock/906/9061d0fede164fc61bae0fc020cff65b.jpg"><img src="/crop/w225h315/75/upload/iblock/906/9061d0fede164fc61bae0fc020cff65b.jpg" alt=""></a>
+<a href="/upload/iblock/b22/b22cc7d851d761772e4b838afa52035d.jpg"><img src="/crop/w225h315/75/upload/iblock/b22/b22cc7d851d761772e4b838afa52035d.jpg" alt=""></a>
+<a href="/upload/iblock/6ee/6ee9a864dce3ce1eabe5c953c229ed40.jpg"><img src="/crop/w225h315/75/upload/iblock/6ee/6ee9a864dce3ce1eabe5c953c229ed40.jpg" alt=""></a>
+<a href="/upload/iblock/931/9311861152ccf2a37196767b7430a5e2.jpg"><img src="/crop/w225h315/75/upload/iblock/931/9311861152ccf2a37196767b7430a5e2.jpg" alt=""></a>
+</div>
+</div>
+</section>
+
+<script type='text/javascript'>
+    var dataLayer = dataLayer || [];
+    dataLayer.push({
+        'event': 'crto_homepage',
+        crto: {
+            'email': '' // может быть пустой строкой
+        }
+    });
+</script>
+
+
+<script>
+    !function(f,b,e,v,n,t,s)
+    {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+        n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+        if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+        n.queue=[];t=b.createElement(e);t.async=!0;
+        t.src=v;s=b.getElementsByTagName(e)[0];
+        s.parentNode.insertBefore(t,s)}(window, document,'script',
+        'https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '2533445363353197');
+    fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+               src="https://www.facebook.com/tr?id=2533445363353197&ev=PageView&noscript=1"
+    /></noscript>
+
+<script src="/local/templates/uprav/js/lightbox/js/lightbox.min.js"></script><span class="footer_ie"></span>
+<footer class="footer_new">
+<div class="footer_line">
+<a class="footer-logo" href="/"><img src="/local/templates/uprav/images/footer-logo.png" alt=""></a>
+<div class="soc-list" style="align-self: center;">
+<a class="soc-item soc-item_vk" href="https://vk.com/rusuprav" target="_blank" rel="nofollow"><img src="/local/templates/uprav/images/vk.png" alt="Vk" /></a>
+<a class="soc-item soc-item_fb" href="https://www.facebook.com/uprav" target="_blank" rel="nofollow"><img src="/local/templates/uprav/images/fb.png" alt="Facebook" /></a>
+<a class="soc-item soc-item_inst" href="https://www.instagram.com/rusuprav/" target="_blank" rel="nofollow"><img src="/local/templates/uprav/images/inst.png" alt="Instagram" /></a>
+<a class="soc-item soc-item_tg" href="tg://join?invite=AAAAAE2IJQG12LjR5tYg2w" target="_blank" rel="nofollow"><img src="/local/templates/uprav/images/telegram.png" width=16 height=16 alt="Telegram" /></a>
+<a class="soc-item soc-item_you" href="https://www.youtube.com/channel/UClo5l1QmtS2PhkCcgQS8pDQ" target="_blank" rel="nofollow"><img src="/local/templates/uprav/images/you.png" alt="Youtube" /></a>
+<a class="soc-item soc-item_zen" href="https://uprav.ru/rshm/zen/" target="_blank" rel="nofollow"><img src="/local/templates/uprav/images/zen.png" width=17 height=17 /></a>
+</div>
+<div class="footer_tel-bl">
+<a class="footer__tel" property="telephone" content="88001000203" href="tel:88001000203">8 (800) 100-02-03</a>
+<div class="footer__tel-label">
+Звонок бесплатный </div>
+</div> </div>
+<div class="footer_line">
+ <div class="footer_email_form">
+<div class="email_subscribe_content" style="text-transform:uppercase;">
+<span style="font-size: 24px; line-height: 1.5em;">Подпишитесь на рассылку</span><br />
+и следите за новостями и акциями РШУ!
+<form id="footer_email_subscribe_form" class="email_form" action="/ajax/form/email_subscribe.php" style="margin:10px 0;">
+<input type="hidden" name="origin" value="footer_static">
+<input type="hidden" name="type" value="footer_static">
+<input name="email" type="email" placeholder="EMAIL" class="email_input" required>
+<input type="hidden" name="sessid" id="sessid_1" value="b1e7807f675176834b252cd421a6c553" /> <input name="fio_name" type="text" placeholder="ФИО" class="form__value">
+<button type="submit" class="btn_style-a submit_button email_subscribe_submit">Подписаться
+</button>
+</form>
+<div style="text-transform: none; font-size: .8em;">Нажимая &laquo;Подписаться&raquo;, я
+соглашаюсь<br />с
+<a class="agreement_link" href="/politika_peda.pdf" target="_blank" style="color:#ffffff;">Политикой
+обработки персональных данных</a>
+</div>
+</div>
+</div>
+<script>
+                $('#footer_email_subscribe_form input[name="origin"]').val(location.pathname);
+                $("#footer_email_subscribe_form").submit(function (e) {
+                    e.preventDefault(); // avoid to execute the actual submit of the form.
+                    var form = $(this);
+                    var url = form.attr('action');
+                    $.ajax({
+                        type: "POST",
+                        url: url,
+                        dataType: "html",
+                        data: form.serialize(), // serializes the form's elements.
+                        success: function (data) {
+                            console.log(data); // show response from the php script.
+                            $('.footer_email_form .email_subscribe_content').html(data);
+                            $('#overlay').remove();
+                        },
+                        error: function (e) {
+                            console.log('ERROR: ' + e);
+                            alert('ERROR: ' + e);
+                        },
+                    });
+
+
+                });
+            </script>
+<div class="footer__address footer__address-1">
+<div class="footer__address-title">Контакты</div>
+<b>г. Москва</b>, м.Ботанический сад/м.ВДНХ,<br>
+ул. Сельскохозяйственная, д.17, к. 5 <br>
+тел.: +7(495) 980-57-28 <div class="footer__region"><a href="/contacts/">Мы в регионах</a></div>
+</div>
+<nav class="footer_menu-1">
+<div class="footer__title">О школе</div>
+<div class="footer__menu">
+<a class="footer__link" href="/svedeniya-ob-obrazovatelnoy-organizatsii/osnovnye-svedeniya/">Сведения об образовательной организации</a>
+<a class="footer__link" href="/upload/req.pdf">Реквизиты</a>
+<a class="footer__link" href="/news/">Новости</a>
+<a class="footer__link" href="/about/cooperation/">Сотрудничество</a>
+</div> </nav>
+<nav class="footer_menu-2">
+<div class="footer__title">Клиентам</div>
+<div class="footer__menu">
+<a class="footer__link" href="/discounts/">Скидки и акции</a>
+<a class="footer__link" href="/terms/">Условия обучения</a>
+<a class="footer__link" href="/teachers/">Преподаватели</a>
+<a class="footer__link" href="/diplom/">Проверка документа</a>
+</div> </nav>
+</div>
+<div class="footer__pay-col">
+<div class="footer__pay">оплата</div>
+<div class="pay-list">
+<img class="pay-item" src="/local/templates/uprav/images/p1.png" alt="VISA">
+<img class="pay-item" src="/local/templates/uprav/images/p2.png" alt="Яндекс.Деньги">
+<img class="pay-item" src="/local/templates/uprav/images/p3.png" alt="MasterCard">
+<img class="pay-item" src="/local/templates/uprav/images/p4.png" alt="PayPal">
+<img class="pay-item" src="/local/templates/uprav/images/p5.png" alt="МИР">
+<img class="pay-item" src="/local/templates/uprav/images/p6.png" alt="Webmoney">
+<a href="/halva/"><img class="pay-item" src="/local/templates/uprav/images/halva_small.png" alt="Халва"></a> </div>
+</div>
+<div class="footer_line_bottomed">
+<div class="footer__danger">
+© Русская Школа Управления, 2002-2021. Все права защищены и охраняются законом.<br />
+Все содержание курсов обучения, семинаров, тренингов, представленных на сайте www.uprav.ru, является
+уникальным
+и принадлежит РШУ.
+</div>
+<div class="footer__spda" style="color:unset;">
+<a href="/politika_peda_ooo.pdf" target="_parent">Политика обработки персональных данных ООО РШУ</a>
+<br />Лицензия на образовательную деятельность № 029045, № 040697
+</div>
+</div>
+</footer>
+<script type="text/javascript">if (window.location.hash != '' && window.location.hash != '#') top.BX.ajax.history.checkRedirectStart('bxajaxid', '51b78d6804bc96da0ef72c25f6d4bc41')</script><div id="comp_51b78d6804bc96da0ef72c25f6d4bc41">
+<div class="modal fade modal-login" id="modal-head-auth" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal-dialog" role="document">
+<div class="modal-programm__content">
+<h2 class="modal-programm__title">Авторизация</h2>
+<form name="system_auth_form6zOYVN" class="modal-programm__form" method="post" action="/index.php?login=yes" onsubmit="return headAuth.execute(this)" target="_top">
+<input type="hidden" name="AUTH_FORM" value="Y" />
+<input type="hidden" name="TYPE" value="AUTH" />
+<div class="modal-programm__wrapper-text">
+<input type="text" name="USER_LOGIN" placeholder="Логин">
+</div>
+<div class="modal-programm__wrapper-text">
+<input type="password" name="USER_PASSWORD" placeholder="Пароль">
+</div>
+<div class="modal-programm__wrapper-button">
+<button class="modal-programm__submit" type="submit">Войти</button>
+</div>
+</form>
+<button type="button" class="close-modal" data-dismiss="modal" aria-label="Close"></button>
+</div>
+</div>
+</div>
+</div><script type="text/javascript">if (top.BX.ajax.history.bHashCollision) top.BX.ajax.history.checkRedirectFinish('bxajaxid', '51b78d6804bc96da0ef72c25f6d4bc41');</script><script type="text/javascript">top.BX.ready(BX.defer(function() {window.AJAX_PAGE_STATE = new top.BX.ajax.component('comp_51b78d6804bc96da0ef72c25f6d4bc41'); top.BX.ajax.history.init(window.AJAX_PAGE_STATE);}))</script>
+<div class="modal fade modal-consultation" id="consultationModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal-dialog" role="document">
+<div class="modal-programm__content">
+<h2 class="modal-programm__title">Консультация</h2>
+<form class="modal-programm__form ajax-add-form-result" data-ajax-after="form_result_default" data-success-message="Ваше сообщение успешно отправлено!">
+<input type="hidden" name="FORM_ID" value="6" />
+<div class="modal-programm__wrapper-text">
+<input required="required" type="text" name="VALUES[form_text_26]" placeholder="ФИО" />
+</div>
+<div class="modal-programm__wrapper-text">
+<input required="required" type="email" name="VALUES[form_text_30]" placeholder="E-mail" />
+</div>
+<div class="modal-programm__wrapper-text">
+<input class="field-phone-masked-input" required="required" type="text" name="VALUES[form_text_34]" placeholder="Телефон" />
+</div>
+<label class="modal-programm__wrapper-checkbox">
+<input checked="checked" class="input_basic" type="checkbox" required="required" /> Согласие на <a class="agreement_link" href="/politika_peda.pdf" target="_blank">обработку персональных данных</a>
+</label>
+<div class="modal-programm__wrapper-button">
+<button class="modal-programm__submit" type="submit">Отправить</button>
+</div>
+</form>
+<button type="button" class="close-modal" data-dismiss="modal" aria-label="Close"></button>
+</div>
+</div>
+</div>
+<div id="productModal" class="modal" style="display: hidden;">
+<div class="modalContent" style="/*overflow:auto;*/">
+<div class="modal-programm__content">
+<div class="modal-product-result">
+</div>
+<button type="button" class="close-modal" data-dismiss="modal" aria-label="Close"></button>
+</div>
+</div>
+<a href="#close-modal" rel="modal:close" class="close-modal ">Close</a>
+</div>
+<style>
+		.popup_email_subscribe {
+			background: rgb(67, 100, 114) !important;
+			background: linear-gradient(45deg, rgba(67, 100, 114, 1) 18%, rgba(100, 145, 164, 1) 100%) !important;
+		}
+
+		.popup_email_subscribe .email_subscribe_content {
+			display: flex;
+			align-items: center;
+			justify-content: center;
+			color: #ffffff;
+			flex-direction: column;
+			text-transform: uppercase;
+			line-height: 1.5em !important;
+			margin: 20px 0 !important;
+		}
+
+		.popup_email_subscribe .email_subscribe_content .email_form {
+			display: flex;
+			/*align-items: center;*/
+			justify-content: center;
+			flex-direction: column;
+		}
+
+		.popup_email_subscribe .email_subscribe_content .email_input {
+			width: 250px;
+			line-height: 1.5em;
+			margin: .5em 0;
+			padding: 5px 10px;
+			font-size: 1em;
+		}
+
+		.popup_email_subscribe .email_subscribe_content .submit_button {
+			margin: 1em;
+		}
+
+		.popup_email_subscribe .email_subscribe_content .politika_peda {
+			display: contents;
+			text-transform: none;
+			font-size: 0.9em;
+			line-height: 1em;
+		}
+
+		.email_subscribe_response {
+			text-align: center;
+			margin: 20px 0 40px;
+			line-height: 1.5em;
+			font-size: 1.5em;
+		}
+	</style>
+<div class="popup_email_subscribe modal fade " id="subscriptionModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="email_subscribe_content">
+<div style="font-size: 42px;line-height: initial;">Подпишитесь</div>
+<div>на рассылку о новых акциях</div>
+<div>и получите на обучение</div>
+<div style="font-size: 44px;line-height: initial;">скидку 5%</div>
+<form id="email_subscribe_form" class="email_form" action="/ajax/form/email_subscribe.php">
+<input name="email" type="email" placeholder="EMAIL" class="email_input" required>
+<input type="hidden" name="sessid" id="sessid_8" value="b1e7807f675176834b252cd421a6c553" /> <input name="fio_name" type="text" placeholder="ФИО" class="form__value">
+<button type="submit" class="btn_style-a submit_button email_subscribe_submit">Подписаться</button>
+<div class="politika_peda">Нажимая &laquo;Подписаться&raquo;, я соглашаюсь с
+<a class="agreement_link" href="/politika_peda.pdf" target="_blank" style="color:#ffffff;">Политикой
+обработки персональных данных</a>
+</div>
+</form>
+</div>
+</div>
+<script>
+      $("#email_subscribe_form").submit(function (e) {
+          e.preventDefault(); // avoid to execute the actual submit of the form.
+          var form = $(this);
+          var url = form.attr('action');
+          $.ajax({
+              type: "POST",
+              url: url,
+              dataType: "html",
+              data: form.serialize(), // serializes the form's elements.
+              success: function (data) {
+                  console.log(data); // show response from the php script.
+                  $('#subscriptionModal .email_subscribe_content').html(data);
+              },
+              error: function (e) {
+                  console.log('ERROR: ' + e);
+                  alert('ERROR: ' + e);
+              },
+          });
+
+
+      });
+	</script>
+<div id="programmModal" class="modal" style="max-width: auto !important;">
+<div class="modalContent" style="overflow:auto;">
+<h2 class="modal-programm__title">Программа курса</h2>
+<form id="modal-programm-form" class="modal-programm__form ajax-add-form-result" data-ajax-after="form_result_default" data-success-message="Ваше сообщение успешно отправлено!">
+<input type="hidden" name="FORM_ID" value="26">
+<input type="hidden" class="modal-programm__form-field-direction" name="VALUES[form_text_266]">
+<input type="hidden" class="modal-programm__form-field-id" name="VALUES[form_text_134]">
+<input type="hidden" class="modal-programm__form-field-id-crm" name="VALUES[form_text_170]">
+<input type="hidden" class="modal-programm__form-field-code" name="VALUES[form_text_138]">
+<input type="hidden" class="modal-programm__form-field-name" name="VALUES[form_text_190]">
+<input type="hidden" class="modal-programm__form-field-link" name="VALUES[form_text_194]">
+<input type="hidden" class="modal-programm__form-field-city" name="VALUES[form_text_274]">
+<div class="modal-programm__wrapper-text">
+<input required="required" name="VALUES[form_text_122]" type="text" placeholder="ФИО">
+</div>
+<div class="modal-programm__wrapper-text">
+<input required="required" name="VALUES[form_text_126]" type="text" placeholder="E-mail">
+</div>
+<div class="modal-programm__wrapper-text">
+<input required="required" name="VALUES[form_text_166]" type="text" placeholder="Телефон">
+</div>
+<div class="modal-programm__wrapper-text">
+<input name="VALUES[form_text_130]" type="text" placeholder="Город">
+</div>
+<label class="modal-programm__wrapper-checkbox">
+<input checked="checked" class="input_basic" type="checkbox" required="required"> Согласие на <a class="agreement_link" href="/politika_peda.pdf" target="_blank">обработку персональных данных</a>
+</label>
+<div class="modal-programm__wrapper-button">
+<button class="modal-programm__submit" type="submit">Получить на почту</button>
+</div>
+</form>
+</div>
+</div>
+<div class="modal fade modal-programm" id="programmModalOffer" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal-dialog" role="document">
+<div class="modal-programm__content">
+<h2 class="modal-programm__title">Коммерческое предложение</h2>
+<form id="modal-programm-form" class="modal-programm__form ajax-add-form-result" data-ajax-after="form_result_default" data-success-message="КП успешно отправлено на ваш email">
+<input type="hidden" name="FORM_ID" value="54">
+<input type="hidden" class="modal-programm__form-field-direction" name="VALUES[form_text_270]">
+<input type="hidden" class="modal-programm__form-field-id" name="VALUES[form_text_234]">
+<input type="hidden" class="modal-programm__form-field-id-crm" name="VALUES[form_text_250]">
+<input type="hidden" class="modal-programm__form-field-code" name="VALUES[form_text_238]">
+<input type="hidden" class="modal-programm__form-field-name" name="VALUES[form_text_254]">
+<input type="hidden" class="modal-programm__form-field-link" name="VALUES[form_text_258]">
+<input type="hidden" class="modal-programm__form-field-city" name="VALUES[form_text_262]">
+
+<div class="modal-programm__wrapper-text">
+<input required="required" name="VALUES[form_text_222]" type="text" placeholder="ФИО">
+</div>
+<div class="modal-programm__wrapper-text">
+<input name="VALUES[form_text_230]" type="text" placeholder="Название компании">
+</div>
+<div class="modal-programm__wrapper-text">
+<input required="required" name="VALUES[form_text_226]" type="text" placeholder="E-mail">
+</div>
+<div class="modal-programm__wrapper-text">
+<input required="required" name="VALUES[form_text_246]" type="text" placeholder="Телефон">
+</div>
+<label class="modal-programm__wrapper-checkbox">
+<input checked="checked" class="input_basic" type="checkbox" required="required"> Согласие на <a class="agreement_link" href="/politika_peda.pdf" target="_blank">обработку персональных
+данных</a>
+</label>
+<div class="modal-programm__wrapper-button">
+<button class="modal-programm__submit ld-ext-left" type="submit">Получить на почту</button>
+</div>
+</form>
+<button type="button" class="close-modal" data-dismiss="modal" aria-label="Close"></button>
+</div>
+</div>
+</div>
+
+<noscript>
+        <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TFVPK9"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+
+<script>(function (a, m, o, c, r, m) {
+                a[m] = {
+                    id: "26171",
+                    hash: "5fa9acb9bca5614cbbfab88a2be9d2385557e4b4c0834ffa4caf9bd195da95bc",
+                    locale: "ru",
+                    setMeta: function (p) {
+                        this.params = (this.params || []).concat([p])
+                    }
+                };
+                a[o] = a[o] || function () {
+                    (a[o].q = a[o].q || []).push(arguments)
+                };
+                var d = a.document, s = d.createElement('script');
+                s.async = true;
+                s.id = m + '_script';
+                s.src = 'https://gso.amocrm.ru/js/button.js?1605604915';
+                d.head && d.head.appendChild(s)
+            }(window, 0, 'amoSocialButton', 0, 0, 'amo_social_button'));</script>
+
+<script>
+    (function (w, d, s, h, id) {
+        w.roistatProjectId = id;
+        w.roistatHost = h;
+        var p = d.location.protocol == "https:" ? "https://" : "http://";
+        var u = /^.*roistat_visit=[^;]+(.*)?$/.test(d.cookie) ? "/dist/module.js" : "/api/site/1.0/" + id + "/init";
+        var js = d.createElement(s);
+        js.charset = "UTF-8";
+        js.async = 1;
+        js.src = p + h + u;
+        var js2 = d.getElementsByTagName(s)[0];
+        js2.parentNode.insertBefore(js, js2);
+    })(window, document, 'script', 'cloud.roistat.com', '7f859629d92133e42c5383d1bcd91ff6');
+</script>
+
+<div class="modal fade modal-table" id="tableModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal-dialog ajax-show-product-table-content" role="document">
+</div>
+</div>
+<div class="modal fade modal-table" id="tableCategoryModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal-dialog ajax-show-category-table-content" role="document">
+</div>
+</div>
+<div class="modal fade modal-table" id="tableAllCategoriesModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal-dialog ajax-show-all-categories-table-content" role="document"></div>
+</div>
+<div class="modal fade" id="notificationModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal-dialog modal-dialog_notification" role="document">
+<div class="modal-notification__content">
+<div class="modal-notification__messaage">
+</div>
+<button type="button" class="close-modal close-modal_notification" data-dismiss="modal" aria-label="Close"></button>
+</div>
+</div>
+</div>
+<div class="catalog-element-ajax-print-wrapper"></div>
+<div id="video_formats" class="lightbox lightbox-video-youtube" onclick="hideVideo('video_formats','youtube_formats')">
+<div class="lightbox-container">
+<div class="lightbox-content">
+<button onclick="hideVideo('video_formats','youtube_formats')" class="lightbox-close" style="background: #474747;">
+Закрыть | ✕
+</button>
+<div class="video-container">
+<iframe id="youtube_formats" width="960" height="520" src="https://www.youtube.com/embed/dbbJaGMeyZs?showinfo=0" frameborder="0" allowfullscreen></iframe>
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade" id="emailPopup" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal-dialog modal-dialog_notification" role="document">
+<div class="modal-notification__content">
+<div class="modal-notification__messaage">
+</div>
+<button type="button" class="close-modal close-modal_notification" data-dismiss="modal" aria-label="Close"></button>
+</div>
+</div>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.js"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.css" />
+<div class="modal fade modal-consultation" id="cityChange" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal-dialog" role="document">
+<div class="modal-programm__content">
+<h2 class="modal-programm__title">Выбрать город</h2>
+<div>
+<ul class="city-list-sort">
+<li>
+<span class="city_link2" data-id="12" data-code="">Москва</span>
+</li>
+<li>
+<a class="city_link1" data-id="5" data-code="sankt-peterburg" href="/sankt-peterburg/">Санкт-Петербург</a>
+</li>
+<li>
+<a class="city_link1" data-id="2" data-code="ekaterinburg" href="/ekaterinburg/">Екатеринбург</a>
+</li>
+<li>
+<a class="city_link1" data-id="10" data-code="kazan" href="/kazan/">Казань</a>
+</li>
+<li>
+<a class="city_link1" data-id="4" data-code="krasnodar" href="/krasnodar/">Краснодар</a>
+</li>
+<li>
+<a class="city_link1" data-id="6" data-code="novosibirsk" href="/novosibirsk/">Новосибирск</a>
+</li>
+<li>
+<a class="city_link1" data-id="11" data-code="perm" href="/perm/">Пермь</a>
+</li>
+<li>
+<a class="city_link1" data-id="7" data-code="rostov-na-donu" href="/rostov-na-donu/">Ростов-на-Дону</a>
+</li>
+<li>
+<a class="city_link1" data-id="1" data-code="tyumen" href="/tyumen/">Тюмень</a>
+</li>
+<li>
+<a class="city_link1" data-id="8" data-code="ufa" href="/ufa/">Уфа</a>
+</li>
+<li>
+<a class="city_link1" data-id="13" data-code="mkala" href="/mkala/">Махачкала</a>
+</li>
+</ul>
+</div>
+<button type="button" class="close-modal" data-dismiss="modal" aria-label="Close"></button>
+</div>
+</div>
+</div>
+</body>
+</html>

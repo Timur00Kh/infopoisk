@@ -1,0 +1,620 @@
+<html>
+<head>
+<script type="text/javascript" src="//s2.ucoz.net/cgi/uutils.fcg?a=uprdata&r=0.685924075459447"></script>
+<script type="text/javascript">
+try{
+	Object.defineProperty(window, "u_global_data", {
+	   value: {
+	   		basic_params:{dcode:"0",ads_lite:0,isadblock:1,user_country:"ru",user_ip:"81.222.191.199",server:"s2",site_type:"ucoz",site_lng:"RU",rndid:"bnVdK1mA",ban240pos:"",ischild:"1",ispolitic:"0",iswarez:"0",isnative:"1",isdoubtful:"0",isabandoned:"0",iscriteo970:"1",isreligion:"0",iswarn:"0",iabcat:"5-12",isgoogle:"0",isyandex:"0",ismobile:"0"},
+	   		geo:{city:"Saint Petersburg",region:"Sankt-Peterburg"},
+	   		urls:{
+	   			adprru:[],
+	   			adprci:[]
+	   		}
+	   	},
+	   writable: false,
+	   configurable: false
+	});
+	/*var u_global_data={
+		basic_params:{dcode:"0",ads_lite:0,isadblock:1,user_country:"ru",user_ip:"81.222.191.199",server:"s2",site_type:"ucoz",site_lng:"RU",rndid:"bnVdK1mA",ban240pos:"",ischild:"1",ispolitic:"0",iswarez:"0",isnative:"1",isdoubtful:"0",isabandoned:"0",iscriteo970:"1",isreligion:"0",iswarn:"0",iabcat:"5-12",isgoogle:"0",isyandex:"0",ismobile:"0"},
+		geo:{city:"Saint Petersburg",region:"Sankt-Peterburg"},
+		urls:{
+			adprru:[],
+			adprci:[]
+		}
+	};*/
+	
+}catch(e){};
+</script>
+<script type="text/javascript" src="https://s2.ucoz.net/bnr/blocks/ads.js?0.0670053978000631" onload="u_global_data.basic_params.isadblock=0"></script>
+<script type="text/javascript" src="//collegy.ucoz.ru/ZP_XKL7Y?NXvmmBxdGIUlw3uHxBmSvPxHmcMSbmMaitW0zB4RsFapQl5D2FN5Lw1HaYnkkj%3BzNqzvA3%5EP"></script>
+
+	<script type="text/javascript">new Image().src = "//counter.yadro.ru/hit;ucoznet2?r"+escape(document.referrer)+(screen&&";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth||screen.pixelDepth))+";u"+escape(document.URL)+";"+Date.now();</script>
+	<script type="text/javascript">new Image().src = "//counter.yadro.ru/hit;ucoz_desktop_ad?r"+escape(document.referrer)+(screen&&";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth||screen.pixelDepth))+";u"+escape(document.URL)+";"+Date.now();</script>
+			<script type="text/javascript">
+				var hst = location.host;
+
+				if(hst.indexOf('.usite.pro') !== -1){
+					new Image().src = "//counter.yadro.ru/hit;zone_usitepro?r"+escape(document.referrer)+(screen&&";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth||screen.pixelDepth))+";u"+escape(document.URL)+";"+Date.now();
+				}
+				if(hst.indexOf('.my1.ru') !== -1){
+					new Image().src = "//counter.yadro.ru/hit;zone_my1ru?r"+escape(document.referrer)+(screen&&";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth||screen.pixelDepth))+";u"+escape(document.URL)+";"+Date.now();
+				}
+
+				if(hst.indexOf('.ucoz.net') !== -1){
+					new Image().src = "//counter.yadro.ru/hit;zone_ucoznet?r"+escape(document.referrer)+(screen&&";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth||screen.pixelDepth))+";u"+escape(document.URL)+";"+Date.now();
+				}
+			</script>
+		
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<title>Коллеги - ПЕДАГОГИЧЕСКИЙ ЖУРНАЛ КАЗАХСТАНА</title>
+
+<link type="text/css" rel="StyleSheet" href="/.s/src/css/843.css" />
+
+	<link rel="stylesheet" href="/.s/src/base.min.css" />
+	<link rel="stylesheet" href="/.s/src/layer1.min.css" />
+
+	<script src="/.s/src/jquery-1.12.4.min.js"></script>
+	
+	<script src="/.s/src/uwnd.min.js"></script>
+	<script type="text/javascript" src="//s2.ucoz.net/cgi/uutils.fcg?a=uSD&ca=2&ug=999&isp=0&r=0.308057148223551"></script>
+<script type="text/javascript">/* --- UCOZ-JS-INIT_CODE --- */
+	window.ulb = {photoPage:"Перейти на страницу с фотографией.", closeBtn:"Закрыть", error:"Запрошенный контент не может быть загружен. Пожалуйста, попробуйте позже.", next:"Следующий", prev:"Предыдущий", btnPlay:"Начать слайдшоу", btnToggle:"Изменить размер", };
+/* --- UCOZ-JS-END --- */</script>
+
+	<link rel="stylesheet" href="/.s/src/ulightbox/ulightbox.min.css" />
+	<script src="/.s/src/ulightbox/ulightbox.min.js"></script>
+	<script type="text/javascript">
+/* --- UCOZ-JS-DATA --- */
+window.uCoz = {"ssid":"125424464153407652166","language":"ru"};
+</script>
+
+	<style type="text/css">.UhideBlock{display:none; }
+</style>
+<script type="text/javascript">//<!--
+	function uSocialLogin(t) {
+		var params = { 'vkontakte':{ 'width':790, 'height':400 }, 'facebook':{ 'width':950, 'height':520 }, 'yandex':{ 'width':870, 'height':515 }, 'google':{ 'width':700, 'height':600 }, 'ok':{ 'width':710, 'height':390 } };
+		var ref = escape(location.protocol + '//' + ('collegy.ucoz.ru' || location.hostname) + location.pathname + ((location.hash ? ( location.search ? location.search + '&' : '?' ) + 'rnd=' + Date.now() + location.hash : ( location.search || '' ))));
+		// var ref = escape(location.href);
+		window.open('/'+t+'?ref='+ref,'conwin','width='+params[t].width+',height='+params[t].height+',status=1,resizable=1,left='+parseInt((screen.availWidth/2)-(params[t].width/2))+',top='+parseInt((screen.availHeight/2)-(params[t].height/2)-20)+'screenX='+parseInt((screen.availWidth/2)-(params[t].width/2))+',screenY='+parseInt((screen.availHeight/2)-(params[t].height/2)-20));
+		return false;
+	}
+//--></script>
+
+<link type="text/css" rel="stylesheet" href="/.s/src/social.css" />
+
+</head>
+
+<body>
+<div id="utbr8214" rel="s2"></div>
+<div id="contanier">
+<div id="centerBlock">
+<div id="topPick">
+<div id="leftColumn">
+<!--U1AHEADER1Z-->
+<div id="logoBlock"><h1><!-- <logo> -->Коллеги - педагогический журнал Казахстана<!-- </logo> --></h1></div>
+<div id="navBar"><p><a href="http://collegy.ucoz.ru/"><!--<s5176>-->Главная<!--</s>--></a> | <a href="/register"><!--<s3089>-->Регистрация<!--</s>--></a>  | <a href="javascript:;" rel="nofollow" onclick="new _uWnd('LF', ' ', -250, -110, {autosize:1, closeonesc:1, resize:1 }, {url:'/index/40' } ); return false;"><!--<s3087>-->Вход<!--</s>--></a> | <a href="http://collegy.ucoz.ru/news/rss/">RSS</a></p></div>
+<!--/U1AHEADER1Z-->
+<div id="textBlock">
+<h1>ПЕДАГОГИЧЕСКИЙ ЖУРНАЛ КАЗАХСТАНА</h1>
+<!-- <middle> --><!-- <body> --><div id="nativeroll_video_cont" style="display:none;"></div><span style="font-family: Arial; font-size: 14pt; font-weight: 400;"><span style="color: rgb(30, 144, 255);"></span></span>&nbsp; <span style="font-family: Arial; color: rgb(0, 0, 0); font-size: 10pt;"><em></em></span><span style="font-size: 12pt;"><span style="font-family: Tahoma; color: rgb(81, 81, 81); font-size: 12pt;" lang="EN-US"><o:p><div style="margin-top: 0px; margin-bottom: 0px;" align="center"><span style="font-family: Tahoma; color: rgb(81, 81, 81); font-size: 12pt;" lang="EN-US"><o:p><p style="margin: 0cm 0cm 0pt;" class="MsoNormal"><br><span style="font-size: 12pt;"><span style="color: rgb(0, 0, 0); font-size: 12pt;"><span style="font-family: Times New Roman; font-size: 12pt;"><o:p></o:p></span></span></span></p></o:p></span></div></o:p></span></span>
+
+<div><div id="myGrid" style="display:none;"><img alt="" src="/.s/img/ma/m/i3.gif" /></div><script type="text/javascript">
+function spages(p, link) {
+	if (0) {document.location.href = link.href; return; }
+	try {document.getElementById('myGrid').style.display = ''; }catch(e){}
+	_uPostForm('', {url:'news/' + p + '-0-0-0-0-0-' + Date.now() } );}</script><div id="allEntries"><div id="entryID3357"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="eBlock"><tr><td style="padding:3px;">
+
+<div class="eTitle" style="text-align:left;"><a href="/news/2021-12-01-3357">Как кто может опубликоваться в нашем интернет-журнале «Коллеги»?</a></div>
+<div class="eMessage" style="text-align:left;clear:both;padding-top:2px;padding-bottom:2px;"><p><span style="font-size:14px;"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><b>Уважаемые коллеги! </b></span></span></p>
+
+<p><span style="font-size:14px;"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><b>Выдача свидетельств о публикации на нашем сайте прекращена. На сайте за долгие скопилось очень много материалов учителей. Если вы хотите опубликовать на нем свою разработку &ndash; публикуйте. Вы также можете откликнуться на материалы коллеги, если есть такое желание. </b></span></span></p>
+
+<p><span style="font-size:14px;"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><b>Спасибо за то, что были с нами. </b></span></span></p>
+
+<p><span style="font-size:14px;"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><strong>Всем творческих успехов, здоровья, прекрасных учеников!</strong></span></span></p>
+
+<p><span style="font-size:14px;"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><strong>Главный редактор интернет-журнала &laquo;Коллеги&raquo;</strong></span></span></p>
+
+<p><span style="font-size:14px;"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><strong>Мананникова Людмила Борисовна,</strong></span></span></p>
+
+<p><span style="font-size:14px;"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><strong>учитель математики и журналист.</strong></span></span></p></div>
+<div class="eDetails" style="clear:both;">
+<div class="rate-stars-wrapper" style="float:right">
+			<style type="text/css">
+				.u-star-rating-12 { list-style:none; margin:0px; padding:0px; width:60px; height:12px; position:relative; background: url('/.s/img/stars/3/12.png') top left repeat-x }
+				.u-star-rating-12 li{ padding:0px; margin:0px; float:left }
+				.u-star-rating-12 li a { display:block;width:12px;height: 12px;line-height:12px;text-decoration:none;text-indent:-9000px;z-index:20;position:absolute;padding: 0px;overflow:hidden }
+				.u-star-rating-12 li a:hover { background: url('/.s/img/stars/3/12.png') left center;z-index:2;left:0px;border:none }
+				.u-star-rating-12 a.u-one-star { left:0px }
+				.u-star-rating-12 a.u-one-star:hover { width:12px }
+				.u-star-rating-12 a.u-two-stars { left:12px }
+				.u-star-rating-12 a.u-two-stars:hover { width:24px }
+				.u-star-rating-12 a.u-three-stars { left:24px }
+				.u-star-rating-12 a.u-three-stars:hover { width:36px }
+				.u-star-rating-12 a.u-four-stars { left:36px }
+				.u-star-rating-12 a.u-four-stars:hover { width:48px }
+				.u-star-rating-12 a.u-five-stars { left:48px }
+				.u-star-rating-12 a.u-five-stars:hover { width:60px }
+				.u-star-rating-12 li.u-current-rating { top:0 !important; left:0 !important;margin:0 !important;padding:0 !important;outline:none;background: url('/.s/img/stars/3/12.png') left bottom;position: absolute;height:12px !important;line-height:12px !important;display:block;text-indent:-9000px;z-index:1 }
+			</style><script type="text/javascript">
+				var usrarids = {};
+				function ustarrating(id, mark) {
+					if( !usrarids[id] ){
+						usrarids[id] = 1;
+						$(".u-star-li-"+id).hide();
+						_uPostForm('', {type:'POST', url:'/news/', data:{
+							'a':'65',
+							'id':id,
+							'mark':mark,
+							'mod':'news',
+							'ajax':'2'
+						}});
+					}
+				}
+			</script><ul id="uStarRating3357" class="uStarRating3357 u-star-rating-12" title="Рейтинг: 4.4/36">
+			<li id="uCurStarRating3357" class="u-current-rating uCurStarRating3357" style="width:88%;"></li></ul></div>
+<span class="e-category"><span class="ed-title">Категория:</span> <span class="ed-value"><a href="/news/1-0-7">Новости сайта</a></span></span><span class="ed-sep"> | </span>
+<span class="e-reads"><span class="ed-title">Просмотров:</span> <span class="ed-value">9923</span></span><span class="ed-sep"> | </span>
+<span class="e-author"><span class="ed-title">Добавил:</span> <span class="ed-value" ><a href="javascript://" rel="nofollow" onclick="window.open('/index/8-1', 'up1', 'scrollbars=1,top=0,left=0,resizable=1,width=700,height=375'); return false;">collegy</a></span></span><span class="ed-sep"> | </span>
+<span class="e-date"><span class="ed-title">Дата:</span> <span class="ed-value" title="3:23 AM">2021-12-01</span></span>
+
+</div></td></tr></table><br /></div><div id="entryID3506"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="eBlock"><tr><td style="padding:3px;">
+
+<div class="eTitle" style="text-align:left;"><a href="/news/2021-09-07-3506">Информация о журнале «Открытая школа»</a></div>
+<div class="eMessage" style="text-align:left;clear:both;padding-top:2px;padding-bottom:2px;"><p align="right" style="text-align:right">&nbsp;</p>
+
+<p style="text-align:justify">&laquo;Открытая школа&raquo; &ndash; республиканский информационно-методический журнал. Издается с ноября 2001 г. на казахском и русском языках. В нем находят отражение проблемы непрерывного образования: от дошкольного &ndash; до профессионального. Но б<b><i>о</i></b>льшее внимание в журнале уделено всем сторонам школьной жизни &ndash; образовательной политике, учебному процессу, предметам, методической и психологической службам, инклюзивному образованию, воспитательной работе, взаимоотношению с родителями, работе школьной библиотеки, взаимодействию с педагогической наукой и социумом и многие другие.</p>
+
+<p style="text-align:justify">Нашими авторами являются руководители системы образования, ученые-педагоги, педагоги-практики, преподаватели вузов и колледжей, общественные деятели, родители.</p>
+
+<p style="text-align:justify"><b>Приоритетные темы 2019 года</b> &ndash; обновление содержания образования, трехъязычие, краеведение, инклюзивное образование, функциональная грамотность.</p>
+
+<h4><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Подписываясь на &laquo;Открытую школу&raquo;, вы</span></span></h4>
+
+<ul>
+ <li style="text-align:justify"><span style="tab-stops:list 54.0pt">приобретаете информационную фору в решении сложных вопросов осуществления реформы образования,</span></li>
+ <li style="text-align:justify"><span style="tab-stops:list 54.0pt">находите дополнительные инструменты, облегчающие ваш труд,</span></li>
+ <li style="text-align:justify"><span style="tab-stops:list 54.0pt">пополняете свою &laquo;методическую копилку&raquo;,</span></li>
+ <li style="text-align:justify"><span style="tab-stops:list 54.0pt">попадаете в сообщество интересных друг другу людей,</span></li>
+ <li style="text-align:justify"><span style="tab-stops:list 54.0pt"><b>получаете льготы при размещении своей статьи (подписка на полугодие дает право на бесплатное размещение 1 статьи).</b></span></li>
+</ul>
+
+<p style="text-align:justify">Если вам понадобится дополнительная информация, вы можете связаться с нами по E-mail: <a href="mailto:o.shkola@rambler.ru"><span style="text-decoration:none"><span style="text-underline:none">o</span></span><span lang="RU" style="text-decoration:none"><span style="text-underline:none">.</span></span><span style="text-decoration:none"><span style="text-underline:none">shkola</span></span><span lang="RU" style="text-decoration:none"><span style="text-underline:none">@</span></span><span style="text-decoration:none"><span style="text-underline:none">rambler</span></span><span lang="RU" style="text-decoration:none"><span style="text-underline:none">.</span></span><span style="text-decoration:none"><span style="text-underline:none">ru</span></span></a> или по телефонам:</p>
+
+<p style="text-align:justify">8(727)249-84-38, 8 707 8200605 (редактор Лариса Алексеевна Попова)</p>
+
+<p style="text-align:justify">8(727
+		<!--"-->
+		<span class="entDots">... </span>
+		<span class="entryReadAll">
+			<a class="entryReadAllLink" href="/news/2021-09-07-3506">Читать дальше &raquo;</a>
+		</span></div>
+<div class="eDetails" style="clear:both;">
+<div class="rate-stars-wrapper" style="float:right"><ul id="uStarRating3506" class="uStarRating3506 u-star-rating-12" title="Рейтинг: 0.0/0">
+			<li id="uCurStarRating3506" class="u-current-rating uCurStarRating3506" style="width:0%;"></li></ul></div>
+<span class="e-category"><span class="ed-title">Категория:</span> <span class="ed-value"><a href="/news/1-0-3">Хочу все знать</a></span></span><span class="ed-sep"> | </span>
+<span class="e-reads"><span class="ed-title">Просмотров:</span> <span class="ed-value">1444</span></span><span class="ed-sep"> | </span>
+<span class="e-author"><span class="ed-title">Добавил:</span> <span class="ed-value" ><a href="javascript://" rel="nofollow" onclick="window.open('/index/8-1', 'up1', 'scrollbars=1,top=0,left=0,resizable=1,width=700,height=375'); return false;">collegy</a></span></span><span class="ed-sep"> | </span>
+<span class="e-date"><span class="ed-title">Дата:</span> <span class="ed-value" title="4:06 PM">2021-09-07</span></span>
+
+</div></td></tr></table><br /></div><div id="entryID3606"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="eBlock"><tr><td style="padding:3px;">
+
+<div class="eTitle" style="text-align:left;"><a href="/news/2021-02-23-3606">«Хочешь быть журналистом?»</a></div>
+<div class="eMessage" style="text-align:left;clear:both;padding-top:2px;padding-bottom:2px;"><p align="center" style="text-align:center"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><b><span style="font-size:11.0pt">Факультет журналистики Казахского национального университета имени аль-Фараби</span></b></span></span></p>
+
+<p align="center" style="text-align:center"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><b><span style="font-size:11.0pt">приглашает выпускников принять участие в Х</span></b><b><span lang="EN-US" style="font-size:11.0pt">III</span></b><b> </b><b><span style="font-size:11.0pt">Конкурсе школьных сочинений</span></b></span></span></p>
+
+<p align="center" style="text-align:center"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><b><span style="font-size:14.0pt">ПОЛОЖЕНИЕ о Конкурсе сочинений-2021</span></b></span></span></p>
+
+<p align="center" style="text-align:center"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><b><span style="font-size:14.0pt">&laquo;Хочешь быть журналистом?&raquo;</span></b></span></span></p>
+
+<p style="text-align:justify"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Организаторы Конкурса. </b>Факультет журналистики Казахского национального университета имени аль-Фараби, республиканские газеты &laquo;Дружные ребята&raquo;, &laquo;Улан&raquo;, Генеральное Консульство РФ в РК, Фонд Первого Президента<strong> </strong><strong><span style="background:white"><span style="font-weight:normal">Республики Казахстан &ndash; Елбасы</span></span></strong>, Радио ООН, &laquo;Казахское радио&raquo;, журнал &laquo;Открытая школа&raquo;, портал <a href="https://yorick.kz" style="color:blue; text-decoration:underline"><span style="text-decoration:none"><span style="text-underline:none">https://yorick.kz</span></span></a>, портал <a href="http://collegy.ucoz.ru/" style="color:blue; text-decoration:underline"><span style="text-decoration:none"><span style="text-underline:none">http://collegy.ucoz.ru/</span></span></a>.</span></span></p>
+
+<p style="text-align:justify; text-indent:36.0pt"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><b>Цель и задачи Конкурса. </b>Стратегической целью Конкурса является поиск, выявление одаренных молодых авторов, желающих поступить на факультет журналистики КазНУ имени аль-Фараби и планирующих связать свою будущую профессию с журналистикой.</span></span></p>
+
+<p><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><b><u>На конкурс принимается материал, написанный на одну из тем:</u></b></span></span></p>
+
+<ul>
+ <li style="margin-left:8px"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><b><span style="background:white"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;"><span style="color:black">Чем я могу помочь своей стране? К 30-летию Независимости Республики Казахстан.</span></span></span></b></span></span></li>
+ <li style="margin-left:8px"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><b><span style="background:white"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;"><span style="color:black">Нужна ли сегодня журналистика?</span></span></span></b></span></span></li>
+ <li style="margin-left:8px"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><b><span style="background:white"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;"><span style="color:black">Беречь братьев наших меньших...</span></span></span></b></span></span></li>
+ <li style="margin-left:8px"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><b><span style="background:white"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;"><span style="color:black">Нас притягивает космос! </span></span></span></b></span></span></li>
+ <li style="margin-left:8px"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><b><span style="background:white"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;"><span style="color:black">Как бороться с фейками в СМИ? </span></span></span></b></span></span></li>
+</ul>
+
+<p>
+		<!--"-->
+		<span class="entDots">... </span>
+		<span class="entryReadAll">
+			<a class="entryReadAllLink" href="/news/2021-02-23-3606">Читать дальше &raquo;</a>
+		</span></div>
+<div class="eDetails" style="clear:both;">
+<div class="rate-stars-wrapper" style="float:right"><ul id="uStarRating3606" class="uStarRating3606 u-star-rating-12" title="Рейтинг: 0.0/0">
+			<li id="uCurStarRating3606" class="u-current-rating uCurStarRating3606" style="width:0%;"></li></ul></div>
+<span class="e-category"><span class="ed-title">Категория:</span> <span class="ed-value"><a href="/news/1-0-11">Новости факультета журналистики КазНУ им. аль-Фараби</a></span></span><span class="ed-sep"> | </span>
+<span class="e-reads"><span class="ed-title">Просмотров:</span> <span class="ed-value">26</span></span><span class="ed-sep"> | </span>
+<span class="e-author"><span class="ed-title">Добавил:</span> <span class="ed-value" ><a href="javascript://" rel="nofollow" onclick="window.open('/index/8-1', 'up1', 'scrollbars=1,top=0,left=0,resizable=1,width=700,height=375'); return false;">collegy</a></span></span><span class="ed-sep"> | </span>
+<span class="e-date"><span class="ed-title">Дата:</span> <span class="ed-value" title="0:56 AM">2021-02-23</span></span>
+
+</div></td></tr></table><br /></div><div id="entryID3605"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="eBlock"><tr><td style="padding:3px;">
+
+<div class="eTitle" style="text-align:left;"><a href="/news/2020-12-09-3605">В Республике Казахстан пройдут мероприятия, посвященные 120-летию со дня рождения С.И. Ожегова</a></div>
+<div class="eMessage" style="text-align:left;clear:both;padding-top:2px;padding-bottom:2px;">В Республике Казахстан в рамках реализации проекта «Организация и проведение международных научных и научно-методических мероприятий, посвященных 120-летию со дня рождения С.И. Ожегова» по заказу Россотрудничества, ООО «Экспертный центр «Социология и Аналитика» (ozhegov@rus.study) проводит международные научные и научно-методические мероприятия, объединенные в одну международную конференцию. <br /> Конференция будет проведена 14-15 декабря в дистанционном формате, начало трансляции в 15:00 по местному времени. Форму заявки можно заполнить по ссылке https://ozhegov.rus.study/ <br /> Цель проведения мероприятий: укрепление позиций русского языка в государствах-участниках СНГ, повышение качества образования в части обеспечения языковой культуры, культуры речи, культуры чтения, культуры общения на русском языке. <br /> Задачи проведения мероприятий: повышение уровня просветительской деятельности в области русского языка и русской культуры в станах СНГ; ознакомление с деятельностью С.И. Ожегова, его «Словарем русского языка» и современным состоянием российской лексикографии. <br /> Тематика мероприятий следующая: «С.И. Ожегов и его «Словарь русского языка» в истории русистики и на современном этапе развития лингвистических знаний»; «Презентации новейших опубликованных словарей русского языка с участием их авторов»; «Демонстрация возможностей практического использования бумажных и электронных словарей русского языка в образовательном процессе русских школ»; «Ученые стран СНГ о русском языке и русской литературе». <br /> К участию в мероприятиях приглашаются: преподаватели вузов, учителя школ, работники библиотек, соотечественники, проживающие за рубежом, представители СМИ, слушатели курсов русского языка при представительствах Россотрудничества, представители органов управления образованием. <br /> В ходе проведения мероприятий участники ознакомятся с деятельностью С.И. Ожегова, его «Словарем русского языка», ставшим вкладом в отечественную и мировую науку, с современным состоянием российской лексикографии, обсудят актуальные проблемы развития русской филологии в странах СНГ, в том числе в Республике Казахстан. <br /> <!--IMG1--><a href="/_nw/36/43348864.jpg" class="ulightbox" target="_blank" title="Нажмите для просмотра в полном размере..."><img style="margin:0;padding:0;border:0;" src="/_nw/36/s43348864.jpg" align="" /></a><!--IMG1--></div>
+<div class="eDetails" style="clear:both;">
+<div class="rate-stars-wrapper" style="float:right"><ul id="uStarRating3605" class="uStarRating3605 u-star-rating-12" title="Рейтинг: 0.0/0">
+			<li id="uCurStarRating3605" class="u-current-rating uCurStarRating3605" style="width:0%;"></li></ul></div>
+<span class="e-category"><span class="ed-title">Категория:</span> <span class="ed-value"><a href="/news/1-0-1">Новости Казахстан</a></span></span><span class="ed-sep"> | </span>
+<span class="e-reads"><span class="ed-title">Просмотров:</span> <span class="ed-value">145</span></span><span class="ed-sep"> | </span>
+<span class="e-author"><span class="ed-title">Добавил:</span> <span class="ed-value" ><a href="javascript://" rel="nofollow" onclick="window.open('/index/8-25532', 'up25532', 'scrollbars=1,top=0,left=0,resizable=1,width=700,height=375'); return false;">linamukhina98</a></span></span><span class="ed-sep"> | </span>
+<span class="e-date"><span class="ed-title">Дата:</span> <span class="ed-value" title="10:12 AM">2020-12-09</span></span>
+
+</div></td></tr></table><br /></div><div id="entryID3604"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="eBlock"><tr><td style="padding:3px;">
+
+<div class="eTitle" style="text-align:left;"><a href="/news/2020-11-29-3604">ТЮЗ им. Г.Мусрепова в Алматы приглашает на свои спектакли</a></div>
+<div class="eMessage" style="text-align:left;clear:both;padding-top:2px;padding-bottom:2px;"><p><iframe allowfullscreen="" frameborder="0" height="360" src="https://www.youtube.com/embed/Wr_SGPsfErg" width="640"></iframe></p></div>
+<div class="eDetails" style="clear:both;">
+<div class="rate-stars-wrapper" style="float:right"><ul id="uStarRating3604" class="uStarRating3604 u-star-rating-12" title="Рейтинг: 0.0/0">
+			<li id="uCurStarRating3604" class="u-current-rating uCurStarRating3604" style="width:0%;"></li></ul></div>
+<span class="e-category"><span class="ed-title">Категория:</span> <span class="ed-value"><a href="/news/1-0-1">Новости Казахстан</a></span></span><span class="ed-sep"> | </span>
+<span class="e-reads"><span class="ed-title">Просмотров:</span> <span class="ed-value">152</span></span><span class="ed-sep"> | </span>
+<span class="e-author"><span class="ed-title">Добавил:</span> <span class="ed-value" ><a href="javascript://" rel="nofollow" onclick="window.open('/index/8-1', 'up1', 'scrollbars=1,top=0,left=0,resizable=1,width=700,height=375'); return false;">collegy</a></span></span><span class="ed-sep"> | </span>
+<span class="e-date"><span class="ed-title">Дата:</span> <span class="ed-value" title="1:14 AM">2020-11-29</span></span>
+
+</div></td></tr></table><br /></div><div id="entryID3603"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="eBlock"><tr><td style="padding:3px;">
+
+<div class="eTitle" style="text-align:left;"><a href="/news/2020-11-26-3603">Пишем вместе пионерско-комсомольскую книгу</a></div>
+<div class="eMessage" style="text-align:left;clear:both;padding-top:2px;padding-bottom:2px;"><p style="text-indent:35.45pt"><span style="font-size:14px;"><span style="line-height:normal"><span style="font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">&laquo;Взвейтесь кострами синие ночи!&raquo; </span></span></span></span></p>
+
+<p style="text-indent:35.45pt"><span style="font-size:14px;"><span style="line-height:normal"><span style="font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Дорогие друзья, приближаются две&nbsp; памятные даты, которые, мы надеемся, не останутся незамеченными. </span></span></span></span></p>
+
+<p style="text-indent:35.45pt"><span style="font-size:14px;"><span style="line-height:normal"><span style="font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">100 лет комсомолу Казахстана (июнь-июль 2021 г.) и 100 лет пионерской организации им. В.И.Ленина (май 2022 г.).</span></span></span></span></p>
+
+<p style="text-indent:35.45pt"><span style="font-size:14px;"><span style="line-height:normal"><span style="font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Для многих&nbsp; дедушек и бабушек сегодняшних школьников, их пап и мам&nbsp; детские годы и юношеские годы связаны именно с пионерией, с комсомолом, у них остались замечательные воспоминания о&nbsp; пионерском детстве, комсомольской юности.</span></span></span></span></p>
+
+<p style="text-indent:35.45pt"><span style="font-size:14px;"><span style="line-height:normal"><span style="font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Вот мы и подумали: а почему бы нам всем вместе не вспомнить, какими мы были, рассказать о самых ярких воспоминаниях нашего детства, юности. Конечно, мамы и папы сами в состоянии рассказать о своих пионерско-комсомольских &nbsp;годах, а вот бабушкам и дедушкам, возможно, это не под силу. Ведь во времена их детства и юности компьютера&nbsp; не было. Вот почему мы&nbsp; решили к созданию нашей летописи привлечь школьников. Пусть они возьмут интервью у бывших пионеров и комсомольцев &nbsp;в своей семье.</span></span></span></span></p>
+
+<p style="text-indent:35.45pt"><span style="font-size:14px;"><span style="line-height:normal"><span style="font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Пускай&nbsp; взрослые ответят, например, на такие вопросы:</span></span></span></span></p>
+
+<p style="text-indent:35.45pt"><span style="font-size:14px;"><span style="line-height:normal"><span style="font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">1.&nbsp;&nbsp;&nbsp; Помните ли вы, как вас принимали в пионеры, в комсомол?</span></span></span></span></p>
+
+<p style="tex
+		<!--"-->
+		<span class="entDots">... </span>
+		<span class="entryReadAll">
+			<a class="entryReadAllLink" href="/news/2020-11-26-3603">Читать дальше &raquo;</a>
+		</span></div>
+<div class="eDetails" style="clear:both;">
+<div class="rate-stars-wrapper" style="float:right"><ul id="uStarRating3603" class="uStarRating3603 u-star-rating-12" title="Рейтинг: 0.0/0">
+			<li id="uCurStarRating3603" class="u-current-rating uCurStarRating3603" style="width:0%;"></li></ul></div>
+
+<span class="e-reads"><span class="ed-title">Просмотров:</span> <span class="ed-value">187</span></span><span class="ed-sep"> | </span>
+<span class="e-author"><span class="ed-title">Добавил:</span> <span class="ed-value" ><a href="javascript://" rel="nofollow" onclick="window.open('/index/8-1', 'up1', 'scrollbars=1,top=0,left=0,resizable=1,width=700,height=375'); return false;">collegy</a></span></span><span class="ed-sep"> | </span>
+<span class="e-date"><span class="ed-title">Дата:</span> <span class="ed-value" title="1:00 AM">2020-11-26</span></span>
+
+</div></td></tr></table><br /></div><div id="entryID3602"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="eBlock"><tr><td style="padding:3px;">
+
+<div class="eTitle" style="text-align:left;"><a href="/news/2020-06-16-3602">РУССКАЯ ПЕСНЯ - РУССКАЯ ДУША В АЛМАТЫ</a></div>
+<div class="eMessage" style="text-align:left;clear:both;padding-top:2px;padding-bottom:2px;"><p><!--IMG1--><a href="/_nw/36/42559613.jpg" class="ulightbox" target="_blank" title="Нажмите для просмотра в полном размере..."><img style="margin:0;padding:0;border:0;" src="/_nw/36/s42559613.jpg" align="left" /></a><!--IMG1-->Традиционный фестиваль народной песни &quot;Русская песня - русская душа&quot; открылся 13 июня 2020 года на виртуальной площадке Россотрудничества в Алматы.</p>
+
+<p>Открывая плейлист, консул Генерального консульства Российской Федерации в Алма-Ате, заместитель руководителя представительства Россотрудничества в Республике Казахстан Ирина Переверзева поздравила зрителей канала с Днём России и отметила, что именно к этому празднику было приурочено ежегодное проведение фестиваля &quot;Русская песня - русская душа&quot; в Шымкенте. 
+		<!--"-->
+		<span class="entDots">... </span>
+		<span class="entryReadAll">
+			<a class="entryReadAllLink" href="/news/2020-06-16-3602">Читать дальше &raquo;</a>
+		</span></div>
+<div class="eDetails" style="clear:both;">
+<div class="rate-stars-wrapper" style="float:right"><ul id="uStarRating3602" class="uStarRating3602 u-star-rating-12" title="Рейтинг: 0.0/0">
+			<li id="uCurStarRating3602" class="u-current-rating uCurStarRating3602" style="width:0%;"></li></ul></div>
+<span class="e-category"><span class="ed-title">Категория:</span> <span class="ed-value"><a href="/news/1-0-9">Новости Россотрудничества</a></span></span><span class="ed-sep"> | </span>
+<span class="e-reads"><span class="ed-title">Просмотров:</span> <span class="ed-value">366</span></span><span class="ed-sep"> | </span>
+<span class="e-author"><span class="ed-title">Добавил:</span> <span class="ed-value" ><a href="javascript://" rel="nofollow" onclick="window.open('/index/8-1', 'up1', 'scrollbars=1,top=0,left=0,resizable=1,width=700,height=375'); return false;">collegy</a></span></span><span class="ed-sep"> | </span>
+<span class="e-date"><span class="ed-title">Дата:</span> <span class="ed-value" title="1:05 AM">2020-06-16</span></span>
+
+</div></td></tr></table><br /></div><div id="entryID3601"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="eBlock"><tr><td style="padding:3px;">
+
+<div class="eTitle" style="text-align:left;"><a href="/news/2020-06-15-3601">МЕЖДУНАРОДНЫЙ КРУГЛЫЙ СТОЛ В АЛМАТЫ</a></div>
+<div class="eMessage" style="text-align:left;clear:both;padding-top:2px;padding-bottom:2px;"><p><!--IMG1--><a href="/_nw/36/39761573.jpg" class="ulightbox" target="_blank" title="Нажмите для просмотра в полном размере..."><img style="margin:0;padding:0;border:0;" src="/_nw/36/s39761573.jpg" align="left" /></a><!--IMG1-->Международный Круглый стол, посвящённый 175 - летию Абая состоялся 12 июня в Алматы на виртуальной площадке Центра сближения культур&nbsp; под эгидой ЮНЕСКО при Министерстве&nbsp; культуры и спорта Республики Казахстан. В нём приняли участие учёные-лингвист, историки, общественные деятели.<br />
+&nbsp;<br />
+С основным докладом выступил известный казахстанский поэт, общественный деятель Олжас Сулейменов. В своём выступлении на примере Абая Кунанбаева он подробно остановился на роли духовных лидеров в становлении и развитии национального самосознания, в развитии в обществе культурных и гуманистических ценностей. Олжас Сулейменов также особо подчеркнул, что высокие нравственные идеалы, заложенные в произведениях великого классика, на долгие годы стали маяком для всех народов Великой Степи.
+		<!--"-->
+		<span class="entDots">... </span>
+		<span class="entryReadAll">
+			<a class="entryReadAllLink" href="/news/2020-06-15-3601">Читать дальше &raquo;</a>
+		</span></div>
+<div class="eDetails" style="clear:both;">
+<div class="rate-stars-wrapper" style="float:right"><ul id="uStarRating3601" class="uStarRating3601 u-star-rating-12" title="Рейтинг: 2.0/1">
+			<li id="uCurStarRating3601" class="u-current-rating uCurStarRating3601" style="width:40%;"></li></ul></div>
+<span class="e-category"><span class="ed-title">Категория:</span> <span class="ed-value"><a href="/news/1-0-9">Новости Россотрудничества</a></span></span><span class="ed-sep"> | </span>
+<span class="e-reads"><span class="ed-title">Просмотров:</span> <span class="ed-value">364</span></span><span class="ed-sep"> | </span>
+<span class="e-author"><span class="ed-title">Добавил:</span> <span class="ed-value" ><a href="javascript://" rel="nofollow" onclick="window.open('/index/8-1', 'up1', 'scrollbars=1,top=0,left=0,resizable=1,width=700,height=375'); return false;">collegy</a></span></span><span class="ed-sep"> | </span>
+<span class="e-date"><span class="ed-title">Дата:</span> <span class="ed-value" title="0:41 AM">2020-06-15</span></span>
+
+</div></td></tr></table><br /></div><div id="entryID3600"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="eBlock"><tr><td style="padding:3px;">
+
+<div class="eTitle" style="text-align:left;"><a href="/news/2020-06-15-3600">МЕЖДУНАРОДНАЯ ВСТРЕЧА ЛИНГВИСТОВ В АЛМАТЫ</a></div>
+<div class="eMessage" style="text-align:left;clear:both;padding-top:2px;padding-bottom:2px;"><p><!--IMG1--><a href="/_nw/36/56872420.jpg" class="ulightbox" target="_blank" title="Нажмите для просмотра в полном размере..."><img style="margin:0;padding:0;border:0;" src="/_nw/36/s56872420.jpg" align="left" /></a><!--IMG1-->Международная встреча лингвистов &quot;Россия, твои просторы безграничны...&quot; состоялась 12 июня 2020 года в Алматы, на виртуальной платформе Центра русского языка Казахского национального университета имени аль-Фараби. В ней приняли участие учёные, литераторы, студенты и преподаватели&nbsp; лингвистических факультетов, центров русского языка из Казахстана, России, Киргизии, Китая, Узбекистана, Азербайджана и Туркмении.</p>
+
+<p>Встреча была посвящена двум замечательным событиям - Дню России и пятилетию Русского центра Казахского национального университета имени аль-Фараби.
+		<!--"-->
+		<span class="entDots">... </span>
+		<span class="entryReadAll">
+			<a class="entryReadAllLink" href="/news/2020-06-15-3600">Читать дальше &raquo;</a>
+		</span></div>
+<div class="eDetails" style="clear:both;">
+<div class="rate-stars-wrapper" style="float:right"><ul id="uStarRating3600" class="uStarRating3600 u-star-rating-12" title="Рейтинг: 0.0/0">
+			<li id="uCurStarRating3600" class="u-current-rating uCurStarRating3600" style="width:0%;"></li></ul></div>
+<span class="e-category"><span class="ed-title">Категория:</span> <span class="ed-value"><a href="/news/1-0-9">Новости Россотрудничества</a></span></span><span class="ed-sep"> | </span>
+<span class="e-reads"><span class="ed-title">Просмотров:</span> <span class="ed-value">370</span></span><span class="ed-sep"> | </span>
+<span class="e-author"><span class="ed-title">Добавил:</span> <span class="ed-value" ><a href="javascript://" rel="nofollow" onclick="window.open('/index/8-1', 'up1', 'scrollbars=1,top=0,left=0,resizable=1,width=700,height=375'); return false;">collegy</a></span></span><span class="ed-sep"> | </span>
+<span class="e-date"><span class="ed-title">Дата:</span> <span class="ed-value" title="0:17 AM">2020-06-15</span></span>
+
+</div></td></tr></table><br /></div><div id="entryID3599"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="eBlock"><tr><td style="padding:3px;">
+
+<div class="eTitle" style="text-align:left;"><a href="/news/2020-06-15-3599">ДЕНЬ РОССИИ В АЛМАТЫ</a></div>
+<div class="eMessage" style="text-align:left;clear:both;padding-top:2px;padding-bottom:2px;"><p>Сразу две премьеры состоялись на виртуальной площадке представительства Россотрудничества. В Алматы на суд публики были представлены сразу две программы, посвящённые истории города Верного и его пригородов.</p>
+
+<p><!--IMG1--><a href="/_nw/35/37769714.jpg" class="ulightbox" target="_blank" title="Нажмите для просмотра в полном размере..."><img style="margin:0;padding:0;border:0;" src="/_nw/35/s37769714.jpg" align="left" /></a><!--IMG1-->Обращаясь со словами поздравления по случаю Дня России, консул Генерального консульства Российской Федерации в Алма-Ате, заместитель руководителя представительства Россотрудничества в Республике Казахстан Ирина Переверзева отметила, что дата премьер выбрана не случайно. Программы предлагают обширный материал для осознания того периода в жизни Казахстана, когда новые города и станицы возводились руками русских переселенцев. Ирина Переверзева поздравила всех зрителей канала с праздником и пожелала здоровья и счастья их близким.
+		<!--"-->
+		<span class="entDots">... </span>
+		<span class="entryReadAll">
+			<a class="entryReadAllLink" href="/news/2020-06-15-3599">Читать дальше &raquo;</a>
+		</span></div>
+<div class="eDetails" style="clear:both;">
+<div class="rate-stars-wrapper" style="float:right"><ul id="uStarRating3599" class="uStarRating3599 u-star-rating-12" title="Рейтинг: 2.0/1">
+			<li id="uCurStarRating3599" class="u-current-rating uCurStarRating3599" style="width:40%;"></li></ul></div>
+<span class="e-category"><span class="ed-title">Категория:</span> <span class="ed-value"><a href="/news/1-0-9">Новости Россотрудничества</a></span></span><span class="ed-sep"> | </span>
+<span class="e-reads"><span class="ed-title">Просмотров:</span> <span class="ed-value">320</span></span><span class="ed-sep"> | </span>
+<span class="e-author"><span class="ed-title">Добавил:</span> <span class="ed-value" ><a href="javascript://" rel="nofollow" onclick="window.open('/index/8-1', 'up1', 'scrollbars=1,top=0,left=0,resizable=1,width=700,height=375'); return false;">collegy</a></span></span><span class="ed-sep"> | </span>
+<span class="e-date"><span class="ed-title">Дата:</span> <span class="ed-value" title="0:01 AM">2020-06-15</span></span>
+
+</div></td></tr></table><br /></div><div class="catPages1" align="center" style="clear:both;" id="pagesBlock1"><b class="swchItemA"><span>1</span></b> <a class="swchItem" href="/news/?page2" onclick="spages('2', this);return false;"><span>2</span></a> <a class="swchItem" href="/news/?page3" onclick="spages('3', this);return false;"><span>3</span></a> <span class="swchItemDots"><span>...</span></span> <a class="swchItem" href="/news/?page161" onclick="spages('161', this);return false;"><span>161</span></a> <a class="swchItem" href="/news/?page162" onclick="spages('162', this);return false;"><span>162</span></a>  <a class="swchItem" href="/news/?page2" onclick="spages('2', this);return false;"><span>&raquo;</span></a></div></div><span style="font-size: 10pt;"><span style="font-family: Tahoma; color: rgb(81, 81, 81); font-size: 18pt;" lang="EN-US"><o:p></o:p></span></span><br><span style="font-family: Tahoma; color: black; font-size: 12pt;"><o:p></o:p></span><div align="left"><span style="font-size: 12pt;"><span style="font-family: Tahoma; color: rgb(81, 81, 81); font-size: 12pt;" lang="EN-US"><o:p><div style="margin-top: 0px; margin-bottom: 0px;" align="center"><span style="font-family: Tahoma; color: rgb(81, 81, 81); font-size: 12pt;" lang="EN-US"><o:p><em></em></o:p></span>&nbsp;</div>
+</o:p></span></span></div><span style="font-size: 12pt;"><span style="font-family: Tahoma; color: rgb(81, 81, 81); font-size: 12pt;" lang="EN-US"><o:p><div style="margin-top: 0px; margin-bottom: 0px;" align="center"><span style="font-family: Tahoma; color: rgb(81, 81, 81); font-size: 12pt;" lang="EN-US"><o:p><p style="margin: 0cm 0cm 0pt;" class="MsoNormal"><br></p><p style="margin: 0cm 0cm 0pt;" class="MsoNormal"><a href="http://pensiya.ucoz.com/">&nbsp;</a></p></o:p></span><span style="font-family: Tahoma; color: rgb(81, 81, 81); font-size: 12pt;" lang="EN-US"><o:p></o:p></span></div></o:p></span></span></div> <script src="http://connect.mail.ru/js/loader.js" type="text/javascript" charset="UTF-8"></script>
+		<script>
+			var container = document.getElementById('nativeroll_video_cont');
+
+			if (container) {
+				var parent = container.parentElement;
+
+				if (parent) {
+					const wrapper = document.createElement('div');
+					wrapper.classList.add('js-teasers-wrapper');
+
+					parent.insertBefore(wrapper, container.nextSibling);
+				}
+			}
+		</script>
+	
+		<script src='https://news.2xclick.ru/loader.js' async></script>
+
+		<script>
+			(function() {
+				if (
+					window.u_global_data &&
+					window.u_global_data.basic_params &&
+					window.u_global_data.basic_params.isabandoned === '1' &&
+					false // Временно всегда
+				) {
+					return;
+				}
+
+				var teasersWrapper = document.querySelector('div.js-teasers-wrapper');
+
+				if (teasersWrapper) {
+					teasersWrapper.insertAdjacentHTML('beforeend', '<div id="containerId20875"></div>');
+
+					(function(w, d, c, s, t){
+						w[c] = w[c] || [];
+						w[c].push(function(){
+							gnezdo.create({
+								tizerId: 20875,
+								containerId: 'containerId20875'
+							});
+						});
+					})(window, document, 'gnezdoAsyncCallbacks');
+				}
+			})();
+		</script>
+	
+		<div class="js-teasers-wrapper-down"></div>
+		<script src='https://news.2xclick.ru/loader.js' async></script>
+
+		<script type="application/javascript">
+			(function() {
+				if (
+					window.u_global_data &&
+					window.u_global_data.basic_params &&
+					window.u_global_data.basic_params.isabandoned === '1' &&
+					false // временно всегда
+				) {
+					return;
+				}
+
+				var teasersWrapper = document.querySelector('div.js-teasers-wrapper-down');
+
+				if (teasersWrapper) {
+					teasersWrapper.insertAdjacentHTML('beforeend', '<div id="zone_5bd6d48d4685df770e9ce60f"></div>');
+
+					(function(w, d, f, t, e, s){
+						w[f] = w[f] || [];
+						w[f].push(function() {
+							window.ClicksCloud.AdvManager.render({
+								clientId: 9701, siteId: 750,  campaignId: 26915,
+								blockId: "5bd6d48d4685df770e9ce60f", renderTo: "#zone_5bd6d48d4685df770e9ce60f"
+							});
+						});
+						for (var r = d.getElementsByTagName("script"), n = r.length; n--;) (r[n].src === t || r[n].src.indexOf(t) > -1) && (e = r[n]);
+						if (!e) (s = d.head || d.getElementsByTagName("head")[0], e = d.createElement("script"), e.type = "text/javascript", e.async=true, e.src = t, s.appendChild(e));
+					})(window, document, 'ClicksCloudAsyncCallbacks', 'https://cloudfastads.ru/app.js');
+				}
+			})();
+		</script>
+	<!-- </body> --><!-- </middle> -->
+</div>
+</div>
+<div id="rightColumn">
+<div id="dataBar">Понедельник, 2021-03-01, 10:46 PM<br/><!--<s5212>-->Приветствую Вас<!--</s>--> <b>Гость</b></div>
+<!-- <sblock_menu> -->
+
+<table class="menuTable"><tr><td><!-- <bc> --><div id="uMenuDiv1" class="uMenuV" style="position:relative;"><ul class="uMenuRoot">
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="http://collegy.ucoz.ru"><span>Главная страница</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/index/0-2"><span>Общественный совет журнала</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/index/0-15"><span>Редколлегия журнала</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="http://collegy.ucoz.ru/board/"><span>Доска объявлений </span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="http://collegy.ucoz.ru/publ/"><span>Каталог статей </span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="http://collegy.ucoz.ru/blog/"><span>Дневник </span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="http://collegy.ucoz.ru/photo/"><span>Фотоальбом </span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="http://collegy.ucoz.ru/gb/"><span>Гостевая книга </span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="http://www.collegy.ucoz.ru/dir/15"><span>Наши партнеры</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="http://collegy.ucoz.ru/load/"><span>Наша библиотечка</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="http://www.collegy.ucoz.ru/dir/"><span>Каталог сайтов</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/index/0-9"><span>Карта сайта</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="http://collegy.ucoz.ru/load"><span>Каталог файлов</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/index/0-19"><span>Клуб журнала "К...</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="http://collegy.ucoz.ru/publ/94"><span>Диспут-клуб</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="http://collegy.ucoz.ru/publ/20"><span>Материалы и разработки учителей</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="http://collegy.ucoz.ru/load/1" target="_blank"><span>Материалы и разработки учителей с приложениями</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/shop"><span>Интернет-магазин</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li></ul></div><script type="text/javascript">$(function(){_uBuildMenu('#uMenuDiv1',0,document.location.href+'/','uMenuItemA','uMenuArrow',2500);})</script><!-- </bc> --></td></tr></table>
+
+<!-- </sblock_menu> -->
+<!--U1CLEFTER1Z-->
+<!-- <block1> -->
+
+<table class="boxTable"><tbody><tr><th><h2><!-- <bt> --><!--<s5158>-->Форма входа<!--</s>--><!-- </bt> --></h2></th></tr><tr><td class="boxContent"><!-- <bc> --><div id="uidLogForm" align="center"><a href="javascript://" onclick="window.open('https://login.uid.me/?site=0collegy&ref='+escape(location.protocol + '//' + ('collegy.ucoz.ru' || location.hostname) + location.pathname + ((location.hash ? ( location.search ? location.search + '&' : '?' ) + 'rnd=' + Date.now() + location.hash : ( location.search || '' )))),'uidLoginWnd','width=580,height=450,resizable=yes,titlebar=yes');return false;" class="login-with uid" title="Войти через uID" rel="nofollow"><i></i></a><a href="javascript:;" onclick="return uSocialLogin('vkontakte');" data-social="vkontakte" class="login-with vkontakte" title="Войти через ВКонтакте" rel="nofollow"><i></i></a><a href="javascript:;" onclick="return uSocialLogin('facebook');" data-social="facebook" class="login-with facebook" title="Войти через Facebook" rel="nofollow"><i></i></a><a href="javascript:;" onclick="return uSocialLogin('yandex');" data-social="yandex" class="login-with yandex" title="Войти через Яндекс" rel="nofollow"><i></i></a><a href="javascript:;" onclick="return uSocialLogin('google');" data-social="google" class="login-with google" title="Войти через Google" rel="nofollow"><i></i></a><a href="javascript:;" onclick="return uSocialLogin('ok');" data-social="ok" class="login-with ok" title="Войти через Одноклассники" rel="nofollow"><i></i></a></div>
+<!-- </bc> --></td></tr></tbody></table>
+
+<!-- </block1> -->
+
+<!-- <block2> -->
+
+<table class="boxTable"><tbody><tr><th><h2><!-- <bt> --><!--<s5351>-->Категории раздела<!--</s>--><!-- </bt> --></h2></th></tr><tr><td class="boxContent"><!-- <bc> --><table border="0" cellspacing="1" cellpadding="0" width="100%" class="catsTable"><tr><td style="width:25%" class="catsTd" valign="top"><a href="/news/1-0-1" class="catName">Новости Казахстан</a> <span class="catNumData" style="unicode-bidi:embed;">[1793]</span></td><td style="width:25%" class="catsTd" valign="top"><a href="/news/1-0-5" class="catName">Новости Россия</a> <span class="catNumData" style="unicode-bidi:embed;">[387]</span></td><td style="width:25%" class="catsTd" valign="top"><a href="/news/1-0-6" class="catName">Портрет учителя</a> <span class="catNumData" style="unicode-bidi:embed;">[10]</span></td><td style="width:25%" class="catsTd" valign="top"><a href="/news/1-0-7" class="catName">Новости сайта</a> <span class="catNumData" style="unicode-bidi:embed;">[76]</span></td></tr><tr><td style="width:25%" class="catsTd" valign="top"><a href="/news/1-0-8" class="catName">Наш календарь</a> <span class="catNumData" style="unicode-bidi:embed;">[45]</span></td><td style="width:25%" class="catsTd" valign="top"><a href="/news/1-0-2" class="catName">Новости Планета</a> <span class="catNumData" style="unicode-bidi:embed;">[382]</span></td><td style="width:25%" class="catsTd" valign="top"><a href="/news/1-0-3" class="catName">Хочу все знать</a> <span class="catNumData" style="unicode-bidi:embed;">[199]</span><div class="catDescr">Для любознательных учителей</div></td><td style="width:25%" class="catsTd" valign="top"><a href="/news/1-0-4" class="catName">Гранты и конкурсы</a> <span class="catNumData" style="unicode-bidi:embed;">[112]</span><div class="catDescr">Гранты и конкурсы</div></td></tr><tr><td style="width:25%" class="catsTd" valign="top"><a href="/news/1-0-9" class="catName">Новости Россотрудничества</a> <span class="catNumData" style="unicode-bidi:embed;">[151]</span></td><td style="width:25%" class="catsTd" valign="top"><a href="/news/1-0-10" class="catName">ТЮЗ им. Н.Сац г.Алматы</a> <span class="catNumData" style="unicode-bidi:embed;">[30]</span></td><td style="width:25%" class="catsTd" valign="top"><a href="/news/1-0-11" class="catName">Новости факультета журналистики КазНУ им. аль-Фараби</a> <span class="catNumData" style="unicode-bidi:embed;">[3]</span></td><td style="width:25%" class="catsTd" valign="top"><a href="/news/1-0-12" class="catName">75 лет Великой Победе</a> <span class="catNumData" style="unicode-bidi:embed;">[6]</span></td></tr></table><!-- </bc> --></td></tr></tbody></table>
+
+<!-- </block2> -->
+
+<!-- <block675> -->
+<table class="boxTable"><tbody><tr><th><h2><!-- <bt> -->Социальные закладк<!-- </bt> --></h2></th></tr><tr><td class="boxContent"><!-- <bc> --><script type="text/javascript" src="/widget/?45;187|4|1|1|1|ru|0|0|1|0|1|1|0|0|0|0|0|0|1|1|1|1"></script><!-- </bc> --></td></tr></tbody></table>
+<!-- </block675> -->
+
+<!-- <block4> -->
+
+<!-- </block4> -->
+
+<!-- <block6> -->
+
+<table class="boxTable"><tbody><tr><th><h2><!-- <bt> --><!--<s3163>-->Поиск<!--</s>--><!-- </bt> --></h2></th></tr><tr><td class="boxContent"><div align="center"><!-- <bc> --><div class="searchForm"><form onsubmit="this.sfSbm.disabled=true" method="get" style="margin:0" action="/search/"><div align="center" class="schQuery"><input type="text" name="q" maxlength="30" size="20" class="queryField" /></div><div align="center" class="schBtn"><input type="submit" class="searchSbmFl" name="sfSbm" value="Найти" /></div></form></div><!-- </bc> --></div></td></tr></tbody></table>
+
+<!-- </block6> -->
+
+<!-- <block9> -->
+
+<!-- </block9> -->
+
+<!-- <block11> -->
+<table class="boxTable"><tbody><tr><th><h2><!-- <bt> --><!--<s5204>-->Друзья сайта<!--</s>--><!-- </bt> --></h2></th></tr><tr><td class="boxContent"><!-- <bc> --><!--<s1546>--><font face="Verdana" size="1"><p style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align="left"><span lang="ru">
+ <a href="http://skazka.ucoz.ru/">Академия сказочных наук</a></span> 
+</p><li><span lang="ru">
+ <div style="MARGIN: 0cm 0cm 0pt" class="MsoNormal">
+ <p style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align="left">
+ <a href="http://bala.ucoz.ru">Сайт детских домов Казахстана</a></p></div>
+ </span></li>
+
+<li><span lang="ru">
+ <div style="MARGIN: 0cm 0cm 0pt" class="MsoNormal">
+ <p style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align="left">
+ <a href="http://teacher-almaty.clan.su//">Школа-портал учителей Алматы</a></p></div>
+ </span></li>
+<li><span lang="ru">
+ <div style="MARGIN: 0cm 0cm 0pt" class="MsoNormal">
+ <p style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align="left">
+ <a href="http://dramteatr-kz.clan.su///">Театры Казахстана.kz</a></p></div>
+ </span></li>
+
+ 
+ 
+<li><span lang="ru">
+ <div style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px">
+ <p style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align="left">
+ <span lang="ru"><a href="http://komsomol-history.kz">История комсомола Казахстана</a></span></p></div>
+ </span></li>
+ 
+
+ 
+<li>
+ <div>
+ <p style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align="left">
+ <a href="http://niva.ucoz.kz/">Сайт Победы</a></p></div>
+ </li>
+ 
+
+<li>
+ <div style="MARGIN: 0cm 0cm 0pt" class="MsoNormal">
+ <p style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align="left">
+ <a href="http://proskurin.ucoz.kz/">Три столицы в лицах: Верный, 
+ Алма-Ата, Алматы - персональный сайт Владимира Проскурина</a></p></div>
+ </li>
+ 
+ 
+<li>
+ <div style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px">
+ <p style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align="left">
+ <span lang="ru"><a href="http://kalamger.ucoz.kz/">Казахстанская 
+ Академия журналистского мастерства</a></span></p></div> </li> 
+ <li><!-- </bc> --></td></tr></tbody></table>
+<!-- </block11> -->
+
+<!-- <block1514> -->
+
+<table class="boxTable"><tbody><tr><th><h2><!-- <bt> -->Теги<!-- </bt> --></h2></th></tr><tr><td class="boxContent"><!-- <bc> --><noindex><a style="font-size:11pt;" href="/search/%D0%BF%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F/" rel="nofollow" class="eTag eTagGr11">презентация</a> <a style="font-size:8pt;" href="/search/%D0%98%D1%80%D0%B8%D0%BD%D0%B0%20%D0%91%D0%BE%D1%80%D0%B8%D1%81%D0%B5%D0%BD%D0%BA%D0%BE/" rel="nofollow" class="eTag eTagGr8">Ирина Борисенко</a> <a style="font-size:10pt;" href="/search/2%20%D0%BA%D0%BB%D0%B0%D1%81%D1%81/" rel="nofollow" class="eTag eTagGr10">2 класс</a> <a style="font-size:11pt;" href="/search/%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D0%B9%20%D1%83%D1%80%D0%BE%D0%BA/" rel="nofollow" class="eTag eTagGr11">открытый урок</a> <a style="font-size:10pt;" href="/search/%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0/" rel="nofollow" class="eTag eTagGr10">информатика</a> <a style="font-size:8pt;" href="/search/%D1%84%D0%BB%D0%B8%D0%BF%D1%87%D0%B0%D1%80%D1%82/" rel="nofollow" class="eTag eTagGr8">флипчарт</a> <a style="font-size:9pt;" href="/search/%D0%B6%D0%B8%D0%B2%D0%BE%D1%82%D0%BD%D1%8B%D0%B5/" rel="nofollow" class="eTag eTagGr9">животные</a> <a style="font-size:8pt;" href="/search/%D0%BD%D0%BE%D0%B2%D1%8B%D0%B9%20%D0%B3%D0%BE%D0%B4/" rel="nofollow" class="eTag eTagGr8">новый год</a> <a style="font-size:8pt;" href="/search/9%20%D0%BA%D0%BB%D0%B0%D1%81%D1%81/" rel="nofollow" class="eTag eTagGr8">9 класс</a> <a style="font-size:9pt;" href="/search/5%20%D0%BA%D0%BB%D0%B0%D1%81%D1%81/" rel="nofollow" class="eTag eTagGr9">5 класс</a> <a style="font-size:8pt;" href="/search/%D1%82%D0%B2%D0%BE%D1%80%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%BE/" rel="nofollow" class="eTag eTagGr8">творчество</a> <a style="font-size:9pt;" href="/search/10%20%D0%BA%D0%BB%D0%B0%D1%81%D1%81/" rel="nofollow" class="eTag eTagGr9">10 класс</a> <a style="font-size:8pt;" href="/search/%D0%B3%D0%BB%D0%B0%D0%B3%D0%BE%D0%BB/" rel="nofollow" class="eTag eTagGr8">глагол</a> <a style="font-size:9pt;" href="/search/%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D0%BA%D0%B8%D0%B5%20%D0%BF%D0%BE%D1%81%D0%BB%D0%BE%D0%B2%D0%B8%D1%86%D1%8B/" rel="nofollow" class="eTag eTagGr9">Казахские пословицы</a> <a style="font-size:8pt;" href="/search/%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82/" rel="nofollow" class="eTag eTagGr8">проект</a> <a style="font-size:9pt;" href="/search/%D0%A0%D0%B0%D0%B7%D0%B2%D0%B8%D1%82%D0%B8%D0%B5%20%D0%A0%D0%B5%D1%87%D0%B8/" rel="nofollow" class="eTag eTagGr9">Развитие Речи</a> <a style="font-size:8pt;" href="/search/%D0%BA%D0%BE%D0%BD%D1%81%D0%BF%D0%B5%D0%BA%D1%82%20%D1%83%D1%80%D0%BE%D0%BA%D0%B0/" rel="nofollow" class="eTag eTagGr8">конспект урока</a> <a style="font-size:9pt;" href="/search/6%20%D0%BA%D0%BB%D0%B0%D1%81%D1%81/" rel="nofollow" class="eTag eTagGr9">6 класс</a> <a style="font-size:9pt;" href="/search/%D0%98%D0%BD%D1%82%D0%B5%D0%B3%D1%80%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9%20%D1%83%D1%80%D0%BE%D0%BA/" rel="nofollow" class="eTag eTagGr9">Интегрированный урок</a> <a style="font-size:11pt;" href="/search/%D1%84%D0%B8%D0%B7%D0%B8%D0%BA%D0%B0/" rel="nofollow" class="eTag eTagGr11">физика</a> <a style="font-size:8pt;" href="/search/%D0%B8%D0%BD%D1%82%D0%B5%D0%BB%D0%BB%D0%B5%D0%BA%D1%82%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D0%B8%D0%B3%D1%80%D0%B0/" rel="nofollow" class="eTag eTagGr8">интеллектуальная игра</a> <a style="font-size:8pt;" href="/search/%D1%8F%D0%B7%D1%8B%D0%BA/" rel="nofollow" class="eTag eTagGr8">язык</a> <a style="font-size:9pt;" href="/search/8%20%D0%BA%D0%BB%D0%B0%D1%81%D1%81/" rel="nofollow" class="eTag eTagGr9">8 класс</a> <a style="font-size:8pt;" href="/search/%D0%B0%D0%BB%D0%B3%D0%B5%D0%B1%D1%80%D0%B0/" rel="nofollow" class="eTag eTagGr8">алгебра</a> <a style="font-size:9pt;" href="/search/%D0%B0%D1%88%D1%8B%D2%9B%20%D1%81%D0%B0%D0%B1%D0%B0%D2%9B/" rel="nofollow" class="eTag eTagGr9">ашық сабақ</a> <a style="font-size:8pt;" href="/search/%D0%BA%D0%BB%D0%B0%D1%81%D1%81/" rel="nofollow" class="eTag eTagGr8">класс</a> <a style="font-size:9pt;" href="/search/%D1%81%D1%82%D0%B8%D1%85%D0%B8/" rel="nofollow" class="eTag eTagGr9">стихи</a> <a style="font-size:11pt;" href="/search/%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD/" rel="nofollow" class="eTag eTagGr11">Казахстан</a> <a style="font-size:24pt;" href="/search/%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0/" rel="nofollow" class="eTag eTagGr24">математика</a> <a style="font-size:19pt;" href="/search/%D1%83%D1%80%D0%BE%D0%BA/" rel="nofollow" class="eTag eTagGr19">урок</a> <a style="font-size:10pt;" href="/search/%D0%BF%D1%80%D0%B0%D0%B7%D0%B4%D0%BD%D0%B8%D0%BA/" rel="nofollow" class="eTag eTagGr10">праздник</a> <a style="font-size:12pt;" href="/search/%D0%BF%D0%BE%D0%B7%D0%BD%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BC%D0%B8%D1%80%D0%B0/" rel="nofollow" class="eTag eTagGr12">познание мира</a> <a style="font-size:12pt;" href="/search/%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0/" rel="nofollow" class="eTag eTagGr12">музыка</a> <a style="font-size:8pt;" href="/search/%D0%B4%D0%BE%D0%BA%D0%BB%D0%B0%D0%B4/" rel="nofollow" class="eTag eTagGr8">доклад</a> <a style="font-size:8pt;" href="/search/%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0/" rel="nofollow" class="eTag eTagGr8">программа</a> <a style="font-size:11pt;" href="/search/%D0%BB%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0/" rel="nofollow" class="eTag eTagGr11">литература</a> <a style="font-size:8pt;" href="/search/%D0%BF%D1%80%D0%B8%D1%80%D0%BE%D0%B4%D0%B0/" rel="nofollow" class="eTag eTagGr8">природа</a> <a style="font-size:10pt;" href="/search/%D1%81%D1%86%D0%B5%D0%BD%D0%B0%D1%80%D0%B8%D0%B9/" rel="nofollow" class="eTag eTagGr10">сценарий</a> <a style="font-size:9pt;" href="/search/%D1%81%D0%B5%D0%BC%D1%8C%D1%8F/" rel="nofollow" class="eTag eTagGr9">семья</a> <a style="font-size:8pt;" href="/search/%D0%BE%D1%81%D0%B5%D0%BD%D1%8C/" rel="nofollow" class="eTag eTagGr8">осень</a> <a style="font-size:10pt;" href="/search/%D0%B8%D0%B3%D1%80%D0%B0/" rel="nofollow" class="eTag eTagGr10">игра</a> <a style="font-size:10pt;" href="/search/%D0%BA%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D0%BA%D0%B8%D0%B9%20%D1%8F%D0%B7%D1%8B%D0%BA%20%D0%B8%20%D0%BB%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0/" rel="nofollow" class="eTag eTagGr10">казахский язык и литература</a> <a style="font-size:9pt;" href="/search/%D0%B2%D0%B8%D0%BA%D1%82%D0%BE%D1%80%D0%B8%D0%BD%D0%B0/" rel="nofollow" class="eTag eTagGr9">викторина</a> <a style="font-size:25pt;" href="/search/%D0%9D%D0%B0%D1%87%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D1%88%D0%BA%D0%BE%D0%BB%D0%B0/" rel="nofollow" class="eTag eTagGr25">Начальная школа</a> <a style="font-size:10pt;" href="/search/%D1%82%D0%B5%D1%81%D1%82/" rel="nofollow" class="eTag eTagGr10">тест</a> <a style="font-size:9pt;" href="/search/%D0%BA%D0%BE%D0%BD%D0%BA%D1%83%D1%80%D1%81/" rel="nofollow" class="eTag eTagGr9">конкурс</a> <a style="font-size:10pt;" href="/search/%D0%B2%D0%BD%D0%B5%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0/" rel="nofollow" class="eTag eTagGr10">внеклассная работа</a> <a style="font-size:9pt;" href="/search/%D0%BB%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%BD%D0%BE%D0%B5%20%D1%87%D1%82%D0%B5%D0%BD%D0%B8%D0%B5/" rel="nofollow" class="eTag eTagGr9">литературное чтение</a> <a style="font-size:8pt;" href="/search/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9%20%D1%8F%D0%B7%D1%8B%D0%BA%203%20%D0%BA%D0%BB%D0%B0%D1%81%D1%81/" rel="nofollow" class="eTag eTagGr8">Русский язык 3 класс</a> <a style="font-size:10pt;" href="/search/%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F/" rel="nofollow" class="eTag eTagGr10">технология</a> <a style="font-size:8pt;" href="/search/%D0%B4%D0%BE%D0%BF%D0%BE%D0%BB%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5%20%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/" rel="nofollow" class="eTag eTagGr8">дополнительное образование</a> <a style="font-size:8pt;" href="/search/%D0%B2%D0%BE%D1%81%D0%BF%D0%B8%D1%82%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0/" rel="nofollow" class="eTag eTagGr8">воспитательная работа</a> <a style="font-size:8pt;" href="/search/%D0%BA%D0%BE%D1%80%D1%80%D0%B5%D0%BA%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F%20%D1%88%D0%BA%D0%BE%D0%BB%D0%B0/" rel="nofollow" class="eTag eTagGr8">коррекционная школа</a> <a style="font-size:9pt;" href="/search/%D1%81%D0%BA%D0%B0%D0%B7%D0%BA%D0%B0/" rel="nofollow" class="eTag eTagGr9">сказка</a> <a style="font-size:10pt;" href="/search/%D0%97%D0%B4%D0%BE%D1%80%D0%BE%D0%B2%D1%8C%D0%B5/" rel="nofollow" class="eTag eTagGr10">Здоровье</a> <a style="font-size:8pt;" href="/search/%D0%9E%D0%BA%D1%81%D0%B0%D0%BD%D0%B0/" rel="nofollow" class="eTag eTagGr8">Оксана</a> <a style="font-size:8pt;" href="/search/8%20%D0%BC%D0%B0%D1%80%D1%82%D0%B0/" rel="nofollow" class="eTag eTagGr8">8 марта</a> <a style="font-size:8pt;" href="/search/%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%BE/" rel="nofollow" class="eTag eTagGr8">искусство</a> <a style="font-size:8pt;" href="/search/%D0%BD%D0%B5%D0%B7%D0%B0%D0%B2%D0%B8%D1%81%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C/" rel="nofollow" class="eTag eTagGr8">независимость</a> <a style="font-size:12pt;" href="/search/%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9%20%D1%8F%D0%B7%D1%8B%D0%BA/" rel="nofollow" class="eTag eTagGr12">английский язык</a> <a style="font-size:10pt;" href="/search/%D0%BF%D1%81%D0%B8%D1%85%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F/" rel="nofollow" class="eTag eTagGr10">психология</a> <a style="font-size:8pt;" href="/search/%D1%83%D1%87%D0%B8%D1%82%D0%B5%D0%BB%D1%8C/" rel="nofollow" class="eTag eTagGr8">учитель</a> <a style="font-size:10pt;" href="/search/3%20%D0%BA%D0%BB%D0%B0%D1%81%D1%81/" rel="nofollow" class="eTag eTagGr10">3 класс</a> <a style="font-size:15pt;" href="/search/%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F/" rel="nofollow" class="eTag eTagGr15">биология</a> <a style="font-size:9pt;" href="/search/%D1%81%D1%82%D0%B0%D1%82%D1%8C%D1%8F/" rel="nofollow" class="eTag eTagGr9">статья</a> <a style="font-size:13pt;" href="/search/%D0%B2%D0%BD%D0%B5%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%BD%D0%BE%D0%B5%20%D0%BC%D0%B5%D1%80%D0%BE%D0%BF%D1%80%D0%B8%D1%8F%D1%82%D0%B8%D0%B5/" rel="nofollow" class="eTag eTagGr13">внеклассное мероприятие</a> <a style="font-size:11pt;" href="/search/%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%BD%D1%8B%D0%B9%20%D1%87%D0%B0%D1%81/" rel="nofollow" class="eTag eTagGr11">классный час</a> <a style="font-size:11pt;" href="/search/%D0%95%D0%9D%D0%A2/" rel="nofollow" class="eTag eTagGr11">ЕНТ</a> <a style="font-size:8pt;" href="/search/%D0%B2%D1%8B%D0%BF%D1%83%D1%81%D0%BA%D0%BD%D0%BE%D0%B9/" rel="nofollow" class="eTag eTagGr8">выпускной</a> <a style="font-size:10pt;" href="/search/%D1%88%D0%BA%D0%BE%D0%BB%D0%B0/" rel="nofollow" class="eTag eTagGr10">школа</a> <a style="font-size:11pt;" href="/search/1%20%D0%BA%D0%BB%D0%B0%D1%81%D1%81/" rel="nofollow" class="eTag eTagGr11">1 класс</a> <a style="font-size:16pt;" href="/search/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9%20%D1%8F%D0%B7%D1%8B%D0%BA/" rel="nofollow" class="eTag eTagGr16">Русский язык</a> <a style="font-size:8pt;" href="/search/%D0%95%D0%93%D0%AD/" rel="nofollow" class="eTag eTagGr8">ЕГЭ</a> <a style="font-size:9pt;" href="/search/%D1%82%D0%B5%D1%81%D1%82%D1%8B/" rel="nofollow" class="eTag eTagGr9">тесты</a> <a style="font-size:11pt;" href="/search/%D1%85%D0%B8%D0%BC%D0%B8%D1%8F/" rel="nofollow" class="eTag eTagGr11">химия</a> <a style="font-size:9pt;" href="/search/%D0%BD%D0%B0%D1%87%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5%20%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D1%8B/" rel="nofollow" class="eTag eTagGr9">начальные классы</a> <a style="font-size:10pt;" href="/search/%D0%94%D0%B5%D1%82%D0%B8/" rel="nofollow" class="eTag eTagGr10">Дети</a> <a style="font-size:10pt;" href="/search/%D1%8D%D0%BA%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F/" rel="nofollow" class="eTag eTagGr10">экология</a> <a style="font-size:8pt;" href="/search/%D0%94%D0%BE%D1%88%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%B8/" rel="nofollow" class="eTag eTagGr8">Дошкольники</a> <a style="font-size:9pt;" href="/search/%D0%BB%D1%8E%D0%B1%D0%BE%D0%B2%D1%8C/" rel="nofollow" class="eTag eTagGr9">любовь</a> <a style="font-size:8pt;" href="/search/%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0%20%D1%83%D1%80%D0%BE%D0%BA%D0%B0/" rel="nofollow" class="eTag eTagGr8">разработка урока</a> <a style="font-size:11pt;" href="/search/%D0%BA%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D0%BA%D0%B8%D0%B9%20%D1%8F%D0%B7%D1%8B%D0%BA/" rel="nofollow" class="eTag eTagGr11">казахский язык</a> <a style="font-size:13pt;" href="/search/%D1%81%D0%B0%D0%BC%D0%BE%D0%BF%D0%BE%D0%B7%D0%BD%D0%B0%D0%BD%D0%B8%D0%B5/" rel="nofollow" class="eTag eTagGr13">самопознание</a> <a style="font-size:9pt;" href="/search/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9/" rel="nofollow" class="eTag eTagGr9">Английский</a> <a style="font-size:8pt;" href="/search/br/" rel="nofollow" class="eTag eTagGr8">br</a> <a style="font-size:9pt;" href="/search/%D0%BA%D0%BE%D0%BD%D1%81%D0%BF%D0%B5%D0%BA%D1%82/" rel="nofollow" class="eTag eTagGr9">конспект</a> <a style="font-size:8pt;" href="/search/%D1%81%D0%BF%D0%BE%D1%80%D1%82/" rel="nofollow" class="eTag eTagGr8">спорт</a> <a style="font-size:8pt;" href="/search/%D0%B4%D1%80%D1%83%D0%B6%D0%B1%D0%B0/" rel="nofollow" class="eTag eTagGr8">дружба</a> <a style="font-size:12pt;" href="/search/%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F/" rel="nofollow" class="eTag eTagGr12">История</a> <a style="font-size:9pt;" href="/search/%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F%20%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD%D0%B0/" rel="nofollow" class="eTag eTagGr9">история Казахстана</a> <a style="font-size:10pt;" href="/search/4%20%D0%BA%D0%BB%D0%B0%D1%81%D1%81/" rel="nofollow" class="eTag eTagGr10">4 класс</a> <a style="font-size:8pt;" href="/search/%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0/" rel="nofollow" class="eTag eTagGr8">библиотека</a> <a style="font-size:8pt;" href="/search/%D1%82%D1%80%D0%B5%D0%BD%D0%B8%D0%BD%D0%B3/" rel="nofollow" class="eTag eTagGr8">тренинг</a> <a style="font-size:8pt;" href="/search/%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0/" rel="nofollow" class="eTag eTagGr8">разработка</a> <a style="font-size:8pt;" href="/search/%D1%84%D0%B8%D0%B7%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BA%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D0%B0/" rel="nofollow" class="eTag eTagGr8">физическая культура</a> <a style="font-size:8pt;" href="/search/%D0%B8%D0%B3%D1%80%D1%8B/" rel="nofollow" class="eTag eTagGr8">игры</a> <a style="font-size:9pt;" href="/search/%D0%B1%D0%B0%D1%81%D1%82%D0%B0%D1%83%D1%8B%D1%88%20%D1%81%D1%8B%D0%BD%D1%8B%D0%BF/" rel="nofollow" class="eTag eTagGr9">бастауыш сынып</a> <a style="font-size:9pt;" href="/search/%D0%B4%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9%20%D1%81%D0%B0%D0%B4/" rel="nofollow" class="eTag eTagGr9">детский сад</a> <a style="font-size:8pt;" href="/search/%D1%84%D0%B8%D0%B7%D0%BA%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D0%B0/" rel="nofollow" class="eTag eTagGr8">физкультура</a> <a style="font-size:8pt;" href="/search/%D0%BA%D0%BE%D1%83%D1%87%D0%B8%D0%BD%D0%B3/" rel="nofollow" class="eTag eTagGr8">коучинг</a> </noindex><!-- </bc> --></td></tr></tbody></table>
+
+<!-- </block1514> -->
+
+<!-- <block12> -->
+<table class="boxTable"><tbody><tr><th><h2><!-- <bt> --><!--<s5195>-->Статистика<!--</s>--><!-- </bt> --></h2></th></tr><tr><td class="boxContent"><div align="center"><!-- <bc> --><span id="ZeeSZgj"></span>
+<script type="text/javascript">
+	ZeeSZgj.insertAdjacentHTML('beforeEnd', '<a rel="nofollow" href="/panel/?a=ustat&u=collegy&d=0&il=ru" target="_blank" title="uCoz Counter">\
+	<img alt="" src="/stat/' + Date.now() + '?01' + escape(document.referrer) + '" height="31" width="88" /></a>');
+</script>
+<noscript>
+	<a rel="nofollow" href="/panel/?a=ustat&u=collegy&d=0&il=ru" target="_blank" title="uCoz Counter">
+		<img alt="" src="/stat/1614628013" height="31" width="88" /></a></noscript><!-- Rating@Mail.ru counter -->
+<script type="text/javascript">//<![CDATA[
+var _tmr = _tmr || [];
+_tmr.push({id: "1065194", type: "pageView", start: (new Date()).getTime()});
+(function (d, w) {
+ var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true;
+ ts.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//top-fwz1.mail.ru/js/code.js";
+ var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+ if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+})(document, window);
+//]]></script><noscript><div style="position:absolute;left:-10000px;">
+<img src="//top-fwz1.mail.ru/counter?id=1065194;js=na" style="border:0;" height="1" width="1" alt="Рейтинг@Mail.ru" />
+</div></noscript>
+<!-- //Rating@Mail.ru counter -->
+<!-- Rating@Mail.ru logo -->
+<a href="http://top.mail.ru/jump?from=1065194">
+<img src="//top-fwz1.mail.ru/counter?id=1065194;t=479;l=1" 
+style="border:0;" height="31" width="88" alt="Рейтинг@Mail.ru" /></a>
+<!-- //Rating@Mail.ru logo -->
+<!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t23.10;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число посетителей за"+
+" сегодня' "+
+"border='0' width='88' height='15'><\/a>")
+//--></script><!--/LiveInternet--><!-- </bc> --></div></td></tr></tbody></table>
+<!-- </block12> -->
+<!--/U1CLEFTER1Z-->
+</div>
+<div style="clear:both;"></div>
+</div>
+</div>
+<!--U1BFOOTER1Z--><div id="footer"><!-- <copy> -->Copyright Педагогический журнал &quot;Коллеги&quot; Интернет-портал &quot;Детство-kz&quot; © 2021<!-- </copy> --> | <!-- "' --><span class="pbLNgylY"><a href="https://www.ucoz.ru/">Бесплатный хостинг</a> <a href="https://www.ucoz.ru/">uCoz</a></span></div><!--/U1BFOOTER1Z-->
+</div>
+</body>
+
+</html>
+<!-- 0.14420 (s2) -->

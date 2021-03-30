@@ -1,0 +1,1161 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+    <title>ГДЗ: Готовые домашние задания, решебники с ответами за 1-11 классы - MyDomashka.ru</title>
+    <meta http-equiv="content-type" content="text/html; charset=windows-1251" />
+    <meta http-equiv="content-language" content="ru-ru" />
+    <meta name='yandex-verification' content='65fe77bbcb26ae4b' />
+	<meta name='wmail-verification' content='94442d3f450920d675368b480f0fcc3b' />
+	<meta name='wmail-verification' content='0344dc150c50e90c233a4438f432583e' />
+	<meta name="yandex-verification" content="00165493607fb633" />
+    <meta name="copyright" content="Моя домашка, 2021" />
+        <meta http-equiv="keywords" content="гдз спиши решебник 1 2 3 4 5 6 7 8 9 10 11 класс готовые домашние задания учебники домашняя работа домашние задания gdz рабочая тетрадь задачник рабочая тетрадь алгебра математика русский язык английский язык геометрия физика химия Петерсон Макарычев Мордкович Биболетова Моро Атанасян Тростенцова Перышкин" />
+            <meta http-equiv="description" content="ГДЗ для школьников 1 2 3 4 5 6 7 8 9 10 11 классов: спиши готовые домашние задания в решебниках, задачниках и рабочих тетрадях для учебников Петерсона, Макарычева, Мордкович, Моро, Биболетовой, Атанасян, Тростенцовой, Перышкина и др. Скачай gdz по алгебре и математике, русскому и английскому языку, геометрии, физике и химии. Сделай домашнюю работу на mydomashka.ru!" />
+    <link rel="icon" href="/Images/Favicon.ico?1" />
+    
+    <link rel='stylesheet' type='text/css' href='/img/_min/readyhomeworkmainpage.min.css?bc1606a7655118c1e26bbfde3d4c071ac792ecc2' />    
+    <link rel='stylesheet' type='text/css' href='/img/mobile.css' />
+    
+    
+    <script type="text/javascript">
+        var CS_APP_PATH = '';
+        var User = {isAuthenticated: false};
+    </script>
+    <script type="text/javascript" src="/js/_min/shared.min.js"></script>
+    <script type="text/javascript" src="/Js/JQuery/jquery.treeview.js"></script>
+    <script type="text/javascript" src="/Js/Shared/Partials/ImageGallery.js"></script>
+    <script type="text/javascript" src="/Js/ReadyHomework/VotingForm.js"></script>
+    <script type="text/javascript" src="/Js/ReadyHomework/TaskSearch.js"></script>
+    <script type="text/javascript" src="/Js/ReadyHomework/SolutionPreview.js"></script>
+    <script type="text/javascript" src="/Js/vanillabox/jquery.vanillabox-0.1.1.min.js"></script>
+            
+    
+
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+
+            $('.' + 'page' + '__user-navigation').UserNavigation({
+                loginzaWidgetID: 59313
+                });
+
+        });
+    </script>
+    <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+        ga('create', 'UA-55974562-1', 'auto');
+        ga('send', 'pageview');
+    </script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+    <div class="page">
+        <div class="page__items">
+            
+            <div class="page__header">
+                
+<div class="header">
+    <div class="header__columns clearfix">
+        <div class="header__column header__column_left">
+            <div class="header__logo">
+                <a class="header__logo-link" href="/">Моя домашка</a>
+            </div>
+        </div>
+        <div class="page__user-navigation">
+        </div>
+    </div>
+</div>
+            </div>
+            <div class="page__navigation">
+                
+<div id="navigation" class="navigation">
+    <ul class="navigation__list clearfix">
+        <li id="navigation__item_1" class="navigation__item navigation__item_1">
+            <a href="/">ГДЗ</a>
+        </li>
+        <li id="navigation__item_2" class="navigation__item navigation__item_2">
+            <a href="/gdz">Решебники</a>
+        </li>
+        <li id="navigation__item_3" class="navigation__item navigation__item_3">
+            <a href="/tutors">Репетиторы</a>
+        </li>
+        <li id="navigation__item_4" class="navigation__item navigation__item_4">
+            <a href="/board">Ответы на вопросы</a>
+        </li>
+        <li id="navigation__item_5" class="navigation__item navigation__item_5">
+            <a>ЕГЭ 2014, ГИА 2014</a>
+        </li>
+        <li id="navigation__item_6" class="navigation__item navigation__item_6">
+            <a href="/after-homework">Домашка задолбала!</a>
+        </li>
+    </ul>
+</div>
+            </div>
+            <div class="page__content">
+                
+<!-- True-->
+    <div style="height: 250px; text-align: center; margin:10px 20px">
+        <script type="text/javascript">
+<!--
+                        google_ad_client = "ca-pub-7506020898014881";
+                        /* MD_GDZ_TOP_300x250 */
+                        google_ad_slot = "3036448875";
+                        google_ad_width = 300;
+                        google_ad_height = 250;
+                    //-->
+                </script>
+                <script type="text/javascript"
+                        src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+                </script>
+    </div>
+
+
+
+<div class="content">
+    <div class="content__sections">
+        <div class="content__section clearfix">
+            <h1>ГДЗ: Готовые домашние задания и решебники с ответами</h1>
+        </div>
+        <div class="content__section clearfix">
+            <h2 class="content__section-title">
+                ГДЗ
+            </h2>
+        </div>
+        <div class="content__section clearfix">
+            <div class="content__section-content">
+                
+
+<div class="menu-table">
+    <table class="menu-table__table" cellspacing="0" cellpadding="0" width="100%">
+    <tr>
+        <td>
+            <h3>
+                Класс
+            </h3>
+        </td>                    
+        <td class="menu-table__table-row-class">
+            <a href="/gdz/1-klass" >1</a>
+        </td>
+        <td class="menu-table__table-row-class">
+            <a href="/gdz/2-klass" >2</a>
+        </td>
+        <td class="menu-table__table-row-class">
+            <a href="/gdz/3-klass" >3</a>
+        </td>
+        <td class="menu-table__table-row-class">
+            <a href="/gdz/4-klass" >4</a>
+        </td>
+        <td class="menu-table__table-row-class">
+            <a href="/gdz/5-klass" >5</a>
+        </td>
+        <td class="menu-table__table-row-class">
+            <a href="/gdz/6-klass" >6</a>
+        </td>
+        <td class="menu-table__table-row-class">
+            <a href="/gdz/7-klass" >7</a>
+        </td>
+        <td class="menu-table__table-row-class">
+            <a href="/gdz/8-klass" >8</a>
+        </td>
+        <td class="menu-table__table-row-class">
+            <a href="/gdz/9-klass" >9</a>
+        </td>
+        <td class="menu-table__table-row-class">
+            <a href="/gdz/10-klass" >10</a>
+        </td>
+        <td class="menu-table__table-row-class">
+            <a href="/gdz/11-klass" >11</a>
+        </td>
+    </tr>
+    <tr>
+        <td><h3>Предмет</h3></td>
+    </tr>
+        <tr class="menu-table__table-row-subject">
+            <td class="menu-table__table-row-class">
+                <a href="/gdz/nemeckij-jazyk">
+                    Немецкий язык
+                </a>
+            </td>
+                        <td class="menu-table__table-row-class">
+                        </td>
+                        <td class="menu-table__table-row-class">
+                        </td>
+                        <td class="menu-table__table-row-class">
+                        </td>
+                        <td class="menu-table__table-row-class">
+                        </td>
+                    <td class="menu-table__table-row-class menu-table__table-row-class_books">
+                        <a href="/gdz/5-klass-nemeckij-jazyk">
+                        </a>
+                    </td>
+                    <td class="menu-table__table-row-class menu-table__table-row-class_books">
+                        <a href="/gdz/6-klass-nemeckij-jazyk">
+                        </a>
+                    </td>
+                    <td class="menu-table__table-row-class menu-table__table-row-class_books">
+                        <a href="/gdz/7-klass-nemeckij-jazyk">
+                        </a>
+                    </td>
+                    <td class="menu-table__table-row-class menu-table__table-row-class_books">
+                        <a href="/gdz/8-klass-nemeckij-jazyk">
+                        </a>
+                    </td>
+                    <td class="menu-table__table-row-class menu-table__table-row-class_books">
+                        <a href="/gdz/9-klass-nemeckij-jazyk">
+                        </a>
+                    </td>
+                    <td class="menu-table__table-row-class menu-table__table-row-class_books">
+                        <a href="/gdz/10-klass-nemeckij-jazyk">
+                        </a>
+                    </td>
+                    <td class="menu-table__table-row-class menu-table__table-row-class_books">
+                        <a href="/gdz/11-klass-nemeckij-jazyk">
+                        </a>
+                    </td>
+        </tr>
+        <tr class="menu-table__table-row-subject">
+            <td class="menu-table__table-row-class">
+                <a href="/gdz/anglijskij-jazyk">
+                    Английский язык
+                </a>
+            </td>
+                    <td class="menu-table__table-row-class menu-table__table-row-class_books">
+                        <a href="/gdz/1-klass-anglijskij-jazyk">
+                        </a>
+                    </td>
+                    <td class="menu-table__table-row-class menu-table__table-row-class_books">
+                        <a href="/gdz/2-klass-anglijskij-jazyk">
+                        </a>
+                    </td>
+                    <td class="menu-table__table-row-class menu-table__table-row-class_books">
+                        <a href="/gdz/3-klass-anglijskij-jazyk">
+                        </a>
+                    </td>
+                    <td class="menu-table__table-row-class menu-table__table-row-class_books">
+                        <a href="/gdz/4-klass-anglijskij-jazyk">
+                        </a>
+                    </td>
+                    <td class="menu-table__table-row-class menu-table__table-row-class_books">
+                        <a href="/gdz/5-klass-anglijskij-jazyk">
+                        </a>
+                    </td>
+                    <td class="menu-table__table-row-class menu-table__table-row-class_books">
+                        <a href="/gdz/6-klass-anglijskij-jazyk">
+                        </a>
+                    </td>
+                    <td class="menu-table__table-row-class menu-table__table-row-class_books">
+                        <a href="/gdz/7-klass-anglijskij-jazyk">
+                        </a>
+                    </td>
+                    <td class="menu-table__table-row-class menu-table__table-row-class_books">
+                        <a href="/gdz/8-klass-anglijskij-jazyk">
+                        </a>
+                    </td>
+                    <td class="menu-table__table-row-class menu-table__table-row-class_books">
+                        <a href="/gdz/9-klass-anglijskij-jazyk">
+                        </a>
+                    </td>
+                    <td class="menu-table__table-row-class menu-table__table-row-class_books">
+                        <a href="/gdz/10-klass-anglijskij-jazyk">
+                        </a>
+                    </td>
+                    <td class="menu-table__table-row-class menu-table__table-row-class_books">
+                        <a href="/gdz/11-klass-anglijskij-jazyk">
+                        </a>
+                    </td>
+        </tr>
+        <tr class="menu-table__table-row-subject">
+            <td class="menu-table__table-row-class">
+                <a href="/gdz/russkij-jazyk">
+                    Русский язык
+                </a>
+            </td>
+                        <td class="menu-table__table-row-class">
+                        </td>
+                        <td class="menu-table__table-row-class">
+                        </td>
+                        <td class="menu-table__table-row-class">
+                        </td>
+                    <td class="menu-table__table-row-class menu-table__table-row-class_books">
+                        <a href="/gdz/4-klass-russkij-jazyk">
+                        </a>
+                    </td>
+                    <td class="menu-table__table-row-class menu-table__table-row-class_books">
+                        <a href="/gdz/5-klass-russkij-jazyk">
+                        </a>
+                    </td>
+                    <td class="menu-table__table-row-class menu-table__table-row-class_books">
+                        <a href="/gdz/6-klass-russkij-jazyk">
+                        </a>
+                    </td>
+                    <td class="menu-table__table-row-class menu-table__table-row-class_books">
+                        <a href="/gdz/7-klass-russkij-jazyk">
+                        </a>
+                    </td>
+                    <td class="menu-table__table-row-class menu-table__table-row-class_books">
+                        <a href="/gdz/8-klass-russkij-jazyk">
+                        </a>
+                    </td>
+                    <td class="menu-table__table-row-class menu-table__table-row-class_books">
+                        <a href="/gdz/9-klass-russkij-jazyk">
+                        </a>
+                    </td>
+                    <td class="menu-table__table-row-class menu-table__table-row-class_books">
+                        <a href="/gdz/10-klass-russkij-jazyk">
+                        </a>
+                    </td>
+                    <td class="menu-table__table-row-class menu-table__table-row-class_books">
+                        <a href="/gdz/11-klass-russkij-jazyk">
+                        </a>
+                    </td>
+        </tr>
+        <tr class="menu-table__table-row-subject">
+            <td class="menu-table__table-row-class">
+                <a href="/gdz/himija">
+                    Химия
+                </a>
+            </td>
+                        <td class="menu-table__table-row-class">
+                        </td>
+                        <td class="menu-table__table-row-class">
+                        </td>
+                        <td class="menu-table__table-row-class">
+                        </td>
+                        <td class="menu-table__table-row-class">
+                        </td>
+                        <td class="menu-table__table-row-class">
+                        </td>
+                        <td class="menu-table__table-row-class">
+                        </td>
+                        <td class="menu-table__table-row-class">
+                        </td>
+                    <td class="menu-table__table-row-class menu-table__table-row-class_books">
+                        <a href="/gdz/8-klass-himija">
+                        </a>
+                    </td>
+                    <td class="menu-table__table-row-class menu-table__table-row-class_books">
+                        <a href="/gdz/9-klass-himija">
+                        </a>
+                    </td>
+                    <td class="menu-table__table-row-class menu-table__table-row-class_books">
+                        <a href="/gdz/10-klass-himija">
+                        </a>
+                    </td>
+                    <td class="menu-table__table-row-class menu-table__table-row-class_books">
+                        <a href="/gdz/11-klass-himija">
+                        </a>
+                    </td>
+        </tr>
+        <tr class="menu-table__table-row-subject">
+            <td class="menu-table__table-row-class">
+                <a href="/gdz/fizika">
+                    Физика
+                </a>
+            </td>
+                        <td class="menu-table__table-row-class">
+                        </td>
+                        <td class="menu-table__table-row-class">
+                        </td>
+                        <td class="menu-table__table-row-class">
+                        </td>
+                        <td class="menu-table__table-row-class">
+                        </td>
+                        <td class="menu-table__table-row-class">
+                        </td>
+                        <td class="menu-table__table-row-class">
+                        </td>
+                    <td class="menu-table__table-row-class menu-table__table-row-class_books">
+                        <a href="/gdz/7-klass-fizika">
+                        </a>
+                    </td>
+                    <td class="menu-table__table-row-class menu-table__table-row-class_books">
+                        <a href="/gdz/8-klass-fizika">
+                        </a>
+                    </td>
+                    <td class="menu-table__table-row-class menu-table__table-row-class_books">
+                        <a href="/gdz/9-klass-fizika">
+                        </a>
+                    </td>
+                    <td class="menu-table__table-row-class menu-table__table-row-class_books">
+                        <a href="/gdz/10-klass-fizika">
+                        </a>
+                    </td>
+                    <td class="menu-table__table-row-class menu-table__table-row-class_books">
+                        <a href="/gdz/11-klass-fizika">
+                        </a>
+                    </td>
+        </tr>
+        <tr class="menu-table__table-row-subject">
+            <td class="menu-table__table-row-class">
+                <a href="/gdz/geometrija">
+                    Геометрия
+                </a>
+            </td>
+                        <td class="menu-table__table-row-class">
+                        </td>
+                        <td class="menu-table__table-row-class">
+                        </td>
+                        <td class="menu-table__table-row-class">
+                        </td>
+                        <td class="menu-table__table-row-class">
+                        </td>
+                        <td class="menu-table__table-row-class">
+                        </td>
+                        <td class="menu-table__table-row-class">
+                        </td>
+                    <td class="menu-table__table-row-class menu-table__table-row-class_books">
+                        <a href="/gdz/7-klass-geometrija">
+                        </a>
+                    </td>
+                    <td class="menu-table__table-row-class menu-table__table-row-class_books">
+                        <a href="/gdz/8-klass-geometrija">
+                        </a>
+                    </td>
+                    <td class="menu-table__table-row-class menu-table__table-row-class_books">
+                        <a href="/gdz/9-klass-geometrija">
+                        </a>
+                    </td>
+                    <td class="menu-table__table-row-class menu-table__table-row-class_books">
+                        <a href="/gdz/10-klass-geometrija">
+                        </a>
+                    </td>
+                    <td class="menu-table__table-row-class menu-table__table-row-class_books">
+                        <a href="/gdz/11-klass-geometrija">
+                        </a>
+                    </td>
+        </tr>
+        <tr class="menu-table__table-row-subject">
+            <td class="menu-table__table-row-class">
+                <a href="/gdz/algebra">
+                    Алгебра
+                </a>
+            </td>
+                        <td class="menu-table__table-row-class">
+                        </td>
+                        <td class="menu-table__table-row-class">
+                        </td>
+                        <td class="menu-table__table-row-class">
+                        </td>
+                        <td class="menu-table__table-row-class">
+                        </td>
+                        <td class="menu-table__table-row-class">
+                        </td>
+                        <td class="menu-table__table-row-class">
+                        </td>
+                    <td class="menu-table__table-row-class menu-table__table-row-class_books">
+                        <a href="/gdz/7-klass-algebra">
+                        </a>
+                    </td>
+                    <td class="menu-table__table-row-class menu-table__table-row-class_books">
+                        <a href="/gdz/8-klass-algebra">
+                        </a>
+                    </td>
+                    <td class="menu-table__table-row-class menu-table__table-row-class_books">
+                        <a href="/gdz/9-klass-algebra">
+                        </a>
+                    </td>
+                    <td class="menu-table__table-row-class menu-table__table-row-class_books">
+                        <a href="/gdz/10-klass-algebra">
+                        </a>
+                    </td>
+                    <td class="menu-table__table-row-class menu-table__table-row-class_books">
+                        <a href="/gdz/11-klass-algebra">
+                        </a>
+                    </td>
+        </tr>
+        <tr class="menu-table__table-row-subject">
+            <td class="menu-table__table-row-class">
+                <a href="/gdz/matematika">
+                    Математика
+                </a>
+            </td>
+                    <td class="menu-table__table-row-class menu-table__table-row-class_books">
+                        <a href="/gdz/1-klass-matematika">
+                        </a>
+                    </td>
+                    <td class="menu-table__table-row-class menu-table__table-row-class_books">
+                        <a href="/gdz/2-klass-matematika">
+                        </a>
+                    </td>
+                    <td class="menu-table__table-row-class menu-table__table-row-class_books">
+                        <a href="/gdz/3-klass-matematika">
+                        </a>
+                    </td>
+                    <td class="menu-table__table-row-class menu-table__table-row-class_books">
+                        <a href="/gdz/4-klass-matematika">
+                        </a>
+                    </td>
+                            <td class="menu-table__table-row-class menu-table__table-row-class_books">
+                                <a href="/gdz/5-klass-algebra">
+                                </a>
+                            </td>
+                            <td class="menu-table__table-row-class menu-table__table-row-class_books">
+                                <a href="/gdz/6-klass-algebra">
+                                </a>
+                            </td>
+                            <td class="menu-table__table-row-class">
+                            </td>
+                            <td class="menu-table__table-row-class">
+                            </td>
+                            <td class="menu-table__table-row-class">
+                            </td>
+                            <td class="menu-table__table-row-class">
+                            </td>
+                            <td class="menu-table__table-row-class">
+                            </td>
+        </tr>
+        <tr class="menu-table__table-row-subject">
+            <td class="menu-table__table-row-class">
+                <a href="/gdz/obshhestvoznanie">
+                    Обществознание
+                </a>
+            </td>
+                        <td class="menu-table__table-row-class">
+                        </td>
+                        <td class="menu-table__table-row-class">
+                        </td>
+                        <td class="menu-table__table-row-class">
+                        </td>
+                        <td class="menu-table__table-row-class">
+                        </td>
+                        <td class="menu-table__table-row-class">
+                        </td>
+                        <td class="menu-table__table-row-class">
+                        </td>
+                    <td class="menu-table__table-row-class menu-table__table-row-class_books">
+                        <a href="/gdz/7-klass-obshhestvoznanie">
+                        </a>
+                    </td>
+                    <td class="menu-table__table-row-class menu-table__table-row-class_books">
+                        <a href="/gdz/8-klass-obshhestvoznanie">
+                        </a>
+                    </td>
+                        <td class="menu-table__table-row-class">
+                        </td>
+                        <td class="menu-table__table-row-class">
+                        </td>
+                        <td class="menu-table__table-row-class">
+                        </td>
+        </tr>
+        <tr class="menu-table__table-row-subject">
+            <td class="menu-table__table-row-class">
+                <a href="/gdz/prirodovedenie">
+                    Природоведение
+                </a>
+            </td>
+                    <td class="menu-table__table-row-class menu-table__table-row-class_books">
+                        <a href="/gdz/1-klass-prirodovedenie">
+                        </a>
+                    </td>
+                    <td class="menu-table__table-row-class menu-table__table-row-class_books">
+                        <a href="/gdz/2-klass-prirodovedenie">
+                        </a>
+                    </td>
+                    <td class="menu-table__table-row-class menu-table__table-row-class_books">
+                        <a href="/gdz/3-klass-prirodovedenie">
+                        </a>
+                    </td>
+                    <td class="menu-table__table-row-class menu-table__table-row-class_books">
+                        <a href="/gdz/4-klass-prirodovedenie">
+                        </a>
+                    </td>
+                        <td class="menu-table__table-row-class">
+                        </td>
+                        <td class="menu-table__table-row-class">
+                        </td>
+                        <td class="menu-table__table-row-class">
+                        </td>
+                        <td class="menu-table__table-row-class">
+                        </td>
+                        <td class="menu-table__table-row-class">
+                        </td>
+                        <td class="menu-table__table-row-class">
+                        </td>
+                        <td class="menu-table__table-row-class">
+                        </td>
+        </tr>
+        <tr class="menu-table__table-row-subject">
+            <td class="menu-table__table-row-class">
+                <a href="/gdz/informatica">
+                    Информатика
+                </a>
+            </td>
+                    <td class="menu-table__table-row-class menu-table__table-row-class_books">
+                        <a href="/gdz/1-klass-informatica">
+                        </a>
+                    </td>
+                    <td class="menu-table__table-row-class menu-table__table-row-class_books">
+                        <a href="/gdz/2-klass-informatica">
+                        </a>
+                    </td>
+                    <td class="menu-table__table-row-class menu-table__table-row-class_books">
+                        <a href="/gdz/3-klass-informatica">
+                        </a>
+                    </td>
+                    <td class="menu-table__table-row-class menu-table__table-row-class_books">
+                        <a href="/gdz/4-klass-informatica">
+                        </a>
+                    </td>
+                    <td class="menu-table__table-row-class menu-table__table-row-class_books">
+                        <a href="/gdz/5-klass-informatica">
+                        </a>
+                    </td>
+                    <td class="menu-table__table-row-class menu-table__table-row-class_books">
+                        <a href="/gdz/6-klass-informatica">
+                        </a>
+                    </td>
+                    <td class="menu-table__table-row-class menu-table__table-row-class_books">
+                        <a href="/gdz/7-klass-informatica">
+                        </a>
+                    </td>
+                    <td class="menu-table__table-row-class menu-table__table-row-class_books">
+                        <a href="/gdz/8-klass-informatica">
+                        </a>
+                    </td>
+                    <td class="menu-table__table-row-class menu-table__table-row-class_books">
+                        <a href="/gdz/9-klass-informatica">
+                        </a>
+                    </td>
+                    <td class="menu-table__table-row-class menu-table__table-row-class_books">
+                        <a href="/gdz/10-klass-informatica">
+                        </a>
+                    </td>
+                    <td class="menu-table__table-row-class menu-table__table-row-class_books">
+                        <a href="/gdz/11-klass-informatica">
+                        </a>
+                    </td>
+        </tr>
+        <tr class="menu-table__table-row-subject">
+            <td class="menu-table__table-row-class">
+                <a href="/gdz/biologia">
+                    Биология
+                </a>
+            </td>
+                        <td class="menu-table__table-row-class">
+                        </td>
+                        <td class="menu-table__table-row-class">
+                        </td>
+                        <td class="menu-table__table-row-class">
+                        </td>
+                        <td class="menu-table__table-row-class">
+                        </td>
+                    <td class="menu-table__table-row-class menu-table__table-row-class_books">
+                        <a href="/gdz/5-klass-biologia">
+                        </a>
+                    </td>
+                    <td class="menu-table__table-row-class menu-table__table-row-class_books">
+                        <a href="/gdz/6-klass-biologia">
+                        </a>
+                    </td>
+                    <td class="menu-table__table-row-class menu-table__table-row-class_books">
+                        <a href="/gdz/7-klass-biologia">
+                        </a>
+                    </td>
+                    <td class="menu-table__table-row-class menu-table__table-row-class_books">
+                        <a href="/gdz/8-klass-biologia">
+                        </a>
+                    </td>
+                    <td class="menu-table__table-row-class menu-table__table-row-class_books">
+                        <a href="/gdz/9-klass-biologia">
+                        </a>
+                    </td>
+                    <td class="menu-table__table-row-class menu-table__table-row-class_books">
+                        <a href="/gdz/10-klass-biologia">
+                        </a>
+                    </td>
+                    <td class="menu-table__table-row-class menu-table__table-row-class_books">
+                        <a href="/gdz/11-klass-biologia">
+                        </a>
+                    </td>
+        </tr>
+        <tr class="menu-table__table-row-subject">
+            <td class="menu-table__table-row-class">
+                <a href="/gdz/istoriya">
+                    История
+                </a>
+            </td>
+                        <td class="menu-table__table-row-class">
+                        </td>
+                        <td class="menu-table__table-row-class">
+                        </td>
+                        <td class="menu-table__table-row-class">
+                        </td>
+                        <td class="menu-table__table-row-class">
+                        </td>
+                    <td class="menu-table__table-row-class menu-table__table-row-class_books">
+                        <a href="/gdz/5-klass-istoriya">
+                        </a>
+                    </td>
+                    <td class="menu-table__table-row-class menu-table__table-row-class_books">
+                        <a href="/gdz/6-klass-istoriya">
+                        </a>
+                    </td>
+                    <td class="menu-table__table-row-class menu-table__table-row-class_books">
+                        <a href="/gdz/7-klass-istoriya">
+                        </a>
+                    </td>
+                    <td class="menu-table__table-row-class menu-table__table-row-class_books">
+                        <a href="/gdz/8-klass-istoriya">
+                        </a>
+                    </td>
+                    <td class="menu-table__table-row-class menu-table__table-row-class_books">
+                        <a href="/gdz/9-klass-istoriya">
+                        </a>
+                    </td>
+                    <td class="menu-table__table-row-class menu-table__table-row-class_books">
+                        <a href="/gdz/10-klass-istoriya">
+                        </a>
+                    </td>
+                    <td class="menu-table__table-row-class menu-table__table-row-class_books">
+                        <a href="/gdz/11-klass-istoriya">
+                        </a>
+                    </td>
+        </tr>
+        <tr class="menu-table__table-row-subject">
+            <td class="menu-table__table-row-class">
+                <a href="/gdz/geographia">
+                    География
+                </a>
+            </td>
+                        <td class="menu-table__table-row-class">
+                        </td>
+                        <td class="menu-table__table-row-class">
+                        </td>
+                        <td class="menu-table__table-row-class">
+                        </td>
+                        <td class="menu-table__table-row-class">
+                        </td>
+                        <td class="menu-table__table-row-class">
+                        </td>
+                    <td class="menu-table__table-row-class menu-table__table-row-class_books">
+                        <a href="/gdz/6-klass-geographia">
+                        </a>
+                    </td>
+                    <td class="menu-table__table-row-class menu-table__table-row-class_books">
+                        <a href="/gdz/7-klass-geographia">
+                        </a>
+                    </td>
+                    <td class="menu-table__table-row-class menu-table__table-row-class_books">
+                        <a href="/gdz/8-klass-geographia">
+                        </a>
+                    </td>
+                    <td class="menu-table__table-row-class menu-table__table-row-class_books">
+                        <a href="/gdz/9-klass-geographia">
+                        </a>
+                    </td>
+                    <td class="menu-table__table-row-class menu-table__table-row-class_books">
+                        <a href="/gdz/10-klass-geographia">
+                        </a>
+                    </td>
+                    <td class="menu-table__table-row-class menu-table__table-row-class_books">
+                        <a href="/gdz/11-klass-geographia">
+                        </a>
+                    </td>
+        </tr>
+    </table>
+
+</div>
+            </div>
+        </div>
+        <div class="content__section clearfix">
+            <h2 class="content__section-title">
+                Решебники с ответами
+            </h2>
+        </div>
+        <div class="content__section">
+            
+            <div class="content__section-content">
+                
+
+<div class="content-description">
+        
+            <h3>Моя домашка помогает школьникам и родителям делать домашние задания</h3> <br/><br/>
+
+Если вы ищите ГДЗ (готовые домашние задания), то оказались в абсолютно правильном месте. Именно здесь школьники и родители могут получить  «скорую помощь» для подготовки домашних заданий.<br/><br/>
+
+<h3>Предназначение сайта</h3> <br/>
+Моя домашка приходит на помощь школьникам и родителям, которые делают уроки вместе со своим ребёнком. На сайте mydomashka.ru даются нужные ответы в решебниках, гдз (готовых домашних заданиях), рабочих тетрадях по различным предметам и классам. <br/>
+Наш сайт поможет быстро справиться со всеми предметами, значительно повысить успеваемость, сэкономить время, силы и нервы.<br/><br/>
+
+<h3>Основные разделы сайта </h3><br/><br/>
+<h3>Готовим домашние задания</h3><br/>
+Раздел "ГДЗ"  позволяет быстро найти ответ по изучаемой дисциплине и классу, сравнить свой результат с ответом, выложенным на сайте, предложить собственный вариант решения. <br/>
+На сайте охвачены с 1 по 11 классы, и представлены решебники и задачники по всем основным школьным предметам: математика, алгебра, английский и русский языки, геометрия, физика, химия и другие школьные дисциплины. <br/>
+Раздел "Списываем сочинения" содержит различные сочинения по русскому языку и литературе. На их основе можно написать собственное: сочинение на тему, сочинение- рассуждение,  сочинение на тему летних каникул. <br/>
+В разделе "Помощь в домашке" размещена информация о репетиторах, прекрасно знающих свои предметы. Помощь можно получить дистанционно посредством интернет, или репетитор может приехать к учащемуся на дом. <br/>
+Форум "Делаем домашнее задание" - самый популярный форум, на котором можно задать  вопрос и получить ответ в режиме онлайн от посетителей сайта. С помощью опции «Поиск» можно найти ответы на вопросы, которые ранее были заданы на форуме. Вопросы и ответы удобно сгруппированы по школьным предметам и классам. <br/>
+Форум "Школьная жизнь" позволяет учащимся поделиться своими откликами и мнениями по вопросам и проблемам школьной жизни, поведать об отношениях со сверстниками и учителями, обсудить уроки, учебники, затронуть любые злободневные темы.<br/>
+Форум "Всё о едином гос. экзамене (ЕГЭ)" содержит вопросы и ответы о ЕГЭ по всем предметам, о подготовке к нему и особенности проведения.   <br/><br/>
+
+
+
+
+
+<h3>Знакомимся и общаемся </h3><br/>
+Чат служит для простого общения, знакомства, дружеской переписки, для получения быстрых ответов на заданные вопросы.<br/>
+Говорилка в Контакте позволяет помимо общения делиться любимыми mp3-записями, красивыми изображениями, фотографиями, личными рисунками. Здесь можно опубликовать решение задач по физике, математике, химии со сложными формулами, обсудить правильный вариант решения. <br/>
+Список пользователей представлен на отдельной страничке, любому пользователю сайта можно отправить персональное сообщение. <br/><br/>
+
+<h3>Делимся своими увлечениями и любимыми занятиями </h3><br/>
+Секции отображают увлечения наших пользователей: можно просмотреть списки спортивных секций, кружков, школ искусства, в которых занимаются участники сайта - школьники из разных городов страны. Здесь они рассказывают о своих занятиях и успехах.<br/>
+Раздел Игры  предназначен для подробного описания компьютерных игр, которыми делятся заядлые любители друг с другом.<br/><br/>
+
+На mydomashka.ru много полезной информации для того, чтобы сделать домашнюю работу и получить отличные оценки. Регистрируйтесь, максимально упрощайте сложный процесс выполнения домашних заданий!
+
+        
+</div>
+
+            </div>
+        </div>
+        <div class="content__section">
+            <h2 class="content__section-title">
+                Популярные готовые домашние задания
+            </h2>
+            <div class="content__section-content">
+                
+<div class="content-books__items clearfix">
+        <div class="content-books__item clearfix">
+                <div class="content-books__item-content clearfix">
+                    <div class="content-books__item-content-left">
+                        <div class="content-books__cover">
+                            <img src="http://s2.mydomashka.ru/bc0f5/books/algebra8klass03122013-topcrop-90x125-100.jpg" alt=""/>
+                        </div>
+                    </div>
+                    <div class="content-books__item-content-right">
+                        <div class="content-books__description-items">
+                            <span class="content-books__description-item content-books__description-item_title">
+                                <a href="/gdz/8-klass-algebra/la-aleksandrova-ag-mordkovich.html">
+                                    Л.А. Александрова, А.Г. Мордкович 2010
+                                </a>                  
+                            </span>
+                            <span class="content-books__description-item content-books__description-item_comment">
+                                Л. А. Александрова (при участии Мордкович А. Г.)
+                            </span>
+                        </div>
+                    </div>
+                </div>
+        </div>  
+        <div class="content-books__item content-books__item_even clearfix">
+                <div class="content-books__item-content clearfix">
+                    <div class="content-books__item-content-left">
+                        <div class="content-books__cover">
+                            <img src="http://s5.mydomashka.ru/1715c/books/dx1xufcdfkg-topcrop-90x125-100.jpg" alt=""/>
+                        </div>
+                    </div>
+                    <div class="content-books__item-content-right">
+                        <div class="content-books__description-items">
+                            <span class="content-books__description-item content-books__description-item_title">
+                                <a href="/gdz/7-klass-algebra/jun-makarychev-ng-mindjuk-ki-neshkov-2009.html">
+                                    Ю.Н. Макарычев, Н.Г. Миндюк, К.И. Нешков 2009
+                                </a>                  
+                            </span>
+                            <span class="content-books__description-item content-books__description-item_comment">
+                                Ю.Н. Макарычев, Н.Г. Миндюк, К.И. Нешков, С.Б. Суворова; Под ред. С.А. Теляковского — 18-е изд. — М.: Просвещение, 2009 г. (и 2005 г.) 
+                            </span>
+                        </div>
+                    </div>
+                </div>
+        </div>  
+        <div class="content-books__item clearfix">
+                <div class="content-books__item-content clearfix">
+                    <div class="content-books__item-content-left">
+                        <div class="content-books__cover">
+                            <img src="http://s3.mydomashka.ru/32d56/books/doqdb32npxq-topcrop-90x125-100.jpg" alt=""/>
+                        </div>
+                    </div>
+                    <div class="content-books__item-content-right">
+                        <div class="content-books__description-items">
+                            <span class="content-books__description-item content-books__description-item_title">
+                                <a href="/gdz/6-klass-algebra/nja-vilenkin-zhohov-vi-2004-2008.html">
+                                    Н.Я. Виленкин, Жохов В.И. 2004-2008
+                                </a>                  
+                            </span>
+                            <span class="content-books__description-item content-books__description-item_comment">
+                                Виленкин Н.Я., Жохов В.И. и др. 13-е и 23 изд., перераб. - М: Мнемозина, 2004 и 2008гг.
+                            </span>
+                        </div>
+                    </div>
+                </div>
+        </div>  
+        <div class="content-books__item content-books__item_even clearfix">
+                <div class="content-books__item-content clearfix">
+                    <div class="content-books__item-content-left">
+                        <div class="content-books__cover">
+                            <img src="http://s3.mydomashka.ru/c71b6/books/xrzei5imc0f-topcrop-90x125-100.jpg" alt=""/>
+                        </div>
+                    </div>
+                    <div class="content-books__item-content-right">
+                        <div class="content-books__description-items">
+                            <span class="content-books__description-item content-books__description-item_title">
+                                <a href="/gdz/7-klass-geometrija/ls-atanasjan-2009.html">
+                                    Л.С. Атанасян 2009
+                                </a>                  
+                            </span>
+                            <span class="content-books__description-item content-books__description-item_comment">
+                                Л.С. Атанасян и др. — 19-е изд. — М.: Просвещение, 2009. 
+                            </span>
+                        </div>
+                    </div>
+                </div>
+        </div>  
+        <div class="content-books__item clearfix">
+                <div class="content-books__item-content clearfix">
+                    <div class="content-books__item-content-left">
+                        <div class="content-books__cover">
+                            <img src="http://s3.mydomashka.ru/c602c/books/3xafb1fbdju-topcrop-90x125-100.jpg" alt=""/>
+                        </div>
+                    </div>
+                    <div class="content-books__item-content-right">
+                        <div class="content-books__description-items">
+                            <span class="content-books__description-item content-books__description-item_title">
+                                <a href="/gdz/7-klass-algebra/ag-mordkovich-2010.html">
+                                    А.Г. Мордкович 2010
+                                </a>                  
+                            </span>
+                            <span class="content-books__description-item content-books__description-item_comment">
+                                А.Г. Мордкович и др. - 14-е изд. стер. -М.:Мнемозина, 2010
+                            </span>
+                        </div>
+                    </div>
+                </div>
+        </div>  
+        <div class="content-books__item content-books__item_even clearfix">
+                <div class="content-books__item-content clearfix">
+                    <div class="content-books__item-content-left">
+                        <div class="content-books__cover">
+                            <img src="http://s2.mydomashka.ru/0ab8c/books/5scu0o03a24-topcrop-90x125-100.jpg" alt=""/>
+                        </div>
+                    </div>
+                    <div class="content-books__item-content-right">
+                        <div class="content-books__description-items">
+                            <span class="content-books__description-item content-books__description-item_title">
+                                <a href="/gdz/7-klass-russkij-jazyk/mt-baranov-2010.html">
+                                    М.Т. Баранов 2010
+                                </a>                  
+                            </span>
+                            <span class="content-books__description-item content-books__description-item_comment">
+                                М.Т. Баранов и др., — М.: Просвещение, 2010г. 
+                            </span>
+                        </div>
+                    </div>
+                </div>
+        </div>  
+        <div class="content-books__item content-books__item_last clearfix">
+                <div class="content-books__item-content clearfix">
+                    <div class="content-books__item-content-left">
+                        <div class="content-books__cover">
+                            <img src="http://s3.mydomashka.ru/8a1d9/books/0j3blipalou-topcrop-90x125-100.jpg" alt=""/>
+                        </div>
+                    </div>
+                    <div class="content-books__item-content-right">
+                        <div class="content-books__description-items">
+                            <span class="content-books__description-item content-books__description-item_title">
+                                <a href="/gdz/5-klass-russkij-jazyk/ta-ladyzhenskaja-2008.html">
+                                    Т.А. Ладыженская 2008
+                                </a>                  
+                            </span>
+                            <span class="content-books__description-item content-books__description-item_comment">
+                                Т.А. Ладыженская и др., М.: &quot;Просвещение&quot;,2008г. 
+                            </span>
+                        </div>
+                    </div>
+                </div>
+        </div>  
+        <div class="content-books__item content-books__item_even content-books__item_last clearfix">
+                <div class="content-books__item-content clearfix">
+                    <div class="content-books__item-content-left">
+                        <div class="content-books__cover">
+                            <img src="http://s1.mydomashka.ru/68ccc/books/ftkhsarri5w-topcrop-90x125-100.jpg" alt=""/>
+                        </div>
+                    </div>
+                    <div class="content-books__item-content-right">
+                        <div class="content-books__description-items">
+                            <span class="content-books__description-item content-books__description-item_title">
+                                <a href="/gdz/10-klass-algebra/ag-mordkovichi-2009.html">
+                                    А.Г. Мордковичи 2009
+                                </a>                  
+                            </span>
+                            <span class="content-books__description-item content-books__description-item_comment">
+                                А.Г. Мордковичи и др., - 10 изд. М.: Мнемозина 2009 г.
+                            </span>
+                        </div>
+                    </div>
+                </div>
+        </div>  
+</div>
+
+            </div>
+        </div>
+        <div class="content__section">
+            <div class="content__section-content">
+                
+
+<div class="ads-places clearfix">
+
+    <div class="ads-places__item-left">
+        <!-- Яндекс.Маркет -->
+        <script type="text/javascript">
+            yandex_partner_id = 61654;
+            yandex_site_bg_color = 'FFFFFF';
+            yandex_stat_id = 5;
+            yandex_site_charset = 'windows-1251';
+            yandex_ad_format = 'direct';
+            yandex_font_size = 0.8;
+            yandex_direct_type = 'flat';
+            yandex_direct_limit = 2;
+            yandex_direct_title_font_size = 3;
+            yandex_direct_header_bg_color = 'CC0000';
+            yandex_direct_title_color = '000000';
+            yandex_direct_url_color = '777777';
+            yandex_direct_all_color = '666666';
+            yandex_direct_text_color = '777777';
+            yandex_direct_hover_color = '0066FF';
+            yandex_direct_favicon = true;
+            document.write('<sc' + 'ript type="text/javascript" src="http://an.yandex.ru/system/context.js"></sc' + 'ript>');
+        </script>
+    </div>
+    
+    <div class="ads-places__item-right">
+        <!-- Яндекс.Маркет -->
+        <script type="text/javascript">
+            yandex_partner_id = 61654;
+            yandex_site_bg_color = 'FFFFFF';
+            yandex_stat_id = 5;
+            yandex_site_charset = 'windows-1251';
+            yandex_ad_format = 'direct';
+            yandex_font_size = 0.8;
+            yandex_direct_type = 'flat';
+            yandex_direct_limit = 2;
+            yandex_direct_title_font_size = 3;
+            yandex_direct_header_bg_color = 'CC0000';
+            yandex_direct_title_color = '000000';
+            yandex_direct_url_color = '777777';
+            yandex_direct_all_color = '666666';
+            yandex_direct_text_color = '777777';
+            yandex_direct_hover_color = '0066FF';
+            yandex_direct_favicon = true;
+            document.write('<sc' + 'ript type="text/javascript" src="http://an.yandex.ru/system/context.js"></sc' + 'ript>');
+        </script>
+    </div>
+
+</div>
+
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+
+
+            </div>
+        </div>
+    </div>
+    <div class="page-footer">
+        
+<div class="footer">
+    <div class="counters clearfix">
+        <div class="counters__item">
+            <a rel="nofollow" target="_blank" href="http://rucounter.ru/listsite.aspx">
+                <script type="text/javascript">
+                    <!--
+                    document.write("<img src='http://acn.rucounter.ru/imcn.aspx?r=" +
+                    escape(document.referrer) + ((typeof (screen) == "undefined") ? "" :
+                    "&amp;s=" + screen.width + "*" + screen.height + "*" + (screen.colorDepth ?
+                    screen.colorDepth : screen.pixelDepth)) + "&amp;d=" + escape(document.URL) +
+                    "&amp;t=" + escape(document.title.substring(0, 150)) + "&amp;c=" + (navigator.cookieEnabled ? "1" : "0") +
+                    "&amp;m=" + Math.random() +
+                    "'  alt='' border=0 />");
+                    //-->
+                </script>
+            </a>
+        </div>
+        <div class="counters__item">
+            <!--LiveInternet counter-->
+            <script type="text/javascript">
+            <!--
+            document.write("<a href='//www.liveinternet.ru/click' "+
+            "target=_blank><img src='//counter.yadro.ru/hit?t50.6;r"+
+            escape(document.referrer)+((typeof(screen)=="undefined")?"":
+            ";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+            screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+            ";"+Math.random()+
+            "' alt='' title='LiveInternet' "+
+            "border='0' width='31' height='31'><\/a>")
+            //--></script><!--/LiveInternet-->
+
+        </div>
+        <div class="counters__item">
+            <!-- Yandex.Metrika informer -->
+            <a href="https://metrika.yandex.ru/stat/?id=27204668&amp;from=informer"
+               target="_blank" rel="nofollow">
+                <img src="//bs.yandex.ru/informer/27204668/3_1_FFFFFFFF_EFEFEFFF_0_pageviews"
+                     style="width:88px; height:31px; border:0;" alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)" onclick="try{Ya.Metrika.informer({i:this,id:27204668,lang:'ru'});return false}catch(e){}" />
+            </a>
+            <!-- /Yandex.Metrika informer -->
+            <!-- Yandex.Metrika counter -->
+            <script type="text/javascript">
+                (function (d, w, c) {
+                    (w[c] = w[c] || []).push(function () {
+                        try {
+                            w.yaCounter27204668 = new Ya.Metrika({
+                                id: 27204668,
+                                webvisor: true,
+                                clickmap: true,
+                                trackLinks: true,
+                                accurateTrackBounce: true
+                            });
+                        } catch (e) { }
+                    });
+
+                    var n = d.getElementsByTagName("script")[0],
+                        s = d.createElement("script"),
+                        f = function () { n.parentNode.insertBefore(s, n); };
+                    s.type = "text/javascript";
+                    s.async = true;
+                    s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+
+                    if (w.opera == "[object Opera]") {
+                        d.addEventListener("DOMContentLoaded", f, false);
+                    } else { f(); }
+                })(document, window, "yandex_metrika_callbacks");
+            </script>
+            <noscript><div><img src="//mc.yandex.ru/watch/27204668" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+            <!-- /Yandex.Metrika counter -->
+        </div>
+    </div>
+    <div class="copyright">
+        Copyright © Моя домашка, 2021. Все права защищены.
+    </div>
+</div>
+
+    </div>
+    
+    
+<!--
+<script type="text/javascript">
+    var reformalOptions = {
+        project_id: 86351,
+        project_host: "mydomashka.reformal.ru",
+        tab_orientation: "right",
+        tab_indent: "50%",
+        tab_bg_color: "#F05A00",
+        tab_border_color: "#FFFFFF",
+        tab_image_url: "http://tab.reformal.ru/T9GC0LfRi9Cy0Ysg0Lgg0L%252FRgNC10LTQu9C%252B0LbQtdC90LjRjw==/FFFFFF/a08a7c60392f68cb33f77d4f56cf8c6f/right/1/tab.png",
+        tab_border_width: 2
+    };
+
+    (function () {
+        var script = document.createElement('script');
+        script.type = 'text/javascript'; script.async = true;
+        script.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'media.reformal.ru/widgets/v3/reformal.js';
+        document.getElementsByTagName('head')[0].appendChild(script);
+    })();
+</script><noscript><a href="http://reformal.ru"><img src="http://media.reformal.ru/reformal.png" alt="" /></a><a href="http://mydomashka.reformal.ru">Oтзывы и предложения для Моя домашка</a></noscript>
+
+-->
+</body>
+</html>

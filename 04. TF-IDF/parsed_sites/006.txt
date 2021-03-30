@@ -1,0 +1,733 @@
+<!DOCTYPE html>
+<html lang="ru-RU">
+<head>
+    <link href="https://fonts.googleapis.com/css?family=Fira+Sans:400,600,700&display=swap" rel="stylesheet">
+
+<!--    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">-->
+
+            <meta name="yandex-verification" content="74263fe779e01d05"/>
+
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-39551357-5"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+
+            function gtag() {
+                dataLayer.push(arguments);
+            }
+
+            gtag('js', new Date());
+            gtag('config', 'UA-39551357-5');
+        </script>
+
+    
+    <meta charset="UTF-8">
+
+    <meta name="yandex-verification" content="74263fe779e01d05" />
+
+    <meta name="theme-color" content="#333">
+    <link rel="icon" type="image/png" href="/media/icons/favicon-192x192-black.png" sizes="192x192">
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=3.0, user-scalable=yes'>
+    
+        <link rel="canonical" href="https://superresheba.by">
+    
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    
+    <meta name="csrf-param" content="_csrf">
+<meta name="csrf-token" content="fxHMiB4u_MRh0pMC3F4xxPzJ-abYsnRoPf8PTUU1PpgKRP2xUmeIsDOT9TqRb2CTuPmSwLzeIBxorUkodVQL7Q==">
+    <title>Супер Решеба | Решебники и ГДЗ 2021   для белорусских школ</title>
+
+    <link href="https://use.fontawesome.com/releases/v5.11.1/css/all.css" rel="stylesheet">
+<link href="/css/min/main.css?v=1613309132" rel="stylesheet"></head>
+<body id="body">
+
+<header>
+    <div class="header inner">
+
+        <div class="logo">
+            <svg version='1.1' id='logo-menu' xmlns='http://www.w3.org/2000/svg'
+                 xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px'
+                 viewBox='0 0 500 500' style='enable-background:new 0 0 500 500;' xml:space='preserve'>
+      <style type='text/css'>
+          .st0 {
+              fill-rule: evenodd;
+              clip-rule: evenodd;
+          }
+
+          .st1 {
+          }
+
+          .st2 {
+              fill-rule: evenodd;
+              clip-rule: evenodd;
+          }
+      </style>
+                <path class='st0' d='M174.2,151.1v31.4h144.6L432,295.5l-26.4,74.9L318.8,440H111.3l31.4-113.1h155.9h20.1v-31.4h-20.1H174.2
+        l-88-69.6L61,151.1L174.2,38h207.5l-31.4,113.1H174.2z'/>
+                <polygon class='st1' points='174.2,151.1 174.2,38 381.7,38 350.3,151.1 '/>
+                <rect x='174.2' y='182.5' class='st1' width='144.6' height='113.1'/>
+                <polygon class='st1' points='318.8,326.9 318.8,440 111.3,440 142.7,326.9 '/>
+                <polygon class='st2' points='318.8,440 289.5,326.9 318.8,326.9 '/>
+                <polygon class='st2' points='318.8,182.5 289.5,295.5 318.8,295.5 '/>
+                <polygon class='st2' points='174.2,38 203.5,151.1 174.2,151.1 '/>
+                <polygon class='st2' points='174.2,295.5 203.5,182.5 174.2,182.5 '/>
+    </svg>
+        </div>
+
+        <menu class="menu_top">
+            <ul class="nav__list">
+                <li class="menu_top-home_link"><a href="/">Главная</a></li>
+                <li class="menu_top-home_link menu-pulse"><a href="/spora">Шпаргалки к экзаменам</a></li>
+                <li class="menu_top-home_link"><a href="/lenty">Выпускные ленты</a></li>
+                <li class="menu_top-home_link"></li>
+            </ul>
+        </menu>
+
+    </div>
+</header>
+
+<div class="wrapper" id="content-body">
+
+    <pre class="prettyprint d-none"></pre>
+    <span class="d-none sr-correct-answer sr-list-answer sr-dash-dot-line sr-dash-dot-line sr-wavy-underline sr-wavy-underline sr-underline underline sr-basis sr-double-underline sr-dashline sr-basis sr-basis sr-cum sr-postfix sr-postfix sr-suffix sr-suffix sr-root sr-prefix sr-prefix sr-wavy-underline sr-accent"></span>
+    <div class="table-responsive-sm table-responsive d-none">
+        <div class="d-none book-131"><img src="/favicon.ico"></div>
+        <table class="table table-striped">
+            <thead>
+            <tr>
+                <th scope="col"></th>
+                <th scope="col"></th>
+                <th scope="col"></th>
+                <th scope="col"></th>
+            </tr>
+            </thead>
+            <tbody>
+            <tr>
+                <th scope="row"></th>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <th scope="row"></th>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            </tbody>
+        </table>
+    </div>
+
+                
+        <div class="inner home">
+    <div class="title title-alone">
+        <h1>
+            Решебники 2021 от Супер Решебы
+        </h1>
+    </div>
+
+    <div class="menu menu-classes mb-3">
+
+        <div class="row">
+            
+                <div class="col text-center">
+                    <h3>
+                        <a class="home-menu-link" rel="prefetch" href="/5">
+                            <div class="n_class">5</div><div class="t_class">класс</div>                        </a>
+                    </h3>
+                </div>
+
+            
+                <div class="col text-center">
+                    <h3>
+                        <a class="home-menu-link" rel="prefetch" href="/6">
+                            <div class="n_class">6</div><div class="t_class">класс</div>                        </a>
+                    </h3>
+                </div>
+
+            
+                <div class="col text-center">
+                    <h3>
+                        <a class="home-menu-link" rel="prefetch" href="/7">
+                            <div class="n_class">7</div><div class="t_class">класс</div>                        </a>
+                    </h3>
+                </div>
+
+            
+                <div class="col text-center">
+                    <h3>
+                        <a class="home-menu-link" rel="prefetch" href="/8">
+                            <div class="n_class">8</div><div class="t_class">класс</div>                        </a>
+                    </h3>
+                </div>
+
+            
+                <div class="col text-center">
+                    <h3>
+                        <a class="home-menu-link" rel="prefetch" href="/9">
+                            <div class="n_class">9</div><div class="t_class">класс</div>                        </a>
+                    </h3>
+                </div>
+
+            
+                <div class="col text-center">
+                    <h3>
+                        <a class="home-menu-link" rel="prefetch" href="/10">
+                            <div class="n_class">10</div><div class="t_class">класс</div>                        </a>
+                    </h3>
+                </div>
+
+            
+                <div class="col text-center">
+                    <h3>
+                        <a class="home-menu-link" rel="prefetch" href="/11">
+                            <div class="n_class">11</div><div class="t_class">класс</div>                        </a>
+                    </h3>
+                </div>
+
+                    </div>
+
+    </div>
+
+    <div class="menu menu-classes mb-5">
+        <div class="row">
+            
+                <div class="col-12 col-md-3 collection-b label-hist">
+                    <div class="collection-container" style="background-color: #9c27b012">
+                        <h2 class="mt-0 mb-2 section-header">
+                            <i class="fas fa-landmark icon" style="color: #9c27b0"></i>
+                            <div class="section-title">История</div>
+                        </h2>
+
+                        <div class="row">
+                            <div class="col">
+                                                                    <a class="link-inline link-inline-white" href="/c/5-history" title="5 класс">
+                                        5                                    </a>
+                                                                    <a class="link-inline link-inline-white" href="/c/6-history" title="6 класс">
+                                        6                                    </a>
+                                                                    <a class="link-inline link-inline-white" href="/c/7-history" title="7 класс">
+                                        7                                    </a>
+                                                                    <a class="link-inline link-inline-white" href="/c/8-history" title="8 класс">
+                                        8                                    </a>
+                                                                    <a class="link-inline link-inline-white" href="/c/9-history" title="9 класс">
+                                        9                                    </a>
+                                                                    <a class="link-inline link-inline-white" href="/c/10-history" title="10 класс">
+                                        10                                    </a>
+                                                                    <a class="link-inline link-inline-white" href="/c/11-history" title="11 класс">
+                                        11                                    </a>
+                                                            </div>
+                        </div>
+                    </div>
+
+                </div>
+
+            
+                <div class="col-12 col-md-3 collection-b label-geo">
+                    <div class="collection-container" style="background-color: #4caf5012">
+                        <h2 class="mt-0 mb-2 section-header">
+                            <i class="fas fa-globe icon" style="color: #4caf50"></i>
+                            <div class="section-title">География</div>
+                        </h2>
+
+                        <div class="row">
+                            <div class="col">
+                                                                    <a class="link-inline link-inline-white" href="/c/6-geography" title="6 класс">
+                                        6                                    </a>
+                                                                    <a class="link-inline link-inline-white" href="/c/7-geography" title="7 класс">
+                                        7                                    </a>
+                                                                    <a class="link-inline link-inline-white" href="/c/8-geography" title="8 класс">
+                                        8                                    </a>
+                                                                    <a class="link-inline link-inline-white" href="/c/9-geography" title="9 класс">
+                                        9                                    </a>
+                                                                    <a class="link-inline link-inline-white" href="/c/10-geography" title="10 класс">
+                                        10                                    </a>
+                                                                    <a class="link-inline link-inline-white" href="/c/11-geography" title="11 класс">
+                                        11                                    </a>
+                                                            </div>
+                        </div>
+                    </div>
+
+                </div>
+
+            
+                <div class="col-12 col-md-3 collection-b label-bio">
+                    <div class="collection-container" style="background-color: #e91e6312">
+                        <h2 class="mt-0 mb-2 section-header">
+                            <i class="fas fa-biohazard icon" style="color: #e91e63"></i>
+                            <div class="section-title">Биология</div>
+                        </h2>
+
+                        <div class="row">
+                            <div class="col">
+                                                                    <a class="link-inline link-inline-white" href="/c/6-biology" title="6 класс">
+                                        6                                    </a>
+                                                                    <a class="link-inline link-inline-white" href="/c/7-biology" title="7 класс">
+                                        7                                    </a>
+                                                                    <a class="link-inline link-inline-white" href="/c/8-biology" title="8 класс">
+                                        8                                    </a>
+                                                                    <a class="link-inline link-inline-white" href="/c/9-biology" title="9 класс">
+                                        9                                    </a>
+                                                                    <a class="link-inline link-inline-white" href="/c/10-biology" title="10 класс">
+                                        10                                    </a>
+                                                                    <a class="link-inline link-inline-white" href="/11-biology-wbook_3" title="11 класс">
+                                        11                                    </a>
+                                                            </div>
+                        </div>
+                    </div>
+
+                </div>
+
+            
+                <div class="col-12 col-md-3 collection-b label-phys">
+                    <div class="collection-container" style="background-color: #673ab712">
+                        <h2 class="mt-0 mb-2 section-header">
+                            <i class="fas fa-magnet icon" style="color: #673ab7"></i>
+                            <div class="section-title">Физика</div>
+                        </h2>
+
+                        <div class="row">
+                            <div class="col">
+                                                                    <a class="link-inline link-inline-white" href="/7-physics-wbook_30" title="7 класс">
+                                        7                                    </a>
+                                                                    <a class="link-inline link-inline-white" href="/8-physics-wbook_26" title="8 класс">
+                                        8                                    </a>
+                                                                    <a class="link-inline link-inline-white" href="/9-physics-wbook_25" title="9 класс">
+                                        9                                    </a>
+                                                                    <a class="link-inline link-inline-white" href="/c/10-physics" title="10 класс">
+                                        10                                    </a>
+                                                                    <a class="link-inline link-inline-white" href="/11-physics-wbook_5" title="11 класс">
+                                        11                                    </a>
+                                                            </div>
+                        </div>
+                    </div>
+
+                </div>
+
+            
+                <div class="col-12 col-md-3 collection-b label-chem">
+                    <div class="collection-container" style="background-color: #2196f312">
+                        <h2 class="mt-0 mb-2 section-header">
+                            <i class="fas fa-atom icon" style="color: #2196f3"></i>
+                            <div class="section-title">Химия</div>
+                        </h2>
+
+                        <div class="row">
+                            <div class="col">
+                                                                    <a class="link-inline link-inline-white" href="/c/7-chemistry" title="7 класс">
+                                        7                                    </a>
+                                                                    <a class="link-inline link-inline-white" href="/c/8-chemistry" title="8 класс">
+                                        8                                    </a>
+                                                                    <a class="link-inline link-inline-white" href="/c/9-chemistry" title="9 класс">
+                                        9                                    </a>
+                                                                    <a class="link-inline link-inline-white" href="/c/10-chemistry" title="10 класс">
+                                        10                                    </a>
+                                                                    <a class="link-inline link-inline-white" href="/c/11-chemistry" title="11 класс">
+                                        11                                    </a>
+                                                            </div>
+                        </div>
+                    </div>
+
+                </div>
+
+            
+                <div class="col-12 col-md-3 collection-b label-rus">
+                    <div class="collection-container" style="background-color: #3f51b512">
+                        <h2 class="mt-0 mb-2 section-header">
+                            <i class="fas fa-pen-nib icon" style="color: #3f51b5"></i>
+                            <div class="section-title">Русский язык</div>
+                        </h2>
+
+                        <div class="row">
+                            <div class="col">
+                                                                    <a class="link-inline link-inline-white" href="/6-russian-book_9" title="6 класс">
+                                        6                                    </a>
+                                                                    <a class="link-inline link-inline-white" href="/9-russian-book_21" title="9 класс">
+                                        9                                    </a>
+                                                                    <a class="link-inline link-inline-white" href="/10-russian-book_160" title="10 класс">
+                                        10                                    </a>
+                                                            </div>
+                        </div>
+                    </div>
+
+                </div>
+
+            
+                <div class="col-12 col-md-3 collection-b label-inf">
+                    <div class="collection-container" style="background-color: #03a9f412">
+                        <h2 class="mt-0 mb-2 section-header">
+                            <i class="fas fa-laptop-code icon" style="color: #03a9f4"></i>
+                            <div class="section-title">Информатика</div>
+                        </h2>
+
+                        <div class="row">
+                            <div class="col">
+                                                                    <a class="link-inline link-inline-white" href="/9-informatics-book_112" title="9 класс">
+                                        9                                    </a>
+                                                                    <a class="link-inline link-inline-white" href="/10-informatics-book_130" title="10 класс">
+                                        10                                    </a>
+                                                            </div>
+                        </div>
+                    </div>
+
+                </div>
+
+            
+                <div class="col-12 col-md-3 collection-b label-soc">
+                    <div class="collection-container" style="background-color: #8bc34a12">
+                        <h2 class="mt-0 mb-2 section-header">
+                            <i class="fas fa-users icon" style="color: #8bc34a"></i>
+                            <div class="section-title">Обществоведение</div>
+                        </h2>
+
+                        <div class="row">
+                            <div class="col">
+                                                                    <a class="link-inline link-inline-white" href="/9-social-book_159" title="9 класс">
+                                        9                                    </a>
+                                                                    <a class="link-inline link-inline-white" href="/10-social-book_140" title="10 класс">
+                                        10                                    </a>
+                                                            </div>
+                        </div>
+                    </div>
+
+                </div>
+
+            
+                <div class="col-12 col-md-3 collection-b label-eng">
+                    <div class="collection-container" style="background-color: #ffc10712">
+                        <h2 class="mt-0 mb-2 section-header">
+                            <i class="fas fa-gopuram icon" style="color: #ffc107"></i>
+                            <div class="section-title">Английский язык</div>
+                        </h2>
+
+                        <div class="row">
+                            <div class="col">
+                                                                    <a class="link-inline link-inline-white" href="/9-english-wbook_157" title="9 класс">
+                                        9                                    </a>
+                                                                    <a class="link-inline link-inline-white" href="/10-english-wbook_156" title="10 класс">
+                                        10                                    </a>
+                                                            </div>
+                        </div>
+                    </div>
+
+                </div>
+
+            
+                <div class="col-12 col-md-3 collection-b label-ex">
+                    <div class="collection-container" style="background-color: #ff572212">
+                        <h2 class="mt-0 mb-2 section-header">
+                            <i class="fas fa-dice icon" style="color: #ff5722"></i>
+                            <div class="section-title">Экзамены</div>
+                        </h2>
+
+                        <div class="row">
+                            <div class="col">
+                                                                    <a class="link-inline link-inline-white" href="/c/9-exams" title="9 класс">
+                                        9                                    </a>
+                                                                    <a class="link-inline link-inline-white" href="/c/11-exams" title="11 класс">
+                                        11                                    </a>
+                                                            </div>
+                        </div>
+                    </div>
+
+                </div>
+
+            
+                <div class="col-12 col-md-3 collection-b label-math">
+                    <div class="collection-container" style="background-color: #607d8b12">
+                        <h2 class="mt-0 mb-2 section-header">
+                            <i class="fas fa-divide icon" style="color: #607d8b"></i>
+                            <div class="section-title">Математика</div>
+                        </h2>
+
+                        <div class="row">
+                            <div class="col">
+                                                                    <a class="link-inline link-inline-white" href="/5-math-wbook_184" title="5 класс">
+                                        5                                    </a>
+                                                                    <a class="link-inline link-inline-white" href="/6-math-wbook_185" title="6 класс">
+                                        6                                    </a>
+                                                            </div>
+                        </div>
+                    </div>
+
+                </div>
+
+            
+                <div class="col-12 col-md-3 collection-b label-astro">
+                    <div class="collection-container" style="background-color: #f4433612">
+                        <h2 class="mt-0 mb-2 section-header">
+                            <i class="fas fa-satellite-dish icon" style="color: #f44336"></i>
+                            <div class="section-title">Астрономия</div>
+                        </h2>
+
+                        <div class="row">
+                            <div class="col">
+                                                                    <a class="link-inline link-inline-white" href="/c/11-astronomy" title="11 класс">
+                                        11                                    </a>
+                                                            </div>
+                        </div>
+                    </div>
+
+                </div>
+
+            
+                <div class="col-12 col-md-3 collection-b label-geom">
+                    <div class="collection-container" style="background-color: #00bcd412">
+                        <h2 class="mt-0 mb-2 section-header">
+                            <i class="fas fa-shapes icon" style="color: #00bcd4"></i>
+                            <div class="section-title">Геометрия</div>
+                        </h2>
+
+                        <div class="row">
+                            <div class="col">
+                                                                    <a class="link-inline link-inline-white" href="/c/10-geometry" title="10 класс">
+                                        10                                    </a>
+                                                            </div>
+                        </div>
+                    </div>
+
+                </div>
+
+            
+                <div class="col-12 col-md-3 collection-b label-world">
+                    <div class="collection-container" style="background-color: #00968812">
+                        <h2 class="mt-0 mb-2 section-header">
+                            <i class="fas fa-globe-americas icon" style="color: #009688"></i>
+                            <div class="section-title">Человек и мир</div>
+                        </h2>
+
+                        <div class="row">
+                            <div class="col">
+                                                                    <a class="link-inline link-inline-white" href="/c/5-man-and-world" title="5 класс">
+                                        5                                    </a>
+                                                            </div>
+                        </div>
+                    </div>
+
+                </div>
+
+            
+                <div class="col-12 col-md-3 collection-b label-alg">
+                    <div class="collection-container" style="background-color: #cddc3912">
+                        <h2 class="mt-0 mb-2 section-header">
+                            <i class="fas fa-square-root-alt icon" style="color: #cddc39"></i>
+                            <div class="section-title">Алгебра</div>
+                        </h2>
+
+                        <div class="row">
+                            <div class="col">
+                                                                    <a class="link-inline link-inline-white" href="/c/10-algebra" title="10 класс">
+                                        10                                    </a>
+                                                            </div>
+                        </div>
+                    </div>
+
+                </div>
+
+            
+                <div class="col-12 col-md-3 collection-b label-draw">
+                    <div class="collection-container" style="background-color: #9e9e9e12">
+                        <h2 class="mt-0 mb-2 section-header">
+                            <i class="fas fa-drafting-compass icon" style="color: #9e9e9e"></i>
+                            <div class="section-title">Черчение</div>
+                        </h2>
+
+                        <div class="row">
+                            <div class="col">
+                                                                    <a class="link-inline link-inline-white" href="/c/10-draw" title="10 класс">
+                                        10                                    </a>
+                                                            </div>
+                        </div>
+                    </div>
+
+                </div>
+
+                    </div>
+    </div>
+
+    <div class="d-none label-geo label-astro label-bio label-hist label-phys label-rus label-chem label-inf label-geom label-world label-soc label-alg label-eng label-ex label-draw label-math"></div>
+
+    <p>
+        Супер Решеба предлагает учащимся в среднеобразовательных учреждениях, их родителям и учителям к ознакомлению
+        материалы по учебной программе Беларуси. Учащиеся, изучив решённые лабораторные и практические работы, повысят
+        навыки решения аналогичных заданий. Стоит обратить внимание, что практические задания в рабочих тетрадях по
+        точным наукам носят информативный характер, т.к. инвентарь и оборудование для замеров и вычислений в каждом
+        учреждении могут различаться с теми, которые были использованы авторами решений на сайте superresheba.by.
+    </p>
+
+</div>
+</div>
+
+<div class="wrapper__footer">
+    <div class="footer_top">
+        <div class="inner">
+            <div class="row">
+                <div class="col-12 col-md-6 col-lg-3">
+                    <h6 class="mb-4">Разделы</h6>
+                    <ul class="site_info">
+                        <li><a href="/">Решебники</a></li>
+                        <li><a href="/spora">Шпаргалки</a></li>
+                        <li><a href="/lenty">Выпускные ленты</a></li>
+                    </ul>
+                </div>
+                <div class="col-12 col-md-6 col-lg-3">
+                    <h6 class="mb-4">Категории</h6>
+                    <ul class="site_info">
+                        <li><a href="/ct/controls">Контрольные и самостоятельные</a></li>
+                        <li><a href="/ct/practs-labs">Лабораторные и практические</a></li>
+                        <li><a href="/ct/maps">Контурные карты</a></li>
+                    </ul>
+                </div>
+                <div class="col-12 col-md-6 col-lg-3">
+                    <h6 class="mb-4">Контакты</h6>
+                    <ul class="site_info contact-list">
+                        <li class="contact-item">
+                            <a href="https://www.instagram.com/superresheba.by/" target="_blank" class="d-flex align-items-center">
+                                <div class="mr-2 contact-item-icon contact-item-icon--inst">
+                                    <i class="fab fa-instagram"></i>
+                                </div>
+                                Instagram Шпоры
+                            </a>
+                        </li>
+                        <li class="contact-item">
+                            <a href="https://www.instagram.com/lenty_superresheba/" target="_blank" class="d-flex align-items-center">
+                                <div class="mr-2 contact-item-icon contact-item-icon--inst">
+                                    <i class="fab fa-instagram"></i>
+                                </div>
+                                Instagram Выпускные ленты
+                            </a>
+                        </li>
+                        <li class="contact-item">
+                            <a href="https://vk.com/superresheba_by" target="_blank" class="d-flex align-items-center">
+                                <div class="mr-2 contact-item-icon contact-item-icon--vk">
+                                    <i class="fab fa-vk"></i>
+                                </div>
+                                Сообщество ВКонтакте
+                            </a>
+                        </li>
+                        <li class="contact-item d-flex align-items-center">
+                            <div class="mr-2 contact-item-icon contact-item-icon--inst">
+                                <i class="fas fa-envelope"></i>
+                            </div>
+                            ad@superresheba.by
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer_bottom">
+        <div class="inner">
+            <div class="footer__logo">
+                SUPERRESHEBA
+            </div>
+            <div class="footer__copy">
+
+                © «superresheba.by», 2014 - 2021. Использование материалов, авторские права на которые принадлежат superresheba.by, возможно только с прямой активной ссылкой на первоисточник. Категория интернет-ресурса 0+
+
+            </div>
+        </div>
+    </div>
+</div>
+
+<script src="/assets/39dbdfa2/jquery.js?v=1607461339"></script>
+<script src="/js/main.js?v=1602353553"></script>
+<script src="//cdn.jsdelivr.net/npm/vue@2.6.12"></script>
+<script src="//cdn.jsdelivr.net/npm/vue-resource@1.5.1"></script>
+<script src="/js/rat.js?v=1604160255"></script>
+<script type="text/javascript" src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+
+<script>
+    $(function(){$('a[href]').click(
+        function(){
+            if(location.pathname.replace(/^\//,"")==this.pathname.replace(/^\//,"")&&location.hostname==this.hostname){
+                let t=$(this.hash);
+                if (!t || t.length === 0 || this.hash.length === 1) return false;
+                if(t=t.length?t:$("[name="+this.hash.slice(1)+"]"),t.length) return $("html,body").animate({scrollTop:t.offset().top},500),!1
+            }
+        })
+    });
+</script>
+
+    <link href='https://cdn.jsdelivr.net/npm/katex@0.10.0/dist/katex.min.css' rel='stylesheet' type='text/css'>
+
+    <script type="text/x-mathjax-config">
+          MathJax.Hub.Config({
+            tex2jax: {
+              inlineMath: [['$','$'], ['\\(','\\)']]
+            },
+            "HTML-CSS": {
+              preferredFont: "Mathrm"
+            }
+          });
+          MathJax.Hub.Queue(["Typeset",MathJax.Hub]);
+
+    </script>
+    <script type="text/javascript" async
+            src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_CHTML">
+    </script>
+
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/rangy/1.2.3/rangy-core.js"></script>
+<script type="text/javascript" src="/js/morfana.min.js"></script>
+
+<script src="https://cdn.jsdelivr.net/gh/google/code-prettify@master/loader/run_prettify.js"></script>
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter51002018 = new Ya.Metrika2({
+                    id:51002018,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/tag.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks2");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/51002018" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+
+    <!--LiveInternet counter--><div style="display:none"><script type="text/javascript">
+            document.write("<a href='//www.liveinternet.ru/click' "+
+                "target=_blank><img src='//counter.yadro.ru/hit?t45.1;r"+
+                escape(document.referrer)+((typeof(screen)=="undefined")?"":
+                    ";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+                    screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+                ";h"+escape(document.title.substring(0,150))+";"+Math.random()+
+                "' alt='' title='LiveInternet' "+
+                "border='0' width='31' height='31'><\/a>")
+        </script></div><!--/LiveInternet-->
+
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <script>
+        (adsbygoogle = window.adsbygoogle || []).push({
+            google_ad_client: "ca-pub-0243558672408881",
+            enable_page_level_ads: true
+        });
+        gtag('config', 'AW-695115182');
+    </script>
+    
+
+<script>
+
+</script>
+
+</body>
+<script type="text/x-morfana-config">Morfana.configure({stroke: 'rgb(0,0,0)', strokeWidth: 1});</script>
+</html>

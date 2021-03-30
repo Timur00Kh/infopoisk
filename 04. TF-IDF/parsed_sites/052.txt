@@ -1,0 +1,554 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!-- Design & Programming by Sergey Belyaev, @2006-2021 E-mail: bsn@mail.ru -->
+
+<html>
+<head>
+  <title>����� ������������</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+  <meta name="viewport" content="width=640, initial-scale=1">
+  <meta name="description" content="��������� �� �����������. �������, ������, �������. �������������� ������� ��������.">
+  <meta name="keywords" content="����������������, ������ �� ����������������, ������ �����, ������� ����������� �����, ����������� �������, acm, ���">
+  <meta name='yandex-verification' content='4750e2c69b4e997c' />
+  <meta name='yandex-verification' content='5cb06d7dea348985' />
+  <meta name="google-site-verification" content="h6lljpq7I6H-uuuQLjC_oX_jLfDyQjsygVZup9Xyygs" />  
+  <link rel="icon" href="/images/favicon.ico" type="image/x-icon">
+  <link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon"> 
+  <link rel="apple-touch-icon" sizes="57x57" href="/images/57x57.png" />
+  <link rel="apple-touch-icon" sizes="72x72" href="/images/72x72.png" />
+  <link rel="apple-touch-icon" sizes="114x114" href="/images/114x114.png" />
+  <link rel="apple-touch-icon" sizes="144x144" href="/images/144x144.png" />
+  <link rel="apple-touch-icon" sizes="192x192" href="/images/192x192.png" />
+  <link rel="icon" href="/images/120x120.svg" type="image/x-icon">
+  <!-- Yandex.Metrika counter -->
+  <script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(52428040, "init", {
+        id:52428040,
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+  </script>
+  <noscript><div><img src="https://mc.yandex.ru/watch/52428040" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+  <style>
+    a {color: rgb(0, 60, 0); text-decoration: none; border-color: 0;} 
+a:hover {color: red; text-decoration: underline;} 
+
+a.red {color: red; text-decoration: none; border-color: 0;} 
+a.red:hover {color: red; text-decoration: underline;} 
+
+a.top:link    {color: rgb(0, 0, 0);font-weight:bold;font-family:verdana;font-size:11pt;}
+a.top:visited {color: rgb(0, 0, 0);font-weight:bold;font-family:verdana;font-size:11pt;}
+a.top:hover   {color:#ee2222;font-weight:bold;font-family:verdana;font-size:11pt;}
+
+h1 {margin-top:5; margin-bottom:5; text-align:center; font-family: verdana, tahoma, arial; font-size: 14pt; color : #006600; font-weight: normal;} 
+h2 {font-family: verdana, tahoma, arial; font-size: 14pt; color : #006600; font-weight: normal;} 
+h3 {margin-top:10; margin-bottom:-20; font-family: verdana, tahoma, arial; font-size: 14pt; color : #006600; font-weight: normal;} 
+h4 {font-family: verdana, tahoma, arial; font-size: 11pt; color : #006600; font-weight: bold;} 
+
+hr {color: #509050; width: 100%; height: 1px}
+
+input { background-color: #f0fff0; border: gray 1px solid; font-family: verdana, tahoma; font-size: 8pt} 
+input.button {background-color: #eeeeee;border: gray 1px solid; font-family: verdana, tahoma; font-size: 8pt} 
+select {background-color: #f0fff0; border: gray 1px solid; font-family: verdana, tahoma; font-size: 8pt} 
+textarea {background-color: #f0fff0; border: gray 1px solid; font-family: verdana, tahoma; font-size: 8pt} 
+.menu_title {font-family: Tahoma;font-size: 12px;color: #0D2B01; FONT-WEIGHT: bold;}
+
+
+.news {color: #006600}
+.btext {text-align:center; font-family: verdana, tahoma, arial; font-size: 8pt; color : #004400; font-weight: bold;} 
+.btext2 {text-align: left; font-family: verdana, tahoma, arial; font-size: 8pt; color : #004400; font-weight: bold;} 
+.btext3 {font-family: verdana, tahoma, Arial; font-size: 8pt; color : #007000;}
+.menu { color: #33a033; font-size: 11pt; text-decoration: none; font-weight: bold;} 
+.title {color: rgb(0,120,0);font-weight:bold;}
+.nomargin {margin: 0 0 0 0}
+p.text {text-indent: 30px; text-align: justify; margin-top: 5px; margin-bottom: 10px;}
+p.stext {text-indent: 30px; font-size: 10pt;text-align: justify; margin-top: 5px; margin-bottom: 10px;}
+img.point {width: 5px; height: 12px; background-image: url(/images/1x1.gif);}
+.normal {background-color: #FFFFFF;border: 0 solid gray;font-size: 12px;font-family: Verdana, Tahoma;}
+.red {color: red;}
+.green {color: #008800;}
+.green2 {color: #008800;}
+.gray {background-color: #e8e8e8;}
+.lightgreen {background-color: #ccffcc;}
+.white {background-color: white;}
+.white2 {background-color: white; font-family: courier;}
+
+table.main {background-color: #007700; width: 100%;}
+th {background-color: #ddffdd; color: #006600; font-size: 12pt; text-decoration : none; font-weight : bold;}
+tr.small {font-size: 8pt;} 
+td.green {background-color: #9DBFB1}
+
+.img_topleft{
+	border : 0px;
+	background-image: url(/images/img_topleft.gif);
+	background-repeat: no-repeat;
+    width:13px;
+	height: 13px;
+}
+.img_top{
+	border : 0px;
+	background-image: url(/images/img_top.gif);
+	background-repeat: repeat-x;
+	height: 13px;
+}
+.img_topright{
+	border : 0px;
+	background-image: url(/images/img_topright.gif);
+	background-repeat: no-repeat;
+   width:13px;
+	height: 13px;
+}
+.img_left{
+	border : 0px;
+	background-image: url(/images/img_left.gif);
+	background-repeat: repeat-y;
+   width:13px;
+}
+.img_right{
+	border : 0px;
+	background-image: url(/images/img_right.gif);
+	background-repeat: repeat-y;
+   width:13px;
+}
+.img_bottomleft{
+	border : 0px;
+	background-image: url(/images/img_bottomleft.gif);
+	background-repeat: no-repeat;
+   width: 13px;
+	height: 13px;
+}
+.img_bottom{
+	border : 0px;
+	background-image: url(/images/img_bottom.gif);
+	background-repeat: repeat-x;
+	height: 13px;
+}
+.img_bottomright{
+	border : 0px;
+	background-image: url(/images/img_bottomright.gif);
+	background-repeat: no-repeat;
+   width:13px;
+	height: 13px;
+}
+.img_bottomright_comment{
+	border : 0px;
+	background-image: url(/images/img_comment.gif);
+	background-repeat: no-repeat;
+   width:13px;
+	height: 13px;
+}
+table.thumb {
+   border-collapse: collapse;
+	text-align:center;
+   margin: 10px;
+   padding: 0px;
+}
+
+a.my {color : #999999; font-size: 10; text-decoration:none}
+a.my:visited {color : #999999; font-size: 10; text-decoration: underline}
+a.my:hover {color : #666666; font-size: 10; text-decoration: underline}
+
+  </style>
+  <script>var now = new Date(2021,3-1,1,22,46,39)</script>
+
+<script>
+function ValidLF(){
+  if(!enter.lgn.value){
+    alert('���������� ������ �����!')
+    enter.lgn.focus()
+  }else 
+  if(!enter.password.value){
+    alert('���������� ������ ������!')
+    enter.password.focus()
+  }
+  else {return true}
+  return false
+}
+function ShowTime(){ 
+  now.setTime(now.getTime()+1000)
+  timer.innerHTML =now.toLocaleString()+"&nbsp;"
+  window.setTimeout('ShowTime()',1000)
+} 
+</script>
+
+</head>
+
+<body onload="ShowTime()" class=nomargin>
+  <table width=100% cellpadding=0 cellspacing=0 style="margin-top: 2" border=0> 
+	<tr height=20><td colspan=5>
+	  <table width=100% cellpadding=0 cellspacing=0 border=0> 
+
+        <tr height=40>
+	      <td colspan=2>
+		    <table cellpadding=0 cellspacing=0><tr>
+		      <td valign=top>
+
+<script type="text/javascript"><!--
+new Image().src = "//counter.yadro.ru/hit?r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random();//--></script>
+
+</td>
+		      <td><a href=/>
+			    
+ 			       <img src="/images/title.png" width=354 height=40 alt="����� ������������" title="����� ������������" border=0></a>
+				
+			  </td>
+			  
+            </tr></table>
+		  </td>
+		  <td valign=top colspan=2 align=right>
+		     <p id=timer class=nomargin></p>
+			 
+			   <a href=/inc/remind.asp style="font-size: 8pt">������ ������?</a>
+             
+		  </td>
+        </tr>
+
+        <tr height=5>
+		  <td background=/images/3lines.gif colspan=4></td>
+		</tr><tr height=20 valign=middle>
+           <td bgcolor=#aaFFaa width=430>
+<a href=/index.asp?main=tasks class=top>[������]</a>
+
+<a href=/asp/do/index.asp class=top>[�����]</a>
+
+  <a href=/asp/champ/index.asp class=top>[���������]</a>
+
+  <a href=/inc/register.asp class=top>[�����������]</a>
+</td>
+           <td bgcolor=#609E48 width=20 background=/images/45a.gif></td>
+		   <td bgcolor=#609E48 align=center>
+		   
+		   </td>
+           <td bgcolor=#609E48 width=300 align=right> 
+  <form class=nomargin name=enter action=/index.asp?main=enter&r=910941720899433685964305 method=post onsubmit='return ValidLF()'> 
+    <nobr>
+    <b class=btext2>
+	  �����: <input type=text name=lgn value='' size=8 style="height:18">&nbsp;
+	  ������: <input type=password name=password value='' size=8 style="height:18">&nbsp;
+	  <input type=submit value=Ok class=button style="height:18">&nbsp;
+    </b>
+	</nobr>
+  </form>
+  <script defer>enter.lgn.focus()</script> 
+</td>
+		</tr>
+	  </table>
+    </td></tr>	
+	<tr height=8><td colspan=5 background=/images/line.gif><a href=/?main=back&showmenu=0><img src=/images/l_arr.gif border=0 width=15 height=7 alt="������ ����"></a></td></tr>
+	<tr><td colspan=6>
+    <table width=100% cellspacing=0 cellpadding=0><tr height=100%>
+	  
+        <td width=180 valign=top height=100%>		<table width=100% height=100% cellpadding=0 cellspacing=0 valign=top>
+	    <tr height=1%><td>
+
+           
+		<table height=100% width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+          <tr height=19>
+		    <td width=1></td>
+            <td width=12 background=/images/l_menu.gif bgcolor="#339933"></td>
+            <td background="/images/s_menu.gif" align=center bgcolor="#88ff88" class=menu_title
+			  			
+			>����������</td>
+            <td width=12 background=/images/r_menu.gif bgcolor="#339933"></td>
+		    <td width=1></td>
+          </tr>
+          <tr valign="top" height=100% bgcolor="#f0fff0">
+		    <td></td>
+            <td colspan="3" background=/images/notepad.gif style="BORDER-BOTTOM: #306E18 1px dashed;  BORDER-left: #306E18 1px dashed;BORDER-right: #306E18 1px dashed; padding: 3px" height=100%>
+<img src=/images/circle.gif width=10 height=10> <a href=/article.asp?id_text=7>� �����</a><br>
+<img src=/images/circle.gif width=10 height=10> <a href=/article.asp?id_text=40207>�������</a><br>
+<img src=/images/circle.gif width=10 height=10> <a href=/asp/champ>���������</a><br>
+<img src=/images/circle.gif width=10 height=10> <a href=/asp/albom/>����������</a><br>
+
+
+  <img src=/images/circle.gif width=10 height=10> <a href=/asp/gb.asp?id=-1>��������</a><br>
+  <img src=/images/circle.gif width=10 height=10> <a href=/asp/forum.asp>�����</a><br>
+
+<img src=/images/circle.gif width=10 height=10> <a href=/article.asp?id_text=121>����� ��������</a><br>
+</td><td></td></tr><tr height=2><td colspan=5></td></tr></table>
+
+	    </tr><tr height=1%><td>
+
+		   
+		<table height=100% width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+          <tr height=19>
+		    <td width=1></td>
+            <td width=12 background=/images/l_menu.gif bgcolor="#339933"></td>
+            <td background="/images/s_menu.gif" align=center bgcolor="#88ff88" class=menu_title
+			  			
+			>��������</td>
+            <td width=12 background=/images/r_menu.gif bgcolor="#339933"></td>
+		    <td width=1></td>
+          </tr>
+          <tr valign="top" height=100% bgcolor="#f0fff0">
+		    <td></td>
+            <td colspan="3" background=/images/notepad.gif style="BORDER-BOTTOM: #306E18 1px dashed;  BORDER-left: #306E18 1px dashed;BORDER-right: #306E18 1px dashed; padding: 3px" height=100%>
+<img src=/images/circle.gif width=10 height=10> <a href=/index.asp?main=tasks>����� �����</a><br>
+<img src=/images/circle.gif width=10 height=10> <a href=/index.asp?main=status >��������� �������</a><br>
+<img src=/images/circle.gif width=10 height=10> <a href=/index.asp?main=rating>�������</a><br>
+<img src=/images/circle.gif width=10 height=10> <a href=/asp/do/index.asp?main=about>�����</a><br> 
+
+		   </td><td></td></tr><tr height=2><td colspan=5></td></tr></table>
+
+	    </tr><tr height=1%><td>
+
+		   
+		<table height=100% width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+          <tr height=19>
+		    <td width=1></td>
+            <td width=12 background=/images/l_menu.gif bgcolor="#339933"></td>
+            <td background="/images/s_menu.gif" align=center bgcolor="#88ff88" class=menu_title
+			  			
+			>���������</td>
+            <td width=12 background=/images/r_menu.gif bgcolor="#339933"></td>
+		    <td width=1></td>
+          </tr>
+          <tr valign="top" height=100% bgcolor="#f0fff0">
+		    <td></td>
+            <td colspan="3" background=/images/notepad.gif style="BORDER-BOTTOM: #306E18 1px dashed;  BORDER-left: #306E18 1px dashed;BORDER-right: #306E18 1px dashed; padding: 3px" height=100%>
+<img src=/images/circle.gif width=10 height=10> <a href=/article.asp?id_text=118>��������</a><br>
+<img src=/images/circle.gif width=10 height=10> <a href=/article.asp?id_text=120>������ � �������</a><br>
+<img src=/images/circle.gif width=10 height=10> <a href=/article.asp?id_text=195>���������</a><br>
+<img src=/images/circle.gif width=10 height=10> <a href=/article.asp?id_text=196>����� ����</a><br>
+
+<img src=/images/circle.gif width=10 height=10> <a href=/article.asp?id_text=845>������������</a><br> 
+
+<img src=/images/circle.gif width=10 height=10> <a href=/article.asp?id_text=2>������</a><br>
+           </td><td></td></tr><tr height=2><td colspan=5></td></tr></table>
+
+	    </tr><tr height=100%><td>
+
+		   
+		<table height=100% width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+          <tr height=19>
+		    <td width=1></td>
+            <td width=12 background=/images/l_menu.gif bgcolor="#339933"></td>
+            <td background="/images/s_menu.gif" align=center bgcolor="#88ff88" class=menu_title
+			  			
+			>����������</td>
+            <td width=12 background=/images/r_menu.gif bgcolor="#339933"></td>
+		    <td width=1></td>
+          </tr>
+          <tr valign="top" height=100% bgcolor="#f0fff0">
+		    <td></td>
+            <td colspan="3" background=/images/notepad.gif style="BORDER-BOTTOM: #306E18 1px dashed;  BORDER-left: #306E18 1px dashed;BORDER-right: #306E18 1px dashed; padding: 3px" height=100%>
+		   <br>
+
+<table align=center>
+<tr>
+  <td><img src="//hit23.hotlog.ru/cgi-bin/hotlog/count?s=426099&im=700" width="88" height="31" alt="HotLog" onclick="window.open('http://hotlog.ru/viewstat?id=426099&bs_day=30&bs_month=1&bs_year=2021&es_day=1&es_month=3&es_year=2021&basic_hits=1&basic_hosts=1&section=daily')" style="cursor:hand"></td>
+  <td><img src="//counter.yadro.ru/logo?11.15" title="LiveInternet: �������� ����� ���������� �� 24 ����, ����������� �� 24 ���� � �� �������" alt="" border="0" width="88" height="31"  onclick="window.open('http://www.liveinternet.ru/stat/acmp.ru/')" style="cursor:hand"/></td>
+
+</tr>
+
+</table>
+
+<center>
+
+<br>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:inline-block;width:160px;height:600px"
+     data-ad-client="ca-pub-8694399840838901"
+     data-ad-slot="1596885095"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+<br>&nbsp;
+</center>
+           </td><td></td></tr><tr height=2><td colspan=5></td></tr></table>
+
+		</td></tr>
+ 	    </table>
+
+		</td>
+      
+	  <td valign=top> 	
+
+		<table height=100% width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+          <tr height=19>
+		    <td width=1></td>
+            <td width=12 background=/images/l_menu.gif bgcolor="#339933"></td>
+            <td background="/images/s_menu.gif" align=center bgcolor="#88ff88" class=menu_title
+			  			
+			>�������</td>
+            <td width=12 background=/images/r_menu.gif bgcolor="#339933"></td>
+		    <td width=1></td>
+          </tr>
+          <tr valign="top" height=100% bgcolor="#f0fff0">
+		    <td></td>
+            <td colspan="3" background=/images/notepad2.gif style="BORDER-BOTTOM: #306E18 1px dashed;  BORDER-left: #306E18 1px dashed;BORDER-right: #306E18 1px dashed; padding: 3px" height=100%><br>
+<a name=news_40217></a><b class=news>[19.01]</b> ���������� ������������ ���� ��� �� ����������� � ���: 
+<a href="/asp/do/index.asp?main=task&id_course=3&id_section=24&id_topic=284">[������]</a>
+<a href=/inc/download.asp?id=40033>[����������]</a>
+<a href="/asp/albom/index.asp?main=gallery&id_section=40039">[����]</a>
+<a href=/inc/download.asp?id=40032>[������]</a>
+  <a href="https://www.youtube.com/playlist?list=PLHX_ZgKaM8sKWPawOvTB6bzGGiqEV60og">[�����������]</a>
+.<br><br><a name=news_40216></a><b class=news>[24.12]</b> ���������� ��������� ����� ��� ����������� �� ������������ ���� ���� �� ����������� � ���, ���������� � ���������� ������� �� ������������� �����: 9 ����� - 182; 10 ����� - 258; 11 ����� - 314. ������������ ���� ��������� 16, 18 ������ 2021 �.<br><br><a name=news_40215></a><b class=news>[27.11]</b> ���������� ��������� ����� ��� ����������� �������� �. ����������� �� ������������� ���� ������������� ��������� ���������� �� �����������: 200 ������ ��� ����������� �� 7-8 ������ � 300 ������ ��� ����������� �� 9-11 ������. <a href="/inc/download.asp?id=40031">������� ������</a>.<br><br><a name=news_40214></a><b class=news>[07.11]</b> ���������� ��������� X�I ������������� ��������� ��������� ���������� �� ���������������� ��������-���������� �������: 
+
+<a href="/asp/do/index.asp?main=topic&id_course=3&id_section=25&id_topic=279">[������]</a>
+<a href="https://official.contest.yandex.ru/contest/20853/standings/">[����������]</a>.
+<br><br><a name=news_40213></a><b class=news>[30.10]</b> ������������� ���� ������������� ��������� ���������� �� ����������� (������� � �������� ����) � ������������ ���� ��������� 9 ������� 2020 ���� �� ���� �����.<br><br><a name=news_40212></a><b class=news>[19.10]</b> 6-7 ������ 2020 ���� ��������� ��������� ����� �� ���������������� ����� ������ ������� ��������� ��������-���������� ������� ������. <a href="http://ikit.sfu-kras.ru/sites/default/files/page_files/inf_letter_vkosh_2020.pdf">�������������� ������</a>.<br><br><a name=news_40211></a><b class=news>[14.10]</b> ���������� �������� ���� ��� �� ����������� � �. ����������� � ������ ��������������� ������������� ����. ������: <a href="/asp/do/index.asp?main=topic&id_course=3&id_section=22&id_topic=275">[7-8 ������]</a> <a href="/asp/do/index.asp?main=topic&id_course=3&id_section=22&id_topic=276">[9-11 ������]</a>. ����������: <a href="/asp/champ/index.asp?main=rating&id_stage=41650">[7-8 ������]</a> <a href="/asp/champ/index.asp?main=rating&id_stage=41651">[9-11 ������]</a>.<br><br><a name=news_40210></a><b class=news>[12.09]</b> � ���� ������������!<br><br><a name=news_40209></a><b class=news>[17.08]</b> � ������������ ������� ������ �������� ������ �����  �� ����� �������� �� ��������� "<a href="https://www.dvpion.ru/kurs/roz.asp">������� ����������� ����� �� ����������������</a>" � �� ������� �������� �� ��������� "<a href="https://www.dvpion.ru/kurs/cprog.asp">���� ���������������� C++</a>" (��� ����������� � ������������ ����). ��� ������������ ������� ����� � ���� <a href="https://www.dvpion.ru/kurs/cprog.asp?#bonus">���� ����������� � ������� ����� acmp.ru</a>.<br><br><a name=news_40208></a><b class=news>[01.07]</b> ��������� ����������� MinGW GNU C++ 9.2 (C++17), Python 3.8.3 � PyPy3.6 v7.3.1.<br><br><a name=news_40207></a><b class=news>[17.06]</b> ����� ����� ������ Code::Blocks 20.03, ���������� 64-������ ���������� GCC 8.1.0. <a href="/install/CodeBlocks.exe">�������</a>.<br><br><a name=news_40205></a><b class=news>[29.05]</b> �������� ���������� PascalABC.NET (������ 3.6.3, ������ 2489 �� 27.05.2020).<br><br>
+
+<center>
+
+  <b>1</b>
+
+  <a href=index.asp?page=1>2</a>
+
+  <a href=index.asp?page=2>3</a>
+
+  <a href=index.asp?page=3>4</a>
+
+  <a href=index.asp?page=4>5</a>
+
+  <a href=index.asp?page=5>6</a>
+
+  <a href=index.asp?page=6>7</a>
+
+  <a href=index.asp?page=7>8</a>
+
+  <a href=index.asp?page=8>9</a>
+
+  <a href=index.asp?page=9>10</a>
+
+  <a href=index.asp?page=10>11</a>
+
+  <a href=index.asp?page=11>12</a>
+<a href=index.asp?page=12>�</a>
+</center>
+
+</td><td></td></tr><tr height=2><td colspan=5></td></tr></table>
+</td>
+
+<td width=200 valign=top>
+<table width=100% cellpadding=0 cellspacing=0 valign=top>
+<tr height=1%><td valign=top>
+
+</td></tr>
+
+<tr height=1%><td valign=top>
+
+		<table height=100% width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+          <tr height=19>
+		    <td width=1></td>
+            <td width=12 background=/images/l_menu.gif bgcolor="#339933"></td>
+            <td background="/images/s_menu.gif" align=center bgcolor="#88ff88" class=menu_title
+			  			
+			>����� �� �����</td>
+            <td width=12 background=/images/r_menu.gif bgcolor="#339933"></td>
+		    <td width=1></td>
+          </tr>
+          <tr valign="top" height=100% bgcolor="#f0fff0">
+		    <td></td>
+            <td colspan="3" background=/images/notepad2.gif style="BORDER-BOTTOM: #306E18 1px dashed;  BORDER-left: #306E18 1px dashed;BORDER-right: #306E18 1px dashed; padding: 3px" height=100%>
+<form style="margin: 2 2 2 2" action=/article.asp?main=find&id_sec=&r=690678897613017685964305 method=post>
+   <input name=str value="" size=19> <input type=submit value="Ok" class=button>
+</form>
+</td></tr>
+</td><td></td></tr><tr height=2><td colspan=5></td></tr></table>
+
+<tr height=1%><td>
+
+		<table height=100% width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+          <tr height=19>
+		    <td width=1></td>
+            <td width=12 background=/images/l_menu.gif bgcolor="#339933"></td>
+            <td background="/images/s_menu.gif" align=center bgcolor="#88ff88" class=menu_title
+			  			
+			>������ � ONLINE</td>
+            <td width=12 background=/images/r_menu.gif bgcolor="#339933"></td>
+		    <td width=1></td>
+          </tr>
+          <tr valign="top" height=100% bgcolor="#f0fff0">
+		    <td></td>
+            <td colspan="3" background=/images/notepad2.gif style="BORDER-BOTTOM: #306E18 1px dashed;  BORDER-left: #306E18 1px dashed;BORDER-right: #306E18 1px dashed; padding: 3px" height=100%>
+<table width=100% cellpadding=0 cellspacing=0>
+<script>
+   var L=new Array("offline","online","wap","ignore"),
+       IG=new Array(0), ign=0var M=Array(344243,1,"������� ������","",333734,1,"������� �.�.","",80094,1,"���������","",281598,1,"����� �.�.","",311874,1,"�����","",317657,1,"��������� �.�.","",344574,1,"�������� �.","",342398,1,"��������� �����","",341164,1,"������ �.�.","",235892,1,"������ �.�.","",205966,1,"��������","",339453,1,"�����","",224964,1,"������ �.�.","",270049,1,"��������� �.�.","",104976,1,"������� �.�.","",9432,1,"����� �.�.","",344399,1,"��������� �������","",345687,1,"���������� �.","",250446,1,"���� ���������","",125700,1,"������ ������","",315558,1,"��������� �.�.","",288069,1,"����� �.�.","",283389,1,"��������� �.�.","",342404,1,"����� �����","",312904,1,"�������� �.�.","",343734,1,"���������� �.�.","",339329,1,"����� �.�.","",319237,1,"����� �.�.","",82696,1,"�������� �.�.","",344133,1,"����� �.�.","",338294,1,"������� �.�.","",0), vn=31,vnall=31
+
+  var id_usr=0,id_run=0/10, id_bird=0/10, id_month=0/10, id_month2=0/10, id_month3=0/10
+  for(i=0;i<vn;i++){
+    id_m=M[4*i]
+	img=M[4*i+1]
+	mfio=M[4*i+2]
+	AddStr=M[4*i+3]
+	img2=""
+	imgstr=""
+
+    
+
+	document.write('<tr><td align=left><nobr>'+imgstr+' <font size=2><a href=/index.asp?main=user&id='+id_m+' class=small>'+mfio+'</a></font> '+img2+'</nobr></td></tr>')
+  }
+
+  document.write("<tr><td><font size=1><br>�����: " + vn + ((vnall>vn)?(" / "+vnall):"") + "</font></td></tr>")
+</script>
+</table></td></tr>
+</td><td></td></tr><tr height=2><td colspan=5></td></tr></table>
+<tr><td>
+
+		<table height=100% width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+          <tr height=19>
+		    <td width=1></td>
+            <td width=12 background=/images/l_menu.gif bgcolor="#339933"></td>
+            <td background="/images/s_menu.gif" align=center bgcolor="#88ff88" class=menu_title
+			  			
+			>�������</td>
+            <td width=12 background=/images/r_menu.gif bgcolor="#339933"></td>
+		    <td width=1></td>
+          </tr>
+          <tr valign="top" height=100% bgcolor="#f0fff0">
+		    <td></td>
+            <td colspan="3" background=/images/notepad2.gif style="BORDER-BOTTOM: #306E18 1px dashed;  BORDER-left: #306E18 1px dashed;BORDER-right: #306E18 1px dashed; padding: 3px" height=100%><table width="100%"><tr><td><font size=2>1</font></td><td><font size=2><a href=/index.asp?main=user&id=88750>������ �.�. </a></font></td><td align=right><font  size=2>41932</font></td></tr><tr><td><font size=2>2</font></td><td><font size=2><a href=/index.asp?main=user&id=158512>������ ������ </a></font></td><td align=right><font  size=2>41932</font></td></tr><tr><td><font size=2>3</font></td><td><font size=2><a href=/index.asp?main=user&id=6922>������ �.�. </a></font></td><td align=right><font  size=2>41932</font></td></tr><tr><td><font size=2>4</font></td><td><font size=2><a href=/index.asp?main=user&id=106936>���-�������� �.�. </a></font></td><td align=right><font  size=2>41932</font></td></tr><tr><td><font size=2>5</font></td><td><font size=2><a href=/index.asp?main=user&id=5319>��������� ������� </a></font></td><td align=right><font  size=2>41861</font></td></tr><tr><td><font size=2>6</font></td><td><font size=2><a href=/index.asp?main=user&id=35132>��������� �.�. </a></font></td><td align=right><font  size=2>41778</font></td></tr><tr><td><font size=2>7</font></td><td><font size=2><a href=/index.asp?main=user&id=32756>����������� �.�. </a></font></td><td align=right><font  size=2>41477</font></td></tr><tr><td><font size=2>8</font></td><td><font size=2><a href=/index.asp?main=user&id=4876>������� �.�. </a></font></td><td align=right><font  size=2>41301</font></td></tr><tr><td><font size=2>9</font></td><td><font size=2><a href=/index.asp?main=user&id=164713>������ ������� </a></font></td><td align=right><font  size=2>41207</font></td></tr><tr><td><font size=2>10</font></td><td><font size=2><a href=/index.asp?main=user&id=164714>������ ����� </a></font></td><td align=right><font  size=2>41193</font></td></tr></table>
+&nbsp;
+<br>
+</td><td></td></tr><tr height=2><td colspan=5></td></tr></table>	
+</td>
+
+</tr></table>
+	  </td>
+	</tr></table>
+	</td></tr>
+	<tr height=8><td colspan=5 background=/images/line.gif></td></tr>
+  </table>
+<center>
+<p style="margin:3">
+  <i>������������ ������� ������ ��������, (c)2006 - 2021, E-mail: admin&#64;acmp&#46;ru</i>
+</p>
+<br>
+<font style="color: #999999; font-size: 10">
+<!�� google_ad_section_start(weight=ignore) ��>
+
+<br>
+ <a href="https://evdokia24.ru/" target="_blank" class="my">������ �����</a> &nbsp � <a href="https://club-vulkan3.site" target="_blank" class="my">������ �� ������</a> ������ ��� &nbsp <a href="http://www.tripiroga-barnaul.com/" target="_blank" class="my">Rox casino</a> &nbsp <a href="http://www.tularadio.ru/" target="_blank" class="my">����������</a> &nbsp <a href="https://eve-audio.com.ua/" target="_blank" class="my">���� ������</a> 
+<script type="text/javascript">
+<!--
+var _acic={dataProvider:10};(function(){var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="//www.acint.net/aci.js";var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t)})()
+//-->
+</script>
+
+<!�� google_ad_section_end ��>		  
+</font>
+</center>
+
+<iframe src="/icq/icq_update.asp?noupdate=1" width=100 height=20 marginwidth=0 marginheight=0 frameborder=0 scrolling=no></iframe>
+
+</center>
+
+</body>
+</html>
+

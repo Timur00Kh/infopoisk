@@ -1,0 +1,557 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="ru-RU-lite">
+<head profile="http://gmpg.org/xfn/11">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<meta name="google-site-verification" content="jskb_yC5PgvupOp1HsAqIg2Rwq09U2AOav0oPR4xGDg" />
+<title>Школьная тема: конспекты, бесплатные сочинения, лекции, рефераты, ГДЗ, доклады</title>
+<link rel="shortcut icon" href="http://www.uznaem-kak.ru/favicon.ico" />  
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://www.uznaem-kak.ru/feed" />
+<link rel="stylesheet" href="http://www.uznaem-kak.ru/wp-content/themes/My_Wordpress_Directory_green/style.css" type="text/css" media="screen" />
+<link rel="pingback" href="http://www.uznaem-kak.ru/xmlrpc.php"/>
+
+<!--[if IE 7]>
+<link rel="stylesheet" href="http://www.uznaem-kak.ru/wp-content/themes/My_Wordpress_Directory_green/css/style_ie7.css" type="text/css" media="screen" />
+<![endif]-->
+
+<!--[if IE 8]>
+<link rel="stylesheet" href="http://www.uznaem-kak.ru/wp-content/themes/My_Wordpress_Directory_green/css/style_ie8.css" type="text/css" media="screen" />
+<![endif]-->
+
+<link rel='stylesheet' id='wp-pagenavi-css'  href='http://www.uznaem-kak.ru/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70' type='text/css' media='' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.uznaem-kak.ru/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.uznaem-kak.ru/wp-includes/wlwmanifest.xml" /> 
+<link rel='index' title='Школьная тема: конспекты, бесплатные сочинения, лекции, рефераты, ГДЗ, доклады' href='http://www.uznaem-kak.ru' />
+
+
+<!-- All in One SEO Pack 1.6.7 by Michael Torbert of Semper Fi Web Design[398,679] -->
+<meta name="description" content="Бесплатные рефераты и домашние задания, база постоянно пополняется. Здесь вы найдете лучшие школьные сочинения, конспекты или курсовую работу, затратив минимум времени." />
+<meta name="keywords" content="реферат, домашние задания, школьные сочинения, конспекты, курсовая работа, ГДЗ" />
+<link rel="canonical" href="http://www.uznaem-kak.ru/" />
+<!-- /all in one seo pack -->
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-28590579-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<noindex><script language="javascript" src="http://uznaem-kak-ru.advon.net/domen_ads.js" rel="nofollow"></script>
+<script type='text/javascript'>
+                (function() {
+                var w = window,
+                        d = document,
+                        protocol =/https/i.test(w.location.protocol) ? 'https:' : 'http:',
+                        aml = typeof admixerML !== 'undefined' ? admixerML : { };
+                aml.fn = aml.fn || [];
+                aml.invPath = aml.invPath || (protocol + '//inv-nets.admixer.net/');
+                aml.cdnPath = aml.cdnPath || (protocol + '//cdn.admixer.net/');
+                if (!w.admixerML)
+                {
+                    var lodash = document.createElement('script');
+                    lodash.id = 'amlScript';
+                    lodash.async = true;
+                    lodash.type = 'text/javascript';
+                    lodash.src = aml.cdnPath + 'scripts3/loader2.js';
+                    var node = d.getElementsByTagName('script')[0];
+                    node.parentNode.insertBefore(lodash, node);
+                    w.admixerML = aml;
+                }
+            })();
+            </script>
+<script type='text/javascript'>
+admixerML.fn.push(function() {
+admixerML.defineSlot({z: '6bcd899d-4ff9-467a-b0c8-344db25a6c13', ph: 'admixer_6bcd899d4ff9467ab0c8344db25a6c13_zone_973_sect_758_site_745', i: 'inv-nets'});
+admixerML.defineSlot({z: 'f071e337-1126-47e0-a545-b1eb4fd1887f', ph: 'admixer_f071e337112647e0a545b1eb4fd1887f_zone_2158_sect_758_site_745', i: 'inv-nets'});
+admixerML.singleRequest();
+});
+</script></noindex>
+</head>
+
+<body>
+<!--noindex--><script type="text/javascript">
+ var _bml = _bml || {};
+ _bml._accountId = 112;
+</script>
+<script type="text/javascript" src="//advon.net/referator.js" charset="UTF-8"></script><!--/noindex-->
+<div id="container">
+   <div id="header">
+   <div class="top_image"></div>
+   <div class="midlle_image">
+   <table border="0" cellpadding="0" cellspacing="0"><tr><td valign="top" style="padding: 0 0 0 10px"><a href="/"><img border="0" src="http://www.uznaem-kak.ru/wp-content/themes/My_Wordpress_Directory_green/images/logo0.jpg"></a></td><td valign="top" style="padding: 0 0 0 10px">
+   
+<!-- c8.net.ua 728x90 -->
+<script type="text/javascript" src="http://c8.net.ua/js/swfobject.js"></script>
+<script type="text/javascript" src="http://b.c8.net.ua/b/js/sys.js"></script>
+<script language="JavaScript">
+//<!--
+var c8_sa;
+if (undefined===c8_sa) c8_sa='';
+show_code('f1972','4','4','728','90','');
+//-->
+</script>
+<!-- /c8.net.ua 728x90 -->
+   
+   </td></tr></table>
+   </div>
+   <div class="bottom_image"></div>
+	   </div>
+	       <div id="navbar">
+           <div class="top_menu">
+              <ul>
+
+<noindex><li><a rel="nofollow" target="_blank" href="http://goo.gl/MNCFoC">Заказать работу</a></li></noindex>
+<li><a href="http://www.uznaem-kak.ru/" title="Школьная тема: конспекты, сочинения, лекции, рефераты, ГДЗ, доклады" onClick="window.external.AddFavorite(this.href, this.title); return false;" rel="sidebar">Запомнить</a></li> 
+<li><a href="http://www.uznaem-kak.ru/drugie-sochineniya/">Готовые сочинения</a></li>
+<li><a href="http://www.uznaem-kak.ru/novye-sochineniya/">Новые рефераты</a></li>
+<li><a href="http://www.uznaem-kak.ru/raznye-sochineniya/">Краткие пересказы</a></li>
+<li><a href="http://www.uznaem-kak.ru/rubrikator/">Рубрикатор</a></li>
+<li><a href="http://www.uznaem-kak.ru/kontakty/">Контакты</a></li>
+<li><a href="http://www.uznaem-kak.ru/listing/">Листинг</a></li>
+<li><a href="/partners/" target="_blank">Статьи</a></li>
+
+              </ul>
+           </div>
+       </div><!-- End navbar --> 
+
+	     <div id="subnavbar">
+           <div class="subnavleft">
+               <div id="breadcrumbs">
+
+    
+   
+ 	
+
+</div>
+
+	
+           </div> 
+
+     </div><!-- End subnavbar --> 
+     	 
+<div id="page"> 
+       <div class="top_image"></div> 
+       <div class="midlle_image"> 
+
+  <div class="page_in"> 
+
+	<div class="maincolumn">
+
+	      <div class="box">  
+<center>
+<table border="0"><tr><td width="50%">
+
+<script type="text/javascript">ad1_300x250_l();</script></td><td width="50%" valign="top">
+
+   <center><strong style="color:#376B04">Приветствую на Uznaem-kak.ru!</strong><br><br> Вам больше не нужно искать нужный реферат, конспект, сочинение или домашние задание, все это существует здесь. <br><br>Для удобства воспользуйтесь текстовым поиском, что позволит вам оперативно находить нужные работы.<br><br> Итак, поиск сочинений, рефератов или ГДЗ превращается в занятие не сложное.<br><br>
+  
+  
+  <form action="http://www.uznaem-kak.ru/poisk-sochinenij/" id="cse-search-box">
+  <div>
+    <input type="hidden" name="cx" value="partner-pub-6236678139346080:1759380259" />
+    <input type="hidden" name="cof" value="FORID:11" />
+    <input type="hidden" name="ie" value="UTF-8" />
+    <input type="text" name="q" size="30" />
+    <input type="submit" name="sa" value="&#x041f;&#x043e;&#x0438;&#x0441;&#x043a;" />
+  </div>
+</form>
+<script type="text/javascript" src="http://www.google.ru/cse/brand?form=cse-search-box&amp;lang=ru"></script></center>
+  
+  
+  
+</td></tr></table>
+
+
+</center>
+           
+<div id="categories">
+		<ul class="column">
+
+			<li id="cat-11"><div><a href="http://www.uznaem-kak.ru/lesson/astronomiya/" title="Реферат Астрономия, конспекты на тему Начала астрономии, тут есть еще курсовые работы и дипломы, шпаргалки и сочинения, рефераты и доклады.">Астрономия</a></div>
+			<ul class="sub-categories">	<li class="cat-item cat-item-5"><a href="http://www.uznaem-kak.ru/lesson/astronomiya/vnezemnye-civilizacii/" title="Астрономия. Реферат Внеземные цивилизации. Ключевые слова: НЛО инопланетяне бермудский треугольник тунгусский метеорит">Внеземные цивилизации</a>
+</li>
+	<li class="cat-item cat-item-3"><a href="http://www.uznaem-kak.ru/lesson/astronomiya/nachala-astronomii/" title="Рефераты и курсовые работы на тему Астрономия, начало космической эры и эпохи непосредственных астрономических экспериментов ">Начала астрономии</a>
+</li>
+	<li class="cat-item cat-item-6"><a href="http://www.uznaem-kak.ru/lesson/astronomiya/sovremennaya-astronomiya/" title="Реферат: Современная астрономия. Особенности астрономии ХХ века. Изменения способа познания ">Современная астрономия</a>
+</li>
+	<li class="cat-item cat-item-4"><a href="http://www.uznaem-kak.ru/lesson/astronomiya/solnechnaya-sistema/" title="Астрономия. Реферат Солнечная система. Ключевые слова: происхождение солнечной системы зарождение жизни планеты">Солнечная система</a>
+</li>
+
+			</ul>
+		</li>
+
+			<li id="cat-12"><div><a href="http://www.uznaem-kak.ru/lesson/geografiya/" title="Готовые домашние задания по географии">География</a></div>
+			<ul class="sub-categories">	<li class="cat-item cat-item-26"><a href="http://www.uznaem-kak.ru/lesson/geografiya/kontinenty/" title="Страны и континенты: Справочник школьника Мир вокруг нас">Континенты</a>
+</li>
+	<li class="cat-item cat-item-29"><a href="http://www.uznaem-kak.ru/lesson/geografiya/landshafty/" title="Ландшафт согласно современному представлению выполняет средообразующие, ресурсосодержащие и ресурсовоспроизводящие функции">Ландшафты</a>
+</li>
+	<li class="cat-item cat-item-28"><a href="http://www.uznaem-kak.ru/lesson/geografiya/narody/" title="Форум по поиску ГДЗ и решебников">Народы</a>
+</li>
+	<li class="cat-item cat-item-27"><a href="http://www.uznaem-kak.ru/lesson/geografiya/strany/" title="Ваши рефераты, сочинения, курсовые, ГДЗ (готовые домашние задания)">Страны</a>
+</li>
+
+			</ul>
+		</li>
+
+			<li id="cat-13"><div><a href="http://www.uznaem-kak.ru/lesson/iskusstvo-slova/" title="Просмотреть все записи в рубрике Искусство слова">Искусство слова</a></div>
+			<ul class="sub-categories">	<li class="cat-item cat-item-111"><a href="http://www.uznaem-kak.ru/lesson/iskusstvo-slova/kriticheskaya-literatura/" title="Просмотреть все записи в рубрике Критическая литература">Критическая литература</a>
+</li>
+	<li class="cat-item cat-item-110"><a href="http://www.uznaem-kak.ru/lesson/iskusstvo-slova/literaturnaya-stranichka/" title="Просмотреть все записи в рубрике Литературная страничка">Литературная страничка</a>
+</li>
+	<li class="cat-item cat-item-112"><a href="http://www.uznaem-kak.ru/lesson/iskusstvo-slova/sovremennaya-literatura/" title="Просмотреть все записи в рубрике Современная литература">Современная литература</a>
+</li>
+	<li class="cat-item cat-item-109"><a href="http://www.uznaem-kak.ru/lesson/iskusstvo-slova/chitatelyu-xxi-stoletiya/" title="Просмотреть все записи в рубрике Читателю ХХІ столетия">Читателю ХХІ столетия</a>
+</li>
+
+			</ul>
+		</li>
+
+			<li id="cat-14"><div><a href="http://www.uznaem-kak.ru/lesson/metodologiya/" title="Просмотреть все записи в рубрике Методология">Методология</a></div>
+			<ul class="sub-categories">	<li class="cat-item cat-item-101"><a href="http://www.uznaem-kak.ru/lesson/metodologiya/vsemirnaya-literatura/" title="Просмотреть все записи в рубрике Всемирная литература">Всемирная литература</a>
+</li>
+	<li class="cat-item cat-item-102"><a href="http://www.uznaem-kak.ru/lesson/metodologiya/ocherki-po-literature/" title="Просмотреть все записи в рубрике Очерки по литературе">Очерки по литературе</a>
+</li>
+	<li class="cat-item cat-item-99"><a href="http://www.uznaem-kak.ru/lesson/metodologiya/sborniki-po-literature/" title="Просмотреть все записи в рубрике Сборники по литературе">Сборники по литературе</a>
+</li>
+	<li class="cat-item cat-item-100"><a href="http://www.uznaem-kak.ru/lesson/metodologiya/xarakteristiki-geroev/" title="Просмотреть все записи в рубрике Характеристики героев">Характеристики героев</a>
+</li>
+
+			</ul>
+		</li>
+
+			<li id="cat-15"><div><a href="http://www.uznaem-kak.ru/lesson/uchitelyu/" title="Просмотреть все записи в рубрике Учителю">Учителю</a></div>
+			<ul class="sub-categories">	<li class="cat-item cat-item-96"><a href="http://www.uznaem-kak.ru/lesson/uchitelyu/konspekti-urokiv/" title="Просмотреть все записи в рубрике Конспекти уроків">Конспекти уроків</a>
+</li>
+	<li class="cat-item cat-item-95"><a href="http://www.uznaem-kak.ru/lesson/uchitelyu/konspekty-zanyatij/" title="Просмотреть все записи в рубрике Конспекты сценариев">Конспекты сценариев</a>
+</li>
+	<li class="cat-item cat-item-97"><a href="http://www.uznaem-kak.ru/lesson/uchitelyu/planirovanie-urokov/" title="Просмотреть все записи в рубрике Планирование уроков">Планирование уроков</a>
+</li>
+	<li class="cat-item cat-item-94"><a href="http://www.uznaem-kak.ru/lesson/uchitelyu/razrabotki-urokov/" title="Просмотреть все записи в рубрике Разработки уроков">Разработки уроков</a>
+</li>
+
+			</ul>
+		</li>
+
+			<li id="cat-16"><div><a href="http://www.uznaem-kak.ru/lesson/ekonomika/" title="Реферат по предмету менеджмент, маркетинг, мировая экономика">Экономика</a></div>
+			<ul class="sub-categories">	<li class="cat-item cat-item-9"><a href="http://www.uznaem-kak.ru/lesson/ekonomika/bankovskoe-delo/" title="Темы рефератов, курсовых, дипломных работ по банковскому делу">Банковское дело</a>
+</li>
+	<li class="cat-item cat-item-11"><a href="http://www.uznaem-kak.ru/lesson/ekonomika/makroekonomika/" title="Реферат Макроэкономика. Ключевые слова: предмет показатели взаимосвязь исследования">Макроэкономика</a>
+</li>
+	<li class="cat-item cat-item-12"><a href="http://www.uznaem-kak.ru/lesson/ekonomika/mirovaya-ekonomika/" title="Реферат по предмету менеджмент, маркетинг, мировая экономика">Мировая экономика</a>
+</li>
+	<li class="cat-item cat-item-10"><a href="http://www.uznaem-kak.ru/lesson/ekonomika/osnovy-ekonomiki/" title="Основы экономической теории, скачать реферат бесплатно">Основы экономики</a>
+</li>
+
+			</ul>
+		</li>
+	</ul>
+		<ul class="column">
+
+			<li id="cat-21"><div><a href="http://www.uznaem-kak.ru/lesson/biologiya/" title="Реферат биология, анатомия рефераты зоология реферат, общая биология, теория эволюции реферат животные рефераты">Биология</a></div>
+			<ul class="sub-categories">	<li class="cat-item cat-item-16"><a href="http://www.uznaem-kak.ru/lesson/biologiya/botanika/" title="Все рефераты на тему Биология и Ботаника">Ботаника</a>
+</li>
+	<li class="cat-item cat-item-18"><a href="http://www.uznaem-kak.ru/lesson/biologiya/genetika/" title="Обзоры и конспекты в разделе Генетика">Генетика</a>
+</li>
+	<li class="cat-item cat-item-17"><a href="http://www.uznaem-kak.ru/lesson/biologiya/zoologiya/" title="Зоология: Пособие для подготовки к экзаменам Конспект лекций">Зоология</a>
+</li>
+	<li class="cat-item cat-item-19"><a href="http://www.uznaem-kak.ru/lesson/biologiya/evolyuciya/" title="Обобщающий раздел Эволюция жизни на Земле">Эволюция</a>
+</li>
+
+			</ul>
+		</li>
+
+			<li id="cat-22"><div><a href="http://www.uznaem-kak.ru/lesson/estestvoznanie/" title="Химия, Естествознание, ОБЖ и ИКТ. Архив материалов">Естествознание</a></div>
+			<ul class="sub-categories">	<li class="cat-item cat-item-33"><a href="http://www.uznaem-kak.ru/lesson/estestvoznanie/biosfera/" title="Биомасса, или живое вещество биосферы. Закономерности распространения биомассы в биосфере">Биосфера</a>
+</li>
+	<li class="cat-item cat-item-31"><a href="http://www.uznaem-kak.ru/lesson/estestvoznanie/vselennaya-estestvoznanie/" title="Человек и Вселенная,Философия науки, история науки, история и философия науки, кандидатский экзамен">Вселенная</a>
+</li>
+	<li class="cat-item cat-item-34"><a href="http://www.uznaem-kak.ru/lesson/estestvoznanie/klimat/" title="Разнообразие климатических условий на территории России. Климатообразующие факторы. Готовые сочинения для выпускного экзамена по литературе">Климат</a>
+</li>
+	<li class="cat-item cat-item-32"><a href="http://www.uznaem-kak.ru/lesson/estestvoznanie/religii/" title="Культурно-исторические особенности народов России. Основные религии, распространенные в стране">Религии</a>
+</li>
+
+			</ul>
+		</li>
+
+			<li id="cat-23"><div><a href="http://www.uznaem-kak.ru/lesson/literatura/" title="Просмотреть все записи в рубрике Литература">Литература</a></div>
+			<ul class="sub-categories">	<li class="cat-item cat-item-91"><a href="http://www.uznaem-kak.ru/lesson/literatura/belorusskie-sochineniya/" title="Просмотреть все записи в рубрике Белорусские сочинения">Белорусские сочинения</a>
+</li>
+	<li class="cat-item cat-item-89"><a href="http://www.uznaem-kak.ru/lesson/literatura/topiki-po-anglijskomu/" title="Просмотреть все записи в рубрике Топики по английскому">Топики по английскому</a>
+</li>
+	<li class="cat-item cat-item-90"><a href="http://www.uznaem-kak.ru/lesson/literatura/topiki-po-nemeckomu/" title="Просмотреть все записи в рубрике Топики по немецкому">Топики по немецкому</a>
+</li>
+	<li class="cat-item cat-item-92"><a href="http://www.uznaem-kak.ru/lesson/literatura/esse-na-inostrannom-yazyke/" title="Просмотреть все записи в рубрике Школьные сочинения">Школьные сочинения</a>
+</li>
+
+			</ul>
+		</li>
+
+			<li id="cat-24"><div><a href="http://www.uznaem-kak.ru/lesson/russkij-yazyk/" title="Просмотреть все записи в рубрике Русский язык">Русский язык</a></div>
+			<ul class="sub-categories">	<li class="cat-item cat-item-104"><a href="http://www.uznaem-kak.ru/lesson/russkij-yazyk/russkaya-literatura/" title="Просмотреть все записи в рубрике Русская литература">Русская литература</a>
+</li>
+	<li class="cat-item cat-item-106"><a href="http://www.uznaem-kak.ru/lesson/russkij-yazyk/russkij-folklor/" title="Просмотреть все записи в рубрике Русский фольклор">Русский фольклор</a>
+</li>
+	<li class="cat-item cat-item-107"><a href="http://www.uznaem-kak.ru/lesson/russkij-yazyk/sbornik-izlozhenij/" title="Просмотреть все записи в рубрике Сборник изложений">Сборник изложений</a>
+</li>
+	<li class="cat-item cat-item-105"><a href="http://www.uznaem-kak.ru/lesson/russkij-yazyk/uchebnye-materialy/" title="Просмотреть все записи в рубрике Учебные материалы">Учебные материалы</a>
+</li>
+
+			</ul>
+		</li>
+
+			<li id="cat-25"><div><a href="http://www.uznaem-kak.ru/lesson/fizika/" title="готовые домашние задания по физике для учебника Сборник задач по физике">Физика</a></div>
+			<ul class="sub-categories">	<li class="cat-item cat-item-53"><a href="http://www.uznaem-kak.ru/lesson/fizika/kvantovaya-fizika/" title="Квантовая природа излучения">Квантовая физика</a>
+</li>
+	<li class="cat-item cat-item-51"><a href="http://www.uznaem-kak.ru/lesson/fizika/termodinamika/" title="Скачать бесплатно ГДЗ, готовые домашние задания, решения, решебник к учебнику Физики">Термодинамика</a>
+</li>
+	<li class="cat-item cat-item-52"><a href="http://www.uznaem-kak.ru/lesson/fizika/elektrodinamika/" title="Здесь вы можете скачать Готовые Домашние Задания (ГДЗ) по различным предметам программы ">Электродинамика</a>
+</li>
+	<li class="cat-item cat-item-54"><a href="http://www.uznaem-kak.ru/lesson/fizika/yadernaya-fizika/" title="Атомная и ядерная физика">Ядерная физика</a>
+</li>
+
+			</ul>
+		</li>
+
+			<li id="cat-26"><div><a href="http://www.uznaem-kak.ru/lesson/yurisprudenciya/" title="коллекция рефератов, предмет Юриспруденция">Юриспруденция</a></div>
+			<ul class="sub-categories">	<li class="cat-item cat-item-62"><a href="http://www.uznaem-kak.ru/lesson/yurisprudenciya/grazhdanskoe-pravo/" title="Гражданское право скачать рефераты сочинения дипломные шпаргалки курсовые.">Гражданское право</a>
+</li>
+	<li class="cat-item cat-item-64"><a href="http://www.uznaem-kak.ru/lesson/yurisprudenciya/imushhestvennoe-pravo/" title="Имущественное право, рефераты по юриспруденции, шпаргалки">Имущественное право</a>
+</li>
+	<li class="cat-item cat-item-61"><a href="http://www.uznaem-kak.ru/lesson/yurisprudenciya/mezhdunarodnoe-pravo/" title="список рефератов, скачать рефераты, предмет: Юриспруденция">Международное право</a>
+</li>
+	<li class="cat-item cat-item-63"><a href="http://www.uznaem-kak.ru/lesson/yurisprudenciya/ugolovnoe-pravo/" title="Уголовное право России">Уголовное право</a>
+</li>
+
+			</ul>
+		</li>
+	</ul>
+		<ul class="column">
+
+			<li id="cat-31"><div><a href="http://www.uznaem-kak.ru/lesson/voennoe-delo/" title="На страницах этого сайта Вы сможете найти множество план конспектов">Военное дело</a></div>
+			<ul class="sub-categories">	<li class="cat-item cat-item-24"><a href="http://www.uznaem-kak.ru/lesson/voennoe-delo/vooruzhenie/" title="Новые и перспективные образцы вооружения, средств индивидуальной бронезащиты и активной обороны, поступающие для оснащения учреждений">Вооружение</a>
+</li>
+	<li class="cat-item cat-item-23"><a href="http://www.uznaem-kak.ru/lesson/voennoe-delo/oborona/" title="Сборник конспектов по гражданской обороне был разработан мной для проведения занятий в группах ">Оборона</a>
+</li>
+	<li class="cat-item cat-item-22"><a href="http://www.uznaem-kak.ru/lesson/voennoe-delo/strategiya/" title="Конспект лекций содержит описание теоретических и практических подходов к разработке стратегии ">Стратегия</a>
+</li>
+	<li class="cat-item cat-item-21"><a href="http://www.uznaem-kak.ru/lesson/voennoe-delo/taktika/" title="конспекты боевой подготовке пожарная тактика профилактика псп техника физическая подготовка">Тактика</a>
+</li>
+
+			</ul>
+		</li>
+
+			<li id="cat-32"><div><a href="http://www.uznaem-kak.ru/lesson/informatika/" title="Курсовые по программированию | Готовые курсовые | Курсовые на заказ">Информатика</a></div>
+			<ul class="sub-categories">	<li class="cat-item cat-item-43"><a href="http://www.uznaem-kak.ru/lesson/informatika/integrirovanie/" title="Курсовая Интегрирование линейного дифференциального уравнения с помощью степенных рядов. Ключевые слова: курсовая дифуры ряды интеграл">Интегрирование</a>
+</li>
+	<li class="cat-item cat-item-41"><a href="http://www.uznaem-kak.ru/lesson/informatika/kompyuterizaciya/" title="Курсовая Компьютеризация общества. Ключевые слова: интернет компьютинг технологии управление">Компьютеризация</a>
+</li>
+	<li class="cat-item cat-item-42"><a href="http://www.uznaem-kak.ru/lesson/informatika/programmirovanie/" title="На сайте представлены курсовые и лабораторные работы по программированию для школьников и учащихся ВУЗов">Программирование</a>
+</li>
+	<li class="cat-item cat-item-44"><a href="http://www.uznaem-kak.ru/lesson/informatika/telekommunikacii/" title="Курсовая Компьютерные сети и телекоммуникации. Ключевые слова: одноранговая звезда кольцо ЛС">Телекоммуникации</a>
+</li>
+
+			</ul>
+		</li>
+
+			<li id="cat-33"><div><a href="http://www.uznaem-kak.ru/lesson/matematika/" title="Онлайн-программы для решения уравнений, матриц, интегралов, задач из области геометрии, полиномов и теории вероятностей">Математика</a></div>
+			<ul class="sub-categories">	<li class="cat-item cat-item-46"><a href="http://www.uznaem-kak.ru/lesson/matematika/algebra/" title="Решение задач по высшей математике, информатике, программированию на заказ. Бытро, качественно, недорого">Алгебра</a>
+</li>
+	<li class="cat-item cat-item-47"><a href="http://www.uznaem-kak.ru/lesson/matematika/geometriya/" title="Математика онлайн - геометрия онлайн, геометрия, решения по геометрии, тругольник, трапеция, площадь треугольника, площадь трапеции, тангенс">Геометрия</a>
+</li>
+	<li class="cat-item cat-item-48"><a href="http://www.uznaem-kak.ru/lesson/matematika/nachala-analiza/" title="Алгебра и начала анализа в 11-м классе по теме &quot;Решение текстовых задач ЕГЭ&quot;. ">Начала анализа</a>
+</li>
+	<li class="cat-item cat-item-49"><a href="http://www.uznaem-kak.ru/lesson/matematika/preobrazovaniya/" title="В рубрике показаны решения типовых задач по теме тождественного преобразования алгебраических выражений. При решении задач необходимо использовать формулы">Преобразования</a>
+</li>
+
+			</ul>
+		</li>
+
+			<li id="cat-34"><div><a href="http://www.uznaem-kak.ru/lesson/ukranski-tvori/" title="Просмотреть все записи в рубрике Українські твори">Українські твори</a></div>
+			<ul class="sub-categories">	<li class="cat-item cat-item-85"><a href="http://www.uznaem-kak.ru/lesson/ukranski-tvori/vsesvitnya-literatura/" title="Всесвітня література">Всесвітня література</a>
+</li>
+	<li class="cat-item cat-item-87"><a href="http://www.uznaem-kak.ru/lesson/ukranski-tvori/ekzamenacijni-tvori/" title="Просмотреть все записи в рубрике Екзаменаційні твори">Екзаменаційні твори</a>
+</li>
+	<li class="cat-item cat-item-84"><a href="http://www.uznaem-kak.ru/lesson/ukranski-tvori/zarubizhna-literatura/" title="Зарубіжна література">Зарубіжна література</a>
+</li>
+	<li class="cat-item cat-item-86"><a href="http://www.uznaem-kak.ru/lesson/ukranski-tvori/ukranska-literatura/" title="Українська література">Українська література</a>
+</li>
+
+			</ul>
+		</li>
+
+			<li id="cat-35"><div><a href="http://www.uznaem-kak.ru/lesson/ximiya/" title="Химия - уроки, задачи, решения, тесты, работа, билеты">Химия</a></div>
+			<ul class="sub-categories">	<li class="cat-item cat-item-56"><a href="http://www.uznaem-kak.ru/lesson/ximiya/analiticheskaya-ximiya/" title="билеты, ответы по химии, учебник химии, ЕГЭ 2009 ">Аналитическая химия</a>
+</li>
+	<li class="cat-item cat-item-58"><a href="http://www.uznaem-kak.ru/lesson/ximiya/kvantovaya-ximiya/" title="69 вопросов строение атома квантово-механические представления об атоме ">Квантовая химия</a>
+</li>
+	<li class="cat-item cat-item-59"><a href="http://www.uznaem-kak.ru/lesson/ximiya/kolloidnaya-ximiya/" title="Зайдя на Ваш сайт поняла, что химия для меня - это сладкая ностальгия">Коллоидная химия</a>
+</li>
+	<li class="cat-item cat-item-57"><a href="http://www.uznaem-kak.ru/lesson/ximiya/organicheskaya-ximiya/" title="химия, органическая химия, неорганическая химия">Органическая химия</a>
+</li>
+
+			</ul>
+		</li>
+
+			<li id="cat-36"><div><a href="http://www.uznaem-kak.ru/lesson/yazykoznanie/" title="Лексикография как раздел языкознания, предмет и методы его изучения, история становления и развития как научного направления">Языкознание</a></div>
+			<ul class="sub-categories">	<li class="cat-item cat-item-37"><a href="http://www.uznaem-kak.ru/lesson/yazykoznanie/biografii-pisatelej/" title="Данная контрольная работа проводится после изучения курса связанные с фактами биографии писателей, их творческим методом">Биографии писателей</a>
+</li>
+	<li class="cat-item cat-item-38"><a href="http://www.uznaem-kak.ru/lesson/yazykoznanie/kratkie-soderzhaniya/" title="Краткое содержание и характеристики главных героев">Зарубежная литература</a>
+</li>
+	<li class="cat-item cat-item-39"><a href="http://www.uznaem-kak.ru/lesson/yazykoznanie/izlozheniya-proizvedenij/" title="Контрольные задания для седьмого класса. Изложения сюжета произведений. Пересказы творчества писателей">Изложения произведений</a>
+</li>
+	<li class="cat-item cat-item-36"><a href="http://www.uznaem-kak.ru/lesson/yazykoznanie/sochineniya-po-literature/" title="Методические указания и контрольные работы по русскому языку и литературе ставят своей целью подготовить слушателей курсов  к написанию сочинения ">Сочинения по литературе</a>
+</li>
+
+			</ul>
+		</li>
+	</ul>
+</div>        </div> 
+<center></center>
+    <div class="recent"><img border="0" src="http://www.uznaem-kak.ru/wp-content/themes/My_Wordpress_Directory_green/images/recent.jpg"></div>
+	<div class="reset_post"> 
+        <ul>
+         	<li><a href='http://www.uznaem-kak.ru/literatura-cerkovnogo-monastyrya-latinskaya-ili-klirekalnaya-literatura/' title='Литература церковного монастыря (латинская или клирекальная литература)'>Литература церковного монастыря (латинская или клирекальная литература)</a></li>
+	<li><a href='http://www.uznaem-kak.ru/oskar-uajld/' title='Оскар Уайльд'>Оскар Уайльд</a></li>
+	<li><a href='http://www.uznaem-kak.ru/originalnye-metody-poiska-personala/' title='Оригинальные методы поиска персонала'>Оригинальные методы поиска персонала</a></li>
+	<li><a href='http://www.uznaem-kak.ru/tvorcheskoe-zadanie-2-na-temu-originalnye-metody-poiska-klientov-organizacii/' title='Творческое задание № 2 на тему «Оригинальные методы поиска клиентов организации»'>Творческое задание № 2 на тему «Оригинальные методы поиска клиентов организации»</a></li>
+	<li><a href='http://www.uznaem-kak.ru/opredelenie-i-osnovy-pravovogo-gosudarstva/' title='Определение и основы правового государства'>Определение и основы правового государства</a></li>
+	<li><a href='http://www.uznaem-kak.ru/opravdan-li-obman-v-zhurnalistike/' title='Оправдан ли обман в журналистике'>Оправдан ли обман в журналистике</a></li>
+	<li><a href='http://www.uznaem-kak.ru/lixachev-o-probleme-vliyaniya/' title='Лихачев о проблеме влияния'>Лихачев о проблеме влияния</a></li>
+	<li><a href='http://www.uznaem-kak.ru/describe-a-custom-from-your-country-that-you-would-like-people-from-other-countries-to-adopt-explain-your-choice-using-specific-reasons-and-examples/' title='Describe a custom from your country that you would like people from other countries to adopt. Explain your choice, using specific reasons and examples'>Describe a custom from your country that you would like people from other countries to adopt. Explain your choice, using specific reasons and examples</a></li>
+	<li><a href='http://www.uznaem-kak.ru/obektivnye-i-subektivnye-prichiny-padeniya-samoderzhaviya/' title='Объективные и субъективные причины падения самодержавия'>Объективные и субъективные причины падения самодержавия</a></li>
+	<li><a href='http://www.uznaem-kak.ru/obshhestvo-priznaet-i-uvazhaet-tolko-te-dostoinstva-kotorye-dokazany-na-dele/' title='«Общество признает и уважает только те достоинства, которые доказаны на деле»'>«Общество признает и уважает только те достоинства, которые доказаны на деле»</a></li>
+        </ul>
+        <div class="clear"></div>
+    </div>  
+
+  </div><!-- end  maincolumn -->
+
+     <div id="sidebar">  
+  <div class="autoriz_box">
+
+
+
+
+<noindex><div class="banka"><center>
+<div id="c8net_code_f1972913"></div>
+<script type="text/javascript" src="https://b.c8.net.ua/b/js/swfobject.js"></script>
+<script type="text/javascript" src="https://b.c8.net.ua/b/js/sys.js"></script>
+<script language="JavaScript">
+//<!--
+
+var c8_metric = '';
+
+if(undefined === c8_passback) var c8_passback = [];
+c8_passback['f1972','9'] = '';
+
+var c8_sa;
+if (undefined===c8_sa) c8_sa='';
+show_code('f1972','9','13','240','400','c8net_code_f1972913');
+//-->
+</script>
+<br />
+<div id='admixer_f071e337112647e0a545b1eb4fd1887f_zone_2158_sect_758_site_745'></div>
+<script type='text/javascript'>
+    admixerML.fn.push(function() {
+admixerML.display('admixer_f071e337112647e0a545b1eb4fd1887f_zone_2158_sect_758_site_745');
+});
+</script></center></div>
+<br />
+<center><a rel="nofollow" href="http://goo.gl/MNCFoC" title="Заказать работу" target="_blank"><img src="http://advon.net/informers/zakaz_referatov/zaochnik_300.gif" width="299" height="250" alt="Заказать работу"></a></center>
+<br /></noindex>
+ <script type="text/javascript">ad1_300x250_3();</script>
+
+<br>
+
+
+<br>
+
+
+</div><!-- End autoriz_box -->
+	      
+        
+</div><!-- End sidebar -->     	 
+  
+  </div><!-- end page_in -->  
+
+       </div><!-- end midlle_image -->  
+<div class="bottom_image"></div>
+</div><!-- end page -->  
+
+
+<div class="clear">&nbsp;</div>
+
+
+
+<div id="footer">
+    <div class="copyright">
+<table border="0" cellpadding="0" cellspacing="0"><td width="700" valign="top" class="futa1">	
+Школьная тема: конспекты, сочинения, лекции, рефераты, ГДЗ, доклады. Здесь любые работы: дипломные, курсовые, сочинения, помощь в подготовке к ЕГЭ. Можно скачать  рефераты, курсовые и дипломные работы по любым предметам. Все темы по литературе в кратком изложении. Разработано по программам министерства образования студентами педагогических вузов города Москвы.</td>
+<td width="150" valign="top" class="futa2">	
+<noindex><center><!--LiveInternet counter--><script type="text/javascript"><!--
+new Image().src = "//counter.yadro.ru/hit;education_stat?r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random();//--></script><!--/LiveInternet-->
+<!--LiveInternet logo--><a rel="nofollow" href="http://www.liveinternet.ru/click"
+target="_blank"><img src="//counter.yadro.ru/logo?57.15"
+title="LiveInternet"
+alt="" border="0" width="88" height="31"/></a><!--/LiveInternet--><br><br>
+<!--Rating@Mail.ru counter-->
+<a target="_top" rel="nofollow" href="http://top.mail.ru/jump?from=1898066">
+<img src="http://d6.cf.bc.a1.top.mail.ru/counter?id=1898066;t=173" 
+border="0" height="15" width="88" alt="Рейтинг@Mail.ru"></a>
+<!--// Rating@Mail.ru counter--></center></noindex>
+ </td>
+ <td width="150" valign="top" class="futa2">
+ <!--bigmir)net TOP 100-->
+<script type="text/javascript" language="javascript"><!--
+bmN=navigator,bmD=document,bmD.cookie='b=b',i=0,bs=[],bm={v:16900445,s:16900445,t:1,c:bmD.cookie?1:0,n:Math.round((Math.random()* 1000000)),w:0};
+for(var f=self;f!=f.parent;f=f.parent)bm.w++;
+try{if(bmN.plugins&&bmN.mimeTypes.length&&(x=bmN.plugins['Shockwave Flash']))bm.m=parseInt(x.description.replace(/([a-zA-Z]|\s)+/,''));
+else for(var f=3;f<20;f++)if(eval('new ActiveXObject("ShockwaveFlash.ShockwaveFlash.'+f+'")'))bm.m=f}catch(e){;}
+try{bm.y=bmN.javaEnabled()?1:0}catch(e){;}
+try{bmS=screen;bm.v^=bm.d=bmS.colorDepth||bmS.pixelDepth;bm.v^=bm.r=bmS.width}catch(e){;}
+r=bmD.referrer.slice(7);if(r&&r.split('/')[0]!=window.location.host){bm.f=escape(r);bm.v^=r.length}
+bm.v^=window.location.href.length;for(var x in bm) if(/^[vstcnwmydrf]$/.test(x)) bs[i++]=x+bm[x];
+bmD.write('<a href="http://www.bigmir.net/" rel="nofollow" target="_blank" onClick="img=new Image();img.src="http://www.bigmir.net/?cl=16900445";"><img src="http://c.bigmir.net/?'+bs.join('&')+'"  width="88" height="31" border="0" alt="bigmir)net TOP 100" title="bigmir)net TOP 100"></a>');
+//-->
+</script>
+<noscript>
+<a href="http://www.bigmir.net/" rel="nofollow" target="_blank"><img src="http://c.bigmir.net/?v16900445&s16900445&t1" width="88" height="31" alt="bigmir)net TOP 100" title="bigmir)net TOP 100" border="0" /></a>
+</noscript>
+<!--bigmir)net TOP 100-->
+ </td>
+ </td></table>
+    </div>
+		</div><!-- end footer -->
+
+</div><!-- end container -->
+<noindex><!-- begin of Top100 code -->
+<script id="top100Counter" type="text/javascript" src="http://counter.rambler.ru/top100.jcn?2211781"></script>
+<noscript>
+<img src="http://counter.rambler.ru/top100.cnt?2211781" alt="" width="1" height="1" border="0" />
+</noscript>
+<!-- end of Top100 code --></noindex>
+<noindex>
+<script type="text/javascript" src="http://c8.net.ua/js/swfobject.js"></script>
+ <script type="text/javascript" src="http://b.c8.net.ua/b/js/sys.js"></script>
+<script language="JavaScript">
+//<!--
+ var c8_sa;
+if (undefined===c8_sa) c8_sa='';
+show_code('f1972','6','5','','','');
+//-->
+</script>
+</noindex>  
+
+
+</body>
+</html><!-- hyper cache: 2db63d8a9a681bf70c6c88585f472f15 21-03-01 09:58:03 -->

@@ -1,0 +1,1201 @@
+ <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="windows-1251">
+<title>�������������� ��������� �������� �������� �����-������ �1</title>
+<meta name="description" content="�����𳿿  ������� ����, ���������� ����� ���. ��������� ������������ ��� �������. �������� ������� ������">
+<meta name="keywords" content="��������������, ����, ������, �����, ����, ������, ����, ������, ����������������, ���������, LEGO, ���������, ���, ���, ���, ������, ������, ��������, ������, �����𳿿, ����, ��������, ���������, ���, ������������, ����, �������, ��������, ����, ������, ������, ���������, ����������, ����������, ������, ���������, ���, �����, ����������, ������, ����, ��������, �����,�����, ������, ��������, ��������, �����, �����, �������, �������, ����������, ������, ����������, ���, ����������, �����">
+<meta name="generator" content="DataLife Engine (http://dle-news.ru)">
+<link rel="search" type="application/opensearchdescription+xml" href="https://urokok.com.ua/engine/opensearch.php" title="�������������� ��������� �������� �������� �����-������ �1">
+<link rel="canonical" href="https://urokok.com.ua/">
+<link rel="alternate" type="application/rss+xml" title="�������������� ��������� �������� �������� �����-������ �1" href="https://urokok.com.ua/rss.xml">
+<link href="/engine/editor/css/default.css?v=23" rel="stylesheet" type="text/css">
+<script src="/engine/classes/js/jquery.js?v=23"></script>
+<script src="/engine/classes/js/jqueryui.js?v=23" defer></script>
+<script src="/engine/classes/js/dle_js.js?v=23" defer></script>
+<script src="/engine/classes/highslide/highslide.js?v=23" defer></script>
+<script type="text/javascript" src="//ulogin.ru/js/ulogin.js"></script>
+<script type="text/javascript" src="/templates/urokok/ulogin/js/ulogin.js"></script>
+<link media="screen" href="//ulogin.ru/css/providers.css" type="text/css" rel="stylesheet" />
+<link media="screen" href="/templates/urokok/ulogin/style/ulogin.css" type="text/css" rel="stylesheet" />
+<meta name="yandex-verification" content="34ef04260597adcd" />
+<link rel="shortcut icon" href="/templates/urokok/images/favicon.ico" />
+<link media="screen" href="/templates/urokok/style/styles.css" type="text/css" rel="stylesheet" />
+<link media="screen" href="/templates/urokok/style/engine.css" type="text/css" rel="stylesheet" />
+<link rel="stylesheet" type="text/css" href="/templates/urokok/files/win_demo/highslid.css" />
+<link href="/templates/urokok/style/styles.css" rel="stylesheet">
+<noindex><script src="https://yastatic.net/share2/share.js" async="async"></script></noindex>
+<script type="text/javascript" src="/templates/urokok/files/win_demo/highslid.js"></script>
+<script type="text/javascript" src="/templates/urokok/js/ddaccordion.js"></script>
+<script type="text/javascript" src="/templates/urokok/js/alibs.js"></script>
+<script type="text/javascript" src="/templates/urokok/js/jquery.jmpopups-0.5.1.js"></script>
+<script type="text/javascript" src="/templates/urokok/js/post_rating.min.js"></script>
+<script type="text/javascript" src="/templates/urokok/js/scripts.js"></script>
+<div id="fb-root"></div>
+<noindex><nofollow><script async defer crossorigin="anonymous" src="https://connect.facebook.net/ru_RU/sdk.js#xfbml=1&version=v4.0&appId=1477778119031694&autoLogAppEvents=1"></script></noindex></nofollow>
+<noindex><nofollow><script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "�������������� ��������� �������� �������� �����-������ �1",
+  "url" : "https://urokok.com.ua/",
+  "sameAs" : [
+    "https://www.facebook.com/urokok.com.ua/"
+  ]
+}
+</script></noindex></nofollow>	
+  <!-- jquery -->	
+	<script src="/templates/urokok/js/jquery-1.3.2.min.js" type="text/javascript"></script>
+	<!-- easing plugin ( optional ) -->
+	<script src="/templates/urokok/js/easing.js" type="text/javascript"></script>
+	<!-- UItoTop plugin -->
+	<script src="/templates/urokok/js/jquery.ui.totop.js" type="text/javascript"></script>
+		
+	<script type="text/javascript">
+		$(document).ready(function() {
+			/*
+			var defaults = {
+	  			containerID: 'moccaUItoTop', // fading element id
+				containerHoverClass: 'moccaUIhover', // fading element hover class
+				scrollSpeed: 1200,
+				easingType: 'linear' 
+	 		};
+			*/
+			
+			$().UItoTop({ easingType: 'easeOutQuart' });
+			
+		});
+</script>	
+</head>
+<body>
+<script>
+<!--
+var dle_root       = '/';
+var dle_admin      = '';
+var dle_login_hash = '0074e8b1b99fe5dbe95f5a69b585e43982eb1448';
+var dle_group      = 5;
+var dle_skin       = 'urokok';
+var dle_wysiwyg    = '1';
+var quick_wysiwyg  = '1';
+var dle_act_lang   = ["��", "���", "����", "������", "���������", "�������", "��������. ����������, ���������..."];
+var menu_short     = '������� ��������������';
+var menu_full      = '������ ��������������';
+var menu_profile   = '�������� �������';
+var menu_send      = '��������� ���������';
+var menu_uedit     = '����������';
+var dle_info       = '����������';
+var dle_confirm    = '�������������';
+var dle_prompt     = '���� ����������';
+var dle_req_field  = '��������� ��� ����������� ����';
+var dle_del_agree  = '�� ������������� ������ �������? ������ �������� ���������� ����� ��������';
+var dle_spam_agree = '�� ������������� ������ �������� ������������ ��� �������? ��� ������� � �������� ���� ��� ������������';
+var dle_complaint  = '������� ����� ����� ������ ��� �������������:';
+var dle_big_text   = '������� ������� ������� ������� ������.';
+var dle_orfo_title = '������� ����������� ��� ������������� � ��������� ������ �� ��������';
+var dle_p_send     = '���������';
+var dle_p_send_ok  = '����������� ������� ����������';
+var dle_save_ok    = '��������� ������� ���������. �������� ��������?';
+var dle_reply_title= '����� �� �����������';
+var dle_tree_comm  = '0';
+var dle_del_news   = '������� ������';
+var dle_sub_agree  = '�� ������������� ������ ����������� �� ����������� � ������ ����������?';
+var allow_dle_delete_news   = false;
+
+jQuery(function($){
+
+hs.graphicsDir = '/engine/classes/highslide/graphics/';
+hs.wrapperClassName = 'rounded-white';
+hs.outlineType = 'rounded-white';
+hs.numberOfImagesToPreload = 0;
+hs.captionEval = 'this.thumb.alt';
+hs.showCredits = false;
+hs.align = 'center';
+hs.transitions = ['expand', 'crossfade'];
+
+hs.lang = { loadingText : '��������...', playTitle : '�������� �������� (������)', pauseTitle:'�����', previousTitle : '���������� �����������', nextTitle :'��������� �����������',moveTitle :'�����������', closeTitle :'������� (Esc)',fullExpandTitle:'���������� �� ������� �������',restoreTitle:'�������� ��� �������� ��������, ������� � ����������� ��� �����������',focusTitle:'�������������',loadingTitle:'������� ��� ������'
+};
+
+
+});
+//-->
+</script>
+<amp-auto-ads type="adsense"
+              data-ad-client="ca-pub-6603410795102333">
+</amp-auto-ads>
+<div class="body_bg">
+<div id="wrapper">
+<div id="header">
+<div id="header_h">
+<div id="header_h_l">
+<div class="header_logo"><a href="/" title="">�������������� ��������� �������� �������� �����-������ 1</a></div>
+</div><!-- /header_h_l -->
+
+<div id="header_h_r">
+<div class="header_banner"></div>
+<div class="header_search">
+<form action="" name="searchform" method="post">
+<input type="hidden" name="do" value="search" />
+<input type="hidden" name="subaction" value="search" />
+<input class="sfield" id="story" name="story" value="������ ����� ��� ������..." onblur="if(this.value=='') this.value='������ ����� ��� ������...';" onfocus="if(this.value=='������ ����� ��� ������...') this.value='';" type="text" maxlength="170" /><input class="sbtn" value="�����" alt="�����" type="image" src="/templates/urokok/images/spacer.gif" />
+</form>
+</div>
+<div class="header_menu">
+<div class="header_social">
+<ul class="reset">
+<li><a href="/rss.xml" class="rss"></a></li>
+</ul>
+</div>
+<div class="header_menu_l">
+<ul class="reset" id="menu">
+<li><div class="h_link"><a href="/"><span>�������</span></a></div></li>
+<li><div class="h_link"><a href="/getting-to-know-us/"><span>���������� � ����</span></a></div></li>
+<li><div class="h_link"><a href="/school-administration/"><span>������������ �����</span></a></div></li>
+<li><div class="h_link"><a href="/our-contacts/"><span>���� ��������</span></a></div></li>
+</ul>
+</div>
+<div class="header_menu_r">
+</div>
+</div>
+</div><!-- /header_h_r -->
+</div><!-- /header_h -->
+<!-- /header_b -->
+</div><!-- /header -->
+<div id="content">
+<div class="content_bg"><div class="content_bg">
+<div id="content_bg">
+<div id="side_left">
+<!-- side_menu -->
+<div class="side_menu">
+<div class="side_menu_bg"><div class="side_menu_bg"><div class="side_menu_bg">
+<div class="side_menu_h"><div>�� ������ ����</div></div>
+<div class="side_menu_c navi">
+<ul class="reset">
+
+<center><H2 style="font-size: 1.2em; color: #f0f9fd; margin: -15px 5px 15px 0;">���������� ���</H2></center>
+<br>
+		<li><a href="/our-museum-is-our-pride/" title=""><b>��� �����-���� �������</b></a></li>
+    <li><a href="/education-news/" title=""><b>������ �����</b></a></li>
+		<li><a href="/our-school-news/" title=""><b>������ ���� �����</b></a></li>
+    <li><a href="/methodical-cabinet/" title=""><b>�����-������</b></a></li>
+		<li><a href="/class-leaders/" title=""><b>������� ���������</b></a></li>
+    <li><a href="/parent-corner/" title=""><b>����������� �������</b></a></li>
+    <li><a href="/new-ukrainian-school/" title=""><b>���</b></a></li>
+		<li><a href="/nakrilahuspihu/" title=""><b>�� ������ �����</b></a></li>
+    <li><a href="/children-preschoolers/" title=""><b>ĳ���� �����������</b></a></li>
+    <li><a href="/elementary-classes/" title=""><b>�������� �����</b></a></li>
+		<li><a href="/middle-classes/" title=""><b>������� �����</b></a></li>
+    <li><a href="/high-school/" title=""><b>������ �����</b></a></li>
+    <li><a href="/getting-ready-for-dpa/" title=""><b>�������� �� ���</b></a></li>
+    <li><a href="/preparing-for-zno/" title=""><b>�������� �� ���</b></a></li>
+    <li><a href="/program-textbooks/" title=""><b>ϳ�������� �� ���������</b></a></li>
+		<li><a href="/computer-science-lessons/" title=""><b>����� �����������</b></a></li>
+		<li><a href="/our-school-activities/" title=""><b>���� ������ ������</b></a></li>
+    <li><a href="/creative-children/" title=""><b>������ ���</b></a></li>
+    <li><a href="/holiday-scripts/" title=""><b>������ ����</b></a></li>
+    <li><a href="/tvorchi-konkursi/" title=""><b>������ ��������</b></a></li>
+    <li><a href="/photoshop-wizard/" title=""><b>������� �������</b></a></li>
+    <li><a href="/presentation-wizard/" title=""><b>������� �����������</b></a></li>
+    <li><a href="/different-e-books/" title=""><b>г��� ���������� �����</b></a></li>
+
+</ul>
+</div>
+</div></div></div>
+</div>
+<!-- /side_menu -->
+<!-- files_block -->
+<div class="files_block">
+<div class="files_block_bg"><div class="files_block_bg"><div class="files_block_bg">
+<div class="files_block_h"><div>������ �����</div></div>
+<div class="files_block_c">
+<ul class="reset">
+<span class="clouds_xsmall"><a href="https://urokok.com.ua/tags/1/" title="������� ����������: 40">1</a></span> <span class="clouds_xsmall"><a href="https://urokok.com.ua/tags/1+%E2%E5%F0%E5%F1%ED%FF/" title="������� ����������: 43">1 �������</a></span> <span class="clouds_xsmall"><a href="https://urokok.com.ua/tags/1+%EA%EB%E0%F1/" title="������� ����������: 37">1 ����</a></span> <span class="clouds_xsmall"><a href="https://urokok.com.ua/tags/2+%EA%EB%E0%F1/" title="������� ����������: 33">2 ����</a></span> <span class="clouds_xsmall"><a href="https://urokok.com.ua/tags/2/" title="������� ����������: 36">2</a></span> <span class="clouds_xsmall"><a href="https://urokok.com.ua/tags/2020/" title="������� ����������: 50">2020</a></span> <span class="clouds_xsmall"><a href="https://urokok.com.ua/tags/4+%EA%EB%E0%F1/" title="������� ����������: 45">4 ����</a></span> <span class="clouds_xsmall"><a href="https://urokok.com.ua/tags/4/" title="������� ����������: 38">4</a></span> <span class="clouds_xsmall"><a href="https://urokok.com.ua/tags/%B2%ED%E4%E8%E2%B3%E4%F3%E0%EB%FC%ED%E8%E9/" title="������� ����������: 71">�������������</a></span> <span class="clouds_xsmall"><a href="https://urokok.com.ua/tags/%B3%E3%F0%E8/" title="������� ����������: 57">����</a></span> <span class="clouds_small"><a href="https://urokok.com.ua/tags/%C2%E8%E4%E5%EE%EA%F3%F0%F1/" title="������� ����������: 114">���������</a></span> <span class="clouds_xsmall"><a href="https://urokok.com.ua/tags/%C2%E8%E4%E5%EE%F3%F0%EE%EA/" title="������� ����������: 46">���������</a></span> <span class="clouds_xsmall"><a href="https://urokok.com.ua/tags/%C4%E5%F2%F1%EA%E8%E5/" title="������� ����������: 49">�������</a></span> <span class="clouds_xsmall"><a href="https://urokok.com.ua/tags/%C4%E8%F1%F2%E0%ED%F6%B3%E9%ED%E5/" title="������� ����������: 39">�����������</a></span> <span class="clouds_xsmall"><a href="https://urokok.com.ua/tags/%CA%E2%E5%F1%F2%E8/" title="������� ����������: 34">������</a></span> <span class="clouds_xsmall"><a href="https://urokok.com.ua/tags/%CA%EB%E0%F1%ED%E0/" title="������� ����������: 74">������</a></span> <span class="clouds_xsmall"><a href="https://urokok.com.ua/tags/%CA%EB%E8%EF%E0%F0%F2%FB/" title="������� ����������: 34">��������</a></span> <span class="clouds_large"><a href="https://urokok.com.ua/tags/%CD%D3%D8/" title="������� ����������: 200">���</a></span> <span class="clouds_xsmall"><a href="https://urokok.com.ua/tags/%CD%EE%E2%EE%F0%B3%F7%ED%B3/" title="������� ����������: 50">��������</a></span> <span class="clouds_medium"><a href="https://urokok.com.ua/tags/%CF%EB%E0%ED/" title="������� ����������: 138">����</a></span> <span class="clouds_xsmall"><a href="https://urokok.com.ua/tags/%CF%F0%E5%E7%E5%ED%F2%E0%F6%B3%FF/" title="������� ����������: 49">�����������</a></span> <span class="clouds_xsmall"><a href="https://urokok.com.ua/tags/%D1%F6%E5%ED%E0%F0%B3%BF/" title="������� ����������: 77">������</a></span> <span class="clouds_xlarge"><a href="https://urokok.com.ua/tags/%D1%F6%E5%ED%E0%F0%B3%E9/" title="������� ����������: 211">�������</a></span> <span class="clouds_xsmall"><a href="https://urokok.com.ua/tags/%D1%F6%E5%ED%E0%F0%E8%E9/" title="������� ����������: 76">��������</a></span> <span class="clouds_xsmall"><a href="https://urokok.com.ua/tags/%D6%B3%EA%E0%E2%B3/" title="������� ����������: 57">ֳ���</a></span> <span class="clouds_small"><a href="https://urokok.com.ua/tags/%D8%E0%E1%EB%EE%ED%E8/" title="������� ����������: 81">�������</a></span> <span class="clouds_xsmall"><a href="https://urokok.com.ua/tags/%E2%B3%E4%E5%EE/" title="������� ����������: 52">����</a></span> <span class="clouds_xsmall"><a href="https://urokok.com.ua/tags/%E2%B3%F0%F8%B3/" title="������� ����������: 73">����</a></span> <span class="clouds_xsmall"><a href="https://urokok.com.ua/tags/%E2%E8%EF%F3%F1%EA%ED%E8%E9/" title="������� ����������: 50">���������</a></span> <span class="clouds_xsmall"><a href="https://urokok.com.ua/tags/%E2%E8%F5%EE%E2%ED%E0/" title="������� ����������: 65">�������</a></span> <span class="clouds_xsmall"><a href="https://urokok.com.ua/tags/%E2%E8%F5%EE%E2%ED%E8%E9/" title="������� ����������: 39">��������</a></span> <span class="clouds_xsmall"><a href="https://urokok.com.ua/tags/%E2%E8%F5%EE%E2%ED%EE%BF/" title="������� ����������: 34">�������</a></span> <span class="clouds_medium"><a href="https://urokok.com.ua/tags/%E2%F7%E8%F2%E5%EB%FF/" title="������� ����������: 135">�������</a></span> <span class="clouds_xsmall"><a href="https://urokok.com.ua/tags/%E2%FB%EF%F3%F1%EA%ED%EE%E9/" title="������� ����������: 47">���������</a></span> <span class="clouds_small"><a href="https://urokok.com.ua/tags/%E3%EE%E4%E8%ED%E0/" title="������� ����������: 103">������</a></span> <span class="clouds_xsmall"><a href="https://urokok.com.ua/tags/%E4%B3%F2%E5%E9/" title="������� ����������: 38">����</a></span> <span class="clouds_xsmall"><a href="https://urokok.com.ua/tags/%E4%B3%F2%E8/" title="������� ����������: 37">���</a></span> <span class="clouds_small"><a href="https://urokok.com.ua/tags/%E4%E5%ED%FC/" title="������� ����������: 91">����</a></span> <span class="clouds_xsmall"><a href="https://urokok.com.ua/tags/%E4%E7%E2%EE%ED%E8%EA/" title="������� ����������: 56">�������</a></span> <span class="clouds_medium"><a href="https://urokok.com.ua/tags/%E4%EB%FF/" title="������� ����������: 142">���</a></span> <span class="clouds_small"><a href="https://urokok.com.ua/tags/%E4%EB%FF+%F4%EE%F2%EE%F8%EE%EF%E0/" title="������� ����������: 113">��� ��������</a></span> <span class="clouds_small"><a href="https://urokok.com.ua/tags/%E7%E0%E2%E4%E0%ED%ED%FF/" title="������� ����������: 91">��������</a></span> <span class="clouds_small"><a href="https://urokok.com.ua/tags/%E7%E0%F5%B3%E4/" title="������� ����������: 87">�����</a></span> <span class="clouds_xsmall"><a href="https://urokok.com.ua/tags/%E7%F0%E0%E7%EA%E8/" title="������� ����������: 35">������</a></span> <span class="clouds_xsmall"><a href="https://urokok.com.ua/tags/%E7%F0%E0%E7%EE%EA/" title="������� ����������: 49">������</a></span> <span class="clouds_xsmall"><a href="https://urokok.com.ua/tags/%EA%E0%E1%B3%ED%E5%F2%F3/" title="������� ����������: 59">�������</a></span> <span class="clouds_small"><a href="https://urokok.com.ua/tags/%EA%E0%F0%E0%ED%F2%E8%ED%F3/" title="������� ����������: 102">���������</a></span> <span class="clouds_xsmall"><a href="https://urokok.com.ua/tags/%EA%E0%F0%F2%E8%ED%EA%E8/" title="������� ����������: 37">��������</a></span> <span class="clouds_xsmall"><a href="https://urokok.com.ua/tags/%EA%E2%E5%F1%F2/" title="������� ����������: 40">�����</a></span> <span class="clouds_small"><a href="https://urokok.com.ua/tags/%EA%EB%E0%F1/" title="������� ����������: 99">����</a></span> <span class="clouds_xsmall"><a href="https://urokok.com.ua/tags/%EA%EB%E0%F1%B3%E2/" title="������� ����������: 59">�����</a></span> <span class="clouds_large"><a href="https://urokok.com.ua/tags/%EA%EB%E0%F1%E8/" title="������� ����������: 197">�����</a></span> <span class="clouds_xsmall"><a href="https://urokok.com.ua/tags/%EA%EB%E0%F1%ED%E8%E9/" title="������� ����������: 47">�������</a></span> <span class="clouds_xsmall"><a href="https://urokok.com.ua/tags/%EA%EB%E0%F1%ED%EE%E3%EE/" title="������� ����������: 34">��������</a></span> <span class="clouds_large"><a href="https://urokok.com.ua/tags/%EA%EB%E0%F1%F3/" title="������� ����������: 174">�����</a></span> <span class="clouds_xsmall"><a href="https://urokok.com.ua/tags/%EA%EE%ED%EA%F3%F0%F1%E8/" title="������� ����������: 58">��������</a></span> <span class="clouds_xsmall"><a href="https://urokok.com.ua/tags/%EC%E0%F2%E5%EC%E0%F2%E8%EA%E0/" title="������� ����������: 68">����������</a></span> <span class="clouds_xsmall"><a href="https://urokok.com.ua/tags/%EC%E0%F2%E5%F0%B3%E0%EB/" title="������� ����������: 48">�������</a></span> <span class="clouds_xsmall"><a href="https://urokok.com.ua/tags/%EC%E0%F2%E5%F0%B3%E0%EB%E8/" title="������� ����������: 34">��������</a></span> <span class="clouds_xsmall"><a href="https://urokok.com.ua/tags/%ED%E0/" title="������� ����������: 41">��</a></span> <span class="clouds_small"><a href="https://urokok.com.ua/tags/%ED%E0%E2%F7%E0%ED%ED%FF/" title="������� ����������: 89">��������</a></span> <span class="clouds_xsmall"><a href="https://urokok.com.ua/tags/%ED%E0%F7%E0%EB%FC%ED%E0%FF/" title="������� ����������: 37">���������</a></span> <span class="clouds_xsmall"><a href="https://urokok.com.ua/tags/%ED%EE%E2%E8%E9/" title="������� ����������: 54">�����</a></span> <span class="clouds_xsmall"><a href="https://urokok.com.ua/tags/%EE%E1%F0%E0%E1%EE%F2%EA%E0/" title="������� ����������: 71">���������</a></span> <span class="clouds_xsmall"><a href="https://urokok.com.ua/tags/%EE%ED%EB%E0%E9%ED/" title="������� ����������: 37">������</a></span> <span class="clouds_medium"><a href="https://urokok.com.ua/tags/%EE%F4%EE%F0%EC%EB%E5%ED%ED%FF/" title="������� ����������: 131">����������</a></span> <span class="clouds_xsmall"><a href="https://urokok.com.ua/tags/%EF%B3%E4/" title="������� ����������: 69">��</a></span> <span class="clouds_small"><a href="https://urokok.com.ua/tags/%EF%B3%F1%ED%B3/" title="������� ����������: 107">����</a></span> <span class="clouds_small"><a href="https://urokok.com.ua/tags/%EF%E5%F0%F8%E8%E9/" title="������� ����������: 91">������</a></span> <span class="clouds_xsmall"><a href="https://urokok.com.ua/tags/%EF%E5%F1%ED%E8/" title="������� ����������: 37">�����</a></span> <span class="clouds_xsmall"><a href="https://urokok.com.ua/tags/%EF%EB%E0%ED%E8/" title="������� ����������: 63">�����</a></span> <span class="clouds_xsmall"><a href="https://urokok.com.ua/tags/%EF%EB%E0%ED%F3%E2%E0%ED%ED%FF/" title="������� ����������: 51">����������</a></span> <span class="clouds_xsmall"><a href="https://urokok.com.ua/tags/%EF%EE%F0%E0%E4%E8/" title="������� ����������: 39">������</a></span> <span class="clouds_medium"><a href="https://urokok.com.ua/tags/%EF%EE%F7%E0%F2%EA%EE%E2%B3/" title="������� ����������: 144">��������</a></span> <span class="clouds_xsmall"><a href="https://urokok.com.ua/tags/%EF%EE%F7%E0%F2%EA%EE%E2%E0/" title="������� ����������: 60">���������</a></span> <span class="clouds_xsmall"><a href="https://urokok.com.ua/tags/%EF%EE%F7%E0%F2%EA%EE%E2%E8%F5/" title="������� ����������: 38">����������</a></span> <span class="clouds_xsmall"><a href="https://urokok.com.ua/tags/%EF%F0%E8%EA%F0%E0%F1%E8/" title="������� ����������: 64">��������</a></span> <span class="clouds_xsmall"><a href="https://urokok.com.ua/tags/%EF%F0%EE/" title="������� ����������: 52">���</a></span> <span class="clouds_small"><a href="https://urokok.com.ua/tags/%F0%B3%EA/" title="������� ����������: 78">��</a></span> <span class="clouds_xsmall"><a href="https://urokok.com.ua/tags/%F0%E0%EC%EA%E8/" title="������� ����������: 58">�����</a></span> <span class="clouds_xsmall"><a href="https://urokok.com.ua/tags/%F0%EE%E1%EE%F2%E0/" title="������� ����������: 34">������</a></span> <span class="clouds_medium"><a href="https://urokok.com.ua/tags/%F0%EE%E1%EE%F2%E8/" title="������� ����������: 166">������</a></span> <span class="clouds_xsmall"><a href="https://urokok.com.ua/tags/%F1%E2%FF%F2%E0/" title="������� ����������: 46">�����</a></span> <span class="clouds_medium"><a href="https://urokok.com.ua/tags/%F1%E2%FF%F2%EE/" title="������� ����������: 137">�����</a></span> <span class="clouds_xsmall"><a href="https://urokok.com.ua/tags/%F1%E5%F0%E5%E4%ED%B3/" title="������� ����������: 60">�������</a></span> <span class="clouds_xsmall"><a href="https://urokok.com.ua/tags/%F1%EB%EE%E2%E0/" title="������� ����������: 34">�����</a></span> <span class="clouds_xsmall"><a href="https://urokok.com.ua/tags/%F1%F2%E0%F0%F8%B3/" title="������� ����������: 64">������</a></span> <span class="clouds_xsmall"><a href="https://urokok.com.ua/tags/%F1%F2%E5%ED%E4%E8/" title="������� ����������: 35">������</a></span> <span class="clouds_xsmall"><a href="https://urokok.com.ua/tags/%F2%E5%EC%E0/" title="������� ����������: 40">����</a></span> <span class="clouds_small"><a href="https://urokok.com.ua/tags/%F3%F0%EE%EA/" title="������� ����������: 83">����</a></span> <span class="clouds_xsmall"><a href="https://urokok.com.ua/tags/%F3%F0%EE%EA%B3%E2/" title="������� ����������: 34">�����</a></span> <span class="clouds_xsmall"><a href="https://urokok.com.ua/tags/%F3%F0%EE%EA%E8/" title="������� ����������: 72">�����</a></span> <span class="clouds_xsmall"><a href="https://urokok.com.ua/tags/%F3%F0%EE%EA%F3/" title="������� ����������: 48">�����</a></span> <span class="clouds_xsmall"><a href="https://urokok.com.ua/tags/%F3%F7%ED%B3%E2/" title="������� ����������: 44">�����</a></span> <span class="clouds_xsmall"><a href="https://urokok.com.ua/tags/%F4%EE%ED%E8/" title="������� ����������: 62">����</a></span> <span class="clouds_large"><a href="https://urokok.com.ua/tags/%F4%EE%F2%EE%F8%EE%EF/" title="������� ����������: 195">�������</a></span> <span class="clouds_small"><a href="https://urokok.com.ua/tags/%F7%E0%F1/" title="������� ����������: 118">���</a></span> <span class="clouds_xsmall"><a href="https://urokok.com.ua/tags/%F8%EA%B3%EB%FC%ED%B3/" title="������� ����������: 33">������</a></span> <span class="clouds_medium"><a href="https://urokok.com.ua/tags/%F8%EA%EE%EB%E0/" title="������� ����������: 124">�����</a></span> <span class="clouds_xsmall"><a href="https://urokok.com.ua/tags/%F8%EA%EE%EB%FC%ED%FB%E5/" title="������� ����������: 47">��������</a></span><div class="tags_more"><a href="https://urokok.com.ua/tags/">�������� ��� ����</a></div>
+</ul>
+</div>
+</div></div></div>
+</div>
+<!-- /files_block -->
+<!-- files_block -->
+<div class="files_block">
+<div class="files_block_bg"><div class="files_block_bg"><div class="files_block_bg">
+<div class="files_block_h"><div>��� ����� �����</div></div>
+<div class="files_block_c">
+<ul class="reset">
+<a class="archives" href="https://urokok.com.ua/2021/03/"><b>���� 2021 (1)</b></a><br /><a class="archives" href="https://urokok.com.ua/2021/02/"><b>������� 2021 (36)</b></a><br /><a class="archives" href="https://urokok.com.ua/2021/01/"><b>������ 2021 (34)</b></a><br /><a class="archives" href="https://urokok.com.ua/2020/12/"><b>������� 2020 (29)</b></a><br /><a class="archives" href="https://urokok.com.ua/2020/11/"><b>������ 2020 (37)</b></a><br /><a class="archives" href="https://urokok.com.ua/2020/10/"><b>������� 2020 (40)</b></a><br /><div id="dle_news_archive" style="display:none;"><a class="archives" href="https://urokok.com.ua/2020/09/"><b>�������� 2020 (34)</b></a><br /><a class="archives" href="https://urokok.com.ua/2020/08/"><b>������ 2020 (32)</b></a><br /><a class="archives" href="https://urokok.com.ua/2020/07/"><b>���� 2020 (26)</b></a><br /><a class="archives" href="https://urokok.com.ua/2020/06/"><b>���� 2020 (38)</b></a><br /><a class="archives" href="https://urokok.com.ua/2020/05/"><b>��� 2020 (56)</b></a><br /><a class="archives" href="https://urokok.com.ua/2020/04/"><b>������ 2020 (69)</b></a><br /><a class="archives" href="https://urokok.com.ua/2020/03/"><b>���� 2020 (81)</b></a><br /><a class="archives" href="https://urokok.com.ua/2020/02/"><b>������� 2020 (21)</b></a><br /><a class="archives" href="https://urokok.com.ua/2020/01/"><b>������ 2020 (61)</b></a><br /><a class="archives" href="https://urokok.com.ua/2019/12/"><b>������� 2019 (56)</b></a><br /><a class="archives" href="https://urokok.com.ua/2019/11/"><b>������ 2019 (81)</b></a><br /><a class="archives" href="https://urokok.com.ua/2019/10/"><b>������� 2019 (89)</b></a><br /><a class="archives" href="https://urokok.com.ua/2019/09/"><b>�������� 2019 (61)</b></a><br /><a class="archives" href="https://urokok.com.ua/2019/08/"><b>������ 2019 (45)</b></a><br /><a class="archives" href="https://urokok.com.ua/2019/07/"><b>���� 2019 (89)</b></a><br /><a class="archives" href="https://urokok.com.ua/2019/06/"><b>���� 2019 (84)</b></a><br /><a class="archives" href="https://urokok.com.ua/2019/05/"><b>��� 2019 (127)</b></a><br /><a class="archives" href="https://urokok.com.ua/2019/04/"><b>������ 2019 (66)</b></a><br /><a class="archives" href="https://urokok.com.ua/2019/03/"><b>���� 2019 (72)</b></a><br /><a class="archives" href="https://urokok.com.ua/2019/02/"><b>������� 2019 (135)</b></a><br /><a class="archives" href="https://urokok.com.ua/2019/01/"><b>������ 2019 (224)</b></a><br /><a class="archives" href="https://urokok.com.ua/2018/12/"><b>������� 2018 (2)</b></a><br /></div><div id="dle_news_archive_link" ><br /><a class="archives" onclick="$('#dle_news_archive').toggle('blind',{},700); return false;" href="#">�������� / ������ ���� �����</a></div>
+</ul>
+</div>
+</div></div></div>
+</div>
+<!-- /files_block -->
+<br> 
+<!-- side_block3 -->
+<div class="side_block3">
+<div class="side_block3_bg"><div class="side_block3_bg"><div class="side_block3_bg">
+<div class="side_block3_h"><div>������� ���������</div></div>
+<div class="side_block3_c"><ul class="reset topnews">
+<li><div><a href="https://urokok.com.ua/class-leaders/1987-literaturno-muzichna-kompoziciya-do-dnya-zakohanih-scenariy.html">˳���������-������� ���������� �� ��� ��������� (�������)</a></div></li><li><div><a href="https://urokok.com.ua/methodical-cabinet/2019-doklad-prezentaciya-samoosvitnya-diyalnst-vchitelya-z-dosvidu-roboti.html">������ ����������� &quot;���������� ��������� �������&quot; (� ������ ������)</a></div></li><li><div><a href="https://urokok.com.ua/methodical-cabinet/2035-lepbuk-vesna-pislyabukvarniy-period.html">������ &quot;�����&quot; ϳ������������ �����</a></div></li><li><div><a href="https://urokok.com.ua/class-leaders/2020-vitayemo-peremozhciv-konkursu-napishu-lista-ya-didusev.html">³���� ���������� �������� &quot;������ ����� � ������&quot;</a></div></li><li><div><a href="https://urokok.com.ua/methodical-cabinet/1474-svyato-bukvarika-scenary-svyata-z-muzichnim-suprovdom.html">�����  ���������. ������� ����� � �������� ���������</a></div></li>
+</ul></div>
+</div></div></div>
+</div>
+<!-- /side_block3 -->
+<br>
+<!-- side_block4 -->
+<div class="side_block4">
+<div class="side_block4_bg"><div class="side_block4_bg"><div class="side_block4_bg">
+<div class="side_block4_h"></div>
+</div></div></div>
+</div>
+<noindex><nofollow><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script></noindex></nofollow>
+<!-- ���� ��������. ����� 0203 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-6603410795102333"
+     data-ad-slot="6741197587"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<!-- /side_block4 -->
+</div><!-- /side_left -->
+<div id="side_right">
+<!-- files_block -->
+<div class="files_block">
+<div class="files_block_bg"><div class="files_block_bg"><div class="files_block_bg">
+<div class="files_block_h"><div>̳� ������</div></div>
+<div class="files_block_c">
+<ul class="reset">
+
+<div class="right_title">���������� �� ����</div>
+<form method="post" action=''>
+<input name="login" type="hidden" id="login" value="submit" />
+<div class="l_field"><input name="login_name" type="text" class="k_field" value="��� ���� ..."  onblur="if(this.value=='') this.value='��� ���� ...';" onfocus="this.value = '';" /></div>
+<div class="l_field"><input name="login_password" type="password" class="k_field" value="��� ������"  onblur="if(this.value=='') this.value='��� ������';" onfocus="this.value = '';" /></div>
+<input onclick="submit();" name="image" type="image" src="/templates/urokok/images/spacer.gif" class="log_in" alt="Login" />
+<div class="but_reg">
+<a href="https://urokok.com.ua/index.php?do=lostpassword">�������� ������?</a><br/>
+<a href="https://urokok.com.ua/index.php?do=register">��������� �� ����!</a>
+<br>
+<br>
+<center><input onclick="submit();" type="image" src="/templates/urokok/images/login_submit.png" alt="�ղ�" /></center>
+<br>
+
+<font size="3"><font color="#197EB8">����� ����� ���-�����</font></font>
+<center><li class="lfield"><div class="ulogin_form">
+    
+    
+        <div data-ulogin="display=small;fields=first_name,last_name,email;optional=phone,city,country,nickname,sex,photo_big,bdate,photo;providers=facebook,vkontakte,odnoklassniki;hidden=other;redirect_uri=https%3A%2F%2Furokok.com.ua%2F%3Fdo%3Dulogin%26backurl%3D%25252F;callback=uloginCallback"></div>
+    
+</div></li></center>
+<br>
+</div>
+</form>
+           
+
+
+</ul>
+</div>
+</div></div></div>
+</div>
+<div class="files_block">
+<div class="files_block_bg"><div class="files_block_bg"><div class="files_block_bg">
+<div class="files_block_h"><div>�� � ��������</div></div>
+<div class="files_block_c">
+<ul class="reset">
+<noindex><nofollow><div class="fb-page" data-href="https://www.facebook.com/urokok.com.ua/" data-tabs="timeline" data-width="" data-height="" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/urokok.com.ua/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/urokok.com.ua/">���������  ������� ������</a></blockquote></div></noindex></nofollow>
+</ul>
+</div>
+</div></div></div>
+</div>
+<!-- /files_block -->
+<br>
+<!-- files_block -->
+<div class="files_block">
+<div class="files_block_bg"><div class="files_block_bg"><div class="files_block_bg">
+<div class="files_block_h"><div>�� � ����?</div></div>
+<div class="files_block_c">
+<ul class="reset">
+</ul>
+</div>
+</div></div></div>
+</div>
+<!-- /files_block -->
+<br> 
+<!-- files_block -->
+<div class="files_block">
+<div class="files_block_bg"><div class="files_block_bg"><div class="files_block_bg">
+<div class="files_block_h"><div>����� ������</div></div>
+<div class="files_block_c">
+<ul class="reset">
+	<link rel="stylesheet" type="text/css" href="/templates/urokok/online/online.css" media="screen" />
+	<script language="javascript" type="text/javascript" src="/engine/modules/online/hint.js"></script><div class="ionline">
+<div id="ionline_vis"></div>
+����� �� ����: 184<br />
+���� ����: 180<br /><br />
+<div>�����������:&nbsp;</div><div class="online_out2">
+<a onclick="ShowProfile('%CB%E0%ED%E0', '/index.php?subaction=userinfo&user=%CB%E0%ED%E0'); return false;" href="/index.php?subaction=userinfo&user=%CB%E0%ED%E0/" class="hintanchor" onMouseover="showhint('<div class='hints'>
+	<div class='lcol'>
+		<div class='avatar'>
+			<span><img src=/templates/urokok/dleimages/noavatar.png border=0></span>
+		</div>
+		<div class='statonline'>����</div>
+	</div>
+	<div class='rcol'>
+		<b>������:</b> ����������<br />
+		
+		<b>������:</b> Europe <img src='/templates/urokok/online/flags/EU0.gif'><br/>
+		
+		<b>��:</b> �����������<br />
+		<b>�������:</b> Chrome 88.0.4324.150 <img src=\'/templates/urokok/online/browsers/chrome.png\'><br />
+		<b>��� �����:</b> �������, 21:42:25<br />
+		
+	</div>
+</div>', this, event, '200px');"><img src='/templates/urokok/online/flags/EU0.gif'></a>
+<a onclick="ShowProfile('%CB%E0%ED%E0', '/index.php?subaction=userinfo&user=%CB%E0%ED%E0'); return false;" href="/index.php?subaction=userinfo&user=%CB%E0%ED%E0/" udata="<div class='hints'>
+	<div class='lcol'>
+		<div class='avatar'>
+			<span><img src=/templates/urokok/dleimages/noavatar.png border=0></span>
+		</div>
+		<div class='statonline'>����</div>
+	</div>
+	<div class='rcol'>
+		<b>������:</b> ����������<br />
+		
+		<b>������:</b> Europe <img src='/templates/urokok/online/flags/EU0.gif'><br/>
+		
+		<b>��:</b> �����������<br />
+		<b>�������:</b> Chrome 88.0.4324.150 <img src=\'/templates/urokok/online/browsers/chrome.png\'><br />
+		<b>��� �����:</b> �������, 21:42:25<br />
+		
+	</div>
+</div>">����</a>
+</div><div class="online_out2">
+<a onclick="ShowProfile('yulya.tverdun', '/index.php?subaction=userinfo&user=yulya.tverdun'); return false;" href="/index.php?subaction=userinfo&user=yulya.tverdun/" class="hintanchor" onMouseover="showhint('<div class='hints'>
+	<div class='lcol'>
+		<div class='avatar'>
+			<span><img src=/uploads/fotos/foto_12167.jpg border=0></span>
+		</div>
+		<div class='statonline'>yulya.tverdun</div>
+	</div>
+	<div class='rcol'>
+		<b>������:</b> ����������<br />
+		
+		
+		
+		<b>��:</b> Windows 7<br />
+		<b>�������:</b> Chrome 88.0.4324.150 <img src=\'/templates/urokok/online/browsers/chrome.png\'><br />
+		<b>��� �����:</b> �������, 21:38:37<br />
+		
+	</div>
+</div>', this, event, '200px');"><img src='/templates/urokok/online/flags/0.gif'></a>
+<a onclick="ShowProfile('yulya.tverdun', '/index.php?subaction=userinfo&user=yulya.tverdun'); return false;" href="/index.php?subaction=userinfo&user=yulya.tverdun/" udata="<div class='hints'>
+	<div class='lcol'>
+		<div class='avatar'>
+			<span><img src=/uploads/fotos/foto_12167.jpg border=0></span>
+		</div>
+		<div class='statonline'>yulya.tverdun</div>
+	</div>
+	<div class='rcol'>
+		<b>������:</b> ����������<br />
+		
+		
+		
+		<b>��:</b> Windows 7<br />
+		<b>�������:</b> Chrome 88.0.4324.150 <img src=\'/templates/urokok/online/browsers/chrome.png\'><br />
+		<b>��� �����:</b> �������, 21:38:37<br />
+		
+	</div>
+</div>">yulya.tverdun</a>
+</div><br /><div style="clear:both"></div>
+
+<br /><div class="online_out1">������� ������� �� ����:&nbsp;</div><br /><div class="online_out2">
+<a  class="hintanchor" onMouseover="showhint('<div class='hints'>
+	<div class='lcol'>
+		<div class='avatar'>
+			<span></span>
+		</div>
+		<div class='statonline'>Google</div>
+	</div>
+	<div class='rcol'>
+		
+		
+		<b>������:</b> United States <img src='/templates/urokok/online/flags/US0.gif'><br/>
+		
+		<b>��:</b> �����������<br />
+		<b>�������:</b> ����������� <br />
+		<b>��� �����:</b> �������, 21:46:05<br />
+		
+	</div>
+</div>', this, event, '200px');"><img src='/templates/urokok/online/flags/US0.gif'></a>
+<a  udata="<div class='hints'>
+	<div class='lcol'>
+		<div class='avatar'>
+			<span></span>
+		</div>
+		<div class='statonline'>Google</div>
+	</div>
+	<div class='rcol'>
+		
+		
+		<b>������:</b> United States <img src='/templates/urokok/online/flags/US0.gif'><br/>
+		
+		<b>��:</b> �����������<br />
+		<b>�������:</b> ����������� <br />
+		<b>��� �����:</b> �������, 21:46:05<br />
+		
+	</div>
+</div>">Google</a>
+</div><div class="online_out2">
+<a  class="hintanchor" onMouseover="showhint('<div class='hints'>
+	<div class='lcol'>
+		<div class='avatar'>
+			<span></span>
+		</div>
+		<div class='statonline'>Yandex</div>
+	</div>
+	<div class='rcol'>
+		
+		
+		<b>������:</b> Russian Federation <img src='/templates/urokok/online/flags/RU0.gif'><br/>
+		
+		<b>��:</b> �����������<br />
+		<b>�������:</b> ����������� <br />
+		<b>��� �����:</b> �������, 21:42:41<br />
+		
+	</div>
+</div>', this, event, '200px');"><img src='/templates/urokok/online/flags/RU0.gif'></a>
+<a  udata="<div class='hints'>
+	<div class='lcol'>
+		<div class='avatar'>
+			<span></span>
+		</div>
+		<div class='statonline'>Yandex</div>
+	</div>
+	<div class='rcol'>
+		
+		
+		<b>������:</b> Russian Federation <img src='/templates/urokok/online/flags/RU0.gif'><br/>
+		
+		<b>��:</b> �����������<br />
+		<b>�������:</b> ����������� <br />
+		<b>��� �����:</b> �������, 21:42:41<br />
+		
+	</div>
+</div>">Yandex</a>
+</div> <div style="clear:both"></div>
+<br /><div>&nbsp;������� ���� ���������:&nbsp;</div><div class="online_out2">
+<a onclick="ShowProfile('%CB%E0%ED%E0', '/index.php?subaction=userinfo&user=%CB%E0%ED%E0'); return false;" href="/index.php?subaction=userinfo&user=%CB%E0%ED%E0/" class="hintanchor" onMouseover="showhint('<div class='hints'>
+	<div class='lcol'>
+		<div class='avatar'>
+			<span><img src=/templates/urokok/dleimages/noavatar.png border=0></span>
+		</div>
+		<div class='statonline'>����</div>
+	</div>
+	<div class='rcol'>
+		<b>������:</b> ����������<br />
+		
+		<b>������:</b> Europe <img src='/templates/urokok/online/flags/EU0.gif'><br/>
+		
+		<b>��:</b> �����������<br />
+		<b>�������:</b> Chrome 88.0.4324.150 <img src=\'/templates/urokok/online/browsers/chrome.png\'><br />
+		<b>��� �����:</b> �������, 21:42:25<br />
+		
+	</div>
+</div>', this, event, '200px');"><img src='/templates/urokok/online/flags/EU0.gif'></a>
+<a onclick="ShowProfile('%CB%E0%ED%E0', '/index.php?subaction=userinfo&user=%CB%E0%ED%E0'); return false;" href="/index.php?subaction=userinfo&user=%CB%E0%ED%E0/" udata="<div class='hints'>
+	<div class='lcol'>
+		<div class='avatar'>
+			<span><img src=/templates/urokok/dleimages/noavatar.png border=0></span>
+		</div>
+		<div class='statonline'>����</div>
+	</div>
+	<div class='rcol'>
+		<b>������:</b> ����������<br />
+		
+		<b>������:</b> Europe <img src='/templates/urokok/online/flags/EU0.gif'><br/>
+		
+		<b>��:</b> �����������<br />
+		<b>�������:</b> Chrome 88.0.4324.150 <img src=\'/templates/urokok/online/browsers/chrome.png\'><br />
+		<b>��� �����:</b> �������, 21:42:25<br />
+		
+	</div>
+</div>">����</a>
+</div><div class="online_out2">
+<a onclick="ShowProfile('yulya.tverdun', '/index.php?subaction=userinfo&user=yulya.tverdun'); return false;" href="/index.php?subaction=userinfo&user=yulya.tverdun/" class="hintanchor" onMouseover="showhint('<div class='hints'>
+	<div class='lcol'>
+		<div class='avatar'>
+			<span><img src=/uploads/fotos/foto_12167.jpg border=0></span>
+		</div>
+		<div class='statonline'>yulya.tverdun</div>
+	</div>
+	<div class='rcol'>
+		<b>������:</b> ����������<br />
+		
+		
+		
+		<b>��:</b> Windows 7<br />
+		<b>�������:</b> Chrome 88.0.4324.150 <img src=\'/templates/urokok/online/browsers/chrome.png\'><br />
+		<b>��� �����:</b> �������, 21:38:37<br />
+		
+	</div>
+</div>', this, event, '200px');"><img src='/templates/urokok/online/flags/0.gif'></a>
+<a onclick="ShowProfile('yulya.tverdun', '/index.php?subaction=userinfo&user=yulya.tverdun'); return false;" href="/index.php?subaction=userinfo&user=yulya.tverdun/" udata="<div class='hints'>
+	<div class='lcol'>
+		<div class='avatar'>
+			<span><img src=/uploads/fotos/foto_12167.jpg border=0></span>
+		</div>
+		<div class='statonline'>yulya.tverdun</div>
+	</div>
+	<div class='rcol'>
+		<b>������:</b> ����������<br />
+		
+		
+		
+		<b>��:</b> Windows 7<br />
+		<b>�������:</b> Chrome 88.0.4324.150 <img src=\'/templates/urokok/online/browsers/chrome.png\'><br />
+		<b>��� �����:</b> �������, 21:38:37<br />
+		
+	</div>
+</div>">yulya.tverdun</a>
+</div><div class="online_out2">
+<a onclick="ShowProfile('elena.mozgolovskaya', '/index.php?subaction=userinfo&user=elena.mozgolovskaya'); return false;" href="/index.php?subaction=userinfo&user=elena.mozgolovskaya/" class="hintanchor" onMouseover="showhint('<div class='hints'>
+	<div class='lcol'>
+		<div class='avatar'>
+			<span><img src=/uploads/fotos/foto_11731.jpg border=0></span>
+		</div>
+		<div class='statoffline'>elena.mozgolovskaya</div>
+	</div>
+	<div class='rcol'>
+		<b>������:</b> ����������<br />
+		
+		<b>������:</b> Ukraine <img src='/templates/urokok/online/flags/UA0.gif'><br/>
+		
+		<b>��:</b> Windows 8.1 Blue<br />
+		<b>�������:</b> Chrome 88.0.4324.190 <img src=\'/templates/urokok/online/browsers/chrome.png\'><br />
+		<b>��� �����:</b> �������, 21:30:07<br />
+		
+	</div>
+</div>', this, event, '200px');"><img src='/templates/urokok/online/flags/UA0.gif'></a>
+<a onclick="ShowProfile('elena.mozgolovskaya', '/index.php?subaction=userinfo&user=elena.mozgolovskaya'); return false;" href="/index.php?subaction=userinfo&user=elena.mozgolovskaya/" udata="<div class='hints'>
+	<div class='lcol'>
+		<div class='avatar'>
+			<span><img src=/uploads/fotos/foto_11731.jpg border=0></span>
+		</div>
+		<div class='statoffline'>elena.mozgolovskaya</div>
+	</div>
+	<div class='rcol'>
+		<b>������:</b> ����������<br />
+		
+		<b>������:</b> Ukraine <img src='/templates/urokok/online/flags/UA0.gif'><br/>
+		
+		<b>��:</b> Windows 8.1 Blue<br />
+		<b>�������:</b> Chrome 88.0.4324.190 <img src=\'/templates/urokok/online/browsers/chrome.png\'><br />
+		<b>��� �����:</b> �������, 21:30:07<br />
+		
+	</div>
+</div>">elena.mozgolovskaya</a>
+</div><div class="online_out2">
+<a onclick="ShowProfile('miroslava.yuhno', '/index.php?subaction=userinfo&user=miroslava.yuhno'); return false;" href="/index.php?subaction=userinfo&user=miroslava.yuhno/" class="hintanchor" onMouseover="showhint('<div class='hints'>
+	<div class='lcol'>
+		<div class='avatar'>
+			<span><img src=/uploads/fotos/foto_11877.jpg border=0></span>
+		</div>
+		<div class='statoffline'>miroslava.yuhno</div>
+	</div>
+	<div class='rcol'>
+		<b>������:</b> ����������<br />
+		
+		
+		
+		<b>��:</b> Windows 7<br />
+		<b>�������:</b> Chrome 88.0.4324.190 <img src=\'/templates/urokok/online/browsers/chrome.png\'><br />
+		<b>��� �����:</b> �������, 21:29:38<br />
+		
+	</div>
+</div>', this, event, '200px');"><img src='/templates/urokok/online/flags/0.gif'></a>
+<a onclick="ShowProfile('miroslava.yuhno', '/index.php?subaction=userinfo&user=miroslava.yuhno'); return false;" href="/index.php?subaction=userinfo&user=miroslava.yuhno/" udata="<div class='hints'>
+	<div class='lcol'>
+		<div class='avatar'>
+			<span><img src=/uploads/fotos/foto_11877.jpg border=0></span>
+		</div>
+		<div class='statoffline'>miroslava.yuhno</div>
+	</div>
+	<div class='rcol'>
+		<b>������:</b> ����������<br />
+		
+		
+		
+		<b>��:</b> Windows 7<br />
+		<b>�������:</b> Chrome 88.0.4324.190 <img src=\'/templates/urokok/online/browsers/chrome.png\'><br />
+		<b>��� �����:</b> �������, 21:29:38<br />
+		
+	</div>
+</div>">miroslava.yuhno</a>
+</div><div class="online_out2">
+<a onclick="ShowProfile('lyudmila.ostapenko', '/index.php?subaction=userinfo&user=lyudmila.ostapenko'); return false;" href="/index.php?subaction=userinfo&user=lyudmila.ostapenko/" class="hintanchor" onMouseover="showhint('<div class='hints'>
+	<div class='lcol'>
+		<div class='avatar'>
+			<span><img src=/uploads/fotos/foto_11209.jpg border=0></span>
+		</div>
+		<div class='statoffline'>lyudmila.ostapenko</div>
+	</div>
+	<div class='rcol'>
+		<b>������:</b> ����������<br />
+		
+		<b>������:</b> Ukraine <img src='/templates/urokok/online/flags/UA0.gif'><br/>
+		
+		<b>��:</b> Windows 8.1 Blue<br />
+		<b>�������:</b> Chrome 88.0.4324.190 <img src=\'/templates/urokok/online/browsers/chrome.png\'><br />
+		<b>��� �����:</b> �������, 21:17:27<br />
+		
+	</div>
+</div>', this, event, '200px');"><img src='/templates/urokok/online/flags/UA0.gif'></a>
+<a onclick="ShowProfile('lyudmila.ostapenko', '/index.php?subaction=userinfo&user=lyudmila.ostapenko'); return false;" href="/index.php?subaction=userinfo&user=lyudmila.ostapenko/" udata="<div class='hints'>
+	<div class='lcol'>
+		<div class='avatar'>
+			<span><img src=/uploads/fotos/foto_11209.jpg border=0></span>
+		</div>
+		<div class='statoffline'>lyudmila.ostapenko</div>
+	</div>
+	<div class='rcol'>
+		<b>������:</b> ����������<br />
+		
+		<b>������:</b> Ukraine <img src='/templates/urokok/online/flags/UA0.gif'><br/>
+		
+		<b>��:</b> Windows 8.1 Blue<br />
+		<b>�������:</b> Chrome 88.0.4324.190 <img src=\'/templates/urokok/online/browsers/chrome.png\'><br />
+		<b>��� �����:</b> �������, 21:17:27<br />
+		
+	</div>
+</div>">lyudmila.ostapenko</a>
+</div><div class="online_out2">
+<a onclick="ShowProfile('anatol21', '/index.php?subaction=userinfo&user=anatol21'); return false;" href="/index.php?subaction=userinfo&user=anatol21/" class="hintanchor" onMouseover="showhint('<div class='hints'>
+	<div class='lcol'>
+		<div class='avatar'>
+			<span><img src=/templates/urokok/dleimages/noavatar.png border=0></span>
+		</div>
+		<div class='statoffline'>anatol21</div>
+	</div>
+	<div class='rcol'>
+		<b>������:</b> ����������<br />
+		
+		<b>������:</b> Ukraine <img src='/templates/urokok/online/flags/UA0.gif'><br/>
+		
+		<b>��:</b> �����������<br />
+		<b>�������:</b> Chrome 88.0.4324.150 <img src=\'/templates/urokok/online/browsers/chrome.png\'><br />
+		<b>��� �����:</b> �������, 21:13:53<br />
+		
+	</div>
+</div>', this, event, '200px');"><img src='/templates/urokok/online/flags/UA0.gif'></a>
+<a onclick="ShowProfile('anatol21', '/index.php?subaction=userinfo&user=anatol21'); return false;" href="/index.php?subaction=userinfo&user=anatol21/" udata="<div class='hints'>
+	<div class='lcol'>
+		<div class='avatar'>
+			<span><img src=/templates/urokok/dleimages/noavatar.png border=0></span>
+		</div>
+		<div class='statoffline'>anatol21</div>
+	</div>
+	<div class='rcol'>
+		<b>������:</b> ����������<br />
+		
+		<b>������:</b> Ukraine <img src='/templates/urokok/online/flags/UA0.gif'><br/>
+		
+		<b>��:</b> �����������<br />
+		<b>�������:</b> Chrome 88.0.4324.150 <img src=\'/templates/urokok/online/browsers/chrome.png\'><br />
+		<b>��� �����:</b> �������, 21:13:53<br />
+		
+	</div>
+</div>">anatol21</a>
+</div><div class="online_out2">
+<a onclick="ShowProfile('viktoriya.opanasenko', '/index.php?subaction=userinfo&user=viktoriya.opanasenko'); return false;" href="/index.php?subaction=userinfo&user=viktoriya.opanasenko/" class="hintanchor" onMouseover="showhint('<div class='hints'>
+	<div class='lcol'>
+		<div class='avatar'>
+			<span><img src=/uploads/fotos/foto_8209.jpg border=0></span>
+		</div>
+		<div class='statoffline'>viktoriya.opanasenko</div>
+	</div>
+	<div class='rcol'>
+		<b>������:</b> ����������<br />
+		
+		<b>������:</b> Ukraine <img src='/templates/urokok/online/flags/UA0.gif'><br/>
+		
+		<b>��:</b> �����������<br />
+		<b>�������:</b> Chrome 88.0.4324.150 <img src=\'/templates/urokok/online/browsers/chrome.png\'><br />
+		<b>��� �����:</b> �������, 21:09:14<br />
+		
+	</div>
+</div>', this, event, '200px');"><img src='/templates/urokok/online/flags/UA0.gif'></a>
+<a onclick="ShowProfile('viktoriya.opanasenko', '/index.php?subaction=userinfo&user=viktoriya.opanasenko'); return false;" href="/index.php?subaction=userinfo&user=viktoriya.opanasenko/" udata="<div class='hints'>
+	<div class='lcol'>
+		<div class='avatar'>
+			<span><img src=/uploads/fotos/foto_8209.jpg border=0></span>
+		</div>
+		<div class='statoffline'>viktoriya.opanasenko</div>
+	</div>
+	<div class='rcol'>
+		<b>������:</b> ����������<br />
+		
+		<b>������:</b> Ukraine <img src='/templates/urokok/online/flags/UA0.gif'><br/>
+		
+		<b>��:</b> �����������<br />
+		<b>�������:</b> Chrome 88.0.4324.150 <img src=\'/templates/urokok/online/browsers/chrome.png\'><br />
+		<b>��� �����:</b> �������, 21:09:14<br />
+		
+	</div>
+</div>">viktoriya.opanasenko</a>
+</div><div class="online_out2">
+<a onclick="ShowProfile('elena.stasyuk', '/index.php?subaction=userinfo&user=elena.stasyuk'); return false;" href="/index.php?subaction=userinfo&user=elena.stasyuk/" class="hintanchor" onMouseover="showhint('<div class='hints'>
+	<div class='lcol'>
+		<div class='avatar'>
+			<span><img src=/uploads/fotos/foto_12590.jpg border=0></span>
+		</div>
+		<div class='statoffline'>elena.stasyuk</div>
+	</div>
+	<div class='rcol'>
+		<b>������:</b> ����������<br />
+		
+		<b>������:</b> Ukraine <img src='/templates/urokok/online/flags/UA0.gif'><br/>
+		
+		<b>��:</b> �����������<br />
+		<b>�������:</b> Chrome 88.0.4324.190 <img src=\'/templates/urokok/online/browsers/chrome.png\'><br />
+		<b>��� �����:</b> �������, 21:07:51<br />
+		
+	</div>
+</div>', this, event, '200px');"><img src='/templates/urokok/online/flags/UA0.gif'></a>
+<a onclick="ShowProfile('elena.stasyuk', '/index.php?subaction=userinfo&user=elena.stasyuk'); return false;" href="/index.php?subaction=userinfo&user=elena.stasyuk/" udata="<div class='hints'>
+	<div class='lcol'>
+		<div class='avatar'>
+			<span><img src=/uploads/fotos/foto_12590.jpg border=0></span>
+		</div>
+		<div class='statoffline'>elena.stasyuk</div>
+	</div>
+	<div class='rcol'>
+		<b>������:</b> ����������<br />
+		
+		<b>������:</b> Ukraine <img src='/templates/urokok/online/flags/UA0.gif'><br/>
+		
+		<b>��:</b> �����������<br />
+		<b>�������:</b> Chrome 88.0.4324.190 <img src=\'/templates/urokok/online/browsers/chrome.png\'><br />
+		<b>��� �����:</b> �������, 21:07:51<br />
+		
+	</div>
+</div>">elena.stasyuk</a>
+</div><div class="online_out2">
+<a onclick="ShowProfile('Olesya.Lawrenyuk', '/index.php?subaction=userinfo&user=Olesya.Lawrenyuk'); return false;" href="/index.php?subaction=userinfo&user=Olesya.Lawrenyuk/" class="hintanchor" onMouseover="showhint('<div class='hints'>
+	<div class='lcol'>
+		<div class='avatar'>
+			<span><img src=/uploads/fotos/foto_6332.jpg border=0></span>
+		</div>
+		<div class='statoffline'>Olesya.Lawrenyuk</div>
+	</div>
+	<div class='rcol'>
+		<b>������:</b> ����������<br />
+		
+		<b>������:</b> Ukraine <img src='/templates/urokok/online/flags/UA0.gif'><br/>
+		
+		<b>��:</b> �����������<br />
+		<b>�������:</b> Chrome 88.0.4324.190 <img src=\'/templates/urokok/online/browsers/chrome.png\'><br />
+		<b>��� �����:</b> �������, 21:00:50<br />
+		
+	</div>
+</div>', this, event, '200px');"><img src='/templates/urokok/online/flags/UA0.gif'></a>
+<a onclick="ShowProfile('Olesya.Lawrenyuk', '/index.php?subaction=userinfo&user=Olesya.Lawrenyuk'); return false;" href="/index.php?subaction=userinfo&user=Olesya.Lawrenyuk/" udata="<div class='hints'>
+	<div class='lcol'>
+		<div class='avatar'>
+			<span><img src=/uploads/fotos/foto_6332.jpg border=0></span>
+		</div>
+		<div class='statoffline'>Olesya.Lawrenyuk</div>
+	</div>
+	<div class='rcol'>
+		<b>������:</b> ����������<br />
+		
+		<b>������:</b> Ukraine <img src='/templates/urokok/online/flags/UA0.gif'><br/>
+		
+		<b>��:</b> �����������<br />
+		<b>�������:</b> Chrome 88.0.4324.190 <img src=\'/templates/urokok/online/browsers/chrome.png\'><br />
+		<b>��� �����:</b> �������, 21:00:50<br />
+		
+	</div>
+</div>">Olesya.Lawrenyuk</a>
+</div><div class="online_out2">
+<a onclick="ShowProfile('larisa.omelkovets', '/index.php?subaction=userinfo&user=larisa.omelkovets'); return false;" href="/index.php?subaction=userinfo&user=larisa.omelkovets/" class="hintanchor" onMouseover="showhint('<div class='hints'>
+	<div class='lcol'>
+		<div class='avatar'>
+			<span><img src=/uploads/fotos/foto_11906.png border=0></span>
+		</div>
+		<div class='statoffline'>larisa.omelkovets</div>
+	</div>
+	<div class='rcol'>
+		<b>������:</b> ����������<br />
+		
+		<b>������:</b> Czech Republic <img src='/templates/urokok/online/flags/CZ0.gif'><br/>
+		
+		<b>��:</b> Windows 8.1 Blue<br />
+		<b>�������:</b> Chrome 88.0.4324.190 <img src=\'/templates/urokok/online/browsers/chrome.png\'><br />
+		<b>��� �����:</b> �������, 20:59:41<br />
+		
+	</div>
+</div>', this, event, '200px');"><img src='/templates/urokok/online/flags/CZ0.gif'></a>
+<a onclick="ShowProfile('larisa.omelkovets', '/index.php?subaction=userinfo&user=larisa.omelkovets'); return false;" href="/index.php?subaction=userinfo&user=larisa.omelkovets/" udata="<div class='hints'>
+	<div class='lcol'>
+		<div class='avatar'>
+			<span><img src=/uploads/fotos/foto_11906.png border=0></span>
+		</div>
+		<div class='statoffline'>larisa.omelkovets</div>
+	</div>
+	<div class='rcol'>
+		<b>������:</b> ����������<br />
+		
+		<b>������:</b> Czech Republic <img src='/templates/urokok/online/flags/CZ0.gif'><br/>
+		
+		<b>��:</b> Windows 8.1 Blue<br />
+		<b>�������:</b> Chrome 88.0.4324.190 <img src=\'/templates/urokok/online/browsers/chrome.png\'><br />
+		<b>��� �����:</b> �������, 20:59:41<br />
+		
+	</div>
+</div>">larisa.omelkovets</a>
+</div> <div style="clear:both"></div>
+</ul>
+</div>
+</div></div></div>
+</div>
+<!-- /files_block -->
+<br>
+<noindex><nofollow><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script></noindex></nofollow>
+<!-- ���� ��������. ������ 0203 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-6603410795102333"
+     data-ad-slot="4426504367"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div><!-- /side_right -->
+<div id="side_center">
+<div class="speedbar"><span id="dle-speedbar"><span itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a href="https://urokok.com.ua/" itemprop="url"><span itemprop="title">������ ����� &quot;�������� ������� ������ Urokok&quot;</span></a></span></span></div>
+<h1 align="center"><font size="2">������ ���������� ���</font></h1>
+<center><img src="/templates/urokok/images/uspih.jpg" width="670" height="87" alt="" /></center>
+<br>
+<noindex><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script></noindex>
+<!-- ������ ����� ����� 0203 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-6603410795102333"
+     data-ad-slot="8110119574"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<br> 
+<div class="ulogin_message clr berrors" style="display: none">
+    <strong></strong><br/>
+    
+</div><div id='dle-content'><div class="short_story"> 
+<div class="short_story_h">
+<div class="story_title"><span><a href="https://urokok.com.ua/methodical-cabinet/1523-scenariy-z-minusovkami-ta-psnyami-na-svyato-bukvarya.html">������� � ���������� �� ������ �� ����� �������</a></span></div>
+</div>
+<div class="short_story_inf">
+<div class="short_story_inf_l">
+<ul class="reset">
+<li><div class="author_ico"></div><div class="story_ico"><div><span class="author"><a onclick="ShowProfile('Admin+Vit', 'https://urokok.com.ua/user/Admin+Vit/', '0'); return false;" href="https://urokok.com.ua/user/Admin+Vit/">Admin Vit</a></span></div></div></li>
+<li><div class="date_ico"></div><div class="story_ico"><div><span class="date">�������, 14:20</span></div></div></li>
+<li><div class="views_ico"></div><div class="story_ico"><div><span class="views">5 931</span></div></div></li>
+<li><div class="comm_ico"></div><div class="story_ico"><div><span class="comm">0</span></div></div></li>
+</ul>
+</div>
+
+</div>
+<div class="short_story_c">
+<div style="text-align:center;"><a class="highslide" href="https://urokok.com.ua/uploads/posts/2020-02/1581957563_scenary-z-mnusovkami-na-svyato-bukvarya-2.jpg" target="_blank"><img src="/uploads/posts/2020-02/medium/1581957563_scenary-z-mnusovkami-na-svyato-bukvarya-2.jpg" alt="" class="fr-dib"></a><span style="font-size:18px;">������� � ���������� �� ������ �� ����� �������</span></div>
+<div class="clr"></div>
+
+</div>
+<div class="short_story_b">
+<div class="short_story_b_l"><span>��������:</span> <a href="https://urokok.com.ua/methodical-cabinet/">�����-������</a> / <a href="https://urokok.com.ua/class-leaders/">������� ���������</a> / <a href="https://urokok.com.ua/elementary-classes/">�������� �����</a> / <a href="https://urokok.com.ua/holiday-scripts/">������ ����</a></div>
+<div class="short_story_b_r"><a href="https://urokok.com.ua/methodical-cabinet/1523-scenariy-z-minusovkami-ta-psnyami-na-svyato-bukvarya.html">�� �������</a></div>
+</div>
+</div><div class="short_story"> 
+<div class="short_story_h">
+<div class="story_title"><span><a href="https://urokok.com.ua/middle-classes/2050-vdeourok-rozvyazuvannya-zadach-pro-zakon-oma-pitomiy-opr.html">³������� &quot;����&#039;�������� ����� ��� ����� ��� � ������� ���&quot;</a></span></div>
+</div>
+<div class="short_story_inf">
+<div class="short_story_inf_l">
+<ul class="reset">
+<li><div class="author_ico"></div><div class="story_ico"><div><span class="author"><a onclick="ShowProfile('anatol21', 'https://urokok.com.ua/user/anatol21/', '0'); return false;" href="https://urokok.com.ua/user/anatol21/">anatol21</a></span></div></div></li>
+<li><div class="date_ico"></div><div class="story_ico"><div><span class="date">�����, 17:55</span></div></div></li>
+<li><div class="views_ico"></div><div class="story_ico"><div><span class="views">13</span></div></div></li>
+<li><div class="comm_ico"></div><div class="story_ico"><div><span class="comm">0</span></div></div></li>
+</ul>
+</div>
+
+</div>
+<div class="short_story_c">
+<div style="text-align:center;"><a class="highslide" href="https://urokok.com.ua/uploads/posts/2021-02/1614527567_om.jpg" target="_blank"><img src="/uploads/posts/2021-02/medium/1614527567_om.jpg" alt="" class="fr-dib"></a></div><div style="text-align:center;"><br></div><div style="text-align:center;"><b><span style="font-size:14px;">³������� "����'�������� ����� ��� ����� ��� � ������� ���"</span></b></div><div style="text-align:center;"><span style="font-size:14px;">�������� ����'�������� ����� � ��� ����� ��� � ������� ��� ���������.�</span></div><div style="text-align:center;"><span style="font-size:14px;">����������� ������ �'��� �����.�</span></div><div style="text-align:center;"><span style="font-size:14px;">��� ����� ������ � ����� 8 �����.</span></div><div style="text-align:center;"><span style="font-size:14px;">�����: ��������� �.�.</span></div>
+<div class="clr"></div>
+
+</div>
+<div class="short_story_b">
+<div class="short_story_b_l"><span>��������:</span> <a href="https://urokok.com.ua/middle-classes/">������� �����</a></div>
+<div class="short_story_b_r"><a href="https://urokok.com.ua/middle-classes/2050-vdeourok-rozvyazuvannya-zadach-pro-zakon-oma-pitomiy-opr.html">�� �������</a></div>
+</div>
+</div><div class="short_story"> 
+<div class="short_story_h">
+<div class="story_title"><span><a href="https://urokok.com.ua/computer-science-lessons/2049-vdeourok-znahodzhennya-sumi-dobutku-elementv-masiva.html">³������� &quot;����������� ���� � ������� �������� ������&quot;</a></span></div>
+</div>
+<div class="short_story_inf">
+<div class="short_story_inf_l">
+<ul class="reset">
+<li><div class="author_ico"></div><div class="story_ico"><div><span class="author"><a onclick="ShowProfile('anatol21', 'https://urokok.com.ua/user/anatol21/', '0'); return false;" href="https://urokok.com.ua/user/anatol21/">anatol21</a></span></div></div></li>
+<li><div class="date_ico"></div><div class="story_ico"><div><span class="date">26-02-2021, 20:34</span></div></div></li>
+<li><div class="views_ico"></div><div class="story_ico"><div><span class="views">19</span></div></div></li>
+<li><div class="comm_ico"></div><div class="story_ico"><div><span class="comm">0</span></div></div></li>
+</ul>
+</div>
+
+</div>
+<div class="short_story_c">
+<div style="text-align:center;"><a class="highslide" href="https://urokok.com.ua/uploads/posts/2021-02/1614363969_suma.jpg" target="_blank"><img src="/uploads/posts/2021-02/medium/1614363969_suma.jpg" alt="" class="fr-dib"></a><br></div><div style="text-align:center;"><b><span style="font-size:14px;">³������� "����������� ���� � ������� �������� ������"</span></b></div><div style="text-align:center;"><span style="font-size:14px;">���������, �� ���������� ����� �� ����������� ���� ����������� �������.</span></div><div style="text-align:center;"><span style="font-size:14px;">��������� ��������� ���� � ������� �������� ������.</span></div><div style="text-align:center;"><span style="font-size:14px;"><br></span></div><div style="text-align:center;"><span style="font-size:14px;">�����: ��������� �.�.</span></div>
+<div class="clr"></div>
+
+</div>
+<div class="short_story_b">
+<div class="short_story_b_l"><span>��������:</span> <a href="https://urokok.com.ua/computer-science-lessons/">����� �����������</a></div>
+<div class="short_story_b_r"><a href="https://urokok.com.ua/computer-science-lessons/2049-vdeourok-znahodzhennya-sumi-dobutku-elementv-masiva.html">�� �������</a></div>
+</div>
+</div><div class="short_story"> 
+<div class="short_story_h">
+<div class="story_title"><span><a href="https://urokok.com.ua/methodical-cabinet/1474-svyato-bukvarika-scenary-svyata-z-muzichnim-suprovdom.html">�����  ���������. ������� ����� � �������� ���������</a></span></div>
+</div>
+<div class="short_story_inf">
+<div class="short_story_inf_l">
+<ul class="reset">
+<li><div class="author_ico"></div><div class="story_ico"><div><span class="author"><a onclick="ShowProfile('Admin+Vit', 'https://urokok.com.ua/user/Admin+Vit/', '0'); return false;" href="https://urokok.com.ua/user/Admin+Vit/">Admin Vit</a></span></div></div></li>
+<li><div class="date_ico"></div><div class="story_ico"><div><span class="date">26-02-2021, 13:02</span></div></div></li>
+<li><div class="views_ico"></div><div class="story_ico"><div><span class="views">19 715</span></div></div></li>
+<li><div class="comm_ico"></div><div class="story_ico"><div><span class="comm">1</span></div></div></li>
+</ul>
+</div>
+
+</div>
+<div class="short_story_c">
+<div style="text-align:center;"><a class="highslide" href="https://urokok.com.ua/uploads/posts/2020-01/1579028294_svyato-bukvarika_-scenary-svyata-z-muzichnim-suprovdom.jpg" target="_blank"><img src="/uploads/posts/2020-01/medium/1579028294_svyato-bukvarika_-scenary-svyata-z-muzichnim-suprovdom.jpg" alt="" class="fr-dib"></a><span style="font-size:18px;">����� ����������.�</span></div><div style="text-align:center;"><span style="font-size:18px;">������� ����� � �������� ���������</span></div>
+<div class="clr"></div>
+
+</div>
+<div class="short_story_b">
+<div class="short_story_b_l"><span>��������:</span> <a href="https://urokok.com.ua/methodical-cabinet/">�����-������</a>    / <a href="https://urokok.com.ua/class-leaders/">������� ���������</a>    / <a href="https://urokok.com.ua/new-ukrainian-school/">���</a>    / <a href="https://urokok.com.ua/elementary-classes/">�������� �����</a>    / <a href="https://urokok.com.ua/holiday-scripts/">������ ����</a></div>
+<div class="short_story_b_r"><a href="https://urokok.com.ua/methodical-cabinet/1474-svyato-bukvarika-scenary-svyata-z-muzichnim-suprovdom.html">�� �������</a></div>
+</div>
+</div><div class="short_story"> 
+<div class="short_story_h">
+<div class="story_title"><span><a href="https://urokok.com.ua/class-leaders/2048-naykrascha-zbirka-cikavogo-materialu-do-8-bereznya.html">�������� ����� �������� �������� �� 8 �������</a></span></div>
+</div>
+<div class="short_story_inf">
+<div class="short_story_inf_l">
+<ul class="reset">
+<li><div class="author_ico"></div><div class="story_ico"><div><span class="author"><a onclick="ShowProfile('Admin+Vit', 'https://urokok.com.ua/user/Admin+Vit/', '0'); return false;" href="https://urokok.com.ua/user/Admin+Vit/">Admin Vit</a></span></div></div></li>
+<li><div class="date_ico"></div><div class="story_ico"><div><span class="date">24-02-2021, 21:32</span></div></div></li>
+<li><div class="views_ico"></div><div class="story_ico"><div><span class="views">12 718</span></div></div></li>
+<li><div class="comm_ico"></div><div class="story_ico"><div><span class="comm">0</span></div></div></li>
+</ul>
+</div>
+
+</div>
+<div class="short_story_c">
+<a class="highslide" href="https://urokok.com.ua/uploads/posts/2021-02/1614194284_naykrascha-zbrka-ckavogo-materalu-do-8-bereznya.jpg" target="_blank"><img src="/uploads/posts/2021-02/medium/1614194284_naykrascha-zbrka-ckavogo-materalu-do-8-bereznya.jpg" alt="" class="fr-dib"></a><div style="text-align:center;"><span style="font-size:18px;"><b><span style="color:rgb(65,168,95);">�������� ����� �������� ��������</span></b></span></div><div style="text-align:center;"><span style="font-size:18px;"><b><span style="color:rgb(65,168,95);">��</span><span style="color:rgb(235,107,86);">8 �������</span></b></span></div>
+<div class="clr"></div>
+
+</div>
+<div class="short_story_b">
+<div class="short_story_b_l"><span>��������:</span> <a href="https://urokok.com.ua/class-leaders/">������� ���������</a>     / <a href="https://urokok.com.ua/new-ukrainian-school/">���</a>     / <a href="https://urokok.com.ua/nakrilahuspihu/">�� ������ �����</a>     / <a href="https://urokok.com.ua/children-preschoolers/">ĳ���� �����������</a>     / <a href="https://urokok.com.ua/holiday-scripts/">������ ����</a></div>
+<div class="short_story_b_r"><a href="https://urokok.com.ua/class-leaders/2048-naykrascha-zbirka-cikavogo-materialu-do-8-bereznya.html">�� �������</a></div>
+</div>
+</div><div class="short_story"> 
+<div class="short_story_h">
+<div class="story_title"><span><a href="https://urokok.com.ua/class-leaders/2047-materiali-dlya-lepbuka-za-temoyu-vesna.html">�������� ��� ������� �� ����� &quot;��c��&quot;</a></span></div>
+</div>
+<div class="short_story_inf">
+<div class="short_story_inf_l">
+<ul class="reset">
+<li><div class="author_ico"></div><div class="story_ico"><div><span class="author"><a onclick="ShowProfile('Admin+Vit', 'https://urokok.com.ua/user/Admin+Vit/', '0'); return false;" href="https://urokok.com.ua/user/Admin+Vit/">Admin Vit</a></span></div></div></li>
+<li><div class="date_ico"></div><div class="story_ico"><div><span class="date">24-02-2021, 18:52</span></div></div></li>
+<li><div class="views_ico"></div><div class="story_ico"><div><span class="views">3 757</span></div></div></li>
+<li><div class="comm_ico"></div><div class="story_ico"><div><span class="comm">0</span></div></div></li>
+</ul>
+</div>
+
+</div>
+<div class="short_story_c">
+<a class="highslide" href="https://urokok.com.ua/uploads/posts/2021-02/1614184763_lepbuk-prirodoznavstva-vesna.jpg" target="_blank"><img src="/uploads/posts/2021-02/medium/1614184763_lepbuk-prirodoznavstva-vesna.jpg" alt="" class="fr-dib"></a><div style="text-align:center;"><span style="font-size:18px;">�������� ��� ������� �� ����� "<b><span style="color:rgb(184,49,47);">��c��</span></b>"</span></div>
+<div class="clr"></div>
+
+</div>
+<div class="short_story_b">
+<div class="short_story_b_l"><span>��������:</span> <a href="https://urokok.com.ua/class-leaders/">������� ���������</a>      / <a href="https://urokok.com.ua/new-ukrainian-school/">���</a>      / <a href="https://urokok.com.ua/children-preschoolers/">ĳ���� �����������</a>      / <a href="https://urokok.com.ua/elementary-classes/">�������� �����</a></div>
+<div class="short_story_b_r"><a href="https://urokok.com.ua/class-leaders/2047-materiali-dlya-lepbuka-za-temoyu-vesna.html">�� �������</a></div>
+</div>
+</div><div class="short_story"> 
+<div class="short_story_h">
+<div class="story_title"><span><a href="https://urokok.com.ua/methodical-cabinet/2044-urok-koncert-ukrayinskih-pisen-dlya-uchniv-5-7-klasiv.html">����-������� ���������� ����� ��� ����� 5-7 �����</a></span></div>
+</div>
+<div class="short_story_inf">
+<div class="short_story_inf_l">
+<ul class="reset">
+<li><div class="author_ico"></div><div class="story_ico"><div><span class="author"><a onclick="ShowProfile('Admin+Vit', 'https://urokok.com.ua/user/Admin+Vit/', '0'); return false;" href="https://urokok.com.ua/user/Admin+Vit/">Admin Vit</a></span></div></div></li>
+<li><div class="date_ico"></div><div class="story_ico"><div><span class="date">24-02-2021, 17:36</span></div></div></li>
+<li><div class="views_ico"></div><div class="story_ico"><div><span class="views">1 098</span></div></div></li>
+<li><div class="comm_ico"></div><div class="story_ico"><div><span class="comm">0</span></div></div></li>
+</ul>
+</div>
+
+</div>
+<div class="short_story_c">
+<div style="text-align:center;"><a class="highslide" href="https://urokok.com.ua/uploads/posts/2021-02/1614180583_urok-koncert-ukrayinskih-psen-dlya-uchnv-5-7-klasv.jpg" target="_blank"><img src="/uploads/posts/2021-02/medium/1614180583_urok-koncert-ukrayinskih-psen-dlya-uchnv-5-7-klasv.jpg" alt="" class="fr-dib"></a></div><div style="text-align:center;"><span style="font-size:14px;"><b>����-������� ���������� ������</b></span></div><div style="text-align:center;"><span style="font-size:14px;"><b>��� ����� 5-7������</b></span></div>
+<div class="clr"></div>
+
+</div>
+<div class="short_story_b">
+<div class="short_story_b_l"><span>��������:</span> <a href="https://urokok.com.ua/methodical-cabinet/">�����-������</a>       / <a href="https://urokok.com.ua/class-leaders/">������� ���������</a>       / <a href="https://urokok.com.ua/middle-classes/">������� �����</a>       / <a href="https://urokok.com.ua/high-school/">������ �����</a>       / <a href="https://urokok.com.ua/holiday-scripts/">������ ����</a></div>
+<div class="short_story_b_r"><a href="https://urokok.com.ua/methodical-cabinet/2044-urok-koncert-ukrayinskih-pisen-dlya-uchniv-5-7-klasiv.html">�� �������</a></div>
+</div>
+</div><div class="short_story"> 
+<div class="short_story_h">
+<div class="story_title"><span><a href="https://urokok.com.ua/photoshop-wizard/2043-gramoti-na-konkurs-znavec-pravil-dorozhnogo-ruhu.html">������� �� ������� &quot;������� ������ ���������� ����&quot;</a></span></div>
+</div>
+<div class="short_story_inf">
+<div class="short_story_inf_l">
+<ul class="reset">
+<li><div class="author_ico"></div><div class="story_ico"><div><span class="author"><a onclick="ShowProfile('anatol21', 'https://urokok.com.ua/user/anatol21/', '0'); return false;" href="https://urokok.com.ua/user/anatol21/">anatol21</a></span></div></div></li>
+<li><div class="date_ico"></div><div class="story_ico"><div><span class="date">21-02-2021, 22:27</span></div></div></li>
+<li><div class="views_ico"></div><div class="story_ico"><div><span class="views">42</span></div></div></li>
+<li><div class="comm_ico"></div><div class="story_ico"><div><span class="comm">0</span></div></div></li>
+</ul>
+</div>
+
+</div>
+<div class="short_story_c">
+<a class="highslide" href="https://urokok.com.ua/uploads/posts/2021-02/1613939028_titul2.jpg" target="_blank"><img src="/uploads/posts/2021-02/medium/1613939028_titul2.jpg" alt="" class="fr-dib"></a><p style="text-align:center;"><b><span style="font-size:14px;">������� �� ������� "������� ������ ���������� ����"</span></b></p><div style="text-align:center;"><span style="font-size:14px;">������� ������� ������ ��� �������������</span></div><div style="text-align:center;"><span style="font-size:14px;">����� �� ����� �� �������� � �������.</span></div><div style="text-align:center;"><span style="font-size:14px;">�������: 4 / ������: jpg, A4 / ����: ���.</span></div><div style="text-align:center;"><span style="font-size:14px;">�����:�</span><b><span style="font-size:14px;">AnaTol2010</span></b></div>
+<div class="clr"></div>
+
+</div>
+<div class="short_story_b">
+<div class="short_story_b_l"><span>��������:</span> <a href="https://urokok.com.ua/photoshop-wizard/">������� �������</a></div>
+<div class="short_story_b_r"><a href="https://urokok.com.ua/photoshop-wizard/2043-gramoti-na-konkurs-znavec-pravil-dorozhnogo-ruhu.html">�� �������</a></div>
+</div>
+</div><div class="short_story"> 
+<div class="short_story_h">
+<div class="story_title"><span><a href="https://urokok.com.ua/2042-vdeourok-rozvyazuvannya-zadach-pro-silu-tyazhnnya-silu-pruzhnost-vagu-tla.html">³������� &quot;����&#039;�������� ����� ��� ���� ������, ���� �������� � ���� ���&quot;</a></span></div>
+</div>
+<div class="short_story_inf">
+<div class="short_story_inf_l">
+<ul class="reset">
+<li><div class="author_ico"></div><div class="story_ico"><div><span class="author"><a onclick="ShowProfile('anatol21', 'https://urokok.com.ua/user/anatol21/', '0'); return false;" href="https://urokok.com.ua/user/anatol21/">anatol21</a></span></div></div></li>
+<li><div class="date_ico"></div><div class="story_ico"><div><span class="date">21-02-2021, 15:54</span></div></div></li>
+<li><div class="views_ico"></div><div class="story_ico"><div><span class="views">41</span></div></div></li>
+<li><div class="comm_ico"></div><div class="story_ico"><div><span class="comm">0</span></div></div></li>
+</ul>
+</div>
+
+</div>
+<div class="short_story_c">
+<a class="highslide" href="https://urokok.com.ua/uploads/posts/2021-02/1613915583_tema-uroku.jpg" target="_blank"><img src="/uploads/posts/2021-02/medium/1613915583_tema-uroku.jpg" alt="" class="fr-dib"></a><div style="text-align:center;"><br></div><div style="text-align:center;"><b><span style="font-size:14px;">³������� "����'�������� ����� ��� ���� ������, ���� �������� � ���� ���"</span></b></div><div style="text-align:center;"><span style="font-size:14px;">�������� ����'�������� �'��� ����� ��� ���� ������, ���� �������� � ���� ���.</span></div><div style="text-align:center;"><span style="font-size:14px;">��� ����� ������ � 7 ����.</span></div><div style="text-align:center;"><span style="font-size:14px;">�����: ��������� �.�.</span></div>
+<div class="clr"></div>
+
+</div>
+<div class="short_story_b">
+<div class="short_story_b_l"><span>��������:</span> ---</div>
+<div class="short_story_b_r"><a href="https://urokok.com.ua/2042-vdeourok-rozvyazuvannya-zadach-pro-silu-tyazhnnya-silu-pruzhnost-vagu-tla.html">�� �������</a></div>
+</div>
+</div><div class="short_story"> 
+<div class="short_story_h">
+<div class="story_title"><span><a href="https://urokok.com.ua/middle-classes/2041-vdeourok-vikoristannya-zmnnih-u-komand-rozgaluzhennya-v-scratch.html">³������� &quot;��������� ������� �� ������������� ��������� ����� � Scratch&quot;</a></span></div>
+</div>
+<div class="short_story_inf">
+<div class="short_story_inf_l">
+<ul class="reset">
+<li><div class="author_ico"></div><div class="story_ico"><div><span class="author"><a onclick="ShowProfile('anatol21', 'https://urokok.com.ua/user/anatol21/', '0'); return false;" href="https://urokok.com.ua/user/anatol21/">anatol21</a></span></div></div></li>
+<li><div class="date_ico"></div><div class="story_ico"><div><span class="date">21-02-2021, 15:45</span></div></div></li>
+<li><div class="views_ico"></div><div class="story_ico"><div><span class="views">39</span></div></div></li>
+<li><div class="comm_ico"></div><div class="story_ico"><div><span class="comm">0</span></div></div></li>
+</ul>
+</div>
+
+</div>
+<div class="short_story_c">
+<a class="highslide" href="https://urokok.com.ua/uploads/posts/2021-02/1613915361_risunok1.jpg" target="_blank"><img src="/uploads/posts/2021-02/medium/1613915361_risunok1.jpg" alt="" class="fr-dib"></a><br><div style="text-align:center;"><b><span style="font-size:14px;">³������� "��������� ������� �� ������������� ��������� ����� � Scratch"</span></b></div><div style="text-align:center;"><span style="font-size:14px;">�������� ��������� ����� ������� �� ������������� ��������� �����.�</span></div><div style="text-align:center;"><span style="font-size:14px;">����������� 6 ����.</span></div><div style="text-align:center;"><span style="font-size:14px;">�����: ��������� �.�.</span></div><br>
+<div class="clr"></div>
+
+</div>
+<div class="short_story_b">
+<div class="short_story_b_l"><span>��������:</span> <a href="https://urokok.com.ua/middle-classes/">������� �����</a>         / <a href="https://urokok.com.ua/computer-science-lessons/">����� �����������</a></div>
+<div class="short_story_b_r"><a href="https://urokok.com.ua/middle-classes/2041-vdeourok-vikoristannya-zmnnih-u-komand-rozgaluzhennya-v-scratch.html">�� �������</a></div>
+</div>
+</div><div class="navigation">
+<div class="navi2_btn">
+<div class="navi2_prev"><span>&nbsp;</span></div>																																																																																							
+<div class="navi2_next"><a href="https://urokok.com.ua/page/2/">&nbsp;</a></div>
+</div>
+<div class="navi_pages"><span>1</span> <a href="https://urokok.com.ua/page/2/">2</a> <a href="https://urokok.com.ua/page/3/">3</a> <a href="https://urokok.com.ua/page/4/">4</a> <a href="https://urokok.com.ua/page/5/">5</a> <a href="https://urokok.com.ua/page/6/">6</a> <a href="https://urokok.com.ua/page/7/">7</a> <a href="https://urokok.com.ua/page/8/">8</a> <a href="https://urokok.com.ua/page/9/">9</a> <a href="https://urokok.com.ua/page/10/">10</a> <span class="nav_ext">...</span> <a href="https://urokok.com.ua/page/172/">172</a></div>
+</div></div>
+</div><!-- /side_center -->
+</div>
+</div></div>
+</div><!-- /content -->
+<div id="footer">
+<div id="footer_l">
+</div><!-- /footer_l -->
+<div id="footer_r">
+<div class="footer_r_l">
+<div class="footer_r_l_h">
+<span><font color="#3C5BE6">� urokok.com.ua  2021  �������������� ��������� �������� �������� �����-������ �1</font></span>
+<span><font color="#3C5BE6">"����" �.�������� ������� ���</font></span></div>
+<div class="footer_r_l_b">
+<div class="footer_r_l_bg"><div class="footer_r_l_bg"><div class="footer_r_l_bg">
+<span><a href="/">������� �������</a> | <a href="/index.php?do=feedback">���� �������������</a> | <a href="/rules.html">������� �����</a> | </span>
+</div></div></div>
+</div>
+</div>
+<div class="footer_r_r">
+<div class="footer_r_r_h"></div>
+<div class="footer_r_r_b">
+<ul class="reset">
+<noindex><nofollow><li><!--LiveInternet counter-->
+<script type="text/javascript">
+document.write("<a href='//www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t11.6;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";h"+escape(document.title.substring(0,150))+";"+Math.random()+
+"' alt='' title='LiveInternet: �������� ����� ���������� �� 24"+
+" ����, ����������� �� 24 ���� � �� �������' "+
+"border='0' width='88' height='31'><\/a>")
+</script><!--/LiveInternet--></li></noindex></nofollow>
+<li><noindex><nofollow><a href="https://webmaster.yandex.ru/sqi?host=urokok.com.ua"><img width="88" height="31" alt="" border="0" src="https://yandex.ru/cycounter?urokok.com.ua&theme=light&lang=ru"/></a></noindex></nofollow></li>
+<noindex><nofollow><li><!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(51779915, "init", {
+        id:51779915,
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/51779915" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter --></li></noindex></nofollow>
+</ul>
+</div>
+</div>
+</div><!-- /footer_r -->
+</div><!-- /footer -->
+</div><!-- /wrapper -->
+</div>
+</body>
+</html>
+<!-- DataLife Engine Copyright SoftNews Media Group (http://dle-news.ru) -->

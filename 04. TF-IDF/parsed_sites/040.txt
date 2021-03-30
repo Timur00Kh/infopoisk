@@ -1,0 +1,743 @@
+<!doctype html><html itemscope="" itemtype="http://schema.org/WebPage" lang="ru">	<head><base href="/" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="icon" type="image/png" href="/img/favicon.ico">
+<link rel="apple-touch-icon" sizes="180x180" href="/img/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/img/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/img/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/img/safari-pinned-tab.svg" color="#5bbad5">
+<meta name="msapplication-TileColor" content="#2b5797">
+<meta name="theme-color" content="#ffffff">
+<meta name="yandex-verification" content="5c3859f9fa9ab0d5" />
+<meta name="description" content="CERM.RU — это образовательная Онлайн-платформа. Мы проводим мониторинговые конкурсы-исследования по учебным предметам, создаём онлайн-тренажёры и проводим образовательные программы для педагогов. " />
+<!--[if lte IE 6]><link rel="stylesheet" href="/css/ie6fix.css?ver=2020-11-24" type="text/css" /><![endif]-->
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-155091228-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-155091228-1');
+</script>
+
+            <script type="text/javascript">var capabilitiesMode="soft", capabilitiesUrl="/common/jcms_capabilities.php"</script>
+            <noscript><style type="text/css">#warning_message{display: block !important}</style></noscript>
+        
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" /> 
+		<title>CERM.RU - Образовательная онлайн-платформа</title>
+		<script type="text/javascript" src="templates/jfrmwrk.js?ver=2020-11-24"></script>
+		<script type="text/javascript" src="/common/js/capabilities.js?ver=2020-11-24"></script>
+		<script type="text/javascript" src="/common/js/swiper.min.js"></script>
+		<script type="text/javascript" src="/templates/mobile/adaptive.js?ver=2020-11-24"></script>
+		<link rel="stylesheet" href="/css/japp_common.css?ver=2020-11-24" type="text/css" />
+		<link rel="stylesheet" href="/css/cerm2011.css?ver=2020-11-24" type="text/css" />
+		<link rel="stylesheet" href="/common/css/capabilities.css?ver=2020-11-24" type="text/css" />
+		<link rel="stylesheet" href="/common/css/swiper.min.css" type="text/css" />
+		<link rel="stylesheet" href="/css/splash.css?ver=2020-11-24" type="text/css" />
+		<link rel="stylesheet" href="/css/landings.css?2020-11-24" type="text/css" />
+		<link rel="stylesheet" href="/templates/mobile/adaptive.css?ver=2020-11-24" type="text/css" />
+		<script type="text/javascript">
+<!--
+
+
+            function simoraNotAvailable(e) {
+                return(true);
+                e = e || window.event;
+                e.preventDefault();
+                e.stopPropagation();
+                window.alert('На текущий момент связь с сервером отсутствует в виду проведения технических работ. Пожалуйста, повторите попытку позднее.');
+            }
+        
+//-->
+		</script>
+	</head><body><div id="warning_message"></div><script src="https://cdnjs.cloudflare.com/ajax/libs/lottie-web/5.7.3/lottie_light.min.js" integrity="sha512-AovxT5OPANQ5TdCDH2IwdrS15iX7wph2aqm35Zoss8JV0AA1tgdGQxD65NWeeWBmQz1XHXYz8klTBS/C98RQxw==" crossorigin="anonymous"></script>
+<script type="application/javascript">
+var newsData = null;
+var newsHost = '';
+var pmData = {
+    wrapper: null,
+    errorBlock: null
+};
+
+function requestNews() {
+    var source = newsHost + "?newsproxy",
+        xhr = new XMLHttpRequest();
+
+    xhr.open('GET', source, true);
+    xhr.onload = function () {
+        try { newsData = JSON.parse(xhr.responseText); }
+        catch (e) {
+            newsData = 'error';
+            console.error(e);
+        }
+    };
+    xhr.onerror = function () { newsData = 'error'; };
+    xhr.send();
+}
+function showNews() {
+    if (!newsData) setTimeout(showNews, 0);
+    else if (newsData == 'error') newsError();
+    else {
+        var blockBGTypes = [1, 2, 3, 1, 2, 3];
+
+        var newsBlocks = document.createElement('div');
+        newsBlocks.className = 'news__blocks swiper-wrapper flexbox';
+
+        for (var i = 0; i < 6; i++) {
+            newsBlocks.appendChild(createNewsBlock(newsData[i], blockBGTypes[i]));
+        }
+
+        renderNews(newsBlocks);
+    }
+}
+function createNewsBlock(data, typeBG) {
+    var link = document.createElement("a");
+    link.className = 'news__link flexbox';
+    link.href = (data.type === "full" || data.type === "link") ? data.link :
+        (data.type === "short") ? newsHost + '_user/user_app.php?mod=news#' + data.id : '';
+    link.target = '_blank';
+    link.innerHTML = '<div class="head">' +data.date + '</div><div class="body">' + data.label + '</div>';
+
+    var block = document.createElement("div");
+    block.className = 'swiper-slide news__block typeBG__' + (typeBG ? typeBG : 1);
+    block.appendChild(link);
+
+    return block;
+}
+function renderNews(content) {
+    var spinner = document.getElementById('newsSpinner');
+    spinner.classList.add('removing');
+    setTimeout(function () {
+        spinner.parentNode.removeChild(spinner);
+
+        var newsWrapper = document.getElementById('newsWrapper');
+        newsWrapper.classList.remove('prehidden');
+
+        newsWrapper.innerHTML = '';
+        var initCarousel = false;
+        if (typeof content === 'object' && content.nodeType) {
+            newsWrapper.appendChild(content);
+            initCarousel = true;
+        }
+        else {
+            newsWrapper.innerHTML = "<div class='news__empty'>Не удалось загрузить новости. Попробуйте позже.</div>";
+        }
+
+        newsWrapper.classList.add('showing');
+        initCarousel && initCarouselForNews(newsWrapper);
+    }, 120);
+}
+function newsError() {
+    renderNews();
+}
+function initCarousels() {
+    new Swiper('#swiper-1', {
+        slidesPerView: 1,
+        spaceBetween: 50,
+        speed: 500,
+        effect: 'coverflow',
+        coverflowEffect: { slideShadows: true },
+        autoplay: {
+            delay: 10000,
+            disableOnInteraction: false,
+        },
+        loop: true,
+        pagination: {
+            el: '.swiper-pagination',
+            clickable: true,
+        },
+        navigation: {
+            nextEl: '.swiper-button-next',
+            prevEl: '.swiper-button-prev',
+        }
+    });
+    new Swiper('#swiper-2', {
+        slidesPerView: 1,
+        spaceBetween: 30,
+        centeredSlides: true,
+        pagination: {
+            el: '.swiper-pagination',
+            clickable: true,
+        },
+        speed: 500,
+        loop: true,
+        loopAdditionalSlides: 1,
+        autoplay: {
+            delay: 20000,
+            disableOnInteraction: false,
+        }
+    });
+}
+function initCarouselForNews(newsWrapper) {
+    new Swiper(newsWrapper, {
+        slidesPerView: 'auto',
+        spaceBetween: 10,
+        speed: 300,
+        breakpoints: {
+            1161: { spaceBetween: 20 }
+        }
+    });
+}
+function initBannersSVGAnim() {
+    var containers = [
+        {
+            selector: '.regBanner',
+            path: 'img/redisign_2020/banners/reg.json',
+            reserve: '<img src="img/redisign_2020/banners/reg.png">'
+        },
+        {
+            selector: '.wgBanner',
+            path: 'img/redisign_2020/banners/wg.json',
+            reserve: '<img src="img/redisign_2020/banners/wg.png">'
+        },
+    ];
+    var bannersWrap = document.getElementById('banners');
+    containers.forEach(function (svgData) {
+        var banners = bannersWrap.querySelectorAll(svgData.selector);
+        Array.prototype.forEach.call(banners, function (banner) {
+            try {
+                var anim = lottie.loadAnimation({
+                    container: banner,
+                    renderer: 'svg',
+                    loop: true,
+                    autoplay: true,
+                    path: svgData.path
+                });
+                anim.addEventListener('DOMLoaded', function (e) {
+                    anim.wrapper.classList.add('fadeIn');
+                })
+            }
+            catch (err) {
+                console.log(err);
+                document.getElementById('wgBanner').innerHTML = svgData.reserve;
+            }
+        });
+    });
+}
+function initPMForm() {
+    pmData.wrapper = document.getElementById("pm");
+    pmData.errorBlock = pmData.wrapper.querySelector("#errorMsg");
+}
+function findTeacher(form) {
+    pmHideError();
+    var xhr = new XMLHttpRequest();
+
+    xhr.onload = function() {
+        try {
+            var response = JSON.parse(this.responseText);
+
+            if (response.status === 0) pmShowError(response.data);
+            else {
+                pmData.wrapper.classList.add('showing');
+                var payment_form_outer = pmData.wrapper.querySelector("#payment_form_outer");
+                payment_form_outer.innerHTML = response.data;
+                payment_form_outer.classList.remove("hidden");
+
+                initPMSubForm();
+            }
+        }
+        catch (e) {
+            var msg = "Ошибка сервера: Проверьте подключение к интернету или попробуйте позднее.";
+            console.error("Техническая информация: " + e);
+            pmShowError(msg);
+        }
+    };
+    xhr.open (form.method, form.action, true);
+    xhr.setRequestHeader("X-Requested-With", 'XMLHttpRequest');
+    xhr.send(new FormData(form));
+
+    return false;
+}
+function recommendSum(price) {
+    var payment_sum = pmData.wrapper.querySelector("#payment_sum");
+    payment_sum.value = price;
+    payment_sum.disabled = false;
+}
+function pmShowError(error) {
+    pmData.errorBlock.innerHTML = error;
+    pmData.errorBlock.classList.add('showing');
+}
+function pmHideError() {
+    pmData.errorBlock.classList.remove('showing');
+}
+function initPMSubForm() {
+    var contestInput = document.getElementById('ridx');
+    contestInput.onkeypress = function (event) {
+        event.preventDefault();
+        return;
+    }
+    contestInput.onclick = function () {
+        var isShowing = this.dataset.listshowing === '0' ? false : true;
+        openCloseContestList(contestList, !isShowing);
+        this.dataset.listshowing = !isShowing ? '1' : '0'
+    }
+
+    var contestList = document.getElementById('ridxList');
+    contestList.onclick = function (event) {
+        var target = event.target;
+        while (target != this) {
+            if (target.dataset.hasOwnProperty('price') && target.dataset.hasOwnProperty('value')) {
+                document.getElementById('ridxHidden').value = target.dataset.value;
+                contestInput.value = target.innerText;
+                recommendSum(target.dataset.price);
+                break;
+            }
+            target = target.parentNode;
+        }
+
+        contestInput.dataset.listshowing = "0";
+        openCloseContestList(this, false);
+    }
+
+    document.addEventListener('click', function(e) {
+        var target = e.target;
+        if (target != contestList && target != contestInput) {
+            contestInput.dataset.listshowing = "0";
+            openCloseContestList(this, false);
+        }
+    });
+}
+function openCloseContestList(contestList, show) {
+    document.getElementById('choose_contest').classList[show ? 'add' : 'remove']('showing');
+    document.getElementById('ridxList').classList[show ? 'add' : 'remove']('showing');
+}
+
+requestNews();
+document.addEventListener('DOMContentLoaded', function () {
+    initCarousels();
+    initBannersSVGAnim();
+    showNews();
+    initPMForm();
+});
+</script>
+
+<header><div class="header">
+            <div class="header__content flexbox">
+                <a href="https://cerm.ru/" class="logotype">
+                    <img src="https://cerm.ru/img/redisign_2020/cerm_logo.svg" alt="Центр Развития Молодёжи">
+                </a>
+                <nav class="header__links flexbox">
+                    <a href="https://emu.cerm.ru" class="header__link">Конкурсы</a>
+                    <a href="https://cerm.ru/posobiya" class="header__link">Пособия</a>
+                    <a href="http://luch.cerm.ru/" class="header__link">Обучение</a>
+                    <a href="https://login.cerm.ru/_user/user_app.php?mod=shop3" class="header__link" target="_blank">Интернет-магазин</a>
+                    <a href="http://gramotei.cerm.ru/" class="header__link" target="_blank">ВебГрамотей</a>                        
+                </nav>                       
+                <a href="https://login.cerm.ru/" id="headerLogIn">Личный Кабинет</a>
+                <div class="z_close prehidden"></div>
+            </div>
+            
+            <div id="adapt_menu" class="adapt_menu flexbox">
+                <div class="adapter1"><a><span></span></a></div>
+                <div class="adapter2">
+                    <a href="https://cerm.ru/" class="logotype"><img src="https://cerm.ru/img/redisign_2020/cerm_logo.svg"></a>
+                </div>
+                <div class="adapter3">
+                    <a href="https://login.cerm.ru"><img src="https://cerm.ru/templates/mobile/profle_mob.png"></a>
+                </div>
+            </div>              
+        </div></header>
+<main class="main wrapper">
+    <section class="container banners flexbox" id="banners">
+        <div class="swiper-container" id="swiper-1">
+            <div class="swiper-wrapper" id="banners">
+                <!-- 1 -->
+                <div class="banner flexbox swiper-slide">
+                    <div class="banner__text flexbox">
+                        <h3 class="banner__title">Конкурс-исследование<br><span style="color:#1d4983;">ЭМУ-Специалист</span><br>с 25 января 2021 года</h3>
+                        <p class="banner__description">Мониторинг предметных умений в начальной школе и функциональной грамотности по модели PISA в основной школе</p>
+                        <a href="https://emu.cerm.ru/" class="banner__link button yellow">Подробнее</a>
+                    </div>
+                    <div class="banner__image flexbox fadeIn">
+                        <img src="img/redisign_2020/banners/emu_spec.png" alt="">
+                    </div>
+                </div>
+                <!-- 2 -->
+                <div class="banner flexbox swiper-slide">
+                    <div class="banner__text flexbox">
+                        <h3 class="banner__title">Онлайн-тренажёр по русскому языку, математике и английскому языку</h3>
+                        <p class="banner__description">
+                            <span style="color: #1D4983;">Веб</span><span style="color: #E74A33;">Грамотей</span> помогает учителю формировать базовые учебные навыки школьников. Работать в тренажёре можно бесплатно.
+                        </p>
+                        <a href="https://gramotei.cerm.ru/" class="banner__link button yellow">Подробнее</a>
+                    </div>
+                    <div class="banner__image flexbox wgBanner"></div>
+                </div>
+                <!-- 3 -->
+                <div class="banner flexbox swiper-slide">
+                    <div class="banner__text flexbox">
+                        <h3 class="banner__title">Инструменты для учителей — диагностика, коррекция, обучение.</h3>
+                        <p class="banner__description"><span class="boldtext">CERM.ru</span> — образовательная онлайн-платформа для школьников и учителей</p>
+                        <a href="https://login.cerm.ru/_user/user_app.php?mod=userreg2018" class="banner__link button yellow">Регистрация для учителя</a>
+                    </div>
+                    <div class="banner__image flexbox regBanner"></div>
+                </div>
+                <!-- 4 -->
+                <div class="banner flexbox swiper-slide">
+                    <div class="banner__text flexbox">
+                        <h3 class="banner__title">ЭМУ — международный мониторинговый проект для школьников 1-9 классов</h3>
+                        <p class="banner__description"><span class="boldtext">Конкурсы-исследования «ЭМУ»</span> помогают учителю получить независимый мониторинг образовательных результатов обучающихся.</p>
+                        <a href="https://emu.cerm.ru/" class="banner__link button yellow">Подробнее</a>
+                    </div>
+                    <div class="banner__image flexbox fadeIn">
+                        <img src="img/redisign_2020/banners/emu.png" alt="">
+                    </div>
+                </div>
+            </div>
+            <div class="swiper-pagination"></div>
+        </div>
+        <div class="swiper__button swiper-button-next flexbox">
+            <img src="img/redisign_2020/banners/arrow_right.png" alt="">
+        </div>
+        <div class="swiper__button swiper-button-prev flexbox">
+            <img src="img/redisign_2020/banners/arrow_left.png" alt="">
+        </div>
+    </section>
+    <section class="container news"><div class="news__content">
+            <div class="news__wrapper prehidden swiper-container" id="newsWrapper"></div>
+            <div class="spinner flexbox" id="newsSpinner">
+                <img src="img/redisign_2020/preloader.gif" alt="">
+            </div>
+            <div class="news__allnews flexbox">
+                <a href="https://login.cerm.ru/_user/user_app.php?mod=news" target="_blank">Все новости</a>
+            </div>
+        </div></section>
+    <section class="container payment"><div id="pm" class="payment__content">
+            <div class="payment__wrapper">
+                <div class="start flexbox">
+                    <div class="action left__side">
+                        <h3 class="title">Пополнение баланса<span>только РФ<!-- и Казахстан--></span></h3>
+                        <p>Номер кабинета педагога</p>
+                        <form action="//login.cerm.ru/_user/user_app.php?" method="POST" onsubmit="return findTeacher(this)">
+                            <input type="hidden" name="mod" value="pm"/>
+                            <input type="hidden" name="do" value="pmPreFormForCermru"/>
+                            <div class="form-group flexbox">
+                                <input class="teacher__id" type="text" name="tidx" placeholder="Например, 12345">
+                                <input class="submit__button" type="submit" value="Проверить">
+                            </div>                        
+                        </form>
+                        <div class="error__msg" id="errorMsg"></div>
+                    </div>
+                    <div class="info right__side">
+                      <p class="title">Безопасно пополняйте баланс Личного кабинета педагога прямо на сайте с помощью банковской карты.</p>
+                      <div class="cards"></div>
+                      <p class="smalltext">
+                        <img src="img/redisign_2020/lighting_icon.png">Моментальное зачисление денежных средств
+                      </p>
+                    </div>
+                </div>
+                <div id="payment_form_outer" class="hidden"></div>
+            </div>
+        </div></section>
+    <section class="container quote">
+        <div class="quote_text">
+            Дайте учителю инструменты диагностики, инструменты коррекции, обучите ими пользоваться – и он <span class="yellow__underline">перевернёт мир!</span>
+        </div>
+    </section>
+    <section class="products wrapper">
+        <!-- 1 -->
+        <div class="lightyellow__bg right__img">
+            <div class="product container flexbox emu">
+                <div class="product__text flexbox">
+                    <h3 class="product__title">Конкурсы-исследования «ЭМУ» для школьников 1-9 классов</h3>
+                    <div class="product__type pink flexbox">Инструменты диагностики</div>
+                    <div class="product__description">
+                        <p>ЭМУ в 1-4 классах – помогает учителю оценить уровень сформированности предметных и метапредметных результатов образования</p>
+                        <p>ЭМУ в 5-9 классах – помогает учителю провести мониторинг функциональной грамотности школьников по модели PISA</p>
+                    </div>
+                    <div class="product__linkwrapp flexbox">
+                        <a href="https://emu.cerm.ru/" class="product__link button yellow">Подробнее об «ЭМУ»</a>
+                        <div class="count__pupil flexbox">
+                            <p class="number">650 000</p>
+                            <p class="descr">школьников ежегодно участвуют в «ЭМУ»</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="product__image flexbox">
+                    <img class="main" src="img/redisign_2020/products/product_emu.png" alt="">
+                    <img class="adaptive" src="img/redisign_2020/products/adaptive_product_emu.png" alt="">
+                </div>
+            </div>
+        </div>
+        <!-- 2 -->
+        <div class="lightyellow__bg left__img">
+            <div class="product container flexbox oko9">
+                <div class="product__image flexbox">
+                    <img class="main" src="img/redisign_2020/products/product_oko9.png" alt="">
+                    <img class="adaptive" src="img/redisign_2020/products/adaptive_product_oko9.png" alt="">
+                </div>
+                <div class="product__text flexbox">
+                    <h3 class="product__title">Некоммерческое сотрудничество с регионами</h3>
+                    <div class="product__type pink flexbox">Инструменты диагностики</div>
+                    <div class="product__description">
+                        <p>Программа «ОКО-9» позволяет региону бесплатно исследовать уровень сформированности читательской и финансовой грамотности девятиклассников</p>
+                        <p>Программа «ОРФО-9» позволяет повысить орфографическую грамотность девятиклассников с целью подготовки к ОГЭ</p>
+                    </div>
+                    <div class="product__linkwrapp flexbox">
+                        <a href="https://mim4.ru/" class="product__link button blue">Подробнее о сотрудничестве</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- 3 -->
+        <div class="right__img">
+            <div class="product container flexbox wg">
+                <div class="product__text flexbox">
+                    <h3 class="product__title">Онлайн-тренажёр<br><span style="color: #1D4983;">Веб</span><span style="color: #E74A33;">Грамотей</span></h3>
+                    <div class="product__type blue flexbox">Инструменты коррекции</div>
+                    <div class="product__description">
+                        <p>Интерактивные задания по русскому языку, математике и английскому языку. Помогает учителю формировать базовые учебные навыки школьников</p>
+                    </div>
+                    <div class="product__linkwrapp flexbox">
+                        <a href="https://gramotei.cerm.ru/" class="product__link button blue">Подробнее о «ВебГрамотей»</a>
+                        <div class="count__pupil flexbox">
+                            <p class="number">150 000</p>
+                            <p class="descr">школьников обучаются в онлайн-тренажёре ежегодно</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="product__image flexbox">
+                    <img class="main" src="img/redisign_2020/products/product_wg.png" alt="">
+                    <img class="adaptive" src="img/redisign_2020/products/adaptive_product_wg.png" alt="">
+                </div>
+            </div>
+        </div>
+        <!-- 4 -->
+        <div class="left__img">
+            <div class="product container flexbox books">
+                <div class="product__image flexbox">
+                    <img class="main" src="img/redisign_2020/products/product_books.png" alt="">
+                    <img class="adaptive" src="img/redisign_2020/products/adaptive_product_books.png" alt="">
+                </div>
+                <div class="product__text flexbox">
+                    <h3 class="product__title">Учебные пособия, рабочие тетради для школьников 1-6 классов</h3>
+                    <div class="product__type pink flexbox">Инструменты диагностики</div>
+                    <div class="product__description">
+                        <p>Авторские пособия с методическими рекомендациями для педагогов, курсами по внеурочной деятельности</p>
+                        <p>Формируют метапредметные и личностные результаты образования школьников</p>
+                    </div>
+                    <div class="product__linkwrapp flexbox">
+                        <a href="https://login.cerm.ru/_user/user_app.php?mod=shop3" class="product__link button blue">Посмотреть пособия</a>
+                        <div class="count__pupil flexbox">
+                            <p class="number">50 000</p>
+                            <p class="descr">школьников пользуются нашими пособиями ежегодно</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- 5 -->
+        <div class="lightblue__bg right__img">
+            <div class="product container flexbox moodle">
+                <div class="product__text flexbox">
+                    <h3 class="product__title">Курсы повышения квалификации для педагогов</h3>
+                    <div class="product__type pink flexbox">Инструменты обучения</div>
+                    <div class="product__description">
+                        <p>Дистанционные онлайн-мастерские, конференции, форумы и семинары по современным образовательным технологиям</p>
+                        <p>Выдаётся удостоверение о повышении квалификации</p>
+                        <p>Длительность обучения — 72 часа</p>
+                    </div>
+                    <div class="product__linkwrapp flexbox">
+                        <a href="https://luch.cerm.ru/" class="product__link button blue">Подробнее о курсах</a>
+                        <div class="count__pupil flexbox">
+                            <p class="number">1 500</p>
+                            <p class="descr">педагогов обучаются на наших курсах ежегодно</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="product__image flexbox">
+                    <img class="main" src="img/redisign_2020/products/product_moodle.png" alt="">
+                    <img class="adaptive" src="img/redisign_2020/products/adaptive_product_moodle.png" alt="">
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="container benefits">
+        <div class="benefits__content flexbox">
+            <h3>Преимущества платформы<br><span class="yellow__underline">CERM.ru</span></h3>
+            <div class="benefits__list">
+                <div class="benefit__item flexbox">
+                    <div class="benefit__number">1</div>
+                    <div class="benefit__text"><span class="boldtext">Результаты школьников</span> видны в динамике</div>
+                </div>
+                <div class="benefit__item flexbox">
+                    <div class="benefit__number">2</div>
+                    <div class="benefit__text"><span class="boldtext">Учителю легко контролировать</span> работу своих учеников</div>
+                </div>
+                <div class="benefit__item flexbox">
+                    <div class="benefit__number">3</div>
+                    <div class="benefit__text"><span class="boldtext">Объективная оценка</span> знаний каждого ученика</div>
+                </div>
+                <div class="benefit__item flexbox">
+                    <div class="benefit__number">4</div>
+                    <div class="benefit__text"><span class="boldtext">Разнообразие отчётов</span> и статистики в разрезе школы, класса и ученика</div>
+                </div>
+                <div class="benefit__item flexbox">
+                    <div class="benefit__number">5</div>
+                    <div class="benefit__text"><span class="boldtext">Научная экспертиза</span></div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="container recomendations">
+        <div class="recomendations__content">
+            <h3>Экспертиза и рекомендации</h3>
+            <div class="recomendations__files flexbox">
+                <a href="https://cerm.ru/files/Expert_EMU.pdf" target="_blank" class="recomendations__file flexbox">
+                    Экспертное заключение на тестовые задания проекта «ЭМУ» от Южно-Уральского государственного гуманитарно-педагогического университета
+                </a>
+                <a href="https://cerm.ru/files/Expert_URFU_small.pdf" target="_blank" class="recomendations__file flexbox">
+                    Научная экспертиза Уральского Федерального Университета имени первого Президента России Б.Н. Ельцина
+                </a>
+                <a href="https://cerm.ru/files/Ministry%20of%20Chelyabinsk%20oblast.pdf" target="_blank" class="recomendations__file flexbox">
+                    Письмо поддержки Министерства образования и науки Челябинской области
+                </a>
+                <a href="https://cerm.ru/files/CPKMP%20Magnitogorsk.pdf" target="_blank" class="recomendations__file flexbox">
+                    Рекомендация о программе «ОРФО-9» от Центра повышения квалификации и информационно-методической работы г.Магнитогорска
+                </a>
+            </div>
+        </div>
+    </section>
+    <section class="container comments">
+        <div class="swiper-container" id="swiper-2">
+            <div class="swiper-wrapper noselect">
+                <div class="comment flexbox swiper-slide">
+                    <div class="teacher__info flexbox">
+                        <img src="img/redisign_2020/comments/sevruk.jpg" alt="" class="teacher__foto">
+                        <div class="teacher__fioJob">
+                            <div class="teacher__name">Севрук Наталья Михайловна</div>
+                            <div class="teacher__job">Кандидат филологических наук, заведующая методическим кабинетом Управления Образования Зерноградского района Ростовской области</div>
+                        </div>
+                    </div>
+                    <div class="teacher__comment">
+                        <p>Педагоги пришли к выводу: тренажер «Веб-Грамотей» является эффективным помощником учителя в вопросах обучения орфографии.</p>
+                        <p>По их мнению, тренажёр очень полезен в период со 2 по 7 классы и в особенности во время активной подготовки учеников 9 классов к ОГЭ по русскому языку.</p>
+                        <p>Работа в программе доступна каждому, она экономит время, учителю легко отслеживать активность учеников, видеть их ошибки.</p>
+                        <p>Предоставляется возможность работать в удобное время и в удобном темпе. Учитель в режиме «онлайн» имеет возможность видеть, какой объём заданий выполнен учениками и сколько ошибок допущено.</p>
+                        <p>Грамотность обучающихся, работающих на тренажёре «Веб-Грамотей», по мнению многих педагогов, повышается.</p>
+                    </div>
+                </div>
+                <div class="comment flexbox swiper-slide unactive">
+                    <div class="teacher__info flexbox">
+                        <img src="img/redisign_2020/comments/popova.jpg" alt="" class="teacher__foto">
+                        <div class="teacher__fioJob">
+                            <div class="teacher__name">Попова Ольга Викторовна</div>
+                            <div class="teacher__job">учитель русского языка, г. Тюмень, лицей №81</div>
+                        </div>
+                    </div>
+                    <div class="teacher__comment">
+                        <p>Работаю с тренажёром два года. На практике вижу, как у детей нарабатывается автоматизм грамотного письма.</p>
+                        <p>Вызываю к доске хронического троечника писать под диктовку. Пишет трудное слово правильно.</p>
+                        <p>Пытаюсь его «подловить». Спрашиваю: «Почему ты написал именно так?».</p>
+                        <p>Молчит, глаза в пол.</p>
+                        <p>Спрашиваю ещё, прошу объяснить - молчит.</p>
+                        <p>На третий раз вспылил: «Не знаю я, почему! В тренажёре это слово постоянно мне попадается. Я столько раз его написал, что просто уже запомнил, как оно пишется!».</p>
+                    </div>
+                </div>
+                <div class="comment flexbox swiper-slide unactive">
+                    <div class="teacher__info flexbox">
+                        <img src="img/redisign_2020/comments/yarozbaeva.jpg" alt="" class="teacher__foto">
+                        <div class="teacher__fioJob">
+                            <div class="teacher__name">Ярозбаева Ирина Валерьевна</div>
+                            <div class="teacher__job">Учитель начальных классов с. Большая Уча (Республика Удмуртия)</div>
+                        </div>
+                    </div>
+                    <div class="teacher__comment">
+                        <p>Ваш тренажёр – мой бальзам: отработка навыков в новой ИКТ-форме. Просто, доступно, интересно, азартно, а главное – полезно!!!</p>
+                        <p>Давно слежу за вашей работой. Впервые познакомилась на семинаре в Ижевске. Нравятся ваши идеи, разработки, пособия. Поэтому сразу согласилась сама попробовать тренажёр и убедила почти всех учителей школы.</p>
+                        <p>Спасибо, что нашли мой номер телефона, наверно, среди миллионов других! Можете рассчитывать на меня!</p>
+                    </div>
+                </div>
+            </div>
+            <div class="swiper-pagination"></div>
+        </div>
+    </section>
+    <section class="container calltojoinus">
+        <div class="calltojoinus__content flexbox">
+            <img src="img/redisign_2020/meeting.png" alt="">
+            <h3>Присоединяйтесь к CERM.ru</h3>
+            <p>С нашими инструментами Вы улучшите успеваемость учеников и упростите свою работу</p>
+            <a href="https://login.cerm.ru/_user/user_app.php?mod=userreg2018" class="button blue">Зарегистрироваться</a>
+        </div>
+    </section>
+</main>
+<footer>        <div class="foot">
+            <div class="foot_content">
+                <div class="foot_columns flexbox">
+                    <div class="foot_column">
+                        <h2>Компания</h2>
+                        <a class="menu" href="https://cerm.ru/contacts/" target="_blank">Контакты</a>
+                        <a class="menu" href="https://cerm.ru/statistics/" target="_blank">Статистика</a>
+                        <a class="menu" href="https://cerm.ru/page/316/" target="_blank">Документы</a>
+                    </div>
+                    <div class="foot_column">
+                        <h2>Участникам</h2>
+                        <a class="menu" href="https://cerm.ru/guestbook/" target="_blank">Гостевая книга</a>
+                        <a class="menu" href="https://cerm.ru/page/295/" target="_blank">Наши проекты</a>
+                        <a class="menu" href="https://login.cerm.ru/_user/user_app.php?mod=faq" target="_blank">Вопрос-ответ</a>
+                    </div>
+                    <div class="foot_column">
+                        <h2>Миссия</h2>
+                        <div class="mission">Способствовать выходу образования на качественно новый уровень.</div>
+                        <a href="https://cerm.ru/page/351/" style="white-space: nowrap">Сведения об образовательной организации</a>
+                    </div>
+                </div>
+            </div>
+            <div class="foot_content_2 flexbox">
+                <div class="copyright">&copy; АНО «Центр Развития Молодёжи», 2008-2021</div>
+                <div class="social flexbox">
+                     <a href="https://vk.com/cerm_ru" class="social-button vk">
+                         <img alt="VK" src="data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMjQgMjQnIHhtbG5zPSdodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2Zyc+PHJlY3QgeD0nMCcgeT0nMCcgd2lkdGg9JzI0JyBoZWlnaHQ9JzI0JyBmaWxsPScjNDg3MjllJy8+PHBhdGggZD0nTTEyLjc4NSAxNi4yNDFzLjI4OC0uMDMyLjQzNi0uMTk0Yy4xMzYtLjE0OC4xMzItLjQyNy4xMzItLjQyN3MtLjAyLTEuMzA0LjU3Ni0xLjQ5NmMuNTg4LS4xOSAxLjM0MSAxLjI2IDIuMTQgMS44MTguNjA1LjQyMiAxLjA2NC4zMyAxLjA2NC4zM2wyLjEzNy0uMDNzMS4xMTctLjA3MS41ODctLjk2NGMtLjA0My0uMDczLS4zMDgtLjY2MS0xLjU4OC0xLjg3LTEuMzQtMS4yNjQtMS4xNi0xLjA1OS40NTMtMy4yNDYuOTgzLTEuMzMyIDEuMzc2LTIuMTQ1IDEuMjUzLTIuNDkzLS4xMTctLjMzMi0uODQtLjI0NC0uODQtLjI0NGwtMi40MDYuMDE1cy0uMTc4LS4wMjUtLjMxLjA1NmMtLjEzLjA3OS0uMjEyLjI2Mi0uMjEyLjI2MnMtLjM4MiAxLjAzLS44OSAxLjkwN2MtMS4wNyAxLjg1LTEuNDk5IDEuOTQ4LTEuNjc0IDEuODMyLS40MDctLjI2Ny0uMzA1LTEuMDc1LS4zMDUtMS42NDggMC0xLjc5My4yNjctMi41NC0uNTIxLTIuNzMzLS4yNjItLjA2NS0uNDU0LS4xMDctMS4xMjMtLjExNC0uODU4LS4wMDktMS41ODUuMDAzLTEuOTk2LjIwOC0uMjc0LjEzNi0uNDg1LjQ0LS4zNTYuNDU3LjE1OS4wMjIuNTE5LjA5OS43MS4zNjMuMjQ2LjM0MS4yMzcgMS4xMDcuMjM3IDEuMTA3cy4xNDIgMi4xMS0uMzMgMi4zNzFjLS4zMjUuMTgtLjc3LS4xODctMS43MjUtMS44NjUtLjQ4OS0uODU5LS44NTktMS44MS0uODU5LTEuODFzLS4wNy0uMTc2LS4xOTgtLjI3MmMtLjE1NC0uMTE1LS4zNy0uMTUxLS4zNy0uMTUxbC0yLjI4Ni4wMTVzLS4zNDMuMDEtLjQ2OS4xNjFDMy45NCA3LjcyMSA0LjA0MyA4IDQuMDQzIDhzMS43OSA0LjI1OCAzLjgxNyA2LjQwM2MxLjg1OCAxLjk2NyAzLjk2OCAxLjgzOCAzLjk2OCAxLjgzOGguOTU3eicgZmlsbD0nI0ZGRicgZmlsbC1ydWxlPSdldmVub2RkJy8+PC9zdmc+"/>
+                     </a>
+                     <a href="https://ok.ru/group/56158006673566" class="social-button ok">
+                        <img  alt="Одноклассники" src="data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjZWI3MjJlIi8+PGcgZmlsbD0iI0ZGRiIgZmlsbC1ydWxlPSJldmVub2RkIj48cGF0aCBkPSJNMTEuNjc0IDYuNTM2YTEuNjkgMS42OSAwIDAgMC0xLjY4OCAxLjY4OGMwIC45My43NTcgMS42ODcgMS42ODggMS42ODdhMS42OSAxLjY5IDAgMCAwIDEuNjg4LTEuNjg3IDEuNjkgMS42OSAwIDAgMC0xLjY4OC0xLjY4OHptMCA1Ljc2M2E0LjA4IDQuMDggMCAwIDEtNC4wNzYtNC4wNzUgNC4wOCA0LjA4IDAgMCAxIDQuMDc2LTQuMDc3IDQuMDggNC4wOCAwIDAgMSA0LjA3NyA0LjA3NyA0LjA4IDQuMDggMCAwIDEtNC4wNzcgNC4wNzV6TTEwLjAyNSAxNS42MjRhNy42MzMgNy42MzMgMCAwIDEtMi4zNjctLjk4IDEuMTk0IDEuMTk0IDAgMCAxIDEuMjcyLTIuMDIyIDUuMTc1IDUuMTc1IDAgMCAwIDUuNDg5IDAgMS4xOTQgMS4xOTQgMCAxIDEgMS4yNzIgMi4wMjIgNy42NDcgNy42NDcgMCAwIDEtMi4zNjcuOThsMi4yNzkgMi4yOGExLjE5NCAxLjE5NCAwIDAgMS0xLjY5IDEuNjg4bC0yLjIzOC0yLjI0LTIuMjQgMi4yNGExLjE5MyAxLjE5MyAwIDEgMS0xLjY4OS0xLjY4OWwyLjI3OS0yLjI3OSIvPjwvZz48L3N2Zz4="/>
+                     </a>
+                     <a href="https://www.youtube.com/channel/UCilGA88bBG9BtnWLncQtvjw" class="social-button yt">
+                        <img alt="Youtube" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBkPSJNMTAgOS4zMzNsNS4zMzMgMi42NjItNS4zMzMgMi42NzJ2LTUuMzM0em0xNC00LjMzM3YxNGMwIDIuNzYxLTIuMjM4IDUtNSA1aC0xNGMtMi43NjEgMC01LTIuMjM5LTUtNXYtMTRjMC0yLjc2MSAyLjIzOS01IDUtNWgxNGMyLjc2MiAwIDUgMi4yMzkgNSA1em0tNCA3Yy0uMDItNC4xMjMtLjMyMy01LjctMi45MjMtNS44NzctMi40MDMtLjE2NC03Ljc1NC0uMTYzLTEwLjE1MyAwLTIuNTk4LjE3Ny0yLjkwNCAxLjc0Ny0yLjkyNCA1Ljg3Ny4wMiA0LjEyMy4zMjMgNS43IDIuOTIzIDUuODc3IDIuMzk5LjE2MyA3Ljc1LjE2NCAxMC4xNTMgMCAyLjU5OC0uMTc3IDIuOTA0LTEuNzQ3IDIuOTI0LTUuODc3eiIgZmlsbD0iI2YwMCIvPjwvc3ZnPg==">
+                     </a>
+                     <a href="https://www.instagram.com/cerm.ru/" class="social-button instagram">
+                        <img alt="Instagram" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMzIuMDA0IiBoZWlnaHQ9IjEzMiIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiPjxkZWZzPjxsaW5lYXJHcmFkaWVudCBpZD0iYiI+PHN0b3Agb2Zmc2V0PSIwIiBzdG9wLWNvbG9yPSIjMzc3MWM4Ii8+PHN0b3Agc3RvcC1jb2xvcj0iIzM3NzFjOCIgb2Zmc2V0PSIuMTI4Ii8+PHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjNjBmIiBzdG9wLW9wYWNpdHk9IjAiLz48L2xpbmVhckdyYWRpZW50PjxsaW5lYXJHcmFkaWVudCBpZD0iYSI+PHN0b3Agb2Zmc2V0PSIwIiBzdG9wLWNvbG9yPSIjZmQ1Ii8+PHN0b3Agb2Zmc2V0PSIuMSIgc3RvcC1jb2xvcj0iI2ZkNSIvPjxzdG9wIG9mZnNldD0iLjUiIHN0b3AtY29sb3I9IiNmZjU0M2UiLz48c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiNjODM3YWIiLz48L2xpbmVhckdyYWRpZW50PjxyYWRpYWxHcmFkaWVudCBpZD0iYyIgY3g9IjE1OC40MjkiIGN5PSI1NzguMDg4IiByPSI2NSIgeGxpbms6aHJlZj0iI2EiIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIiBncmFkaWVudFRyYW5zZm9ybT0ibWF0cml4KDAgLTEuOTgxOTggMS44NDM5IDAgLTEwMzEuNDAyIDQ1NC4wMDQpIiBmeD0iMTU4LjQyOSIgZnk9IjU3OC4wODgiLz48cmFkaWFsR3JhZGllbnQgaWQ9ImQiIGN4PSIxNDcuNjk0IiBjeT0iNDczLjQ1NSIgcj0iNjUiIHhsaW5rOmhyZWY9IiNiIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgZ3JhZGllbnRUcmFuc2Zvcm09Im1hdHJpeCguMTczOTQgLjg2ODcyIC0zLjU4MTggLjcxNzE4IDE2NDguMzQ4IC00NTguNDkzKSIgZng9IjE0Ny42OTQiIGZ5PSI0NzMuNDU1Ii8+PC9kZWZzPjxwYXRoIGZpbGw9InVybCgjYykiIGQ9Ik02NS4wMyAwQzM3Ljg4OCAwIDI5Ljk1LjAyOCAyOC40MDcuMTU2Yy01LjU3LjQ2My05LjAzNiAxLjM0LTEyLjgxMiAzLjIyLTIuOTEgMS40NDUtNS4yMDUgMy4xMi03LjQ3IDUuNDY4QzQgMTMuMTI2IDEuNSAxOC4zOTQuNTk1IDI0LjY1NmMtLjQ0IDMuMDQtLjU2OCAzLjY2LS41OTQgMTkuMTg4LS4wMSA1LjE3NiAwIDExLjk4OCAwIDIxLjEyNSAwIDI3LjEyLjAzIDM1LjA1LjE2IDM2LjU5LjQ1IDUuNDIgMS4zIDguODMgMy4xIDEyLjU2IDMuNDQgNy4xNCAxMC4wMSAxMi41IDE3Ljc1IDE0LjUgMi42OC42OSA1LjY0IDEuMDcgOS40NCAxLjI1IDEuNjEuMDcgMTguMDIuMTIgMzQuNDQuMTIgMTYuNDIgMCAzMi44NC0uMDIgMzQuNDEtLjEgNC40LS4yMDcgNi45NTUtLjU1IDkuNzgtMS4yOCA3Ljc5LTIuMDEgMTQuMjQtNy4yOSAxNy43NS0xNC41MyAxLjc2NS0zLjY0IDIuNjYtNy4xOCAzLjA2NS0xMi4zMTcuMDg4LTEuMTIuMTI1LTE4Ljk3Ny4xMjUtMzYuODEgMC0xNy44MzYtLjA0LTM1LjY2LS4xMjgtMzYuNzgtLjQxLTUuMjItMS4zMDUtOC43My0zLjEyNy0xMi40NC0xLjQ5NS0zLjAzNy0zLjE1NS01LjMwNS01LjU2NS03LjYyNEMxMTYuOSA0IDExMS42NCAxLjUgMTA1LjM3Mi41OTYgMTAyLjMzNS4xNTcgMTAxLjczLjAyNyA4Ni4xOSAwSDY1LjAzeiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMS4wMDQgMSkiLz48cGF0aCBmaWxsPSJ1cmwoI2QpIiBkPSJNNjUuMDMgMEMzNy44ODggMCAyOS45NS4wMjggMjguNDA3LjE1NmMtNS41Ny40NjMtOS4wMzYgMS4zNC0xMi44MTIgMy4yMi0yLjkxIDEuNDQ1LTUuMjA1IDMuMTItNy40NyA1LjQ2OEM0IDEzLjEyNiAxLjUgMTguMzk0LjU5NSAyNC42NTZjLS40NCAzLjA0LS41NjggMy42Ni0uNTk0IDE5LjE4OC0uMDEgNS4xNzYgMCAxMS45ODggMCAyMS4xMjUgMCAyNy4xMi4wMyAzNS4wNS4xNiAzNi41OS40NSA1LjQyIDEuMyA4LjgzIDMuMSAxMi41NiAzLjQ0IDcuMTQgMTAuMDEgMTIuNSAxNy43NSAxNC41IDIuNjguNjkgNS42NCAxLjA3IDkuNDQgMS4yNSAxLjYxLjA3IDE4LjAyLjEyIDM0LjQ0LjEyIDE2LjQyIDAgMzIuODQtLjAyIDM0LjQxLS4xIDQuNC0uMjA3IDYuOTU1LS41NSA5Ljc4LTEuMjggNy43OS0yLjAxIDE0LjI0LTcuMjkgMTcuNzUtMTQuNTMgMS43NjUtMy42NCAyLjY2LTcuMTggMy4wNjUtMTIuMzE3LjA4OC0xLjEyLjEyNS0xOC45NzcuMTI1LTM2LjgxIDAtMTcuODM2LS4wNC0zNS42Ni0uMTI4LTM2Ljc4LS40MS01LjIyLTEuMzA1LTguNzMtMy4xMjctMTIuNDQtMS40OTUtMy4wMzctMy4xNTUtNS4zMDUtNS41NjUtNy42MjRDMTE2LjkgNCAxMTEuNjQgMS41IDEwNS4zNzIuNTk2IDEwMi4zMzUuMTU3IDEwMS43My4wMjcgODYuMTkgMEg2NS4wM3oiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDEuMDA0IDEpIi8+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTY2LjAwNCAxOGMtMTMuMDM2IDAtMTQuNjcyLjA1Ny0xOS43OTIuMjktNS4xMS4yMzQtOC41OTggMS4wNDMtMTEuNjUgMi4yMy0zLjE1NyAxLjIyNi01LjgzNSAyLjg2Ni04LjUwMyA1LjUzNS0yLjY3IDIuNjY4LTQuMzEgNS4zNDYtNS41NCA4LjUwMi0xLjE5IDMuMDUzLTIgNi41NDItMi4yMyAxMS42NUMxOC4wNiA1MS4zMjcgMTggNTIuOTY0IDE4IDY2cy4wNTggMTQuNjY3LjI5IDE5Ljc4N2MuMjM1IDUuMTEgMS4wNDQgOC41OTggMi4yMyAxMS42NSAxLjIyNyAzLjE1NyAyLjg2NyA1LjgzNSA1LjUzNiA4LjUwMyAyLjY2NyAyLjY3IDUuMzQ1IDQuMzE0IDguNSA1LjU0IDMuMDU0IDEuMTg3IDYuNTQzIDEuOTk2IDExLjY1MiAyLjIzIDUuMTIuMjMzIDYuNzU1LjI5IDE5Ljc5LjI5IDEzLjAzNyAwIDE0LjY2OC0uMDU3IDE5Ljc4OC0uMjkgNS4xMS0uMjM0IDguNjAyLTEuMDQzIDExLjY1Ni0yLjIzIDMuMTU2LTEuMjI2IDUuODMtMi44NyA4LjQ5Ny01LjU0IDIuNjctMi42NjggNC4zMS01LjM0NiA1LjU0LTguNTAyIDEuMTgtMy4wNTMgMS45OS02LjU0MiAyLjIzLTExLjY1LjIzLTUuMTIuMjktNi43NTIuMjktMTkuNzg4IDAtMTMuMDM2LS4wNi0xNC42NzItLjI5LTE5Ljc5Mi0uMjQtNS4xMS0xLjA1LTguNTk4LTIuMjMtMTEuNjUtMS4yMy0zLjE1Ny0yLjg3LTUuODM1LTUuNTQtOC41MDMtMi42Ny0yLjY3LTUuMzQtNC4zMS04LjUtNS41MzUtMy4wNi0xLjE4Ny02LjU1LTEuOTk2LTExLjY2LTIuMjMtNS4xMi0uMjMzLTYuNzUtLjI5LTE5Ljc5LS4yOXptLTQuMzA2IDguNjVjMS4yNzgtLjAwMiAyLjcwNCAwIDQuMzA2IDAgMTIuODE2IDAgMTQuMzM1LjA0NiAxOS4zOTYuMjc2IDQuNjguMjE0IDcuMjIuOTk2IDguOTEyIDEuNjUzIDIuMjQuODcgMy44MzcgMS45MSA1LjUxNiAzLjU5IDEuNjggMS42OCAyLjcyIDMuMjggMy41OTIgNS41Mi42NTcgMS42OSAxLjQ0IDQuMjMgMS42NTMgOC45MS4yMyA1LjA2LjI4IDYuNTguMjggMTkuMzlzLS4wNSAxNC4zMy0uMjggMTkuMzljLS4yMTQgNC42OC0uOTk2IDcuMjItMS42NTMgOC45MS0uODcgMi4yNC0xLjkxMiAzLjgzNS0zLjU5MiA1LjUxNC0xLjY4IDEuNjgtMy4yNzUgMi43Mi01LjUxNiAzLjU5LTEuNjkuNjYtNC4yMzIgMS40NC04LjkxMiAxLjY1NC01LjA2LjIzLTYuNTguMjgtMTkuMzk2LjI4LTEyLjgxNyAwLTE0LjMzNi0uMDUtMTkuMzk2LS4yOC00LjY4LS4yMTYtNy4yMi0uOTk4LTguOTEzLTEuNjU1LTIuMjQtLjg3LTMuODQtMS45MS01LjUyLTMuNTktMS42OC0xLjY4LTIuNzItMy4yNzYtMy41OTItNS41MTctLjY1Ny0xLjY5LTEuNDQtNC4yMy0xLjY1My04LjkxLS4yMy01LjA2LS4yNzYtNi41OC0uMjc2LTE5LjM5OHMuMDQ2LTE0LjMzLjI3Ni0xOS4zOWMuMjE0LTQuNjguOTk2LTcuMjIgMS42NTMtOC45MTIuODctMi4yNCAxLjkxMi0zLjg0IDMuNTkyLTUuNTIgMS42OC0xLjY4IDMuMjgtMi43MiA1LjUyLTMuNTkyIDEuNjkyLS42NiA0LjIzMy0xLjQ0IDguOTEzLTEuNjU1IDQuNDI4LS4yIDYuMTQ0LS4yNiAxNS4wOS0uMjd6bTI5LjkyOCA3Ljk3Yy0zLjE4IDAtNS43NiAyLjU3Ny01Ljc2IDUuNzU4IDAgMy4xOCAyLjU4IDUuNzYgNS43NiA1Ljc2IDMuMTggMCA1Ljc2LTIuNTggNS43Ni01Ljc2IDAtMy4xOC0yLjU4LTUuNzYtNS43Ni01Ljc2em0tMjUuNjIyIDYuNzNjLTEzLjYxMyAwLTI0LjY1IDExLjAzNy0yNC42NSAyNC42NSAwIDEzLjYxMyAxMS4wMzcgMjQuNjQ1IDI0LjY1IDI0LjY0NUM3OS42MTcgOTAuNjQ1IDkwLjY1IDc5LjYxMyA5MC42NSA2NlM3OS42MTYgNDEuMzUgNjYuMDAzIDQxLjM1em0wIDguNjVjOC44MzYgMCAxNiA3LjE2MyAxNiAxNiAwIDguODM2LTcuMTY0IDE2LTE2IDE2LTguODM3IDAtMTYtNy4xNjQtMTYtMTYgMC04LjgzNyA3LjE2My0xNiAxNi0xNnoiLz48L3N2Zz4=">
+                     </a>
+                </div>
+                <div class="license">Лицензия №19031 от 22.09.2016 г.</div>
+                <div class="counter">
+                <!--LiveInternet counter--><script type="text/javascript">var LI_TITLE='Лэндинги ЦРМ'; document.write("<a href='//www.liveinternet.ru/click' target=_blank><img src='//counter.yadro.ru/hit?t26.3;r" + escape(document.referrer) + ((typeof(screen)=="undefined")?"":";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?screen.colorDepth:screen.pixelDepth)) + ";u" + escape(document.URL) +";h"+escape(LI_TITLE.substring(0,80)) +  ";" + Math.random() + "' border=0 width=88 height=15><\/a>")</script><!--/LiveInternet-->
+                </div>
+            </div>
+	    </div></footer>
+
+<!--
+-->
+<!--ADMININFO-->
+<!--WARNINGS-->
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter50227303 = new Ya.Metrika2({
+                    id:50227303,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/tag.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks2");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/50227303" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter --></body></html>

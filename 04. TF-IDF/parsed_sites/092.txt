@@ -1,0 +1,1016 @@
+<!DOCTYPE html>
+<html>
+  <head lang="ru-RU">
+    <meta charset="utf-8">
+    <title>Клуб любителей английского языка - Прокачай свой английский быстро, эффективно и бесплатно!</title>
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="http://englishonlineclub.com/index.html"/>
+    <link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.englishonlineclub.com/index.html"/>
+    <link rel="alternate" media="handheld" href="http://m.englishonlineclub.com/index.html"/>
+    <meta name="description" content="☀ Бесплатный ресурс для изучения английского языка!">
+    <meta name="keywords" content="">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
+    <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link rel="stylesheet" href="http://englishonlineclub.com/styles/mine.css">
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+    <script src="https://code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
+    <link rel="author" href="https://plus.google.com/117075289265530501127">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="sitemap" type="application/xml" title="Sitemap" href="/sitemap.xml"/>
+    <meta name="google-site-verification" content="CSbv0IUycqolCUhiMdGMpKwq-agDcNsTxnIfcZGTzDE"/>
+    <meta name="msvalidate.01" content="BF888B7CB808543B8893D7BA0EFBC265" />
+    <meta name="yandex-verification" content="059767ebdab456ab" />
+    <meta name='wmail-verification' content='f373236fe584715ba3b8aa7ad419f665'/>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-114699158-1"></script>
+    <meta property="og:site_name" content="Онлайн-клуб любителей английского языка"/>
+    <meta property="og:title" content="Клуб любителей английского языка - Прокачай свой английский быстро, эффективно и бесплатно!"/>
+    <meta property="og:description" content="Бесплатный ресурс для изучения английского языка!"/>
+    <meta property="og:url" content="http://englishonlineclub.com/"/>
+    <meta property="og:image" content="/img/cov/med1.jpg"/>
+    <meta name="twitter:card" content="summary_large_image"/>
+    <!-- <meta name="twitter:site" content="@englishonlineclub"/>
+    <meta name="twitter:creator" content="@englishonlineclub"/> -->
+    <meta name="twitter:image:width" content="435">
+    <meta name="twitter:image:height" content="375">
+    <script type="text/javascript" async src="https://relap.io/api/v6/head.js?token=O0M7TspO3od6lu_q"></script>
+    <meta property="relap:article" content="0">
+    <script type="text/javascript" src="//vk.com/js/api/openapi.js?152"></script>
+    <!-- <meta name="B-verify" content="331fd3680dba7571fe351524a0d96d2ee62e1d7f"/> -->
+    <meta name="verify-admitad" content="6f8e2a0e07" />
+    <!-- TradeDoubler site verification 2996900 -->
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <script>
+      (adsbygoogle = window.adsbygoogle || []).push({
+        google_ad_client: "ca-pub-6733587136934110",
+        enable_page_level_ads: true
+      });
+    </script>
+    </head>
+  <body>
+
+    <script type="text/javascript">
+      (function(a,b){if(/(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|compal|elaine|fennec|hiptop|iemobile|ip(hone|od)|iris|kindle|lge |maemo|midp|mmp|mobile.+firefox|netfront|opera m(ob|in)i|palm( os)?|phone|p(ixi|re)\/|plucker|pocket|psp|series(4|6)0|symbian|treo|up\.(browser|link)|vodafone|wap|windows ce|xda|xiino/i.test(a)||/1207|6310|6590|3gso|4thp|50[1-6]i|770s|802s|a wa|abac|ac(er|oo|s\-)|ai(ko|rn)|al(av|ca|co)|amoi|an(ex|ny|yw)|aptu|ar(ch|go)|as(te|us)|attw|au(di|\-m|r |s )|avan|be(ck|ll|nq)|bi(lb|rd)|bl(ac|az)|br(e|v)w|bumb|bw\-(n|u)|c55\/|capi|ccwa|cdm\-|cell|chtm|cldc|cmd\-|co(mp|nd)|craw|da(it|ll|ng)|dbte|dc\-s|devi|dica|dmob|do(c|p)o|ds(12|\-d)|el(49|ai)|em(l2|ul)|er(ic|k0)|esl8|ez([4-7]0|os|wa|ze)|fetc|fly(\-|_)|g1 u|g560|gene|gf\-5|g\-mo|go(\.w|od)|gr(ad|un)|haie|hcit|hd\-(m|p|t)|hei\-|hi(pt|ta)|hp( i|ip)|hs\-c|ht(c(\-| |_|a|g|p|s|t)|tp)|hu(aw|tc)|i\-(20|go|ma)|i230|iac( |\-|\/)|ibro|idea|ig01|ikom|im1k|inno|ipaq|iris|ja(t|v)a|jbro|jemu|jigs|kddi|keji|kgt( |\/)|klon|kpt |kwc\-|kyo(c|k)|le(no|xi)|lg( g|\/(k|l|u)|50|54|\-[a-w])|libw|lynx|m1\-w|m3ga|m50\/|ma(te|ui|xo)|mc(01|21|ca)|m\-cr|me(rc|ri)|mi(o8|oa|ts)|mmef|mo(01|02|bi|de|do|t(\-| |o|v)|zz)|mt(50|p1|v )|mwbp|mywa|n10[0-2]|n20[2-3]|n30(0|2)|n50(0|2|5)|n7(0(0|1)|10)|ne((c|m)\-|on|tf|wf|wg|wt)|nok(6|i)|nzph|o2im|op(ti|wv)|oran|owg1|p800|pan(a|d|t)|pdxg|pg(13|\-([1-8]|c))|phil|pire|pl(ay|uc)|pn\-2|po(ck|rt|se)|prox|psio|pt\-g|qa\-a|qc(07|12|21|32|60|\-[2-7]|i\-)|qtek|r380|r600|raks|rim9|ro(ve|zo)|s55\/|sa(ge|ma|mm|ms|ny|va)|sc(01|h\-|oo|p\-)|sdk\/|se(c(\-|0|1)|47|mc|nd|ri)|sgh\-|shar|sie(\-|m)|sk\-0|sl(45|id)|sm(al|ar|b3|it|t5)|so(ft|ny)|sp(01|h\-|v\-|v )|sy(01|mb)|t2(18|50)|t6(00|10|18)|ta(gt|lk)|tcl\-|tdg\-|tel(i|m)|tim\-|t\-mo|to(pl|sh)|ts(70|m\-|m3|m5)|tx\-9|up(\.b|g1|si)|utst|v400|v750|veri|vi(rg|te)|vk(40|5[0-3]|\-v)|vm40|voda|vulc|vx(52|53|60|61|70|80|81|83|85|98)|w3c(\-| )|webc|whit|wi(g |nc|nw)|wmlb|wonu|x700|yas\-|your|zeto|zte\-/i.test(a.substr(0,4)))window.location=b})(navigator.userAgent||navigator.vendor||window.opera,'http://m.englishonlineclub.com/index.html');
+    </script>
+
+    <script type="text/javascript">
+      VK.init({apiId: 6383716, onlyWidgets: true});
+    </script>
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter47772961 = new Ya.Metrika2({
+                    id:47772961,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/tag.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks2");
+  </script>
+<noscript><div><img src="https://mc.yandex.ru/watch/47772961" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+<!-- Rating@Mail.ru counter -->
+<script type="text/javascript">
+var _tmr = window._tmr || (window._tmr = []);
+_tmr.push({id: "3036949", type: "pageView", start: (new Date()).getTime()});
+(function (d, w, id) {
+  if (d.getElementById(id)) return;
+  var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;
+  ts.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//top-fwz1.mail.ru/js/code.js";
+  var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+  if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+})(document, window, "topmailru-code");
+</script><noscript><div>
+<img src="//top-fwz1.mail.ru/counter?id=3036949;js=na" style="border:0;position:absolute;left:-9999px;" alt="" />
+</div></noscript>
+<!-- //Rating@Mail.ru counter -->
+<!--LiveInternet counter-->
+<script type="text/javascript">
+  new Image().src = "//counter.yadro.ru/hit?r"+
+  escape(document.referrer)+((typeof(screen)=="undefined")?"":
+  ";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+  screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+  ";h"+escape(document.title.substring(0,150))+
+  ";"+Math.random();
+</script>
+<!--/LiveInternet-->
+<!-- Default Statcounter code for EnglishOnlineClub
+http://englishonlineclub.com/ -->
+<script type="text/javascript">
+var sc_project=11691955;
+var sc_invisible=1;
+var sc_security="9033a9eb";
+</script>
+<script type="text/javascript"
+src="https://www.statcounter.com/counter/counter.js"
+async></script>
+<noscript><div class="statcounter"><a title="Web Analytics"
+href="http://statcounter.com/" target="_blank"><img
+class="statcounter"
+src="//c.statcounter.com/11691955/0/9033a9eb/1/" alt="Web
+Analytics"></a></div></noscript>
+<!-- End of Statcounter Code -->
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-114699158-1');
+</script>
+<!-- Google Search -->
+<!-- Google Mobile Adv -->
+<!-- Google -->
+
+<script>
+function includeHTML() {
+  var z, i, elmnt, file, xhttp;
+  z = document.getElementsByTagName("*");
+  for (i = 0; i < z.length; i++) {
+    elmnt = z[i];
+    file = elmnt.getAttribute("w3-include-html");
+    if (file) {
+      xhttp = new XMLHttpRequest();
+      xhttp.onreadystatechange = function() {
+        if (this.readyState == 4) {
+          if (this.status == 200) {elmnt.innerHTML = this.responseText;}
+          if (this.status == 404) {elmnt.innerHTML = "Page not found.";}
+          elmnt.removeAttribute("w3-include-html");
+          includeHTML();
+        }
+      }
+      xhttp.open("GET", file, true);
+      xhttp.send();
+      return;
+    }
+  }
+}
+</script>
+<div w3-include-html="/blog/navbar.html"></div>
+<script>
+  includeHTML();
+</script>
+
+
+<script>
+  var msg = new SpeechSynthesisUtterance('Добро пожаловать в клуб английского языка');
+    window.speechSynthesis.speak(msg);
+</script>
+
+<div class="my-magic-table" align="center"><table><tr><td id='table111' valign="top">
+  <div id='contain1test' class="container">
+
+    <script>
+    function includeHTML() {
+      var z, i, elmnt, file, xhttp;
+      z = document.getElementsByTagName("*");
+      for (i = 0; i < z.length; i++) {
+        elmnt = z[i];
+        file = elmnt.getAttribute("w3-include-html");
+        if (file) {
+          xhttp = new XMLHttpRequest();
+          xhttp.onreadystatechange = function() {
+            if (this.readyState == 4) {
+              if (this.status == 200) {elmnt.innerHTML = this.responseText;}
+              if (this.status == 404) {elmnt.innerHTML = "Page not found.";}
+              elmnt.removeAttribute("w3-include-html");
+              includeHTML();
+            }
+          }
+          xhttp.open("GET", file, true);
+          xhttp.send();
+          return;
+        }
+      }
+    }
+    </script>
+    <div w3-include-html="/blog/silicon-valley-life-youtube-channel.html"></div>
+    <script>
+      includeHTML();
+    </script>
+
+  <h1 id='header1'>Добро пожаловать в онлайн-клуб для любителей английского языка!</h1>
+  <p class="views-value"><i class="material-icons">&#xE8F4;</i> 317&#160;152</p>
+  <nav aria-label="breadcrumb" role="navigation">
+    <ol class="breadcrumb">
+      <li class="breadcrumb-item active" aria-current="page">Главная</li>
+      <li class="breadcrumb-item"><a target="_blank" href="/vocabulary/learn-words/index.html">Учить слова</a></li>
+      <li class="breadcrumb-item"><a target="_blank" href="/vocabulary/learn-phrases/index.html">Учить фразы</a></li>
+      <li class="breadcrumb-item"><a target="_blank" href="/download-books/index.html">Скачать книги и учебники 📚</a></li>
+      <li class="breadcrumb-item"><a target="_blank" href="/blog/index.html">Полезный блог</a></li>
+    </ol>
+  </nav>
+  <script src="//yastatic.net/es5-shims/0.0.2/es5-shims.min.js"></script>
+  <script src="//yastatic.net/share2/share.js"></script>
+  <div class="ya-share2" data-services="vkontakte,facebook,odnoklassniki,gplus,twitter,blogger,linkedin,lj,tumblr,viber,whatsapp,skype,telegram"></div><br>
+
+  <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+  <!-- Блок под заголовок H1 (ПК+МОБ) Адапт. -->
+  <ins class="adsbygoogle"
+       style="display:block"
+       data-ad-client="ca-pub-6733587136934110"
+       data-ad-slot="6025049504"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>
+  (adsbygoogle = window.adsbygoogle || []).push({});
+  </script>
+  <p></p>
+
+  <p><img id='photoHoriz' src="/img/ind/main-picture.jpg" alt="красивая девушка медитирует с тишине фото в позе лотоса со спины - бесплатный образовательный ресурс по изучению и онлайн клуб любителей английского языка englishonlineclub.com - национальный парк арки в юте, моаб сша">
+  <br>
+
+  <p><em>Здесь вы не только узнаете свой уровень английского языка, но и найдете эффективные упражнения, чтобы его улучшить. Вместе с нами вы сможете прокачать свой английский (чтение, говорение, аудирование, грамматику и словарный запас) абсолютно бесплатно!</em></p>
+
+  <!-- Yandex.RTB R-A-280577-7 -->
+  <div id="yandex_rtb_R-A-280577-7"></div>
+  <script type="text/javascript">
+      (function(w, d, n, s, t) {
+          w[n] = w[n] || [];
+          w[n].push(function() {
+              Ya.Context.AdvManager.render({
+                  blockId: "R-A-280577-7",
+                  renderTo: "yandex_rtb_R-A-280577-7",
+                  async: true
+              });
+          });
+          t = d.getElementsByTagName("script")[0];
+          s = d.createElement("script");
+          s.type = "text/javascript";
+          s.src = "//an.yandex.ru/system/context.js";
+          s.async = true;
+          t.parentNode.insertBefore(s, t);
+      })(this, this.document, "yandexContextAsyncCallbacks");
+  </script>
+  <p></p>
+
+  <h3>Выберите раздел для обучения английскому:</h3>
+  <br>
+  <div class="row">
+    <div id='images' class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-xs-12"><a title="Перейти в раздел" target="_blank" href="/grammar/index.html"><img class="thumbnail" src="/img/cov/cov1.jpg" alt=""><br>Учить грамматику и правила английского языка</a></div>
+    <div id='images' class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-xs-12"><a title="Перейти в раздел" target="_blank" href="/vocabulary/index.html"><img class="thumbnail" src="/img/cov/cov2.jpg" alt=""><br>Пополнить словарный запас новыми словами и фразами</a></div>
+    <div id='images' class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-xs-12"><a title="Перейти в раздел" target="_blank" href="/training/index.html"><img class="thumbnail" src="/img/cov/cov3.jpg" alt=""><br>Тренировать навыки говорения и аудирования</a></div>
+    <div id='images' class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-xs-12"><a title="Перейти в раздел" target="_blank" href="/download-books/index.html"><img class="thumbnail" src="/img/cov/cov4.jpg" alt=""><br>Скачать книги для чтения на английском бесплатно и без СМС</a></div>
+    <div id='images' class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-xs-12"><a title="Перейти в раздел" target="_blank" href="/blog/index.html"><img class="thumbnail" src="/img/cov/cov5.jpg" alt=""><br>Полезный блог: ценные советы для изучения английского языка</a></div>
+    <div id='images' class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-xs-12"><a title="Перейти в раздел" target="_blank" href="/checking-skills/index.html"><img class="thumbnail" src="/img/cov/cov6.jpg" alt=""><br>Проверить свои знания и уровень английского</a></div>
+    <div id='images' class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-xs-12"><a title="Читать далее" target="_blank" href="/grammar/alphabet-abc-song.html"><img class="thumbnail" src="/img/cov/cov7.jpg" alt=""><br>Английский алфавит для начинающих учить язык</a></div>
+    <div id='images' class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-xs-12"><a title="Перейти в раздел" target="_blank" href="/english-for-children/index.html"><img class="thumbnail" src="/img/cov/cov8.jpg" alt=""><br>Английский для детей школьного и дошкольного возраста</a></div>
+    <div id='images' class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-xs-12"><a title="Перейти в раздел" target="_blank" href="/idioms-proverbs/index.html"><img class="thumbnail" src="/img/cov/cov9.jpg" alt=""><br>Идиомы, пословицы, фразеологизмы, песни на английском</a></div>
+    <div id='images' class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-xs-12"><a title="Перейти в раздел" target="_blank" href="/preparation-for-exams/unified-state-exam-for-pupils-in-russia/index.html"><img class="thumbnail" src="/img/cov/cov10.jpg" alt=""><br>Материалы для подготовки к ЕГЭ/ОГЭ и школьным Олимпиадам по английскому</a></div>
+    <div id='images' class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-xs-12"><a title="Перейти в раздел" target="_blank" href="/preparation-for-exams/international-exams-gmat-gre-for-mba/index.html"><img class="thumbnail" src="/img/cov/cov33.jpg" alt=""><br>Как подготовиться к международным экзаменам GMAT и GRE?</a></div>
+    <div id='images' class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-xs-12"><a title="Перейти в раздел" target="_blank" href="/preparation-for-exams/english-proficiency-exams-toefl-ielts/index.html"><img class="thumbnail" src="/img/cov/cov11.jpg" alt=""><br>Учебные пособия для подготовки к тестированию TOEFL и IELTS</a></div>
+    <div id='images' class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-xs-12"><a title="Перейти в раздел" target="_blank" href="/english-for-travel/index.html"><img class="thumbnail" src="/img/cov/cov12.jpg" alt=""><br>Английский для туризма и путешествий: в отеле, в ресторане, на экскурсии, на пляже, в аэропорту</a></div>
+    <div id='images' class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-xs-12"><a title="Перейти в раздел" target="_blank" href="/movies-songs-quotes/index.html"><img class="thumbnail" src="/img/cov/cov21.jpg" alt=""><br>Говорить как носитель языка: английский по фильмам, песням, сериалам и цитатам великих людей</a></div>
+    <div id='images' class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-xs-12"><a title="Перейти в раздел" target="_blank" href="/polyglot/index.html"><img class="thumbnail" src="/img/cov/cov19.png" alt=""><br>Полиглот: смотреть все серии в онлайне бесплатно</a></div>
+    <div id='images' class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-xs-12"><a title="Открыть онлайн-радио" target="_blank" href="/training/listen-radio-online-for-free.html"><img class="thumbnail" src="/img/cov/cov20.jpg" alt=""><br>Иностранные радиостанции: слушать радио на английском языке</a></div>
+    <div id='images' class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-xs-12"><a title="Перейти в раздел" target="_blank" href="/business-english/index.html"><img class="thumbnail" src="/img/cov/cov18.jpg" alt=""><br>Деловой английский: профессиональная лексика для бизнеса</a></div>
+    <div id='images' class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-xs-12"><a title="Перейти в раздел" target="_blank" href="/tongue-twisters/index.html"><img class="thumbnail" src="/img/cov/cov22.jpg" alt=""><br>Скороговорки на английском для тренировки дикции и развития речи</a></div>
+    <div id='images' class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-xs-12"><a title="Перейти в раздел" target="_blank" href="/english-for-it-professionals/index.html"><img class="thumbnail" src="/img/cov/cov27.jpg" alt=""><br>Английский для IT-специалистов: программистов, разработчиков, веб-дизайнеров</a></div>
+    <div id='images' class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-xs-12"><a title="Перейти в раздел" target="_blank" href="/lyrics-translation/index.html"><img class="thumbnail" src="/img/cov/cov24.jpg" alt=""><br>Тексты и переводы песен с английского на русский</a></div>
+    <div id='images' class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-xs-12"><a title="Перейти в раздел" target="_blank" href="/colloquial-english/index.html"><img class="thumbnail" src="/img/cov/cov25.jpg" alt=""><br>Разговорный английский, чтобы непринужденно общаться с иностранцами</a></div>
+    <div id='images' class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-xs-12"><a title="Перейти в раздел" target="_blank" href="/preparation-for-exams/index.html"><img class="thumbnail" src="/img/cov/cov43.jpg" alt=""><br>Огромная электронная библиотека с учебниками по английскому языку для студентов, абитуриентов и школьников</a></div>
+    <div id='images' class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-xs-12"><a title="Перейти в раздел" target="_blank" href="/preparation-for-exams/professional-literature/index.html"><img class="thumbnail" src="/img/cov/cov34.jpg" alt=""><br>Профессиональная литература: экономика, финансы, бухгалтерия, управление, бизнес, юриспруденция, авиация, медицина</a></div>
+    <div id='images' class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-xs-12"><a title="Перейти в раздел" target="_blank" href="/download-books/audiobooks-free-mp3/index.html"><img class="thumbnail" src="/img/cov/cov23.jpg" alt=""><br>Аудио-книги на английском для скачивания в формате MP3 и CD-приложения для учебников</a></div>
+    <div id='images' class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-xs-12"><a title="Хочу учиться" target="_blank" rel="nofollow noopener noreferrer" href="https://www.englishdom.com/classes/group/?utm_source=inner&utm_medium=alinoidy-5b21bffc096fb&utm_content=63ri"><img class="thumbnail" src="/img/cov/cov50.jpg" alt=""><br>Записаться в разговорный онлайн-клуб для взрослых и детей старшего школьного возраста с русским, американским или британским преподавателем</a></div>
+    <div id='images' class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-xs-12"><a title="Хочу учиться" target="_blank" rel="nofollow noopener noreferrer" href="http://www.anrdoezrs.net/click-8913468-13495582"><img class="thumbnail" src="/img/cov/cov51.jpg" alt=""><br>Найти хорошего репетитора по английскому в Москве, Спб или дистанционно для подготовки к экзаменам ЕГЭ, TOEFL, IELTS, GMAT</a></div>
+    <div id='images' class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-xs-12"><a title="Хочу учиться" target="_blank" rel="nofollow noopener noreferrer" href="https://ad.admitad.com/g/aohz3bg2ar6f8e2a0e0747fc997f9b/"><img class="thumbnail" src="/img/cov/cov-englex.png" alt=""><br>Английский по скайпу в онлайн-школе Инлекс - записаться на первый урок (самые низкие цены по России - промокод WELCOME даст 3 урока бесплатно)</a></div>
+    <div id='images' class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-xs-12"><a title="Хочу приносить пользу ученикам и зарабатывать" target="_blank" rel="nofollow noopener noreferrer" href="https://ad.admitad.com/g/tqcmqmjujo6f8e2a0e0786cd98cf0a189bf064e1/"><img class="thumbnail" src="/img/cov/cov48.jpg" alt=""><br>ВАКАНСИЯ: Преподаватель английского языка в онлайн-школе - Выбрать дату для записи на собеседование и начать зарабатывать</a></div>
+    <div id='images' class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-xs-12"><a title="Хочу учиться" target="_blank" rel="nofollow noopener noreferrer" href="https://www.englishdom.com/in/63ri/"><img class="thumbnail" src="/img/cov/cov-englishdom.png" alt=""><br>Английский по скайпу в онлайн-школе EnglishDom - записаться на бесплатный вводный урок (с промокодом Partner2 вы получите 2 урока в подарок)</a></div>
+    <div id='images' class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-xs-12"><a title="Хочу учиться" target="_blank" rel="nofollow noopener noreferrer" href="https://ad.admitad.com/g/tqcmqmjujo6f8e2a0e0786cd98cf0aa7cb5d8de8/"><img class="thumbnail" src="/img/cov/cov47.jpg" alt=""><br>Английский для школьников по скайпу с преподавателем (программа для детей младшего школьного возраста и подростков) в онлайн-школе SkyEng</a></div>
+    <div id='images' class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-xs-12"><a title="Хочу учиться" target="_blank" rel="nofollow noopener noreferrer" href="https://ad.admitad.com/g/tqcmqmjujo6f8e2a0e0786cd98cf0a/"><img class="thumbnail" src="/img/cov/cov-skyeng.png" alt=""><br>Английский по скайпу в онлайн-школе SkyEng - записаться на бесплатный пробный урок (TRAVELBLOG - промокод на 2 урока в подарок для новых учеников)</a></div>
+    <div id='images' class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-xs-12"><a title="Хочу учиться" target="_blank" rel="nofollow noopener noreferrer" href="https://ad.admitad.com/g/e583077b636f8e2a0e07c814d4b7c0/"><img class="thumbnail" src="/img/cov/cov-lingualeo.png" alt=""><br>Бесплатный доступ к материалам по анлийскому - Регистрация на интерактивной платформе LinguaLeo</a></div>
+    <!-- <div id='images' class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-xs-12"><a title="Перейти в раздел" target="_blank" href="/preparation-for-exams/professional-literature/index.html"><img class="thumbnail" src="/img/cov/cov58.jpg" alt=""><br>Словари для переводчиков и различных профессий</a></div> -->
+    <div id='images' class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-xs-12"><a title="Перейти в раздел" target="_blank" href="/english-for-cabin-crew/index.html"><img class="thumbnail" src="/img/cov/cov56.png" alt=""><br>Авиационный английский для бортпроводников и пилотов - учебники, фразы и вокабуляр для стюардесс</a></div>
+    <!-- <div id='images' class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-xs-12"><a title="Перейти в раздел" target="_blank" href="#"><img class="thumbnail" src="/img/cov/cov57.jpg" alt=""><br>ГДЗ - готовая домашка для учеников гимназий и школ</a></div> -->
+    <div id='images' class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-xs-12"><a title="Хочу учиться" target="_blank" rel="nofollow noopener noreferrer" href="http://ad.admitad.com/g/0abba212ff6f8e2a0e071ac5a4392d/"><img class="thumbnail" src="/img/cov/cov-puzzleenglish.png" alt=""><br>Бесплатный доступ к материалам по анлийскому - Регистрация на интерактивной платформе Puzzle-English</a></div>
+
+
+  </div>
+
+  <style>
+     .thumbnail{
+        width: 100%;
+        height: auto;
+        border-radius: 10px;
+     };
+  </style>
+
+<!-- <h1>Внимание! Образовательный проект находится на завершающей стадии разработки. До выхода в свет осталось:</h1> -->
+<!-- <script src="http://megatimer.ru/s/b64aea7b537b9aed01d4fa8bf983c334.js"></script> -->
+<!-- <script src="http://megatimer.ru/s/e49184116bf425c0611a56f9bea59f01.js"></script> -->
+
+
+  <!-- Yandex.RTB R-A-321224-4 -->
+  <div id="yandex_rtb_R-A-321224-4"></div>
+  <script type="text/javascript">
+      (function(w, d, n, s, t) {
+          w[n] = w[n] || [];
+          w[n].push(function() {
+              Ya.Context.AdvManager.render({
+                  blockId: "R-A-321224-4",
+                  renderTo: "yandex_rtb_R-A-321224-4",
+                  async: true
+              });
+          });
+          t = d.getElementsByTagName("script")[0];
+          s = d.createElement("script");
+          s.type = "text/javascript";
+          s.src = "//an.yandex.ru/system/context.js";
+          s.async = true;
+          t.parentNode.insertBefore(s, t);
+      })(this, this.document, "yandexContextAsyncCallbacks");
+  </script>
+  <p></p>
+
+  <h1 id='header1'>Краткий гид по каждому разделу на English Online Club:</h1>
+
+  <h2 id='header2'>
+    <img class="" src="/img/abc/letters/a.png" width='100' height='95'  align="left" vspace="10" hspace="10" alt="буквы английского алфавита">
+    Раздел, который поможет <a target="_blank" href="/grammar/index.html">учить грамматику и правила английского языка</a></h2>
+  <p></p>
+
+
+
+  <h2 id='header2'>
+    <img class="" src="/img/abc/letters/b.png" width='100' height='95'  align="right" vspace="10" hspace="10" alt="буквы английского алфавита">
+    Раздел, который поможет быстро <a target="_blank" href="/vocabulary/index.html">пополнить словарный запас новыми словами и фразами</a></h2>
+  <p></p>
+
+
+
+  <h2 id='header2'>
+    <img class="" src="/img/abc/letters/c.png" width='100' height='95'  align="left" vspace="10" hspace="10" alt="буквы английского алфавита">
+    Раздел, чтобы <a target="_blank" href="/training/index.html">тренировать навыки говорения</a> и аудирования: практика на онлайн-тренажере и с носителями английского языка</h2>
+  <p></p>
+
+
+
+  <h2 id='header2'>
+    <img class="" src="/img/abc/letters/d.png" width='100' height='95'  align="right" vspace="10" hspace="10" alt="буквы английского алфавита">
+    Здесь можно <a target="_blank" href="/download-books/index.html">скачать книги для чтения на английском бесплатно</a>, без регистрации и СМС</h2>
+  <p>В разделе собраны книги известных писателей от классики до современной литературы в разных форматах для чтения. Все произведения отсортированы по уровням: Starter/Beginner, Elementary, Pre-Intermediate, Intermediate, Upper-Intermediate, Advanced, Mastery/Proficiency. Студенты и школьники смогут найти и бесплатно скачать качественные учебники по изучению грамматики для сдачи ЕГЭ или поступления в ВУЗы Европы и Америки. Родители детей дошкольного возраста смогут скачать красочные книжки на английском для малышей. А любителям послушать аудио версии книг в машине, на прогулке или в метро, доступны для скачивания аудиокниги на английском в формате mp3. Не забывайте открывать раздел как можно чаще, коллекция электронных книг на английском в формате PDF и DOC постоянно пополняется.</p>
+  <p></p>
+
+  <h2 id='header2'>
+    <img class="" src="/img/abc/letters/e.png" width='100' height='95'  align="left" vspace="10" hspace="10" alt="буквы английского алфавита">
+    В этом разделе находится <a target="_blank" href="/blog/index.html">полезный блог с ценными советами и лайфхаками для изучения английского</a></h2>
+  <p></p>
+
+
+
+  <h2 id='header2'>
+    <img class="" src="/img/abc/letters/f.png" width='100' height='95'  align="right" vspace="10" hspace="10" alt="буквы английского алфавита">
+    Раздел, который позволит <a target="_blank" href="/checking-skills/index.html">проверить свои знания и уровень английского языка</a>, не отходя от компьютера</h2>
+  <p></p>
+
+
+
+  <h2 id='header2'>
+    <img class="" src="/img/abc/letters/g.png" width='100' height='95'  align="left" vspace="10" hspace="10" alt="буквы английского алфавита">
+    <a target="_blank" href="/grammar/alphabet-abc-song.html">Английский алфавит с транскрипцией и произношением для начинающих</a> и тех, кто хочет эффективно прокачать навыки «спеллинга»</h2>
+  <p>Большое пособие с Английским алфавитом предназначено для детей и взрослых, кто только начинает учить язык. Для школьников и дошкольников мы подготовили специальные <a target="_blank" href="/english-for-children/abc-cards-for-kids.html">красочные карточки с изображениями на каждую букву</a>, которые будут понятны даже самым маленьким. Детям старшего возраста и студентам собранные материалы (подробная таблица, аудио, видео и плакаты для печати) позволят освежить в памяти произношение латинской азбуки. Взрослые ученики ресурса English Online Club смогут научиться бегло произносить слова по буквам, что в последнее время стало крайне актуальным для всех, кто собирается иммигрировать в США, Канаду, ОАЭ, Ирландию и Великобританию.</p>
+  <p></p>
+
+  <h2 id='header2'>
+    <img class="" src="/img/abc/letters/h.png" width='100' height='95'  align="right" vspace="10" hspace="10" alt="буквы английского алфавита">
+    Раздел, предназначенный специально для детей школьного и дошкольного возраста, чтобы <a target="_blank" href="/english-for-children/index.html">учить английский играючи</a></h2>
+  <p></p>
+
+
+
+
+  <h2 id='header2'>
+    <img class="" src="/img/abc/letters/i.png" width='100' height='95'  align="left" vspace="10" hspace="10" alt="буквы английского алфавита">
+    Большой раздел, где собраны <a target="_blank" href="/idioms-proverbs/index.html">идиомы, пословицы, фразеологизмы, песни на английском</a> языке</h2>
+  <p></p>
+
+
+  <h2 id='header2'>
+    <img class="" src="/img/abc/letters/j.png" width='100' height='95'  align="right" vspace="10" hspace="10" alt="буквы английского алфавита">
+    Раздел содержит <a target="_blank" href="/preparation-for-exams/unified-state-exam-for-pupils-in-russia/index.html">обучающие материалы для подготовки к ЕГЭ по английскому:</a> учебники, тесты, упражнения, книги</h2>
+  <p>Мы собрали огромную библиотеку с учебниками в электронном виде, которые помогут выпускникам 11 классов общеобразовательных школ и гимназий, а также абитуриентам в высшие учебные заведения, подготовиться ко вступительным экзаменам и успешно сдать ЕГЭ по предмету английский язык. А для тех, кому еще рано поступать в университет, в электронной библиотеке есть учебники и решебники для подготовки к ОГЭ (которые понадобятся ученикам 9 классов средней школы), а также научные пособия с заданиями повышенной сложности по английскому языку, – для детей и школьников, которые участвуют и побеждают в Олимпиадах.</p>
+
+  <h2 id='header2'>
+    <img class="" src="/img/abc/letters/k.png" width='100' height='95'  align="left" vspace="10" hspace="10" alt="буквы английского алфавита">
+    Раздел с учебными пособиями для <a target="_blank" href="/preparation-for-exams/international-exams-gmat-gre-for-mba/index.html">подготовки к международным экзаменам GMAT и GRE</a> для поступления в бакалавриат и магистратуру ведущих университетов мира, а также на программы MBA</h2>
+  <p></p>
+
+
+
+
+  <h2 id='header2'>
+    <img class="" src="/img/abc/letters/l.png" width='100' height='95'  align="right" vspace="10" hspace="10" alt="буквы английского алфавита">
+    Раздел о том, <a target="_blank" href="/preparation-for-exams/english-proficiency-exams-toefl-ielts/index.html">как подготовиться к международному языковому тестированию TOEFL или IELTS</a>, чтобы поехать учиться и работать за границу</h2>
+  <p></p>
+
+
+
+
+  <h2 id='header2'>
+    <img class="" src="/img/abc/letters/m.png" width='100' height='95'  align="left" vspace="10" hspace="10" alt="буквы английского алфавита">
+    Раздел с <a target="_blank" href="/english-for-travel/index.html">английским для туризма и путешествий</a>, где собрано всё, что вам может понадобиться во время поездки в другую страну</h2>
+  <p>Как разговаривать с персоналом в отеле, в ресторане, на экскурсии, на пляже, в аэропорту.</p>
+  <p></p>
+
+
+
+  <h2 id='header2'>
+    <img class="" src="/img/abc/letters/n.png" width='100' height='95'  align="right" vspace="10" hspace="10" alt="буквы английского алфавита">
+    <a target="_blank" href="/business-english/index.html">Английский язык для работы и бизнеса</a>: деловое общение с зарубежными партнёрами, иностранными клиентами и коллегами за границей</h2>
+  <p>Данный раздел включает в себя профессиональную лексику, как по наиболее распространённым, так и по редким специфическим профессиям. Будет полезен как девушкам, которые хотят работать стюардессой на борту самолета, летать по миру и обеспечивать безопасность пассажиров разных национальностей, так и парням, которые планируют устроиться программистом в иностранной IT-компании. Студенты смогут выучить лексику по своей специальности и правильно составить CV на английском. Руководители бизнеса научатся вести переговоры с потенциальными партнёрами и заказчиками из других стран и континентов.</p>
+  <p></p>
+
+  <h2 id='header2'>
+    <img class="" src="/img/abc/letters/o.png" width='100' height='95'  align="left" vspace="10" hspace="10" alt="буквы английского алфавита">
+    Смотрите <a target="_blank" href="/polyglot/index.html">все серии Полиглота с Дмитрием Петровым</a> на сайте, бесплатно, без рекламы с YouTube и без регистрации</h2>
+  <p>Здесь можно посмотреть все серии уникального курса английского языка «Полиглот», автором которого является российский синхронный переводчик, полиглот и преподаватель, Дмитрий Юрьевич Петров. Чтобы смотреть все видео с Полиглотом, не нужно открывать Ютуб, достаточно выбрать нужную серию и смотреть урок прямо в браузере. Специально для наших читателей просмотр обучающих видео доступен бесплатно и без регистрации. К выходу в свет готовится также печатная версия с подробными материалами по каждому уроку, так что не забудьте <span id='bookmark' style="color: blue;">добавить наш сайт в закладки</span>.</p>
+  <p></p>
+
+  <h2 id='header2'>
+    <img class="" src="/img/abc/letters/p.png" width='100' height='95'  align="right" vspace="10" hspace="10" alt="буквы английского алфавита">
+    <a target="_blank" href="/training/listen-radio-online-for-free.html">Слушать радио на английском языке</a>: список иностранных онлайн-радиостанций, которые помогут улучшить понимание языка</h2>
+  <p></p>
+
+
+
+
+  <h2 id='header2'>
+    <img class="" src="/img/abc/letters/q.png" width='100' height='95'  align="left" vspace="10" hspace="10" alt="буквы английского алфавита">
+    Говорить как носитель языка: <a target="_blank" href="/movies-songs-quotes/index.html">учить английский по фильмам и сериалам в оригинале, песням и цитатам великих людей</a></h2>
+  <p>Раздел будет крайне полезен, если вы любите смотреть фильмы и сериалы в оригинале, и хотите лучше понимать повседневную английскую речь на слух. Здесь вы найдете фразы с переводом и озвучиванием от ваших любимых героев и актеров. Мы собрали комедии, драмы, боевики, детективы и шпионские телесериалы и распределили и по уровням владения языком, чтобы вам было проще изучать и совершенствовать английский. В качестве бонуса вы также найдете внутри известные цитаты великих людей: политиков, музыкантов, актеров, философов и писателей. Каждая цитата имеет перевод на русский и озвучку на английском.</p>
+  <p></p>
+
+  <h2 id='header2'>
+    <img class="" src="/img/abc/letters/r.png" width='100' height='95'  align="right" vspace="10" hspace="10" alt="буквы английского алфавита">
+    Раздел, который поможет бегло заговорить на английском: <a target="_blank" href="/tongue-twisters/index.html">сборник скороговорок на английском для тренировки дикции и развития речи</a></h2>
+  <p></p>
+
+
+
+  <h2 id='header2'>
+    <img class="" src="/img/abc/letters/s.png" width='100' height='95'  align="left" vspace="10" hspace="10" alt="буквы английского алфавита">
+    <a target="_blank" href="/download-books/audiobooks-free-mp3/index.html">Аудио-книги и CD-приложения к учебникам на английском для скачивания в формате MP3</a>, чтобы слушать английскую речь в любое время дома, в машине, метро и офисе</h2>
+  <p>Здесь собрана коллекция аудиокниг на английском для бесплатного скачивания. Книги в аудио-формате можно слушать в машине, метро, самолете, на вокзале и в аэропорту, во время прогулок в парке и занятий спортом. А для студентов и всех, кто готовится к международным экзаменам по английскому и хочет подтянуть язык и говорить с определенным акцентов (британским или американским), – мы подготовили целый список аудио-приложений к учебникам из библиотек Кембриджа и Оксфорда, которые доступны бесплатно в формате mp3.</p>
+  <p></p>
+
+  <h2 id='header2'>
+    <img class="" src="/img/abc/letters/t.png" width='100' height='95'  align="right" vspace="10" hspace="10" alt="буквы английского алфавита">
+    Как научиться говорить и понимать на слух: <a target="_blank" href="/lyrics-translation/index.html">тексты и переводы песен с английского на русский</a></h2>
+  <p>В этот раздел мы добавляем тексты и переводы песен с английского на русский, детальное изучение которых поможет понимать на слух английскую разговорную речь. Так как песни в основном состоят из сленга и речевых оборотов, рекомендуем постоянно учить слова песен и подпевать вместе с исполнителем. Для этого, к каждому переводу песни мы прикрепляем видео-клип. Если вы хотите, чтобы в разделе появилась ваша любимая песня, – сообщите нам об этом ниже в комментариях. Раздел регулярно пополняется новыми и старыми, хорошо полюбившимися всем, хитами, а также песнями по заявкам наших читателей.</p>
+  <p></p>
+
+  <h2 id='header2'>
+    <img class="" src="/img/abc/letters/u.png" width='100' height='95'  align="left" vspace="10" hspace="10" alt="буквы английского алфавита">
+    <a target="_blank" href="/colloquial-english/index.html">Разговорный английский</a>, чтобы непринужденно общаться с иностранцами</h2>
+  <p>Специальный раздел, где собраны диалоги, речевые обороты, пословицы и идиомы для повседневного общения. Материалы будут полезны всем, кто часто путешествует, имеет друзей за границей, любит встречать новых людей, знакомиться и общаться с иностранцами и практиковать свою английскую речь в реальной жизни. Здесь вы научитесь не только навыкам поддержать обычную повседневную беседу, но и станете непринужденно разговаривать практически на любые темы, тем самым будете чувствовать себя уверенно за границей в компании иностранцев. Не забывайте заниматься регулярно и <a target="_blank" href="/vocabulary/index.html">пополнять словарный запас</a>.</p>
+  <p></p>
+
+  <h2 id='header2'>
+    <img class="" src="/img/abc/letters/v.png" width='100' height='95'  align="right" vspace="10" hspace="10" alt="буквы английского алфавита">
+    <a target="_blank" href="/english-for-it-professionals/index.html">Английский для IT-специалистов</a>: программистов, разработчиков, веб-дизайнеров</h2>
+  <p>Раздел будет полезен студентам технических специальностей, а также тем, кто уже устроился в IT-компанию и разрабатывает высокотехнологичные проекты. В независимости от того, на каком языке программирования вы пишете код, здесь вы сможете прокачать английскую терминологию для айтишников. В качестве бонуса мы также собрали <a target="_blank" href="/preparation-for-exams/programming-books-for-coders-of-all-levels/index.html">электронную библиотеку</a> с книгами на английском для front-end и back-end девелоперов, web-дизайнеров, разработчиков мобильных приложений и инженеров-программистов. Если ты не устаешь совершенствовать свои навыки – заходи!</p>
+  <p></p>
+
+<!-- wxyz -->
+
+
+  <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+  <!-- Блок под заголовок H1 (ПК+МОБ) Адапт. -->
+  <ins class="adsbygoogle"
+       style="display:block"
+       data-ad-client="ca-pub-6733587136934110"
+       data-ad-slot="6025049504"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>
+  (adsbygoogle = window.adsbygoogle || []).push({});
+  </script>
+  <p></p>
+
+
+  <script>
+  function includeHTML() {
+    var z, i, elmnt, file, xhttp;
+    z = document.getElementsByTagName("*");
+    for (i = 0; i < z.length; i++) {
+      elmnt = z[i];
+      file = elmnt.getAttribute("w3-include-html");
+      if (file) {
+        xhttp = new XMLHttpRequest();
+        xhttp.onreadystatechange = function() {
+          if (this.readyState == 4) {
+            if (this.status == 200) {elmnt.innerHTML = this.responseText;}
+            if (this.status == 404) {elmnt.innerHTML = "Page not found.";}
+            elmnt.removeAttribute("w3-include-html");
+            includeHTML();
+          }
+        }
+        xhttp.open("GET", file, true);
+        xhttp.send();
+        return;
+      }
+    }
+  }
+  </script>
+  <div w3-include-html="/blog/subscribe-to-my-channel.html"></div>
+  <script>
+    includeHTML();
+  </script>
+
+  <!-- <center>
+    <script type='text/javascript' id="s-b151f4fbe9b66b49">!function(t,e,n,o,a,c,s){t[a]=t[a]||function(){(t[a].q=t[a].q||[]).push(arguments)},t[a].l=1*new Date,c=e.createElement(n),s=e.getElementsByTagName(n)[0],c.async=1,c.src=o,s.parentNode.insertBefore(c,s)}(window,document,"script","//vidalak.com/player/","vbm"); vbm('get', {"platformId":122340,"format":2,"align":"top","width":"550","height":"350","sig":"b151f4fbe9b66b49"});</script>
+  </center>
+  <br> -->
+
+  <h3 id='header3'>Учишь английский в English Online Club? Расскажи друзьям:</h3>
+    <script type="text/javascript">(function() {
+    if (window.pluso)if (typeof window.pluso.start == "function") return;
+    if (window.ifpluso==undefined) { window.ifpluso = 1;
+    var d = document, s = d.createElement('script'), g = 'getElementsByTagName';
+    s.type = 'text/javascript'; s.charset='UTF-8'; s.async = true;
+    s.src = ('https:' == window.location.protocol ? 'https' : 'http')  + '://share.pluso.ru/pluso-like.js';
+    var h=d[g]('body')[0];
+    h.appendChild(s);
+    }})();</script>
+    <div class="pluso" data-lang="en" data-background="transparent" data-options="big,square,line,horizontal,counter,theme=08" data-services="facebook,twitter,linkedin,google,vkontakte,odnoklassniki,livejournal,pinterest,email,print"></div>
+
+    <script>
+    function includeHTML() {
+      var z, i, elmnt, file, xhttp;
+      z = document.getElementsByTagName("*");
+      for (i = 0; i < z.length; i++) {
+        elmnt = z[i];
+        file = elmnt.getAttribute("w3-include-html");
+        if (file) {
+          xhttp = new XMLHttpRequest();
+          xhttp.onreadystatechange = function() {
+            if (this.readyState == 4) {
+              if (this.status == 200) {elmnt.innerHTML = this.responseText;}
+              if (this.status == 404) {elmnt.innerHTML = "Page not found.";}
+              elmnt.removeAttribute("w3-include-html");
+              includeHTML();
+            }
+          }
+          xhttp.open("GET", file, true);
+          xhttp.send();
+          return;
+        }
+      }
+    }
+    </script>
+    <div w3-include-html="/blog/promo-links.html"></div>
+    <script>
+      includeHTML();
+    </script>
+
+    <script id="-wT7P_8_yv8Fr-3t">if (window.relap) window.relap.ar('-wT7P_8_yv8Fr-3t');</script>
+
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <!-- Блок 728x90 под виджеты РЕЛАП или ДИСКАСС (ПК) -->
+    <ins class="adsbygoogle"
+         style="display:inline-block;width:728px;height:90px"
+         data-ad-client="ca-pub-6733587136934110"
+         data-ad-slot="9914293245"></ins>
+    <script>
+    (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+    <p></p>
+
+    <!-- Yandex.RTB R-A-321224-6 -->
+    <div id="yandex_rtb_R-A-321224-6"></div>
+    <script type="text/javascript">
+        (function(w, d, n, s, t) {
+            w[n] = w[n] || [];
+            w[n].push(function() {
+                Ya.Context.AdvManager.render({
+                    blockId: "R-A-321224-6",
+                    renderTo: "yandex_rtb_R-A-321224-6",
+                    async: true
+                });
+            });
+            t = d.getElementsByTagName("script")[0];
+            s = d.createElement("script");
+            s.type = "text/javascript";
+            s.src = "//an.yandex.ru/system/context.js";
+            s.async = true;
+            t.parentNode.insertBefore(s, t);
+        })(this, this.document, "yandexContextAsyncCallbacks");
+    </script>
+    <p></p>
+
+    <script id="UbCwVZlYnWacRERE">if (window.relap) window.relap.ar('UbCwVZlYnWacRERE');</script>
+
+    <center>
+      <p><a target="_blank" rel="nofollow" href="https://ad.admitad.com/g/v2v9y1p8e46f8e2a0e071ac5a4392d/?i=4"><img width="728" height="90" border="0" src="https://ad.admitad.com/b/v2v9y1p8e46f8e2a0e071ac5a4392d/" alt="Puzzle English"/></a></p>
+    </center>
+
+  </div>
+
+
+</td><td id='table222' align="center" valign="top">
+
+  <script>
+    (function() {
+      var cx = '016868305700182628948:xx9eiaylpki';
+      var gcse = document.createElement('script');
+      gcse.type = 'text/javascript';
+      gcse.async = true;
+      gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(gcse, s);
+    })();
+  </script>
+  <gcse:searchbox-only></gcse:searchbox-only>
+  <p></p>
+
+  <!-- weather widget start --><div id="m-booked-weather-bl250-93034"> <div class="booked-wzs-250-175 weather-customize" style="background-color:#ff2626;width:250px;" id="width1"> <div class="booked-wzs-250-175_in"> <div class="booked-wzs-250-175-data"> <div class="booked-wzs-250-175-left-img wrz-18"> <a target="_blank" href="http://www.booked.net/"> <img src="//s.bookcdn.com/images/letter/logo.gif" alt="booked.net" /> </a> </div> <div class="booked-wzs-250-175-right"> <div class="booked-wzs-day-deck"> <div class="booked-wzs-day-val"> <div class="booked-wzs-day-number"><span class="plus">+</span>4</div> <div class="booked-wzs-day-dergee"> <div class="booked-wzs-day-dergee-val">&deg;</div> <div class="booked-wzs-day-dergee-name">C</div> </div> </div> <div class="booked-wzs-day"> <div class="booked-wzs-day-d">H: <span class="plus">+</span>4&deg;</div> <div class="booked-wzs-day-n">L: <span class="plus">+</span>1&deg;</div> </div> </div> <div class="booked-wzs-250-175-info"> <div class="booked-wzs-250-175-city">London </div> <div class="booked-wzs-250-175-date">Wednesday, 21 February</div> <div class="booked-wzs-left"> <span class="booked-wzs-bottom-l">See 7-Day Forecast</span> </div> </div> </div> </div> <a target="_blank" href="http://www.booked.net/weather/london-18114"> <table cellpadding="0" cellspacing="0" class="booked-wzs-table-250"> <tr> <td>Thu</td> <td>Fri</td> <td>Sat</td> <td>Sun</td> <td>Mon</td> <td>Tue</td> </tr> <tr> <td class="week-day-ico"><div class="wrz-sml wrzs-01"></div></td> <td class="week-day-ico"><div class="wrz-sml wrzs-01"></div></td> <td class="week-day-ico"><div class="wrz-sml wrzs-06"></div></td> <td class="week-day-ico"><div class="wrz-sml wrzs-01"></div></td> <td class="week-day-ico"><div class="wrz-sml wrzs-22"></div></td> <td class="week-day-ico"><div class="wrz-sml wrzs-22"></div></td> </tr> <tr> <td class="week-day-val"><span class="plus">+</span>5&deg;</td> <td class="week-day-val"><span class="plus">+</span>4&deg;</td> <td class="week-day-val"><span class="plus">+</span>4&deg;</td> <td class="week-day-val"><span class="plus">+</span>2&deg;</td> <td class="week-day-val"><span class="plus">+</span>2&deg;</td> <td class="week-day-val"><span class="plus">+</span>2&deg;</td> </tr> <tr> <td class="week-day-val">-3&deg;</td> <td class="week-day-val">-2&deg;</td> <td class="week-day-val">-4&deg;</td> <td class="week-day-val">0&deg;</td> <td class="week-day-val">-1&deg;</td> <td class="week-day-val">-1&deg;</td> </tr> </table> </a> </div></div> </div><script type="text/javascript"> var css_file=document.createElement("link"); css_file.setAttribute("rel","stylesheet"); css_file.setAttribute("type","text/css"); css_file.setAttribute("href",'https://s.bookcdn.com/css/w/booked-wzs-widget-275.css?v=0.0.1'); document.getElementsByTagName("head")[0].appendChild(css_file); function setWidgetData(data) { if(typeof(data) != 'undefined' && data.results.length > 0) { for(var i = 0; i < data.results.length; ++i) { var objMainBlock = document.getElementById('m-booked-weather-bl250-93034'); if(objMainBlock !== null) { var copyBlock = document.getElementById('m-bookew-weather-copy-'+data.results[i].widget_type); objMainBlock.innerHTML = data.results[i].html_code; if(copyBlock !== null) objMainBlock.appendChild(copyBlock); } } } else { alert('data=undefined||data.results is empty'); } } </script> <script type="text/javascript" charset="UTF-8" src="https://widgets.booked.net/weather/info?action=get_weather_info&ver=6&cityID=18114&type=3&scode=124&ltid=3540&domid=&anc_id=57524&cmetric=1&wlangID=1&color=ff2626&wwidth=250&header_color=ffffff&text_color=333333&link_color=08488D&border_form=1&footer_color=ffffff&footer_text_color=333333&transparent=0"></script><!-- weather widget end -->
+  <p></p>
+
+  <!-- Блок в колонку с рекламой БОЛЬШОЙ (ПК) Фикс. 300x600 -->
+  <ins class="adsbygoogle"
+       style="display:inline-block;width:300px;height:600px"
+       data-ad-client="ca-pub-6733587136934110"
+       data-ad-slot="9908454196"></ins>
+  <script>
+  (adsbygoogle = window.adsbygoogle || []).push({});
+  </script>
+  <p></p>
+
+  <!-- Yandex.RTB R-A-321224-10 -->
+  <div id="yandex_rtb_R-A-321224-10"></div>
+  <script type="text/javascript">
+      (function(w, d, n, s, t) {
+          w[n] = w[n] || [];
+          w[n].push(function() {
+              Ya.Context.AdvManager.render({
+                  blockId: "R-A-321224-10",
+                  renderTo: "yandex_rtb_R-A-321224-10",
+                  async: true
+              });
+          });
+          t = d.getElementsByTagName("script")[0];
+          s = d.createElement("script");
+          s.type = "text/javascript";
+          s.src = "//an.yandex.ru/system/context.js";
+          s.async = true;
+          t.parentNode.insertBefore(s, t);
+      })(this, this.document, "yandexContextAsyncCallbacks");
+  </script>
+  <p></p>
+
+  <div id="vk_poll"></div>
+  <script type="text/javascript">
+    VK.Widgets.Poll("vk_poll", {width: "300"}, "301092820_59608123aab2d6b6fb");
+  </script>
+  <p></p>
+
+  <!-- Yandex.RTB R-A-321224-11 -->
+  <div id="yandex_rtb_R-A-321224-11"></div>
+  <script type="text/javascript">
+      (function(w, d, n, s, t) {
+          w[n] = w[n] || [];
+          w[n].push(function() {
+              Ya.Context.AdvManager.render({
+                  blockId: "R-A-321224-11",
+                  renderTo: "yandex_rtb_R-A-321224-11",
+                  async: true
+              });
+          });
+          t = d.getElementsByTagName("script")[0];
+          s = d.createElement("script");
+          s.type = "text/javascript";
+          s.src = "//an.yandex.ru/system/context.js";
+          s.async = true;
+          t.parentNode.insertBefore(s, t);
+      })(this, this.document, "yandexContextAsyncCallbacks");
+  </script>
+  <p></p>
+
+  <script id="d4h3NfU1DTjCr83N">if (window.relap) window.relap.ar('d4h3NfU1DTjCr83N');</script>
+
+  <script id="HV5el5lYJ90nJycn">if (window.relap) window.relap.ar('HV5el5lYJ90nJycn');</script>
+
+  <!-- Yandex.RTB R-A-321224-1 -->
+  <div id="yandex_rtb_R-A-321224-1"></div>
+  <script type="text/javascript">
+      (function(w, d, n, s, t) {
+          w[n] = w[n] || [];
+          w[n].push(function() {
+              Ya.Context.AdvManager.render({
+                  blockId: "R-A-321224-1",
+                  renderTo: "yandex_rtb_R-A-321224-1",
+                  async: true
+              });
+          });
+          t = d.getElementsByTagName("script")[0];
+          s = d.createElement("script");
+          s.type = "text/javascript";
+          s.src = "//an.yandex.ru/system/context.js";
+          s.async = true;
+          t.parentNode.insertBefore(s, t);
+      })(this, this.document, "yandexContextAsyncCallbacks");
+  </script>
+  <p></p>
+
+  <script id="Uvv7z8EAN803Dg4O">if (window.relap) window.relap.ar('Uvv7z8EAN803Dg4O');</script>
+
+    <!-- <center>
+      <p id='span2'>
+        &darr; &darr; &darr;<br>
+        <a class="btn btn btn-outline-danger btn-lg float-auto" href="http://m.englishonlineclub.com/" role="button">
+          <strong>Жми сюда, если<br>
+          зашёл с планшета!</strong>
+          <br><i class="material-icons md-48">&#xE154;&#xE331;&#xE5CA;</i>
+        </a>
+        <br>&uarr; &uarr; &uarr;
+      </p>
+    </center>
+    <p></p> -->
+
+    <!-- <center>
+      <a target="_blank" href="https://clk.tradedoubler.com/click?p=232108&a=2996900&g=21113908" rel="nofollow noopener noreferrer"><img id="banner-sky" src="/img/ind/avia-tick.jpg" alt=""></a>
+      <br><span id='span2'><em>Планируешь лететь за границу<br>отдыхать, работать и учиться?<br>Сравни цены на авиабилеты:<br></em></span>
+    </center>
+    <p></p>
+
+    <center>
+      <div data-skyscanner-widget="SearchWidget" data-locale="ru-RU" data-affiliate="network:TDBL;publisher:2996900;market:RU"></div>
+      <script src="https://widgets.skyscanner.net/widget-server/js/loader.js" async></script>
+    </center>
+    <p></p> -->
+
+    <!-- <center>
+      <p id='span3'>
+        &darr; &darr; &darr;<br>
+        <a class="btn btn-outline-primary btn-lg float-auto" href="http://m.englishonlineclub.com/" role="button">
+          <strong>Я со смартфона,<br>
+          <i class="material-icons md-24"> &#xE324;</i>&#160; перейти на &#160;<i class="material-icons md-24">&#xE325;</i>
+          <br>мобильную версию</strong>
+        </a>
+        <br>&uarr; &uarr; &uarr;
+      </p>
+    </center>
+    <p></p> -->
+
+    <!-- <center>
+      <a target="_blank" href="/blog/poll.html"><img src="/img/ind/poll-bann.jpg" alt="опрос вbtn-md float-autoкте для чего тебе нужно выучить английский язык"></a>
+    </center>
+    <p></p> -->
+
+
+</td></tr></table></div>
+
+
+  <div id='contain2' class="container">
+
+    <script>
+    function includeHTML() {
+      var z, i, elmnt, file, xhttp;
+      z = document.getElementsByTagName("*");
+      for (i = 0; i < z.length; i++) {
+        elmnt = z[i];
+        file = elmnt.getAttribute("w3-include-html");
+        if (file) {
+          xhttp = new XMLHttpRequest();
+          xhttp.onreadystatechange = function() {
+            if (this.readyState == 4) {
+              if (this.status == 200) {elmnt.innerHTML = this.responseText;}
+              if (this.status == 404) {elmnt.innerHTML = "Page not found.";}
+              elmnt.removeAttribute("w3-include-html");
+              includeHTML();
+            }
+          }
+          xhttp.open("GET", file, true);
+          xhttp.send();
+          return;
+        }
+      }
+    }
+    </script>
+    <div w3-include-html="/blog/silicon-valley-life-videos.html"></div>
+    <script>
+      includeHTML();
+    </script>
+
+    <!-- Yandex.RTB R-A-321224-5 -->
+    <div id="yandex_rtb_R-A-321224-5"></div>
+    <script type="text/javascript">
+        (function(w, d, n, s, t) {
+            w[n] = w[n] || [];
+            w[n].push(function() {
+                Ya.Context.AdvManager.render({
+                    blockId: "R-A-321224-5",
+                    renderTo: "yandex_rtb_R-A-321224-5",
+                    async: true
+                });
+            });
+            t = d.getElementsByTagName("script")[0];
+            s = d.createElement("script");
+            s.type = "text/javascript";
+            s.src = "//an.yandex.ru/system/context.js";
+            s.async = true;
+            t.parentNode.insertBefore(s, t);
+        })(this, this.document, "yandexContextAsyncCallbacks");
+    </script>
+    <p></p>
+
+    <br>
+    <p><font color="#9CAFB5"><em>Содержимое сайта является объектом интеллектуальной собственности. При использовании/копировании/перепечатке любых материалов обязательна прямая индексируемая гиперссылка на ресурс <strong>www.englishonlineclub.com</strong> (активная ссылка на страницу с данной публикацией) в первом абзаце вашего текста.</em></font></p>
+    <p><font color="#9CAFB5"><em>По вопросам рекламы и сотрудничества отправляйте предложения и контактные данные на электронный адрес <b>EnglishOnlineClub.com@gmail.com</b>, администрация ресурса обязательно свяжется с Вами в случае заинтересованности.</em></font></p>
+    <br>
+
+    <center>
+      <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- Блок в конец страницы на ПК - Адаптивные ссылки -->
+      <ins class="adsbygoogle"
+           style="display:block"
+           data-ad-client="ca-pub-6733587136934110"
+           data-ad-slot="9902684951"
+           data-ad-format="link"
+           data-full-width-responsive="true"></ins>
+      <script>
+      (adsbygoogle = window.adsbygoogle || []).push({});
+      </script>
+      <p></p>
+    </center>
+  </div>
+
+
+    <style>
+        #back-top{
+            position:fixed;
+            bottom:20px;
+            right: 30px;
+            display: none;
+        }
+        #back-top a{
+            width:50px;
+            display:block;
+            text-align:center;
+            font:11px/100% Arial, Helvetica, sans-serif;
+            text-transform:uppercase;
+            text-decoration:none;
+            color:#bbb;
+            -webkit-transition:1s;
+            -moz-transition:1s;
+            transition:1s;
+        }
+        #back-top a:hover{
+            color:#000;
+        }
+        #back-top span{
+            width:50px;
+            height:80px;
+            display:block;
+            margin-bottom:7px;
+            background:#ddd url(/img/ind/kosmo-rocket.png) no-repeat center center;
+            -webkit-border-radius:15px;
+            -moz-border-radius:15px;
+            border-radius:15px;
+            -webkit-transition:1s;
+            -moz-transition:1s;
+            transition:1s;
+        }
+        #back-top a:hover span{background-color:#e2f8ff}
+    </style>
+    <script type="text/javascript">
+        $(document).ready(function(){
+            $("#back-top").hide();
+            $(function (){
+                $(window).scroll(function (){
+                    if ($(this).scrollTop() > 100){
+                        $('#back-top').fadeIn();
+                    } else{
+                        $('#back-top').fadeOut();
+                    }
+                });
+                $('#back-top a').click(function (){
+                    $('body,html').animate({
+                        scrollTop:0
+                    }, 800);
+                    return false;
+                });
+            });
+        });
+    </script>
+    <p id="back-top">
+        <a href="#top"><span></span>Вверх</a>
+    </p>
+
+
+<hr>
+<footer>
+  <div id='copy' class="copy">
+    <script>
+    function includeHTML() {
+      var z, i, elmnt, file, xhttp;
+      z = document.getElementsByTagName("*");
+      for (i = 0; i < z.length; i++) {
+        elmnt = z[i];
+        file = elmnt.getAttribute("w3-include-html");
+        if (file) {
+          xhttp = new XMLHttpRequest();
+          xhttp.onreadystatechange = function() {
+            if (this.readyState == 4) {
+              if (this.status == 200) {elmnt.innerHTML = this.responseText;}
+              if (this.status == 404) {elmnt.innerHTML = "Page not found.";}
+              elmnt.removeAttribute("w3-include-html");
+              includeHTML();
+            }
+          }
+          xhttp.open("GET", file, true);
+          xhttp.send();
+          return;
+        }
+      }
+    }
+    </script>
+    <div w3-include-html="/blog/copyright-holder.html"></div>
+    <script>
+      includeHTML();
+    </script>
+
+      <p>
+        <center>
+          <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5i3t7fosnb9&amp;m=2&amp;c=54ff00&amp;cr1=fff600&amp;f=arial&amp;l=33&amp;s=250" async="async"></script>
+        <center/>
+      </p>
+
+      <script>
+      function includeHTML() {
+        var z, i, elmnt, file, xhttp;
+        z = document.getElementsByTagName("*");
+        for (i = 0; i < z.length; i++) {
+          elmnt = z[i];
+          file = elmnt.getAttribute("w3-include-html");
+          if (file) {
+            xhttp = new XMLHttpRequest();
+            xhttp.onreadystatechange = function() {
+              if (this.readyState == 4) {
+                if (this.status == 200) {elmnt.innerHTML = this.responseText;}
+                if (this.status == 404) {elmnt.innerHTML = "Page not found.";}
+                elmnt.removeAttribute("w3-include-html");
+                includeHTML();
+              }
+            }
+            xhttp.open("GET", file, true);
+            xhttp.send();
+            return;
+          }
+        }
+      }
+      </script>
+      <div w3-include-html="/blog/footer.html"></div>
+      <script>
+        includeHTML();
+      </script>
+
+  </div>
+</footer>
+
+
+    <progress value="0">
+      <div class="progress-container">
+        <span class="progress-bar"></span>
+      </div>
+    </progress>
+
+    <script>
+       $(function() {
+           $(window).on("scroll resize", function() {
+               var o = $(window).scrollTop() / ($(document).height() - $(window).height());
+               $(".progress-bar").css({
+                   "width": (100 * o | 0) + "%"
+               });
+               $('progress')[0].value = o;
+           })
+       });
+    </script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js" integrity="sha384-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js" integrity="sha384-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ" crossorigin="anonymous"></script>
+    <script defer src="https://use.fontawesome.com/releases/v5.0.1/js/all.js"></script>
+    <script src="/js/copywrite.js"></script>
+    <!-- <script src="/js/play.js"></script>
+    <script src="/js/mp3.js"></script>
+    <script src="/js/sentences.js"></script> -->
+    <script src="/js/bookmark.js"></script>
+
+  </body>
+</html>

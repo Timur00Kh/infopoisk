@@ -1,0 +1,847 @@
+<!DOCTYPE html>
+<html prefix="og: http://ogp.me/ns#" lang="ru">
+<head>
+<link rel="canonical" href="https://fatecenter.ru">
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon-180x180.png">
+<link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/android-chrome-192x192.png" sizes="192x192">
+<link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
+<link rel="manifest" href="/manifest.json">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+<meta name="msapplication-TileColor" content="#9f00a7">
+<meta name="msapplication-TileImage" content="/mstile-144x144.png">
+<meta name='wmail-verification' content='18c171357c14d43772344fe3646efd33' />
+<meta property="og:title" content="Знаки зодиака в гороскопах и сонниках" />
+<meta property="og:image" content="/bitrix/templates/FateCenter_main_t9_v4/images/logo3b.png" />
+<meta property="og:description" content="" />
+<link rel="image_src" href="//opt-1621856.ssl.1c-bitrix-cdn.ru/bitrix/templates/FateCenter_main_t9_v4/images/logo3b.png?15977252486541"/>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="robots" content="index, follow" />
+<meta name="keywords" content="все гороскопы, гороскоп, отношения, толковать сон, гадания, магия, сонник, экстрасенс, обучение магии, гороскопы, тесты онлайн, приворот" />
+<meta name="description" content="Все гороскопы и большой сонник, разделы по фен-шуй  и гадания, психология и личностный рост.  Психологические тесты, гороскопы и гадания, пророчества и советы экспертов в отношениях на лучшем эзотерическом сайте." />
+<link href="//opt-1621856.ssl.1c-bitrix-cdn.ru/bitrix/js/main/core/css/core.css?15977252203963" type="text/css" rel="stylesheet" />
+
+<script data-skip-moving="true">(function(w, d) {var v = w.frameCacheVars = {'CACHE_MODE':'HTMLCACHE','storageBlocks':[],'dynamicBlocks':{'logo':'d41d8cd98f00','area0':'d41d8cd98f00'},'AUTO_UPDATE':true,'AUTO_UPDATE_TTL':'120'};var inv = false;if (v.AUTO_UPDATE === false){if (v.AUTO_UPDATE_TTL && v.AUTO_UPDATE_TTL > 0){var lm = Date.parse(d.lastModified);if (!isNaN(lm)){var td = new Date().getTime();if ((lm + v.AUTO_UPDATE_TTL * 1000) >= td){w.frameRequestStart = false;w.preventAutoUpdate = true;return;}inv = true;}}else{w.frameRequestStart = false;w.preventAutoUpdate = true;return;}}var r = w.XMLHttpRequest ? new XMLHttpRequest() : (w.ActiveXObject ? new w.ActiveXObject("Microsoft.XMLHTTP") : null);if (!r) { return; }w.frameRequestStart = true;var m = v.CACHE_MODE; var l = w.location; var x = new Date().getTime();var q = "?bxrand=" + x + (l.search.length > 0 ? "&" + l.search.substring(1) : "");var u = l.protocol + "//" + l.host + l.pathname + q;r.open("GET", u, true);r.setRequestHeader("BX-ACTION-TYPE", "get_dynamic");r.setRequestHeader("X-Bitrix-Composite", "get_dynamic");r.setRequestHeader("BX-CACHE-MODE", m);r.setRequestHeader("BX-CACHE-BLOCKS", v.dynamicBlocks ? JSON.stringify(v.dynamicBlocks) : "");if (inv){r.setRequestHeader("BX-INVALIDATE-CACHE", "Y");}try { r.setRequestHeader("BX-REF", d.referrer || "");} catch(e) {}if (m === "APPCACHE"){r.setRequestHeader("BX-APPCACHE-PARAMS", JSON.stringify(v.PARAMS));r.setRequestHeader("BX-APPCACHE-URL", v.PAGE_URL ? v.PAGE_URL : "");}r.onreadystatechange = function() {if (r.readyState != 4) { return; }var a = r.getResponseHeader("BX-RAND");var b = w.BX && w.BX.frameCache ? w.BX.frameCache : false;if (a != x || !((r.status >= 200 && r.status < 300) || r.status === 304 || r.status === 1223 || r.status === 0)){var f = {error:true, reason:a!=x?"bad_rand":"bad_status", url:u, xhr:r, status:r.status};if (w.BX && w.BX.ready){BX.ready(function() {setTimeout(function(){BX.onCustomEvent("onFrameDataRequestFail", [f]);}, 0);});}else{w.frameRequestFail = f;}return;}if (b){b.onFrameDataReceived(r.responseText);if (!w.frameUpdateInvoked){b.update(false);}w.frameUpdateInvoked = true;}else{w.frameDataString = r.responseText;}};r.send();})(window, document);</script>
+<script data-skip-moving="true">(function(w, d, n) {var cl = "bx-core";var ht = d.documentElement;var htc = ht ? ht.className : undefined;if (htc === undefined || htc.indexOf(cl) !== -1){return;}var ua = n.userAgent;if (/(iPad;)|(iPhone;)/i.test(ua)){cl += " bx-ios";}else if (/Android/i.test(ua)){cl += " bx-android";}cl += (/(ipad|iphone|android|mobile|touch)/i.test(ua) ? " bx-touch" : " bx-no-touch");cl += w.devicePixelRatio && w.devicePixelRatio >= 2? " bx-retina": " bx-no-retina";var ieVersion = -1;if (/AppleWebKit/.test(ua)){cl += " bx-chrome";}else if ((ieVersion = getIeVersion()) > 0){cl += " bx-ie bx-ie" + ieVersion;if (ieVersion > 7 && ieVersion < 10 && !isDoctype()){cl += " bx-quirks";}}else if (/Opera/.test(ua)){cl += " bx-opera";}else if (/Gecko/.test(ua)){cl += " bx-firefox";}if (/Macintosh/i.test(ua)){cl += " bx-mac";}ht.className = htc ? htc + " " + cl : cl;function isDoctype(){if (d.compatMode){return d.compatMode == "CSS1Compat";}return d.documentElement && d.documentElement.clientHeight;}function getIeVersion(){if (/Opera/i.test(ua) || /Webkit/i.test(ua) || /Firefox/i.test(ua) || /Chrome/i.test(ua)){return -1;}var rv = -1;if (!!(w.MSStream) && !(w.ActiveXObject) && ("ActiveXObject" in w)){rv = 11;}else if (!!d.documentMode && d.documentMode >= 10){rv = 10;}else if (!!d.documentMode && d.documentMode >= 9){rv = 9;}else if (d.attachEvent && !/Opera/.test(ua)){rv = 8;}if (rv == -1 || rv == 8){var re;if (n.appName == "Microsoft Internet Explorer"){re = new RegExp("MSIE ([0-9]+[\.0-9]*)");if (re.exec(ua) != null){rv = parseFloat(RegExp.$1);}}else if (n.appName == "Netscape"){rv = 11;re = new RegExp("Trident/.*rv:([0-9]+[\.0-9]*)");if (re.exec(ua) != null){rv = parseFloat(RegExp.$1);}}}return rv;}})(window, document, navigator);</script>
+
+
+<link href="//opt-1621856.ssl.1c-bitrix-cdn.ru/bitrix/cache/css/s1/FateCenter_main_t9_v4/template_3eb729db7255add9146f955fa6100005/template_3eb729db7255add9146f955fa6100005_v1.css?161174753027017" type="text/css"  data-template-style="true" rel="stylesheet" />
+
+
+
+
+
+
+
+<title>Знаки зодиака в гороскопах и сонниках</title>
+<meta name="yandex-verification" content="ae297640a3f4abfd" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+</head>
+<body>
+<div class="btn-menu">
+  <span class="bar"></span>
+</div>
+<div id="panel"></div>
+
+<div class="body"><div class="shadow"></div>
+	<div class="wrap">
+		<div class="header">
+			<div class="logos">
+			<a href="/" class="main_logo"><img alt="Отношения" src="//opt-1621856.ssl.1c-bitrix-cdn.ru/bitrix/templates/FateCenter_main_t9_v4/images/logo3b.png?15977252486541" title="Магия отношений" width="400" height="100"></a>
+			<div>
+<div id="bxdynamic_logo_start" style="display:none"></div><div id="bxdynamic_logo_end" style="display:none"></div></div>
+<div class="mob-ccc"><a href="/contacts/">Kонтакты</a></div>
+			</div>
+
+			<div id="top-multilevel-menu" >
+<ul class="menu">
+<li><a href="/sonnic/">Сонник</a><span></span></li>
+<li><a href="/imena/">Имена</a><span></span></li>
+<li><a href="/horoscope/">Гороскопы</a><span></span></li>
+<li><a href="/znaki-zodiaka/">Знаки зодиака</a><span></span></li>
+<li><a href="/divination/">Гадание</a><span></span></li>
+<li><a href="/dengi/">Деньги</a><span></span></li>
+<li><a href="/test/">Тесты</a><span></span></li>
+<li><a href="/primety/">Приметы</a><span></span></li>
+<li><a href="/zdorovie/">Здоровье</a><span></span></li>
+<li><a href="/extrasensi/">Экстрасенсы</a><span></span></li>
+<li><a href="/nepoznanoe/">Непознанное</a><span></span></li>
+<li><a href="/otnosheniya/">Отношения</a><span></span></li>
+<li><a href="/psychology/">Психология</a><span></span></li>
+<li><a href="/amulety/">Амулеты</a><span></span></li>
+<li><a href="/talismany/">Талисманы</a><span></span></li>
+<li><a href="/privoroty/">Приворот</a><span></span></li>
+<li><a href="/magiya/">Магия</a><span></span></li>
+<li><a href="/obuchenie-magii/">Обучение магии</a><span></span></li>
+<li><a href="/contacts/">Контакты</a><span></span></li>
+<li style="width:100%;height:0%;padding:0;margin:0;"></li>
+</ul>
+</div>
+
+		
+		</div>
+		
+		<div class="main clearfix">
+			<div class="large-wrap">
+				<div class="large">
+<div id="slider">
+	
+<ul class="bjqs">
+<li>
+<img class="preview_picture"  src="//opt-1621856.ssl.1c-bitrix-cdn.ru/upload/iblock/f5b/f5bec65b5eb1740bbc8d4b3e9319306b.jpg?159772521915416" width="588" height="298" alt="Сонник" title="Сонник" style="float:left" />
+<div class="transparency"></div>
+<div>
+<h2>Сонник</h2>
+<a href="https://fatecenter.ru/sonnic/">
+Смотреть сонник онлайн</a>
+</div>
+</li>
+<li>
+<img class="preview_picture"  src="//opt-1621856.ssl.1c-bitrix-cdn.ru/upload/iblock/445/love.jpg?159772521821335" width="590" height="280" alt="Любовная магия" title="Любовная магия" style="float:left" />
+<div class="transparency"></div>
+<div>
+<h2>Любовная магия</h2>
+<a href="/privoroty/">
+Верните свою любовь и счастье</a>
+</div>
+</li>
+</ul>
+</div><div class="new clearfix">
+<h2 class="topic"><span>НОВЫЕ СТАТЬИ<small></small></span></h2>
+<div class="row">
+<div class="new_item left" id="bx_2662763187_13247">
+<a class="pic" href="/psychology/sovety-professionalnogo-psikhologa/kak-vernut-zhenu-v-semyu/"><img  src="//opt-1621856.ssl.1c-bitrix-cdn.ru/upload/iblock/80a/80a0754b3b12873709ae3f3ce25a5575.jpg?16020104929041" width="78" height="78" alt="Как вернуть жену в семью" title="Как вернуть жену в семью" /></a>
+<h2>советы психолога</h2>
+
+<a href="/psychology/sovety-professionalnogo-psikhologa/kak-vernut-zhenu-v-semyu/">Как вернуть жену в семью</a>
+                        
+<div>
+	 Давайте рассмотрим ситуации и варианты при которых вы сможете вернуть вашу возлюбленную. Дальше уже вам решать, что больше подойдет именно в вашем конкретном случае.
+</div>
+ <br></div>
+<div class="new_item right" id="bx_2662763187_13244">
+<a class="pic" href="/imena/imena-vsye-chto-kasaetsya-vashego-imeni/vliyanie-imeni-na-sudbu/"><img  src="//opt-1621856.ssl.1c-bitrix-cdn.ru/upload/iblock/042/042b2bf93181ce2619b7604411393ed0.jpg?160027463119709" width="78" height="78" alt="Влияние имени на судьбу" title="Влияние имени на судьбу" /></a>
+<h2>имя</h2>
+
+<a href="/imena/imena-vsye-chto-kasaetsya-vashego-imeni/vliyanie-imeni-na-sudbu/">Влияние имени на судьбу</a>
+ 
+<div>
+	На человеческую судьбу влияют многие факторы: место и время рождения, окружающие внешние факторы. В формировании характера личности участвуют воспитание, нормы поведения, привитые с детства.&nbsp; <br>
+	 На личное восприятие влияет персональное имя человека. В статье мы узнаем, каким образом оно влияет на жизнь личности.
+</div>                        
+</div>
+</div>
+	<div class="row">
+<div class="new_item left" id="bx_2662763187_13235">
+<a class="pic" href="/magiya/negativnye-vozdeystviya/kak-izbavitsya-ot-odinochestva/"><img  src="//opt-1621856.ssl.1c-bitrix-cdn.ru/upload/iblock/93e/93efa2a60a435b6acf2b9366733e2e09.jpg?15983788116138" width="78" height="78" alt="Как избавиться от одиночества" title="Как избавиться от одиночества" /></a>
+<h2>магия</h2>
+
+<a href="/magiya/negativnye-vozdeystviya/kak-izbavitsya-ot-odinochestva/">Как избавиться от одиночества</a>
+ 
+<div>
+	Если вы уверены, что на вас навели порчу на одиночество, не следует сразу же начинать разбираться кто это сделал и зачем. Такой подход ничего не даст, порча уже действует, она сделана кем бы то ни было.
+</div>                        
+</div>
+<div class="new_item right" id="bx_2662763187_13234">
+<a class="pic" href="/psychology/lichnost/lichnost-chto-eto-takoe/"><img  src="//opt-1621856.ssl.1c-bitrix-cdn.ru/upload/iblock/187/18709294666bb8f68ebc184ae2280f3e.jpg?15982938708307" width="78" height="78" alt="Личность – что это такое" title="Личность – что это такое" /></a>
+<h2>личность</h2>
+
+<a href="/psychology/lichnost/lichnost-chto-eto-takoe/">Личность – что это такое</a>
+ 
+<div>
+	Современная психология обращает пристальное внимание на изучение личности и всестороннее его развитие в социуме. <br>
+	Понятие личность тесно связана его происхождением, особенностями развития, физиологией. Не стоит забывать и о психологических и генетических предпосылках.
+</div>                        
+</div>
+</div>
+	<div class="row">
+<div class="new_item left" id="bx_2662763187_13243">
+<a class="pic" href="/psychology/sovety-professionalnogo-psikhologa/kak-perezhit-predatelstvo/"><img  src="//opt-1621856.ssl.1c-bitrix-cdn.ru/upload/iblock/c12/c12ca297c5dbd10de05aace3b1f2820a.jpg?15997629119666" width="78" height="78" alt="Как пережить предательство" title="Как пережить предательство" /></a>
+<h2>советы психолога</h2>
+
+<a href="/psychology/sovety-professionalnogo-psikhologa/kak-perezhit-predatelstvo/">Как пережить предательство</a>
+ 
+<div>
+	Для любого человека предательство близкого друга не может пройти бесследно. После него становится очень сложно доверять кому-либо. Психологи в подобных ситуациях советуют
+</div>                        
+</div>
+<div class="new_item right" id="bx_2662763187_13249">
+<a class="pic" href="/psychology/lichnost/rol-zhertvy/"><img  src="//opt-1621856.ssl.1c-bitrix-cdn.ru/upload/iblock/e2c/e2cd3eadc82da3fe9785d53563646e1a.jpg?16087301066591" width="78" height="78" alt="Роль жертвы" title="Роль жертвы" /></a>
+
+<a href="/psychology/lichnost/rol-zhertvy/">Роль жертвы</a>
+ 
+<div>
+	 Наверное, у каждого имеется знакомый, обожающий оплакивать свою судьбу. Постоянно обвиняя других в собственных несчастьях, он «строит из себя жертву».
+</div>
+ <br>                        
+</div>
+</div>
+	
+</div></div>
+<div class="medium">
+
+
+<div class="zodiacs">
+<h2 class="hor-topic"><span>Гороскоп<small></small></span></h2>
+<ul class="clearfix">
+<li><a href="/znaki-zodiaka/kharakteristika-znakov-zodiaka/znak-zodiaka-oven/"><span class="zodiac_pic aries"></span>Овен</a><span>21.03-20.04</span></li>
+<li><a href="/znaki-zodiaka/kharakteristika-znakov-zodiaka/znak-zodiaka-telets/"><span class="zodiac_pic taurus"></span>Телец</a><span>21.04-21.05</span></li>
+<li><a href="/znaki-zodiaka/kharakteristika-znakov-zodiaka/znak-zodiaka-bliznetsy/"><span class="zodiac_pic gemini"></span> Близнецы</a><span>22.05-21.06</span></li>
+<li><a href="/znaki-zodiaka/kharakteristika-znakov-zodiaka/znak-zodiaka-rak/"><span class="zodiac_pic cancer"></span>Рак</a><span>22.06-22.07</span></li>
+<li><a href="/znaki-zodiaka/kharakteristika-znakov-zodiaka/znak-zodiaka-lev/"><span class="zodiac_pic leo"></span>Лев</a><span>23.07-23.08</span></li>
+<li><a href="/znaki-zodiaka/kharakteristika-znakov-zodiaka/znak-zodiaka-deva/"><span class="zodiac_pic virgo"></span>Дева</a><span>24.08-23.09</span></li>
+<li><a href="/znaki-zodiaka/kharakteristika-znakov-zodiaka/znak-zodiaka-vesy/"><span class="zodiac_pic libra"></span>Весы</a><span>24.09-23.10</span></li>
+<li><a href="/znaki-zodiaka/kharakteristika-znakov-zodiaka/znak-zodiaka-skorpion/"><span class="zodiac_pic scorpio"></span>Скорпион</a><span>24.10-22.11</span></li>
+<li><a href="/znaki-zodiaka/kharakteristika-znakov-zodiaka/znak-zodiaka-strelets/"><span class="zodiac_pic sagittarius"></span> Стрелец</a><span>23.11-22.12</span></li>
+<li><a href="/znaki-zodiaka/kharakteristika-znakov-zodiaka/znak-zodiaka-kozerog/"><span class="zodiac_pic capricor"></span>Козерог</a><span>23.12-20.01</span></li>
+<li><a href="/znaki-zodiaka/kharakteristika-znakov-zodiaka/znak-zodiaka-vodoley/"><span class="zodiac_pic aquarius"></span>Водолей</a><span>21.01-19.02</span></li>
+<li><a href="/znaki-zodiaka/kharakteristika-znakov-zodiaka/znak-zodiaka-ryba/"><span class="zodiac_pic pisces"></span>Рыбы</a><span>20.02-20.03</span></li>
+</ul>
+</div><br>
+
+
+
+<div class="news-list-fate">
+
+<h2 class="topic"><span>ПОЛЕЗНОЕ<small></small></span></h2>
+
+		<div class="news-item" id="bx_651765591_11205">
+				<a href="/psychology/fobiya-i-strakh/preodolet-strakh/"><img
+						class="preview_picture"
+						
+						src="//opt-1621856.ssl.1c-bitrix-cdn.ru/upload/iblock/b34/b343788e36aa63f54ecf051c67538216.jpg?15977252191764"
+						width="78"
+						height="78"
+						alt="Преодолеть страх"
+						title="Преодолеть страх"
+						style="float:left"
+						/></a>
+
+<h2>Преодолеть страх</h2>
+ 
+Пусть результат придет не сразу, зато будете знать, что вы действовали, и это будет вашей маленькой победой над страхом<a class="bottom-link" href="/psychology/fobiya-i-strakh/preodolet-strakh/">Страхи и фобии</a>
+	</div>
+	<div style="clear:both"></div>
+		<div class="news-item" id="bx_651765591_11108">
+				<a href="/horoscope/goroskop-po-date-rozhdeniya/"><img
+						class="preview_picture"
+						
+						src="//opt-1621856.ssl.1c-bitrix-cdn.ru/upload/iblock/cb4/cb46a2af3eb1c8532cb754d14fefbb63.jpg?15977252191939"
+						width="78"
+						height="78"
+						alt="Гороскоп по дате рождения"
+						title="Гороскоп по дате рождения"
+						style="float:left"
+						/></a>
+
+<h2>Гороскоп по дате рождения</h2>
+
+<p>Нумерологический гороскоп по дате рождения, расскажет о чертах характера людей, рождённых определённого числа.</p>
+ <a class="bottom-link" href="/horoscope/goroskop-po-date-rozhdeniya/">Читать гороскоп</a>
+	</div>
+	<div style="clear:both"></div>
+		<div class="news-item" id="bx_651765591_11055">
+				<a href="/sonnic/sonniki-tolkovanie-snov/sonnik-sovremennoy-zhenshchiny/"><img
+						class="preview_picture"
+						
+						src="//opt-1621856.ssl.1c-bitrix-cdn.ru/upload/iblock/bc0/bc0717255e8a4b68f9676d7419e96e62.jpg?15977252181737"
+						width="78"
+						height="78"
+						alt="Женский сонник"
+						title="Женский сонник"
+						style="float:left"
+						/></a>
+
+<h2>Женский сонник</h2>
+<p>«Женский сонник» является уникальным толкователем, предназначенным для расшифровки снов женской половины человечества. </p>
+<a class="bottom-link" href="/sonnic/sonniki-tolkovanie-snov/sonnik-sovremennoy-zhenshchiny/">Сонник для женщины</a>
+	</div>
+	<div style="clear:both"></div>
+
+</div>
+<div style="clear:both"></div>
+
+</div>
+<div class="big">
+<div class="main-middle-area">
+	<h1><span style="font-size: 18pt; color: #00BFFF; font-family: Georgia, serif;">Сонник толкование снов онлайн</span></h1>
+</div>
+<div id="search-form">
+	<div class="letters-list">
+ <a href="/sonnic/a/" title="Видеть сон">А</a> <a href="/sonnic/b/" title="Приснился сон">Б</a> <a href="/sonnic/v/" title="Толкование сна">В</a> <a href="/sonnic/g/" title="Толкование снов">Г</a> <a href="/sonnic/d/" title="Увидеть сон">Д</a> <a href="/sonnic/e/" title="К чему снятся сны">Е</a> <a href="/sonnic/ye/" title="Что означает сон">Ё</a> <a href="/sonnic/zh/" title="Снятся сны - толкование снов">Ж</a> <a href="/sonnic/z/" title="Сонник значение снов">З</a> <a href="/sonnic/i/" title="К чему снится сон">И</a> <a href="/sonnic/y/" title="Снится видеть сон">Й</a> <a href="/sonnic/k/" title="К чему снится сон - толкование сна">К</a> <a href="/sonnic/l/" title="К чему может присниться сон">Л</a> <a href="/sonnic/m/" title="Большой сонник на букву М">М</a> <a href="/sonnic/n/" title="Значение снов">Н</a> <a href="/sonnic/o/" title="Значение сна">О</a> <a href="/sonnic/p/" title="К чему может присниться сон">П</a> <a href="/sonnic/r/" title="Привиделся сон">Р</a> <a href="/sonnic/s/" title="Снятся сны - Привидевшийся сон">С</a> <a href="/sonnic/t/" title="Приснилось во сне-толкование снов">Т</a> <a href="/sonnic/u/" title="Что означают сны">У</a> <a href="/sonnic/f/" title="К чему снятся сны">Ф</a> <a href="/sonnic/kh/" title="привиделся сон">Х</a> <a href="/sonnic/ts/" title="Сны и сновидения">Ц</a> <a href="/sonnic/ch/" title="Толкование приснившегося сна, сновидения">Ч</a> <a href="/sonnic/sh/" title="Большой сонник - значение приснившихся снов">Ш</a> <a href="/sonnic/shch/" title="Значение ночного сна">Щ</a> <a href="/sonnic/ee/" title="Большой сонник - значение снов">Э</a> <a href="/sonnic/yu/" title="Толкование сна - Сонник">Ю</a> <a href="/sonnic/ya/" title="Что значет приснившееся">Я</a>
+	</div>
+	<form class="d_search" action="/sonnic/search.php" method="post">
+		<div class="container">
+			<div class="input-container">
+ <input id="search_box" autocomplete="off" onfocus="" placeholder="Приснившийся сон по соннику" name="q" value="" type="text">
+			</div>
+			<div class="button-container">
+ <button class="newbutton" type="submit" name="button" title="Толкование снов бесплатный сонник онлайн">Толковать сон </button>
+			</div>
+		</div>
+	</form>
+</div>
+ <br>
+<div>
+ <br>
+</div>
+ <br><div class="new clearfix">
+<h2 class="topic"><span>Популярные статьи<small></small></span></h2>
+<div class="row">
+<div class="new_item left big" id="bx_1891167135_13237">
+<a class="pic" href="/zdorovie/lechenie-narodnymi-metodami/zdorovoe-pitanie/"><img  src="//opt-1621856.ssl.1c-bitrix-cdn.ru/upload/iblock/86f/86ff7efc53f776f24126ff7971bcdec9.jpg?15986376038185" width="78" height="78" alt="Здоровое питание" title="Здоровое питание" /></a>
+<h2>здоровье</h2>
+<a href="/zdorovie/lechenie-narodnymi-metodami/zdorovoe-pitanie/">Здоровое питание</a>
+ 
+
+<div>
+	 Наиболее действенным способом улучшения своего здоровья, снижения веса и повышения работоспособности является правильное, здоровое, сбалансированное питание.
+</div>
+</div>
+<div class="new_item right big" id="bx_1891167135_13173">
+<a class="pic" href="/sonnic/sni-i-snovidenia/tolkovanie-snov-strannye-sny/"><img  src="//opt-1621856.ssl.1c-bitrix-cdn.ru/upload/iblock/b0b/b0bdcce4bdbe9cccee47ef1e49ca65df.jpg?159772521822420" width="78" height="78" alt="Толкование снов: странные сны" title="Толкование снов: странные сны" /></a>
+<h2>сны и сновидения</h2>
+<a href="/sonnic/sni-i-snovidenia/tolkovanie-snov-strannye-sny/">Толкование снов: странные сны</a>
+ 
+
+<div>
+	Очень часто человек может проснуться и быть озадаченным, потому что просто не может понять, где он находится – у себя дома или же в нереальном мире, которого не было, и никогда не будет, да и не могло ничего подобного даже существовать в действительности на земле.
+</div>
+</div>
+</DIV>
+<div class="row">
+<div class="new_item left big" id="bx_1891167135_13169">
+<a class="pic" href="/imena/imena-vsye-chto-kasaetsya-vashego-imeni/tayna-imeni/"><img  src="//opt-1621856.ssl.1c-bitrix-cdn.ru/upload/iblock/2a9/2a9efff89d713b1f17c8fc91ba3c6ae3.jpg?159772521820418" width="78" height="78" alt="Тайна имени" title="Тайна имени" /></a>
+<h2>Имена</h2>
+<a href="/imena/imena-vsye-chto-kasaetsya-vashego-imeni/tayna-imeni/">Тайна имени</a>
+ 
+
+<div>
+	 Тайна имени предопределяет жизненный путь человека, об этом следует помнить. <br>
+	 Важно не забывать, что выбор имени повлияет на судьбу, поэтому к данному вопросу стоит подходить особенно тщательно, чтобы значение имени помогло человеку, а не усугубило жизнь.
+</div>
+
+</div>
+<div class="new_item right big" id="bx_1891167135_13230">
+<a class="pic" href="/magiya/vidy-magii/belaya-magiya/"><img  src="//opt-1621856.ssl.1c-bitrix-cdn.ru/upload/iblock/9c9/9c9586b5f266e1dded184d6a497e5a7f.jpg?15977252195651" width="78" height="78" alt="Белая магия" title="Белая магия" /></a>
+<h2>магия</h2>
+<a href="/magiya/vidy-magii/belaya-magiya/">Белая магия</a>
+ 
+
+<div>
+	Белая и Черная магия в сознании людей - как два противоположных полюса: свет и тьма, помощь и вредительство, добро и зло. И если Белых магов воспринимают как волшебников, то Черных - как недобрых чародеев, колдунов.
+</div>
+</div>
+</DIV>
+<div class="row">
+<div class="new_item left big" id="bx_1891167135_13133">
+<a class="pic" href="/nepoznanoe/khiromantiya/izmenit-sudbu-s-pomoshchyu-khiromantii/"><img  src="//opt-1621856.ssl.1c-bitrix-cdn.ru/upload/iblock/8cf/8cf392b81e836ee1b8d6a483c29324ef.jpg?15977252183401" width="78" height="78" alt="Изменить судьбу с помощью хиромантии" title="Изменить судьбу с помощью хиромантии" /></a>
+<h2>хиромантия</h2>
+<a href="/nepoznanoe/khiromantiya/izmenit-sudbu-s-pomoshchyu-khiromantii/">Изменить судьбу с помощью хиромантии</a>
+ 
+
+<div>
+	 Судьба человека предсказывается и определяется благодаря линиям ладони, которыми занимается такая наука, как хиромантия. <br>
+	 С ее помощью можно увидеть прошлое, настоящее и заглянуть в будущее.
+</div>
+ <br>
+</div>
+<div class="new_item right big" id="bx_1891167135_11054">
+<a class="pic" href="/sonnic/sonniki-tolkovanie-snov/sonnik-millera-tolkovanie-snov/"><img  src="//opt-1621856.ssl.1c-bitrix-cdn.ru/upload/iblock/4d6/4d67c9dab1a27ca5aed08112823d2da4.jpg?15977252198544" width="78" height="78" alt="Толкование снов по соннику Миллера" title="Толкование снов по соннику Миллера" /></a>
+<h2>сонник Миллера</h2>
+<a href="/sonnic/sonniki-tolkovanie-snov/sonnik-millera-tolkovanie-snov/">Толкование снов по соннику Миллера</a>
+ 
+
+<div>
+	 «Сонник или толкование сновидений» знакомая многим и знаменитая книга автора Густава Хиндмана Миллера, американского бизнесмена, всесторонне развитого человека, который всю свою жизнь интересовался человеческой психологией.
+</div>
+ <br>
+</div>
+</DIV>
+<div class="row">
+<div class="new_item left big" id="bx_1891167135_804">
+<a class="pic" href="/psychology/psikhologiya-lyubvi-teoriya-ili-praktika/"><img  src="//opt-1621856.ssl.1c-bitrix-cdn.ru/upload/iblock/647/64719d32a11a390dd1d5de02108e9e83.jpg?15977252184403" width="78" height="78" alt="Психология любви" title="Психология любви" /></a>
+<h2>психология</h2>
+<a href="/psychology/psikhologiya-lyubvi-teoriya-ili-praktika/">Психология любви</a>
+ 
+
+<div>
+	Ревность – признак неуверенности в себе и душевной слабости. Жить в вечном страхе, ущемляя свободу того, кого вы любите – это прямой путь к разрыву отношений.<br>
+	<br>
+	<br>
+</div>
+</div>
+<div class="new_item right big" id="bx_1891167135_796">
+<a class="pic" href="/psychology/kak-izmenit-sebya/"><img  src="//opt-1621856.ssl.1c-bitrix-cdn.ru/upload/iblock/34f/34f6d9e343be82957151f6ad3f746192.jpg?15977252184040" width="78" height="78" alt="Как изменить себя" title="Как изменить себя" /></a>
+<h2>психология</h2>
+<a href="/psychology/kak-izmenit-sebya/">Как изменить себя</a>
+ 
+
+<div>
+	 На что следует обратить внимание в первую очередь, если есть цель – изменить себя. Недостатки как мотивирующее средство для того, чтобы сделать себя лучше и начать радоваться жизни.
+</div>
+</div>
+</DIV>
+</div></div>
+<div class="content">
+ 
+<div style="height: 360px;"><table class="accordions">
+						<tr>
+							<td>
+<h2 class="topic"><span>ПРИМЕТЫ<small></small></span></h2>
+<ul>
+<li>
+<a href="http://fatecenter.ru/primety/primety-na-svadbu/"><span>Приметы на свадьбу</span></a>
+<div class="inner">
+<img  src="//opt-1621856.ssl.1c-bitrix-cdn.ru/upload/iblock/86e/86e2f6fd05b1bf38a6296453b62352a1.jpg?15977252194672" alt="Приметы на свадьбу" title="Приметы на свадьбу" width="248" height="114" /><a href="http://fatecenter.ru/primety/primety-na-svadbu/"><span>Приметы в день свадьбы всегда помогут завершить её удачно. 
+<br />
+ </span></a>
+</div>
+</li>
+<li>
+<a href="http://fatecenter.ru/primety/primety-dlya-beremennykh/"><span>Приметы для беременных</span></a>
+<div class="inner">
+<img  src="//opt-1621856.ssl.1c-bitrix-cdn.ru/upload/iblock/56a/56a9ea2cdfa53d28e3900a4493533f83.jpg?15977252193146" alt="Приметы для беременных" title="Приметы для беременных" width="248" height="114" /><a href="http://fatecenter.ru/primety/primety-dlya-beremennykh/"><span>Большое количество запретов связано во время беременности с волосами.</span></a>
+</div>
+</li>
+<li>
+<a href="/primety/narodnye-primety-o-detyakh/"><span>Приметы о детях</span></a>
+<div class="inner">
+<img  src="//opt-1621856.ssl.1c-bitrix-cdn.ru/upload/iblock/887/88751fc2087ea75af28e0276a854d531.jpg?15977252199251" alt="Приметы о детях" title="Приметы о детях" width="248" height="114" /><a href="/primety/narodnye-primety-o-detyakh/"><span>Народные приметы о детях. </span></a>
+</div>
+</li>
+<li>
+<a href="/primety/dorozhnye-primety/"><span>Дорожные приметы</span></a>
+<div class="inner">
+<img  src="//opt-1621856.ssl.1c-bitrix-cdn.ru/upload/iblock/f0e/f0e1fc3b7eda97f7459c53edcffd738f.jpg?15977252184996" alt="Дорожные приметы" title="Дорожные приметы" width="248" height="114" /><a href="/primety/dorozhnye-primety/"><span>Если выходящему из дома человеку задать вопрос «куда идешь?», дорога будет неудачной.</span></a>
+</div>
+</li>
+<li>
+<a href="/primety/primety-o-dengakh/"><span>Приметы о деньгах</span></a>
+<div class="inner">
+<img  src="//opt-1621856.ssl.1c-bitrix-cdn.ru/upload/iblock/0b6/0b641f912f1c6c858dc818f88941d2d2.jpg?159772521911565" alt="Приметы о деньгах" title="Приметы о деньгах" width="248" height="114" /><a href="/primety/primety-o-dengakh/"><span>Народная примета говорит, что не стоит на стол деньги и ключи класть.</span></a>
+</div>
+</li>
+<li>
+<a href="/primety/primety-o-ede/"><span>Приметы о еде</span></a>
+<div class="inner">
+<img  src="//opt-1621856.ssl.1c-bitrix-cdn.ru/upload/iblock/d63/d638db8c8706a19357c599cdd50f4fd6.jpg?15977252194751" alt="Приметы о еде" title="Приметы о еде" width="248" height="114" /><a href="/primety/primety-o-ede/"><span>Нельзя употреблять еду в темном помещении, а также украдкой, дети могут ворами стать.</span></a>
+</div>
+</li>
+<li>
+<a href="/primety/primety-o-koshkakh-i-ne-tolko/"><span>Приметы о кошках и не только</span></a>
+<div class="inner">
+<img  src="//opt-1621856.ssl.1c-bitrix-cdn.ru/upload/iblock/d40/d409520a9516faa3bfeb673c8ddae828.jpg?15977252192605" alt="Приметы о кошках и не только" title="Приметы о кошках и не только" width="248" height="114" /><a href="/primety/primety-o-koshkakh-i-ne-tolko/"><span>Больше всего встречаются приметы, связанные с кошками.</span></a>
+</div>
+</li>
+</ul>
+
+							</td>
+							<td>
+								<h2 class="topic"><span>ТЕСТЫ<small></small></span></h2>
+<ul>
+<li>
+<a href="/test/test-zhenskaya-privlekatelnost/"><span>Тест женская привлекательность</span></a>
+<div class="inner">
+<img  src="//opt-1621856.ssl.1c-bitrix-cdn.ru/upload/iblock/436/436e0004611af13574dfe3cc89e80644.jpg?15977252194561" alt="Тест женская привлекательность" title="Тест женская привлекательность" width="248" height="114" /><a href="/test/test-zhenskaya-privlekatelnost/"><span>Что такое женская привлекательность и в чем она выражается?</span></a>
+</div>
+</li>
+<li>
+<a href="/test/test-na-izmenu/"><span>Тест на измену партнера</span></a>
+<div class="inner">
+<img  src="//opt-1621856.ssl.1c-bitrix-cdn.ru/upload/iblock/3a1/3a13b204b400907fc162016b8bc4044f.jpg?15977252193385" alt="Тест на измену партнера" title="Тест на измену партнера" width="248" height="114" /><a href="/test/test-na-izmenu/"><span>Измена-сегодня не редкость. Одно дело, когда это случается с другими...</span></a>
+</div>
+</li>
+<li>
+<a href="/test/test-kakoy-u-vas-tip-semi/"><span>Тест какой у вас тип семьи</span></a>
+<div class="inner">
+<img  src="//opt-1621856.ssl.1c-bitrix-cdn.ru/upload/iblock/c14/c1442af6c9fda9bc871688546cbcf6c8.jpg?15977252195696" alt="Тест какой у вас тип семьи" title="Тест какой у вас тип семьи" width="248" height="114" /><a href="/test/test-kakoy-u-vas-tip-semi/"><span>Семья – это маленькая ячейка общества.</span></a>
+</div>
+</li>
+<li>
+<a href="/test/test-sovmestimosti/"><span>Тест совместимости</span></a>
+<div class="inner">
+<img  src="//opt-1621856.ssl.1c-bitrix-cdn.ru/upload/iblock/bbe/bbeacca9e50193f0f946b78e3caef38d.jpg?15977252183896" alt="Тест совместимости" title="Тест совместимости" width="248" height="114" /><a href="/test/test-sovmestimosti/"><span>Тест на совместимость в браке - залог успешного и счастливого брака</span></a>
+</div>
+</li>
+<li>
+<a href="/test/test-vashe-otnoshenie-k-lyubvi-i-seksu/"><span>Тест отношение к любви и сексу</span></a>
+<div class="inner">
+<img  src="//opt-1621856.ssl.1c-bitrix-cdn.ru/upload/iblock/9ef/9ef636ded3f177aa0063de19e4e3f3d6.jpg?15977252183076" alt="Тест отношение к любви и сексу" title="Тест отношение к любви и сексу" width="248" height="114" /><a href="/test/test-vashe-otnoshenie-k-lyubvi-i-seksu/"><span>Тест на отношение к любви и сексу </span></a>
+</div>
+</li>
+<li>
+<a href="/test/test-sterva-li-vy/"><span>Тест стерва ли Я ?</span></a>
+<div class="inner">
+<img  src="//opt-1621856.ssl.1c-bitrix-cdn.ru/upload/iblock/7a6/7a6b0d08b43463068b97fcca5e29a831.jpg?15977252193016" alt="Тест стерва ли Я ?" title="Тест стерва ли Я ?" width="248" height="114" /><a href="/test/test-sterva-li-vy/"><span>Тест онлайн - стерва ли Я ?</span></a>
+</div>
+</li>
+<li>
+<a href="/test/test-na-soobrazitelnost/"><span>Тест на сообразительность</span></a>
+<div class="inner">
+<img  src="//opt-1621856.ssl.1c-bitrix-cdn.ru/upload/iblock/b1b/b1b9fb61974d0cb52a95fc53f8097d1c.jpg?15977252182856" alt="Тест на сообразительность" title="Тест на сообразительность" width="248" height="114" /><a href="/test/test-na-soobrazitelnost/"><span>Весёлый онлайн тест на сообразительность 
+<br />
+ </span></a>
+</div>
+</li>
+</ul>
+
+							</td>
+							<td>
+								<h2 class="topic"><span>ГАДАНИЕ<small></small></span></h2>
+<ul>
+<li>
+<a href="/divination/gadanie-na-lyubov/"><span>Гадание на любовь</span></a>
+<div class="inner">
+<img  src="//opt-1621856.ssl.1c-bitrix-cdn.ru/upload/iblock/5af/5af8f634d1b87187edd814a53455dff0.jpg?15977252195050" alt="Гадание на любовь" title="Гадание на любовь" width="248" height="114" /><a href="/divination/gadanie-na-lyubov/"><span> Гадание на любовь онлайн
+ </span></a>
+</div>
+</li>
+<li>
+<a href="http://fatecenter.ru/divination/gadanie-na-kofeynoy-gushche/"><span>Гадание на кофейной гуще</span></a>
+<div class="inner">
+<img  src="//opt-1621856.ssl.1c-bitrix-cdn.ru/upload/iblock/69b/69bd12b97fccb05b3d3887200c131c37.jpg?15977252184040" alt="Гадание на кофейной гуще" title="Гадание на кофейной гуще" width="248" height="114" /><a href="http://fatecenter.ru/divination/gadanie-na-kofeynoy-gushche/"><span>Гадание на кофейной гуще он-лайн</span></a>
+</div>
+</li>
+<li>
+<a href="http://fatecenter.ru/divination/gadanie-na-kamnyakh/"><span>Гадание на камнях</span></a>
+<div class="inner">
+<img  src="//opt-1621856.ssl.1c-bitrix-cdn.ru/upload/iblock/db3/db3fafa9fd4d88376ed1c15ea0864474.jpg?15977252194902" alt="Гадание на камнях" title="Гадание на камнях" width="248" height="114" /><a href="http://fatecenter.ru/divination/gadanie-na-kamnyakh/"><span>Гадание на камнях хранит в себе множество загадок и тайн.</span></a>
+</div>
+</li>
+<li>
+<a href="/divination/gadanie-otvet-fortuny/"><span>Гадание Ответ Фортуны</span></a>
+<div class="inner">
+<img  src="//opt-1621856.ssl.1c-bitrix-cdn.ru/upload/iblock/e65/e655676d6a06e3df96a60dd99e539096.jpg?15977252185253" alt="Гадание Ответ Фортуны" title="Гадание Ответ Фортуны" width="248" height="114" /><a href="/divination/gadanie-otvet-fortuny/"><span> Гадание на Колесе Фортуны он-лайн</span></a>
+</div>
+</li>
+<li>
+<a href="/divination/gadanie-na-khrustalnom-share/"><span>Гадание на Хрустальном шаре</span></a>
+<div class="inner">
+<img  src="//opt-1621856.ssl.1c-bitrix-cdn.ru/upload/iblock/887/8878897f685c878b4e8ce9fc629243f7.jpg?15977252194988" alt="Гадание на Хрустальном шаре" title="Гадание на Хрустальном шаре" width="248" height="114" /><a href="/divination/gadanie-na-khrustalnom-share/"><span>Гадание онлайн на Хрустальном шаре
+ </span></a>
+</div>
+</li>
+<li>
+<a href="http://fatecenter.ru/divination/gadanie-predskazatelnye-karty-lenorman/"><span>Гадание на картах Ленорман</span></a>
+<div class="inner">
+<img  src="//opt-1621856.ssl.1c-bitrix-cdn.ru/upload/iblock/386/38697e4a96dfa8e53c25e1eed3573645.jpg?15977252194553" alt="Гадание на картах Ленорман" title="Гадание на картах Ленорман" width="248" height="114" /><a href="http://fatecenter.ru/divination/gadanie-predskazatelnye-karty-lenorman/"><span>Гадание  на  картах Ленорман  он-лайн</span></a>
+</div>
+</li>
+<li>
+<a href="http://fatecenter.ru/divination/gadanie-na-voske/"><span>Гадание на воске</span></a>
+<div class="inner">
+<img  src="//opt-1621856.ssl.1c-bitrix-cdn.ru/upload/iblock/466/4663fc155fc75341571fb12950745f57.jpg?15977252193831" alt="Гадание на воске" title="Гадание на воске" width="248" height="114" /><a href="http://fatecenter.ru/divination/gadanie-na-voske/"><span>Гадание на воске и воде онлайн</span></a>
+</div>
+</li>
+</ul>
+
+							</td>
+						</tr>
+					</table></div>
+
+<p style="text-align: center">
+	  </p>
+<div class="ya-share2" data-services="collections,vkontakte,facebook,odnoklassniki,moimir,twitter,blogger,lj,skype" data-counter="">
+</div>
+<div class="clearfix">
+</div>
+<div class="share42init">
+</div>
+                 
+
+
+				</div>
+			</div>
+			<div class="small">
+
+<div id="bxdynamic_area0_start" style="display:none"></div><div id="bxdynamic_area0_end" style="display:none"></div>
+			</div>
+
+		</div>
+		<div class="footer ">
+
+            <ul class="lists clearfix">
+	<li class="list"> <span style="font-family: Georgia, serif; font-size: 15pt;">Отношения</span>
+	<ul>
+		<li>
+		<div>
+ <a href="https://fatecenter.ru/otnosheniya/izmena/">Измена</a>
+		</div>
+ </li>
+		<li>
+		<div>
+ <a href="https://fatecenter.ru/otnosheniya/kak-ostatsya-samoy-zhelannoy/obryad-na-obolshchenie/">Обряд на обольщение</a>
+		</div>
+ </li>
+		<li>
+		<div>
+ <a href="https://fatecenter.ru/otnosheniya/izmena/psikhologiya-izmeny/">Причина измен</a>
+		</div>
+ </li>
+		<li>
+		<div>
+ <a href="https://fatecenter.ru/otnosheniya/izmena/vernut-muzha/">Вернуть мужа</a>
+		</div>
+ </li>
+	</ul>
+ </li>
+	<li class="list"> <span style="font-family: Georgia, serif; font-size: 15pt;">Гороскопы</span>
+	<ul>
+		<li><a href="https://fatecenter.ru/horoscope/goroskop-seksualnoy-sovmestimosti/">Сексуальной совместимости</a></li>
+		<li><a href="https://fatecenter.ru/horoscope/goroskop-sovmestimosti-v-zodiakalnykh-sozvezdiyakh/">Гороскоп совместимости</a></li>
+		<li><a href="https://fatecenter.ru/horoscope/goroskop-obolshcheniya/">Гороскоп обольщения</a></li>
+		<li><a href="https://fatecenter.ru/horoscope/zodiakalnyy-goroskop-kak-mstyat-raznye-znaki-zodiaka/">Гороскоп мести</a></li>
+		<li><a href="https://fatecenter.ru/horoscope/stikhii-znakov-zodiaka/">Стихии знаков зодиака</a></li>
+		<li><a href="https://fatecenter.ru/horoscope/raznye-znaki-zodiaka-kto-kak-tseluetsya/">Знаки зодиака</a></li>
+		<li><a href="https://fatecenter.ru/horoscope/raznye-znaki-zodiaka-kto-kak-tseluetsya/">Гороскоп поцелуев</a></li>
+	</ul>
+ </li>
+	<li class="list">
+	<div>
+ <span style="font-family: Georgia, serif; font-size: 15pt;">Магия денег</span>
+	</div>
+	<ul>
+		<li><a href="https://fatecenter.ru/dengi/kariera/uspeshnaya-zhenshchina/">Успешная женщина</a></li>
+		<li><a href="https://fatecenter.ru/dengi/kariera/">Заговоры на карьеру и работу</a></li>
+		<li><a href="https://fatecenter.ru/dengi/denezhnaya-magiya/">Привлечение денег</a></li>
+		<li> <br>
+ </li>
+	</ul>
+ </li>
+	<li class="list">
+	<div>
+ <span style="font-family: Georgia, serif; font-size: 15pt;">Психология</span>
+	</div>
+	<ul>
+		<li><a href="https://fatecenter.ru/psychology/kak-izmenit-sebya/">Как изменить себя</a></li>
+		<li><a href="https://fatecenter.ru/psychology/krizis-srednego-vozrasta-u-muzhchin-i-zhenshchin/">Кризис среднего возраста </a></li>
+		<li><a href="https://fatecenter.ru/psychology/lyubov-k-sebe-ili-egoizm/">Любовь к себе или эгоизм?</a></li>
+		<li><a href="https://fatecenter.ru/psychology/priobresti-uverennost-v-sebe/">Уверенность в себе </a></li>
+		<li><a href="https://fatecenter.ru/psychology/samootsenka/">Самооценка</a></li>
+		<li><a href="https://fatecenter.ru/psychology/stress/">Стресс</a></li>
+	</ul>
+ </li>
+	<li class="list">
+	<div>
+ <span style="font-family: Georgia, serif; font-size: 15pt;">Здоровье</span>
+	</div>
+	<ul>
+		<li><a href="https://fatecenter.ru/zdorovie/vostochnaya-meditsina/">Восточная медицина</a></li>
+		<li><a href="https://fatecenter.ru/zdorovie/retsepty-lecheniya-travami/">Рецепты лечения травами</a></li>
+		<li><a href="https://fatecenter.ru/zdorovie/netraditsionnaya-meditsina/">Нетрадиционная медицина</a></li>
+		<li><a href="https://fatecenter.ru/zdorovie/tselitelstvo/">Целительство</a></li>
+		<li><a href="https://fatecenter.ru/zdorovie/lechenie-narodnymi-metodami/">Лечение народными методами</a></li>
+		<li><a href="https://fatecenter.ru/zdorovie/netraditsionnaya-meditsina/lechenie-vinogradnim-uksusom/">Лечение виноградным уксусом</a></li>
+	</ul>
+ </li>
+	<li class="list">
+	<div>
+ <span style="font-family: Georgia, serif; font-size: 15pt;">Эзотерика</span>
+	</div>
+	<ul>
+		<li><a href="/magiya/">Магия</a></li>
+		<li><a href="https://fatecenter.ru/magiya/magicheskie-uslugi/vidy-magicheskikh-uslug/">Виды магических услуг</a></li>
+		<li><a href="/magiya/vidy-magii/">Виды магии</a></li>
+		<li><a href="https://fatecenter.ru/privoroty/" target="_blank">Любовная магия: Привороты </a></li>
+		<li><a href="https://fatecenter.ru/magiya/magicheskie-uslugi/privorot-voprosy-i-otvety/" target="_blank">Приворот. Вопросы и ответы</a></li>
+		<li><a href="https://fatecenter.ru/magiya/vidy-magii/">Виды магии </a></li>
+		<li><a href="/magiya/magicheskie-obryady/realizatsiya-zhelaniya/">Реализация желания</a></li>
+		<li><a href="https://fatecenter.ru/magiya/negativnye-vozdeystviya/">Негативные воздействия</a></li>
+		<li><a href="https://fatecenter.ru/contacts/" target="_blank">Дистанционная помощь</a></li>
+	</ul>
+ </li>
+	<li class="list">
+	<div>
+ <span style="font-family: Georgia, serif; font-size: 15pt;">Обучение магии</span>
+	</div>
+	<ul>
+		<li><a href="https://fatecenter.ru/obuchenie-magii/obuchenie-magicheskomu-iskusstvu/">Обучение магическому искусству</a></li>
+		<li><a href="https://fatecenter.ru/obuchenie-magii/programma-obucheniya-po-magii-ekstrasensorike-i-tselitelstvu/">Обучение экстрасенсорике</a></li>
+		<li><a href="https://fatecenter.ru/obuchenie-magii/magiya-i-ekstrasensorika/">Магия и Экстрасенсорика</a></li>
+		<li><a href="https://fatecenter.ru/obuchenie-magii/vozmozhnosti-yasnovideniya/">Возможности ясновидения</a></li>
+		<li><a href="https://fatecenter.ru/obuchenie-magii/programma-obucheniya-magii-stikhii-ognya/">Обучение магии Огня </a></li>
+		<li><a href="https://fatecenter.ru/extrasensi/ruslana/">Программа обучения: ТАРО</a></li>
+	</ul>
+ </li>
+	<li class="list">
+	<div>
+ <span style="font-family: Georgia, serif; font-size: 15pt;">Амулеты</span>
+	</div>
+	<ul>
+		<li><a href="https://fatecenter.ru/amulety/">Амулеты для вас (14 видов)</a></li>
+		<li><a href="https://fatecenter.ru/amulety/amulety-brosh/">Амулеты брошь</a></li>
+		<li><a href="https://fatecenter.ru/amulety/afrikanskie-amulety/">Африканские амулеты</a></li>
+		<li><a href="https://fatecenter.ru/amulety/amulet-na-zdorove/">Амулет на здоровье</a></li>
+		<li><a href="https://fatecenter.ru/amulety/otnosheniya/">Амулеты из Тибета</a></li>
+		<li><a href="https://fatecenter.ru/amulety/amulety-braslet/">Амулеты браслет</a></li>
+		<li><a href="https://fatecenter.ru/magiya/magicheskaya-zashchita-oberegi-talismany/oberegi-kamni/">Обереги (камни)</a></li>
+	</ul>
+ </li>
+	<li class="list">
+	<div>
+ <span style="font-family: Georgia, serif; font-size: 15pt;">Талисманы</span>
+	</div>
+	<ul>
+		<li><a href="https://fatecenter.ru/talismany/talismany-dlya-zhenshchin/">Талисманы для женщин</a></li>
+		<li><a href="https://fatecenter.ru/talismany/talismany-dlya-deneg-biznesa-i-karery/">Талисманы для денег и карьеры</a></li>
+		<li><a href="https://fatecenter.ru/talismany/talismany-dlya-semi/">Талисманы для семьи </a></li>
+		<li><a href="https://fatecenter.ru/talismany/talismany-dlya-tvorchestva/">Талисманы для творчества</a></li>
+		<li><a href="https://fatecenter.ru/talismany/razlichnye-talismany/">Различные талисманы</a></li>
+		<li><a href="https://fatecenter.ru/magiya/magicheskaya-zashchita-oberegi-talismany/">Магические талисманы</a></li>
+		<li><a href="https://fatecenter.ru/talismany/izgotovlenie-talismanov/">Изготовление талисманов</a></li>
+	</ul>
+ </li>
+	<li class="list">
+	<div>
+ <span style="font-family: Georgia, serif; font-size: 15pt;">Приворот</span>
+	</div>
+	<ul>
+		<li><a href="/privoroty/rezultat-privorota/">Результаты приворота</a></li>
+		<li><a href="/privoroty/">60 разных приворотов</a> </li>
+		<li><a href="/magiya/magicheskie-uslugi/privorot-voprosy-i-otvety/">Приворот. Вопросы и ответы</a></li>
+		<li><a href="/magiya/magicheskie-uslugi/chasto-zadavaemye-voprosy/">Часто задаваемые вопросы</a></li>
+		<li><a href="/privoroty/privorot-dopolnenie/">Приворот (дополнение)</a></li>
+		<li> <br>
+ </li>
+		<li><a href="/otvoroty/">Отвороты</a></li>
+	</ul>
+ </li>
+</ul>			<div class="copyright clearfix">
+				<div class="col_1">
+					<div>
+	 Copyright 2001-2021 © Отношения
+</div>
+<div class="copyright-text">
+	<b>
+	<!--noindex--><a href="/talismany/razlichnye-talismany/pravoobladatelyam/" target="_blank" rel="nofollow">Правообладателям</a><!--/noindex--></b>.&nbsp;<b style="color: #003562;">
+	<!--noindex--><a href="/talismany/razlichnye-talismany/reklama-na-sayte-reklama-na-sayte-magiya-otnosheniy/" target="_blank" rel="nofollow">Реклама на сайте</a><!--/noindex-->&nbsp;</b>
+</div>
+<br>				</div>
+				<div class="col_2">
+					<p>
+	 Копирование материалов разрешено только при указании гиперссылки на наш сайт <a href="https://fatecenter.ru/">fatecenter.ru</a>
+</p><!--LiveInternet counter--><a href="//www.liveinternet.ru/click"
+target="_blank"><img id="licnt3365" width="31" height="31" style="border:0" 
+title="LiveInternet"
+src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAIBTAA7"
+alt=""/></a><!--/LiveInternet-->				</div>
+				<div class="col_3">
+					
+<!-- Yandex.Metrika counter -->
+ 
+<script data-skip-moving="true">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter22879159 = new Ya.Metrika({
+                    id:22879159,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+ <noscript> 
+  <div><img src="https://mc.yandex.ru/watch/22879159" style="position:absolute; left:-9999px;" alt="" /></div>
+ </noscript> 
+<!-- /Yandex.Metrika counter -->
+ 
+<!--LiveInternet counter-->
+
+<!--/LiveInternet-->
+				</div>
+			</div>
+			<div class="conclusion">
+
+				
+
+			</div>
+		</div>
+	</div>
+</div>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-4686288639579951",
+    enable_page_level_ads: true
+  });
+</script>
+<script>if(!window.BX)window.BX={};if(!window.BX.message)window.BX.message=function(mess){if(typeof mess==='object'){for(let i in mess) {BX.message[i]=mess[i];} return true;}};</script>
+<script>(window.BX||top.BX).message({'JS_CORE_LOADING':'Загрузка...','JS_CORE_NO_DATA':'- Нет данных -','JS_CORE_WINDOW_CLOSE':'Закрыть','JS_CORE_WINDOW_EXPAND':'Развернуть','JS_CORE_WINDOW_NARROW':'Свернуть в окно','JS_CORE_WINDOW_SAVE':'Сохранить','JS_CORE_WINDOW_CANCEL':'Отменить','JS_CORE_WINDOW_CONTINUE':'Продолжить','JS_CORE_H':'ч','JS_CORE_M':'м','JS_CORE_S':'с','JSADM_AI_HIDE_EXTRA':'Скрыть лишние','JSADM_AI_ALL_NOTIF':'Показать все','JSADM_AUTH_REQ':'Требуется авторизация!','JS_CORE_WINDOW_AUTH':'Войти','JS_CORE_IMAGE_FULL':'Полный размер'});</script><script src="//opt-1621856.ssl.1c-bitrix-cdn.ru/bitrix/js/main/core/core.js?1611143546549359"></script><script>BX.setJSList(['/bitrix/js/main/core/core_ajax.js','/bitrix/js/main/core/core_promise.js','/bitrix/js/main/polyfill/promise/js/promise.js','/bitrix/js/main/loadext/loadext.js','/bitrix/js/main/loadext/extension.js','/bitrix/js/main/polyfill/promise/js/promise.js','/bitrix/js/main/polyfill/find/js/find.js','/bitrix/js/main/polyfill/includes/js/includes.js','/bitrix/js/main/polyfill/matches/js/matches.js','/bitrix/js/ui/polyfill/closest/js/closest.js','/bitrix/js/main/polyfill/fill/main.polyfill.fill.js','/bitrix/js/main/polyfill/find/js/find.js','/bitrix/js/main/polyfill/matches/js/matches.js','/bitrix/js/main/polyfill/core/dist/polyfill.bundle.js','/bitrix/js/main/core/core.js','/bitrix/js/main/polyfill/intersectionobserver/js/intersectionobserver.js','/bitrix/js/main/lazyload/dist/lazyload.bundle.js','/bitrix/js/main/polyfill/core/dist/polyfill.bundle.js','/bitrix/js/main/parambag/dist/parambag.bundle.js']);
+BX.setCSSList(['/bitrix/js/main/core/css/core.css','/bitrix/js/main/lazyload/dist/lazyload.bundle.css','/bitrix/js/main/parambag/dist/parambag.bundle.css']);</script>
+<script>(window.BX||top.BX).message({'LANGUAGE_ID':'ru','FORMAT_DATE':'DD.MM.YYYY','FORMAT_DATETIME':'DD.MM.YYYY HH:MI:SS','COOKIE_PREFIX':'BITRIX_SM','SERVER_TZ_OFFSET':'10800','SITE_ID':'s1','SITE_DIR':'/'});</script><script  src="//opt-1621856.ssl.1c-bitrix-cdn.ru/bitrix/cache/js/s1/FateCenter_main_t9_v4/kernel_main/kernel_main_v1.js?1611748481218116"></script>
+<script  src="//opt-1621856.ssl.1c-bitrix-cdn.ru/bitrix/cache/js/s1/FateCenter_main_t9_v4/kernel_main_polyfill_customevent/kernel_main_polyfill_customevent_v1.js?16117475301253"></script>
+<script src="//opt-1621856.ssl.1c-bitrix-cdn.ru/bitrix/js/ui/dexie/dist/dexie.bitrix.bundle.js?1597725222196311"></script>
+<script src="//opt-1621856.ssl.1c-bitrix-cdn.ru/bitrix/js/main/core/core_ls.js?159772522010430"></script>
+<script src="//opt-1621856.ssl.1c-bitrix-cdn.ru/bitrix/js/main/core/core_frame_cache.js?160139580216064"></script>
+<script src="//opt-1621856.ssl.1c-bitrix-cdn.ru/bitrix/js/main/jquery/jquery-1.8.3.min.js?159772522193637"></script>
+<script>BX.setJSList(['/bitrix/js/main/core/core_fx.js','/bitrix/js/main/pageobject/pageobject.js','/bitrix/js/main/core/core_window.js','/bitrix/js/main/date/main.date.js','/bitrix/js/main/core/core_date.js','/bitrix/js/main/utils.js','/bitrix/js/main/polyfill/customevent/main.polyfill.customevent.js','/js/script.js','/js/slider.js','/bitrix/templates/.default/components/bitrix/news.list/slider_main/script.js']);</script>
+<script>BX.setCSSList(['/bitrix/templates/.default/components/bitrix/menu/menu_top_b/style.css','/bitrix/templates/.default/components/bitrix/news.list/slider_main/style.css','/bitrix/templates/.default/components/bitrix/catalog.top/main-new-relationship-ak4/style.css','/bitrix/templates/.default/components/bitrix/catalog.top/main-zodiak-ak1-plashka/style.css','/bitrix/templates/.default/components/bitrix/news.list/main-v1/style.css','/bitrix/templates/.default/components/bitrix/catalog.top/main-big-block-v0/style.css','/bitrix/templates/FateCenter_main_t9_v4/styles.css','/bitrix/templates/FateCenter_main_t9_v4/template_styles.css']);</script>
+<script>;window.ww_metrics_check=false;setInterval(function(){window.ww_metrics_check=false;},5000);function ww_metrics_postcheck(){if(!window.ww_metrics_check){window.ww_metrics_check=true;BX.ajax.post('/bitrix/components/webway/metrics.simple/wwcheckmetrics.php',{sessid:BX.bitrix_sessid(),cur_page:'/index.php'},function(data){});}};document.addEventListener('mousemove',function(){ww_metrics_postcheck();});document.addEventListener('touchmove',function(){ww_metrics_postcheck();});document.addEventListener('scroll',function(){ww_metrics_postcheck();});window.addEventListener('beforeunload',function(){window.ww_metrics_check=false;ww_metrics_postcheck();});document.cookie="WW_BX_USER_ID=bx42506d102a76cb8ff1d94a7ea2572ac9;path=/;max-age=946857600";</script>
+
+
+
+<script  src="//opt-1621856.ssl.1c-bitrix-cdn.ru/bitrix/cache/js/s1/FateCenter_main_t9_v4/template_465a017db01ea84c2219bc09f7fc123f/template_465a017db01ea84c2219bc09f7fc123f_v1.js?161174753027176"></script>
+<script>var _ba = _ba || []; _ba.push(["aid", "0d473a4000fc6b1cfa37414c9bf9b813"]); _ba.push(["host", "fatecenter.ru"]); (function() {var ba = document.createElement("script"); ba.type = "text/javascript"; ba.async = true;ba.src = (document.location.protocol == "https:" ? "https://" : "http://") + "bitrix.info/ba.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ba, s);})();</script>
+
+
+<script>
+var list = [];
+	$('.menu li').each(function(e,i) {
+		if(e > 3) {
+			itemList = $(this).html();
+			list.push(itemList);
+		}
+	});
+	
+	var list = list.join(" ");
+	$('#top-multilevel-menu').append('<div class="menu-small">' + list + '</div>');
+</script>
+<script src="//yastatic.net/es5-shims/0.0.2/es5-shims.min.js"></script><script src="//yastatic.net/share2/share.js"></script>
+<script>(function(d,s){d.getElementById("licnt3365").src=
+"//counter.yadro.ru/hit?t44.1;r"+escape(d.referrer)+
+((typeof(s)=="undefined")?"":";s"+s.width+"*"+s.height+"*"+
+(s.colorDepth?s.colorDepth:s.pixelDepth))+";u"+escape(d.URL)+
+";h"+escape(d.title.substring(0,150))+";"+Math.random()})
+(document,screen)</script><script>
+document.write('<a href="//www.liveinternet.ru/click" '+
+'target="_blank"><img id="bxid_188038" src="//counter.yadro.ru/hit?t26.5;r&#39;+
+escape(document.referrer)+((typeof(screen)==&#39;undefined&#39;)?&#39;&#39;:
+&#39;;s&#39;+screen.width+&#39;*&#39;+screen.height+&#39;*&#39;+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+&#39;;u&#39;+escape(document.URL)+
+&#39;;h&#39;+escape(document.title.substring(0,150))+&#39;;&#39;+Math.random()+
+&#39;" alt="" title="LiveInternet: показано число посетителей за&#39;+
+&#39; сегодня" width="88" height="15"  /><\/a>')
+</script>
+
+<script>
+var $btn = $('.btn-menu');
+$btn.click(function(){
+  $('body').toggleClass('show');
+})
+</script>
+</body>
+</html><!--4fb78339e942d891e537b251bd668d24-->

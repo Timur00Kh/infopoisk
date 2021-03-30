@@ -1,0 +1,630 @@
+<!DOCTYPE html>
+<html lang="ru-RU">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Отличник – школьные сочинения по русской и зарубежной литературе</title>
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/soshinenie.ru\/wp-includes\/js\/wp-emoji-release.min.js?ver=4645"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='http://soshinenie.ru/wp-includes/css/dist/block-library/style.min.css?ver=4645'  media='all' />
+<link rel='stylesheet' id='google-fonts-css'  href='https://fonts.googleapis.com/css?family=Roboto%3A400%2C400i%2C700&#038;subset=cyrillic&#038;ver=4645'  media='all' />
+<link rel='stylesheet' id='root-style-css'  href='http://soshinenie.ru/wp-content/themes/root/css/style.min.css?ver=2.2.4'  media='all' />
+<link rel='stylesheet' id='root-style-child-css'  href='http://soshinenie.ru/wp-content/themes/root_child/style.css?ver=4645'  media='all' />
+<link rel='stylesheet' id='wp-pagenavi-css'  href='http://soshinenie.ru/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70'  media='all' />
+<script  src='http://soshinenie.ru/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script  src='http://soshinenie.ru/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='http://soshinenie.ru/wp-json/' />
+
+<!-- All in One SEO Pack 1.6.10.2 by Michael Torbert of Semper Fi Web Design[140,308] -->
+<meta name="description" content="Отличные школьные сочинения для поступления и на экзамен в школе, по программам 4 -11 классов. Здесь есть сочинения всех писателей и поэтов по русской, украинской и зарубежной литературе." />
+<meta name="keywords" content="школьные сочинения на свободную тему, краткие пересказы по русскому языку, сочинения по литературе, сочинение на морально этическую тему, изложения на тему, сочинение моя семья, сочинения, сочинение скачать, сюжет" />
+<link rel="canonical" href="http://soshinenie.ru/" />
+<!-- /all in one seo pack -->
+<style>.site-navigation-fixed { display: none!important; }@media (max-width: 991px) { .mob-search {display: block; margin-bottom: 25px;} }@media (min-width: 768px) {.site-header { background-repeat: no-repeat; }}@media (min-width: 768px) {.site-header { background-position: center center; }}.page-separator, .pagination .current, .pagination a.page-numbers:hover, .entry-content ul > li:before, .btn, .comment-respond .form-submit input, .mob-hamburger span, .page-links__item { background-color: #5a80b1;}.spoiler-box, .entry-content ol li:before, .mob-hamburger, .inp:focus, .search-form__text:focus, .entry-content blockquote { border-color: #5a80b1;}.entry-content blockquote:before, .spoiler-box__title:after, .sidebar-navigation .menu-item-has-children:after { color: #5a80b1;}a, .spanlink, .comment-reply-link, .pseudo-link, .root-pseudo-link { color: #dbaf00;}a:hover, a:focus, a:active, .spanlink:hover, .comment-reply-link:hover, .pseudo-link:hover { color: #e66212;}body { color: #333333;}.site-title, .site-title a { color: #ffcc00;}.site-description, .site-description a { color: #666666;}.main-navigation, .footer-navigation, .main-navigation ul li .sub-menu, .footer-navigation ul li .sub-menu { background-color: #272727;}.main-navigation ul li a, .main-navigation ul li .removed-link, .footer-navigation ul li a, .footer-navigation ul li .removed-link { color: #ffffff;}body { font-family: "Roboto", Arial, "Helvetica Neue", Helvetica, Arial, sans-serif; }.entry-content h1, .entry-content h2, .entry-content h3, .entry-content h4, .entry-content h5, .entry-content h6, .entry-image__title h1, .entry-title { font-family: "Roboto", Arial, "Helvetica Neue", Helvetica, Arial, sans-serif; }@media (min-width: 576px) { body { font-size: 16px;} }@media (min-width: 576px) { body { line-height: 1.5;} }.scrolltop { background-color: #cccccc;}.scrolltop:after { color: #ffffff;}.scrolltop { width: 50px;}.scrolltop { height: 50px;}.scrolltop:after { content: "\f102"; }@media (max-width: 767px) { .scrolltop { display: none !important;} }</style></head>
+
+<body class="home blog sidebar-left">
+<div id="page" class="site">
+	<a class="skip-link screen-reader-text" href="#main">Перейти к контенту</a>
+
+    
+    <header id="masthead" class="site-header container" itemscope itemtype="http://schema.org/WPHeader">
+    <div class="site-header-inner ">
+        <div class="site-branding">
+            <div class="site-logotype"><img src="http://soshinenie.ru/wp-content/imageg/soshinenie_logo.png" alt="Школьный Отличник"></div>
+                            <div class="site-branding-container">
+
+                    <h1 class="site-title">Школьный Отличник</h1>
+                                            <p class="site-description">Отличные школьные сочинения для поступления и на экзамен в школе</p>
+                        
+                </div>
+                    </div><!-- .site-branding -->
+
+        
+        <div class="header-social">
+<div class="social-buttons social-buttons--square social-buttons--circle social-buttons--small">
+
+    
+    
+    
+    
+    
+    
+    
+    
+    </div></div>
+        <div class="top-menu">
+            <div class="menu-v-shapke-container"><ul id="top_menu" class="menu"><li id="menu-item-12065" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12065"><a href="http://soshinenie.ru/glavnaya/">Добро пожаловать на Soshinenie.ru</a></li>
+<li id="menu-item-12066" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12066"><a href="http://soshinenie.ru/novye-sochineniya/">Новые сочинения</a></li>
+<li id="menu-item-11610" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11610"><a href="http://soshinenie.ru/novye-sochineniya/">Все сочинения</a></li>
+<li id="menu-item-11609" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11609"><a href="http://soshinenie.ru/rubriki-sochinenij/">Скачать сборники сочинений</a></li>
+<li id="menu-item-11652" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-11652"><a href="http://soshinenie.ru/category/poleznaya-informaciya/">Статьи</a></li>
+<li id="menu-item-11608" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11608"><a href="http://soshinenie.ru/kontakty/">Контакты</a></li>
+<li id="menu-item-12067" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12067"><a href="http://soshinenie.ru/rassylka/">Рассылка</a></li>
+</ul></div>        </div>
+
+        
+        <div class="mob-hamburger"><span></span></div>
+
+                    <div class="mob-search">
+<form role="search" method="get" id="searchform" action="http://soshinenie.ru/" class="search-form">
+    <label class="screen-reader-text" for="s">Поиск: </label>
+    <input type="text" value="" name="s" id="s" class="search-form__text">
+    <button type="submit" id="searchsubmit" class="search-form__submit"></button>
+</form></div>
+            </div><!--.site-header-inner-->
+</header><!-- #masthead -->
+    
+
+
+    
+    
+    <nav id="site-navigation" class="main-navigation container">
+        <div class="main-navigation-inner ">
+            <div class="menu-glavnoe-container"><ul id="header_menu" class="menu"><li id="menu-item-11611" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-11611"><span class="removed-link">Главная</span></li>
+<li id="menu-item-11612" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-11612"><a href="http://soshinenie.ru/category/russkaya-literatura/">Русская литература</a>
+<ul class="sub-menu">
+	<li id="menu-item-11613" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-11613"><a href="http://soshinenie.ru/category/russkaya-literatura/a-s-pushkin/">Авторские сочинения по творчеству А. С. Пушкина</a></li>
+	<li id="menu-item-11614" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-11614"><a href="http://soshinenie.ru/category/russkaya-literatura/m-yu-lermontov/">Сочинения ЕГЭ по творчеству М. Ю. Лермонтова</a></li>
+	<li id="menu-item-11615" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-11615"><a href="http://soshinenie.ru/category/obrazcy-tvorcheskix-rabot/sochineniya-na-svobodnuyu-temu/">На свободную тему. Образцы сочинений</a></li>
+	<li id="menu-item-11616" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-11616"><a href="http://soshinenie.ru/category/russkaya-literatura/sochinenie-po-literature-10-klass/">Сочинение по литературе 10 класс</a></li>
+	<li id="menu-item-11617" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-11617"><a href="http://soshinenie.ru/category/russkaya-literatura/sochineniya-po-literature-7-klass/">Сочинение по литературе 7 класс</a></li>
+	<li id="menu-item-11618" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-11618"><a href="http://soshinenie.ru/category/russkaya-literatura/sochinenie-po-literature-9-klass/">Сочинение по литературе 9 класс</a></li>
+	<li id="menu-item-11619" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-11619"><a href="http://soshinenie.ru/category/russkaya-literatura/sochineniya-po-literature-8-klass/">Сочинения по литературе 8 класс</a></li>
+</ul>
+</li>
+<li id="menu-item-11620" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-11620"><a href="http://soshinenie.ru/category/obrazcy-tvorcheskix-rabot/">Примеры сочинений</a>
+<ul class="sub-menu">
+	<li id="menu-item-11621" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-11621"><a href="http://soshinenie.ru/category/obrazcy-tvorcheskix-rabot/metodicheskie-materialy/">Методические материалы для домашних заданий</a></li>
+	<li id="menu-item-11622" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-11622"><a href="http://soshinenie.ru/category/obrazcy-tvorcheskix-rabot/moralno-eticheskaya-tema/">Морально-этическая тема примеры сочинений</a></li>
+	<li id="menu-item-11623" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-11623"><a href="http://soshinenie.ru/category/obrazcy-tvorcheskix-rabot/sovremennaya-literatura/">Современная зарубежная литература</a></li>
+	<li id="menu-item-11624" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-11624"><a href="http://soshinenie.ru/category/obrazcy-tvorcheskix-rabot/sochinenie-opisanie/">Сочинение описание человека и природы</a></li>
+	<li id="menu-item-11625" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-11625"><a href="http://soshinenie.ru/category/obrazcy-tvorcheskix-rabot/sochinenie-otzyv/">Сочинение отзыв на прочитанное произведение</a></li>
+	<li id="menu-item-11626" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-11626"><a href="http://soshinenie.ru/category/obrazcy-tvorcheskix-rabot/sochinenie-razmyshlenie/">Сочинение размышление на заданную тему</a></li>
+	<li id="menu-item-11627" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-11627"><a href="http://soshinenie.ru/category/obrazcy-tvorcheskix-rabot/tvorcheskoe-nasledie/">Творческое наследие мировой литературы</a></li>
+</ul>
+</li>
+<li id="menu-item-11628" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-11628"><a href="http://soshinenie.ru/category/news/">Украинская литература</a>
+<ul class="sub-menu">
+	<li id="menu-item-11629" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-11629"><a href="http://soshinenie.ru/category/news/o-t-gonchar/">Эссе по произведениям О. Т. Гончара</a></li>
+	<li id="menu-item-11630" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-11630"><a href="http://soshinenie.ru/category/news/ostap-vishnya-gubenko/">Авторские сочинения по произведениям Остапа Вишни</a></li>
+	<li id="menu-item-11631" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-11631"><a href="http://soshinenie.ru/category/news/a-ya-mirnyj/">Литература Г. С. Сковороды и А. Я. Мирного</a></li>
+	<li id="menu-item-11632" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-11632"><a href="http://soshinenie.ru/category/news/i-f-drach/">Новые сочинения по творчеству И. Ф. Драча</a></li>
+	<li id="menu-item-11633" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-11633"><a href="http://soshinenie.ru/category/news/i-ya-franko/">Новые сочинения по творчеству И. Я. Франко</a></li>
+	<li id="menu-item-11634" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-11634"><a href="http://soshinenie.ru/category/news/lesya-ukrainka-kosach/">Новые сочинения по творчеству Леси Украинки (Косач)</a></li>
+	<li id="menu-item-11635" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-11635"><a href="http://soshinenie.ru/category/news/lina-v-kostenko/">Новые сочинения по творчеству Лины В. Костенко</a></li>
+</ul>
+</li>
+<li id="menu-item-11636" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-11636"><a href="http://soshinenie.ru/raznye-sochineniya/">Готовые задания</a>
+<ul class="sub-menu">
+	<li id="menu-item-11637" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11637"><a href="http://soshinenie.ru/cpisok-sochinenij/">Оглавление и список сочинений</a></li>
+	<li id="menu-item-11638" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-11638"><a href="http://soshinenie.ru/category/obrazcy-tvorcheskix-rabot/dlya-mladshix-klassov/">Сочинения для младших классов</a></li>
+	<li id="menu-item-11639" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-11639"><a href="http://soshinenie.ru/category/obrazcy-tvorcheskix-rabot/zametka-sochinenie-v-gazetu/">Школьное Сочинение заметка в газету</a></li>
+	<li id="menu-item-11640" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-11640"><a href="http://soshinenie.ru/category/news/m-m-kocyubinskij/">Новые сочинения по творчеству М. М. Коцюбинского</a></li>
+	<li id="menu-item-11641" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-11641"><a href="http://soshinenie.ru/category/news/v-s-stus/">Образцы сочинений по творчеству В. С. Стуса</a></li>
+	<li id="menu-item-11642" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-11642"><a href="http://soshinenie.ru/category/news/m-t-rylskij/">Творчество Малышко, Сосюры, Рыльского</a></li>
+	<li id="menu-item-11643" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-11643"><a href="http://soshinenie.ru/category/news/g-f-kvitka-osnovyanenko/">Сочинения по творчеству Г. Ф. Квитки &#8211; Основьянко</a></li>
+</ul>
+</li>
+</ul></div>        </div><!--.main-navigation-inner-->
+    </nav><!-- #site-navigation -->
+
+    
+
+    
+	<div id="content" class="site-content container">
+
+        
+	<div id="primary" class="content-area">
+		<main id="main" class="site-main">
+
+		
+            
+			
+            
+			
+<div class="posts-container">
+
+    
+<div id="post-12465" class="post-box post-12465 post type-post status-publish format-standard  category-russkij-yazyk" itemscope itemtype="http://schema.org/BlogPosting">
+	<header class="entry-header">
+		<div class="entry-title" itemprop="name"><a href="http://soshinenie.ru/esse-ptica-simvol-russkogo-yazyka/" rel="bookmark" itemprop="url"><span itemprop="headline"><h1>Эссе. Птица-символ русского языка</h1></span></a></div>
+        
+<div class="entry-meta">
+    <span class="entry-date"><time itemprop="datePublished" datetime="2021-02-25">25 Февраль, 2021</time></span><span class="entry-category"><span class="hidden-xs">Рубрика:</span> <a href="http://soshinenie.ru/category/russkij-yazyk/" itemprop="articleSection">Русский язык</a></span><span class="entry-author"><span class="hidden-xs">Автор:</span> <span itemprop="author">Русский язык и литература</span></span>
+    <span class="entry-meta__info">
+                    <span class="entry-meta__comments" title="Комментариев"><span class="fa fa-comment-o"></span> 0</span>
+        
+                                </span>
+</div><!-- .entry-meta -->
+	</header><!-- .entry-header -->
+
+    
+    
+            <div class="post-box__content" itemprop="articleBody">
+            <p>Представь, что ты идёшь летом по лесной дороге и выходишь на полянку. Какие цветы ты можешь нарисовать здесь с помощью своей фантазии? Вспомни, как пахнут травы, какие звуки...</p>
+        </div><!-- .entry-content -->
+
+        <footer class="post-box__footer">
+            <a href="http://soshinenie.ru/esse-ptica-simvol-russkogo-yazyka/" class="entry-footer__more">Читать полностью</a>
+        </footer><!-- .entry-footer -->
+    
+            	<meta itemscope itemprop="mainEntityOfPage" itemType="https://schema.org/WebPage" itemid="http://soshinenie.ru/esse-ptica-simvol-russkogo-yazyka/" content="<h1>Эссе. Птица-символ русского языка</h1>">
+	<meta itemprop="dateModified" content="2021-02-25">
+
+    
+</div><!-- #post-## -->
+
+<div id="post-12463" class="post-box post-12463 post type-post status-publish format-standard  category-sochinenie-opisanie category-russkaya-literatura" itemscope itemtype="http://schema.org/BlogPosting">
+	<header class="entry-header">
+		<div class="entry-title" itemprop="name"><a href="http://soshinenie.ru/slozhnoe-protivorechivoe-nepostizhimoe-sushhestvo-chelovek-sochinenie-po-povesti-v-bykova-sotnikov/" rel="bookmark" itemprop="url"><span itemprop="headline"><h1>Сложное, противоречивое, непостижимое существо человек (сочинение по повести В. Быкова «Сотников»)</h1></span></a></div>
+        
+<div class="entry-meta">
+    <span class="entry-date"><time itemprop="datePublished" datetime="2021-02-23">23 Февраль, 2021</time></span><span class="entry-category"><span class="hidden-xs">Рубрика:</span> <a href="http://soshinenie.ru/category/obrazcy-tvorcheskix-rabot/sochinenie-opisanie/" itemprop="articleSection">Сочинение описание человека и природы</a></span><span class="entry-author"><span class="hidden-xs">Автор:</span> <span itemprop="author">Русский язык и литература</span></span>
+    <span class="entry-meta__info">
+                    <span class="entry-meta__comments" title="Комментариев"><span class="fa fa-comment-o"></span> 0</span>
+        
+                                </span>
+</div><!-- .entry-meta -->
+	</header><!-- .entry-header -->
+
+    
+    
+            <div class="post-box__content" itemprop="articleBody">
+            <p>Во всех произведениях Василя Быкова герои действуют в сложной обстановке. Они остаются наедине с собой, с собственной совестью, со своим характером, которые диктуют им их поступки. Каждый из...</p>
+        </div><!-- .entry-content -->
+
+        <footer class="post-box__footer">
+            <a href="http://soshinenie.ru/slozhnoe-protivorechivoe-nepostizhimoe-sushhestvo-chelovek-sochinenie-po-povesti-v-bykova-sotnikov/" class="entry-footer__more">Читать полностью</a>
+        </footer><!-- .entry-footer -->
+    
+            	<meta itemscope itemprop="mainEntityOfPage" itemType="https://schema.org/WebPage" itemid="http://soshinenie.ru/slozhnoe-protivorechivoe-nepostizhimoe-sushhestvo-chelovek-sochinenie-po-povesti-v-bykova-sotnikov/" content="<h1>Сложное, противоречивое, непостижимое существо человек (сочинение по повести В. Быкова «Сотников»)</h1>">
+	<meta itemprop="dateModified" content="2021-02-23">
+
+    
+</div><!-- #post-## -->
+
+<div id="post-12461" class="post-box post-12461 post type-post status-publish format-standard  category-poleznaya-informaciya" itemscope itemtype="http://schema.org/BlogPosting">
+	<header class="entry-header">
+		<div class="entry-title" itemprop="name"><a href="http://soshinenie.ru/chto-takoe-filologiya-i-chem-zanimaetsya-filolog/" rel="bookmark" itemprop="url"><span itemprop="headline"><h1>Что такое филология и чем занимается филолог?</h1></span></a></div>
+        
+<div class="entry-meta">
+    <span class="entry-date"><time itemprop="datePublished" datetime="2021-02-23">23 Февраль, 2021</time></span><span class="entry-category"><span class="hidden-xs">Рубрика:</span> <a href="http://soshinenie.ru/category/poleznaya-informaciya/" itemprop="articleSection">Статьи</a></span><span class="entry-author"><span class="hidden-xs">Автор:</span> <span itemprop="author">Русский язык и литература</span></span>
+    <span class="entry-meta__info">
+                    <span class="entry-meta__comments" title="Комментариев"><span class="fa fa-comment-o"></span> 0</span>
+        
+                                </span>
+</div><!-- .entry-meta -->
+	</header><!-- .entry-header -->
+
+    
+    
+            <div class="post-box__content" itemprop="articleBody">
+            <p>Существительное «филология» имеет древнегреческие корни. Буквальный перевод этого понятия — «любовь к слову». Действительно, данная наука занимается изучением словарного состава языка, уделяя большое внимание происхождению слов. Филология тесно...</p>
+        </div><!-- .entry-content -->
+
+        <footer class="post-box__footer">
+            <a href="http://soshinenie.ru/chto-takoe-filologiya-i-chem-zanimaetsya-filolog/" class="entry-footer__more">Читать полностью</a>
+        </footer><!-- .entry-footer -->
+    
+            	<meta itemscope itemprop="mainEntityOfPage" itemType="https://schema.org/WebPage" itemid="http://soshinenie.ru/chto-takoe-filologiya-i-chem-zanimaetsya-filolog/" content="<h1>Что такое филология и чем занимается филолог?</h1>">
+	<meta itemprop="dateModified" content="2021-02-23">
+
+    
+</div><!-- #post-## -->
+
+<div id="post-12459" class="post-box post-12459 post type-post status-publish format-standard  category-sochinenie-po-literature-10-klass" itemscope itemtype="http://schema.org/BlogPosting">
+	<header class="entry-header">
+		<div class="entry-title" itemprop="name"><a href="http://soshinenie.ru/velikij-bal-u-satany-po-romanu-bulgakova-master-i-margarita/" rel="bookmark" itemprop="url"><span itemprop="headline"><h1>Великий бал у сатаны &#8211; по роману Булгакова «Мастер и Маргарита»</h1></span></a></div>
+        
+<div class="entry-meta">
+    <span class="entry-date"><time itemprop="datePublished" datetime="2021-02-19">19 Февраль, 2021</time></span><span class="entry-category"><span class="hidden-xs">Рубрика:</span> <a href="http://soshinenie.ru/category/russkaya-literatura/sochinenie-po-literature-10-klass/" itemprop="articleSection">Сочинение по литературе 10 класс</a></span><span class="entry-author"><span class="hidden-xs">Автор:</span> <span itemprop="author">Русский язык и литература</span></span>
+    <span class="entry-meta__info">
+                    <span class="entry-meta__comments" title="Комментариев"><span class="fa fa-comment-o"></span> 0</span>
+        
+                                </span>
+</div><!-- .entry-meta -->
+	</header><!-- .entry-header -->
+
+    
+    
+            <div class="post-box__content" itemprop="articleBody">
+            <p>Действия происходят в потустороннем мире, где находится великий Воланд и его свита. Главной героиней в этом эпизоде является Маргарита. Всё начинается с того, что Маргариту готовят к балу,...</p>
+        </div><!-- .entry-content -->
+
+        <footer class="post-box__footer">
+            <a href="http://soshinenie.ru/velikij-bal-u-satany-po-romanu-bulgakova-master-i-margarita/" class="entry-footer__more">Читать полностью</a>
+        </footer><!-- .entry-footer -->
+    
+            	<meta itemscope itemprop="mainEntityOfPage" itemType="https://schema.org/WebPage" itemid="http://soshinenie.ru/velikij-bal-u-satany-po-romanu-bulgakova-master-i-margarita/" content="<h1>Великий бал у сатаны &#8211; по роману Булгакова «Мастер и Маргарита»</h1>">
+	<meta itemprop="dateModified" content="2021-02-19">
+
+    
+</div><!-- #post-## -->
+
+<div id="post-12457" class="post-box post-12457 post type-post status-publish format-standard  category-griboedov category-russkaya-literatura-2 category-chackij-gore-ot-uma" itemscope itemtype="http://schema.org/BlogPosting">
+	<header class="entry-header">
+		<div class="entry-title" itemprop="name"><a href="http://soshinenie.ru/famusov-i-chackij-konflikt-pokolenij/" rel="bookmark" itemprop="url"><span itemprop="headline"><h1>Фамусов и Чацкий: конфликт поколений</h1></span></a></div>
+        
+<div class="entry-meta">
+    <span class="entry-date"><time itemprop="datePublished" datetime="2021-02-17">17 Февраль, 2021</time></span><span class="entry-category"><span class="hidden-xs">Рубрика:</span> <a href="http://soshinenie.ru/category/russkaya-literatura-2/griboedov/" itemprop="articleSection">Грибоедов</a></span><span class="entry-author"><span class="hidden-xs">Автор:</span> <span itemprop="author">Русский язык и литература</span></span>
+    <span class="entry-meta__info">
+                    <span class="entry-meta__comments" title="Комментариев"><span class="fa fa-comment-o"></span> 0</span>
+        
+                                </span>
+</div><!-- .entry-meta -->
+	</header><!-- .entry-header -->
+
+    
+    
+            <div class="post-box__content" itemprop="articleBody">
+            <p>В пьесе «Горе от ума» Грибоедов описывает ситуацию раскола в российском дворянском обществе 1812-1822 года. В центре конфликта два основных героя произведения – Павел Фамусов и Александр Чацкий....</p>
+        </div><!-- .entry-content -->
+
+        <footer class="post-box__footer">
+            <a href="http://soshinenie.ru/famusov-i-chackij-konflikt-pokolenij/" class="entry-footer__more">Читать полностью</a>
+        </footer><!-- .entry-footer -->
+    
+            	<meta itemscope itemprop="mainEntityOfPage" itemType="https://schema.org/WebPage" itemid="http://soshinenie.ru/famusov-i-chackij-konflikt-pokolenij/" content="<h1>Фамусов и Чацкий: конфликт поколений</h1>">
+	<meta itemprop="dateModified" content="2021-02-17">
+
+    
+</div><!-- #post-## -->
+
+<div id="post-12454" class="post-box post-12454 post type-post status-publish format-standard  category-griboedov category-russkaya-literatura-2 category-chackij-gore-ot-uma" itemscope itemtype="http://schema.org/BlogPosting">
+	<header class="entry-header">
+		<div class="entry-title" itemprop="name"><a href="http://soshinenie.ru/o-chem-rasskazyvaetsya-v-proizvedenii-gore-ot-uma/" rel="bookmark" itemprop="url"><span itemprop="headline"><h1>О чем рассказывается в произведении «Горе от ума»</h1></span></a></div>
+        
+<div class="entry-meta">
+    <span class="entry-date"><time itemprop="datePublished" datetime="2021-02-16">16 Февраль, 2021</time></span><span class="entry-category"><span class="hidden-xs">Рубрика:</span> <a href="http://soshinenie.ru/category/russkaya-literatura-2/griboedov/" itemprop="articleSection">Грибоедов</a></span><span class="entry-author"><span class="hidden-xs">Автор:</span> <span itemprop="author">Русский язык и литература</span></span>
+    <span class="entry-meta__info">
+                    <span class="entry-meta__comments" title="Комментариев"><span class="fa fa-comment-o"></span> 0</span>
+        
+                                </span>
+</div><!-- .entry-meta -->
+	</header><!-- .entry-header -->
+
+    
+    
+            <div class="post-box__content" itemprop="articleBody">
+            <p>В своём драматическом произведении Грибоедов занимается раскрытием двух конфликтных тем: лирической и социальной. Пьеса «Горе от ума» является олицетворением социального противоречия во взглядах на общественный строй Чацкого в...</p>
+        </div><!-- .entry-content -->
+
+        <footer class="post-box__footer">
+            <a href="http://soshinenie.ru/o-chem-rasskazyvaetsya-v-proizvedenii-gore-ot-uma/" class="entry-footer__more">Читать полностью</a>
+        </footer><!-- .entry-footer -->
+    
+            	<meta itemscope itemprop="mainEntityOfPage" itemType="https://schema.org/WebPage" itemid="http://soshinenie.ru/o-chem-rasskazyvaetsya-v-proizvedenii-gore-ot-uma/" content="<h1>О чем рассказывается в произведении «Горе от ума»</h1>">
+	<meta itemprop="dateModified" content="2021-02-16">
+
+    
+</div><!-- #post-## -->
+
+<div id="post-12451" class="post-box post-12451 post type-post status-publish format-standard  category-griboedov category-russkaya-literatura-2 category-chackij-gore-ot-uma" itemscope itemtype="http://schema.org/BlogPosting">
+	<header class="entry-header">
+		<div class="entry-title" itemprop="name"><a href="http://soshinenie.ru/rasskaz-o-chackom/" rel="bookmark" itemprop="url"><span itemprop="headline"><h1>Рассказ о Чацком</h1></span></a></div>
+        
+<div class="entry-meta">
+    <span class="entry-date"><time itemprop="datePublished" datetime="2021-02-16">16 Февраль, 2021</time></span><span class="entry-category"><span class="hidden-xs">Рубрика:</span> <a href="http://soshinenie.ru/category/russkaya-literatura-2/griboedov/" itemprop="articleSection">Грибоедов</a></span><span class="entry-author"><span class="hidden-xs">Автор:</span> <span itemprop="author">Русский язык и литература</span></span>
+    <span class="entry-meta__info">
+                    <span class="entry-meta__comments" title="Комментариев"><span class="fa fa-comment-o"></span> 0</span>
+        
+                                </span>
+</div><!-- .entry-meta -->
+	</header><!-- .entry-header -->
+
+    
+    
+            <div class="post-box__content" itemprop="articleBody">
+            <p>Пьеса Александра Грибоедова «Горе от ума» написана в стихах, в комедийном жанре. Легко читается, фразы с глубоким ироничным смыслом. Многие выражения главных героев остаются крылатыми и сегодня. Автор...</p>
+        </div><!-- .entry-content -->
+
+        <footer class="post-box__footer">
+            <a href="http://soshinenie.ru/rasskaz-o-chackom/" class="entry-footer__more">Читать полностью</a>
+        </footer><!-- .entry-footer -->
+    
+            	<meta itemscope itemprop="mainEntityOfPage" itemType="https://schema.org/WebPage" itemid="http://soshinenie.ru/rasskaz-o-chackom/" content="<h1>Рассказ о Чацком</h1>">
+	<meta itemprop="dateModified" content="2021-02-16">
+
+    
+</div><!-- #post-## -->
+
+<div id="post-12082" class="post-box post-12082 post type-post status-publish format-standard has-post-thumbnail  category-a-s-pushkin" itemscope itemtype="http://schema.org/BlogPosting">
+	<header class="entry-header">
+		<div class="entry-title" itemprop="name"><a href="http://soshinenie.ru/roman-dubrovskij-kak-prizyv-k-pereosmysleniyu/" rel="bookmark" itemprop="url"><span itemprop="headline"><h1>Роман &#8220;Дубровский&#8221; как призыв к переосмыслению</h1></span></a></div>
+        
+<div class="entry-meta">
+    <span class="entry-date"><time itemprop="datePublished" datetime="2021-02-13">13 Февраль, 2021</time></span><span class="entry-category"><span class="hidden-xs">Рубрика:</span> <a href="http://soshinenie.ru/category/russkaya-literatura/a-s-pushkin/" itemprop="articleSection">Авторские сочинения по творчеству А. С. Пушкина</a></span><span class="entry-author"><span class="hidden-xs">Автор:</span> <span itemprop="author">Русский язык и литература</span></span>
+    <span class="entry-meta__info">
+                    <span class="entry-meta__comments" title="Комментариев"><span class="fa fa-comment-o"></span> 0</span>
+        
+                                </span>
+</div><!-- .entry-meta -->
+	</header><!-- .entry-header -->
+
+            <div class="entry-image">
+            <a href="http://soshinenie.ru/roman-dubrovskij-kak-prizyv-k-pereosmysleniyu/"><img width="275" height="183" src="http://soshinenie.ru/wp-content/imageg/загружено.jpg" class="attachment-thumb-big size-thumb-big wp-post-image" alt="Роман &quot;Дубровский&quot; как призыв к переосмыслению" itemprop="image" /></a>
+        </div>
+    
+    
+            <div class="post-box__content" itemprop="articleBody">
+            <p>Идея и первостепенные проблемы Роман «Дубровский» был написан поэтом Пушкиным ещё в 1833 году, однако затронутые в произведении проблемы не теряют былой актуальности и по сей день. Согласно...</p>
+        </div><!-- .entry-content -->
+
+        <footer class="post-box__footer">
+            <a href="http://soshinenie.ru/roman-dubrovskij-kak-prizyv-k-pereosmysleniyu/" class="entry-footer__more">Читать полностью</a>
+        </footer><!-- .entry-footer -->
+    
+            	<meta itemscope itemprop="mainEntityOfPage" itemType="https://schema.org/WebPage" itemid="http://soshinenie.ru/roman-dubrovskij-kak-prizyv-k-pereosmysleniyu/" content="<h1>Роман &#8220;Дубровский&#8221; как призыв к переосмыслению</h1>">
+	<meta itemprop="dateModified" content="2021-02-13">
+
+    
+</div><!-- #post-## -->
+
+</div>
+            
+	<nav class="navigation pagination">
+		<div class="screen-reader-text">Posts navigation</div>
+		<div class="nav-links"><span aria-current='page' class='page-numbers current'>1</span>
+<a class='page-numbers' href='http://soshinenie.ru/page/2/'>2</a>
+<span class="page-numbers dots">&hellip;</span>
+<a class='page-numbers' href='http://soshinenie.ru/page/1412/'>1,412</a>
+<a class="next page-numbers" href="http://soshinenie.ru/page/2/">Next</a></div>
+	</nav>
+            
+
+        
+		</main><!-- #main -->
+	</div><!-- #primary -->
+
+
+<aside id="secondary" class="widget-area" itemscope itemtype="http://schema.org/WPSideBar">
+
+    
+	<div id="search-3" class="widget widget_search">
+<form role="search" method="get" id="searchform" action="http://soshinenie.ru/" class="search-form">
+    <label class="screen-reader-text" for="s">Поиск: </label>
+    <input type="text" value="" name="s" id="s" class="search-form__text">
+    <button type="submit" id="searchsubmit" class="search-form__submit"></button>
+</form></div><div id="custom_html-3" class="widget_text widget widget_custom_html"><div class="widget-header">Рекламные объявления</div><div class="textwidget custom-html-widget"><style>.textwidget ins {padding:0!important;}</style>
+<center><script type="text/javascript"><!--
+google_ad_client = "ca-pub-1466795592908955";
+/* 336x280, soshinenie.ru */
+google_ad_slot = "2014409789";
+google_ad_width = 336;
+google_ad_height = 280;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></center></div></div><div id="custom_html-4" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><!-- Yandex.RTB R-A-417923-3 -->
+<div id="yandex_rtb_R-A-417923-3"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Context.AdvManager.render({
+                blockId: "R-A-417923-3",
+                renderTo: "yandex_rtb_R-A-417923-3",
+                async: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//an.yandex.ru/system/context.js";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(this, this.document, "yandexContextAsyncCallbacks");
+</script></div></div><div id="custom_html-2" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><div id="iifFSDhOsk27192"></div><script type="text/javascript">
+(function(w){var l = function() {
+  var n = document.getElementsByTagName("script")[0],
+  s = document.createElement("script"),
+  ins = function () { n.parentNode.insertBefore(s, n); };
+  s.type = "text/javascript";
+  s.async = true;
+  s.src = "//mm.n3w1d0ma1n.com/rq.jsp?QPWwlIz13Mzg1bGNmYGhjdzU-Hz4lASM0NzgpbGE";
+  ins();
+};
+l();
+})(window);</script></div></div><div id="custom_html-5" class="widget_text widget widget_custom_html"><div class="widget-header">Краткие анонсы публикаций</div><div class="textwidget custom-html-widget"><div id="DIV_DA_89583"></div></div></div><div id="wpshop_articles-2" class="widget widget_wpshop_articles">
+
+            
+                <div class="widget-article">
+                    <div class="widget-article__image">
+						<a href="http://soshinenie.ru/esse-ptica-simvol-russkogo-yazyka/">
+                                                </a>
+                    </div>
+                    <div class="widget-article__body">
+                        <div class="widget-article__title"><a href="http://soshinenie.ru/esse-ptica-simvol-russkogo-yazyka/"><h1>Эссе. Птица-символ русского языка</h1></a></div>
+                    </div>
+                </div>
+
+            
+
+
+            
+
+            
+                <div class="widget-article">
+                    <div class="widget-article__image">
+						<a href="http://soshinenie.ru/slozhnoe-protivorechivoe-nepostizhimoe-sushhestvo-chelovek-sochinenie-po-povesti-v-bykova-sotnikov/">
+                                                </a>
+                    </div>
+                    <div class="widget-article__body">
+                        <div class="widget-article__title"><a href="http://soshinenie.ru/slozhnoe-protivorechivoe-nepostizhimoe-sushhestvo-chelovek-sochinenie-po-povesti-v-bykova-sotnikov/"><h1>Сложное, противоречивое, непостижимое существо человек (сочинение по повести В. Быкова «Сотников»)</h1></a></div>
+                    </div>
+                </div>
+
+            
+
+
+            
+
+            
+                <div class="widget-article">
+                    <div class="widget-article__image">
+						<a href="http://soshinenie.ru/chto-takoe-filologiya-i-chem-zanimaetsya-filolog/">
+                                                </a>
+                    </div>
+                    <div class="widget-article__body">
+                        <div class="widget-article__title"><a href="http://soshinenie.ru/chto-takoe-filologiya-i-chem-zanimaetsya-filolog/"><h1>Что такое филология и чем занимается филолог?</h1></a></div>
+                    </div>
+                </div>
+
+            
+
+
+            
+
+            
+                <div class="widget-article">
+                    <div class="widget-article__image">
+						<a href="http://soshinenie.ru/velikij-bal-u-satany-po-romanu-bulgakova-master-i-margarita/">
+                                                </a>
+                    </div>
+                    <div class="widget-article__body">
+                        <div class="widget-article__title"><a href="http://soshinenie.ru/velikij-bal-u-satany-po-romanu-bulgakova-master-i-margarita/"><h1>Великий бал у сатаны &#8211; по роману Булгакова «Мастер и Маргарита»</h1></a></div>
+                    </div>
+                </div>
+
+            
+
+
+            
+
+            
+                <div class="widget-article">
+                    <div class="widget-article__image">
+						<a href="http://soshinenie.ru/famusov-i-chackij-konflikt-pokolenij/">
+                                                </a>
+                    </div>
+                    <div class="widget-article__body">
+                        <div class="widget-article__title"><a href="http://soshinenie.ru/famusov-i-chackij-konflikt-pokolenij/"><h1>Фамусов и Чацкий: конфликт поколений</h1></a></div>
+                    </div>
+                </div>
+
+            
+
+
+            </div><div id="custom_html-6" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><!-- Composite Start -->
+<div id="M658295ScriptRootC1093035">
+</div>
+<script src="https://jsc.mgid.com/s/o/soshinenie.ru.1093035.js" async>
+</script>
+<!-- Composite End -->
+</div></div>
+    
+</aside><!-- #secondary -->
+
+	</div><!-- #content -->
+
+    
+    
+
+
+    <footer class="site-footer container" itemscope itemtype="http://schema.org/WPFooter">
+        <div class="site-footer-inner ">
+
+            <div class="footer-info">
+                © 2021 Школьный Отличник
+                            </div><!-- .site-info -->
+
+            <div class="footer-social">
+<div class="social-buttons social-buttons--square social-buttons--circle social-buttons--small">
+
+    
+    
+    
+    
+    
+    
+    
+    
+    </div></div>
+            <div class="footer-counters">
+                <!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(54264025, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/54264025" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+<!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t16.2;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число просмотров за 24"+
+" часа, посетителей за 24 часа и за сегодня' "+
+"border='0' width='88' height='31'><\/a>")
+//--></script><!--/LiveInternet-->
+<!--Rating@Mail.ru counter-->
+<a target="_top" rel="nofollow" href="http://top.mail.ru/jump?from=1667992"><img src="http://d3.c7.b9.a1.top.mail.ru/counter?id=1667992;t=223" style="border:0;"
+height="31" width="88" alt="Рейтинг@Mail.ru" />
+<script id="top100Counter" type="text/javascript" src="http://counter.rambler.ru/top100.jcn?1974129"></script>
+<noscript><img src="http://counter.rambler.ru/top100.cnt?1974129" alt="Rambler's Top100" width="1" height="1" border="0" /></noscript>            </div>
+
+        </div><!-- .site-footer-inner -->
+    </footer><!-- .site-footer -->
+
+
+            <button type="button" class="scrolltop js-scrolltop"></button>
+    
+
+</div><!-- #page -->
+
+
+<script  src='http://soshinenie.ru/wp-content/themes/root/js/scripts.min.js?ver=2.2.4'></script>
+<script  src='http://soshinenie.ru/wp-includes/js/wp-embed.min.js?ver=5.2.2'></script>
+<script type="text/javascript" src="http://st.pc.adonweb.ru/js/adv_out.js"></script>
+<script charset="windows-1251" type="text/javascript" src="http://www.directadvert.ru/show.cgi?adp=89583&div=DIV_DA_89583"></script>
+<script charset="windows-1251" type="text/javascript" src="http://www.directadvert.ru/show.cgi?adp=89928&div=DIV_DA_89928"></script>
+</body>
+</html><!-- hyper cache: c00bce1d1e907fdbdfe8d8b374f273e4 21-03-01 07:47:31 -->

@@ -1,0 +1,358 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Отраслевые порталы Фирмика.ру</title>
+        <meta name='description' content=''>
+        <meta name='keywords' content=''>
+
+        <meta http-equiv='Content-Type' content='text/html; charset=utf-8'>
+        <link rel="stylesheet" href="https://firmika.ru/assets/packs/main.css?v=113"/><meta name="yandex-verification" content="c4119591740859b8" /><link rel="stylesheet" href="https://firmika.ru/app/p/base/index/index.css?v=113"/><script type="text/javascript" src="https://firmika.ru/js/vendor/postMessage.js?v=113"></script><!--[if lt IE 9]><link rel="stylesheet" href="css/ie.css"><![endif]--><link rel="stylesheet" href="https://firmika.ru//css/spheres/4/theme.css?v=113"/><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script><script>window.jQuery || document.write('<script src="/js/vendor/jquery-1.8.3.min.js"><\/script>')</script>        <style>
+            body{margin:0; padding:0; font-size: 0.75em;}
+        </style>
+    </head>
+    <body>
+        <div id='frame_container'>
+            <div class='p_base_index'><div class="wrapper">
+
+    <div id="logo">
+        <a href="//firmika.ru"><img src="img/base_logo2.png"></a>
+    </div>
+
+    <h1 id="about">
+        сеть отраслевых порталов
+    </h1>
+
+
+</div><!-- #wraper-->
+
+
+
+
+
+<div class="spheres" >
+    <div class="row grid_custom3">
+        <div class="col">
+            <h2>Здоровье</h2>
+                <a class="sphere" href="//www.stom-firms.ru">
+        <table>
+            <tr>
+                <td><img src="//www.stom-firms.ru/css/spheres/1/logo.png"></td>
+                <td class="">СТОМАТОЛОГИЯ</td>
+            </tr>
+        </table>
+    </a>
+                    <a class="sphere" href="//med.firmika.ru">
+        <table>
+            <tr>
+                <td><img src="//med.firmika.ru/css/spheres/10/logo.png"></td>
+                <td class="">МЕДИЦИНСКИЕ ЦЕНТРЫ</td>
+            </tr>
+        </table>
+    </a>
+                    <a class="sphere" href="//psy.firmika.ru">
+        <table>
+            <tr>
+                <td><img src="//psy.firmika.ru/css/spheres/21/logo.png"></td>
+                <td class="longName">ПСИХОЛОГИЧЕСКАЯ ПОМОЩЬ</td>
+            </tr>
+        </table>
+    </a>
+                    <a class="sphere" href="//vet.firmika.ru">
+        <table>
+            <tr>
+                <td><img src="//vet.firmika.ru/css/spheres/7/logo.png"></td>
+                <td class="">ВЕТЕРИНАРИЯ</td>
+            </tr>
+        </table>
+    </a>
+                <h2>Красота</h2>
+                <a class="sphere" href="//fitness.firmika.ru">
+        <table>
+            <tr>
+                <td><img src="//fitness.firmika.ru/css/spheres/4/logo.png"></td>
+                <td class="">ФИТНЕС</td>
+            </tr>
+        </table>
+    </a>
+                    <a class="sphere" href="//beauty.firmika.ru">
+        <table>
+            <tr>
+                <td><img src="//beauty.firmika.ru/css/spheres/5/logo.png"></td>
+                <td class="">САЛОНЫ КРАСОТЫ</td>
+            </tr>
+        </table>
+    </a>
+                    <a class="sphere" href="//tattoo.firmika.ru">
+        <table>
+            <tr>
+                <td><img src="//tattoo.firmika.ru/css/spheres/22/logo.png"></td>
+                <td class="">ТАТУ СТУДИИ</td>
+            </tr>
+        </table>
+    </a>
+                <h2>Авто-услуги</h2>
+                <a class="sphere" href="//autoschool.firmika.ru">
+        <table>
+            <tr>
+                <td><img src="//autoschool.firmika.ru/css/spheres/17/logo.png"></td>
+                <td class="">АВТОШКОЛЫ</td>
+            </tr>
+        </table>
+    </a>
+                    <a class="sphere" href="//evacuator.firmika.ru">
+        <table>
+            <tr>
+                <td><img src="//evacuator.firmika.ru/css/spheres/18/logo.png"></td>
+                <td class="">ЭВАКУАТОРЫ</td>
+            </tr>
+        </table>
+    </a>
+                    <a class="sphere" href="//auto.firmika.ru">
+        <table>
+            <tr>
+                <td><img src="//auto.firmika.ru/css/spheres/29/logo.png"></td>
+                <td class="">АВТОСЕРВИСЫ</td>
+            </tr>
+        </table>
+    </a>
+                    <a class="sphere" href="//moto.firmika.ru">
+        <table>
+            <tr>
+                <td><img src="//moto.firmika.ru/css/spheres/30/logo.png"></td>
+                <td class="">МОТОСЕРВИСЫ</td>
+            </tr>
+        </table>
+    </a>
+            </div>
+        <div class="col">
+            <h2>Саморазвитие</h2>
+                <a class="sphere" href="//dance.firmika.ru">
+        <table>
+            <tr>
+                <td><img src="//dance.firmika.ru/css/spheres/8/logo.png"></td>
+                <td class="">ТАНЦЕВАЛЬНЫЕ ШКОЛЫ</td>
+            </tr>
+        </table>
+    </a>
+                    <a class="sphere" href="//lingua.firmika.ru">
+        <table>
+            <tr>
+                <td><img src="//lingua.firmika.ru/css/spheres/9/logo.png"></td>
+                <td class="">ЯЗЫКОВЫЕ ШКОЛЫ</td>
+            </tr>
+        </table>
+    </a>
+                <h2>Досуг</h2>
+                <a class="sphere" href="//anticafe.firmika.ru">
+        <table>
+            <tr>
+                <td><img src="//anticafe.firmika.ru/css/spheres/13/logo.png"></td>
+                <td class="">АНТИКАФЕ</td>
+            </tr>
+        </table>
+    </a>
+                    <a class="sphere" href="//quests.firmika.ru">
+        <table>
+            <tr>
+                <td><img src="//quests.firmika.ru/css/spheres/14/logo.png"></td>
+                <td class="">КВЕСТЫ В РЕАЛЬНОСТИ</td>
+            </tr>
+        </table>
+    </a>
+                    <a class="sphere" href="//party.firmika.ru">
+        <table>
+            <tr>
+                <td><img src="//party.firmika.ru/css/spheres/19/logo.png"></td>
+                <td class="">ПРАЗДНИЧНЫЕ АГЕНТСТВА</td>
+            </tr>
+        </table>
+    </a>
+                    <a class="sphere" href="//bani.firmika.ru">
+        <table>
+            <tr>
+                <td><img src="//bani.firmika.ru/css/spheres/23/logo.png"></td>
+                <td class="">БАНИ</td>
+            </tr>
+        </table>
+    </a>
+                    <a class="sphere" href="//wed.firmika.ru">
+        <table>
+            <tr>
+                <td><img src="//wed.firmika.ru/css/spheres/26/logo.png"></td>
+                <td class="">СВАДЕБНЫЕ АГЕНТСТВА</td>
+            </tr>
+        </table>
+    </a>
+                    <a class="sphere" href="//photo.firmika.ru">
+        <table>
+            <tr>
+                <td><img src="//photo.firmika.ru/css/spheres/34/logo.png"></td>
+                <td class="">ФОТОСТУДИИ</td>
+            </tr>
+        </table>
+    </a>
+                <h2>Дети</h2>
+                <a class="sphere" href="//detsad.firmika.ru">
+        <table>
+            <tr>
+                <td><img src="//detsad.firmika.ru/css/spheres/31/logo.png"></td>
+                <td class="">ДЕТСКИЕ САДЫ</td>
+            </tr>
+        </table>
+    </a>
+                    <a class="sphere" href="//detmed.firmika.ru">
+        <table>
+            <tr>
+                <td><img src="//detmed.firmika.ru/css/spheres/35/logo.png"></td>
+                <td class="">ДЕТСКАЯ МЕДИЦИНА</td>
+            </tr>
+        </table>
+    </a>
+            </div>
+        <div class="col">
+            <h2>Бытовые услуги</h2>
+                <a class="sphere" href="//voda-s-dostavkoy.ru">
+        <table>
+            <tr>
+                <td><img src="//voda-s-dostavkoy.ru/css/spheres/3/logo.png"></td>
+                <td class="">ДОСТАВКА ВОДЫ</td>
+            </tr>
+        </table>
+    </a>
+                    <a class="sphere" href="//cleaning.firmika.ru">
+        <table>
+            <tr>
+                <td><img src="//cleaning.firmika.ru/css/spheres/11/logo.png"></td>
+                <td class="">КЛИНИНГОВЫЕ КОМПАНИИ</td>
+            </tr>
+        </table>
+    </a>
+                    <a class="sphere" href="//atelie.firmika.ru">
+        <table>
+            <tr>
+                <td><img src="//atelie.firmika.ru/css/spheres/12/logo.png"></td>
+                <td class="">АТЕЛЬЕ</td>
+            </tr>
+        </table>
+    </a>
+                    <a class="sphere" href="//musor.firmika.ru">
+        <table>
+            <tr>
+                <td><img src="//musor.firmika.ru/css/spheres/16/logo.png"></td>
+                <td class="">ВЫВОЗ МУСОРА</td>
+            </tr>
+        </table>
+    </a>
+                    <a class="sphere" href="//remont.firmika.ru">
+        <table>
+            <tr>
+                <td><img src="//remont.firmika.ru/css/spheres/33/logo.png"></td>
+                <td class="">РЕМОНТ И СТРОИТЕЛЬСТВО</td>
+            </tr>
+        </table>
+    </a>
+                <h2>Деловые услуги</h2>
+                <a class="sphere" href="//buh.firmika.ru">
+        <table>
+            <tr>
+                <td><img src="//buh.firmika.ru/css/spheres/15/logo.png"></td>
+                <td class="">БУХГАЛТЕРИЯ</td>
+            </tr>
+        </table>
+    </a>
+                    <a class="sphere" href="//translate.firmika.ru">
+        <table>
+            <tr>
+                <td><img src="//translate.firmika.ru/css/spheres/20/logo.png"></td>
+                <td class="">БЮРО ПЕРЕВОДОВ</td>
+            </tr>
+        </table>
+    </a>
+                    <a class="sphere" href="//realty.firmika.ru">
+        <table>
+            <tr>
+                <td><img src="//realty.firmika.ru/css/spheres/24/logo.png"></td>
+                <td class="">АГЕНТСТВА НЕДВИЖИМОСТИ</td>
+            </tr>
+        </table>
+    </a>
+                    <a class="sphere" href="//print.firmika.ru">
+        <table>
+            <tr>
+                <td><img src="//print.firmika.ru/css/spheres/25/logo.png"></td>
+                <td class="">ТИПОГРАФИИ</td>
+            </tr>
+        </table>
+    </a>
+                    <a class="sphere" href="//law.firmika.ru">
+        <table>
+            <tr>
+                <td><img src="//law.firmika.ru/css/spheres/27/logo.png"></td>
+                <td class="">ЮРИДИЧЕСКИЕ КОМПАНИИ</td>
+            </tr>
+        </table>
+    </a>
+                    <a class="sphere" href="//promo.firmika.ru">
+        <table>
+            <tr>
+                <td><img src="//promo.firmika.ru/css/spheres/28/logo.png"></td>
+                <td class="">РЕКЛАМНЫЕ АГЕНТСТВА</td>
+            </tr>
+        </table>
+    </a>
+            </div>
+
+
+
+    </div>
+</div>
+
+
+</div>        </div>
+        <script type="text/javascript" src="https://firmika.ru/assets/packs/main.js?v=113"></script><!--[if lte IE 9]><script src="js/ie.js"></script><![endif]-->                <!-- Google Analytics -->
+        <script type="text/javascript">
+            var _gaq = _gaq || [];
+            var pluginUrl = '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
+            _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
+            _gaq.push(['_setAccount', 'UA-36440283-1']);
+            _gaq.push(['_setDomainName', 'auto']);
+            _gaq.push(['_setCustomVar', 1, 'structure', '0 - ', 3]);
+                _gaq.push(['_setCustomVar', 2, 'sector', '0', 3]);
+                _gaq.push(['_setCustomVar', 3, 'start_structure', '0 - ', 3]);
+                _gaq.push(['_setCustomVar', 4, 'start_sector', '0', 3]);
+
+
+                _gaq.push(['_trackPageview']);
+        
+                (function () {
+                    var ga = document.createElement('script');
+                    ga.type = 'text/javascript';
+                    ga.async = true;
+                    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                    var s = document.getElementsByTagName('script')[0];
+                    s.parentNode.insertBefore(ga, s);
+                })();
+        </script>
+        <!-- /Google Analytics -->
+        <!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+(function(){setTimeout(function(){
+        (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+            (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+    var p = JSON.parse('{"Дизайн":"A2","Права пользователя":"Посетитель","Тест 1":"v2","Тест 2":"v1","Расшифровка цен":"Нет"}');  window.metrikaId = 20225230;
+   ym(window.metrikaId, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor: true,
+        userParams: p,
+        params: p
+   });
+},1);})();
+
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/20225230" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->    </body>
+</html>

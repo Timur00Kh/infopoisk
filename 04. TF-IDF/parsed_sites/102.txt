@@ -1,0 +1,1447 @@
+<html>
+<head>
+<script type="text/javascript">
+		var ucoz_rndid = 'b2ibwyWu';
+		function uOnDomOrLater(f){
+			if(document.readyState == 'loading') {
+				if(document.addEventListener) {
+					document.addEventListener('DOMContentLoaded',f);
+				} else {
+					window.attachEvent('onload',f);
+				}
+			} else {
+				setTimeout(f,0);
+			}
+		}
+	
+			function resizeFrame() {
+				var WX, WY, BX, BY;
+				var o = document.getElementById("iFb2ibwyWu") , t , d;
+				if (!o) return;
+				d = o.contentDocument;
+				if (!(t = d.getElementById("wrapperXb2ibwyWu"))) WX = 0;
+				else WX = t.value;
+				if (!(t = d.getElementById("wrapperYb2ibwyWu"))) WY = 0;
+				else WY = t.value;
+				if (!(t = d.getElementById("bannerXb2ibwyWu"))) BX = 0;
+				else BX = t.value;
+				if (!(t = d.getElementById("bannerYb2ibwyWu"))) BY = 0;
+				else BY = t.value;
+				BX = parseInt(BX) + parseInt(WX);
+				BY = parseInt(BY) + parseInt(WY);
+				if (BX < 0) o.style.width = "100%";
+				else if (BX > 0) o.style.width = BX + "px";
+				if (BY < 0) o.style.height = "100%";
+				else if (BY > 0) {
+					o.style.height = Math.max(BY, 100) + "px";
+				}
+
+				if (d.body) {
+					d.body.insertAdjacentHTML('beforeend', '<style>html,body{width:100%;height:90px;min-width:200px;min-height:90px;padding:0;margin:0;display:block;}</style>');
+				}
+			}
+			document.write('<iframe style="position:fixed;right:0px;top:0px;z-index:2147483646;" height="0" width="0" onload="resizeFrame();" id="iFb2ibwyWu" frameborder="0" scrolling="no" src="/?MKqFxvIfyO9D%21sipgVUphb8%3B2UdLGCtpGL%5EKUGIUE3qWBvOOXwprhndYIlv%3BQPLDzNrEmp9XyxI1%5EuRhVnbianj%3BJnvWJj5FBpS56xgsGbFVF4Ai5plPKw0gE65%21Xfmx9pXq0w5RRCuxk10F%3BPM%3BG7XJzV6cxlf%3BZDhWmYVa3K9kkO2OfzqU"></iframe>');
+		</script>
+	<script type="text/javascript">new Image().src = "//counter.yadro.ru/hit;ucoz100x70?r"+escape(document.referrer)+(screen&&";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth||screen.pixelDepth))+";u"+escape(document.URL)+";"+Date.now();</script>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<title>ШКОЛА ПИФАГОРА - Главная страница</title>
+  <meta name="description" content="Сайт по математике и информатике. Математика и информатика в школе. Множество задач и решений" /> <meta name="keywords" content="математика, информатика, видеоуроки, ЕГЭ, ГИА, задачи, алгебра, геометрия" /> 
+
+<link type="text/css" rel="StyleSheet" href="/_st/my.css" />
+
+	<link rel="stylesheet" href="/.s/src/base.min.css" />
+	<link rel="stylesheet" href="/.s/src/layer1.min.css" />
+
+	<script src="/.s/src/jquery-1.12.4.min.js"></script>
+	
+	<script src="/.s/src/uwnd.min.js"></script>
+	<script type="text/javascript" src="//s83.ucoz.net/cgi/uutils.fcg?a=uSD&ca=2&ug=999&isp=1&r=0.18129723656364"></script>
+<script type="text/javascript">/* --- UCOZ-JS-INIT_CODE --- */
+	window.ulb = {photoPage:"Перейти на страницу с фотографией.", closeBtn:"Закрыть", error:"Запрошенный контент не может быть загружен. Пожалуйста, попробуйте позже.", next:"Следующий", prev:"Предыдущий", btnPlay:"Начать слайдшоу", btnToggle:"Изменить размер", };
+/* --- UCOZ-JS-END --- */</script>
+
+	<link rel="stylesheet" href="/.s/src/ulightbox/ulightbox.min.css" />
+	<script src="/.s/src/ulightbox/ulightbox.min.js"></script>
+	<script async defer src="https://www.google.com/recaptcha/api.js?onload=reCallback&render=explicit&hl=ru"></script>
+	<script type="text/javascript">
+/* --- UCOZ-JS-DATA --- */
+window.uCoz = {"language":"ru","ssid":"640371171411634425673"};
+/* --- UCOZ-JS-CODE --- */
+
+	function reCallback() {
+		$('.g-recaptcha').each(function(index, element ) {
+			element.setAttribute('rcid', index );
+			
+		if ($(element).is(':empty') && grecaptcha.render ) {
+			grecaptcha.render(element, {
+				sitekey:element.getAttribute('data-sitekey'),
+				theme:element.getAttribute('data-theme'),
+				size:element.getAttribute('data-size')
+			});
+		}
+	
+		});
+	}
+	function reReset(reset ) {
+		reset && grecaptcha.reset(reset.previousElementSibling.getAttribute('rcid') );
+		if (!reset ) for (rel in ___grecaptcha_cfg.clients ) grecaptcha.reset(rel );
+	}
+	
+/* --- UCOZ-JS-END --- */
+</script>
+
+	<style type="text/css">.UhideBlock{display:none; }
+</style>
+<script type="text/javascript">//<!--
+	function uSocialLogin(t) {
+		var params = { 'vkontakte':{ 'width':790, 'height':400 }, 'facebook':{ 'width':950, 'height':520 }, 'yandex':{ 'width':870, 'height':515 }, 'google':{ 'width':700, 'height':600 }, 'ok':{ 'width':710, 'height':390 } };
+		var ref = escape(location.protocol + '//' + ('xn----7sbbao2ali0aghq2c8b.xn--p1ai' || location.hostname) + location.pathname + ((location.hash ? ( location.search ? location.search + '&' : '?' ) + 'rnd=' + Date.now() + location.hash : ( location.search || '' ))));
+		// var ref = escape(location.href);
+		window.open('/'+t+'?ref='+ref,'conwin','width='+params[t].width+',height='+params[t].height+',status=1,resizable=1,left='+parseInt((screen.availWidth/2)-(params[t].width/2))+',top='+parseInt((screen.availHeight/2)-(params[t].height/2)-20)+'screenX='+parseInt((screen.availWidth/2)-(params[t].width/2))+',screenY='+parseInt((screen.availHeight/2)-(params[t].height/2)-20));
+		return false;
+	}
+//--></script>
+
+<link type="text/css" rel="stylesheet" href="/.s/src/social.css" />
+
+</head>
+
+<body style="background:#FFFFFF; margin:0px; padding:0px;">
+<div id="utbr8214" rel="s83"></div>
+
+<!--U1AHEADER1Z--><table style="background: url(&quot;/.s/t/761/1.gif&quot;) repeat scroll 0% 0% rgb(93, 93, 153); width: 100%; height: 264px;" align="" border="0" cellpadding="0" cellspacing="0" width="">
+<tbody><tr><td style="background-color: rgb(0, 48, 177); letter-spacing: 0px; word-spacing: 0px;" rowspan="3" align="center" height="218" width="366"><img alt="" src="/0999/099/pifagor.png" align="middle" height="239" width="242"><br></td>
+<td style="font-size: 10px; text-align: right; background-color: rgb(0, 48, 177); letter-spacing: 0px; word-spacing: 0px;" align="right" height="36"><span style="color: rgb(255, 255, 255);">Понедельник, 01.03.2021, 22:47</span></td></tr>
+<tr align="center"><td style="background-color: rgb(60, 149, 238); letter-spacing: 0px; word-spacing: 0px;" height="28">
+ <script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+<g:plusone></g:plusone>
+ <b><span style="color: rgb(255, 255, 255); font: 36pt Impact;"><i><!-- <logo> -->Ш&nbsp; К&nbsp; О&nbsp; Л&nbsp; А&nbsp;&nbsp;&nbsp;&nbsp; П&nbsp; И&nbsp; Ф&nbsp; А&nbsp; Г&nbsp; О&nbsp; Р&nbsp; А<!-- </logo> --></i></span></b>
+ <br></td></tr>
+<tr><td style="background-color: rgb(0, 48, 177); letter-spacing: 0px; word-spacing: 0px;" height="154"><div align="center"><div align="center"><div><b><span style="font-size: 18pt; color: rgb(135, 206, 235); font-family: Monotype Corsiva;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Предмет математики настолько серьезен, что нужно </span></b><br><div><b><span style="font-size: 18pt; color: rgb(135, 206, 235); font-family: Monotype Corsiva;"></span></b><b><span style="font-size: 18pt; color: rgb(135, 206, 235); font-family: Monotype Corsiva;"><b><span style="font-size: 18pt; color: rgb(135, 206, 235); font-family: Monotype Corsiva;">не упускать случая, </span></b>сделать его немного занимательным". </span></b><b><span style="font-family: Monotype Corsiva; font-size: 18pt; color: rgb(135, 206, 235);"></span></b><br></div></div><div><b><span style="font-family: Monotype Corsiva; font-size: 18pt; color: rgb(135, 206, 235);">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Блез Паскаль</span></b><b><span style="font-size: 18pt; color: rgb(135, 206, 235); font-family: Monotype Corsiva;"></span></b></div></div>
+<div align="right"><div align="LEFT"><script type="text/javascript" src="//yandex.st/share/share.js"
+charset="utf-8"></script>
+<div class="yashare-auto-init" data-yasharel10n="ru" data-yasharetype="button" data-yasharequickservices="yaru,vkontakte,facebook,twitter,odnoklassniki,moimir"></div></div></div></div></td></tr><tr><td style="font-size: 10px; background-color: rgb(60, 149, 238); letter-spacing: 0px; word-spacing: 0px;" height="40"><a href="http://школа-пифагора.рф/">Главная<!--</s>--></a>  | <a href="/register"><!--<s3089>-->Регистрация<!--</s>--></a>  | <a href="javascript:;" rel="nofollow" onclick="new _uWnd('LF', ' ', -250, -110, {autosize:1, closeonesc:1, resize:1 }, {url:'/index/40' } ); return false;"><!--<s3087>-->Вход<!--</s>--></a></td>
+<td style="font-size: 10px; text-align: right; background-color: rgb(60, 149, 238); letter-spacing: 0px; word-spacing: 0px;" align="right" height="40"><!--<s5212>-->Приветствую Вас<!--</s>--> <b>Гость</b> | <a href="http://xn----7sbbao2ali0aghq2c8b.xn--p1ai/news/rss/">RSS</a></td></tr>
+<tr><td colspan="2" height="6"></td></tr>
+</tbody></table>
+<div style="text-align: center;">
+ <font color="#000080"><span style="font-size: 12pt;"><b style=""><span style="font-size: 12pt;"><a style="" href="/publ/pamjatki_po_matematike/41">ПАМЯТКИ ПО МАТЕМАТИКЕ</a> &nbsp;
+ <a href="/publ/velikie_matematiki/7">ВЕЛИКИЕ МАТЕМАТИКИ</a> &nbsp;
+ <a style="" href="/load/teorija_chisel/39">ТЕОРИЯ ЧИСЕЛ</a> &nbsp;
+ <a style="" href="/publ/matematicheskie_golovolomki/matematicheskaja_logika/50">МАТЕМАТИЧЕСКАЯ ЛОГИКА</a></span></b></span></font>
+</div>
+<!-- Yandex.RTB R-A-352131-5 -->
+<div id="yandex_rtb_R-A-352131-5"></div>
+<script type="text/javascript">
+ (function(w, d, n, s, t) {
+ w[n] = w[n] || [];
+ w[n].push(function() {
+ Ya.Context.AdvManager.render({
+ blockId: "R-A-352131-5",
+ renderTo: "yandex_rtb_R-A-352131-5",
+ async: true
+ });
+ });
+ t = d.getElementsByTagName("script")[0];
+ s = d.createElement("script");
+ s.type = "text/javascript";
+ s.src = "//an.yandex.ru/system/context.js";
+ s.async = true;
+ t.parentNode.insertBefore(s, t);
+ })(this, this.document, "yandexContextAsyncCallbacks");
+</script><!--/U1AHEADER1Z-->
+
+<table cellpadding="0" cellspacing="0" border="0" width="100%"><tr><td width="100%" align="center">
+
+<!-- <middle> -->
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td valign="top" width="220" style="background:url('/3.gif') #E7EAE1;">
+<!--U1CLEFTER1Z--><center>
+<!-- <block1> -->
+
+<table border="0" cellpadding="0" cellspacing="3" style="margin:5px 10px 0 10px;" width="240">
+<tr><td style="border-bottom:1px solid #9CA725;color:#606615;padding:5px 10px 5px 10px;" align="center"><b><!-- <bt> --><!--<s5184>-->УРОКИ МАТЕМАТИКИ В ШКОЛЕ<!--</s>--><!-- </bt> --></b></td></tr>
+<tr><td><!-- <bc> --><div id="uMenuDiv9" class="uMenuV" style="position:relative;"><ul class="uMenuRoot">
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="http://школа-пифагора.рф/"><span>КАРТА САЙТА</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/load/2"><span>КОНСПЕКТЫ УРОКОВ МАТЕМАТИКИ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/load/3"><span>ВНЕКЛАССНЫЕ МЕРОПРИЯТИЯ ПО МАТЕМАТИКЕ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/load/17"><span>НЕСТАНДАРТНЫЕ УРОКИ МАТЕМАТИКИ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/index/0-62"><span>ОБУЧЕНИЕ ДОКАЗАТЕЛЬСТВУ МАТЕМАТИЧЕСКИХ ПРЕДЛОЖЕНИЙ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li style="position:relative;"><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><div class="uMenuArrow"></div><a href="/load/138"><span>ГЕОМЕТРИЯ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div><ul style="display:none;">
+<li><div class="uMenuItem"><a href="/publ/80"><span>ЖИВОЙ УЧЕБНИК ГЕОМЕТРИИ</span></a></div></li>
+<li><div class="uMenuItem"><a href="/index/0-59"><span>ТРИ КЛАССИЧЕСКИЕ ЗАДАЧИ НА ПОСТРОЕНИЕ</span></a></div></li>
+<li><div class="uMenuItem"><a href="/index/0-64"><span>ЖЕМЧУЖИНЫ ТЕОРИИ МНОГОГРАННИКОВ</span></a></div></li>
+<li><div class="uMenuItem"><a href="/index/0-58"><span>РАЗБИЕНИЕ ФИГУР НА МЕНЬШИЕ ЧАСТИ</span></a></div></li>
+<li><div class="uMenuItem"><a href="/index/0-48"><span>КОМПЛЕКСНЫЕ ЧИСЛА И ИХ ПРИМЕНЕНИЕ В ГЕОМЕТРИИ</span></a></div></li>
+<li><div class="uMenuItem"><a href="/index/0-60"><span>НЕПОДВИЖНЫЕ ТОЧКИ</span></a></div></li>
+<li><div class="uMenuItem"><a href="/index/0-61"><span>ДЕЛЕНИЕ ОТРЕЗКА В ДАННОМ ОТНОШЕНИИ</span></a></div></li>
+<li><div class="uMenuItem"><a href="/index/0-75"><span>КОЛДОВСТВО ГЕОМЕТРИИ</span></a></div></li>
+<li><div class="uMenuItem"><a href="/index/0-63"><span>ГЕОМЕТРИЯ И ИСКУССТВО</span></a></div></li></ul></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/index/0-32"><span>ЧЕТЫРЕХЗНАЧНЫЕ МАТЕМАТИЧЕСКИЕ ТАБЛИЦЫ БРАДИСА</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li style="position:relative;"><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><div class="uMenuArrow"></div><a href="/load/34"><span>ПРЕЗЕНТАЦИИ ПО МАТЕМАТИКЕ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div><ul style="display:none;">
+<li><div class="uMenuItem"><a href="/load/35"><span>АЛГЕБРА</span></a></div></li>
+<li><div class="uMenuItem"><a href="/load/36"><span>ГЕОМЕТРИЯ</span></a></div></li>
+<li><div class="uMenuItem"><a href="/load/37"><span>ЗАНИМАТЕЛЬНАЯ МАТЕМАТИКА</span></a></div></li></ul></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/index/0-76"><span>КРИВЫЕ. КУРС ПО ВЫБОРУ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li style="position:relative;"><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><div class="uMenuArrow"></div><span>ЛЕКЦИИ ПО МАТЕМАТИКЕ</span></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div><ul style="display:none;">
+<li><div class="uMenuItem"><a href="/index/0-65"><span>АНАЛИЗ</span></a></div></li>
+<li><div class="uMenuItem"><a href="/index/0-66"><span>ДИФФЕРЕНЦИАЛЬНЫЕ УРАВНЕНИЯ</span></a></div></li>
+<li><div class="uMenuItem"><a href="/index/0-67"><span>ЛИНЕЙНАЯ АЛГЕБРА</span></a></div></li>
+<li><div class="uMenuItem"><a href="/index/0-68"><span>ВЕРОЯТНОСТЬ. СТАТИСТИКА</span></a></div></li>
+<li><div class="uMenuItem"><a href="/index/0-69"><span>ФУНКЦИОНАЛЬНЫЙ АНАЛИЗ</span></a></div></li>
+<li><div class="uMenuItem"><a href="/index/0-70"><span>ОТ ДИОФАНТА ДО ТЬЮРИНГА</span></a></div></li>
+<li><div class="uMenuItem"><a href="/index/0-71"><span>ОПТИМИЗАЦИЯ</span></a></div></li>
+<li><div class="uMenuItem"><a href="/index/0-72"><span>ТЕОРИЯ ГРУПП</span></a></div></li>
+<li><div class="uMenuItem"><a href="/index/0-73"><span>ПЕРЕБОР И ЭФФЕКТИВНЫЕ АЛГОРИТМЫ</span></a></div></li>
+<li><div class="uMenuItem"><a href="/index/0-74"><span>УРАВНЕНИЯ МАТЕМАТИЧЕСКОЙ ФИЗИКИ</span></a></div></li></ul></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/index/0-34"><span>ВСЕ ЗАДАЧИ "КЕНГУРУ"</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li style="position:relative;"><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><div class="uMenuArrow"></div><a href="/load/146"><span>ЗАДАНИЯ ПОВЫШЕННОГО УРОВНЯ СЛОЖНОСТИ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div><ul style="display:none;">
+<li><div class="uMenuItem"><a href="/load/44"><span>РЕШЕНИЕ СЛОЖНЫХ И НЕСТАНДАРТНЫХ ЗАДАЧ ПО МАТЕМАТИКЕ</span></a></div></li>
+<li><div class="uMenuItem"><a href="/index/0-79"><span>УДИВИТЕЛЬНЫЕ РАВЕНСТВА</span></a></div></li></ul></li></ul></div><script type="text/javascript">$(function(){_uBuildMenu('#uMenuDiv9',0,document.location.href+'/','uMenuItemA','uMenuArrow',2500);})</script><!-- </bc> --></td></tr>
+</table>
+
+<!-- </block1> -->
+<br>
+<!-- <block1> -->
+<table border="0" cellpadding="0" cellspacing="0" width="240">
+<tbody>
+<tr><td>
+<!-- Yandex.RTB R-A-352131-1 -->
+<div id="yandex_rtb_R-A-352131-1"></div>
+<script type="text/javascript">
+ (function(w, d, n, s, t) {
+ w[n] = w[n] || [];
+ w[n].push(function() {
+ Ya.Context.AdvManager.render({
+ blockId: "R-A-352131-1",
+ renderTo: "yandex_rtb_R-A-352131-1",
+ async: true
+ });
+ });
+ t = d.getElementsByTagName("script")[0];
+ s = d.createElement("script");
+ s.type = "text/javascript";
+ s.src = "//an.yandex.ru/system/context.js";
+ s.async = true;
+ t.parentNode.insertBefore(s, t);
+ })(this, this.document, "yandexContextAsyncCallbacks");
+</script>
+</td></tr>
+</tbody></table>
+<!-- </block1> -->
+<br>
+<!-- <block1> -->
+
+<table border="0" cellpadding="0" cellspacing="3" style="margin:5px 10px 0 10px;" width="240">
+<tr><td style="border-bottom:1px solid #9CA725;color:#606615;padding:5px 10px 5px 10px;" align="center"><b><!-- <bt> --><!--<s5184>-->МАТЕМАТИЧЕСКАЯ КЛАДОВАЯ<!--</s>--><!-- </bt> --></b></td></tr>
+<tr><td><!-- <bc> --><div id="uMenuDiv1" class="uMenuV" style="position:relative;"><ul class="uMenuRoot">
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/load/uchebnye_programmy_dlja_uchitelja_matematiki/27"><span>УЧЕБНЫЕ ПРОГРАММЫ ДЛЯ УЧИТЕЛЯ МАТЕМАТИКИ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="http://xn----7sbbao2ali0aghq2c8b.xn--p1ai/index/posobija_i_metodichki_dlja_prepodavatelja_matematiki/0-21"><span>ПОСОБИЯ И МЕТОДИЧКИ ДЛЯ УЧИТЕЛЯ МАТЕМАТИКИ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="http://xn----7sbbao2ali0aghq2c8b.xn--p1ai/index/matematicheskoe_prosveshhenie/0-22"><span>МАТЕМАТИЧЕСКОЕ ПРОСВЕЩЕНИЕ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/load/didakticheskie_igry_na_uroke_matematiki/22"><span>ДИДАКТИЧЕСКИЕ ИГРЫ НА УРОКЕ МАТЕМАТИКИ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li style="position:relative;"><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><div class="uMenuArrow"></div><a href="http://shkolapifagora.my1.ru/load/matematicheskie_diktanty_algebra/86"><span>МАТЕМАТИЧЕСКИЕ ДИКТАНТЫ/АЛГЕБРА</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div><ul style="display:none;">
+<li><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/load/matematicheskie_diktanty_algebra/5_klass/87"><span>5 КЛАСС</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/load/matematicheskie_diktanty_algebra/6_klass/88"><span>6 КЛАСС</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/load/matematicheskie_diktanty_algebra/7_klass/89"><span>7 КЛАСС</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/load/matematicheskie_diktanty_algebra/8_klass/90"><span>8 КЛАСС</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/load/matematicheskie_diktanty_algebra/9_klass/91"><span>9 КЛАСС</span></a></div></li></ul></li>
+<li style="position:relative;"><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><div class="uMenuArrow"></div><a href="http://shkolapifagora.my1.ru/load/matematicheskie_diktanty_geometrija/92"><span>МАТЕМАТИЧЕСКИЕ ДИКТАНТЫ/ГЕОМЕТРИЯ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div><ul style="display:none;">
+<li><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/load/matematicheskie_diktanty_geometrija/7_klass/93"><span>7 КЛАСС</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/load/matematicheskie_diktanty_geometrija/8_klass/94"><span>8 КЛАСС</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/load/matematicheskie_diktanty_geometrija/9_klass/95"><span>9 КЛАСС</span></a></div></li></ul></li>
+<li style="position:relative;"><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><div class="uMenuArrow"></div><a href="http://shkolapifagora.my1.ru/load/metodicheskie_narabotki/56"><span>МЕТОДИЧЕСКИЕ НАРАБОТКИ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div><ul style="display:none;">
+<li><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/load/iz_opyta_raboty_uchitelja_matematiki/4"><span>ИЗ ОПЫТА РАБОТЫ УЧИТЕЛЯ МАТЕМАТИКИ</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/load/prepodaem_algebru_i_nachala_matematicheskogo_analiza/58"><span>ПРЕПОДАЕМ АЛГЕБРУ И НАЧАЛА МАТЕМАТИЧЕСКОГО АНАЛИЗА</span></a></div><ul style="display:none;">
+<li><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/load/prepodaem_algebru_i_nachala_matematicheskogo_analiza/10_klass/59"><span>10 КЛАСС</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/load/prepodaem_algebru_i_nachala_matematicheskogo_analiza/11_klass/60"><span>11 КЛАСС</span></a></div></li></ul></li></ul></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/index/0-40"><span>УРАВНЕНИЯ И НЕРАВЕНСТВА С ПАРАМЕТРОМ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li style="position:relative;"><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><div class="uMenuArrow"></div><a href="http://shkolapifagora.my1.ru/publ/matematika_v_5_klasse/4"><span>МАТЕМАТИКА В 5 КЛАССЕ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div><ul style="display:none;">
+<li><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/load/matematika_v_5_klasse/uchebno_metodicheskij_komplekt_k_urokam/77"><span>УЧЕБНО-МЕТОДИЧЕСКИЙ КОМПЛЕКТ К УРОКАМ</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://школа-пифагора.рф/index/zanimatelnye_zadachi_dlja_pjatiklassnikov/0-19"><span>ЗАНИМАТЕЛЬНЫЕ ЗАДАЧИ ДЛЯ ПЯТИКЛАССНИКОВ</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/publ/matematika_v_5_klasse/blic_opros/5"><span>БЛИЦ-ОПРОС</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/publ/matematika_v_5_klasse/testy_po_matematike_5_klass/12"><span>ТЕСТЫ ПО МАТЕМАТИКЕ. 5 КЛАСС</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/publ/matematika_v_5_klasse/samostojatelnye_raboty_v_5_6_klassakh/23"><span>САМОСТОЯТЕЛЬНЫЕ РАБОТЫ В 5-6 КЛАССАХ</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/publ/matematika_v_5_klasse/kontrolno_izmeritelnye_materialy/68"><span>КОНТРОЛЬНО-ИЗМЕРИТЕЛЬНЫЕ МАТЕРИАЛЫ</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/publ/matematika_v_5_klasse/kontrolnye_raboty_5_klass/89"><span>КОНТРОЛЬНЫЕ РАБОТЫ. 5 КЛАСС</span></a></div></li></ul></li>
+<li style="position:relative;"><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><div class="uMenuArrow"></div><a href="http://shkolapifagora.my1.ru/publ/matematika_v_6_klasse/76"><span> МАТЕМАТИКА В 6 КЛАССЕ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div><ul style="display:none;">
+<li><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/publ/matematika_v_6_klasse/uchebno_metodicheskij_komplekt_k_urokam/91"><span>УЧЕБНО-МЕТОДИЧЕСКИЙ КОМПЛЕКТ К УРОКАМ</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/publ/matematika_v_6_klasse/razvivajushhie_zadachi/77"><span>РАЗВИВАЮЩИЕ ЗАДАЧИ</span></a></div></li>
+<li><div class="uMenuItem"><a href="/index/nestandartnye_zadachki_dlja_shestiklassnikov/0-18"><span>НЕСТАНДАРТНЫЕ ЗАДАЧКИ ДЛЯ ШЕСТИКЛАССНИКОВ</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/publ/matematika_v_6_klasse/uchebno_metodicheskij_komplekt_k_urokam/83"><span>ДИДАКТИЧЕСКИЙ МАТЕРИАЛ К УРОКАМ</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://школа-пифагора.рф/load/matematika_6_klass/testy_po_matematike/123"><span>ТЕСТЫ ПО МАТЕМАТИКЕ</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/publ/matematika_v_6_klasse/tematicheskie_zachety/90"><span>ТЕМАТИЧЕСКИЕ ЗАЧЕТЫ</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/publ/matematika_v_6_klasse/samostojatelnye_raboty/78"><span>САМОСТОЯТЕЛЬНЫЕ РАБОТЫ</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/publ/matematika_v_6_klasse/kontrolnye_raboty/79"><span>КОНТРОЛЬНЫЕ РАБОТЫ</span></a></div></li></ul></li>
+<li style="position:relative;"><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><div class="uMenuArrow"></div><a href="http://shkolapifagora.my1.ru/publ/matematika_v_7_klasse/42"><span>МАТЕМАТИКА В 7 КЛАССЕ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div><ul style="display:none;">
+<li><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/load/matematika_7_klass/uchebno_metodicheskij_komplekt_k_urokam/79"><span>УЧЕБНО-МЕТОДИЧЕСКИЙ КОМПЛЕКТ К УРОКАМ</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/publ/matematika_v_7_klasse/didakticheskij_material/43"><span>ДИДАКТИЧЕСКИЙ МАТЕРИАЛ</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/publ/matematika_v_7_klasse/samostojatelnye_raboty/64"><span>САМОСТОЯТЕЛЬНЫЕ РАБОТЫ</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/publ/matematika_v_7_klasse/kontrolnye_raboty/62"><span>КОНТРОЛЬНЫЕ РАБОТЫ</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/publ/matematika_v_7_klasse/zadanija_dlja_olimpiady/63"><span>ЗАДАНИЯ ДЛЯ ОЛИМПИАДЫ</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/publ/matematika_v_7_klasse/testovye_zadanija/85"><span>ТЕСТОВЫЕ ЗАДАНИЯ</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://школа-пифагора.рф/publ/obuchajushhie_raboty_po_geometrii_7_klass/94"><span>ОБУЧАЮЩИЕ РАБОТЫ ПО ГЕОМЕТРИИ</span></a></div></li>
+<li><div class="uMenuItem"><a href="/load/114"><span>САМОСТОЯТЕЛЬНЫЕ РАБОТЫ ПО ГЕОМЕТРИИ</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://школа-пифагора.рф/load/matematika_7_klass/kontrolnye_raboty_po_geometrii_7_klass/112"><span>КОНТРОЛЬНЫЕ РАБОТЫ ПО ГЕОМЕТРИИ</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://xn----7sbbao2ali0aghq2c8b.xn--p1ai/index/olimpiadnye_zadanija_i_zadanija_povyshennoj_trudnosti/0-27"><span>ОЛИМПИАДНЫЕ ЗАДАНИЯ И ЗАДАНИЯ ПОВЫШЕННОЙ ТРУДНОСТИ</span></a></div></li></ul></li>
+<li style="position:relative;"><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><div class="uMenuArrow"></div><a href="http://shkolapifagora.my1.ru/publ/matematika_v_8_klasse/69"><span>МАТЕМАТИКА В 8 КЛАССЕ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div><ul style="display:none;">
+<li><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/publ/matematika_v_8_klasse/kartochka_konsultant/73"><span>КАРТОЧКИ-КОНСУЛЬТАНТЫ</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/publ/matematika_v_8_klasse/testovye_diagnosticheskie_raboty/70"><span>ТЕСТОВЫЕ ДИАГНОСТИЧЕСКИЕ РАБОТЫ</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/load/8_klass/testy_po_algebre/74"><span>ТЕСТЫ ПО АЛГЕБРЕ</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/publ/matematika_v_8_klasse/proverochnye_raboty/71"><span>ПРОВЕРОЧНЫЕ РАБОТЫ</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/publ/matematika_v_8_klasse/samostojatelnye_raboty/72"><span>САМОСТОЯТЕЛЬНЫЕ РАБОТЫ</span></a></div></li>
+<li><div class="uMenuItem"><a href="/load/108"><span>КОНТРОЛЬНЫЕ РАБОТЫ ПО АЛГЕБРЕ</span></a></div></li>
+<li><div class="uMenuItem"><a href="/load/139"><span>ГЕОМЕТРИЯ. 8 КЛАСС</span></a></div><ul style="display:none;">
+<li><div class="uMenuItem"><a href="/load/140"><span>ОБУЧАЮЩИЕ РАБОТЫ ПО ГЕОМЕТРИИ</span></a></div></li>
+<li><div class="uMenuItem"><a href="/index/0-46"><span>ГЕОМЕТРИЯ. ДИДАКТИЧЕСКИЕ МАТЕРИАЛЫ</span></a></div></li>
+<li><div class="uMenuItem"><a href="/load/141"><span>ПРОВЕРОЧНЫЕ РАБОТЫ ПО ГЕОМЕТРИИ</span></a></div></li>
+<li><div class="uMenuItem"><a href="/load/121"><span>КОНТРОЛЬНЫЕ РАБОТЫ ПО ГЕОМЕТРИИ</span></a></div></li>
+<li><div class="uMenuItem"><a href="/index/0-81"><span>ДИДАКТИЧЕСКИЙ МАТЕРИАЛ И МЕТОДИЧЕСКИЕ РЕКОМЕНДАЦИИ ДЛЯ УЧИТЕЛЯ. ГЕОМЕТРИЯ 8 КЛАСС</span></a></div></li></ul></li></ul></li>
+<li style="position:relative;"><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><div class="uMenuArrow"></div><a href="http://shkolapifagora.my1.ru/publ/matematika_v_9_klasse/46"><span>МАТЕМАТИКА В 9 КЛАССЕ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div><ul style="display:none;">
+<li><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/load/uchebno_metodicheskij_komplekt_k_urokam/9_klass/62"><span>УЧЕБНО-МЕТОДИЧЕСКИЙ КОМПЛЕКТ К УРОКАМ</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/publ/matematika_v_9_klasse/razvivajushhie_zadanija/75"><span>РАЗВИВАЮЩИЕ ЗАДАНИЯ</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://школа-пифагора.рф/load/kontrolnye_raboty/98"><span>КОНТРОЛЬНЫЕ РАБОТЫ ПО АЛГЕБРЕ</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/publ/matematika_v_9_klasse/planimetrija_v_tezisakh_i_reshenijakh/47"><span>ПЛАНИМЕТРИЯ В ТЕЗИСАХ И РЕШЕНИЯХ</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/publ/matematika_v_9_klasse/testovye_materialy_po_geometrii/93"><span>ТЕСТОВЫЕ МАТЕРИАЛЫ ПО ГЕОМЕТРИИ</span></a></div></li>
+<li><div class="uMenuItem"><a href="/index/0-42"><span>ЗАДАЧИ ПО АЛГЕБРЕ</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/publ/matematika_v_9_klasse/testovye_zadanija/84"><span>ТЕСТОВЫЕ ЗАДАНИЯ</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/load/podgotovka_k_gia/71"><span>ПОДГОТОВКА К ГИА</span></a></div><ul style="display:none;">
+<li><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/publ/matematika_v_9_klasse/podgotovka_k_gia_po_algebre/74"><span>ПОДГОТОВКА К ГИА ПО АЛГЕБРЕ</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/load/praktikum_po_podgotovke_k_gia_9_klass/70"><span>ПРАКТИКУМ ПО ПОДГОТОВКЕ К ГИА. 9 КЛАСС</span></a></div></li></ul></li></ul></li>
+<li style="position:relative;"><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><div class="uMenuArrow"></div><a href="http://shkolapifagora.my1.ru/load/matematika_v_10_klasse/47"><span>МАТЕМАТИКА В 10 КЛАССЕ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div><ul style="display:none;">
+<li><div class="uMenuItem"><a href="/index/matematicheskie_diktanty_po_geometrii_v_10_klasse/0-17"><span>МАТЕМАТИЧЕСКИЕ ДИКТАНТЫ ПО ГЕОМЕТРИИ В 10 КЛАССЕ</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/load/matematika_v_10_klasse/zadanija_k_tematicheskim_zachetam/48"><span>ЗАДАНИЯ К ТЕМАТИЧЕСКИМ ЗАЧЕТАМ</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/load/matematika_v_10_klasse/kontrolnye_raboty/49"><span>КОНТРОЛЬНЫЕ РАБОТЫ ПО АЛГЕБРЕ</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/load/samostojatelnye_raboty_po_algebre_10_klass/72"><span>САМОСТОЯТЕЛЬНЫЕ РАБОТЫ ПО АЛГЕБРЕ</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/load/matematika_v_10_klasse/samostojatelnye_raboty_po_geometrii/68"><span>САМОСТОЯТЕЛЬНЫЕ РАБОТЫ ПО ГЕОМЕТРИИ</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/load/matematika_v_10_klasse/kontrolnye_raboty_po_geometrii/67"><span>КОНТРОЛЬНЫЕ РАБОТЫ ПО ГЕОМЕТРИИ</span></a></div></li></ul></li>
+<li style="position:relative;"><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><div class="uMenuArrow"></div><a href="http://shkolapifagora.my1.ru/publ/matematika_v_11_klasse/31"><span>МАТЕМАТИКА В 11 КЛАССЕ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div><ul style="display:none;">
+<li><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/load/metodicheskie_narabotki/prepodaem_algebru_i_nachala_analiza_v_11_klasse/57"><span>АЛГЕБРА И НАЧАЛА АНАЛИЗА В 11 КЛАССЕ</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/publ/matematika_v_11_klasse/kartochki_s_proverochnymi_rabotami_po_geometrii/32"><span>КАРТОЧКИ С ПРОВЕРОЧНЫМИ РАБОТАМИ ПО ГЕОМЕТРИИ</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/publ/matematika_v_11_klasse/olimpiadnye_zadanija/65"><span>ОЛИМПИАДНЫЕ ЗАДАНИЯ</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/publ/matematika_v_11_klasse/kontrolnye_raboty_po_algebre/92"><span>КОНТРОЛЬНЫЕ РАБОТЫ ПО АЛГЕБРЕ</span></a></div></li></ul></li>
+<li style="position:relative;"><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><div class="uMenuArrow"></div><a href="http://shkolapifagora.my1.ru/publ/kontrolnye_raboty/86"><span>КОНТРОЛЬНЫЕ РАБОТЫ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div><ul style="display:none;">
+<li><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/publ/kontrolnye_raboty/algebra_10_11_klass/87"><span>АЛГЕБРА 10-11 КЛАССЫ</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/publ/kontrolnye_raboty_po_geometrii_dlja_9_10_klassov/48"><span>ГЕОМЕТРИЯ 9-10 КЛАССЫ</span></a></div></li></ul></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/index/0-53"><span>АЛГЕБРА. УГЛУБЛЕННЫЙ КУРС С РЕШЕНИЯМИ И УКАЗАНИЯМИ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li style="position:relative;"><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><div class="uMenuArrow"></div><a href="http://shkolapifagora.my1.ru/load/olimpiady_po_matematike/18"><span>ОЛИМПИАДЫ ПО МАТЕМАТИКЕ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div><ul style="display:none;">
+<li><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/load/olimpiady_po_matematike/matematicheskie_olimpiady_v_5_6_klassakh/96"><span>МАТЕМАТИЧЕСКИЕ ОЛИМПИАДЫ В 5-6 КЛАССАХ</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/load/olimpiady_po_matematike/olimpiady_v_6_klasse/19"><span>ОЛИМПИАДЫ В 6 КЛАССЕ</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/load/olimpiadnye_zadachi_po_matematike_dlja_9_11_klassov/38"><span>ОЛИМПИАДНЫЕ ЗАДАЧИ ПО МАТЕМАТИКЕ ДЛЯ 9-11 КЛАССОВ</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/load/olimpiady_po_matematike/shkolnye_olimpiady_po_matematike/42"><span>ШКОЛЬНЫЕ ОЛИМПИАДЫ ПО МАТЕМАТИКЕ</span></a></div></li>
+<li><div class="uMenuItem"><a href="/index/vserossijskie_olimpiady_shkolnikov_po_matematike_okruzhnoj_i_finalnyj_ehtapy/0-45"><span>ВСЕРОССИЙСКИЕ ОЛИМПИАДЫ ШКОЛЬНИКОВ ПО МАТЕМАТИКЕ ПРОШЛЫХ ЛЕТ</span></a></div></li></ul></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/blog/stikhi_k_urokam_matematiki/1-0-3"><span>СТИХИ К УРОКАМ МАТЕМАТИКИ </span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/publ/matematicheskie_skazki_v_kartinkakh/10"><span>МАТЕМАТИЧЕСКИЕ СКАЗКИ В КАРТИНКАХ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li style="position:relative;"><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><div class="uMenuArrow"></div><a href="http://shkolapifagora.my1.ru/publ/kartochki_po_matematike/18"><span>КАРТОЧКИ ПО АЛГЕБРЕ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div><ul style="display:none;">
+<li><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/publ/kartochki_po_matematike/3_klass/19"><span>3 КЛАСС</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/publ/kartochki_po_matematike/7_klass/45"><span>7 КЛАСС</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/publ/kartochki_po_matematike/dovodjashhie_kartochki/20"><span>ДОВОДЯЩИЕ КАРТОЧКИ</span></a></div></li></ul></li>
+<li style="position:relative;"><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><div class="uMenuArrow"></div><a href="http://shkolapifagora.my1.ru/publ/kartochki_po_matematike/18"><span>КАРТОЧКИ ПО ГЕОМЕТРИИ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div><ul style="display:none;">
+<li><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/publ/kartochki_po_geometrii/nagljadnaja_geometrija/24"><span>НАГЛЯДНАЯ ГЕОМЕТРИЯ</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/publ/kartochki_po_geometrii/raznye_zadachi/67"><span>РАЗНЫЕ ЗАДАЧИ</span></a></div></li></ul></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/index/0-2"><span>ВЫСКАЗЫВАНИЯ О МАТЕМАТИКЕ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li></ul></div><script type="text/javascript">$(function(){_uBuildMenu('#uMenuDiv1',0,document.location.href+'/','uMenuItemA','uMenuArrow',2500);})</script><!-- </bc> --></td></tr>
+</table>
+
+<!-- </block1> -->
+<br>
+<!-- <block1> -->
+<table border="0" cellpadding="0" cellspacing="0" width="240">
+<tbody>
+<tr><td>
+<!-- Yandex.RTB R-A-352131-3 -->
+<div id="yandex_rtb_R-A-352131-3"></div>
+<script type="text/javascript">
+ (function(w, d, n, s, t) {
+ w[n] = w[n] || [];
+ w[n].push(function() {
+ Ya.Context.AdvManager.render({
+ blockId: "R-A-352131-3",
+ renderTo: "yandex_rtb_R-A-352131-3",
+ async: true
+ });
+ });
+ t = d.getElementsByTagName("script")[0];
+ s = d.createElement("script");
+ s.type = "text/javascript";
+ s.src = "//an.yandex.ru/system/context.js";
+ s.async = true;
+ t.parentNode.insertBefore(s, t);
+ })(this, this.document, "yandexContextAsyncCallbacks");
+</script>
+</td></tr>
+</tbody></table>
+<!-- </block1> -->
+<br>
+<!-- <block1> -->
+
+<table border="0" cellpadding="0" cellspacing="3" style="margin:5px 10px 0 10px;" width="240">
+<tr><td style="border-bottom:1px solid #9CA725;color:#606615;padding:5px 10px 5px 10px;" align="center"><b><!-- <bt> --><!--<s5184>-->В МИРЕ ЗАДАЧ<!--</s>--><!-- </bt> --></b></td></tr>
+<tr><td><!-- <bc> --><div id="uMenuDiv5" class="uMenuV" style="position:relative;"><ul class="uMenuRoot">
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/index/0-28"><span>ЗАДАЧИ ДЛЯ ТЕХ, КОМУ ОТ 5 ДО 15</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li style="position:relative;"><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><div class="uMenuArrow"></div><a href="http://shkolapifagora.my1.ru/load/zadachi_na_vyrost/5"><span>ЗАДАЧИ НА ВЫРОСТ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div><ul style="display:none;">
+<li><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/load/zadachi_na_vyrost/zadachi_na_odin_zubok/6"><span>ЗАДАЧИ НА ОДИН ЗУБОК</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/load/zadachi_na_vyrost/golovolomki_i_zadachi_po_geometrii_nozhnic/7"><span>ГОЛОВОЛОМКИ И ЗАДАЧИ ПО ГЕОМЕТРИИ НОЖНИЦ</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/load/zadachi_na_vyrost/takaja_raznaja_matematika/8"><span>ТАКАЯ РАЗНАЯ МАТЕМАТИКА</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/load/zadachi_na_vyrost/matematika_na_shakhmatnoj_doske/9"><span>МАТЕМАТИКА НА ШАХМАТНОЙ ДОСКЕ</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/load/zadachi_na_vyrost/v_poiskakh_ugla/10"><span>В ПОИСКАХ УГЛА</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/load/zadachi_na_vyrost/chisla_i_figury/11"><span>ЧИСЛА И ФИГУРЫ</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/load/zadachi_na_vyrost/geometrija_polna_prikljuchenij/12"><span>ГЕОМЕТРИЯ ПОЛНА ПРИКЛЮЧЕНИЙ</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/load/zadachi_na_vyrost/ot_zadachi_k_zadache/13"><span>ОТ ЗАДАЧИ К ЗАДАЧЕ</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/load/zadachi_na_vyrost/lestnica_zadach/14"><span>ЛЕСТНИЦА ЗАДАЧ</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/load/zadachi_na_vyrost/chto_ja_znaju_o_krugakh/15"><span>ЧТО Я ЗНАЮ О КРУГАХ</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/load/zadachi_na_vyrost/na_ploskosti_i_v_prostranstve/16"><span>НА ПЛОСКОСТИ И В ПРОСТРАНСТВЕ</span></a></div></li></ul></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/index/0-38"><span>ЗАДАЧА АРХИМЕДА О БЫКАХ, АЛГОРИТМ ЕВКЛИДА И УРАВНЕНИЕ ПЕЛЛЯ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="http://школа-пифагора.рф/index/uvlekatelnye_zadachki_iz_papinogo_uchebnika/0-20"><span>УВЛЕКАТЕЛЬНЫЕ ЗАДАЧКИ ИЗ ПАПИНОГО УЧЕБНИКА</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/publ/veselye_zadachi_jakova_perelmana/44"><span>ЗАБАВНЫЕ ЗАДАЧИ ЯКОВА ПЕРЕЛЬМАНА</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/load/137"><span>ГЕОМЕТРИЧЕСКИЕ РЕШЕНИЯ НЕГЕОМЕТРИЧЕСКИХ ЗАДАЧ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/load/147"><span>АЛЬТЕРНАТИВНЫЕ СПОСОБЫ РЕШЕНИЯ ГЕОМЕТРИЧЕСКИХ ЗАДАЧ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/load/133"><span>ГЕОМЕТРИЧЕСКИЕ ЗАДАЧИ НА ГОТОВЫХ ЧЕРТЕЖАХ ДЛЯ ПОДГОТОВКИ К ГИА</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/index/zadachi_po_matematike_v_stikhakh/0-4"><span>ЗАДАЧИ ПО МАТЕМАТИКЕ В СТИХАХ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/publ/zanimatelnaja_matematika/udivitelnyj_mir_chisel/22"><span>УДИВИТЕЛЬНЫЙ МИР ЧИСЕЛ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/load/zadachi_i_rebusy_narodov_mira/21"><span>ЗАДАЧИ И РЕБУСЫ НАРОДОВ МИРА</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/index/0-7"><span>ВЕСЕЛЫЙ ЗАДАЧНИК</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li></ul></div><script type="text/javascript">$(function(){_uBuildMenu('#uMenuDiv5',0,document.location.href+'/','uMenuItemA','uMenuArrow',2500);})</script><!-- </bc> --></td></tr>
+</table>
+
+<!-- </block1> -->
+
+<!-- <block1> -->
+
+<table border="0" cellpadding="0" cellspacing="3" style="margin:5px 10px 0 10px;" width="240">
+<tr><td style="border-bottom:1px solid #9CA725;color:#606615;padding:5px 10px 5px 10px;" align="center"><b><!-- <bt> --><!--<s5184>-->ЕГЭ ПО МАТЕМАТИКЕ<!--</s>--><!-- </bt> --></b></td></tr>
+<tr><td><!-- <bc> --><div id="uMenuDiv8" class="uMenuV" style="position:relative;"><ul class="uMenuRoot">
+<li style="position:relative;"><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><div class="uMenuArrow"></div><a href="http://shkolapifagora.my1.ru/load/trenirovochnye_zadanija_dlja_podgotovki_k_egeh/50"><span>ТРЕНИРОВОЧНЫЕ ЗАДАНИЯ ДЛЯ ПОДГОТОВКИ К ЕГЭ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div><ul style="display:none;">
+<li><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/load/trenirovochnye_zadanija_dlja_podgotovki_k_egeh/modul_1/51"><span>МОДУЛЬ 1</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/load/trenirovochnye_zadanija_dlja_podgotovki_k_egeh/modul_2/52"><span>МОДУЛЬ 2</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/load/trenirovochnye_zadanija_dlja_podgotovki_k_egeh/modul_3/53"><span>МОДУЛЬ 3</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/load/trenirovochnye_zadanija_dlja_podgotovki_k_egeh/modul_4/54"><span>МОДУЛЬ 4</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/load/trenirovochnye_zadanija_dlja_podgotovki_k_egeh/modul_5/55"><span>МОДУЛЬ 5</span></a></div></li></ul></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/load/egeh_universalnye_materialy_dlja_podgotovki/45"><span>ЕГЭ. УНИВЕРСАЛЬНЫЕ МАТЕРИАЛЫ ДЛЯ ПОДГОТОВКИ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/index/0-51"><span>ЕГЭ ПО ГЕОМЕТРИИ. УЧИМСЯ РЕШАТЬ ЗАДАЧИ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li></ul></div><script type="text/javascript">$(function(){_uBuildMenu('#uMenuDiv8',0,document.location.href+'/','uMenuItemA','uMenuArrow',2500);})</script><!-- </bc> --></td></tr>
+</table>
+
+<!-- </block1> -->
+
+<!-- <block1> -->
+
+<table border="0" cellpadding="0" cellspacing="3" style="margin:5px 10px 0 10px;" width="240">
+<tr><td style="border-bottom:1px solid #9CA725;color:#606615;padding:5px 10px 5px 10px;" align="center"><b><!-- <bt> --><!--<s5184>-->МАТЕМАТИКА В НАЧАЛЬНОЙ ШКОЛЕ<!--</s>--><!-- </bt> --></b></td></tr>
+<tr><td><!-- <bc> --><div id="uMenuDiv4" class="uMenuV" style="position:relative;"><ul class="uMenuRoot">
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/publ/matematika_v_nachalnoj_shkole/tablicy_po_matematike_v_nachalnoj_shkole/34"><span>ТАБЛИЦЫ ПО МАТЕМАТИКЕ В НАЧАЛЬНОЙ ШКОЛЕ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li style="position:relative;"><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><div class="uMenuArrow"></div><a href="http://shkolapifagora.my1.ru/publ/kartochki_po_matematike/18"><span>КАРТОЧКИ ПО МАТЕМАТИКЕ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div><ul style="display:none;">
+<li><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/publ/kartochki_po_matematike/3_klass/19"><span>3 КЛАСС</span></a></div></li></ul></li>
+<li style="position:relative;"><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><div class="uMenuArrow"></div><a href="http://shkolapifagora.my1.ru/publ/matematika_v_4_klasse/35"><span>МАТЕМАТИКА В 4 КЛАССЕ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div><ul style="display:none;">
+<li><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/publ/matematika_v_4_klasse/testy_po_matematike/36"><span>ТЕСТЫ ПО МАТЕМАТИКЕ</span></a></div></li></ul></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="http://chudiki.my1.ru/publ/razvivajushhie_igry_i_uprazhnenija/igry_na_razvitie_pamjati_i_zapominanie_cifr/10" target="_blank"><span>ИГРЫ НА РАЗВИТИЕ ПАМЯТИ И ЗАПОМИНАНИЕ ЦИФР</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/index/cifry_rjadom_s_nami_cifry_v_poslovicakh_pogovorkakh_zagadkakh_stikhakh/0-8"><span>ЦИФРЫ РЯДОМ С НАМИ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/index/tablica_umnozhenija_v_stikhakh/0-11"><span>ТАБЛИЦА УМНОЖЕНИЯ В СТИХАХ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/load/matematika_v_nachalnoj_shkole/my_ljubim_matematiku/29"><span>МЫ ЛЮБИМ МАТЕМАТИКУ!</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/index/strana_chisel/0-10"><span>СТРАНА ЧИСЕЛ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/publ/istoricheskij_material_na_urokakh_matematiki_v_nachalnoj_shkole/2"><span>ИСТОРИЧЕСКИЙ МАТЕРИАЛ НА УРОКАХ МАТЕМАТИКИ В НАЧАЛЬНОЙ ШКОЛЕ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li></ul></div><script type="text/javascript">$(function(){_uBuildMenu('#uMenuDiv4',0,document.location.href+'/','uMenuItemA','uMenuArrow',2500);})</script><!-- </bc> --></td></tr>
+</table>
+
+<!-- </block1> -->
+
+<!-- <block1> -->
+
+<table border="0" cellpadding="0" cellspacing="3" style="margin:5px 10px 0 10px;" width="240">
+<tr><td style="border-bottom:1px solid #9CA725;color:#606615;padding:5px 10px 5px 10px;" align="center"><b><!-- <bt> --><!--<s5184>-->ВАРИ, КОТЕЛОК!<!--</s>--><!-- </bt> --></b></td></tr>
+<tr><td><!-- <bc> --><div id="uMenuDiv2" class="uMenuV" style="position:relative;"><ul class="uMenuRoot">
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/publ/zanimatelnaja_matematika/81"><span>УДИВИТЕЛЬНАЯ  МАТЕМАТИКА</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li style="position:relative;"><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><div class="uMenuArrow"></div><a href="http://shkolapifagora.my1.ru/publ/matematicheskie_golovolomki/13"><span>МАТЕМАТИЧЕСКИЕ ГОЛОВОЛОМКИ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div><ul style="display:none;">
+<li><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/publ/matematicheskie_zadachki_golovolomki/6"><span>МАТЕМАТИЧЕСКИЕ ЗАДАЧКИ-ГОЛОВОЛОМКИ</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/publ/matematicheskie_golovolomki/matematicheskie_golovolomki_adama_kharta_dehvisa/14"><span>МАТЕМАТИЧЕСКИЕ ГОЛОВОЛОМКИ АДАМА ХАРТА-ДЭВИСА</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/publ/matematicheskie_golovolomki/matematicheskie_golovolomki_i_razvlechenija_gardnera/60"><span>МАТЕМАТИЧЕСКИЕ ГОЛОВОЛОМКИ И РАЗВЛЕЧЕНИЯ ГАРДНЕРА</span></a></div></li></ul></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/publ/matematicheskie_golovolomki/saljut_matematika/21"><span>САЛЮТ, МАТЕМАТИКА!</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/index/0-77"><span>МАТЕМАТИЧЕСКИЕ ИЗЮМИНКИ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li></ul></div><script type="text/javascript">$(function(){_uBuildMenu('#uMenuDiv2',0,document.location.href+'/','uMenuItemA','uMenuArrow',2500);})</script><!-- </bc> --></td></tr>
+</table>
+
+<!-- </block1> -->
+
+<!-- <block1> -->
+
+<table border="0" cellpadding="0" cellspacing="3" style="margin:5px 10px 0 10px;" width="240">
+<tr><td style="border-bottom:1px solid #9CA725;color:#606615;padding:5px 10px 5px 10px;" align="center"><b><!-- <bt> --><!--<s5184>-->УДИВИТЕЛЬНАЯ МАТЕМАТИКА<!--</s>--><!-- </bt> --></b></td></tr>
+<tr><td><!-- <bc> --><div id="uMenuDiv3" class="uMenuV" style="position:relative;"><ul class="uMenuRoot">
+<li style="position:relative;"><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><div class="uMenuArrow"></div><a href="/load/135"><span>ИСТОРИЯ РАЗВИТИЯ МАТЕМАТИЧЕСКОЙ НАУКИ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div><ul style="display:none;">
+<li><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/blog/istorija_matematiki_ot_schetnykh_palochek_do_besschetnykh_vselennykh/1-0-4"><span>ИСТОРИЯ МАТЕМАТИКИ. ОТ СЧЕТНЫХ ПАЛОЧЕК ДО БЕССЧЕТНЫХ ВСЕЛЕННЫХ </span></a></div></li>
+<li><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/blog/istorija_matematiki/1-0-1"><span>ПЕРИОДЫ В РАЗВИТИИ МАТЕМАТИКИ </span></a></div></li>
+<li><div class="uMenuItem"><a href="/load/129"><span>ЧИСЛОВАЯ СИМВОЛИКА СРЕДНЕВЕКОВЬЯ</span></a></div></li>
+<li><div class="uMenuItem"><a href="/load/136"><span>ИСТОРИЯ ГЕОМЕТРИИ ОТ ПАРАЛЛЕЛЬНЫХ ПРЯМЫХ ДО ГИПЕРПРОСТРАНСТВА</span></a></div></li></ul></li>
+<li style="position:relative;"><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><div class="uMenuArrow"></div><a href="http://shkolapifagora.my1.ru/load/mir_matematiki/63"><span>МИР МАТЕМАТИКИ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div><ul style="display:none;">
+<li><div class="uMenuItem"><a href="/load/101"><span>ПРОСТЫЕ ЧИСЛА. ДОЛГАЯ ДОРОГА К БЕСКОНЕЧНОСТИ</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://школа-пифагора.рф/load/mir_matematiki/kogda_prjamye_iskrivljajutsja_neevklidovy_geometrii/102"><span>КОГДА ПРЯМЫЕ ИСКРИВЛЯЮТСЯ. НЕЕВКЛИДОВЫ ГЕОМЕТРИИ</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://школа-пифагора.рф/load/mir_matematiki/algoritmy_i_vychislenija/116"><span>АЛГОРИТМЫ И ВЫЧИСЛЕНИЯ</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/load/mir_matematiki/magija_chisel_matematicheskaja_mysl_ot_pifagora_do_nashikh_dnej/66"><span>МАГИЯ ЧИСЕЛ. МАТЕМАТИЧЕСКАЯ МЫСЛЬ ОТ ПИФАГОРА ДО НАШИХ ДНЕЙ</span></a></div></li>
+<li><div class="uMenuItem"><a href="/load/110"><span>ТАЙНАЯ ЖИЗНЬ ЧИСЕЛ. ЛЮБОПЫТНЫЕ РАЗДЕЛЫ МАТЕМАТИКИ</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/load/mir_matematiki/muzyka_sfer_astronomija_i_matematika/64"><span>МУЗЫКА СФЕР. АСТРОНОМИЯ И МАТЕМАТИКА</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/load/mir_matematiki/istina_v_predele_analiz_beskonechno_malykh/80"><span>ИСТИНА В ПРЕДЕЛЕ. АНАЛИЗ БЕСКОНЕЧНО МАЛЫХ</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/load/mir_matematiki/inversija/69"><span>ИНВЕРСИЯ</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/load/mir_matematiki/beskonechnost_v_matematike/81"><span>БЕСКОНЕЧНОСТЬ В МАТЕМАТИКЕ</span></a></div></li>
+<li><div class="uMenuItem"><a href="/load/109"><span>ЗАГАДКА ФЕРМА. ТРЕХВЕКОВОЙ ВЫЗОВ МАТЕМАТИКЕ</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://школа-пифагора.рф/load/mir_matematiki/nauka_o_perspektive/120"><span>НАУКА О ПЕРСПЕКТИВЕ</span></a></div></li>
+<li><div class="uMenuItem"><a href="/load/105"><span>ИЗМЕРЕНИЕ МИРА. КАЛЕНДАРИ, МЕРЫ ДЛИНЫ И МАТЕМАТИКА</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://школа-пифагора.рф/load/mir_matematiki/absoljutnaja_tochnost_i_drugie_illjuzii_sekrety_statistiki/111"><span>АБСОЛЮТНАЯ ТОЧНОСТЬ И ДРУГИЕ ИЛЛЮЗИИ. СЕКРЕТЫ СТАТИСТИКИ</span></a></div></li>
+<li><div class="uMenuItem"><a href="/load/103"><span>МАТЕМАТИЧЕСКАЯ ЛОГИКА И ЕЕ ПАРАДОКСЫ</span></a></div></li>
+<li><div class="uMenuItem"><a href="/load/104"><span>ТВОРЧЕСТВО В МАТЕМАТИКЕ</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/load/mir_matematiki/iskusstvennyj_intellekt_i_matematika/84"><span>ИСКУССТВЕННЫЙ ИНТЕЛЛЕКТ И МАТЕМАТИКА</span></a></div></li>
+<li><div class="uMenuItem"><a href="/load/130"><span>ЧИСЛА - ОСНОВА ГАРМОНИИ. МУЗЫКА И МАТЕМАТИКА</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/load/mir_matematiki/matematika_v_ehkonomike/83"><span>МАТЕМАТИКА В ЭКОНОМИКЕ</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/load/mir_matematiki/kodirovanie_i_kriptografija/82"><span>КОДИРОВАНИЕ И КРИПТОГРАФИЯ</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/load/mir_matematiki/chetvertoe_izmerenie_javljaetsja_li_nash_mir_tenju_drugoj_vselennoj/85"><span>ЧЕТВЕРТОЕ ИЗМЕРЕНИЕ. ЯВЛЯЕТСЯ ЛИ НАШ МИР ТЕНЬЮ ДРУГОЙ ВСЕЛЕННОЙ?</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://школа-пифагора.рф/load/mir_matematiki/kartografija_i_matematika/117"><span>КАРТОГРАФИЯ И МАТЕМАТИКА</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://школа-пифагора.рф/load/mir_matematiki/poehzija_chisel_prekrasnoe_i_matematika/118"><span>ПОЭЗИЯ ЧИСЕЛ. ПРЕКРАСНОЕ И МАТЕМАТИКА</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://школа-пифагора.рф/load/mir_matematiki/teorija_grafov/119"><span>ТЕОРИЯ ГРАФОВ</span></a></div></li></ul></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/blog/o_matematike_kak_chasti_dukhovnoj_kultury/1-0-5"><span>О МАТЕМАТИКЕ КАК ЧАСТИ ДУХОВНОЙ КУЛЬТУРЫ </span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/publ/velikaja_teorema_ferma/82"><span>ВЕЛИКАЯ ТЕОРЕМА ФЕРМА</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/publ/zanimatelnaja_matematika/matematika_vchera_segodnja_zavtra/25"><span>МАТЕМАТИКА ВЧЕРА, СЕГОДНЯ, ЗАВТРА</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/blog/v_mire_cifr_i_chisel/1-0-2"><span>В МИРЕ ЦИФР И ЧИСЕЛ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/index/0-56"><span>ПРИЗНАКИ ДЕЛИМОСТИ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/publ/zanimatelnaja_matematika/vsemirnaja_istorija_simmetrii/49"><span>ВСЕМИРНАЯ ИСТОРИЯ СИММЕТРИИ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li style="position:relative;"><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><div class="uMenuArrow"></div><a href="http://shkolapifagora.my1.ru/publ/zanimatelnaja_matematika/15"><span>ЗАНИМАТЕЛЬНАЯ МАТЕМАТИКА</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div><ul style="display:none;">
+<li><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/publ/zanimatelnaja_matematika_v_rasskazakh_dlja_detej/3"><span>ЗАНИМАТЕЛЬНАЯ МАТЕМАТИКА В РАССКАЗАХ ДЛЯ ДЕТЕЙ</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/publ/zanimatelnaja_matematika/zanimatelnaja_matematika_dlja_vzroslykh_i_detej/16"><span>ЗАНИМАТЕЛЬНАЯ МАТЕМАТИКА ДЛЯ ВЗРОСЛЫХ И ДЕТЕЙ</span></a></div></li></ul></li>
+<li style="position:relative;"><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><div class="uMenuArrow"></div><a href="http://shkolapifagora.my1.ru/publ/lichnost_v_nauke/28"><span>ЛИЧНОСТЬ В НАУКЕ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div><ul style="display:none;">
+<li><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/publ/lichnost_v_nauke/pifagor/59"><span>ПИФАГОР</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/publ/lichnost_v_nauke/sofja_kovalevskaja/29"><span>СОФЬЯ КОВАЛЕВСКАЯ</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/publ/lichnost_v_nauke/nikolaj_lobachevskij/30"><span>НИКОЛАЙ ЛОБАЧЕВСКИЙ</span></a></div></li></ul></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/publ/matematicheskaja_vselennaja/8"><span>МАТЕМАТИЧЕСКАЯ ВСЕЛЕННАЯ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/publ/zanimatelnaja_matematika/zagadki_i_dikovinki_v_mire_chisel/26"><span>ЗАГАДКИ И ДИКОВИНКИ В МИРЕ ЧИСЕЛ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/index/kaverznye_voprosy_po_matematike_dlja_shkolnikov/0-5"><span>КАВЕРЗНЫЕ ВОПРОСЫ ПО МАТЕМАТИКЕ ДЛЯ ШКОЛЬНИКОВ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li></ul></div><script type="text/javascript">$(function(){_uBuildMenu('#uMenuDiv3',0,document.location.href+'/','uMenuItemA','uMenuArrow',2500);})</script><!-- </bc> --></td></tr>
+</table>
+
+<!-- </block1> -->
+
+<!-- <block1> -->
+
+<table border="0" cellpadding="0" cellspacing="3" style="margin:5px 10px 0 10px;" width="240">
+<tr><td style="border-bottom:1px solid #9CA725;color:#606615;padding:5px 10px 5px 10px;" align="center"><b><!-- <bt> --><!--<s5184>-->ВЫСШАЯ МАТЕМАТИКА<!--</s>--><!-- </bt> --></b></td></tr>
+<tr><td><!-- <bc> --><div id="uMenuDiv10" class="uMenuV" style="position:relative;"><ul class="uMenuRoot">
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/index/0-35"><span>ЧТО ТАКОЕ МАТЕМАТИКА?</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/index/0-33"><span>СЛОВАРЬ МАТЕМАТИЧЕСКИХ ТЕРМИНОВ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/index/0-39"><span>ПРОИЗВОДНЫЕ И ДИФФЕРЕНЦИАЛЫ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/index/0-43"><span>ПРЕДЕЛ ФУНКЦИИ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/index/0-57"><span>СИСТЕМЫ ЛИНЕЙНЫХ НЕРАВЕНСТВ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/index/0-44"><span>ИНТЕГРАЛЬНЫЕ УРАВНЕНИЯ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/index/0-47"><span>ЗАДАЧИ ПО ДИФФЕРЕНЦИАЛЬНЫМ УРАВНЕНИЯМ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li style="position:relative;"><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><div class="uMenuArrow"></div><span>ВЕЛИКИЕ ТЕОРЕМЫ</span></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div><ul style="display:none;">
+<li><div class="uMenuItem"><a href="/index/0-31"><span>В ПОИСКАХ ЧУДЕСНОГО "ДОКАЗАТЕЛЬСТВА" ФЕРМА</span></a></div></li>
+<li><div class="uMenuItem"><a href="/index/0-49"><span>ТЕОРЕМА ГЕДЕЛЯ</span></a></div></li></ul></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/index/0-54"><span>КРАТЧАЙШИЕ ЛИНИИ. ВАРИАЦИОННЫЕ ЗАДАЧИ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/index/0-55"><span>МЕТОД ПОСЛЕДОВАТЕЛЬНЫХ ПРИБЛИЖЕНИЙ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/index/0-36"><span>ВЫСШАЯ МАТЕМАТИКА ДЛЯ ГУМАНИТАРИЕВ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li></ul></div><script type="text/javascript">$(function(){_uBuildMenu('#uMenuDiv10',0,document.location.href+'/','uMenuItemA','uMenuArrow',2500);})</script><!-- </bc> --></td></tr>
+</table>
+
+<!-- </block1> -->
+
+<!-- <block1> -->
+
+<table border="0" cellpadding="0" cellspacing="3" style="margin:5px 10px 0 10px;" width="240">
+<tr><td style="border-bottom:1px solid #9CA725;color:#606615;padding:5px 10px 5px 10px;" align="center"><b><!-- <bt> --><!--<s5184>-->В МИРЕ ИНТЕРЕСНОГО<!--</s>--><!-- </bt> --></b></td></tr>
+<tr><td><!-- <bc> --><div id="uMenuDiv7" class="uMenuV" style="position:relative;"><ul class="uMenuRoot">
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/load/uvlekatelnaja_ehkskursija_v_mir_matematiki/46"><span>УВЛЕКАТЕЛЬНАЯ ЭКСКУРСИЯ В МИР МАТЕМАТИКИ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/load/106"><span>МАТЕМАТИЧЕСКИЕ ЧУДЕСА И ТАЙНЫ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/load/sferlandija/40"><span>СФЕРЛАНДИЯ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/index/0-37"><span>КРАСОТА В КВАДРАТЕ. КАК ЦИФРЫ ОТРАЖАЮТ ЖИЗНЬ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/publ/dengi/27"><span>ДЕНЬГИ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/index/viktoriny_po_matematike/0-14"><span>МАТЕМАТИЧЕСКИЕ ВИКТОРИНЫ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/index/matematicheskie_sharady/0-15"><span>МАТЕМАТИЧЕСКИЕ ШАРАДЫ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/index/krylatye_matematicheskie_vyrazhenija/0-16"><span>УВЛЕКАТЕЛЬНЫЕ ИГРЫ С КРЫЛАТЫМИ ВЫРАЖЕНИЯМИ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/index/0-41"><span>ЧИСЛА ПРОТИВ ЛЖИ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li></ul></div><script type="text/javascript">$(function(){_uBuildMenu('#uMenuDiv7',0,document.location.href+'/','uMenuItemA','uMenuArrow',2500);})</script><!-- </bc> --></td></tr>
+</table>
+
+<!-- </block1> -->
+
+<!-- <block2> -->
+
+<!-- </block2> -->
+
+<!-- <block4> -->
+
+<!-- </block4> -->
+
+<!-- <block6> -->
+
+<table border="0" cellpadding="0" cellspacing="3" style="margin:5px 10px 0 10px;" width="240">
+<tr><td style="border-bottom:1px solid #9CA725;color:#606615;padding:5px 10px 5px 10px;" align="center"><b><!-- <bt> --><!--<s5195>-->Статистика<!--</s>--><!-- </bt> --></b></td></tr>
+<tr><td><div align="center"><!-- <bc> --><a rel="nofollow" href="/panel/?a=ustat&u=shkolapifagora&d=5&il=ru" target="_blank" title="uCoz Counter">
+	<img alt="" src="/stat/1614628064" height="31" width="88" /></a><hr /><div class="tOnline" id="onl1">Онлайн всего: <b>9</b></div> <div class="gOnline" id="onl2">Гостей: <b>9</b></div> <div class="uOnline" id="onl3">Пользователей: <b>0</b></div><!-- </bc> --></div></td></tr>
+</table>
+
+<!-- </block6> -->
+
+<!-- <block7> -->
+
+<table border="0" cellpadding="0" cellspacing="3" style="margin:5px 10px 0 10px;" width="240">
+<tr><td style="border-bottom:1px solid #9CA725;color:#606615;padding:5px 10px 5px 10px;" align="center"><b><!-- <bt> --><!--<s5158>-->Форма входа<!--</s>--><!-- </bt> --></b></td></tr>
+<tr><td><!-- <bc> --><div id="uidLogForm" align="center"><div id="uidLogButton">
+	<p><button class="loginButton" onclick="window.open('https://login.uid.me/?site=5shkolapifagora&amp;ref='+escape(location.protocol + '//' + ('xn----7sbbao2ali0aghq2c8b.xn--p1ai' || location.hostname) + location.pathname + ((location.hash ? (location.search ? location.search + '&' : '?') + 'rnd=' + Date.now() + location.hash : (location.search || '' )))),'uidLoginWnd','width=580,height=450,resizable=yes,titlebar=yes')">Войти через uID</button></p>
+	<a href="javascript:;" onclick="return uSocialLogin('vkontakte');" data-social="vkontakte" class="login-with vkontakte" title="Войти через ВКонтакте" rel="nofollow"><i></i></a><a href="javascript:;" onclick="return uSocialLogin('facebook');" data-social="facebook" class="login-with facebook" title="Войти через Facebook" rel="nofollow"><i></i></a><a href="javascript:;" onclick="return uSocialLogin('yandex');" data-social="yandex" class="login-with yandex" title="Войти через Яндекс" rel="nofollow"><i></i></a><a href="javascript:;" onclick="return uSocialLogin('google');" data-social="google" class="login-with google" title="Войти через Google" rel="nofollow"><i></i></a><a href="javascript:;" onclick="return uSocialLogin('ok');" data-social="ok" class="login-with ok" title="Войти через Одноклассники" rel="nofollow"><i></i></a>
+<div>
+<a href="javascript://" class="noun" onclick="document.getElementById('uidLogButton').style.display='none';document.getElementById('baseLogForm').style.display='';" title="Используйте, если окно авторизации через uID не открывается">Старая форма входа</a></div></div>
+<div id="baseLogForm" style="display:none"><script type="text/javascript">
+sendFrm549630 = function() {
+	var o   = $('#frmLg549630')[0];
+	var pos = _uGetOffset(o);
+	var o2  = $('#blk549630')[0];
+	document.body.insertBefore(o2, document.body.firstChild);
+	$(o2).css({top:(pos['top'])+'px',left:(pos['left'])+'px',width:o.offsetWidth+'px',height:o.offsetHeight+'px',display:''}).html('<div align="left" style="padding:5px;"><div class="myWinLoad"></div></div>');
+	_uPostForm('frmLg549630', {type:'POST', url:'/index/sub/', error:function() {
+		$('#blk549630').html('<div align="left" style="padding:10px;"><div class="myWinLoadSF" title="Невозможно выполнить запрос, попробуйте позже"></div></div>');
+		_uWnd.alert('<div class="myWinError">Невозможно выполнить запрос, попробуйте позже</div>', '', {w:250, h:90, tm:3000, pad:'15px'} );
+		setTimeout("$('#blk549630').css('display', 'none');", '1500');
+	}});
+}
+</script>
+<div id="blk549630" style="border:1px solid #CCCCCC;position:absolute;z-index:82;background:url('/.s/img/fr/g.gif');display:none;"></div>
+<form id="frmLg549630" action="/index/sub/" method="post" style="margin:0" onsubmit="sendFrm549630(); return false;">
+	
+
+<table border="0" cellspacing="1" cellpadding="0" width="100%">
+
+<tr><td width="20%" nowrap="nowrap">E-mail:[<a href="javascript:;" rel="nofollow" onclick="new _uWnd('HelpWd', 'Помощник', 360, 150, {align:'justify', closeonesc:1, }, {url:'/index/90-7'}); return false;" class="noun "><img alt="" title="uID поддержка" src="/.s/img/ma/uid.gif" style="border:0;vertical-align:-4px;"></a>]</td>
+	<td><input class="loginField" type="text" name="user" value="" size="20" style="width:100%;" maxlength="50"/></td></tr>
+<tr><td>Пароль:</td>
+	<td><input class="loginField" type="password" name="password" size="20" style="width:100%" maxlength="32"/></td></tr>
+	
+</table>
+<table border="0" cellspacing="1" cellpadding="0" width="100%">
+<tr><td nowrap>
+		<input id="remsitePage1" type="checkbox" name="rem" value="1" checked="checked"/><label for="remsitePage1">запомнить</label>
+		</td>
+	<td align="right" valign="top"><input class="loginButton" name="sbm" type="submit" value="Вход"/></td></tr>
+<tr><td colspan="2"><div style="text-align:center;"><a href="javascript://" rel="nofollow" onclick="new _uWnd('Prm','Напоминание пароля',300,130,{autosize:1,closeonesc:1},{url:'/index/5'});return false;">Забыл пароль</a> | <a href="/register">Регистрация</a></div></td></tr>
+</table>
+
+	<input type="hidden" name="a"    value="2" />
+	<input type="hidden" name="ajax" value="1" />
+	<input type="hidden" name="rnd"  value="630" />
+	
+</form></div></div><!-- </bc> --></td></tr>
+</table>
+
+<!-- </block7> --><!--/U1CLEFTER1Z-->
+</td>
+
+<td valign="top" style="padding:20px;">
+<table border="0" cellpadding="5" cellspacing="0" width="100%"><tr><td><!-- <body> --><div id="myGrid" style="display:none;"><img alt="" src="/.s/img/ma/m/i3.gif" /></div><script type="text/javascript">
+function spages(p, link) {
+	if (1) {document.location.href = link.href; return; }
+	try {document.getElementById('myGrid').style.display = ''; }catch(e){}
+	_uPostForm('', {url:'news/' + p + '-0-0-0-0-0-' + Date.now() } );}</script><div id="allEntries"><div align="right" class="catPages1" align="center" style="clear:both;" id="pagesBlock1"></div><div id="entryID19"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="eBlock"><tr><td style="padding:3px;">
+
+<div class="eTitle" style="text-align:left;"><a href="/news/izuchenie_starinnykh_russkikh_mer_dliny_na_urokakh_matematiki/2016-08-02-19">Изучение старинных русских мер длины на уроках математики</a></div>
+<div class="eMessage" style="text-align:left;clear:both;padding-top:2px;padding-bottom:2px;"><p style="" align="justify"><font style="" face="Georgia"><span style="font-size: 14pt;"><img alt="" src="/0995/094/95-4.jpg" align="left" height="200" width="250">Согласно Федеральному государственному
+образовательному стандарту основного общего
+образования, "изучение предметной области
+"Математика и информатика” должно
+&nbsp; обеспечить ...формирование представлений о
+социальных, культурных и исторических факторах
+&nbsp; становления математической науки; ...формирование
+представлений о математике как части
+общечеловеческой культуры, универсальном языке
+науки, позволяющем описывать и изучать реальные
+процессы и явления”. Согласно ФГОС
+основного общего образования, в содержание
+программы по математике основной школы включены
+два дополнительных методологических раздела:
+логика и множества; математика в историческом
+развитии, что связано с реализацией целей
+общеинтеллектуального и общекультурного
+развития учащихся. Раздел "Математика в
+историческом развитии” предназначен для
+формирования
+		<!--"-->
+		<span class="entDots">... </span>
+		<span class="entryReadAll">
+			<a class="entryReadAllLink" href="/news/izuchenie_starinnykh_russkikh_mer_dliny_na_urokakh_matematiki/2016-08-02-19">Читать дальше &raquo;</a>
+		</span></div>
+<div class="eDetails" style="clear:both;">
+<div class="rate-stars-wrapper" style="float:right">
+			<style type="text/css">
+				.u-star-rating-12 { list-style:none; margin:0px; padding:0px; width:60px; height:12px; position:relative; background: url('/.s/img/stars/3/12.png') top left repeat-x }
+				.u-star-rating-12 li{ padding:0px; margin:0px; float:left }
+				.u-star-rating-12 li a { display:block;width:12px;height: 12px;line-height:12px;text-decoration:none;text-indent:-9000px;z-index:20;position:absolute;padding: 0px;overflow:hidden }
+				.u-star-rating-12 li a:hover { background: url('/.s/img/stars/3/12.png') left center;z-index:2;left:0px;border:none }
+				.u-star-rating-12 a.u-one-star { left:0px }
+				.u-star-rating-12 a.u-one-star:hover { width:12px }
+				.u-star-rating-12 a.u-two-stars { left:12px }
+				.u-star-rating-12 a.u-two-stars:hover { width:24px }
+				.u-star-rating-12 a.u-three-stars { left:24px }
+				.u-star-rating-12 a.u-three-stars:hover { width:36px }
+				.u-star-rating-12 a.u-four-stars { left:36px }
+				.u-star-rating-12 a.u-four-stars:hover { width:48px }
+				.u-star-rating-12 a.u-five-stars { left:48px }
+				.u-star-rating-12 a.u-five-stars:hover { width:60px }
+				.u-star-rating-12 li.u-current-rating { top:0 !important; left:0 !important;margin:0 !important;padding:0 !important;outline:none;background: url('/.s/img/stars/3/12.png') left bottom;position: absolute;height:12px !important;line-height:12px !important;display:block;text-indent:-9000px;z-index:1 }
+			</style><script type="text/javascript">
+				var usrarids = {};
+				function ustarrating(id, mark) {
+					if( !usrarids[id] ){
+						usrarids[id] = 1;
+						$(".u-star-li-"+id).hide();
+						_uPostForm('', {type:'POST', url:'/news/', data:{
+							'a':'65',
+							'id':id,
+							'mark':mark,
+							'mod':'news',
+							'ajax':'2'
+						}});
+					}
+				}
+			</script><ul id="uStarRating19" class="uStarRating19 u-star-rating-12" title="Рейтинг: 5.0/1">
+			<li id="uCurStarRating19" class="u-current-rating uCurStarRating19" style="width:100%;"></li></ul></div>
+
+<span class="e-reads"><span class="ed-title">Просмотров:</span> <span class="ed-value">2029</span></span><span class="ed-sep"> | </span>
+<span class="e-author"><span class="ed-title">Добавил:</span> <span class="ed-value" ><a href="javascript://" rel="nofollow" onclick="window.open('/index/8-1', 'up1', 'scrollbars=1,top=0,left=0,resizable=1,width=700,height=375'); return false;">admin</a></span></span><span class="ed-sep"> | </span>
+<span class="e-date"><span class="ed-title">Дата:</span> <span class="ed-value" title="07:59">02.08.2016</span></span>
+
+</div></td></tr></table><br /></div><div id="entryID18"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="eBlock"><tr><td style="padding:3px;">
+
+<div class="eTitle" style="text-align:left;"><a href="/news/izuchenie_matematicheskoj_logiki_na_ehlektivnykh_zanjatijakh_v_pjatykh_i_shestykh_klassakh/2016-08-02-18">Изучение математической логики на элективных занятиях в пятых и шестых классах</a></div>
+<div class="eMessage" style="text-align:left;clear:both;padding-top:2px;padding-bottom:2px;"><div style="" align="justify"><font style="" face="Georgia" size="4"><span style="font-size: 14pt;"><img alt="" src="/0995/094/95-3.jpg" align="left" height="200" width="250">Естественным этапом развития познания, на
+котором осуществляется переход от
+содержательного и качественного анализа объекта
+к формализации и количественному анализу,
+является математическое моделирование реальных
+процессов. Математическое моделирование –
+основа происходящей в настоящее время
+математизации научных знаний и важный этап
+познания.</span></font></div><div align="justify"><font face="Georgia" size="4"><span style="font-size: 14pt;">
+
+</span></font></div><p style="" align="justify"><font style="" face="Georgia" size="4"><span style="font-size: 14pt;">Математика – общекультурный гуманитарный
+предмет. Математические модели описываются
+специфическим языком (термины, обозначения,
+графики, графы, алгоритмы и т.д.), значит надо
+изучать математический язык, чтобы работать с
+математическими моделями. Важно, что 
+		<!--"-->
+		<span class="entDots">... </span>
+		<span class="entryReadAll">
+			<a class="entryReadAllLink" href="/news/izuchenie_matematicheskoj_logiki_na_ehlektivnykh_zanjatijakh_v_pjatykh_i_shestykh_klassakh/2016-08-02-18">Читать дальше &raquo;</a>
+		</span></div>
+<div class="eDetails" style="clear:both;">
+<div class="rate-stars-wrapper" style="float:right"><ul id="uStarRating18" class="uStarRating18 u-star-rating-12" title="Рейтинг: 5.0/1">
+			<li id="uCurStarRating18" class="u-current-rating uCurStarRating18" style="width:100%;"></li></ul></div>
+
+<span class="e-reads"><span class="ed-title">Просмотров:</span> <span class="ed-value">2426</span></span><span class="ed-sep"> | </span>
+<span class="e-author"><span class="ed-title">Добавил:</span> <span class="ed-value" ><a href="javascript://" rel="nofollow" onclick="window.open('/index/8-1', 'up1', 'scrollbars=1,top=0,left=0,resizable=1,width=700,height=375'); return false;">admin</a></span></span><span class="ed-sep"> | </span>
+<span class="e-date"><span class="ed-title">Дата:</span> <span class="ed-value" title="07:35">02.08.2016</span></span>
+
+</div></td></tr></table><br /></div><div id="entryID20"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="eBlock"><tr><td style="padding:3px;">
+
+<div class="eTitle" style="text-align:left;"><a href="/news/reklama/2016-08-01-20">РЕКЛАМА</a></div>
+<div class="eMessage" style="text-align:left;clear:both;padding-top:2px;padding-bottom:2px;"><div align="center"><a href="http://uroki-sovy.ru"><img src="http://uroki-sovy.ru/images/banner.jpg" width="507" height="382"></a></div></div>
+<div class="eDetails" style="clear:both;">
+<div class="rate-stars-wrapper" style="float:right"><ul id="uStarRating20" class="uStarRating20 u-star-rating-12" title="Рейтинг: 5.0/1">
+			<li id="uCurStarRating20" class="u-current-rating uCurStarRating20" style="width:100%;"></li></ul></div>
+
+<span class="e-reads"><span class="ed-title">Просмотров:</span> <span class="ed-value">643</span></span><span class="ed-sep"> | </span>
+<span class="e-author"><span class="ed-title">Добавил:</span> <span class="ed-value" ><a href="javascript://" rel="nofollow" onclick="window.open('/index/8-1', 'up1', 'scrollbars=1,top=0,left=0,resizable=1,width=700,height=375'); return false;">admin</a></span></span><span class="ed-sep"> | </span>
+<span class="e-date"><span class="ed-title">Дата:</span> <span class="ed-value" title="12:36">01.08.2016</span></span>
+
+</div></td></tr></table><br /></div><div id="entryID16"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="eBlock"><tr><td style="padding:3px;">
+
+<div class="eTitle" style="text-align:left;"><a href="/news/vneklassnaja_rabota_po_matematike/2016-07-22-16">Внеклассная работа по математике</a></div>
+<div class="eMessage" style="text-align:left;clear:both;padding-top:2px;padding-bottom:2px;"><div style="" align="justify"><font style="" face="Georgia"><span style="font-size: 14pt;"><img alt="" src="/0995/094/95-1.jpg" align="left" height="200" width="250">Наряду с уроком – основной формой учебного
+процесса, большое значение имеет внеклассная
+работа по математике.
+
+</span></font></div><p align="justify"><font face="Georgia"><span style="font-size: 14pt;">Внеклассная работа дополняет обязательную
+учебную работу, способствует развитию
+исследовательских навыков, смекалки, развитию
+интереса к изучению математики и творческих
+способностей учащихся.</span></font></p><div align="justify"><font face="Georgia"><span style="font-size: 14pt;">
+
+</span></font></div><p align="justify"><font face="Georgia"><span style="font-size: 14pt;">Внеурочные занятия с учащимися приносят
+большую пользу и самому учителю: чтобы успешно их
+проводить приходится постоянно расширять свои
+знания, следить за новостями математической
+науки. </span></font></p><div align="justify"><font face="Georgia"><span sty
+		<!--"-->
+		<span class="entDots">... </span>
+		<span class="entryReadAll">
+			<a class="entryReadAllLink" href="/news/vneklassnaja_rabota_po_matematike/2016-07-22-16">Читать дальше &raquo;</a>
+		</span></div>
+<div class="eDetails" style="clear:both;">
+<div class="rate-stars-wrapper" style="float:right"><ul id="uStarRating16" class="uStarRating16 u-star-rating-12" title="Рейтинг: 5.0/1">
+			<li id="uCurStarRating16" class="u-current-rating uCurStarRating16" style="width:100%;"></li></ul></div>
+
+<span class="e-reads"><span class="ed-title">Просмотров:</span> <span class="ed-value">1410</span></span><span class="ed-sep"> | </span>
+<span class="e-author"><span class="ed-title">Добавил:</span> <span class="ed-value" ><a href="javascript://" rel="nofollow" onclick="window.open('/index/8-1', 'up1', 'scrollbars=1,top=0,left=0,resizable=1,width=700,height=375'); return false;">admin</a></span></span><span class="ed-sep"> | </span>
+<span class="e-date"><span class="ed-title">Дата:</span> <span class="ed-value" title="16:34">22.07.2016</span></span>
+
+</div></td></tr></table><br /></div><div id="entryID17"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="eBlock"><tr><td style="padding:3px;">
+
+<div class="eTitle" style="text-align:left;"><a href="/news/vneklassnaja_rabota_po_matematike_kak_forma_obuchenija/2016-02-22-17">Внеклассная работа по математике как форма обучения</a></div>
+<div class="eMessage" style="text-align:left;clear:both;padding-top:2px;padding-bottom:2px;"><div style="" align="justify"><span style="font-family: Georgia; font-size: 14pt;"><b style=""><img alt="" src="/0995/094/95-2.jpg" align="left" height="200" width="250">1. Понятие внеклассной работы, ее цели
+и задачи</b></span><span style="font-family: Georgia; font-size: 14pt;">
+
+</span></div><p style="" align="justify"><span style="font-family: Georgia; font-size: 14pt;">"<b>Внеклассная работа</b> – это составная часть
+учебно-воспитательной работы в школе, одна из
+форм организации досуга учащихся. Представляет
+широкие возможности для всестороннего развития
+учащихся и подготовки их к жизни” [14, 339].
+Внеклассная работа включает в себя различные
+виды деятельности и обладает следующими
+возможностями в обучении и воспитании личности: 
+
+</span></p><div align="justify"><ul style=""><li><span style="font-family: Georgia; font-size: 14pt;">разнообразная внеурочная деятельность
+ способствует более разностороннему раскрытию
+ индивидуальных способностей ребенка;</span></li><li style=""><span 
+		<!--"-->
+		<span class="entDots">... </span>
+		<span class="entryReadAll">
+			<a class="entryReadAllLink" href="/news/vneklassnaja_rabota_po_matematike_kak_forma_obuchenija/2016-02-22-17">Читать дальше &raquo;</a>
+		</span></div>
+<div class="eDetails" style="clear:both;">
+<div class="rate-stars-wrapper" style="float:right"><ul id="uStarRating17" class="uStarRating17 u-star-rating-12" title="Рейтинг: 5.0/1">
+			<li id="uCurStarRating17" class="u-current-rating uCurStarRating17" style="width:100%;"></li></ul></div>
+
+<span class="e-reads"><span class="ed-title">Просмотров:</span> <span class="ed-value">2106</span></span><span class="ed-sep"> | </span>
+<span class="e-author"><span class="ed-title">Добавил:</span> <span class="ed-value" ><a href="javascript://" rel="nofollow" onclick="window.open('/index/8-1', 'up1', 'scrollbars=1,top=0,left=0,resizable=1,width=700,height=375'); return false;">admin</a></span></span><span class="ed-sep"> | </span>
+<span class="e-date"><span class="ed-title">Дата:</span> <span class="ed-value" title="16:49">22.02.2016</span></span>
+
+</div></td></tr></table><br /></div><div id="entryID14"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="eBlock"><tr><td style="padding:3px;">
+
+<div class="eTitle" style="text-align:left;"><a href="/news/matematicheskie_olimpiady_v_5_6_klassakh_sovety_metodika_provedenija_i_podborka_zadanij/2015-02-01-14">МАТЕМАТИЧЕСКИЕ ОЛИМПИАДЫ В 5-6 КЛАССАХ: СОВЕТЫ, МЕТОДИКА ПРОВЕДЕНИЯ И ПОДБОРКА ЗАДАНИЙ</a></div>
+<div class="eMessage" style="text-align:left;clear:both;padding-top:2px;padding-bottom:2px;"><div align="justify"><font face="Georgia"><span style="font-size: 14pt;" lang="ru"><img alt="" src="/0995/096/94/0-008.jpg" height="200" align="left" width="250">В последние годы в России стало проводиться
+много различных математических олимпиад. Это традицион­ные, для абитуриентов,
+нестандартные и т. п. олимпиа­ды. Традиционные олимпиады проходят, как правило,
+в пять туров: школьный, районный (городской), област­ной (краевой,
+республиканский), зональный (окружной) и всероссийский. Данный вид олимпиад
+остается самым массовым и популярным как среди учащихся, так и сре­ди учителей.
+Наряду с традиционными олимпиадами большой популярностью стали пользоваться
+также ко­мандные олимпиады (проходящие в рамках турниров городов), олимпиады
+для абитуриентов вузов, нестан­дартные олимпиады, различного рода заочные
+олимпиа­ды.</span></font><font face="Georgia"><span style="font-size: 14pt;">
+
+</span></font></div><p class="MsoNoSpacing" align="justify"><font face="Georgia"><span style="font-size: 14
+		<!--"-->
+		<span class="entDots">... </span>
+		<span class="entryReadAll">
+			<a class="entryReadAllLink" href="/news/matematicheskie_olimpiady_v_5_6_klassakh_sovety_metodika_provedenija_i_podborka_zadanij/2015-02-01-14">Читать дальше &raquo;</a>
+		</span></div>
+<div class="eDetails" style="clear:both;">
+<div class="rate-stars-wrapper" style="float:right"><ul id="uStarRating14" class="uStarRating14 u-star-rating-12" title="Рейтинг: 5.0/1">
+			<li id="uCurStarRating14" class="u-current-rating uCurStarRating14" style="width:100%;"></li></ul></div>
+
+<span class="e-reads"><span class="ed-title">Просмотров:</span> <span class="ed-value">1903</span></span><span class="ed-sep"> | </span>
+<span class="e-author"><span class="ed-title">Добавил:</span> <span class="ed-value" ><a href="javascript://" rel="nofollow" onclick="window.open('/index/8-1', 'up1', 'scrollbars=1,top=0,left=0,resizable=1,width=700,height=375'); return false;">admin</a></span></span><span class="ed-sep"> | </span>
+<span class="e-date"><span class="ed-title">Дата:</span> <span class="ed-value" title="10:05">01.02.2015</span></span>
+
+</div></td></tr></table><br /></div><div id="entryID8"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="eBlock"><tr><td style="padding:3px;">
+
+<div class="eTitle" style="text-align:left;"><a href="/news/udivitelnyj_mir_chisel/2013-09-01-8">УДИВИТЕЛЬНЫЙ МИР ЧИСЕЛ</a></div>
+<div class="eMessage" style="text-align:left;clear:both;padding-top:2px;padding-bottom:2px;"><div align="justify"><font face="Georgia"><span style="font-size: 14pt;"><img alt="" src="/0998/095/3dda6e8e082658a74004331df7716105be316dbc.gif" height="200" align="left" width="250">Раздел сайта <font color="#0000cd"><b>"Удивительный мир чисел"</b></font> содержит более двухсот задач по преимуществу
+арифметических и алгебраических, направленных на воспитание гибкости
+математического мышления и разви­тие инициативы и сообразительности. Задачи эти
+рассчитаны в основном на учащихся старших классов школы.</span></font></div><p class="MsoNoSpacing" align="justify"><font face="Georgia"><span style="font-size: 14pt;"><span style="font-size: 14pt;">В разделе <font color="#0000cd"><b>"Удивительный мир чисел"</b></font></span> отдано предпочтение стихии чисел. Такая
+одноплановость состава задач не уменьшает ни удовольствия, ни пользы от
+самостоятельного поиска их решения и даже от ознакомления с решениями,
+приведенными в книге: какое-либо из них может оказаться более изящным, чем
+свое.</span><
+		<!--"-->
+		<span class="entDots">... </span>
+		<span class="entryReadAll">
+			<a class="entryReadAllLink" href="/news/udivitelnyj_mir_chisel/2013-09-01-8">Читать дальше &raquo;</a>
+		</span></div>
+<div class="eDetails" style="clear:both;">
+<div class="rate-stars-wrapper" style="float:right"><ul id="uStarRating8" class="uStarRating8 u-star-rating-12" title="Рейтинг: 5.0/12">
+			<li id="uCurStarRating8" class="u-current-rating uCurStarRating8" style="width:100%;"></li></ul></div>
+
+<span class="e-reads"><span class="ed-title">Просмотров:</span> <span class="ed-value">2342</span></span><span class="ed-sep"> | </span>
+<span class="e-author"><span class="ed-title">Добавил:</span> <span class="ed-value" ><a href="javascript://" rel="nofollow" onclick="window.open('/index/8-1', 'up1', 'scrollbars=1,top=0,left=0,resizable=1,width=700,height=375'); return false;">admin</a></span></span><span class="ed-sep"> | </span>
+<span class="e-date"><span class="ed-title">Дата:</span> <span class="ed-value" title="19:57">01.09.2013</span></span>
+
+</div></td></tr></table><br /></div><div id="entryID5"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="eBlock"><tr><td style="padding:3px;">
+
+<div class="eTitle" style="text-align:left;"><a href="/news/nestandartnye_uroki_matematiki/2013-08-31-5">НЕСТАНДАРТНЫЕ УРОКИ МАТЕМАТИКИ</a></div>
+<div class="eMessage" style="text-align:left;clear:both;padding-top:2px;padding-bottom:2px;"><div align="justify"><span style="font-size: 14pt;"><img alt="" src="/0998/099/nt.gif" height="200" align="left" width="250"><font face="Georgia">Обучение — длительный процесс, который складывается из от­дельных
+уроков. В первоначальном своем смысле слово «урок» означало трудовое задание,
+которое требуется выполнить за опре­деленный срок. Школьный урок тоже можно
+рассматривать как трудовое (учебное) задание классу, рассчитанное на определен­ный
+срок.</font></span><font face="Georgia"><span style="font-size: 14pt;">
+
+</span></font></div><p class="MsoNoSpacing" align="justify"><font face="Georgia"><span style="font-size: 14pt;">Урок как форма учебной работы существует с XVII в., т.е.
+более 300 лет.</span></font></p><font face="Georgia"><span style="font-size: 14pt;">
+
+</span></font><p class="MsoNoSpacing" align="justify"><font face="Georgia"><span style="font-size: 14pt;">Не удивительно, что многим кажется, будто урок
+существовал всегда. Это педагогическое изобретение оказалось столь жиз
+		<!--"-->
+		<span class="entDots">... </span>
+		<span class="entryReadAll">
+			<a class="entryReadAllLink" href="/news/nestandartnye_uroki_matematiki/2013-08-31-5">Читать дальше &raquo;</a>
+		</span></div>
+<div class="eDetails" style="clear:both;">
+<div class="rate-stars-wrapper" style="float:right"><ul id="uStarRating5" class="uStarRating5 u-star-rating-12" title="Рейтинг: 5.0/1">
+			<li id="uCurStarRating5" class="u-current-rating uCurStarRating5" style="width:100%;"></li></ul></div>
+
+<span class="e-reads"><span class="ed-title">Просмотров:</span> <span class="ed-value">3471</span></span><span class="ed-sep"> | </span>
+<span class="e-author"><span class="ed-title">Добавил:</span> <span class="ed-value" ><a href="javascript://" rel="nofollow" onclick="window.open('/index/8-1', 'up1', 'scrollbars=1,top=0,left=0,resizable=1,width=700,height=375'); return false;">admin</a></span></span><span class="ed-sep"> | </span>
+<span class="e-date"><span class="ed-title">Дата:</span> <span class="ed-value" title="19:58">31.08.2013</span></span>
+
+</div></td></tr></table><br /></div><div id="entryID7"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="eBlock"><tr><td style="padding:3px;">
+
+<div class="eTitle" style="text-align:left;"><a href="/news/o_razdele_sajta_stikhi_k_urokam_matematiki/2013-08-30-7">О РАЗДЕЛЕ САЙТА "СТИХИ К УРОКАМ МАТЕМАТИКИ"</a></div>
+<div class="eMessage" style="text-align:left;clear:both;padding-top:2px;padding-bottom:2px;"><div align="justify"><font face="Georgia"><span style="font-size: 14pt;"><img alt="" src="/0998/095/kartzshhshh.gif" height="200" align="left" width="250">Математика и лирика... Слова, которые редко стоят рядом.
+Когда речь заходит о лирике - чаще подразумевают уроки лите­ратуры, музыки,
+изобразительного искусства. О математике же говорят как о науке абстрактной и
+сухой. Разумеется, у этой науки свой особый язык: язык рассуждений и
+доказательств. Но означает ли это, что на уроке математики не найдется места ли­рике?
+Вот что пишет по этому поводу М. Бромлей:</span><span style="font-size: 14pt;">
+
+</span></font></div><p class="MsoNoSpacing" align="justify"><font face="Georgia"><span style="font-size: 14pt;">Это ложь, что в науке поэзии нет... </span></font></p><font face="Georgia"><span style="font-size: 14pt;">
+
+</span></font><p class="MsoNoSpacing" align="justify"><font face="Georgia"><span style="font-size: 14pt;">За чертогами формул, забыв о весне, </span></font></p><font face="Georgi
+		<!--"-->
+		<span class="entDots">... </span>
+		<span class="entryReadAll">
+			<a class="entryReadAllLink" href="/news/o_razdele_sajta_stikhi_k_urokam_matematiki/2013-08-30-7">Читать дальше &raquo;</a>
+		</span></div>
+<div class="eDetails" style="clear:both;">
+<div class="rate-stars-wrapper" style="float:right"><ul id="uStarRating7" class="uStarRating7 u-star-rating-12" title="Рейтинг: 5.0/1">
+			<li id="uCurStarRating7" class="u-current-rating uCurStarRating7" style="width:100%;"></li></ul></div>
+
+<span class="e-reads"><span class="ed-title">Просмотров:</span> <span class="ed-value">3269</span></span><span class="ed-sep"> | </span>
+<span class="e-author"><span class="ed-title">Добавил:</span> <span class="ed-value" ><a href="javascript://" rel="nofollow" onclick="window.open('/index/8-1', 'up1', 'scrollbars=1,top=0,left=0,resizable=1,width=700,height=375'); return false;">admin</a></span></span><span class="ed-sep"> | </span>
+<span class="e-date"><span class="ed-title">Дата:</span> <span class="ed-value" title="19:58">30.08.2013</span></span>
+
+</div></td></tr></table><br /></div><div id="entryID13"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="eBlock"><tr><td style="padding:3px;">
+
+<div class="eTitle" style="text-align:left;"><a href="/news/tablicy_po_matematike_dlja_nachalnoj_shkoly/2013-08-05-13">ТАБЛИЦЫ ПО МАТЕМАТИКЕ ДЛЯ НАЧАЛЬНОЙ ШКОЛЫ</a></div>
+<div class="eMessage" style="text-align:left;clear:both;padding-top:2px;padding-bottom:2px;"><div align="justify"><font face="Georgia"><span style="font-size: 14pt;"><font color="#0000cd"><b><img alt="" src="/0998/091/tablicy.gif" height="150" align="left" width="200">Таблицы по математике
+ для начальной школы</b></font> представляют собой материалы, обобщающие знания, 
+полученные детьми в начальной школе. В таблицы включены сведения по всем темам, изучаемых в курсе начальной школы. Материал, изложенный в таблицах, 
+отличается наглядностью, краткостью, систематизированностью и четкостью 
+изображения. Это позволяет школьникам лучше и быстрее запоминать 
+необходимую информацию.</span></font></div></div>
+<div class="eDetails" style="clear:both;">
+<div class="rate-stars-wrapper" style="float:right"><ul id="uStarRating13" class="uStarRating13 u-star-rating-12" title="Рейтинг: 3.6/7">
+			<li id="uCurStarRating13" class="u-current-rating uCurStarRating13" style="width:72%;"></li></ul></div>
+
+<span class="e-reads"><span class="ed-title">Просмотров:</span> <span class="ed-value">2546</span></span><span class="ed-sep"> | </span>
+<span class="e-author"><span class="ed-title">Добавил:</span> <span class="ed-value" ><a href="javascript://" rel="nofollow" onclick="window.open('/index/8-1', 'up1', 'scrollbars=1,top=0,left=0,resizable=1,width=700,height=375'); return false;">admin</a></span></span><span class="ed-sep"> | </span>
+<span class="e-date"><span class="ed-title">Дата:</span> <span class="ed-value" title="19:57">05.08.2013</span></span>
+
+</div></td></tr></table><br /></div><div id="entryID3"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="eBlock"><tr><td style="padding:3px;">
+
+<div class="eTitle" style="text-align:left;"><a href="/news/zadachi_na_vyrost/2013-06-30-3">ЗАДАЧИ НА ВЫРОСТ</a></div>
+<div class="eMessage" style="text-align:left;clear:both;padding-top:2px;padding-bottom:2px;"><div align="justify"><font face="Georgia"><span style="font-size: 14pt;"><img alt="" src="/0999/02.jpg" align="left" height="200" width="250">Раздел <font color="#0000cd"><b>"Математика на вырост"</b></font> - по сути, задачник открытого типа: текст решения сле­дует
+непосредственно за формулировкой задачи. Мы не играем с посетителями и гостями сайта в прятки,
+и прежде всего, это свидетель­ствует о доверии к Вам. Кроме того,
+такой прин­цип изложения материала имеет свои преимущества. Если читатель —
+школьник, то он сам волен выбирать, по отноше­нию к какой задаче быть ему
+читателем, а по отношению к какой — решателем. Если читатель — учитель,
+подбирающий материал для занятия школьного математического кружка, то ему не
+придется тратить время на решение задач.</span></font></div><div align="justify"><font face="Georgia"><span style="font-size: 14pt;">
+
+</span></font></div><p class="MsoNoSpacing" align="justify"><font face="Georgia"><span style="font-size: 14pt;">Впрочем, любая форма работ
+		<!--"-->
+		<span class="entDots">... </span>
+		<span class="entryReadAll">
+			<a class="entryReadAllLink" href="/news/zadachi_na_vyrost/2013-06-30-3">Читать дальше &raquo;</a>
+		</span></div>
+<div class="eDetails" style="clear:both;">
+<div class="rate-stars-wrapper" style="float:right"><ul id="uStarRating3" class="uStarRating3 u-star-rating-12" title="Рейтинг: 5.0/1">
+			<li id="uCurStarRating3" class="u-current-rating uCurStarRating3" style="width:100%;"></li></ul></div>
+
+<span class="e-reads"><span class="ed-title">Просмотров:</span> <span class="ed-value">2096</span></span><span class="ed-sep"> | </span>
+<span class="e-author"><span class="ed-title">Добавил:</span> <span class="ed-value" ><a href="javascript://" rel="nofollow" onclick="window.open('/index/8-1', 'up1', 'scrollbars=1,top=0,left=0,resizable=1,width=700,height=375'); return false;">admin</a></span></span><span class="ed-sep"> | </span>
+<span class="e-date"><span class="ed-title">Дата:</span> <span class="ed-value" title="12:24">30.06.2013</span></span>
+
+</div></td></tr></table><br /></div><div id="entryID2"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="eBlock"><tr><td style="padding:3px;">
+
+<div class="eTitle" style="text-align:left;"><a href="/news/matematicheskie_skazki_v_kartinkakh/2013-06-30-2">МАТЕМАТИЧЕСКИЕ СКАЗКИ В КАРТИНКАХ</a></div>
+<div class="eMessage" style="text-align:left;clear:both;padding-top:2px;padding-bottom:2px;"><div align="justify"><span style="font-size: 14pt;"><span style="font-size: 14pt; font-family: Georgia;"><img alt="" src="/0999/01.jpg" align="left" height="200" width="250">В </span><span style="font-size: 14pt; font-family: Georgia;"><span style="font-size: 14pt; font-family: Georgia;">разделе сайта
+<span style="color: rgb(0, 0, 205); font-size: 14pt;"><b>"Математические сказки в картинках"</b></span> в </span>увлекательной, сказочной форме&nbsp; изложен материал из школьной мате­матики, обычно трудно дающийся учащимся 5 — 6
+классов: элементы геометрии, проценты, уравнения, пропорции, степени.</span><span style="font-size: 14pt; font-family: Georgia;">
+
+</span></span></div><p class="MsoNoSpacing" align="justify"><span style="font-size: 14pt; font-family: Georgia;">Такое построение раздела учитывает склонности детей с
+разным складом интел­лекта.</span></p><div align="justify"><span style="font-size: 14pt; font-family: Georgia;">
+
+</span></div><p class="MsoNoSpacing" align="justify"><s
+		<!--"-->
+		<span class="entDots">... </span>
+		<span class="entryReadAll">
+			<a class="entryReadAllLink" href="/news/matematicheskie_skazki_v_kartinkakh/2013-06-30-2">Читать дальше &raquo;</a>
+		</span></div>
+<div class="eDetails" style="clear:both;">
+<div class="rate-stars-wrapper" style="float:right"><ul id="uStarRating2" class="uStarRating2 u-star-rating-12" title="Рейтинг: 5.0/1">
+			<li id="uCurStarRating2" class="u-current-rating uCurStarRating2" style="width:100%;"></li></ul></div>
+
+<span class="e-reads"><span class="ed-title">Просмотров:</span> <span class="ed-value">3203</span></span><span class="ed-sep"> | </span>
+<span class="e-author"><span class="ed-title">Добавил:</span> <span class="ed-value" ><a href="javascript://" rel="nofollow" onclick="window.open('/index/8-1', 'up1', 'scrollbars=1,top=0,left=0,resizable=1,width=700,height=375'); return false;">admin</a></span></span><span class="ed-sep"> | </span>
+<span class="e-date"><span class="ed-title">Дата:</span> <span class="ed-value" title="10:06">30.06.2013</span></span>
+
+</div></td></tr></table><br /></div><div id="entryID4"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="eBlock"><tr><td style="padding:3px;">
+
+<div class="eTitle" style="text-align:left;"><a href="/news/testy_po_matematike_dlja_uchenikov_5_klassa/2013-06-29-4">ТЕСТЫ ПО МАТЕМАТИКЕ ДЛЯ УЧЕНИКОВ 5 КЛАССА</a></div>
+<div class="eMessage" style="text-align:left;clear:both;padding-top:2px;padding-bottom:2px;"><div align="justify"><font face="Georgia"><span style="font-size: 14pt;"><span style="font-size: 14pt; color: black;"><img alt="" src="/0998/0.gif" align="left" height="200" width="250">Раздел сайта <font color="#0000cd"><b>"Тесты по математике для учеников 5 класса"</b></font> содержит проверочные работы с элемен</span><span style="font-size: 14pt; color: black;" lang="UK">тами </span><span style="font-size: 14pt; color: black;">тестирования
+по
+ курсу математики. Каждый вариант состоит из обязательной и до 
+дополнительной ча­стей, что позволяет учителю организовать контроль 
+знаний
+учащихся с учетом их индивидуальных особенностей.</span></span></font><br><font face="Georgia"><span style="font-size: 14pt;"><span style="font-size: 14pt; color: black;"></span></span></font></div><div align="justify"><font face="Georgia"><span style="font-size: 14pt;"><span style="font-size: 14pt; color: black;">Подача материала в 
+виде фотографий интересна тем, что учитель может сохранить фото с 
+задания
+		<!--"-->
+		<span class="entDots">... </span>
+		<span class="entryReadAll">
+			<a class="entryReadAllLink" href="/news/testy_po_matematike_dlja_uchenikov_5_klassa/2013-06-29-4">Читать дальше &raquo;</a>
+		</span></div>
+<div class="eDetails" style="clear:both;">
+<div class="rate-stars-wrapper" style="float:right"><ul id="uStarRating4" class="uStarRating4 u-star-rating-12" title="Рейтинг: 4.7/13">
+			<li id="uCurStarRating4" class="u-current-rating uCurStarRating4" style="width:94%;"></li></ul></div>
+
+<span class="e-reads"><span class="ed-title">Просмотров:</span> <span class="ed-value">2975</span></span><span class="ed-sep"> | </span>
+<span class="e-author"><span class="ed-title">Добавил:</span> <span class="ed-value" ><a href="javascript://" rel="nofollow" onclick="window.open('/index/8-1', 'up1', 'scrollbars=1,top=0,left=0,resizable=1,width=700,height=375'); return false;">admin</a></span></span><span class="ed-sep"> | </span>
+<span class="e-date"><span class="ed-title">Дата:</span> <span class="ed-value" title="17:43">29.06.2013</span></span>
+
+</div></td></tr></table><br /></div><div id="entryID1"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="eBlock"><tr><td style="padding:3px;">
+
+<div class="eTitle" style="text-align:left;"><a href="/news/matematika_v_5_klasse_blic_opros/2013-06-29-1">Математика в 5 классе. Блиц-опрос</a></div>
+<div class="eMessage" style="text-align:left;clear:both;padding-top:2px;padding-bottom:2px;"><div align="justify"><span style="font-family: Georgia; font-size: 14pt;"><span style="font-size: 14pt; font-family: Georgia;"><img alt="" src="/0999/099/matematika_blic-opros.gif" align="left" height="200" width="250"><span style="font-size: 14pt;">Раздел сайта <b><span style="color: rgb(0, 0, 205); font-size: 14pt;">"Математика в 5 классе. Блиц-опрос"</span></b> поможет учителю организовать проверку знаний уча­щихся
+с наименьшими временными затратами: задания соответствуют обязательному
+минимуму программы по математике, а структура их та­кова, что педагогу не
+потребуются дополнительные средства для проведения проверочных работ.</span></span><span style="font-size: 14pt; font-family: Georgia;">
+
+</span></span></div><p class="MsoNoSpacing" align="justify"><span style="font-size: 14pt; font-family: Georgia;">Проверочные работы позволят педагогу оценить реальный за­пас
+знаний учащихся, выявить особенности усвоения учебного материала и построить
+дальнейшую работу с учетом полученных резул
+		<!--"-->
+		<span class="entDots">... </span>
+		<span class="entryReadAll">
+			<a class="entryReadAllLink" href="/news/matematika_v_5_klasse_blic_opros/2013-06-29-1">Читать дальше &raquo;</a>
+		</span></div>
+<div class="eDetails" style="clear:both;">
+<div class="rate-stars-wrapper" style="float:right"><ul id="uStarRating1" class="uStarRating1 u-star-rating-12" title="Рейтинг: 5.0/16">
+			<li id="uCurStarRating1" class="u-current-rating uCurStarRating1" style="width:100%;"></li></ul></div>
+
+<span class="e-reads"><span class="ed-title">Просмотров:</span> <span class="ed-value">3160</span></span><span class="ed-sep"> | </span>
+<span class="e-author"><span class="ed-title">Добавил:</span> <span class="ed-value" ><a href="javascript://" rel="nofollow" onclick="window.open('/index/8-1', 'up1', 'scrollbars=1,top=0,left=0,resizable=1,width=700,height=375'); return false;">admin</a></span></span><span class="ed-sep"> | </span>
+<span class="e-date"><span class="ed-title">Дата:</span> <span class="ed-value" title="17:38">29.06.2013</span></span>
+
+</div></td></tr></table><br /></div><div id="entryID12"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="eBlock"><tr><td style="padding:3px;">
+
+<div class="eTitle" style="text-align:left;"><a href="/news/kontrolnye_samostojatelnye_i_proverochnye_raboty_po_geometrii_v_11_klasse/2013-06-29-12">КОНТРОЛЬНЫЕ, САМОСТОЯТЕЛЬНЫЕ И ПРОВЕРОЧНЫЕ РАБОТЫ ПО ГЕОМЕТРИИ В 11 КЛАССЕ</a></div>
+<div class="eMessage" style="text-align:left;clear:both;padding-top:2px;padding-bottom:2px;"><div align="justify"><span style="font-family: Georgia; font-size: 14pt;"><img alt="" src="/0998/092/m05-09.jpg" align="left" height="200" width="250">В разделе сайта <font color="#0000cd"><b>«Математика в 11 классе. Карточки с проверочными работами по геометрии»</b></font> приведены 19 самостоятельных работ, одна
+дополнительная самостоятельная работа, 4 проверочные работы на по­вторение, 3
+математических диктанта и 4 контрольные ра­боты. </span><span style="font-family: Georgia; font-size: 14pt;">
+
+</span></div><p class="MsoNoSpacing" align="justify"><span style="font-family: Georgia; font-size: 14pt;">Основная цель самостоятельных работ — помочь учите­лю
+организовать деятельность учащихся по решению задач с учетом их индивидуальных
+особенностей и уровня подго­товки. Кроме того, самостоятельные работы могут
+исполь­зоваться для текущего контроля умений и навыков школь­ников.</span></p><span style="font-family: Georgia; font-size: 14pt;">
+
+</span><p class="MsoNoSpacing" align="justify">
+		<!--"-->
+		<span class="entDots">... </span>
+		<span class="entryReadAll">
+			<a class="entryReadAllLink" href="/news/kontrolnye_samostojatelnye_i_proverochnye_raboty_po_geometrii_v_11_klasse/2013-06-29-12">Читать дальше &raquo;</a>
+		</span></div>
+<div class="eDetails" style="clear:both;">
+<div class="rate-stars-wrapper" style="float:right"><ul id="uStarRating12" class="uStarRating12 u-star-rating-12" title="Рейтинг: 5.0/1">
+			<li id="uCurStarRating12" class="u-current-rating uCurStarRating12" style="width:100%;"></li></ul></div>
+
+<span class="e-reads"><span class="ed-title">Просмотров:</span> <span class="ed-value">3206</span></span><span class="ed-sep"> | </span>
+<span class="e-author"><span class="ed-title">Добавил:</span> <span class="ed-value" ><a href="javascript://" rel="nofollow" onclick="window.open('/index/8-1', 'up1', 'scrollbars=1,top=0,left=0,resizable=1,width=700,height=375'); return false;">admin</a></span></span><span class="ed-sep"> | </span>
+<span class="e-date"><span class="ed-title">Дата:</span> <span class="ed-value" title="13:14">29.06.2013</span></span>
+
+</div></td></tr></table><br /></div><div id="entryID6"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="eBlock"><tr><td style="padding:3px;">
+
+<div class="eTitle" style="text-align:left;"><a href="/news/zadachi_i_rebusy_narodov_mira/2013-06-27-6">ЗАДАЧИ И РЕБУСЫ НАРОДОВ МИРА</a></div>
+<div class="eMessage" style="text-align:left;clear:both;padding-top:2px;padding-bottom:2px;"><img alt="" src="/0998/0f.jpg" height="200" align="left" width="250"><div align="justify"><font face="Georgia"><span style="font-size: 14pt;">В разделе <font color="#0000cd"><b>«Задачи и ребусы народов мира»</b></font> представлены
+занимательные задачи и го­ловоломки, пришедшие к нам из Древней Греции, Индии,
+Китая, Египта, Англии, Швеции... Раздел представлен в форме увлекательного
+путешествия по раз­ным странам. Решая задачи, ребусы и головоломки можно
+научиться логически рассуждать и нестандар­тно мыслить.</span></font><font face="Georgia"><span style="font-size: 14pt;">
+
+</span></font></div><p class="MsoNoSpacing" align="justify"><font face="Georgia"><span style="font-size: 14pt;">Прежде всего, этот раздел для тех, кто любит на досуге
+поломать голову над занимательными задачами и примерами. </span></font></p><font face="Georgia"><span style="font-size: 14pt;">
+
+</span></font><p class="MsoNoSpacing" align="justify"><font face="Georgia"><span style="font-size: 14pt;">Везде и во все в
+		<!--"-->
+		<span class="entDots">... </span>
+		<span class="entryReadAll">
+			<a class="entryReadAllLink" href="/news/zadachi_i_rebusy_narodov_mira/2013-06-27-6">Читать дальше &raquo;</a>
+		</span></div>
+<div class="eDetails" style="clear:both;">
+<div class="rate-stars-wrapper" style="float:right"><ul id="uStarRating6" class="uStarRating6 u-star-rating-12" title="Рейтинг: 5.0/14">
+			<li id="uCurStarRating6" class="u-current-rating uCurStarRating6" style="width:100%;"></li></ul></div>
+
+<span class="e-reads"><span class="ed-title">Просмотров:</span> <span class="ed-value">2167</span></span><span class="ed-sep"> | </span>
+<span class="e-author"><span class="ed-title">Добавил:</span> <span class="ed-value" ><a href="javascript://" rel="nofollow" onclick="window.open('/index/8-1', 'up1', 'scrollbars=1,top=0,left=0,resizable=1,width=700,height=375'); return false;">admin</a></span></span><span class="ed-sep"> | </span>
+<span class="e-date"><span class="ed-title">Дата:</span> <span class="ed-value" title="12:48">27.06.2013</span></span>
+
+</div></td></tr></table><br /></div><div id="entryID10"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="eBlock"><tr><td style="padding:3px;">
+
+<div class="eTitle" style="text-align:left;"><a href="/news/my_ljubim_matematiku/2013-06-27-10">МЫ ЛЮБИМ МАТЕМАТИКУ!</a></div>
+<div class="eMessage" style="text-align:left;clear:both;padding-top:2px;padding-bottom:2px;"><div align="justify"><font face="Georgia"><span style="font-size: 14pt;"><img alt="" src="/0998/093/matschool.png" align="left" height="200" width="250">В разделе <font color="#0000cd"><b>"Мы любим математику!"</b></font> представлены нестандартные задания, требующие
+применения получен­ных на уроках знаний в новых условиях. Упражнения открывают
+широкие возмож­ности для развития у детей наблюдательности, воображения,
+логического мышления. Раздел призван помочь учителю в организации
+самостоятельной работы детей на уроке, может использоваться и во внеурочное
+время в школе и дома.</span></font></div><p class="MsoNoSpacing" align="justify"><font face="Georgia"><span style="font-size: 14pt; color: black;">Задания отличаются от обычных. Они немножко труднее, но интереснее. Ученикам
+придётся призадуматься, но они непре­менно справятся с ними. </span></font></p><font face="Georgia"><span style="font-size: 14pt;">
+
+</span></font><p class="MsoNoSpacing" align="justify"><font face="Georgia"><span 
+		<!--"-->
+		<span class="entDots">... </span>
+		<span class="entryReadAll">
+			<a class="entryReadAllLink" href="/news/my_ljubim_matematiku/2013-06-27-10">Читать дальше &raquo;</a>
+		</span></div>
+<div class="eDetails" style="clear:both;">
+<div class="rate-stars-wrapper" style="float:right"><ul id="uStarRating10" class="uStarRating10 u-star-rating-12" title="Рейтинг: 4.0/2">
+			<li id="uCurStarRating10" class="u-current-rating uCurStarRating10" style="width:80%;"></li></ul></div>
+
+<span class="e-reads"><span class="ed-title">Просмотров:</span> <span class="ed-value">1828</span></span><span class="ed-sep"> | </span>
+<span class="e-author"><span class="ed-title">Добавил:</span> <span class="ed-value" ><a href="javascript://" rel="nofollow" onclick="window.open('/index/8-1', 'up1', 'scrollbars=1,top=0,left=0,resizable=1,width=700,height=375'); return false;">admin</a></span></span><span class="ed-sep"> | </span>
+<span class="e-date"><span class="ed-title">Дата:</span> <span class="ed-value" title="12:09">27.06.2013</span></span>
+
+</div></td></tr></table><br /></div><div id="entryID11"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="eBlock"><tr><td style="padding:3px;">
+
+<div class="eTitle" style="text-align:left;"><a href="/news/lichnost_v_nauke/2013-06-27-11">ЛИЧНОСТЬ В НАУКЕ</a></div>
+<div class="eMessage" style="text-align:left;clear:both;padding-top:2px;padding-bottom:2px;"><div align="justify"><span style="font-family: Georgia;"><span style="font-size: 14pt; font-family: Georgia;"><img alt="" src="/0998/093/ec5dc9141d45.png" align="left" height="200" width="250">Раздел сайта <span style="color: rgb(0, 0, 205);"><b>"Личность в науке"</b></span> представляет вашему вниманию главы из книг, посвященных жизнеописанию великих математиков.&nbsp;</span></span><span style="font-family: Georgia;"><span style="font-size: 14pt; font-family: Georgia;">О
+ выдающемся математике Софье Ковалевской рассказывает Л. А. Воронцова, 
+которая опирается на огромный 
+фактический материал. Это прежде всего 
+рукописи, хранящиеся в архиве Академии наук СССР. Они распадаются на две
+ группы: старые и новые материалы. К старым относится переписка 
+Ковалевской с родственниками и друзьями и отрывки из ее 
+беллетристических произведений.</span></span></div><div align="justify"><font face="Georgia"><span style="font-size: 18.6667px;"><br></span></font><span style="font-family: Georgia;"><s
+		<!--"-->
+		<span class="entDots">... </span>
+		<span class="entryReadAll">
+			<a class="entryReadAllLink" href="/news/lichnost_v_nauke/2013-06-27-11">Читать дальше &raquo;</a>
+		</span></div>
+<div class="eDetails" style="clear:both;">
+<div class="rate-stars-wrapper" style="float:right"><ul id="uStarRating11" class="uStarRating11 u-star-rating-12" title="Рейтинг: 5.0/1">
+			<li id="uCurStarRating11" class="u-current-rating uCurStarRating11" style="width:100%;"></li></ul></div>
+
+<span class="e-reads"><span class="ed-title">Просмотров:</span> <span class="ed-value">1600</span></span><span class="ed-sep"> | </span>
+<span class="e-author"><span class="ed-title">Добавил:</span> <span class="ed-value" ><a href="javascript://" rel="nofollow" onclick="window.open('/index/8-1', 'up1', 'scrollbars=1,top=0,left=0,resizable=1,width=700,height=375'); return false;">admin</a></span></span><span class="ed-sep"> | </span>
+<span class="e-date"><span class="ed-title">Дата:</span> <span class="ed-value" title="11:32">27.06.2013</span></span>
+
+</div></td></tr></table><br /></div><div id="entryID9"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="eBlock"><tr><td style="padding:3px;">
+
+<div class="eTitle" style="text-align:left;"><a href="/news/ljuboznatelnym_o_dengakh/2013-06-26-9">ЛЮБОЗНАТЕЛЬНЫМ О ДЕНЬГАХ</a></div>
+<div class="eMessage" style="text-align:left;clear:both;padding-top:2px;padding-bottom:2px;"><p align="justify"><font face="Georgia"><span style="font-size: 14pt;"><img alt="" src="/0998/093/nalich.png" height="200" align="left" width="250">Что зa силa зaключенa в деньгaх? Откудa у них тaкое необыкновенное 
+свойство? Раздел сайта <font color="#0000cd"><b>"В мире интересного"</b></font> рaсскaжет Вам об этом. Он нaписaн для тех, кому 
+пришли нa ум тaкие вопросы.</span></font></p><div align="justify"><font face="Georgia"><span style="font-size: 14pt;">Для
+ тех, кто не знaет, когдa и почему появились деньги; для тех, кто хочет 
+понять, кaкое знaчение имеют деньги в жизни людей; для тех, кто знaет, и
+ для тех, кто не знaет, отчего существует в мире жaдность к деньгaм и 
+преклонение перед ними; для тех, кто любит рaзгaдывaть тaйны древних 
+монет, читaть по ним о дaлеких временaх и дaвно живших людях; для тех, 
+кому интересно узнaть, кaк делaют деньги; для тех, кого зaнимaет вопрос,
+ всегдa ли были деньги и всегдa ли они будут.</span></font></div></div>
+<div class="eDetails" style="clear:both;">
+<div class="rate-stars-wrapper" style="float:right"><ul id="uStarRating9" class="uStarRating9 u-star-rating-12" title="Рейтинг: 5.0/16">
+			<li id="uCurStarRating9" class="u-current-rating uCurStarRating9" style="width:100%;"></li></ul></div>
+
+<span class="e-reads"><span class="ed-title">Просмотров:</span> <span class="ed-value">1603</span></span><span class="ed-sep"> | </span>
+<span class="e-author"><span class="ed-title">Добавил:</span> <span class="ed-value" ><a href="javascript://" rel="nofollow" onclick="window.open('/index/8-1', 'up1', 'scrollbars=1,top=0,left=0,resizable=1,width=700,height=375'); return false;">admin</a></span></span><span class="ed-sep"> | </span>
+<span class="e-date"><span class="ed-title">Дата:</span> <span class="ed-value" title="11:35">26.06.2013</span></span>
+
+</div></td></tr></table><br /></div><div class="catPages2" align="center" style="clear:both;" id="pagesBlock2"></div></div><!-- </body> --></td></tr></table>
+</td>
+
+<td valign="top" width="220" style="background:url('/4.gif') #E7EAE1;">
+<!--U1DRIGHTER1Z--><center>
+<!-- <block9> -->
+
+<table style="margin:5px 10px 0 10px;" width="240" cellspacing="4" cellpadding="6" border="0">
+<tbody><tr><td style="border-bottom:1px solid #9CA725;color:#606615;padding:5px 10px 5px 10px;" align="center"><b><!-- <bt> --><!--<s3163>-->УЧИТЕЛЮ ИНФОРМАТИКИ<!--</s>--><!-- </bt> --></b></td></tr>
+
+ <tr><td bgcolor="#EEF1E8" align="left"><a class="catName" href="/load/30">КОНСПЕКТЫ УРОКОВ</a></td></tr>
+ <tr><td bgcolor="#EEF1E8"><a class="catName" href="/load/31">ВНЕКЛАССНЫЕ МЕРОПРИЯТИЯ ПО ИНФОРМАТИКЕ</a></td></tr>
+ <tr><td bgcolor="#EEF1E8"><a class="catName" href="http://znaew.ru/index.php/posobiya-i-metodichki-dlya-uchitelya-informatiki">ПОСОБИЯ И МЕТОДИЧКИ ДЛЯ УЧИТЕЛЯ ИНФОРМАТИКИ</a></td></tr>
+ <tr><td bgcolor="#EEF1E8"><a class="catName" href="/load/32">ИЗ ОПЫТА РАБОТЫ УЧИТЕЛЯ ИНФОРМАТИКИ</a></td></tr>
+ <tr><td bgcolor="#EEF1E8"><a class="catName" href="/load/148">ЗАДАНИЯ ШКОЛЬНОЙ ОЛИМПИАДЫ ПО ИНФОРМАТИКЕ</a></td></tr>
+
+</tbody></table>
+<!-- </block9> -->
+<br>
+<!-- <block1> -->
+<table border="0" cellpadding="0" cellspacing="0" width="240">
+<tbody>
+<tr><td>
+<!-- Yandex.RTB R-A-352131-2 -->
+<div id="yandex_rtb_R-A-352131-2"></div>
+<script type="text/javascript">
+ (function(w, d, n, s, t) {
+ w[n] = w[n] || [];
+ w[n].push(function() {
+ Ya.Context.AdvManager.render({
+ blockId: "R-A-352131-2",
+ renderTo: "yandex_rtb_R-A-352131-2",
+ async: true
+ });
+ });
+ t = d.getElementsByTagName("script")[0];
+ s = d.createElement("script");
+ s.type = "text/javascript";
+ s.src = "//an.yandex.ru/system/context.js";
+ s.async = true;
+ t.parentNode.insertBefore(s, t);
+ })(this, this.document, "yandexContextAsyncCallbacks");
+</script>
+</td></tr>
+</tbody></table>
+<!-- </block1> -->
+<br>
+<center><div id="ok_group_widget"></div>
+<script>
+!function (d, id, did, st) {
+ var js = d.createElement("script");
+ js.src = "https://connect.ok.ru/connect.js";
+ js.onload = js.onreadystatechange = function () {
+ if (!this.readyState || this.readyState == "loaded" || this.readyState == "complete") {
+ if (!this.executed) {
+ this.executed = true;
+ setTimeout(function () {
+ OK.CONNECT.insertGroupWidget(id,did,st);
+ }, 0);
+ }
+ }}
+ d.documentElement.appendChild(js);
+}(document,"ok_group_widget","53381692588120","{width:240,height:335}");
+</script></center>
+
+<!-- <block1> -->
+
+<table style="margin:5px 10px 0 10px;" width="240" cellspacing="3" cellpadding="0" border="0">
+<tbody><tr><td style="border-bottom:1px solid #9CA725;color:#606615;padding:5px 10px 5px 10px;" align="center"><b><!-- <bt> --><!--<s5184>-->ИНФОРМАТИКА В ШКОЛЕ<!--</s>--><!-- </bt> --></b></td></tr>
+<tr><td><!-- <bc> --><div id="uMenuDiv6" class="uMenuV" style="position:relative;"><ul class="uMenuRoot">
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/load/prezentacii_po_informatike/75"><span>ПРЕЗЕНТАЦИИ ПО ИНФОРМАТИКЕ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="http://школа-пифагора.рф/index/uchebnye_posobija_po_informatike/0-24"><span>УЧЕБНЫЕ ПОСОБИЯ ПО ИНФОРМАТИКЕ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/load/onlajn_uchebnik_informatiki_6_klass/65"><span>ОНЛАЙН-УЧЕБНИК ИНФОРМАТИКИ. 6 КЛАСС</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/index/0-78"><span>УДИВИТЕЛЬНЫЕ ИСТОРИИ "КОМПЬЮТЕРНЫХ" СЛОВЕЧЕК</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/load/didakticheskij_material_po_informatike/41"><span>ДИДАКТИЧЕСКИЙ МАТЕРИАЛ ПО ИНФОРМАТИКЕ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li style="position:relative;"><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><div class="uMenuArrow"></div><a href="http://школа-пифагора.рф/load/rabochie_materialy_k_urokam_informatiki/99"><span>РАБОЧИЕ МАТЕРИАЛЫ К УРОКАМ ИНФОРМАТИКИ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div><ul style="display:none;">
+<li><div class="uMenuItem"><a href="http://школа-пифагора.рф/load/rabochie_materialy_k_urokam_informatiki/2_klass/100"><span>2 КЛАСС</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://школа-пифагора.рф/load/rabochie_materialy_k_urokam_informatiki/3_klass/124"><span>3 КЛАСС</span></a></div></li>
+<li><div class="uMenuItem"><a href="/load/134"><span>5 КЛАСС</span></a></div></li>
+<li><div class="uMenuItem"><a href="/load/127"><span>6 КЛАСС</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://школа-пифагора.рф/load/rabochie_materialy_k_urokam_informatiki/8_klass/115"><span>8 КЛАСС</span></a></div></li>
+<li><div class="uMenuItem"><a href="/load/126"><span>9 КЛАСС</span></a></div></li></ul></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/publ/bejsik_dlja_mladshikh_shkolnikov/37"><span>БЕЙСИК ДЛЯ МЛАДШИХ ШКОЛЬНИКОВ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/load/obektno_orientirovannoe_programmirovanie/125"><span>ОБЪЕКТНО-ОРИЕНТИРОВАННОЕ ПРОГРАММИРОВАНИЕ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li style="position:relative;"><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><div class="uMenuArrow"></div><a href="http://shkolapifagora.my1.ru/load/informatika_v_igrakh_i_zadachakh_dlja_pjatiklassnikov/23"><span>ИНФОРМАТИКА В ИГРАХ И ЗАДАЧАХ ДЛЯ ПЯТИКЛАССНИКОВ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div><ul style="display:none;">
+<li><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/load/informatika_v_igrakh_i_zadachakh_dlja_pjatiklassnikov/algoritmy_i_velichiny/24"><span>АЛГОРИТМЫ И ВЕЛИЧИНЫ</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/load/informatika_v_igrakh_i_zadachakh_dlja_pjatiklassnikov/obekty_i_klassy/25"><span>ОБЪЕКТЫ И КЛАССЫ</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/load/informatika_v_igrakh_i_zadachakh_dlja_pjatiklassnikov/logicheskie_rassuzhdenija/26"><span>ЛОГИЧЕСКИЕ РАССУЖДЕНИЯ</span></a></div></li></ul></li>
+<li style="position:relative;"><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><div class="uMenuArrow"></div><a href="/load/142"><span>ТЕСТЫ ПО ИНФОРМАТИКЕ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div><ul style="display:none;">
+<li><div class="uMenuItem"><a href="/load/143"><span>11 КЛАСС</span></a></div></li></ul></li>
+<li style="position:relative;"><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><div class="uMenuArrow"></div><a href="/load/144"><span>ЗАДАЧНИКИ ПО ИНФОРМАТИКЕ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div><ul style="display:none;">
+<li><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/publ/zanimatelnye_zadachi_po_informatike_dlja_5_6_klassov/88"><span>ЗАНИМАТЕЛЬНЫЕ ЗАДАЧИ ПО ИНФОРМАТИКЕ ДЛЯ 5-6 КЛАССОВ</span></a></div></li>
+<li><div class="uMenuItem"><a href="/load/145"><span>ЗАДАЧНИК ПО МОДЕЛИРОВАНИЮ. 9-11 КЛАССЫ</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://школа-пифагора.рф/load/zadachnik_po_programmirovaniju_dlja_shkolnikov/113"><span>ЗАДАЧНИК ПО ПРОГРАММИРОВАНИЮ ДЛЯ ШКОЛЬНИКОВ</span></a></div></li></ul></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="https://tetradkin-grad.ru/index.php/laboratornye-raboty-po-informatike" target="_blank"><span>ЛАБОРАТОРНЫЕ РАБОТЫ ПО ИНФОРМАТИКЕ </span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/index/0-50"><span>ПРАКТИКУМ ПО ИНФОРМАТИКЕ И ИНФОРМАЦИОННЫМ ТЕХНОЛОГИЯМ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/publ/rabotaem_v_microsoft_office/54"><span>РАБОТАЕМ В Microsoft Office</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/load/multimedia_i_virtualnye_miry/33"><span>МУЛЬТИМЕДИА И ВИРТУАЛЬНЫЕ МИРЫ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/publ/osnovy_informatiki_dlja_shkolnikov_i_studentov/56"><span>ОСНОВЫ ИНФОРМАТИКИ ДЛЯ ШКОЛЬНИКОВ И СТУДЕНТОВ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/publ/sovety_po_obustrojstvu_kompjutera/61"><span>СОВЕТЫ ПО ОБУСТРОЙСТВУ КОМПЬЮТЕРА</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/publ/samouchitel_quot_slepoj_quot_pechati_na_kompjutere/53"><span>САМОУЧИТЕЛЬ "СЛЕПОЙ" ПЕЧАТИ НА КОМПЬЮТЕРЕ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/publ/apparatnye_sredstva_personalnogo_kompjutera/55"><span>АППАРАТНЫЕ СРЕДСТВА ПЕРСОНАЛЬНОГО КОМПЬЮТЕРА</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/publ/bazy_dannykh/52"><span>БАЗЫ ДАННЫХ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="http://shkolapifagora.my1.ru/publ/zanimatelnaja_matematika/shkolnikam_o_shifrakh/17"><span>ШКОЛЬНИКАМ О ШИФРАХ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/index/0-52"><span>ИНФОРМАТИКА. ПОСОБИЕ ПО ПОДГОТОВКЕ К ЕГЭ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li></ul></div><script type="text/javascript">$(function(){_uBuildMenu('#uMenuDiv6',0,document.location.href+'/','uMenuItemA','uMenuArrow',2500);})</script><!-- </bc> --></td></tr>
+</tbody></table>
+
+<!-- </block1> -->
+<br>
+<!-- <block1> -->
+<table border="0" cellpadding="0" cellspacing="0" width="240">
+<tbody>
+<tr><td>
+<!-- Yandex.RTB R-A-352131-4 -->
+<div id="yandex_rtb_R-A-352131-4"></div>
+<script type="text/javascript">
+ (function(w, d, n, s, t) {
+ w[n] = w[n] || [];
+ w[n].push(function() {
+ Ya.Context.AdvManager.render({
+ blockId: "R-A-352131-4",
+ renderTo: "yandex_rtb_R-A-352131-4",
+ async: true
+ });
+ });
+ t = d.getElementsByTagName("script")[0];
+ s = d.createElement("script");
+ s.type = "text/javascript";
+ s.src = "//an.yandex.ru/system/context.js";
+ s.async = true;
+ t.parentNode.insertBefore(s, t);
+ })(this, this.document, "yandexContextAsyncCallbacks");
+</script>
+</td></tr>
+</tbody></table>
+<!-- </block1> -->
+<br>
+<!-- <block9> -->
+<table style="margin:5px 10px 0 10px;" width="240" cellspacing="4" cellpadding="6" border="0">
+<tbody><tr><td style="border-bottom:1px solid #9CA725;color:#606615;padding:5px 10px 5px 10px;" align="center"><b><!-- <bt> --><!--<s3163>-->ИНФОРМАТИКА В НАЧАЛЬНЫХ КЛАССАХ<!--</s>--><!-- </bt> --></b></td></tr>
+
+ <tr><td bgcolor="#EEF1E8" align="left"><a class="catName" href="/publ/57">ИНФОРМАТИКА В 3 КЛАССЕ</a></td></tr>
+ <tr><td bgcolor="#EEF1E8"><a class="catName" href="/publ/39">ИНФОРМАТИКА В 4 КЛАССЕ</a></td></tr>
+ <tr><td bgcolor="#EEF1E8"><a class="catName" href="/publ/58">КОНТРОЛЬНЫЕ РАБОТЫ ПО ИНФОРМАТИКЕ. 3 КЛАСС</a></td></tr>
+ <tr><td bgcolor="#EEF1E8"><a class="catName" href="/publ/40">КОНТРОЛЬНЫЕ РАБОТЫ ПО ИНФОРМАТИКЕ. 4 КЛАСС</a></td></tr>
+ <tr><td bgcolor="#EEF1E8"><a class="catName" href="/load/149">ПРОГРАММИРОВАНИЕ ДЛЯ ДЕТЕЙ</a></td></tr>
+ <tr><td bgcolor="#EEF1E8"><a class="catName" href="/publ/95">СКАЗКА "ПРИКЛЮЧЕНИЯ ЭЛЕКТРОШИ"</a></td></tr>
+
+</tbody></table>
+<!-- </block9> -->
+
+<!-- <block9> -->
+
+<table style="margin:5px 10px 0 10px;" width="240" cellspacing="4" cellpadding="6" border="0">
+<tbody><tr><td style="border-bottom:1px solid #9CA725;color:#606615;padding:5px 10px 5px 10px;" align="center"><b><!-- <bt> --><!--<s3163>-->ИГРОВЫЕ ТЕХНОЛОГИИ НА УРОКАХ ИНФОРМАТИКИ<!--</s>--><!-- </bt> --></b></td></tr>
+
+ <tr><td bgcolor="#EEF1E8"><a class="catName" href="https://tetradkin-grad.ru/index.php/zanimatelnye-zadaniya-po-informatike">ИГРОВЫЕ ЗАДАНИЯ ПО ИНФОРМАТИКЕ</a></td></tr>
+ <tr><td bgcolor="#EEF1E8"><a class="catName" href="/publ/51">ВИКТОРИНЫ ПО ИНФОРМАТИКЕ</a></td></tr>
+ <tr><td bgcolor="#EEF1E8" align="left"><a class="catName" href="http://znaew.ru/index.php/igrovye-tekhnologii-na-urokakh-informatiki/kompyuternye-chastushki">КОМПЬЮТЕРНЫЕ ЧАСТУШКИ</a></td></tr>
+ <tr><td bgcolor="#EEF1E8"><a class="catName" href="/index/0-3">ОБРАТНАЯ СВЯЗЬ</a></td></tr>
+
+</tbody></table>
+<!-- </block9> -->
+
+<!-- <block10> -->
+
+<table style="margin:5px 10px 0 10px;" width="240" cellspacing="3" cellpadding="0" border="0">
+<tbody><tr><td style="border-bottom:1px solid #9CA725;color:#606615;padding:5px 10px 5px 10px;" align="center"><b><!-- <bt> --><!--<s3163>-->Поиск<!--</s>--><!-- </bt> --></b></td></tr>
+<tr><td><div align="center"><!-- <bc> --><div class="searchForm"><form onsubmit="this.sfSbm.disabled=true" method="get" style="margin:0" action="/search/"><div align="center" class="schQuery"><input type="text" name="q" maxlength="30" size="20" class="queryField" /></div><div align="center" class="schBtn"><input type="submit" class="searchSbmFl" name="sfSbm" value="Найти" /></div></form></div><!-- </bc> --></div></td></tr>
+</tbody></table>
+
+<!-- </block10> -->
+
+<br><br><table style="margin:5px 10px 0 10px;" width="240" cellspacing="3" cellpadding="0" border="0"><tbody><tr><td style="border-bottom:1px solid #9CA725;color:#606615;padding:5px 10px 5px 10px;" align="center"><font size="2"><span style="font-size: 8pt;"><b>Друзья сайта<!--</s>--><!-- </bt> --></b></span></font></td></tr>
+<tr><td><!-- <bc> --><!--<s1546>-->
+<li><font size="2"><span style="font-size: 8pt;"><a href="http://www.ucoz.ru/" target="_blank">Создать сайт</a></span></font></li>
+<li><font size="2"><span style="font-size: 8pt;"><a href="http://www.woweb.ru/" target="_blank">Все для веб-мастера</a></span></font></li>
+<li><font size="2"><span style="font-size: 8pt;"><a href="http://www.wosoft.ru/" target="_blank">Программы для всех</a></span></font></li>
+<li><font size="2"><span style="font-size: 8pt;"><a href="http://fun.ucoz.ru/" target="_blank">Мир развлечений</a></span></font></li>
+<li><font size="2"><span style="font-size: 8pt;"><a href="http://www.wolist.ru/" target="_blank">Лучшие сайты Рунета</a></span></font></li>
+<li><font size="2"><span style="font-size: 8pt;"><a href="http://eda.ucoz.ru/" target="_blank">Кулинарные рецепты</a></span></font></li><!--</s>--><!-- </bc> --></td></tr>
+</tbody></table><!-- </block13> --></div><!--/U1DRIGHTER1Z-->
+</td>
+</tr>
+</table>
+<!-- </middle> -->
+</td></tr></table>
+
+<!--U1BFOOTER1Z--><noindex>
+ <table border="0" cellpadding="4" cellspacing="0" width="100%" style="border-bottom:6px solid #000000;">
+<tr><td align="center" style="background:#D6D7CF;">
+ 
+ <br><!-- <copy> -->Copyright MyCorp &copy; 2021 <!-- </copy> -->
+ 
+ <br>
+ </td>
+ </tr>
+<tr><td align="center" style="background:#D6D7CF;"><!-- "' --><span class="pb90Ok8C"><a href="https://www.ucoz.ru/"><img style="width:81px; height:31px;" src="/.s/img/cp/29.gif" alt="" /></a></span>
+
+ <!-- Yandex.Metrika informer -->
+<a href="https://metrika.yandex.ru/stat/?id=28008459&amp;from=informer"
+target="_blank" rel="nofollow"><img src="//informer.yandex.ru/informer/28008459/3_1_62CAFFFF_42AAFFFF_0_pageviews"
+style="width:88px; height:31px; border:0;" alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)" onclick="try{Ya.Metrika.informer({i:this,id:28008459,lang:'ru'});return false}catch(e){}"/></a>
+<!-- /Yandex.Metrika informer -->
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+(function (d, w, c) {
+ (w[c] = w[c] || []).push(function() {
+ try {
+ w.yaCounter28008459 = new Ya.Metrika({id:28008459,
+ clickmap:true});
+ } catch(e) { }
+ });
+
+ var n = d.getElementsByTagName("script")[0],
+ s = d.createElement("script"),
+ f = function () { n.parentNode.insertBefore(s, n); };
+ s.type = "text/javascript";
+ s.async = true;
+ s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+
+ if (w.opera == "[object Opera]") {
+ d.addEventListener("DOMContentLoaded", f, false);
+ } else { f(); }
+})(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="//mc.yandex.ru/watch/28008459" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+ 
+ <!-- Rating@Mail.ru counter -->
+<script type="text/javascript">//<![CDATA[
+var _tmr = _tmr || [];
+_tmr.push({id: '2384499', type: 'pageView', start: (new Date()).getTime()});
+(function (d, w) {
+ var ts = d.createElement('script'); ts.type = 'text/javascript'; ts.async = true;
+ ts.src = (d.location.protocol == 'https:' ? 'https:' : 'http:') + '//top-fwz1.mail.ru/js/code.js';
+ var f = function () {var s = d.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ts, s);};
+ if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+})(document, window);
+//]]></script><noscript><div style="position:absolute;left:-10000px;">
+<img src="//top-fwz1.mail.ru/counter?id=2384499;js=na" style="border:0;" height="1" width="1" alt="Рейтинг@Mail.ru" />
+</div></noscript>
+<!-- //Rating@Mail.ru counter -->
+ 
+ <!-- Rating@Mail.ru logo -->
+<a href="http://top.mail.ru/jump?from=2384499">
+<img src="//top-fwz1.mail.ru/counter?id=2384499;t=476;l=1" 
+style="border:0;" height="31" width="88" alt="Рейтинг@Mail.ru" /></a>
+<!-- //Rating@Mail.ru logo -->
+ 
+<!-- RIN.RU COUNTER -->
+<a href="http://count.rin.ru/cgi-bin/view.cgi?domen=школа-пифагора.рф" target=_top>
+<script language="JavaScript" type="text/javascript">
+<!--
+d=document; var a='&d=школа-пифагора.рф'; a+='&rf='+escape(d.referrer); js=10;
+//-->
+</script><script language="JavaScript1.1" type="text/javascript">
+<!--
+a+='&jv='+navigator.javaEnabled(); js=11;
+//-->
+</script><script language="JavaScript1.2" type="text/javascript">
+<!--
+s=screen; a+='&wh='+s.width+'x'+s.height; a+='&cl='+(s.colorDepth?s.colorDepth:s.pixelDepth); js=12;
+//-->
+</script><script language="JavaScript1.3" type="text/javascript">
+<!--
+js=13;
+//-->
+</script><script language="JavaScript" type="text/javascript">
+<!--
+d.write('<img src="http://count.rin.ru/?js='+js+a+'&rand='+Math.random()+new Date().getTime()+'" alt="Рейтинг RIN.RU"'+' border=0 height=31 width=88>');
+//-->
+</script>
+</a>
+<noscript>
+<a href="http://count.rin.ru/cgi-bin/view.cgi?domen=школа-пифагора.рф" target=_top>
+<img src="http://count.rin.ru/?d=школа-пифагора.рф" alt="Рейтинг RIN.RU"'+' border=0 height=31 width=88>
+</a>
+</noscript>
+<!-- END COUNTER -->
+ 
+<!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='//www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t12.11;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число просмотров за 24"+
+" часа, посетителей за 24 часа и за сегодня' "+
+"border='0' width='88' height='31'><\/a>")
+//--></script><!--/LiveInternet-->
+ </td></tr>
+</table>
+
+</noindex><!--/U1BFOOTER1Z-->
+
+</body>
+
+</html>
+<!-- 0.10058 (s83) -->

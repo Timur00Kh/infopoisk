@@ -1,0 +1,514 @@
+<!DOCTYPE html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link rel="shortcut icon" href="https://www.sdamna5.ru/sites/default/files/favicon2.png" type="image/png" />
+<meta name="description" content="На нашем сайте находятся различные материалы для успешной сдачи литературы и русского языка на отлично" />
+<meta name="generator" content="Drupal 7 (https://www.drupal.org)" />
+<link rel="canonical" href="https://www.sdamna5.ru/" />
+<link rel="shortlink" href="https://www.sdamna5.ru/" />
+<meta name="dcterms.title" content="Учебные материалы для школьников и студентов по литературе и русскому языку. Сдам на 5.ру" />
+<meta name="dcterms.type" content="Text" />
+<meta name="dcterms.format" content="text/html" />
+<meta name="dcterms.identifier" content="https://www.sdamna5.ru/index" />
+  <title>Учебные материалы для школьников и студентов по литературе и русскому языку бесплатно. Сдам на 5.ру</title>
+  <link type="text/css" rel="stylesheet" href="https://www.sdamna5.ru/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.sdamna5.ru/sites/default/files/css/css_TsVRTbLFUpEZAfw-_bWPJu840QT523CPjUVJ5MRWfyk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.sdamna5.ru/sites/default/files/css/css_dm5WhnpadokJDJvnOj2PBXtIjlpnfXsz8pOzPGOSRLI.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.sdamna5.ru/sites/default/files/css/css_vWr35163YPg3msY9BBxLOMx0wovFrVv4K9mxLW0J_hs.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.sdamna5.ru/sites/default/files/css/css_Vqdsnpr-0C6m03PPfNKhN1ahGiunPNrOGdLIjbxM7N4.css" media="only screen" />
+
+<!--[if IE 8]>
+<link type="text/css" rel="stylesheet" href="https://www.sdamna5.ru/sites/all/themes/mayo/css/ie8.css?qp33ga" media="all" />
+<![endif]-->
+
+<!--[if  IE 7]>
+<link type="text/css" rel="stylesheet" href="https://www.sdamna5.ru/sites/all/themes/mayo/css/ie.css?qp33ga" media="all" />
+<![endif]-->
+
+<!--[if IE 6]>
+<link type="text/css" rel="stylesheet" href="https://www.sdamna5.ru/sites/all/themes/mayo/css/ie6.css?qp33ga" media="all" />
+<![endif]-->
+<style type="text/css" media="all">
+<!--/*--><![CDATA[/*><!--*/
+body{font-size:100%;font-family:Georgia,'Palatino Linotype','Book Antiqua','URW Palladio L',Baskerville,Meiryo,'Hiragino Mincho Pro','MS PMincho',serif;}
+h1,h2,h3,h4,h5{font-family:Georgia,'Palatino Linotype','Book Antiqua','URW Palladio L',Baskerville,Meiryo,'Hiragino Mincho Pro','MS PMincho',serif;}
+
+/*]]>*/-->
+</style>
+  <script type="text/javascript" src="https://www.sdamna5.ru/sites/default/files/js/js_yMSKTzBO0KmozyLwajzFOrrt_kto_9mtccAkb0rm7gc.js"></script>
+<script type="text/javascript" src="https://www.sdamna5.ru/sites/default/files/js/js_c7j78C19zUv3DBAfpKo9pq7RPVkpTHppvENSB4qR6DY.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"mayo","theme_token":"2iwhqyNriskawlZS5SL6FXWuCQrWjhRyEJEVgMvo_Kw","js":{"sites\/all\/themes\/mayo\/js\/mayo-columns.js":1,"misc\/jquery.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"public:\/\/languages\/ru_9g1YIxNJ8QawaGGl_GgkpZs2SAnVuBP_wcfT44JChRw.js":1,"sites\/all\/modules\/adsense\/contrib\/adsense_click\/adsense_click.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"sites\/all\/modules\/tables\/tables-filter.css":1,"modules\/yandex_metrics-7.x-3.1\/yandex_metrics\/css\/yandex_metrics.css":1,"sites\/all\/themes\/mayo\/css\/style.css":1,"sites\/all\/themes\/mayo\/css\/colors.css":1,"public:\/\/mayo\/mayo_files\/mayo.responsive.layout.css":1,"sites\/all\/themes\/mayo\/css\/ie8.css":1,"sites\/all\/themes\/mayo\/css\/ie.css":1,"sites\/all\/themes\/mayo\/css\/ie6.css":1,"0":1,"1":1}},"urlIsAjaxTrusted":{"\/":true}});
+//--><!]]>
+</script>
+<script type="text/javascript" src="//vk.com/js/api/openapi.js?144"></script>
+
+<script type="text/javascript">
+  VK.init({apiId: 3955312, onlyWidgets: true});
+</script>
+<meta name="yandex-verification" content="7277ac0e904a5984" />
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({
+          google_ad_client: "ca-pub-7829090384705824",
+          enable_page_level_ads: true
+     });
+</script>
+
+<style>
+#top-wrapper .block-system-navigation-instance h2, #top-wrapper .block-system-navigation-instance .content { display: none; }
+#top-wrapper .block-system-navigation-instance .burger, #top-wrapper .block-system-navigation-instance .burger:hover, #top-wrapper .block-system-navigation-instance .burger:focus, #top-wrapper .block-system-navigation-instance .burger:active {
+    display: block;
+	color: #616161;
+	font-size: 18px;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	text-decoration: none;
+}
+#top-wrapper .block-system-navigation-instance .content {
+	padding-top: 12px;
+}
+
+#top-wrapper .block-system-navigation-instance .content li.leaf {
+    padding: 0.4em 0.5em 0 0;
+}
+
+#top-wrapper .block-system-navigation-instance .burger__wrapper {
+	display: inline-block;
+    position: relative;
+    width: 24px;
+    height: 24px;
+	vertical-align: bottom;
+	margin-right: 7px;
+}
+
+#top-wrapper .block-system-navigation-instance .burger .burger__line {
+    position: absolute;
+    height: 3px;
+    top: 50%;
+    margin-top: -1px;
+    display: block;
+    width: 100%;
+    background-color: #2a7ffe;
+    cursor: pointer;
+    -webkit-border-radius: 1px;
+    -moz-border-radius: 1px;
+    -ms-border-radius: 1px;
+    border-radius: 1px;
+    -webkit-transition: all .3s;
+    -moz-transition: all .3s;
+    -o-transition: all .3s;
+    transition: all .3s;
+}
+
+#top-wrapper .block-system-navigation-instance .burger .burger__line:first-child {
+    -webkit-transform: translateY(-8px);
+    -ms-transform: translateY(-8px);
+    transform: translateY(-8px);
+}
+
+#top-wrapper .block-system-navigation-instance .burger .burger__line:nth-child(3) {
+    -webkit-transform: translateY(8px);
+    -ms-transform: translateY(8px);
+    transform: translateY(8px);
+}
+
+#top-wrapper .block-system-navigation-instance.showMenu .burger__line:nth-child(1) {
+    -webkit-transform: translateY(0) rotate(45deg);
+    -ms-transform: translateY(0) rotate(45deg);
+    transform: translateY(0) rotate(45deg);
+}
+#top-wrapper .block-system-navigation-instance.showMenu .burger__line:nth-child(2) {
+    -webkit-transform: scale(.1,1);
+    -ms-transform: scale(.1,1);
+    transform: scale(.1,1);
+}
+#top-wrapper .block-system-navigation-instance.showMenu .burger__line:nth-child(3) {
+    -webkit-transform: translateY(0) rotate(-45deg);
+    -ms-transform: translateY(0) rotate(-45deg);
+    transform: translateY(0) rotate(-45deg);
+}
+</style>
+
+<script>
+jQuery(document).ready(function($){
+	$('#top-wrapper .block-system-navigation-instance').prepend('<'+'a href="#" class="burger openCloser"><'+'div class="burger__wrapper"><'+'span class="burger__line"><'+'/span><'+'span class="burger__line"><'+'/span><'+'span class="burger__line"><'+'/span><'+'/div>Меню<'+'/a>');
+	$('#top-wrapper .block-system-navigation-instance .burger').bind('click', function(e){
+		e.preventDefault();
+		$('#top-wrapper .block-system-navigation-instance').toggleClass('showMenu');
+		$('#top-wrapper .block-system-navigation-instance .content').slideToggle(500);
+		return false;
+	});
+});
+</script>
+</head>
+<body class="html front not-logged-in one-sidebar sidebar-second page-node page-node- page-node-1 node-type-page rc-3" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Перейти к основному содержанию</a>
+  </div>
+    
+
+<div id="page-wrapper" style=" margin-top: 14px; margin-bottom: 14px;">
+  <div id="page" style="">
+
+    <div id="header" style="border: none;">
+    <div id="header-watermark" style="background-image: url(https://www.sdamna5.ru/sites/all/themes/mayo/images/pat-2.png);">
+    <div class="section clearfix">
+
+              <div id="logo">
+        <a href="/" title="Главная" rel="home">
+          <img src="https://www.sdamna5.ru/sites/default/files/logo1.png" alt="Главная" />
+        </a>
+        </div> <!-- /#logo -->
+      
+      
+      
+      
+      <div class="clearfix cfie"></div>
+
+      
+    </div> <!-- /.section -->
+    </div> <!-- /#header-watermark -->
+    </div> <!-- /#header -->
+
+    
+    <div class="clearfix cfie"></div>
+
+    <!-- for nice_menus, superfish -->
+        <div id="menubar" class="menubar clearfix">
+        <div class="region region-menubar">
+    <div id="block-block-10" class="block block-block clearfix">
+
+    
+  <div class="content">
+    <p>­<a href="https://www.youtube.com/channel/UCW4hg6dT0srICjJzY5Zx86w/" target="_blank"><img alt="Знак" src="/sites/default/files/pictures/znak.jpg" style="margin-right: 1px; margin-left: 1px;" /> Как знать литературу на 5 не читая книг</a></p>
+  </div>
+</div>
+  </div>
+    </div>
+        
+    <!-- space between menus and contents -->
+    <div class="spacer clearfix cfie"></div>
+
+
+    <div id="main-wrapper">
+    <div id="main" class="clearfix" style="padding: 0px 10px; box-sizing: border-box;">
+
+      
+      
+            <div id="top-wrapper">
+        <div id="top-columns" class="clearfix">
+        <div class="column-blocks clearfix"><div class="column-block-wrapper" style="width: 100%;"><div class="column-block" style="margin-left: 0px;margin-right: 0px;">  <div class="region region-top-column-first">
+    <div id="block-multiblock-1" class="block block-multiblock block-system block-system-navigation-instance clearfix">
+
+    <h2>Навигация</h2>
+  
+  <div class="content">
+    <ul class="menu"><li class="first leaf"><a href="/kratko">КРАТКИЕ СОДЕРЖАНИЯ</a></li>
+<li class="leaf"><a href="/harakteristiki_geroev">ХАРАКТЕРИСТИКИ ПЕРСОНАЖЕЙ</a></li>
+<li class="leaf"><a href="https://www.sdamna5.ru/soch_literatura" title="">СОЧИНЕНИЯ ПО ПРОИЗВЕДЕНИЯМ</a></li>
+<li class="leaf"><a href="/sochinenija">СОЧИНЕНИЯ ПО ТЕМАМ</a></li>
+<li class="leaf"><a href="https://www.sdamna5.ru/soch_kartiny" title="">СОЧИНЕНИЯ ПО КАРТИНАМ</a></li>
+<li class="leaf"><a href="/pisateli_i_poety">БИОГРАФИИ ПИСАТЕЛЕЙ</a></li>
+<li class="leaf"><a href="https://www.sdamna5.ru/biografii_hudozhnikov" title="">БИОГРАФИИ ХУДОЖНИКОВ</a></li>
+<li class="last leaf"><a href="/drugie_materialy" title="">ДРУГИЕ МАТЕРИАЛЫ</a></li>
+</ul>  </div>
+</div>
+  </div>
+</div></div> <!--/.column-block --><!--/.column-block-wrapper--></div> <!--/.column-blocks--><div class="spacer clearfix cfie"></div>        </div> <!--/#top-columns -->
+      </div> <!-- /#top-wrapper -->
+      
+      <div class="clearfix cfie"></div>
+
+
+      <!-- main content -->
+      <div id="content" class="column"><div class="section">
+
+                  <div id="highlighted">  <div class="region region-highlighted">
+    <div id="block-search-form" class="block block-search clearfix">
+
+    
+  <div class="content">
+    <form action="/" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Форма поиска</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Поиск </label>
+ <input onblur="if (this.value == &#039;&#039;) { this.value = &#039;Поиск&#039;; }" onfocus="if (this.value == &#039;Поиск&#039;) { this.value = &#039;&#039;; }" type="text" id="edit-search-block-form--2" name="search_block_form" value="Поиск" size="30" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="image" src="/sites/all/themes/mayo/images/search-submit.png" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-fja3DT_wn-u9YYUGVfSF7kVywWEkizVYzXrmpLkToMo" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  </div>
+</div>
+  </div>
+</div>
+        
+        
+        <a id="main-content"></a>
+                <h1 class="title" id="page-title">Учебные материалы для школьников и студентов по литературе и русскому языку. Сдам на 5.ру</h1>                <div class="tabs clearfix"></div>                          <div class="region region-content">
+    <div id="block-block-3" class="block block-block clearfix">
+
+    
+  <div class="content">
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- sdamcenter -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7829090384705824"
+     data-ad-slot="1314636081"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>  </div>
+</div>
+<div id="block-system-main" class="block block-system clearfix">
+
+    
+  <div class="content">
+    <div id="node-1" class="node node-page clearfix" about="/index" typeof="foaf:Document">
+
+  
+      <span property="dc:title" content="Учебные материалы для школьников и студентов по литературе и русскому языку. Сдам на 5.ру" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>На нашем сайте Сдам на 5.ру находятся материалы для успешной сдачи литературы и русского языка на пятёрки. Почему у нас интересно? Потому, что на сайте много сочинений по художественным произведениям, а также на свободные темы. На сайте Сдам на 5 также есть краткие содержания ключевых произведений школьной программы, биографии писателей и других известных людей, и кроме этого мы создали огромную базу характеристик персонажей произведений. А если вы не знаете, как грамматически правильно написать слово, то для вас есть словарь правильных слов русского языка.</p>
+<p>Учащимся средней школы и старших классов сайт Сдам на 5 будет особенно полезен. Теперь сдать на отлично литературу и русский язык вовсе не проблема!</p>
+<p>Вы также можете подписаться на наш <a href="https://www.youtube.com/channel/UCW4hg6dT0srICjJzY5Zx86w" target="_blank">ютуб канал</a> чтобы смотреть или даже просто слушать материалы сайта.</p>
+<p>­</p>
+<h2 style="text-align: center;"><em>Самые популярные материалы:</em></h2>
+<table align="center" style="width:80%"><tbody><tr><td style="vertical-align:top">
+<h3><em><a href="kratko">Краткие содержания произведений:</a></em></h3>
+<ul><li><a href="alye_parusa_kratko">Алые паруса, Грин</a></li>
+<li><a href="anna_karenina_kratko">Анна Каренина, Толстой</a></li>
+<li><a href="vojna_i_mir_kratko1">Война и мир, Толстой</a></li>
+<li><a href="gore_ot_uma_kratko">Горе от ума, Грибоедов</a></li>
+<li><a href="dubrovskij_kratko">Дубровский, Пушкин</a></li>
+<li><a href="kapitanskaja_dochka_kratko">Капитанская дочка, Пушкин</a></li>
+<li><a href="master_i_margarita_kratko">Мастер и Маргарита, Булгаков</a></li>
+<li><a href="mertvye_dushi_kratko">Мёртвые души, Гоголь</a></li>
+<li><a href="prestuplenie_kratko">Преступление и наказание, Достоевский</a></li>
+<li><a href="sobachje_serdtse_kratko">Собачье сердце, Булгаков</a></li>
+<li><a href="taras_buljba_kratko">Тарас Бульба, Гоголь</a>
+<p>­</p></li>
+</ul><h3><em><a href="harakteristiki_geroev" title="">Характеристики персонажей:</a></em></h3>
+<ul><li><a href="assolj">Ассоль (Алые паруса, Грин)</a></li>
+<li><a href="grigoriy_melehov">Григорий Мелехов (Тихий Дон, Шолохов)</a></li>
+<li><a href="evgenij_onegin">Евгений Онегин (Пушкин)</a></li>
+<li><a href="master">Мастер (Мастер и Маргарита, Булгаков)</a></li>
+<li><a href="natasha_rostova">Наташа Ростова (Война и мир, Толстой)</a></li>
+<li><a href="oblomov">Обломов (Обломов, Гончаров)</a></li>
+<li><a href="plyushkin">Плюшкин (Мёртвые души, Гоголь)</a></li>
+<li><a href="raskolnikov">Раскольников (Преступление и наказание)</a></li>
+<li><a href="taras_buljba">Тарас Бульба (Тарас Бульба, Гоголь)</a></li>
+<li><a href="hlestakov">Хлестаков (Ревизор, Гоголь)</a></li>
+<li><a href="chatskij">Чацкий (Горе от ума, Грибоедов)</a>
+<p>­</p></li>
+</ul><h3><em><a href="soch_literatura">Сочинения по произведениям:</a></em></h3>
+<ul><li><a href="vojna_i_mir_soch">Война и мир, Толстой</a></li>
+<li><a href="geroj_nashego_soch">Герой нашего времени, Лермонтов</a></li>
+<li><a href="gore_ot_uma_soch">Горе от ума, Грибоедов</a></li>
+<li><a href="dubrovskij_soch">Дубровский, Пушкин</a></li>
+<li><a href="master_i_margarita_soch">Мастер и Маргарита, Булгаков</a></li>
+<li><a href="mertvye_dushi_soch">Мёртвые души, Гоголь</a></li>
+<li><a href="oblomov_soch">Обломов, Гончаров</a></li>
+<li><a href="otzy_i_deti_soch">Отцы и дети, Тургенев</a></li>
+<li><a href="prestuplenija_soch">Преступление и наказание, Достоевский</a></li>
+<li><a href="revizor_soch">Ревизор, Гоголь</a></li>
+<li><a href="taras_buljba_soch">Тарас Бульба, Гоголь</a>
+<p>­</p></li>
+</ul><h3><em><a href="sochinenija">Сочинения на разные темы:</a></em></h3>
+<ul><li><a href="vremena_goda">Времена года</a></li>
+<li><a href="kak_ja_provel_leto">Как я провёл лето</a></li>
+<li><a href="klass_moej_mechty">Класс моей мечты</a></li>
+<li><a href="kniga_moej_zhizni">Книга в моей жизни</a></li>
+<li><a href="moe_hobbi">Моё хобби</a></li>
+<li><a href="moja_semja">Моя семья</a></li>
+<li><a href="muzyka">Музыка</a></li>
+<li><a href="o_sebe">О себе</a></li>
+<li><a href="rodina">Родина</a></li>
+<li><a href="uchitel_v_moej_zhizni">Учитель в моей жизни</a></li>
+<li><a href="shkola">Школа</a>
+<p>­</p></li>
+</ul><h3><em><a href="pisateli_i_poety">Краткие биографии писателей:</a></em></h3>
+<ul><li><a href="mihail_bulgakov">Булгаков, Михаил</a></li>
+<li><a href="ivan_bunin">Бунин, Иван</a></li>
+<li><a href="gogol">Гоголь, Николай</a></li>
+<li><a href="dostoevskij">Достоевский, Фёдор</a></li>
+<li><a href="aleksandr_kuprin">Куприн, Александр</a></li>
+<li><a href="mihail_lermontov">Лермонтов, Михаил</a></li>
+<li><a href="aleksandr_pushkin">Пушкин, Александр</a></li>
+<li><a href="lev_tolstoj">Толстой, Лев</a></li>
+<li><a href="ivan_turgenev">Тургенев, Иван</a></li>
+<li><a href="anton_chehov">Чехов, Антон</a></li>
+<li><a href="sholohov">Шолохов, Михаил</a></li>
+</ul></td>
+</tr></tbody></table></div></div></div>  </div>
+
+  
+</div>
+
+ <!-- added -->
+
+  </div>
+</div>
+<div id="block-block-7" class="block block-block clearfix">
+
+    
+  <div class="content">
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- sdamniz_new -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7829090384705824"
+     data-ad-slot="8141019682"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>  </div>
+</div>
+<div id="block-block-4" class="block block-block clearfix">
+
+    
+  <div class="content">
+    <p>&nbsp;</p>
+<div id="vk_like"></div>
+<script type="text/javascript">
+VK.Widgets.Like("vk_like", {type: "full"});
+</script>
+<p>&nbsp;</p>
+  </div>
+</div>
+  </div>
+        
+      </div></div> <!-- /.section, /#content -->
+
+      <!-- sidebar (first) -->
+      
+      <!-- sidebar (second) -->
+                    <div id="sidebar-second" class="column sidebar"><div class="section">
+            <div class="region region-sidebar-second">
+    <div id="block-system-navigation" class="block block-system block-menu clearfix">
+
+    <h2>Навигация</h2>
+  
+  <div class="content">
+    <ul class="menu"><li class="first leaf"><a href="/kratko">КРАТКИЕ СОДЕРЖАНИЯ</a></li>
+<li class="leaf"><a href="/harakteristiki_geroev">ХАРАКТЕРИСТИКИ ПЕРСОНАЖЕЙ</a></li>
+<li class="leaf"><a href="https://www.sdamna5.ru/soch_literatura" title="">СОЧИНЕНИЯ ПО ПРОИЗВЕДЕНИЯМ</a></li>
+<li class="leaf"><a href="/sochinenija">СОЧИНЕНИЯ ПО ТЕМАМ</a></li>
+<li class="leaf"><a href="https://www.sdamna5.ru/soch_kartiny" title="">СОЧИНЕНИЯ ПО КАРТИНАМ</a></li>
+<li class="leaf"><a href="/pisateli_i_poety">БИОГРАФИИ ПИСАТЕЛЕЙ</a></li>
+<li class="leaf"><a href="https://www.sdamna5.ru/biografii_hudozhnikov" title="">БИОГРАФИИ ХУДОЖНИКОВ</a></li>
+<li class="last leaf"><a href="/drugie_materialy" title="">ДРУГИЕ МАТЕРИАЛЫ</a></li>
+</ul>  </div>
+</div>
+<div id="block-block-1" class="block block-block clearfix">
+
+    
+  <div class="content">
+    <p>&nbsp;</p>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- sdamleft_new -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7829090384705824"
+     data-ad-slot="9617752882"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>  </div>
+</div>
+  </div>
+        </div></div> <!-- /.section, /#sidebar-second -->
+      
+
+      <div class="clearfix cfie"></div>
+
+      
+      <div class="clearfix cfie"></div>
+
+
+      
+    </div> <!-- /#main -->
+    </div> <!-- /#main-wrapper -->
+
+    <!-- space between contents and footer -->
+    <div id="spacer" class="clearfix cfie"></div>
+
+    <div id="footer-wrapper">
+      
+            <div id="footer"><div class="section">
+          <div class="region region-footer">
+    <div id="block-block-6" class="block block-block clearfix">
+
+    
+  <div class="content">
+    <p>Copyright © 2013 - 2021 www.sdamna5.ru Публикация и использование материалов сайта без разрешения администрации запрещено!<br>Если вы обнаружили ошибку на нашем сайте, просьба написать на e-mail: paulday@mail.ru</p><!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t44.1;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet' "+
+"border='0' width='31' height='31'><\/a>")
+//--></script><!--/LiveInternet-->  </div>
+</div>
+  </div>
+      </div></div> <!-- /.section, /#footer -->
+      
+    </div> <!-- /#footer-wrapper -->
+  </div> <!-- /#page -->
+</div> <!-- /#page-wrapper -->
+    <div class="region region-page-bottom">
+    <div class="ym-counter"><!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(72933010, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/72933010" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter --></div>  </div>
+<script type="text/javascript" src="https://www.sdamna5.ru/sites/default/files/js/js_ZVI5DWdS21F47v-9soKE04JX0IRYAocmVipnVntoBiU.js"></script>
+<script type="text/javascript">
+  var advBlock = document.getElementById("block-block-1");
+  var navBlock = document.getElementById("block-system-navigation");
+  var leftBlock = document.querySelectorAll("[id^='node-']")[0];
+  advPos = function() {
+    var isDesktop = window.matchMedia( "(min-width: 769px)" );
+    
+    var advBlockBox = advBlock.getBoundingClientRect();
+    var advBlockBottom = Math.floor(advBlockBox.top + advBlock.offsetHeight);
+    var navBlockBox = navBlock.getBoundingClientRect();
+    var navBlockBottom = Math.floor(navBlockBox.top + navBlock.offsetHeight);
+    var leftBlockBox = leftBlock.getBoundingClientRect();
+    var leftBlockBottom = Math.floor(leftBlockBox.top + leftBlock.offsetHeight);
+    var diff = leftBlockBottom - advBlockBottom;
+    var diff10 = leftBlockBottom - Math.floor(10 + advBlock.offsetHeight);
+    
+    if ((navBlockBottom <= 0) && isDesktop.matches) {
+      advBlock.style.position = "fixed";
+      if ((diff > 0) && (diff10 > 0)) {
+        advBlock.style.top = "10px"
+      } else {
+        advBlock.style.top = Math.floor(advBlockBox.top + diff) + "px";
+      }
+    } else {
+      advBlock.style.position = "";
+      advBlock.style.top = "";
+    }
+  };
+  window.onscroll = function() {advPos()};
+  window.onresize = function() {advPos()};
+</script>
+</body>
+</html>

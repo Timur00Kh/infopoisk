@@ -1,0 +1,1279 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="//www.w3.org/1999/xhtml" xml:lang="ru" lang="ru">
+<head>
+<meta charset="utf-8">
+<title>Все школьные учебники и решебники Украина онлайн|скачать бесплатно</title>
+<meta name="description" content="бесплатные учебники для школы для всех классов в электронном виде можно скачать или читать онлайн">
+<meta name="keywords" content="Школьные учебники, Скачать Учебники бесплатно, Підручники для школи, читать ОНЛАЙН, скачать на планшет, учебники pdf">
+<meta name="generator" content="DataLife Engine (http://dle-news.ru)">
+<link rel="search" type="application/opensearchdescription+xml" href="https://bookforschool.in.ua/index.php?do=opensearch" title="Все школьные учебники и решебники Украина онлайн|скачать бесплатно">
+<link rel="canonical" href="https://bookforschool.in.ua/"><link rel="alternate" type="application/rss+xml" title="Все школьные учебники и решебники Украина онлайн|скачать бесплатно" href="https://bookforschool.in.ua/rss.xml">
+<link href="/templates/booknew/style/tabs.css" rel="stylesheet" />
+<link rel="stylesheet" type="text/css" href="/templates/booknew/style/bootstrap.css" />
+<link rel="stylesheet" type="text/css" href="/templates/booknew/css/font-awesome.css" />
+<link rel="stylesheet" type="text/css" href="/engine/classes/min/index.php?charset=windows-1251&amp;f=/templates/booknew/style/styles.css,/templates/booknew/style/engine.css&amp;15" />
+<meta name='yandex-verification' content='74764715402fc939' />
+<meta name="google-site-verification" content="MjWFJ1-_ZZRj8BinHXv-kJcr6eaBzcYtmi02PN2gb4E" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link rel="shortcut icon" type="image/x-icon" href="/templates/booknew/images/favicon.ico" />
+    
+</head>
+<body>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/ru_RU/sdk.js#xfbml=1&version=v2.9";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<div id="header">
+<div class="container">
+<div class="row">
+<div class="col-md-6">
+<a class="logotype" href="/">
+<img src="/templates/booknew/images/logo.png" alt="Учебники для школы - bookforschool.in.ua" />
+</a>
+</div>
+<div class="col-md-4">
+<div class="searchbar">
+<form action="" name="searchform" method="post">
+<input type="hidden" name="do" value="search" />
+<input type="hidden" name="subaction" value="search" />
+<input id="story" name="story" value="Поиск..." onblur="if(this.value=='') this.value='Поиск...';" onfocus="if(this.value=='Поиск...') this.value='';" type="text" class="searchbar-input" />
+<button class="searchbar-btn" type="submit" title="Найти">
+<i class="fa fa-search">
+</i>
+</button>
+</form>
+</div>
+</div>
+<div class="col-md-2">
+<ul class="nav-login">
+
+</ul>
+</div>
+</div>
+</div>
+</div><div class='hidden-xs hidden-sm'>
+<div id="menu-bar">
+<div class="container" style="height: 57px;">
+<div class="navbar">
+<div class="navbar-header">
+<button type="button" class="navbar-toggle" >
+<span class="sr-only">
+Разделы сайта
+</span>
+<span class="icon-block">
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</span>
+</button>
+</div>
+<div class="navbar-collapse collapse">
+<ul class="navbar-nav">
+<li class="active"><a href="/">Главная</a></li>
+<li><a href="/1_klass/">1 класс</a></li>
+<li><a href="/2_klass/">2 класс</a></li>
+<li><a href="/3_klass/">3 класс</a></li>
+<li><a href="/4_klass/">4 класс</a></li>
+<li><a href="/5_klass/">5 класс</a></li>
+<li><a href="/6_klass/">6 класс</a></li>
+<li><a href="/7_klass/">7 класс</a></li>
+<li><a href="/8_klass/">8 класс</a></li>
+<li><a href="/9_klass/">9 класс</a></li>
+<li><a href="/10_klass/">10 класс</a></li>
+<li><a href="/11_klass/">11 класс</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div></div>
+<div id="mainbar" style="position:relative;">
+<div class="container"> 
+<div class="row margin-b20">
+<div id="sidebar" class="col-md-3 col-xs-12">
+<div class="sidebar">
+<div class="accordion-in margin-b1">
+<div class="accordion" >
+<div class="panel">
+<h4> 
+<div class="fb-page" 
+data-href="https://www.facebook.com/Bookforschool/"
+data-width="380" 
+data-colorscheme="light"
+data-show-faces="true"
+data-header="true"
+data-stream="false"
+data-show-border="true"                                              
+data-hide-cover="false"
+data-show-facepile="false" 
+data-small-header="false" 
+data-show-posts="false"></div>
+<div class="dle_b_traf" data-dlebid="16" data-dlebviews="yes" data-dlebclicks="yes" ><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- download -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-9914840195789841"
+     data-ad-slot="2386057206"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></div> 
+<a class="link"  >
+<span class="accordion-marker">                               
+<span class="accordion-open">
+<i class="fa fa-bars"></i>
+</span>
+</span>
+<span class="title">
+Навигация по сайту
+</span>
+</a>
+</h4>
+<div class="collapse in">
+<div>
+<div id='cssmenu'>
+<ul>
+<li class='has-sub'>
+ <a href='#'><span><i class="fa fa-angle-right"></i>Українська література</span></a>
+<ul>
+<li><a href="//bookforschool.in.ua/biografy_ukrainskih_pismennikiv.html"><span>Біографії письменників</span></a></li>
+<li><a href="/ukrainskaya-literatura/"><span>Шкільна українська література</span></a></li>    
+</ul>
+</li> 
+<li class='has-sub'>
+<a href='#'><span><i class="fa fa-angle-right"></i>Oxford: Solutions</span></a>
+<ul><li ><a href="/english_solutions/"><span>Английский язык</span></a></li></ul>
+</li>   
+<li class='has-sub'>
+<a href='#'><span><i class="fa fa-angle-right"></i>Family and friends</span></a>
+<ul><li ><a href="/english_family_and_friends/"><span>Английский язык</span></a></li></ul>
+</li>   
+<li class='has-sub'>
+<a href='#'><span><i class="fa fa-angle-right"></i>ГДЗ, решебники, ответы</span></a>
+<ul>
+<li><a href="/gdz-4klass/"><span>ГДЗ, решебники, ответы 4 класс</span></a></li>
+<li><a href="/gdz-5klass/"><span>ГДЗ, решебники, ответы 5 класс</span></a></li>
+<li><a href="/gdz-6klass/"><span>ГДЗ, решебники, ответы 6 класс</span></a></li>
+<li><a href="/gdz-7klass/"><span>ГДЗ, решебники, ответы 7 класс</span></a></li>
+<li><a href="/gdz-8klass/"><span>ГДЗ, решебники, ответы 8 класс</span></a></li>
+<li><a href="/gdz-9klass/"><span>ГДЗ, решебники, ответы 9 класс</span></a></li>
+<li><a href="/gdz-10klass/"><span>ГДЗ, решебники, ответы 10 класс</span></a></li>
+<li><a href="/gdz-11klass/"><span>ГДЗ, решебники, ответы 11 класс</span></a></li>
+<li><a href="/answers_solutions/"><span>Ответы Oxford Solutions</span></a></li>  
+<li><a href="/answers_family_and_friends/"><span>Ответы Family and friends</span></a></li>
+</ul>
+</li>   
+<li class='has-sub'>
+<a href='#'><span><i class="fa fa-angle-right"></i>Учебники 1 класс</span></a>
+<ul>
+<li><a href="/1_klass/"><span>Все учебники 1 класс</span></a></li>
+<li><a href="/1klass_new/"><span>Нова Українська Школа</span></a></li>    
+<li><a href="/1_english/"><span>Английский язык</span></a></li>
+<li><a href="/1_bukvar/"><span>Букварь</span></a></li>
+<li><a href="/1_hungarian/"><span>Венгерский язык обучения</span></a></li>
+<li><a href="/1_izo/"><span>ИЗО</span></a></li>
+<li><a href="/1_iskusstvo/"><span>Искусство</span></a></li>
+<li><a href="/1_spanish/"><span>Испанский язык</span></a></li>
+<li><a href="/1_matem/"><span>Математика</span></a></li>
+<li><a href="/1_muzika/"><span>Музыка</span></a></li>
+<li><a href="/1_osnovi_zdor/"><span>Основы здоровья</span></a></li>
+<li><a href="/1_polish/"><span>Польский язык обучения</span></a></li>  
+<li><a href="/1_prirodoved/"><span>Природоведение</span></a></li>
+<li><a href="/1_romanian/"><span>Румынский язык обучения</span></a></li>  
+<li><a href="/1_rus_yazik/"><span>Русский язык</span></a></li>
+<li><a href="/1_trud/"><span>Трудовое обучение</span></a></li>
+<li><a href="/1_ukr_mova/"><span>Украинский язык</span></a></li>
+<li><a href="/1_franc/"><span>Французский язык</span></a></li>
+<li><a href="/1_chitanka/"><span>Чтение</span></a></li> 
+<li><a href="/1_ya_doslidjuy_svit/"><span>Я досліджую світ</span></a></li>     
+</ul>
+</li>
+<li class='has-sub'>
+<a href='#'><span><i class="fa fa-angle-right"></i>Учебники 2 класс</span></a>
+<ul>
+<li><a href="/2_klass/"><span>Все учебники 2 класс</span></a></li>
+<li><a href="/2klass_new/"><span>Нова Українська Школа</span></a></li> 
+<li><a href="/2_english/"><span>Английский язык</span></a></li>
+<li><a href="/2_hungarian/"><span>Венгерский язык обучения</span></a></li>
+<li><a href="/2_izo/"><span>ИЗО</span></a></li>
+<li><a href="/2_informatika/"><span>Информатика</span></a></li>
+<li><a href="/2_iskusstvo/"><span>Искусство</span></a></li>
+<li><a href="/2_spanish/"><span>Испанский язык</span></a></li>
+<li><a href="/2_matematika/"><span>Математика</span></a></li>
+<li><a href="/2_moldavskii/"><span>Молдавский язык обучения</span></a></li> 
+<li><a href="/2_muzika/"><span>Музыка</span></a></li>
+<li><a href="/2_deutsch/"><span>Немецкий язык</span></a></li>
+<li><a href="/2_osnovi_zdor/"><span>Основы здоровья</span></a></li>
+<li><a href="/2_polish/"><span>Польский язык обучения</span></a></li>  
+<li><a href="/2_prirodovedenie/"><span>Природоведение</span></a></li>
+<li><a href="/2_romanian/"><span>Румынский язык обучения</span></a></li>  
+<li><a href="/2_russkii/"><span>Русский язык</span></a></li>
+<li><a href="/2_trud/"><span>Трудовое обучение</span></a></li>
+<li><a href="/2_ukr_mova/"><span>Украинский язык</span></a></li>
+<li><a href="/2_french/"><span>Французский язык</span></a></li>
+<li><a href="/2_chtenie/"><span>Чтение</span></a></li>
+<li><a href="/2_ya_doslidjuy_svit/"><span>Я досліджую світ</span></a></li> 
+</ul>
+</li>
+<li class='has-sub'>
+<a href='#'><span><i class="fa fa-angle-right"></i>Учебники 3 класс</span></a>
+<ul>
+<li><a href="/3_klass/"><span>Все учебники 3 класс</span></a></li>
+<li><a href="/3klass_new/"><span>Нова Українська Школа</span></a></li> 
+<li><a href="/3_english/"><span>Английский язык</span></a></li>
+<li><a href="/3_hungarian/"><span>Венгерский язык обучения</span></a></li>
+<li><a href="/3_izo/"><span>ИЗО</span></a></li>
+<li><a href="/3_informatika/"><span>Информатика</span></a></li>
+<li><a href="/3_iskusstvo/"><span>Искусство</span></a></li>
+<li><a href="/3_spanish/"><span>Испанский язык</span></a></li>
+<li><a href="/3_matematika/"><span>Математика</span></a></li>
+<li><a href="/3_muzika/"><span>Музыка</span></a></li>
+<li><a href="/3_deutsch/"><span>Немецкий язык</span></a></li>
+<li><a href="/3_osnovi_zdor/"><span>Основы здоровья</span></a></li>
+<li><a href="/3_polish/"><span>Польский язык обучения</span></a></li>  
+<li><a href="/3_prirodovedenie/"><span>Природоведение</span></a></li>
+<li><a href="/3_romanian/"><span>Румынский язык обучения</span></a></li>  
+<li><a href="/3_russkii_yazik/"><span>Русский язык</span></a></li>
+<li><a href="/3_trud/"><span>Трудовое обучение</span></a></li>
+<li><a href="/3_ukrainskii/"><span>Украинский язык</span></a></li>
+<li><a href="/3_french/"><span>Французский язык</span></a></li>
+<li><a href="/3_chtenie/"><span>Чтение</span></a></li>
+<li><a href="/3_ya_doslidjuy_svit/"><span>Я досліджую світ</span></a></li>  
+<li><a href="/3_ya_i_ukraina/"><span>Я и Украина</span></a></li> 
+</ul>
+</li>
+<li class='has-sub'>
+<a href='#'><span><i class="fa fa-angle-right"></i>Учебники 4 класс</span></a>
+<ul>
+<li><a href="/4_klass/"><span>Все учебники 4 класс</span></a></li>
+<li><a href="/4_english/"><span>Английский язык</span></a></li>
+<li><a href="/4_inform/"><span>Информатика</span></a></li>                    
+<li><a href="/4_iskusstvo/"><span>Искусство</span></a></li> 
+<li><a href="/4_matematika/"><span>Математика</span></a></li>
+<li><a href="/4_myzika/"><span>Музыка</span></a></li>
+<li><a href="/4_deutsch/"><span>Немецкий язык</span></a></li>
+<li><a href="/4_osnovi_zdor/"><span>Основы здоровья</span></a></li>
+<li><a href="/4_polish/"><span>Польский язык обучения</span></a></li>  
+<li><a href="/4_priroda/"><span>Природоведение</span></a></li>                    
+<li><a href="/4_russkii_yazik/"><span>Русский язык</span></a></li>
+<li><a href="/4_trud/"><span>Трудовое обучение</span></a></li>                    
+<li><a href="/4_ukr_yazik/"><span>Украинский язык</span></a></li>
+<li><a href="/4_french/"><span>Французский язык</span></a></li>                    
+<li><a href="/4_chtenie/"><span>Чтение</span></a></li>
+<li><a href="/4_i_in_word/"><span>Я в мире</span></a></li>
+<li><a href="/4_i_and_ukraine/"><span>Я и Украина</span></a></li> 
+</ul>
+</li>
+<li class='has-sub'>
+<a href='#'><span><i class="fa fa-angle-right"></i>Учебники 5 класс</span></a>
+<ul>
+<li><a href="/5_klass/"><span>Все учебники 5 класс</span></a></li>
+<li><a href="/5klass_new/"><span>Новая программа 2018</span></a></li> 
+<li><a href="/5_english/"><span>Английский язык</span></a></li>
+<li><a href="/5_bolgarskii/"><span>Болгарский язык обучения</span></a></li>    
+<li><a href="/5_hungarian/"><span>Венгерский язык обучения</span></a></li>
+<li><a href="/5_izo/"><span>ИЗО</span></a></li>
+<li><a href="/5_inf/"><span>Информатика</span></a></li>
+<li><a href="/5_iskusstvo/"><span>Искусство</span></a></li>
+<li><a href="/5_spanish/"><span>Испанский язык</span></a></li>
+<li><a href="/5_history_ukraini/"><span>История Украины</span></a></li>
+<li><a href="/5_krimskotatarskii/"><span>Крымскотатарский язык обучения</span></a></li>    
+<li><a href="/5_literatura/"><span>Литература</span></a></li>
+<li><a href="/5_matem/"><span>Математика</span></a></li>
+<li><a href="/5_moldavskii/"><span>Молдавский язык обучения</span></a></li>    
+<li><a href="/5_muzika/"><span>Музыка</span></a></li>
+<li><a href="/5_deutch/"><span>Немецкий язык</span></a></li>
+<li><a href="/5_oscnovi_zdor/"><span>Основы здоровья</span></a></li>
+<li><a href="/5_polish/"><span>Польский язык обучения</span></a></li>  
+<li><a href="/5_priroda/"><span>Природоведение</span></a></li>
+<li><a href="/5_romanian/"><span>Румынский язык обучения</span></a></li>  
+<li><a href="/5_russkii/"><span>Русский язык</span></a></li>
+<li><a href="/5_trud/"><span>Трудовое обучение</span></a></li>
+<li><a href="/5_ukr_lit/"><span>Украинская литература</span></a></li>
+<li><a href="/5_ukr_yazik/"><span>Украинский язык</span></a></li>
+<li><a href="/5_french/"><span>Французский язык</span></a></li>
+</ul>
+</li>
+<li class='has-sub'>
+<a href='#'><span><i class="fa fa-angle-right"></i>Учебники 6 класс</span></a>
+<ul>
+<li><a href="/6_klass/"><span>Все учебники 6 класс</span></a></li>
+<li><a href="/6_engl/"><span>Английский язык</span></a></li>
+<li><a href="/6_bio/"><span>Биология</span></a></li>
+<li><a href="/6_hungarian/"><span>Венгерский язык обучения</span></a></li>
+<li><a href="/6_history_vsemirnaya/"><span>Всемирная история</span></a></li>
+<li><a href="/6_geo/"><span>География</span></a></li>
+<li><a href="/6_izo/"><span>ИЗО</span></a></li>
+<li><a href="/6_informatika/"><span>Информатика</span></a></li>
+<li><a href="/6_iskusstvo/"><span>Искусство</span></a></li>
+<li><a href="/6_ispanskii/"><span>Испанский язык</span></a></li>
+<li><a href="/6_history_ukraini/"><span>История Украины</span></a></li>
+<li><a href="/6_literatura/"><span>Литература</span></a></li>
+<li><a href="/6_matamatika/"><span>Математика</span></a></li>
+<li><a href="/6_muzika/"><span>Музыка</span></a></li>
+<li><a href="/6_deutsch/"><span>Немецкий язык</span></a></li> 
+<li><a href="/6_osnovi_zdor/"><span>Основы здоровья</span></a></li>
+<li><a href="/6_polish/"><span>Польский язык обучения</span></a></li>  
+<li><a href="/6_prirodovedenie/"><span>Природоведение</span></a></li>
+<li><a href="/6_romanian/"><span>Румынский язык обучения</span></a></li>  
+<li><a href="/6_rus_yazik/"><span>Русский язык</span></a></li>
+<li><a href="/6_trud_obuch/"><span>Трудовое обучение</span></a></li>  
+<li><a href="/6_ukr_liter/"><span>Украинская литература</span></a></li>
+<li><a href="/6_ukr_yazik/"><span>Украинский язык</span></a></li>
+<li><a href="/6_french/"><span>Французский язык</span></a></li>
+<li><a href="/6_etika/"><span>Этика</span></a></li>
+</ul>
+</li>
+<li class='has-sub'>
+<a href='#'><span><i class="fa fa-angle-right"></i>Учебники 7 класс</span></a>
+<ul>
+<li><a href="/7_klass/"><span>Все учебники 7 класс</span></a></li>
+<li><a href="/7klass_new/"><span>!!!Новая программа 7 класс!!!</span></a></li>
+<li><a href="/7_algebra/"><span>Алгебра</span></a></li>
+<li><a href="/7_english/"><span>Английский язык</span></a></li>
+<li><a href="/7_biology/"><span>Биология</span></a></li>
+<li><a href="/7_hungarian/"><span>Венгерский язык обучения</span></a></li>
+<li><a href="/7_history_vsemirnaya/"><span>Всемирная история</span></a></li>
+<li><a href="/7_geography/"><span>География</span></a></li>
+<li><a href="/7_geometry/"><span>Геометрия</span></a></li>
+<li><a href="/7_informatika/"><span>Информатика</span></a></li>
+<li><a href="/7_iskusstvo/"><span>Искусство</span></a></li>
+<li><a href="/7_spanish/"><span>Испанский язык</span></a></li>
+<li><a href="/7_history_ukraini/"><span>История Украины</span></a></li>
+<li><a href="/7_literatura/"><span>Литература</span></a></li>
+<li><a href="/7_deutsch/"><span>Немецкий язык</span></a></li>
+<li><a href="/7_osnovi_zdor/"><span>Основы здоровья</span></a></li>
+<li><a href="/7_polish/"><span>Польский язык обучения</span></a></li>  
+<li><a href="/7_russkii_yazik/"><span>Русский язык</span></a></li>
+<li><a href="/7_trud/"><span>Трудовое обучение</span></a></li>  
+<li><a href="/7_ukrainskii_yazik/"><span>Украинский язык</span></a></li>
+<li><a href="/7_ukrainskaya_literatura/"><span>Украинская литература</span></a></li>
+<li><a href="/7_french/"><span>Французский язык</span></a></li>
+<li><a href="/7_fizika/"><span>Физика</span></a></li>
+<li><a href="/7_himiya/"><span>Химия</span></a></li>   
+</ul>
+</li>
+<li class='has-sub'>
+<a href='#'><span><i class="fa fa-angle-right"></i>Учебники 8 класс</span></a>
+<ul>
+<li><a href="/8_klass/"><span>Все учебники 8 класс</span></a></li>
+<li><a href="/8klass_new/"><span>!!!Новая программа 8 класс!!!</span></a></li>
+<li><a href="/8_algebra/"><span>Алгебра</span></a></li>
+<li><a href="/8_english/"><span>Английский язык</span></a></li>
+<li><a href="/8_biology/"><span>Биология</span></a></li>
+<li><a href="/8_history_vsemirnaya/"><span>Всемирная история</span></a></li>
+<li><a href="/8_geografy/"><span>География</span></a></li>
+<li><a href="/8_geometriya/"><span>Геометрия</span></a></li>
+<li><a href="/8_informatika/"><span>Информатика</span></a></li> 
+<li><a href="/8_iskusstvo/"><span>Искусство</span></a></li>
+<li><a href="/8_ispanskii/"><span>Испанский язык</span></a></li>
+<li><a href="/8_history_ukraini/"><span>История Украины</span></a></li>
+<li><a href="/8_literatura/"><span>Литература</span></a></li>
+<li><a href="/8_deutsch/"><span>Немецкий язык</span></a></li>
+<li><a href="/8_osnovi_zdor/"><span>Основы здоровья</span></a></li>
+<li><a href="/8_polish/"><span>Польский язык обучения</span></a></li>  
+<li><a href="/8_russkii_yazik/"><span>Русский язык</span></a></li>
+<li><a href="/8_trud/"><span>Трудовое обучение</span></a></li>
+<li><a href="/8_ukr_literatura/"><span>Украинская литература</span></a></li>
+<li><a href="/8_ukr_yazik/"><span>Украинский язык</span></a></li>
+<li><a href="/8_french/"><span>Французский язык</span></a></li>
+<li><a href="/8_fizika/"><span>Физика</span></a></li>
+<li><a href="/8_himiya/"><span>Химия</span></a></li>
+<li><a href="/8_ekonomika/"><span>Экономика</span></a></li>
+</ul>
+</li>
+<li class='has-sub'>
+<a href='#'><span><i class="fa fa-angle-right"></i>Учебники 9 класс</span></a>
+<ul>
+<li><a href="/9_klass/"><span>Все учебники 9 класс</span></a></li>
+<li><a href="/9klass_new/"><span>!!!Новая программа 9 класс!!!</span></a></li>
+<li><a href="/9_algebra/"><span>Алгебра</span></a></li>
+<li><a href="/9_english/"><span>Английский язык</span></a></li>
+<li><a href="/9_biology/"><span>Биология</span></a></li>
+<li><a href="/9_hungarian/"><span>Венгерский язык обучения</span></a></li>
+<li><a href="/9_history_vsemirnaya/"><span>Всемирная история</span></a></li>
+<li><a href="/9_geografy/"><span>География</span></a></li>
+<li><a href="/9_geometriya/"><span>Геометрия</span></a></li>
+<li><a href="/9_other_languages/"><span>Другие языки обучения (для национальных меньшинств)</span></a></li>    
+<li><a href="/9_informatika/"><span>Информатика</span></a></li>
+<li><a href="/9_iskusstvo/"><span>Искусство</span></a></li>
+<li><a href="/9_ispanskii/"><span>Испанский язык</span></a></li>
+<li><a href="/9_history_ukraini/"><span>История Украины</span></a></li>
+<li><a href="/9_kultura/"><span>Культура</span></a></li>
+<li><a href="/9_literatura/"><span>Литература</span></a></li>
+<li><a href="/9_deutsch/"><span>Немецкий язык</span></a></li>
+<li><a href="/9_osnovi_zdor/"><span>Основы здоровья</span></a></li>
+<li><a href="/9_polish/"><span>Польский язык обучения</span></a></li>   
+<li><a href="/9_pravo/"><span>Право</span></a></li>
+<li><a href="/9_romanian/"><span>Румынский язык обучения</span></a></li>    
+<li><a href="/9_russkii_yazik/"><span>Русский язык</span></a></li>
+<li><a href="/9_trud/"><span>Трудовое обучение</span></a></li>
+<li><a href="/9_ukr_literatura/"><span>Украинская литература</span></a></li>
+<li><a href="/9_ukr_yazik/"><span>Украинский язык</span></a></li>                    
+<li><a href="/9_french/"><span>Французский язык</span></a></li>
+<li><a href="/9_fizika/"><span>Физика</span></a></li>
+<li><a href="/9_himiya/"><span>Химия</span></a></li>
+<li><a href="/9_cherchenie/"><span>Черчение</span></a></li>
+</ul>
+</li>
+<li class='has-sub'>
+<a href='#'><span><i class="fa fa-angle-right"></i>Учебники 10 класс</span></a>
+<ul>
+<li><a href="/10_klass/"><span>Все учебники 10 класс</span></a></li>
+<li><a href="/10klass_new/"><span>Новая программа 2018</span></a></li> 
+<li><a href="/10_algebra/"><span>Алгебра</span></a></li>
+<li><a href="/10_english/"><span>Английский язык</span></a></li>
+<li><a href="/10_biology/"><span>Биология</span></a></li>
+<li><a href="/10_hungarian/"><span>Венгерский язык обучения</span></a></li>
+<li><a href="/10_history_vsemirnaya/"><span>Всемирная история</span></a></li>
+<li><a href="/10_geografy/"><span>География</span></a></li>
+<li><a href="/10_geometriya/"><span>Геометрия</span></a></li>
+<li><a href="/10_gromad_osvita/"><span>Громадянська освіта</span></a></li>    
+<li><a href="/10_zarub_literatura/"><span>Зарубежная литература</span></a></li>
+<li><a href="/10_zashita_otechestva/"><span>Защита Отечества</span></a></li>
+<li><a href="/10_informatika/"><span>Информатика</span></a></li>
+<li><a href="/10_iskusstvo/"><span>Искусство</span></a></li>
+<li><a href="/10_ispanskii/"><span>Испанский язык</span></a></li>
+<li><a href="/10_history_ukraini/"><span>История Украины</span></a></li>
+<li><a href="/10_krimskotatarskii/"><span>Крымскотатарский язык обучения</span></a></li>   
+<li><a href="/10_kultura/"><span>Культура</span></a></li>
+<li><a href="/10_matematika/"><span>Математика</span></a></li>   
+<li><a href="/10_deutsch/"><span>Немецкий язык</span></a></li>
+<li><a href="/10_polish/"><span>Польский язык обучения</span></a></li> 
+<li><a href="/10_pravo/"><span>Право</span></a></li>
+<li><a href="/10_russkii_yazik/"><span>Русский язык</span></a></li>
+<li><a href="/10_romanian/"><span>Румынский язык обучения</span></a></li>    
+<li><a href="/10_tehnologii/"><span>Технологии</span></a></li>
+<li><a href="/10_ukr_literatura/"><span>Украинская литература</span></a></li>
+<li><a href="/10_ukr_yazik/"><span>Украинский язык</span></a></li>
+<li><a href="/10_french/"><span>Французский язык</span></a></li>
+<li><a href="/10_fizika/"><span>Физика</span></a></li>
+<li><a href="/10_himiya/"><span>Химия</span></a></li>
+<li><a href="/10_ekologiya/"><span>Экология</span></a></li>
+<li><a href="/10_ekonomika/"><span>Экономика</span></a></li> 
+</ul>
+</li>
+<li class='has-sub'>
+<a href='#'><span><i class="fa fa-angle-right"></i>Учебники 11 класс</span></a>
+<ul>
+<li><a href="/11_klass/"><span>Все учебники 11 класс</span></a></li>
+<li><a href="/11klass_new/"><span>Новая программа 2019</span></a></li> 
+<li><a href="/11_algebra/"><span>Алгебра</span></a></li>
+<li><a href="/11_english/"><span>Английский язык</span></a></li>
+<li><a href="/11_astronomiya/"><span>Астрономия</span></a></li>
+<li><a href="/11_biology/"><span>Биология</span></a></li>
+<li><a href="/11_hungarian/"><span>Венгерский язык обучения</span></a></li>
+<li><a href="/11_history_vsemirnaya/"><span>Всемирная история</span></a></li>
+<li><a href="/11_geografy/"><span>География</span></a></li>
+<li><a href="/11_geometriya/"><span>Геометрия</span></a></li>
+<li><a href="/11_zarub_literatura/"><span>Зарубежная литература</span></a></li>
+<li><a href="/11_zashita_otechestva/"><span>Защита Отечества</span></a></li>
+<li><a href="/11_informatika/"><span>Информатика</span></a></li>
+<li><a href="/11_ispanskii/"><span>Испанский язык</span></a></li>
+<li><a href="/11_history_ukraini/"><span>История Украины</span></a></li>
+<li><a href="/11_kultura/"><span>Культура</span></a></li>
+<li><a href="/11_literatura/"><span>Литература</span></a></li>
+<li><a href="/11_matematika/"><span>Математика</span></a></li>
+<li><a href="/11_deutsch/"><span>Немецкий язык</span></a></li>
+<li><a href="/11_polish/"><span>Польский язык обучения</span></a></li>
+<li><a href="/11_pravo/"><span>Право</span></a></li>
+<li><a href="/11_russkii_yazik/"><span>Русский язык</span></a></li>
+<li><a href="/11_romanian/"><span>Румынский язык обучения</span></a></li>  
+<li><a href="/11_tehnologii/"><span>Технологии</span></a></li>
+<li><a href="/11_ukr_literatura/"><span>Украинская литература</span></a></li>
+<li><a href="/11_ukr_yazik/"><span>Украинский язык</span></a></li>
+<li><a href="/11_french/"><span>Французский язык</span></a></li>
+<li><a href="/11_fizika/"><span>Физика</span></a></li>
+<li><a href="/11_himiya/"><span>Химия</span></a></li>
+<li><a href="/11_chelovek_i_mir/"><span>Человек и мир</span></a></li>                    
+<li><a href="/11_ekologiya/"><span>Экология</span></a></li>
+<li><a href="/11_ekonomika/"><span>Экономика</span></a></li> 
+</ul>
+</li>
+<li class='has-sub'>
+<a href='#'><span><i class="fa fa-angle-right"></i>ДПА 2021</span></a>
+<ul>
+<li ><a href="/dpa2021_4klas/"><span>ДПА для 4 класса 2021</span></a></li>
+<li ><a href="/dpa2021_9klas/"><span>ДПА для 9 класса 2021</span></a></li>
+</ul>
+</li>
+<li class='has-sub'>
+<a href='#'><span><i class="fa fa-angle-right"></i>ДПА 2020</span></a>
+<ul>
+<li ><a href="/dpa2020_4klas/"><span>ДПА для 4 класса 2020</span></a></li>
+<li ><a href="/dpa2020_9klas/"><span>ДПА для 9 класса 2020</span></a></li>
+</ul>
+</li>
+<li class='has-sub'>
+<a href='#'><span><i class="fa fa-angle-right"></i>ДПА 2019</span></a>
+<ul>
+<li ><a href="/dpa2019_4klas/"><span>ДПА для 4 класса 2019</span></a></li>
+<li ><a href="/dpa2019_9klas/"><span>ДПА для 9 класса 2019</span></a></li>
+</ul>
+</li> 
+<li class='has-sub'>
+<a href='#'><span><i class="fa fa-angle-right"></i>ДПА 2018</span></a>
+<ul>
+<li ><a href="/dpa2018_4klas/"><span>ДПА для 4 класса 2018</span></a></li>
+<li ><a href="/dpa2018_9klas/"><span>ДПА для 9 класса 2018</span></a></li>
+</ul>
+</li>  
+ <li class='has-sub'>
+<a href='#'><span><i class="fa fa-angle-right"></i>ДПА 2017</span></a>
+<ul>
+<li><a href="/dpa2017_4klas/"><span>ДПА 4 класс</span></a></li>
+</ul>
+</li>   
+<li class='has-sub'>
+<a href='#'><span><i class="fa fa-angle-right"></i>ДПА 2016</span></a>
+<ul>
+<li ><a href="/dpa2016_4klas/"><span>ДПА 4 класс</span></a></li>
+<li ><a href="/dpa2016_9klas/"><span>ДПА 9 класс</span></a></li>
+<li ><a href="/dpa2016_11klas/"><span>ДПА 11 класс</span></a></li>
+</ul>
+</li>
+<li><a href="/sitemap/"><span><i class="fa fa-angle-right"></i>Карта сайта</span></a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!--
+<div class='hidden-xs hidden-sm'>
+<div class="accordion-in margin-b1">
+
+    <div class="accordion" id="accordion">
+<div class="panel">
+<h4>
+<a class="link">
+<span class="accordion-marker">
+<span class="accordion-close">
+<i class="fa fa-plus">
+</i>
+</span>
+<span class="accordion-open">
+<i class="fa fa-minus">
+</i>
+</span>
+</span>
+
+<span class="title">
+Популярные учебники2
+</span>    
+</a>
+</h4>
+<div class="collapse in">
+<div>
+
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>-->
+   
+</div>
+</div>
+<div class="col-md-9 col-xs-12">
+
+
+<div class="row">
+<div class="col-xs-12">
+<div class="block-main block-main-ocean block-white padding-20">
+<div class="row">
+                              
+
+   
+
+<h2 class="fstory-h1">Новое на сайте</h2>
+<div class="col-lg-3 col-sm-6 col-xs-12"> 
+      <div class="shortstory">
+        <div class="shortstory-images" align="center">
+                    <a href="https://bookforschool.in.ua/3071-vdpovd-rshennja-dpa-2021-z-ukrayinskoyi-lteraturi-dlja-9-klasu-vitvicka.html" title="Відповіді, рішення ДПА 2021 з української літератури для 9 класу Витвицька"><img src="//bookforschool.in.ua/files/books/dpa2021/9_dpa_ukr_lit_vitvicka_pidruchnik_i_posib_2021_vidp.jpg" alt="Відповіді, рішення ДПА 2021 з української літератури для 9 класу Витвицька" /></a>  
+                        </div>    
+                     
+          <div  style="width: 50px; height: 10px;  line-height: 10px;  position: absolute;  top: 7px;  right: 7px;
+  transform:rotate(45deg);  color: #fefefe;  text-align: center;  background: #5682A3;  font-size: 12px;  font-weight:bold;">
+          2021</div>
+          
+          <div class="shortstory-content" align="center">
+            <h3 class="shortstory-link"><a href="https://bookforschool.in.ua/3071-vdpovd-rshennja-dpa-2021-z-ukrayinskoyi-lteraturi-dlja-9-klasu-vitvicka.html">Відповіді, рішення ДПА 2021 з української літератури для 9 класу Витвицька</a></h3>
+            <p></p>
+            
+			Витвицька
+			
+               </div>    
+        <div class="shortstory-bottom">
+            <span class="shortstory-date"><i class="fa fa-eye"></i>160</span>
+            <a href="https://bookforschool.in.ua/3071-vdpovd-rshennja-dpa-2021-z-ukrayinskoyi-lteraturi-dlja-9-klasu-vitvicka.html" class="shortstory-more">Скачать</a>
+        </div>
+    </div>
+</div><div class="col-lg-3 col-sm-6 col-xs-12"> 
+      <div class="shortstory">
+        <div class="shortstory-images" align="center">
+                    <a href="https://bookforschool.in.ua/3070-vdpovd-rshennja-dpa-2021-z-matematiki-dlja-9-klasu-bereznjak.html" title="Відповіді, рішення ДПА 2021 з математики для 9 класу Березняк"><img src="//bookforschool.in.ua/files/books/dpa2021/9_dpa_matem_bereznyak_pidruchnik_i_posib_2021_vidp.jpg" alt="Відповіді, рішення ДПА 2021 з математики для 9 класу Березняк" /></a>  
+                        </div>    
+                     
+          <div  style="width: 50px; height: 10px;  line-height: 10px;  position: absolute;  top: 7px;  right: 7px;
+  transform:rotate(45deg);  color: #fefefe;  text-align: center;  background: #5682A3;  font-size: 12px;  font-weight:bold;">
+          2021</div>
+          
+          <div class="shortstory-content" align="center">
+            <h3 class="shortstory-link"><a href="https://bookforschool.in.ua/3070-vdpovd-rshennja-dpa-2021-z-matematiki-dlja-9-klasu-bereznjak.html">Відповіді, рішення ДПА 2021 з математики для 9 класу Березняк</a></h3>
+            <p></p>
+            
+			Березняк М.В.
+			
+               </div>    
+        <div class="shortstory-bottom">
+            <span class="shortstory-date"><i class="fa fa-eye"></i>145</span>
+            <a href="https://bookforschool.in.ua/3070-vdpovd-rshennja-dpa-2021-z-matematiki-dlja-9-klasu-bereznjak.html" class="shortstory-more">Скачать</a>
+        </div>
+    </div>
+</div><div class="col-lg-3 col-sm-6 col-xs-12"> 
+      <div class="shortstory">
+        <div class="shortstory-images" align="center">
+                    <a href="https://bookforschool.in.ua/3069-vdpovd-rshennja-dpa-2021-z-angljskoyi-movi-dlja-9-klasu-marchenko.html" title="Відповіді, рішення ДПА 2021 з англійської мови для 9 класу Марченко"><img src="//bookforschool.in.ua/files/books/dpa2021/9_dpa_engl_marchenko_pidruchnik_i_posib_2021_vidp.jpg" alt="Відповіді, рішення ДПА 2021 з англійської мови для 9 класу Марченко" /></a>  
+                        </div>    
+                     
+          <div  style="width: 50px; height: 10px;  line-height: 10px;  position: absolute;  top: 7px;  right: 7px;
+  transform:rotate(45deg);  color: #fefefe;  text-align: center;  background: #5682A3;  font-size: 12px;  font-weight:bold;">
+          2021</div>
+          
+          <div class="shortstory-content" align="center">
+            <h3 class="shortstory-link"><a href="https://bookforschool.in.ua/3069-vdpovd-rshennja-dpa-2021-z-angljskoyi-movi-dlja-9-klasu-marchenko.html">Відповіді, рішення ДПА 2021 з англійської мови для 9 класу Марченко</a></h3>
+            <p></p>
+            
+			Марченко А.
+			
+               </div>    
+        <div class="shortstory-bottom">
+            <span class="shortstory-date"><i class="fa fa-eye"></i>150</span>
+            <a href="https://bookforschool.in.ua/3069-vdpovd-rshennja-dpa-2021-z-angljskoyi-movi-dlja-9-klasu-marchenko.html" class="shortstory-more">Скачать</a>
+        </div>
+    </div>
+</div><div class="col-lg-3 col-sm-6 col-xs-12"> 
+      <div class="shortstory">
+        <div class="shortstory-images" align="center">
+                    <a href="https://bookforschool.in.ua/3068-vdpovd-rshennja-dpa-2021-z-geografyi-dlja-9-klasu-kuzinish.html" title="Відповіді, рішення ДПА 2021 з географії для 9 класу Кузиниш"><img src="//bookforschool.in.ua/files/books/dpa2021/9_dpa_geog_kuzinish_2021_pip.jpg" alt="Відповіді, рішення ДПА 2021 з географії для 9 класу Кузиниш" /></a>  
+                        </div>    
+                     
+          <div  style="width: 50px; height: 10px;  line-height: 10px;  position: absolute;  top: 7px;  right: 7px;
+  transform:rotate(45deg);  color: #fefefe;  text-align: center;  background: #5682A3;  font-size: 12px;  font-weight:bold;">
+          2021</div>
+          
+          <div class="shortstory-content" align="center">
+            <h3 class="shortstory-link"><a href="https://bookforschool.in.ua/3068-vdpovd-rshennja-dpa-2021-z-geografyi-dlja-9-klasu-kuzinish.html">Відповіді, рішення ДПА 2021 з географії для 9 класу Кузиниш</a></h3>
+            <p></p>
+            
+			Кузишин А.
+			
+               </div>    
+        <div class="shortstory-bottom">
+            <span class="shortstory-date"><i class="fa fa-eye"></i>104</span>
+            <a href="https://bookforschool.in.ua/3068-vdpovd-rshennja-dpa-2021-z-geografyi-dlja-9-klasu-kuzinish.html" class="shortstory-more">Скачать</a>
+        </div>
+    </div>
+</div><div class="col-lg-3 col-sm-6 col-xs-12"> 
+      <div class="shortstory">
+        <div class="shortstory-images" align="center">
+                    <a href="https://bookforschool.in.ua/3067-vdpovd-rshennja-dpa-2021-z-matematiki-dlja-9-klasu-ster.html" title="Відповіді, рішення ДПА 2021 з математики для 9 класу Істер"><img src="//bookforschool.in.ua/files/books/dpa2021/9_dpa_matem_ister_pidruchnik_i_posib_2021_vidp.jpg" alt="Відповіді, рішення ДПА 2021 з математики для 9 класу Істер" /></a>  
+                        </div>    
+                     
+          <div  style="width: 50px; height: 10px;  line-height: 10px;  position: absolute;  top: 7px;  right: 7px;
+  transform:rotate(45deg);  color: #fefefe;  text-align: center;  background: #5682A3;  font-size: 12px;  font-weight:bold;">
+          2021</div>
+          
+          <div class="shortstory-content" align="center">
+            <h3 class="shortstory-link"><a href="https://bookforschool.in.ua/3067-vdpovd-rshennja-dpa-2021-z-matematiki-dlja-9-klasu-ster.html">Відповіді, рішення ДПА 2021 з математики для 9 класу Істер</a></h3>
+            <p></p>
+            
+			Істер О.С.
+			
+               </div>    
+        <div class="shortstory-bottom">
+            <span class="shortstory-date"><i class="fa fa-eye"></i>190</span>
+            <a href="https://bookforschool.in.ua/3067-vdpovd-rshennja-dpa-2021-z-matematiki-dlja-9-klasu-ster.html" class="shortstory-more">Скачать</a>
+        </div>
+    </div>
+</div><div class="col-lg-3 col-sm-6 col-xs-12"> 
+      <div class="shortstory">
+        <div class="shortstory-images" align="center">
+                    <a href="https://bookforschool.in.ua/3066-vdpovd-rshennja-dpa-2021-z-matematiki-ukrayinskoyi-movi-ta-lteraturnogo-chitannja-sapun-4-klas.html" title="Відповіді, рішення ДПА 2021 з математики, української мови та літературного читання Сапун 4 клас"><img src="//bookforschool.in.ua/files/books/dpa2021/4_dpa_zbirnik_zavdan_sapun_pidruchnik_i_posib_2021_vidp.jpg" alt="Відповіді, рішення ДПА 2021 з математики, української мови та літературного читання Сапун 4 клас" /></a>  
+                        </div>    
+                     
+          <div  style="width: 50px; height: 10px;  line-height: 10px;  position: absolute;  top: 7px;  right: 7px;
+  transform:rotate(45deg);  color: #fefefe;  text-align: center;  background: #5682A3;  font-size: 12px;  font-weight:bold;">
+          2021</div>
+          
+          <div class="shortstory-content" align="center">
+            <h3 class="shortstory-link"><a href="https://bookforschool.in.ua/3066-vdpovd-rshennja-dpa-2021-z-matematiki-ukrayinskoyi-movi-ta-lteraturnogo-chitannja-sapun-4-klas.html">Відповіді, рішення ДПА 2021 з математики, української мови та літературного читання Сапун 4 клас</a></h3>
+            <p></p>
+            
+			Сапун Г.
+			
+               </div>    
+        <div class="shortstory-bottom">
+            <span class="shortstory-date"><i class="fa fa-eye"></i>162</span>
+            <a href="https://bookforschool.in.ua/3066-vdpovd-rshennja-dpa-2021-z-matematiki-ukrayinskoyi-movi-ta-lteraturnogo-chitannja-sapun-4-klas.html" class="shortstory-more">Скачать</a>
+        </div>
+    </div>
+</div><div class="col-lg-3 col-sm-6 col-xs-12"> 
+      <div class="shortstory">
+        <div class="shortstory-images" align="center">
+                    <a href="https://bookforschool.in.ua/3065-vdpovd-rshennja-dpa-2021-z-matematiki-dlja-4-klasu-korchevska.html" title="Відповіді, рішення ДПА 2021 з математики для 4 класу Корчевська"><img src="//bookforschool.in.ua/files/books/dpa2021/4_dpa_m_korchevska_pidruchnik_i_posib_2021_vidp.jpg" alt="Відповіді, рішення ДПА 2021 з математики для 4 класу Корчевська" /></a>  
+                        </div>    
+                     
+          <div  style="width: 50px; height: 10px;  line-height: 10px;  position: absolute;  top: 7px;  right: 7px;
+  transform:rotate(45deg);  color: #fefefe;  text-align: center;  background: #5682A3;  font-size: 12px;  font-weight:bold;">
+          2021</div>
+          
+          <div class="shortstory-content" align="center">
+            <h3 class="shortstory-link"><a href="https://bookforschool.in.ua/3065-vdpovd-rshennja-dpa-2021-z-matematiki-dlja-4-klasu-korchevska.html">Відповіді, рішення ДПА 2021 з математики для 4 класу Корчевська</a></h3>
+            <p></p>
+            
+			Корчевська О.
+			
+               </div>    
+        <div class="shortstory-bottom">
+            <span class="shortstory-date"><i class="fa fa-eye"></i>125</span>
+            <a href="https://bookforschool.in.ua/3065-vdpovd-rshennja-dpa-2021-z-matematiki-dlja-4-klasu-korchevska.html" class="shortstory-more">Скачать</a>
+        </div>
+    </div>
+</div><div class="col-lg-3 col-sm-6 col-xs-12"> 
+      <div class="shortstory">
+        <div class="shortstory-images" align="center">
+                    <a href="https://bookforschool.in.ua/3064-vdpovd-rshennja-dpa-2021-z-ukrayinskoyi-movi-dlja-4-klasu-naumenko.html" title="Відповіді, рішення ДПА 2021 з української мови для 4 класу Науменко"><img src="//bookforschool.in.ua/files/books/dpa2021/4_dpa_um_naumenko_2021_vidp.jpg" alt="Відповіді, рішення ДПА 2021 з української мови для 4 класу Науменко" /></a>  
+                        </div>    
+                     
+          <div  style="width: 50px; height: 10px;  line-height: 10px;  position: absolute;  top: 7px;  right: 7px;
+  transform:rotate(45deg);  color: #fefefe;  text-align: center;  background: #5682A3;  font-size: 12px;  font-weight:bold;">
+          2021</div>
+          
+          <div class="shortstory-content" align="center">
+            <h3 class="shortstory-link"><a href="https://bookforschool.in.ua/3064-vdpovd-rshennja-dpa-2021-z-ukrayinskoyi-movi-dlja-4-klasu-naumenko.html">Відповіді, рішення ДПА 2021 з української мови для 4 класу Науменко</a></h3>
+            <p></p>
+            
+               </div>    
+        <div class="shortstory-bottom">
+            <span class="shortstory-date"><i class="fa fa-eye"></i>120</span>
+            <a href="https://bookforschool.in.ua/3064-vdpovd-rshennja-dpa-2021-z-ukrayinskoyi-movi-dlja-4-klasu-naumenko.html" class="shortstory-more">Скачать</a>
+        </div>
+    </div>
+</div>
+
+    
+
+<h1 class="fstory-h1"><a href="/3klass_new/">Підручники для 3 класу за новою програмою Нова українська школа</a></h1>
+<div class="col-lg-3 col-sm-6 col-xs-12"> 
+      <div class="shortstory">
+        <div class="shortstory-images" align="center">
+                    <a href="https://bookforschool.in.ua/3011-matematika-listopad-3-klas-2-chastina-z-navchannjam-ugorskoju-movoju-nova-ukrayinska-shkola.html" title="Математика Листопад 3 клас 2 частина з навчанням угорською мовою Нова Українська Школа"><img src="//bookforschool.in.ua/files/books/3_klass/3_matematika_ugorska_ch2_listopad_2020.jpg" alt="Математика Листопад 3 клас 2 частина з навчанням угорською мовою Нова Українська Школа" /></a>  
+                        </div>    
+                     
+          <div  style="width: 50px; height: 10px;  line-height: 10px;  position: absolute;  top: 7px;  right: 7px;
+  transform:rotate(45deg);  color: #fefefe;  text-align: center;  background: #5682A3;  font-size: 12px;  font-weight:bold;">
+          2020</div>
+          
+          <div class="shortstory-content" align="center">
+            <h3 class="shortstory-link"><a href="https://bookforschool.in.ua/3011-matematika-listopad-3-klas-2-chastina-z-navchannjam-ugorskoju-movoju-nova-ukrayinska-shkola.html">Математика Листопад 3 клас 2 частина з навчанням угорською мовою Нова Українська Школа</a></h3>
+            <p></p>
+            
+			Листопад Н. П.
+			
+               </div>    
+        <div class="shortstory-bottom">
+            <span class="shortstory-date"><i class="fa fa-eye"></i>123</span>
+            <a href="https://bookforschool.in.ua/3011-matematika-listopad-3-klas-2-chastina-z-navchannjam-ugorskoju-movoju-nova-ukrayinska-shkola.html" class="shortstory-more">Скачать</a>
+        </div>
+    </div>
+</div><div class="col-lg-3 col-sm-6 col-xs-12"> 
+      <div class="shortstory">
+        <div class="shortstory-images" align="center">
+                    <a href="https://bookforschool.in.ua/2941-ukrayinska-mova-ta-chitannja-volkotrub-3-klas-1-chastina-nova-ukrayinska-shkola.html" title="Українська мова та читання Волкотруб 3 клас 1 частина Нова Українська Школа"><img src="//bookforschool.in.ua/files/books/3_klass/3_ukr_mova_ch1_volkotrub_geneza_2020.jpg" alt="Українська мова та читання Волкотруб 3 клас 1 частина Нова Українська Школа" /></a>  
+                        </div>    
+                     
+          <div  style="width: 50px; height: 10px;  line-height: 10px;  position: absolute;  top: 7px;  right: 7px;
+  transform:rotate(45deg);  color: #fefefe;  text-align: center;  background: #5682A3;  font-size: 12px;  font-weight:bold;">
+          2020</div>
+          
+          <div class="shortstory-content" align="center">
+            <h3 class="shortstory-link"><a href="https://bookforschool.in.ua/2941-ukrayinska-mova-ta-chitannja-volkotrub-3-klas-1-chastina-nova-ukrayinska-shkola.html">Українська мова та читання Волкотруб 3 клас 1 частина Нова Українська Школа</a></h3>
+            <p></p>
+            
+			Волкотруб Галина
+			
+               </div>    
+        <div class="shortstory-bottom">
+            <span class="shortstory-date"><i class="fa fa-eye"></i>113</span>
+            <a href="https://bookforschool.in.ua/2941-ukrayinska-mova-ta-chitannja-volkotrub-3-klas-1-chastina-nova-ukrayinska-shkola.html" class="shortstory-more">Скачать</a>
+        </div>
+    </div>
+</div><div class="col-lg-3 col-sm-6 col-xs-12"> 
+      <div class="shortstory">
+        <div class="shortstory-images" align="center">
+                    <a href="https://bookforschool.in.ua/2919-matematika-kozak-3-klas-1-chastina-nova-ukrayinska-shkola.html" title="Математика Козак 3 клас 1 частина Нова Українська Школа"><img src="//bookforschool.in.ua/files/books/3_klass/3_matematika_ch1_kozak_pib_2020.jpg" alt="Математика Козак 3 клас 1 частина Нова Українська Школа" /></a>  
+                        </div>    
+                     
+          <div  style="width: 50px; height: 10px;  line-height: 10px;  position: absolute;  top: 7px;  right: 7px;
+  transform:rotate(45deg);  color: #fefefe;  text-align: center;  background: #5682A3;  font-size: 12px;  font-weight:bold;">
+          2020</div>
+          
+          <div class="shortstory-content" align="center">
+            <h3 class="shortstory-link"><a href="https://bookforschool.in.ua/2919-matematika-kozak-3-klas-1-chastina-nova-ukrayinska-shkola.html">Математика Козак 3 клас 1 частина Нова Українська Школа</a></h3>
+            <p></p>
+            
+			Козак М., Корчевська О.
+			
+               </div>    
+        <div class="shortstory-bottom">
+            <span class="shortstory-date"><i class="fa fa-eye"></i>155</span>
+            <a href="https://bookforschool.in.ua/2919-matematika-kozak-3-klas-1-chastina-nova-ukrayinska-shkola.html" class="shortstory-more">Скачать</a>
+        </div>
+    </div>
+</div><div class="col-lg-3 col-sm-6 col-xs-12"> 
+      <div class="shortstory">
+        <div class="shortstory-images" align="center">
+                    <a href="https://bookforschool.in.ua/2947-ukrayinska-mova-ta-chitannja-vanicja-3-klas-1-chastina-nova-ukrayinska-shkola.html" title="Українська мова та читання Іваниця 3 клас 1 частина Нова Українська Школа"><img src="//bookforschool.in.ua/files/books/3_klass/3_ukr_mova_ch1_ivanucya_ranok_2020.jpg" alt="Українська мова та читання Іваниця 3 клас 1 частина Нова Українська Школа" /></a>  
+                        </div>    
+                     
+          <div  style="width: 50px; height: 10px;  line-height: 10px;  position: absolute;  top: 7px;  right: 7px;
+  transform:rotate(45deg);  color: #fefefe;  text-align: center;  background: #5682A3;  font-size: 12px;  font-weight:bold;">
+          2020</div>
+          
+          <div class="shortstory-content" align="center">
+            <h3 class="shortstory-link"><a href="https://bookforschool.in.ua/2947-ukrayinska-mova-ta-chitannja-vanicja-3-klas-1-chastina-nova-ukrayinska-shkola.html">Українська мова та читання Іваниця 3 клас 1 частина Нова Українська Школа</a></h3>
+            <p></p>
+            
+			Іваниця Г. А.
+			
+               </div>    
+        <div class="shortstory-bottom">
+            <span class="shortstory-date"><i class="fa fa-eye"></i>130</span>
+            <a href="https://bookforschool.in.ua/2947-ukrayinska-mova-ta-chitannja-vanicja-3-klas-1-chastina-nova-ukrayinska-shkola.html" class="shortstory-more">Скачать</a>
+        </div>
+    </div>
+</div><div class="col-lg-3 col-sm-6 col-xs-12"> 
+      <div class="shortstory">
+        <div class="shortstory-images" align="center">
+                    <a href="https://bookforschool.in.ua/3007-ja-dosldzhuju-svt-glberg-3-klas-z-navchannjam-ugorskoju-movoju-2-chastina-nova-ukrayinska-shkola.html" title="Я досліджую світ Гільберг 3 клас з навчанням угорською мовою 2 частина Нова Українська Школа"><img src="//bookforschool.in.ua/files/books/3_klass/3_ya_doslidjuy_ugorska_gilberg_2020_ch2.jpg" alt="Я досліджую світ Гільберг 3 клас з навчанням угорською мовою 2 частина Нова Українська Школа" /></a>  
+                        </div>    
+                     
+          <div  style="width: 50px; height: 10px;  line-height: 10px;  position: absolute;  top: 7px;  right: 7px;
+  transform:rotate(45deg);  color: #fefefe;  text-align: center;  background: #5682A3;  font-size: 12px;  font-weight:bold;">
+          2020</div>
+          
+          <div class="shortstory-content" align="center">
+            <h3 class="shortstory-link"><a href="https://bookforschool.in.ua/3007-ja-dosldzhuju-svt-glberg-3-klas-z-navchannjam-ugorskoju-movoju-2-chastina-nova-ukrayinska-shkola.html">Я досліджую світ Гільберг 3 клас з навчанням угорською мовою 2 частина Нова Українська Школа</a></h3>
+            <p></p>
+            
+			Гільберт Т. Г., Тарнавська С. С., Грубіян Л. В.. Павич Н. М.
+			
+               </div>    
+        <div class="shortstory-bottom">
+            <span class="shortstory-date"><i class="fa fa-eye"></i>201</span>
+            <a href="https://bookforschool.in.ua/3007-ja-dosldzhuju-svt-glberg-3-klas-z-navchannjam-ugorskoju-movoju-2-chastina-nova-ukrayinska-shkola.html" class="shortstory-more">Скачать</a>
+        </div>
+    </div>
+</div><div class="col-lg-3 col-sm-6 col-xs-12"> 
+      <div class="shortstory">
+        <div class="shortstory-images" align="center">
+                    <a href="https://bookforschool.in.ua/2926-ukrayinska-mova-ta-chitannja-vashulenko-3-klas-2-chastina-nova-ukrayinska-shkola.html" title="Українська мова та читання Вашуленко 3 клас 2 частина Нова Українська Школа"><img src="//bookforschool.in.ua/files/books/3_klass/3_ukr_mova_chitannya_ch2_vashulenko_2020.jpg" alt="Українська мова та читання Вашуленко 3 клас 2 частина Нова Українська Школа" /></a>  
+                        </div>    
+                     
+          <div  style="width: 50px; height: 10px;  line-height: 10px;  position: absolute;  top: 7px;  right: 7px;
+  transform:rotate(45deg);  color: #fefefe;  text-align: center;  background: #5682A3;  font-size: 12px;  font-weight:bold;">
+          2020</div>
+          
+          <div class="shortstory-content" align="center">
+            <h3 class="shortstory-link"><a href="https://bookforschool.in.ua/2926-ukrayinska-mova-ta-chitannja-vashulenko-3-klas-2-chastina-nova-ukrayinska-shkola.html">Українська мова та читання Вашуленко 3 клас 2 частина Нова Українська Школа</a></h3>
+            <p></p>
+            
+			Вашуленко О. В.
+			
+               </div>    
+        <div class="shortstory-bottom">
+            <span class="shortstory-date"><i class="fa fa-eye"></i>125</span>
+            <a href="https://bookforschool.in.ua/2926-ukrayinska-mova-ta-chitannja-vashulenko-3-klas-2-chastina-nova-ukrayinska-shkola.html" class="shortstory-more">Скачать</a>
+        </div>
+    </div>
+</div><div class="col-lg-3 col-sm-6 col-xs-12"> 
+      <div class="shortstory">
+        <div class="shortstory-images" align="center">
+                    <a href="https://bookforschool.in.ua/2990-angljska-mova-puhta-3-klas-nova-ukrayinska-shkola.html" title="Англійська мова Пухта 3 клас Нова Українська Школа"><img src="//bookforschool.in.ua/files/books/3_klass/3_english_puhta_2020.jpg" alt="Англійська мова Пухта 3 клас Нова Українська Школа" /></a>  
+                        </div>    
+                     
+          <div  style="width: 50px; height: 10px;  line-height: 10px;  position: absolute;  top: 7px;  right: 7px;
+  transform:rotate(45deg);  color: #fefefe;  text-align: center;  background: #5682A3;  font-size: 12px;  font-weight:bold;">
+          2020</div>
+          
+          <div class="shortstory-content" align="center">
+            <h3 class="shortstory-link"><a href="https://bookforschool.in.ua/2990-angljska-mova-puhta-3-klas-nova-ukrayinska-shkola.html">Англійська мова Пухта 3 клас Нова Українська Школа</a></h3>
+            <p></p>
+            
+			Герберт Пухта, Ґюнтер Ґернґрос, Пітер Льюіс-Джонс
+			
+               </div>    
+        <div class="shortstory-bottom">
+            <span class="shortstory-date"><i class="fa fa-eye"></i>1 621</span>
+            <a href="https://bookforschool.in.ua/2990-angljska-mova-puhta-3-klas-nova-ukrayinska-shkola.html" class="shortstory-more">Скачать</a>
+        </div>
+    </div>
+</div><div class="col-lg-3 col-sm-6 col-xs-12"> 
+      <div class="shortstory">
+        <div class="shortstory-images" align="center">
+                    <a href="https://bookforschool.in.ua/3015-matematika-listopad-3-klas-2-chastina-z-navchannjam-rosjskoju-movoju-nova-ukrayinska-shkola.html" title="Математика Листопад 3 клас 2 частина з навчанням російською мовою Нова Українська Школа"><img src="//bookforschool.in.ua/files/books/3_klass/3_matematika_rus_ch2_listopad_2020.jpg" alt="Математика Листопад 3 клас 2 частина з навчанням російською мовою Нова Українська Школа" /></a>  
+                        </div>    
+                     
+          <div  style="width: 50px; height: 10px;  line-height: 10px;  position: absolute;  top: 7px;  right: 7px;
+  transform:rotate(45deg);  color: #fefefe;  text-align: center;  background: #5682A3;  font-size: 12px;  font-weight:bold;">
+          2020</div>
+          
+          <div class="shortstory-content" align="center">
+            <h3 class="shortstory-link"><a href="https://bookforschool.in.ua/3015-matematika-listopad-3-klas-2-chastina-z-navchannjam-rosjskoju-movoju-nova-ukrayinska-shkola.html">Математика Листопад 3 клас 2 частина з навчанням російською мовою Нова Українська Школа</a></h3>
+            <p></p>
+            
+			Листопад Н. П.
+			
+               </div>    
+        <div class="shortstory-bottom">
+            <span class="shortstory-date"><i class="fa fa-eye"></i>230</span>
+            <a href="https://bookforschool.in.ua/3015-matematika-listopad-3-klas-2-chastina-z-navchannjam-rosjskoju-movoju-nova-ukrayinska-shkola.html" class="shortstory-more">Скачать</a>
+        </div>
+    </div>
+</div>
+
+    
+
+<h2 class="fstory-h1">Популярные публикации</h2>
+<div class="col-lg-3 col-sm-6 col-xs-12"> 
+      <div class="shortstory">
+        <div class="shortstory-images" align="center">
+                    <a href="https://bookforschool.in.ua/1501-otvety-solutions-second-edition-elementary-workbook-answers.html" title="Ответы Solutions (Second Edition) Elementary Workbook Answers"><img src="//bookforschool.in.ua/files/solutions/el-wb.JPG" alt="Ответы Solutions (Second Edition) Elementary Workbook Answers" /></a>  
+                        </div>    
+                     
+          <div  style="width: 50px; height: 10px;  line-height: 10px;  position: absolute;  top: 7px;  right: 7px;
+  transform:rotate(45deg);  color: #fefefe;  text-align: center;  background: #5682A3;  font-size: 12px;  font-weight:bold;">
+          2012</div>
+          
+          <div class="shortstory-content" align="center">
+            <h3 class="shortstory-link"><a href="https://bookforschool.in.ua/1501-otvety-solutions-second-edition-elementary-workbook-answers.html">Ответы Solutions (Second Edition) Elementary Workbook Answers</a></h3>
+            <p></p>
+            
+			Тим Фалла, Пол А Дэвис
+			
+               </div>    
+        <div class="shortstory-bottom">
+            <span class="shortstory-date"><i class="fa fa-eye"></i>149 217</span>
+            <a href="https://bookforschool.in.ua/1501-otvety-solutions-second-edition-elementary-workbook-answers.html" class="shortstory-more">Скачать</a>
+        </div>
+    </div>
+</div><div class="col-lg-3 col-sm-6 col-xs-12"> 
+      <div class="shortstory">
+        <div class="shortstory-images" align="center">
+                    <a href="https://bookforschool.in.ua/1499-otvety-solutions-second-edition-intermediate-workbook-answers.html" title="Ответы Solutions (Second Edition) Intermediate Workbook Answers"><img src="//bookforschool.in.ua/files/solutions/int-wb.JPG" alt="Ответы Solutions (Second Edition) Intermediate Workbook Answers" /></a>  
+                        </div>    
+                     
+          <div  style="width: 50px; height: 10px;  line-height: 10px;  position: absolute;  top: 7px;  right: 7px;
+  transform:rotate(45deg);  color: #fefefe;  text-align: center;  background: #5682A3;  font-size: 12px;  font-weight:bold;">
+          2012</div>
+          
+          <div class="shortstory-content" align="center">
+            <h3 class="shortstory-link"><a href="https://bookforschool.in.ua/1499-otvety-solutions-second-edition-intermediate-workbook-answers.html">Ответы Solutions (Second Edition) Intermediate Workbook Answers</a></h3>
+            <p></p>
+            
+			Тим Фалла, Пол А Дэвис
+			
+               </div>    
+        <div class="shortstory-bottom">
+            <span class="shortstory-date"><i class="fa fa-eye"></i>100 410</span>
+            <a href="https://bookforschool.in.ua/1499-otvety-solutions-second-edition-intermediate-workbook-answers.html" class="shortstory-more">Скачать</a>
+        </div>
+    </div>
+</div><div class="col-lg-3 col-sm-6 col-xs-12"> 
+      <div class="shortstory">
+        <div class="shortstory-images" align="center">
+                    <a href="https://bookforschool.in.ua/1500-otvety-solutions-second-edition-pre-intermediate-workbook-answers.html" title="Ответы Solutions (Second Edition) Pre-Intermediate Workbook Answers"><img src="//bookforschool.in.ua/files/solutions/pre-int-wb.JPG" alt="Ответы Solutions (Second Edition) Pre-Intermediate Workbook Answers" /></a>  
+                        </div>    
+                     
+          <div  style="width: 50px; height: 10px;  line-height: 10px;  position: absolute;  top: 7px;  right: 7px;
+  transform:rotate(45deg);  color: #fefefe;  text-align: center;  background: #5682A3;  font-size: 12px;  font-weight:bold;">
+          2012</div>
+          
+          <div class="shortstory-content" align="center">
+            <h3 class="shortstory-link"><a href="https://bookforschool.in.ua/1500-otvety-solutions-second-edition-pre-intermediate-workbook-answers.html">Ответы Solutions (Second Edition) Pre-Intermediate Workbook Answers</a></h3>
+            <p></p>
+            
+			Тим Фалла, Пол А Дэвис
+			
+               </div>    
+        <div class="shortstory-bottom">
+            <span class="shortstory-date"><i class="fa fa-eye"></i>82 014</span>
+            <a href="https://bookforschool.in.ua/1500-otvety-solutions-second-edition-pre-intermediate-workbook-answers.html" class="shortstory-more">Скачать</a>
+        </div>
+    </div>
+</div><div class="col-lg-3 col-sm-6 col-xs-12"> 
+      <div class="shortstory">
+        <div class="shortstory-images" align="center">
+                    <a href="https://bookforschool.in.ua/52-anglyska-mova-6-klas.html" title="Англійська мова 6 клас Карп&#039;юк"><img src="//bookforschool.in.ua/files/books/6_klass/6_am_kar_ua_2014.jpg" alt="Англійська мова 6 клас Карп&#039;юк" /></a>  
+                        </div>    
+                     
+          <div  style="width: 50px; height: 10px;  line-height: 10px;  position: absolute;  top: 7px;  right: 7px;
+  transform:rotate(45deg);  color: #fefefe;  text-align: center;  background: #5682A3;  font-size: 12px;  font-weight:bold;">
+          2014</div>
+          
+          <div class="shortstory-content" align="center">
+            <h3 class="shortstory-link"><a href="https://bookforschool.in.ua/52-anglyska-mova-6-klas.html">Англійська мова 6 клас Карп&#039;юк</a></h3>
+            <p></p>
+            
+			О. Карп'юк
+			
+               </div>    
+        <div class="shortstory-bottom">
+            <span class="shortstory-date"><i class="fa fa-eye"></i>74 148</span>
+            <a href="https://bookforschool.in.ua/52-anglyska-mova-6-klas.html" class="shortstory-more">Скачать</a>
+        </div>
+    </div>
+</div><div class="col-lg-3 col-sm-6 col-xs-12"> 
+      <div class="shortstory">
+        <div class="shortstory-images" align="center">
+                    <a href="https://bookforschool.in.ua/948-solutions-second-edition-elementary-students-book.html" title="Solutions (Second Edition) Elementary. Student&#039;s Book"><img src="//bookforschool.in.ua/files/solutions/el-sb.JPG" alt="Solutions (Second Edition) Elementary. Student&#039;s Book" /></a>  
+                        </div>    
+                     
+          <div  style="width: 50px; height: 10px;  line-height: 10px;  position: absolute;  top: 7px;  right: 7px;
+  transform:rotate(45deg);  color: #fefefe;  text-align: center;  background: #5682A3;  font-size: 12px;  font-weight:bold;">
+          2012</div>
+          
+          <div class="shortstory-content" align="center">
+            <h3 class="shortstory-link"><a href="https://bookforschool.in.ua/948-solutions-second-edition-elementary-students-book.html">Solutions (Second Edition) Elementary. Student&#039;s Book</a></h3>
+            <p></p>
+            
+			Тим Фалла, Пол А Дэвис
+			
+               </div>    
+        <div class="shortstory-bottom">
+            <span class="shortstory-date"><i class="fa fa-eye"></i>53 480</span>
+            <a href="https://bookforschool.in.ua/948-solutions-second-edition-elementary-students-book.html" class="shortstory-more">Скачать</a>
+        </div>
+    </div>
+</div><div class="col-lg-3 col-sm-6 col-xs-12"> 
+      <div class="shortstory">
+        <div class="shortstory-images" align="center">
+                    <a href="https://bookforschool.in.ua/2785-otvety-solutions-third-edition-elementary-workbook-answers.html" title="Ответы Solutions (Third Edition) Elementary Workbook Answers"><img src="/files/solutions/3ed_el-wb.JPG" alt="Ответы Solutions (Third Edition) Elementary Workbook Answers" /></a>  
+                        </div>    
+                     
+          <div  style="width: 50px; height: 10px;  line-height: 10px;  position: absolute;  top: 7px;  right: 7px;
+  transform:rotate(45deg);  color: #fefefe;  text-align: center;  background: #5682A3;  font-size: 12px;  font-weight:bold;">
+          2017</div>
+          
+          <div class="shortstory-content" align="center">
+            <h3 class="shortstory-link"><a href="https://bookforschool.in.ua/2785-otvety-solutions-third-edition-elementary-workbook-answers.html">Ответы Solutions (Third Edition) Elementary Workbook Answers</a></h3>
+            <p></p>
+            
+			Tim Falla, Paul A Davies
+			
+               </div>    
+        <div class="shortstory-bottom">
+            <span class="shortstory-date"><i class="fa fa-eye"></i>44 583</span>
+            <a href="https://bookforschool.in.ua/2785-otvety-solutions-third-edition-elementary-workbook-answers.html" class="shortstory-more">Скачать</a>
+        </div>
+    </div>
+</div><div class="col-lg-3 col-sm-6 col-xs-12"> 
+      <div class="shortstory">
+        <div class="shortstory-images" align="center">
+                    <a href="https://bookforschool.in.ua/2786-otvety-solutions-third-edition-pre-intermediate-workbook-answers.html" title="Ответы Solutions (Third Edition) Pre-Intermediate Workbook Answers"><img src="/files/solutions/3ed_pre-int-wb.JPG" alt="Ответы Solutions (Third Edition) Pre-Intermediate Workbook Answers" /></a>  
+                        </div>    
+                     
+          <div  style="width: 50px; height: 10px;  line-height: 10px;  position: absolute;  top: 7px;  right: 7px;
+  transform:rotate(45deg);  color: #fefefe;  text-align: center;  background: #5682A3;  font-size: 12px;  font-weight:bold;">
+          2017</div>
+          
+          <div class="shortstory-content" align="center">
+            <h3 class="shortstory-link"><a href="https://bookforschool.in.ua/2786-otvety-solutions-third-edition-pre-intermediate-workbook-answers.html">Ответы Solutions (Third Edition) Pre-Intermediate Workbook Answers</a></h3>
+            <p></p>
+            
+			Tim Falla, Paul A Davies
+			
+               </div>    
+        <div class="shortstory-bottom">
+            <span class="shortstory-date"><i class="fa fa-eye"></i>39 924</span>
+            <a href="https://bookforschool.in.ua/2786-otvety-solutions-third-edition-pre-intermediate-workbook-answers.html" class="shortstory-more">Скачать</a>
+        </div>
+    </div>
+</div><div class="col-lg-3 col-sm-6 col-xs-12"> 
+      <div class="shortstory">
+        <div class="shortstory-images" align="center">
+                    <a href="https://bookforschool.in.ua/946-solutions-second-edition-pre-intermediate-students-book.html" title="Solutions (Second Edition) Pre-Intermediate. Student&#039;s Book"><img src="//bookforschool.in.ua/files/solutions/pre-int-sb.JPG" alt="Solutions (Second Edition) Pre-Intermediate. Student&#039;s Book" /></a>  
+                        </div>    
+                     
+          <div  style="width: 50px; height: 10px;  line-height: 10px;  position: absolute;  top: 7px;  right: 7px;
+  transform:rotate(45deg);  color: #fefefe;  text-align: center;  background: #5682A3;  font-size: 12px;  font-weight:bold;">
+          2012</div>
+          
+          <div class="shortstory-content" align="center">
+            <h3 class="shortstory-link"><a href="https://bookforschool.in.ua/946-solutions-second-edition-pre-intermediate-students-book.html">Solutions (Second Edition) Pre-Intermediate. Student&#039;s Book</a></h3>
+            <p></p>
+            
+			Тим Фалла, Пол А Дэвис
+			
+               </div>    
+        <div class="shortstory-bottom">
+            <span class="shortstory-date"><i class="fa fa-eye"></i>39 269</span>
+            <a href="https://bookforschool.in.ua/946-solutions-second-edition-pre-intermediate-students-book.html" class="shortstory-more">Скачать</a>
+        </div>
+    </div>
+</div>
+
+    
+
+<div class="clr"></div>
+<div class="pages"></div>
+<div class="clearfix">
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="footer">
+<div class="container">
+<div class="row">
+<div class="col-md-3 col-xs-12">
+<p class="footer-description">
+<img src="/templates/booknew/images/logo.png" class="footer-logo" alt="Учебники для школы - bookforschool.in.ua" />
+</p>
+</div>
+<div class="col-md-3 col-xs-12">
+<ul class="count">
+<li>
+   <!--LiveInternet counter--><script defer type="text/javascript"><!--
+document.write("<a href='//www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t11.11;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet: показане число переглядів за 24"+
+" години, відвідувачів за 24 години й за сьогодні' "+
+"border='0' width='88' height='31'><\/a>")
+//--></script><!--/LiveInternet-->
+    <!-- Yandex.Metrika counter --> <script type="text/javascript" > (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)}; m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)}) (window, document, "script", "https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js", "ym"); ym(57695473, "init", { clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true, trackHash:true }); </script> 
+    <!-- /Yandex.Metrika counter -->
+</li>
+</ul>													
+</div>
+</div>
+</div>
+<div id="copirating">
+<div class="container">
+<p class="copirating">
+<i class="fa fa-copyright fa-lg">
+</i>
+Администрация Bookforschool не несет ответственности за предоставленные материалы на сайте. Вся информация, размещенная на сайте получена из открытых источников и не предусмотрена для коммерческого использования.
+Использование материалов сайта разрешено только при наличии активной гиперссылки на источник.
+</p>
+</div>
+</div>
+</div>
+<script>
+<!--
+var dle_root       = '/';
+var dle_admin      = '';
+var dle_login_hash = '65da7247a1df71b6a3f24b5d834b2ba7f063cf72';
+var dle_group      = 5;
+var dle_skin       = 'booknew';
+var dle_wysiwyg    = '0';
+var quick_wysiwyg  = '2';
+var dle_min_search = '4';
+var dle_act_lang   = ["Да", "Нет", "Ввод", "Отмена", "Сохранить", "Удалить", "Загрузка. Пожалуйста, подождите..."];
+var menu_short     = 'Быстрое редактирование';
+var menu_full      = 'Полное редактирование';
+var menu_profile   = 'Просмотр профиля';
+var menu_send      = 'Отправить сообщение';
+var menu_uedit     = 'Админцентр';
+var dle_info       = 'Информация';
+var dle_confirm    = 'Подтверждение';
+var dle_prompt     = 'Ввод информации';
+var dle_req_field  = 'Заполните все необходимые поля';
+var dle_del_agree  = 'Вы действительно хотите удалить? Данное действие невозможно будет отменить';
+var dle_spam_agree = 'Вы действительно хотите отметить пользователя как спамера? Это приведёт к удалению всех его комментариев';
+var dle_c_title    = 'Отправка жалобы';
+var dle_complaint  = 'Укажите текст Вашей жалобы для администрации:';
+var dle_mail       = 'Ваш e-mail:';
+var dle_big_text   = 'Выделен слишком большой участок текста.';
+var dle_orfo_title = 'Укажите комментарий для администрации к найденной ошибке на странице:';
+var dle_p_send     = 'Отправить';
+var dle_p_send_ok  = 'Уведомление успешно отправлено';
+var dle_save_ok    = 'Изменения успешно сохранены. Обновить страницу?';
+var dle_reply_title= 'Ответ на комментарий';
+var dle_tree_comm  = '0';
+var dle_del_news   = 'Удалить статью';
+var dle_sub_agree  = 'Вы действительно хотите подписаться на комментарии к данной публикации?';
+var dle_captcha_type  = '0';
+var allow_dle_delete_news   = false;
+var dle_search_delay   = false;
+var dle_search_value   = '';
+jQuery(function($){
+FastSearch();
+});
+//-->
+</script>
+<link href="/engine/classes/min/index.php?f=engine/editor/css/default.css&amp;v=27" rel="stylesheet" type="text/css">
+<script src="/engine/classes/min/index.php?g=general&amp;v=27"></script>
+<script src="/engine/classes/min/index.php?f=engine/classes/js/jqueryui.js,engine/classes/js/dle_js.js&amp;v=27" defer></script> 
+<script src="/templates/booknew/js/tabs.js"></script>
+<script async type="text/javascript" src="/templates/booknew/js/bootstrap.min.js"></script> 
+<script async type="text/javascript" src="/templates/booknew/js/libs.js"></script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-58239909-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-58239909-1');
+</script>
+
+<script defer type="text/javascript">
+			$(document).ready(function () {
+			$('#cssmenu li.has-sub > a').on('click', function(){
+			$(this).removeAttr('href');
+			var element = $(this).parent('li');
+			if (element.hasClass('open')) {
+			 element.removeClass('open');
+			 element.find('li').removeClass('open');
+			 element.find('ul').slideUp();
+			}
+			else {
+			 element.addClass('open');
+			 element.children('ul').slideDown();
+			 element.siblings('li').children('ul').slideUp();
+			 element.siblings('li').removeClass('open');
+			 element.siblings('li').find('li').removeClass('open');
+			 element.siblings('li').find('ul').slideUp();
+			}
+			});
+			
+			$('#cssmenu>ul>li.has-sub>a').append('<span class="holder"></span>');
+			});
+</script>
+  
+<script defer type="text/javascript" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <script type="text/javascript">
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-9914840195789841",
+    enable_page_level_ads: true
+  });
+</script>
+       
+</body>
+<!-- DataLife Engine Copyright SoftNews Media Group (http://dle-news.ru) -->
